@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>Calc Guide</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20160129T123544Z" creationid="luke" creationdate="20160129T123544Z">
+        <seg>Guida a Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice 3.4 Calc Guide</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20160129T123530Z" creationid="luke" creationdate="20160129T123530Z">
+        <seg>LibreOffice 3.4 Guida a Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using Spreadsheets in LibreOffice</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20160129T123600Z" creationid="luke" creationdate="20160129T123600Z">
+        <seg>Utilizzo dei fogli elettronici in LibreOffice</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
