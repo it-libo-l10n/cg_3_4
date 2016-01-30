@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>64</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160130T084942Z" creationid="briga" creationdate="20160130T084942Z">
+        <seg>64</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv lang="EN">
         <seg>All trademarks within this guide belong to their legitimate owners.</seg>
@@ -22,10 +30,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chapter 1 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160130T084922Z" creationid="briga" creationdate="20160130T084922Z">
+        <seg>Chapter 1 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160130T085649Z" creationid="briga" creationdate="20160130T085649Z">
+        <seg>Copyright</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice 3.4 Calc Guide</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20160129T123530Z" creationid="luke" creationdate="20160129T123530Z">
         <seg>LibreOffice 3.4 Guida a Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice 3.4&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160130T084023Z" creationid="briga" creationdate="20160130T084023Z">
+        <seg>LibreOffice 3.4&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that Chapter 8, &lt;f3&gt;Using the DataPilot&lt;/f3&gt;, is licensed under the &lt;a4&gt;Creative Commons Attribution-Share Alike License&lt;/a4&gt;, version 3.0.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160130T084734Z" creationid="briga" creationdate="20160130T084734Z">
+        <seg>Note that Chapter 8, &lt;f3&gt;Using the DataPilot&lt;/f3&gt;, is licensed under the &lt;a4&gt;Creative Commons Attribution-Share Alike License&lt;/a4&gt;, version 3.0.</seg>
       </tuv>
     </tu>
     <tu>
