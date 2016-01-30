@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.3_0_r7969:7974" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -38,10 +38,58 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>15</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160130T211811Z" creationid="briga" creationdate="20160130T211811Z">
+        <seg>15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>16</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160130T211822Z" creationid="briga" creationdate="20160130T211822Z">
+        <seg>16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090504Z" creationid="briga" creationdate="20160130T090504Z">
         <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>24</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160130T211906Z" creationid="briga" creationdate="20160130T211906Z">
+        <seg>24</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>26</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160130T211934Z" creationid="briga" creationdate="20160130T211934Z">
+        <seg>26</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>28</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160130T211955Z" creationid="briga" creationdate="20160130T211955Z">
+        <seg>28</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>30</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160130T212027Z" creationid="briga" creationdate="20160130T212027Z">
+        <seg>30</seg>
       </tuv>
     </tu>
     <tu>
@@ -144,8 +192,8 @@
       <tuv lang="EN">
         <seg>Chapter 1 &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160130T084922Z" creationid="briga" creationdate="20160130T084922Z">
-        <seg>Chapter 1 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160130T211749Z" creationid="briga" creationdate="20160130T084922Z">
+        <seg>Capitolo 1 &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -222,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Introducing Calc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160130T211755Z" creationid="briga" creationdate="20160130T211755Z">
+        <seg>Introduzione a Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jean Hollis Weber</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090305Z" creationid="briga" creationdate="20160130T090305Z">
@@ -238,10 +294,10 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Klaus-Jürgen Weghorn &lt;br0/&gt;</seg>
+        <seg>Klaus-Jürgen Weghorn &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090309Z" creationid="briga" creationdate="20160130T090309Z">
-        <seg>Klaus-Jürgen Weghorn &lt;br0/&gt;</seg>
+        <seg>Klaus-Jürgen Weghorn &lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -262,10 +318,50 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Navigating within spreadsheets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160130T212030Z" creationid="briga" creationdate="20160130T212030Z">
+        <seg>Navigare nei fogli elettronici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that Chapter 8, &lt;f3&gt;Using the DataPilot&lt;/f3&gt;, is licensed under the &lt;a4&gt;Creative Commons Attribution-Share Alike License&lt;/a4&gt;, version 3.0.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T084734Z" creationid="briga" creationdate="20160130T084734Z">
         <seg>Note that Chapter 8, &lt;f3&gt;Using the DataPilot&lt;/f3&gt;, is licensed under the &lt;a4&gt;Creative Commons Attribution-Share Alike License&lt;/a4&gt;, version 3.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opening CSV files</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160130T211937Z" creationid="briga" creationdate="20160130T211937Z">
+        <seg>Apertura di un file CSV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opening existing spreadsheets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160130T211933Z" creationid="briga" creationdate="20160130T211933Z">
+        <seg>Apertura di fogli di lavoro esistenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Parts of the main Calc window</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160130T211829Z" creationid="briga" creationdate="20160130T211829Z">
+        <seg>Componenti della finestra principale di Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Password protection</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160130T212026Z" creationid="briga" creationdate="20160130T212026Z">
+        <seg>Protezione con password</seg>
       </tuv>
     </tu>
     <tu>
@@ -302,10 +398,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Saving spreadsheets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160130T212023Z" creationid="briga" creationdate="20160130T211954Z">
+        <seg>Salvataggio di fogli di lavoro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Simon Brydon</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090305Z" creationid="briga" creationdate="20160130T090305Z">
         <seg>Simon Brydon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spreadsheets, sheets, and cells</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160130T211824Z" creationid="briga" creationdate="20160130T211824Z">
+        <seg>Fogli elettronici, fogli e celle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Starting new spreadsheets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160130T211904Z" creationid="briga" creationdate="20160130T211904Z">
+        <seg>Apertura di nuovi fogli di lavoro</seg>
       </tuv>
     </tu>
     <tu>
@@ -338,6 +458,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090523Z" creationid="briga" creationdate="20160130T090523Z">
         <seg>Termini utilizzati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What is Calc?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160130T211821Z" creationid="briga" creationdate="20160130T211821Z">
+        <seg>Cosa è Calc?</seg>
       </tuv>
     </tu>
     <tu>
