@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>1 = Tabbed page (not strictly speaking a control)&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084353Z" creationid="briga" creationdate="20160210T084353Z">
+        <seg>1 = Pagina a schede (strettamente parlando non si tratta di un controllo)&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>10</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090511Z" creationid="briga" creationdate="20160130T090511Z">
@@ -382,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>2 = Radio buttons (only one can be selected at a time)&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084354Z" creationid="briga" creationdate="20160210T084354Z">
+        <seg>2 = Pulsanti Radio (permettono una singola scelta esclusiva)&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>200</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095442Z" creationid="briga" creationdate="20160205T095442Z">
@@ -702,6 +718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>3 = Checkbox (more than one can be selected at a time)&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084356Z" creationid="briga" creationdate="20160210T084356Z">
+        <seg>3 = Casella di controllo (permette scelte multiple)&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>30</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T212027Z" creationid="briga" creationdate="20160130T212027Z">
@@ -1006,6 +1030,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>4 = Spin box (click the up and down arrows to change the number shown in the text box next to it, or type in the text box)&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084357Z" creationid="briga" creationdate="20160210T084357Z">
+        <seg>4 = Casella numerica (fate clic sulle frecce su e giù per modificare il numero mostrato nella casella di testo adiacente, oppure digitate nella casella di testo)&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>400</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T101853Z" creationid="briga" creationdate="20160208T101853Z">
@@ -1042,6 +1074,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T212245Z" creationid="briga" creationdate="20160130T212245Z">
         <seg>49</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5 = Thumbnail or preview&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084358Z" creationid="briga" creationdate="20160210T084358Z">
+        <seg>5 = Miniatura o anteprima&lt;br6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1086,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>6 = Drop-down list from which to select an item&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084359Z" creationid="briga" creationdate="20160210T084359Z">
+        <seg>6 = Menu a tendina dal quale selezionare una voce&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>64</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T084942Z" creationid="briga" creationdate="20160130T084942Z">
@@ -1106,6 +1154,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T101346Z" creationid="briga" creationdate="20160202T101346Z">
         <seg>67</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>7 = Push buttons</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084359Z" creationid="briga" creationdate="20160210T084359Z">
+        <seg>7 = Pulsanti</seg>
       </tuv>
     </tu>
     <tu>
@@ -1198,10 +1254,114 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;http://www.libreoffice.org/get-help/documentation/&lt;/f2&gt;&lt;/a1&gt;&lt;f3&gt;&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T083907Z" creationid="briga" creationdate="20160210T083907Z">
+        <seg>&lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;http://it.libreoffice.org/supporto/documentazione/&lt;/f2&gt;&lt;/a1&gt;&lt;f3&gt;&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;http://wiki.documentfoundation.org/Local_Mailing_Lists&lt;/f3&gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084103Z" creationid="briga" creationdate="20160210T084103Z">
+        <seg>&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;http://wiki.documentfoundation.org/Local_Mailing_Lists&lt;/f3&gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;http://www.libreoffice.org/get-help/faq/&lt;/f3&gt;&lt;/a2&gt;&lt;f4&gt;&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T083825Z" creationid="briga" creationdate="20160210T083748Z">
+        <seg>&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;http://it.libreoffice.org/supporto/documentazione/&lt;/f3&gt;&lt;/a2&gt;&lt;f4&gt;&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f0&gt;Service contracts can be purchased from a vendor or consulting firm specializing in LibreOffice&lt;f1&gt;.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T083725Z" creationid="briga" creationdate="20160210T083725Z">
+        <seg>&lt;/f0&gt;Contratti di assistenza possono essere acquistati presso un distributore o da una ditta di consulenza specializzata in LibreOffice&lt;f1&gt;.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f1&gt;&lt;f2&gt;The contributors to that book are listed on page &lt;/f2&gt;&lt;f3&gt;&lt;bf4&gt;13&lt;/bf4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090437Z" creationid="briga" creationdate="20160130T090437Z">
         <seg>&lt;/f1&gt;&lt;f2&gt;I collaboratori di tale Guida sono elencati a pagina &lt;/f2&gt;&lt;f3&gt;&lt;bf4&gt;13&lt;/bf4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f3&gt;&lt;a5&gt;&lt;f6&gt;https://wiki.documentfoundation.org/Documentation/Publications&lt;/f6&gt;&lt;/a5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T083926Z" creationid="briga" creationdate="20160210T083926Z">
+        <seg>&lt;/f3&gt;&lt;a5&gt;&lt;f6&gt;https://wiki.documentfoundation.org/Documentation/Publications&lt;/f6&gt;&lt;/a5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f4&gt;&lt;a6&gt;&lt;f7&gt;http://wiki.documentfoundation.org/Faq&lt;/f7&gt;&lt;/a6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T083847Z" creationid="briga" creationdate="20160210T083757Z">
+        <seg>&lt;/f4&gt;&lt;a6&gt;&lt;f7&gt;http://it.libreoffice.org/supporto/documentazione/&lt;/f7&gt;&lt;/a6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;http://www.libreoffice.org/get-help/accessibility/&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084118Z" creationid="briga" creationdate="20160210T084118Z">
+        <seg>&lt;a0&gt;http://it.libreoffice.org/supporto/accessibilita/&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a1&gt;&lt;f2&gt;http://www.libreoffice.org/get-help/mailing-lists/&lt;/f2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084037Z" creationid="briga" creationdate="20160210T084037Z">
+        <seg>&lt;a1&gt;&lt;f2&gt;http://it.libreoffice.org/supporto/mailing-list/&lt;/f2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a1&gt;&lt;f2&gt;http://www.libreoffice.org/international-sites/&lt;/f2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084057Z" creationid="briga" creationdate="20160210T084057Z">
+        <seg>&lt;a1&gt;&lt;f2&gt;http://www.libreoffice.org/international-sites/&lt;/f2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Tools &gt; Options&lt;/f1&gt;&lt;/f0&gt; menu selection</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084213Z" creationid="briga" creationdate="20160210T084213Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Strumenti &gt; Opzioni&lt;/f1&gt;&lt;/f0&gt; selezione del menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Answers to frequently asked questions&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T083743Z" creationid="briga" creationdate="20160210T083743Z">
+        <seg>&lt;f0&gt;Risposte alle Domande frequenti&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;International mailing lists&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084100Z" creationid="briga" creationdate="20160210T084100Z">
+        <seg>&lt;f0&gt;Mailing list internazionali&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;LibreOffice is distributed under &lt;/f0&gt;the &lt;is1/&gt;Open Source Initiative (OSI)&lt;ie2/&gt; approved Lesser General Public License (LGPL).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084510Z" creationid="briga" creationdate="20160210T084510Z">
+        <seg>&lt;f0&gt;LibreOffice è distribuito sotto &lt;/f0&gt;la Lesser General Public License (LGPL), approvata &lt;is1/&gt;dall'Open Source Initiative (OSI)&lt;ie2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1222,10 +1382,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Shift&lt;/f0&gt;+&lt;f1&gt;z&lt;/f1&gt;+&lt;f2&gt;F5&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084253Z" creationid="briga" creationdate="20160210T084253Z">
+        <seg>&lt;f0&gt;Maiusc&lt;/f0&gt;+&lt;f1&gt;z&lt;/f1&gt;+&lt;f2&gt;F5&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;This book is adapted from &lt;/f0&gt;&lt;f1&gt;Getting Started with OpenOffice.org 3.3.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090414Z" creationid="briga" creationdate="20160130T090414Z">
         <seg>&lt;f0&gt;Questo libro è un adattamento della &lt;/f0&gt;&lt;f1&gt;Guida introduttiva a OpenOffice.org 3.3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;User guides, how-tos, and other documentation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T083855Z" creationid="briga" creationdate="20160210T083855Z">
+        <seg>&lt;f0&gt;Guide utente, istruzioni, e altra documentazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;z&lt;/f0&gt; &lt;f1&gt;(Command)&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084247Z" creationid="briga" creationdate="20160210T084247Z">
+        <seg>&lt;f0&gt;z&lt;/f0&gt; &lt;f1&gt;(Comando)&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;z&lt;/f0&gt;+&lt;f1&gt;T&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084310Z" creationid="briga" creationdate="20160210T084258Z">
+        <seg>&lt;f0&gt;z&lt;/f0&gt; + &lt;f1&gt;T&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1238,10 +1430,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A &lt;f0&gt;dialog&lt;/f0&gt; is a special type of window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084325Z" creationid="briga" creationdate="20160210T084325Z">
+        <seg>Una &lt;f0&gt;finestra di dialogo&lt;/f0&gt; è un tipo speciale di finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ability to open, edit, and save Microsoft Excel spreadsheets.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T102417Z" creationid="briga" creationdate="20160208T102404Z">
         <seg>Possibilità di aprire, modificare, e salvare fogli elettronici di Microsoft Excel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access setup options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084216Z" creationid="briga" creationdate="20160210T084216Z">
+        <seg>Accesso alle opzioni di configurazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Accessibility options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084109Z" creationid="briga" creationdate="20160210T084109Z">
+        <seg>Accesso facilitato</seg>
       </tuv>
     </tu>
     <tu>
@@ -1342,6 +1558,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alexandre Martins</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084434Z" creationid="briga" creationdate="20160210T084434Z">
+        <seg>Alexandre Martins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All trademarks within this guide belong to their legitimate owners.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20160129T124840Z" creationid="luke" creationdate="20160129T124840Z">
@@ -1354,6 +1578,46 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T102233Z" creationid="briga" creationdate="20160208T102233Z">
         <seg>Altrimenti, potete inserire i dati e usare Calc nella modalità "Cosa succede se...", cambiando alcuni dati e osservando i risultati senza dover riscrivere l'intero foglio elettronico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alternatively, you can pay for support services&lt;f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T083722Z" creationid="briga" creationdate="20160210T083722Z">
+        <seg>In alternativa, è possibile usufruire di servizi di supporto a pagamento&lt;f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An example of this type is the Find &amp; Replace dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084345Z" creationid="briga" creationdate="20160210T084345Z">
+        <seg>Un esempio di questo tipo è la finestra di dialogo Cerca e Sostituisci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Andrew Pitonyak</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084434Z" creationid="briga" creationdate="20160210T084434Z">
+        <seg>Andrew Pitonyak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Andy Brown&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084424Z" creationid="briga" creationdate="20160210T084424Z">
+        <seg>Andy Brown&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Anthony Petrillo&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084434Z" creationid="briga" creationdate="20160210T084434Z">
+        <seg>Anthony Petrillo&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1422,6 +1686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As many as you like.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084525Z" creationid="briga" creationdate="20160210T084525Z">
+        <seg>Su tutti quelli che volete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Associating a range with a name</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160206T083646Z" creationid="briga" creationdate="20160206T083646Z">
@@ -1454,10 +1726,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Barbara M Tobias&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084436Z" creationid="briga" creationdate="20160210T084436Z">
+        <seg>Barbara M Tobias&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Based on LibreOffice 3.4.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090500Z" creationid="briga" creationdate="20160130T090500Z">
         <seg>Basato su LibreOffice 3.4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bruce Byfield</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084425Z" creationid="briga" creationdate="20160210T084425Z">
+        <seg>Bruce Byfield</seg>
       </tuv>
     </tu>
     <tu>
@@ -1638,6 +1926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chapter &lt;f0&gt;1 &lt;s1/&gt;&lt;/f0&gt;&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084738Z" creationid="briga" creationdate="20160210T084738Z">
+        <seg>Chapter &lt;f0&gt;1 &lt;s1/&gt;&lt;/f0&gt;&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choosing options for Calc</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160206T090141Z" creationid="briga" creationdate="20160206T090141Z">
@@ -1666,6 +1962,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090307Z" creationid="briga" creationdate="20160130T090307Z">
         <seg>Christoph Noack</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Claire Wood</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084437Z" creationid="briga" creationdate="20160210T084437Z">
+        <seg>Claire Wood</seg>
       </tuv>
     </tu>
     <tu>
@@ -1706,6 +2010,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090302Z" creationid="briga" creationdate="20160130T090302Z">
         <seg>Collaboratori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Control+click</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084219Z" creationid="briga" creationdate="20160210T084219Z">
+        <seg>Ctrl+clic</seg>
       </tuv>
     </tu>
     <tu>
@@ -1814,6 +2126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl (Control)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084239Z" creationid="briga" creationdate="20160210T084239Z">
+        <seg>Ctrl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Customizing the user interface</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T095732Z" creationid="briga" creationdate="20160208T095732Z">
@@ -1886,6 +2206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Documentation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T083851Z" creationid="briga" creationdate="20160210T083851Z">
+        <seg>Documentazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Drew Jensen</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090307Z" creationid="briga" creationdate="20160130T090307Z">
@@ -1934,10 +2262,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Effect</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084143Z" creationid="briga" creationdate="20160210T084143Z">
+        <seg>Effetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Embedding spreadsheets</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095933Z" creationid="briga" creationdate="20160205T095933Z">
         <seg>Incorporare fogli di lavoro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Emma Kirsopp&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084433Z" creationid="briga" creationdate="20160210T084433Z">
+        <seg>Emma Kirsopp&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1990,10 +2334,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>F11</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084256Z" creationid="briga" creationdate="20160210T084256Z">
+        <seg>F11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>F5</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084250Z" creationid="briga" creationdate="20160210T084250Z">
+        <seg>F5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>FAQs</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T083736Z" creationid="briga" creationdate="20160210T083736Z">
+        <seg>Domande frequenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Feedback</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090314Z" creationid="briga" creationdate="20160130T090310Z">
         <seg>Commenti e suggerimenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Dialog showing common controls:&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084347Z" creationid="briga" creationdate="20160210T084347Z">
+        <seg>Figura &lt;seq0&gt;1&lt;/seq0&gt;: finestra di dialogo con i controlli più comuni:&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2038,6 +2414,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a more detailed list, see the application Help.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084138Z" creationid="briga" creationdate="20160210T084138Z">
+        <seg>Per un elenco più dettagliato, vedere la Guida in linea dell'applicazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, you can help with producing and maintaining written user documentation, producing video tutorials, and other user support services.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084626Z" creationid="briga" creationdate="20160210T084626Z">
+        <seg>Ad esempio, potete contribuire producendo a manutenendo documentazione scritta per gli utenti, realizzando delle guide in video e altri servizi di supporto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Formatting 3D charts</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T102502Z" creationid="briga" creationdate="20160202T102502Z">
@@ -2078,6 +2470,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Free LibreOffice support</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T083730Z" creationid="briga" creationdate="20160210T083730Z">
+        <seg>Assistenza gratuita per LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Free community support is provided by a network of experienced users&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084034Z" creationid="briga" creationdate="20160210T084034Z">
+        <seg>Il supporto gratuito della comunità è offerto da una rete di utilizzatori esperti.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Free online support</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T082830Z" creationid="briga" creationdate="20160210T082405Z">
@@ -2088,8 +2496,8 @@
       <tuv lang="EN">
         <seg>Frequently asked questions</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160130T090529Z" creationid="briga" creationdate="20160130T090529Z">
-        <seg>FAQ</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084451Z" creationid="briga" creationdate="20160130T090529Z">
+        <seg>Domande frequenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -2134,6 +2542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Gary Schnabl</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084435Z" creationid="briga" creationdate="20160210T084435Z">
+        <seg>Gary Schnabl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>General error codes</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T101849Z" creationid="briga" creationdate="20160208T101343Z">
@@ -2146,6 +2562,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T103012Z" creationid="briga" creationdate="20160202T103012Z">
         <seg>Grafica in Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hazel Russman&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084435Z" creationid="briga" creationdate="20160210T084435Z">
+        <seg>Hazel Russman&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2174,10 +2598,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How can I contribute to LibreOffice?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084538Z" creationid="briga" creationdate="20160210T084538Z">
+        <seg>Come si può contribuire a LibreOffice?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How is LibreOffice licensed?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084504Z" creationid="briga" creationdate="20160210T084504Z">
+        <seg>Quale è la licenza di LibreOffice?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How many computers may I install it on?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084524Z" creationid="briga" creationdate="20160210T084520Z">
+        <seg>Su quanti computer è possibile installarlo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hyperlinks and URLs</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160206T082844Z" creationid="briga" creationdate="20160205T095859Z">
         <seg>Collegamenti ipertestuali (Hyperlink) e URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Iain Roberts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084435Z" creationid="briga" creationdate="20160210T084435Z">
+        <seg>Iain Roberts</seg>
       </tuv>
     </tu>
     <tu>
@@ -2206,10 +2662,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition, we request that you share with the project some of the profits you make from sales of books, in consideration of all the work we have put into producing them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084537Z" creationid="briga" creationdate="20160210T084537Z">
+        <seg>Inoltre, richiediamo che condividiate con il progetto parte dei profitti che ottenete dalla vendita delle Guide, in considerazione di tutto il lavoro svolto per produrle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition, you can choose whether to activate Tips, Extended tips, and the Help Agent (using &lt;f2&gt;Tools &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; Options &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; LibreOffice &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; General&lt;/f11&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T080509Z" creationid="briga" creationdate="20160210T080428Z">
         <seg>Inoltre, è possibile scegliere di attivare l'identificazione degli strumenti, i suggerimenti attivi e l'Assistente di aiuto (da &lt;f2&gt;Strumenti &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; Opzioni &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; LibreOffice &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; Generale&lt;/f11&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In most cases we do not use the technical terms in this book, but it is useful to know them because the Help and other sources of information often use them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084333Z" creationid="briga" creationdate="20160210T084333Z">
+        <seg>Nella maggior parte dei casi in questo libro non si usano termini tecnici, ma può essere utile conoscerli perché si possono ritrovare frequentemente nella Guida in linea e in altre guide e manuali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In most cases, you can interact only with the dialog (not the document itself) as long as the dialog remains open.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084336Z" creationid="briga" creationdate="20160210T084336Z">
+        <seg>Generalmente, potete interagire solo con la finestra di dialogo (e non con il documento stesso) fino a quando la finestra di dialogo rimane aperta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2222,10 +2702,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Information about available accessibility options.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084113Z" creationid="briga" creationdate="20160210T084113Z">
+        <seg>Informazioni relative all'accesso facilitato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Informational functions</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T101147Z" creationid="briga" creationdate="20160208T101147Z">
         <seg>Funzioni di informazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ingrid Halama &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084431Z" creationid="briga" creationdate="20160210T084431Z">
+        <seg>Ingrid Halama &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>International Support</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084038Z" creationid="briga" creationdate="20160210T084038Z">
+        <seg>Supporto Internazionale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>International support</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084040Z" creationid="briga" creationdate="20160210T084040Z">
+        <seg>Supporto Internazionale</seg>
       </tuv>
     </tu>
     <tu>
@@ -2254,6 +2766,54 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It provides controls for you to use to specify how to carry out an action.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084328Z" creationid="briga" creationdate="20160210T084328Z">
+        <seg>Vi fornisce dei controlli da utilizzare per indicare come eseguire un'azione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Its purpose is to inform you of something, or request input from you, or both.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084327Z" creationid="briga" creationdate="20160210T084327Z">
+        <seg>Il suo scopo è quello di informarvi di qualcosa, o richiedervi un'immissione, oppure entrambe le cose.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>J. Frazier</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084430Z" creationid="briga" creationdate="20160210T084430Z">
+        <seg>J. Frazier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Jacob Starr&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084435Z" creationid="briga" creationdate="20160210T084435Z">
+        <seg>Jacob Starr&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>James Andrew</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084424Z" creationid="briga" creationdate="20160210T084424Z">
+        <seg>James Andrew</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Jared Kobos</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084433Z" creationid="briga" creationdate="20160210T084433Z">
+        <seg>Jared Kobos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jean Hollis Weber</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090305Z" creationid="briga" creationdate="20160130T090305Z">
@@ -2270,6 +2830,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>John Kane</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084432Z" creationid="briga" creationdate="20160210T084432Z">
+        <seg>John Kane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>John Viestenz</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084436Z" creationid="briga" creationdate="20160210T084436Z">
+        <seg>John Viestenz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kashmira Patel</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084434Z" creationid="briga" creationdate="20160210T084434Z">
+        <seg>Kashmira Patel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keyboard Shortcuts</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T095746Z" creationid="briga" creationdate="20160208T095746Z">
@@ -2278,10 +2862,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Kirk Abbott</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084432Z" creationid="briga" creationdate="20160210T084432Z">
+        <seg>Kirk Abbott</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Klaus-Jürgen Weghorn &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090309Z" creationid="briga" creationdate="20160130T090309Z">
         <seg>Klaus-Jürgen Weghorn &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Krishna Aradhi</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084424Z" creationid="briga" creationdate="20160210T084424Z">
+        <seg>Krishna Aradhi</seg>
       </tuv>
     </tu>
     <tu>
@@ -2298,6 +2898,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T084023Z" creationid="briga" creationdate="20160130T084023Z">
         <seg>LibreOffice 3.4&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice &gt; Preferences</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084214Z" creationid="briga" creationdate="20160210T084214Z">
+        <seg>LibreOffice &gt; Preferenze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice runs on Windows, Linux, and Mac OS X operating systems, each of which has several versions and can be customized by users (fonts, colors, themes, window managers).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084124Z" creationid="briga" creationdate="20160210T084124Z">
+        <seg>LibreOffice funziona su sistemi operativi Windows, Linux, e Mac OS X, ciascuno dei quali ha diverse versioni e può essere personalizzato dagli utenti (tipo di carattere, colori, temi, gestori di finestre).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Linda Worthington&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084438Z" creationid="briga" creationdate="20160210T084438Z">
+        <seg>Linda Worthington&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2334,10 +2958,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mac equivalent</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084142Z" creationid="briga" creationdate="20160210T084142Z">
+        <seg>Equivalente su Mac</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Macros, for recording and executing repetitive tasks; scripting languages supported include &lt;f0&gt;LibreOffice&lt;/f0&gt; Basic, Python, BeanShell, and JavaScript.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T102402Z" creationid="briga" creationdate="20160208T102402Z">
         <seg>Macro, per la registrazione ed esecuzione di compiti ripetitivi; i linguaggi di scripting disponibili includono &lt;f0&gt;LibreOffice&lt;/f0&gt; Basic, Python, BeanShell e Javascript.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Magnus Adielsson</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084438Z" creationid="briga" creationdate="20160210T084438Z">
+        <seg>Magnus Adielsson</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mailing lists</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084029Z" creationid="briga" creationdate="20160210T083930Z">
+        <seg>Mailing list</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Martin Fox&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084423Z" creationid="briga" creationdate="20160210T084423Z">
+        <seg>Martin Fox&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2350,10 +3006,50 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>May I distribute LibreOffice to anyone?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084516Z" creationid="briga" creationdate="20160210T084516Z">
+        <seg>È possibile distribuire LibreOffice a chiunque?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>May I distribute the PDF of this book, or print and sell copies?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084532Z" creationid="briga" creationdate="20160210T084532Z">
+        <seg>È possibile distribuire il file PDF di questa Guida, o stamparla e venderne delle copie?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>May I sell it?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084526Z" creationid="briga" creationdate="20160210T084526Z">
+        <seg>È possibile venderlo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>May I use LibreOffice in my business?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084528Z" creationid="briga" creationdate="20160210T084528Z">
+        <seg>È possibile usare LibreOffice in un ambiente di lavoro?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Merging documents</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160206T082910Z" creationid="briga" creationdate="20160206T082910Z">
         <seg>Unione di documenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Michele Zarri</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084438Z" creationid="briga" creationdate="20160210T084438Z">
+        <seg>Michele Zarri</seg>
       </tuv>
     </tu>
     <tu>
@@ -2390,6 +3086,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Nicole Cairns&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084426Z" creationid="briga" creationdate="20160210T084426Z">
+        <seg>Nicole Cairns&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nikita Telang</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084436Z" creationid="briga" creationdate="20160210T084436Z">
+        <seg>Nikita Telang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note for Mac users</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T095749Z" creationid="briga" creationdate="20160208T095749Z">
@@ -2402,6 +3114,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T084734Z" creationid="briga" creationdate="20160130T084734Z">
         <seg>Note that Chapter 8, &lt;f3&gt;Using the DataPilot&lt;/f3&gt;, is licensed under the &lt;a4&gt;Creative Commons Attribution-Share Alike License&lt;/a4&gt;, version 3.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open a context menu</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084221Z" creationid="briga" creationdate="20160210T084221Z">
+        <seg>Apre un menu contestuale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the Navigator</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084254Z" creationid="briga" creationdate="20160210T084254Z">
+        <seg>Aprite il Navigatore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the Styles and Formatting window</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084313Z" creationid="briga" creationdate="20160210T084301Z">
+        <seg>Aprite la finestra Stili e formattazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2438,10 +3174,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other websites run by users also offer free tips and tutorials.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T083513Z" creationid="briga" creationdate="20160210T083513Z">
+        <seg>Anche altri siti web gestiti da utenti offrono gratuitamente consigli ed esercitazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Page breaks</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T112628Z" creationid="briga" creationdate="20160202T112628Z">
         <seg>Interruzioni di pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Paid support and training</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T083521Z" creationid="briga" creationdate="20160210T083521Z">
+        <seg>Supporto e formazione a pagamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -2458,6 +3210,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T212026Z" creationid="briga" creationdate="20160130T212026Z">
         <seg>Protezione con password</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Peter Hillier-Brook&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084432Z" creationid="briga" creationdate="20160210T084432Z">
+        <seg>Peter Hillier-Brook&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Peter Kupfer</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084423Z" creationid="briga" creationdate="20160210T084423Z">
+        <seg>Peter Kupfer</seg>
       </tuv>
     </tu>
     <tu>
@@ -2510,6 +3278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Profits from sales of the printed edition will be used to benefit the community.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084405Z" creationid="briga" creationdate="20160210T084405Z">
+        <seg>I guadagni derivanti dalla vendita dell'edizione stampata saranno utilizzati a favore della comunità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Publication date and software version</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090441Z" creationid="briga" creationdate="20160130T090441Z">
@@ -2558,6 +3334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regina Henschel</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084431Z" creationid="briga" creationdate="20160210T084431Z">
+        <seg>Regina Henschel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Removing personal data</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095229Z" creationid="briga" creationdate="20160205T095229Z">
@@ -2578,6 +3362,38 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T100045Z" creationid="briga" creationdate="20160205T100045Z">
         <seg>Rivedere le modifiche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rick Barnes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084422Z" creationid="briga" creationdate="20160210T084422Z">
+        <seg>Rick Barnes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084218Z" creationid="briga" creationdate="20160210T084218Z">
+        <seg>Pulsante destro del mouse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rob Scott</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084435Z" creationid="briga" creationdate="20160210T084435Z">
+        <seg>Rob Scott</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sandeep Samuel Medikonda</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084439Z" creationid="briga" creationdate="20160210T084439Z">
+        <seg>Sandeep Samuel Medikonda</seg>
       </tuv>
     </tu>
     <tu>
@@ -2678,10 +3494,58 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sharon Whiston</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084437Z" creationid="briga" creationdate="20160210T084437Z">
+        <seg>Sharon Whiston</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shelagh Manton&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084433Z" creationid="briga" creationdate="20160210T084433Z">
+        <seg>Shelagh Manton&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sigrid Kronenberger</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084433Z" creationid="briga" creationdate="20160210T084433Z">
+        <seg>Sigrid Kronenberger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Simon Brydon</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090305Z" creationid="briga" creationdate="20160130T090305Z">
         <seg>Simon Brydon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some dialogs can be left open as you work, so you can switch back and forth between the dialog and your document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084342Z" creationid="briga" creationdate="20160210T084342Z">
+        <seg>Alcune finestre di dialogo possono rimanere aperte mentre lavorate, quindi potete spostarvi avanti e indietro tra la finestra di dialogo e il vostro documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some keystrokes and menu items are different on a Mac from those used in Windows and Linux.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084131Z" creationid="briga" creationdate="20160210T084131Z">
+        <seg>Alcuni tasti e voci di menu su un Mac sono diversi da quelli utilizzati in ambiente Windows e Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some pictures will therefore not look exactly like what you see on your computer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084128Z" creationid="briga" creationdate="20160210T084128Z">
+        <seg>Alcune immagini saranno quindi leggermente diverse da ciò che vedete sul vostro computer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2702,10 +3566,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sowbhagya Sundaresan</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084436Z" creationid="briga" creationdate="20160210T084436Z">
+        <seg>Sowbhagya Sundaresan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Speeding up data entry</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T212250Z" creationid="briga" creationdate="20160130T212250Z">
         <seg>Velocizzare l'inserimento dei dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spencer E. Harpe</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084431Z" creationid="briga" creationdate="20160210T084431Z">
+        <seg>Spencer E. Harpe</seg>
       </tuv>
     </tu>
     <tu>
@@ -2742,10 +3622,50 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Stefan Weigel&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084437Z" creationid="briga" creationdate="20160210T084437Z">
+        <seg>Stefan Weigel&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stephen Buck</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084424Z" creationid="briga" creationdate="20160210T084424Z">
+        <seg>Stephen Buck</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stigant Fyrwitful</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084431Z" creationid="briga" creationdate="20160210T084431Z">
+        <seg>Stigant Fyrwitful</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Strategies for creating formulas and functions</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095325Z" creationid="briga" creationdate="20160205T095325Z">
         <seg>Strategie per la creazione di formule e funzioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>T.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084429Z" creationid="briga" creationdate="20160210T084429Z">
+        <seg>T.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;1&lt;/seq0&gt;: Free support for LibreOffice users</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T083728Z" creationid="briga" creationdate="20160210T083728Z">
+        <seg>Tabella &lt;seq0&gt;1&lt;/seq0&gt;: assistenza gratuita per gli utenti di LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -2766,6 +3686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The LGPL &lt;i3/&gt;license is available from the LibreOffice website: &lt;a4&gt;http://www.libreoffice.org/download/license/&lt;/a4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084512Z" creationid="briga" creationdate="20160210T084512Z">
+        <seg>La licenza LGPL &lt;i3/&gt; è consultabile sul sito web di LibreOffice all'indirizzo: &lt;a4&gt;http://www.libreoffice.org/download/license/&lt;/a4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The LibreOffice community not only develops software, but provides free, volunteer-based support.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T083103Z" creationid="briga" creationdate="20160210T082817Z">
@@ -2774,10 +3702,74 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The LibreOffice website in your language.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084044Z" creationid="briga" creationdate="20160210T084044Z">
+        <seg>Il sito web di LibreOffice nella vostra lingua.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The contributors to that book are:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084421Z" creationid="briga" creationdate="20160210T084421Z">
+        <seg>I collaboratori di quella Guida sono:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The pictures in this book were taken from a variety of computers and operating systems.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084126Z" creationid="briga" creationdate="20160210T084126Z">
+        <seg>Le immagini in questo libro sono tratte da computer e sistemi operativi diversi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The table below gives some common substitutions for the instructions in this chapter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084135Z" creationid="briga" creationdate="20160210T084135Z">
+        <seg>La tabella che segue fornisce alcune sostituzioni comuni per le istruzioni di questo capitolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The technical names for common controls are shown in &lt;t1&gt;Figure 1&lt;/t1&gt;; not shown is the list box (from which you select an item).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084331Z" creationid="briga" creationdate="20160210T084331Z">
+        <seg>I nomi tecnici per i controlli più comuni sono mostrati in &lt;t1&gt;Figura 1&lt;/t1&gt;; non viene invece mostrata la casella di riepilogo (dalla quale selezionate un elemento).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The terms used in LibreOffice for most parts of the &lt;i0/&gt;&lt;f1&gt;user interface&lt;/f1&gt; (the parts of the program you see and use, in contrast to the behind-the-scenes code that actually makes it work) are the same as for most other programs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084322Z" creationid="briga" creationdate="20160210T084322Z">
+        <seg>I termini utilizzati in LibreOffice per la maggior parte dell'&lt;i0/&gt;&lt;f1&gt;interfaccia utente&lt;/f1&gt; (la parte del programma che vedete e utilizzate, a differenza del codice dietro le quinte che lo rende funzionante) sono gli stessi come per molti altri programmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This book introduces Calc, the spreadsheet component of LibreOffice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T102015Z" creationid="briga" creationdate="20160208T102015Z">
         <seg>Questo libro introduce Calc, il componente foglio elettronico di LibreOffice:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This book is adapted from &lt;f0&gt;OpenOffice.org 3.3 Calc Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084417Z" creationid="briga" creationdate="20160210T084417Z">
+        <seg>Questo libro è basato su &lt;f0&gt;OpenOffice.org 3.3 Guida a Calc&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This book was written by volunteers from the LibreOffice community.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084403Z" creationid="briga" creationdate="20160210T084403Z">
+        <seg>Questo libro è stato scritto dai volontari della comunità di LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2798,6 +3790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This forum provides community support for LibreOffice and other programs: &lt;a2&gt;http://user.services.openoffice.org/en/forum/&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T083519Z" creationid="briga" creationdate="20160210T083519Z">
+        <seg>Questo forum fornisce il supporto della comunità per LibreOffice e altri programmi: &lt;a2&gt;http://user.services.openoffice.org/en/forum/&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is your first line of support for using &lt;f3&gt;LibreOffice&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T102603Z" creationid="briga" creationdate="20160208T102603Z">
@@ -2810,6 +3810,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T080349Z" creationid="briga" creationdate="20160208T102604Z">
         <seg>Per visualizzare la Guida in linea completa, premete il tasto &lt;f0&gt;F1&lt;/f0&gt; oppure selezionate &lt;f1&gt;Guida di LibreOffice&lt;/f1&gt; dal menu di Aiuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To start, check out this webpage: &lt;a0&gt;http://www.documentfoundation.org/contribution/&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084725Z" creationid="briga" creationdate="20160210T084725Z">
+        <seg>Per cominciare, date uno sguardo alla pagina web: &lt;a0&gt;https://it.libreoffice.org/comunita/partecipa/&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2830,10 +3838,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Used with other keys</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084249Z" creationid="briga" creationdate="20160210T084249Z">
+        <seg>Usato con altri tasti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User guides</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T083852Z" creationid="briga" creationdate="20160210T083852Z">
+        <seg>Guide utente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Users can get comprehensive online &lt;is0/&gt;support&lt;ie1/&gt; from the community through mailing lists.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160210T083201Z" creationid="briga" creationdate="20160210T083201Z">
-        <seg>Users can get comprehensive online &lt;is0/&gt;support&lt;ie1/&gt; from the community through mailing lists.</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T083506Z" creationid="briga" creationdate="20160210T083201Z">
+        <seg>Gli utenti possono ottenere un &lt;is0/&gt;supporto&lt;ie1/&gt; completo in linea da parte dei membri della comunità attraverso le mailing list.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3046,6 +4070,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you close the dialog after use (usually, clicking &lt;f0&gt;OK&lt;/f0&gt; or another button saves your changes and closes the dialog), then you can again work with your document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084339Z" creationid="briga" creationdate="20160210T084339Z">
+        <seg>Quando chiudete la finestra di dialogo dopo l'uso (normalmente, facendo clic su &lt;f0&gt;OK&lt;/f0&gt; oppure su un altro pulsante, le vostre modifiche vengono salvate e la finestra di dialogo viene chiusa), potete di nuovo lavorare con il vostro documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Where to get more help</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090514Z" creationid="briga" creationdate="20160130T090514Z">
@@ -3074,6 +4106,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095821Z" creationid="briga" creationdate="20160205T095813Z">
         <seg>Perché usare fogli multipli?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows or Linux</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084140Z" creationid="briga" creationdate="20160210T084140Z">
+        <seg>Windows o Linux</seg>
       </tuv>
     </tu>
     <tu>
@@ -3118,10 +4158,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Yes, as long as you meet the requirements of one of the licenses in the copyright statement at the beginning of this book.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084534Z" creationid="briga" creationdate="20160210T084534Z">
+        <seg>Sì, fintantoché vengono rispettati i requisiti di una delle licenze citate nella dichiarazione di copyright all'inizio di questa Guida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Yes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084523Z" creationid="briga" creationdate="20160210T084517Z">
+        <seg>Sì.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can enter data (usually numerical) in a spreadsheet and then manipulate this data to produce certain results.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T102027Z" creationid="briga" creationdate="20160208T102027Z">
         <seg>Potete inserire dei dati (normalmente numerici) in un foglio elettronico e poi manipolarli per ottenere determinati risultati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can help with the development and user support of LibreOffice in many ways, and you do not need to be a programmer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084539Z" creationid="briga" creationdate="20160210T084539Z">
+        <seg>Potete contribuire allo sviluppo e al supporto degli utenti di LibreOffice in molti modi, senza necessariamente essere un programmatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You do not have to request special permission.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084535Z" creationid="briga" creationdate="20160210T084535Z">
+        <seg>Non è necessario richiedere un permesso speciale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3138,6 +4210,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20160129T124304Z" creationid="luke" creationdate="20160129T124304Z">
         <seg>È possibile distribuire e/o modificare il documento rispettando i termini della GNU General Public License (&lt;a1&gt;http://www.gnu.org/licenses/gpl.html&lt;/a1&gt;), versione 3 o successiva o della Creative Commons Attribution License (&lt;a2&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a2&gt;), versione 3.0 o successiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>licensing of LibreOffice</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084507Z" creationid="briga" creationdate="20160210T084507Z">
+        <seg>licenza di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>user interface, parts of</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084317Z" creationid="briga" creationdate="20160210T084317Z">
+        <seg>Parti dell'interfaccia utente</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
