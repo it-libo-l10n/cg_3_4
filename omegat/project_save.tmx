@@ -1390,6 +1390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Styles are &lt;/f0&gt;&lt;f1&gt;logical&lt;/f1&gt;&lt;f2&gt; attributes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160213T105221Z" creationid="briga" creationdate="20160213T105148Z">
+        <seg>&lt;f0&gt;Gli stili sono attributi &lt;/f0&gt;&lt;f1&gt;logici&lt;/f1&gt;&lt;f2&gt;. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;This book is adapted from &lt;/f0&gt;&lt;f1&gt;Getting Started with OpenOffice.org 3.3.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090414Z" creationid="briga" creationdate="20160130T090414Z">
@@ -1422,6 +1430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;You can create, or download and install, as many templates as you wish.&lt;/f1&gt; If you do not specify a template when you start a new a new spreadsheet, the new spreadsheet is based on the default template for spreadsheets.&lt;f2&gt; &lt;/f2&gt;If you have not specified a default template, &lt;f3&gt;LibreOffice&lt;/f3&gt; uses the blank spreadsheet template that is installed with the program.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160213T105010Z" creationid="briga" creationdate="20160213T105010Z">
+        <seg>&lt;f1&gt;Potete creare, o scaricare ed installare, quanti modelli desiderate.&lt;/f1&gt; Se non specificate un modello quando create un nuovo foglio di lavoro, questo sarà basato sul modello predefinito per i fogli di lavoro.&lt;f2&gt; &lt;/f2&gt;Se non avete specificato un modello predefinito, &lt;f3&gt;LibreOffice&lt;/f3&gt; usa il modello vuoto che è fornito insieme al programma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;Andrew Pitonyak</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090305Z" creationid="briga" creationdate="20160130T090305Z">
@@ -1434,6 +1450,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084325Z" creationid="briga" creationdate="20160210T084325Z">
         <seg>Una &lt;f0&gt;finestra di dialogo&lt;/f0&gt; è un tipo speciale di finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A &lt;f0&gt;style&lt;/f0&gt; is a set of formats that you can apply to selected elements in a document to quickly change their appearance.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160213T105110Z" creationid="briga" creationdate="20160213T105110Z">
+        <seg>Uno &lt;f0&gt;stile&lt;/f0&gt; è un insieme di formati che si possono applicare ad elementi selezionati in un documento per modificare rapidamente il loro aspetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A &lt;i0/&gt;&lt;f1&gt;template&lt;/f1&gt; is a model that you use to create other documents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160213T104620Z" creationid="briga" creationdate="20160213T104620Z">
+        <seg>Un &lt;i0/&gt;&lt;f1&gt;modello&lt;/f1&gt; è un documento che si usa per creare altri documenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1562,6 +1594,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084434Z" creationid="briga" creationdate="20160210T084434Z">
         <seg>Alexandre Martins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All documents in &lt;f0&gt;LibreOffice&lt;/f0&gt; are based on templates.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160213T104728Z" creationid="briga" creationdate="20160213T104728Z">
+        <seg>Tutti i documenti in &lt;f0&gt;LibreOffice&lt;/f0&gt; sono basati su modelli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1738,6 +1778,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090500Z" creationid="briga" creationdate="20160130T090500Z">
         <seg>Basato su LibreOffice 3.4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bringing uniformity to your spreadsheets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160213T104512Z" creationid="briga" creationdate="20160213T104512Z">
+        <seg>Uniformare l'aspetto dei vostri fogli di lavoro</seg>
       </tuv>
     </tu>
     <tu>
@@ -1930,6 +1978,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084738Z" creationid="briga" creationdate="20160210T084738Z">
         <seg>Chapter &lt;f0&gt;1 &lt;s1/&gt;&lt;/f0&gt;&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter &lt;f0&gt;4 &lt;s1/&gt;&lt;/f0&gt;&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160213T104448Z" creationid="briga" creationdate="20160213T104448Z">
+        <seg>Capitolo &lt;f0&gt;4 &lt;s1/&gt;&lt;/f0&gt;&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2418,6 +2474,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084138Z" creationid="briga" creationdate="20160210T084138Z">
         <seg>Per un elenco più dettagliato, vedere la Guida in linea dell'applicazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, for the contents of a cell you might specify the font family, font size, and any formatting such as bold or italic.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160213T105136Z" creationid="briga" creationdate="20160213T105136Z">
+        <seg>Ad esempio, potreste specificare tipo e dimensione dei caratteri e ogni formattazione come grassetto o corsivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, you can create a template for invoices that has your company’s logo and address at the top of the page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160213T104643Z" creationid="briga" creationdate="20160213T104623Z">
+        <seg>Per esempio, potete creare un modello per rapporti di affari che presenti il logotipo e l'indirizzo della vostra azienda nella prima pagina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2990,6 +3062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Many people manually format spreadsheet cells and pages without paying any attention to styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160213T105125Z" creationid="briga" creationdate="20160213T105125Z">
+        <seg>Molti formattano manualmente i paragrafi, le parole, le tabelle, i layout di pagina e altre parti dei loro documenti ignorando gli stili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Martin Fox&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084423Z" creationid="briga" creationdate="20160210T084423Z">
@@ -3082,6 +3162,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T095756Z" creationid="briga" creationdate="20160208T095752Z">
         <seg>Navigazione e selezione con la tastiera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New spreadsheets created from this template will all have your company’s logo and address on the first page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160213T104717Z" creationid="briga" creationdate="20160213T104627Z">
+        <seg>I nuovi documenti creati da questo modello avranno tutti il logo della azienda e l'indirizzo nella prima pagina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3430,6 +3518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See “&lt;rf4&gt;Setting a default template&lt;/rf4&gt;” on page &lt;rf5&gt;120&lt;/rf5&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160213T105023Z" creationid="briga" creationdate="20160213T105023Z">
+        <seg>Vedere “&lt;rf4&gt;Definire un modello standard&lt;/rf4&gt;” a pagina &lt;rf5&gt;120&lt;/rf5&gt; per maggiori informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Selecting items in a sheet or spreadsheet</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T212050Z" creationid="briga" creationdate="20160130T212050Z">
@@ -3670,6 +3766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Templates can contain anything that regular documents can contain, such as text, graphics, styles, and user-specific setup information such as measurement units, language, the default printer, and toolbar and menu customization.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160213T104725Z" creationid="briga" creationdate="20160213T104725Z">
+        <seg>I modelli possono contenere qualsiasi cosa si possa trovare nei normali documenti, come testo, grafici, stili, informazioni di configurazione specifiche definite dall'utente come unità di misura, lingua, stampante predefinita, barre degli strumenti e menu personalizzati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text functions</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T101242Z" creationid="briga" creationdate="20160208T101227Z">
@@ -3746,6 +3850,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084322Z" creationid="briga" creationdate="20160210T084322Z">
         <seg>I termini utilizzati in LibreOffice per la maggior parte dell'&lt;i0/&gt;&lt;f1&gt;interfaccia utente&lt;/f1&gt; (la parte del programma che vedete e utilizzate, a differenza del codice dietro le quinte che lo rende funzionante) sono gli stessi come per molti altri programmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They are used to formatting documents according to &lt;f0&gt;physical&lt;/f0&gt; attributes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160213T105131Z" creationid="briga" creationdate="20160213T105131Z">
+        <seg>Questi utenti sono abituati a redigere documenti considerandone le caratteristiche &lt;f0&gt;fisiche&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3966,6 +4078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using styles means that you stop saying “font size 14pt, Times New Roman, bold, &lt;/f2&gt;&lt;f3&gt;centered&lt;/f3&gt;&lt;f4&gt;”, and you start saying “Title” because you have defined the “Title” style to have those characteristics.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160213T105154Z" creationid="briga" creationdate="20160213T105154Z">
+        <seg>Using styles means that you stop saying “font size 14pt, Times New Roman, bold, &lt;/f2&gt;&lt;f3&gt;centered&lt;/f3&gt;&lt;f4&gt;”, and you start saying “Title” because you have defined the “Title” style to have those characteristics.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using the Navigator</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T212218Z" creationid="briga" creationdate="20160130T212218Z">
@@ -4022,6 +4142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>What are &lt;i0/&gt;&lt;i1/&gt;styles?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160213T105034Z" creationid="briga" creationdate="20160213T105034Z">
+        <seg>Definizione di &lt;i0/&gt;&lt;i1/&gt;stile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>What are all these things called?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090523Z" creationid="briga" creationdate="20160130T090523Z">
@@ -4066,6 +4194,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090512Z" creationid="briga" creationdate="20160130T090512Z">
         <seg>Contenuto del libro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you apply a style, you apply a whole group of formats at the same time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160213T105120Z" creationid="briga" creationdate="20160213T105120Z">
+        <seg>Quando si applica uno stile, si applica contemporaneamente un intero gruppo di formati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4214,10 +4350,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>description</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160213T104520Z" creationid="briga" creationdate="20160213T104520Z">
+        <seg>descrizione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>licensing of LibreOffice</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084507Z" creationid="briga" creationdate="20160210T084507Z">
         <seg>licenza di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>styles</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160213T105026Z" creationid="briga" creationdate="20160213T105026Z">
+        <seg>stili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>template</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160213T104523Z" creationid="briga" creationdate="20160213T104523Z">
+        <seg>modello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>types supported</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160213T105025Z" creationid="briga" creationdate="20160213T105025Z">
+        <seg>tipi supportati</seg>
       </tuv>
     </tu>
     <tu>
