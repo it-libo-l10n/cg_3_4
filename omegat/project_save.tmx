@@ -1406,6 +1406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Two page styles are supplied with Calc: Default and &lt;/f0&gt;&lt;f1&gt;Report.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160216T071724Z" creationid="briga" creationdate="20160216T071724Z">
+        <seg>&lt;f0&gt;Due stili di pagina vengono forniti con Calc: Predefinito e &lt;/f0&gt;&lt;f1&gt;Rapporto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;User guides, how-tos, and other documentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T083855Z" creationid="briga" creationdate="20160210T083855Z">
@@ -1466,6 +1474,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160213T104620Z" creationid="briga" creationdate="20160213T104620Z">
         <seg>Un &lt;i0/&gt;&lt;f1&gt;modello&lt;/f1&gt; è un documento che si usa per creare altri documenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A range of cell styles are supplied with &lt;f1&gt;LibreOffice; five are shown &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;in &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;&lt;t6&gt;Figure 106&lt;/t6&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f7&gt;&lt;f8&gt;.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160216T071150Z" creationid="briga" creationdate="20160216T071108Z">
+        <seg>Un insieme di stili di cella sono forniti insieme a &lt;f1&gt;LibreOffice; cinque sono mostrati &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;nella &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;&lt;t6&gt;Figura 106&lt;/t6&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f7&gt;&lt;f8&gt;.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1630,6 +1646,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although one sheet may print on several pages (pieces of paper), only one page style can be applied to a sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160216T071508Z" creationid="briga" creationdate="20160216T071508Z">
+        <seg>Sebbene un foglio possa essere stampato su diverse pagine (fogli di carta), un solo stile di pagina può essere applicato ad un foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An example of this type is the Find &amp; Replace dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084345Z" creationid="briga" creationdate="20160210T084345Z">
@@ -1786,6 +1810,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090500Z" creationid="briga" creationdate="20160130T090500Z">
         <seg>Basato su LibreOffice 3.4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Because spreadsheets are primarily used onscreen and not printed, Calc does not display the page style on the screen.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160216T071915Z" creationid="briga" creationdate="20160216T071915Z">
+        <seg>Poiché i fogli di lavoro sono prevalentemente usati sullo schermo, e non stampati, Calc non mostra gli stili di pagina a video.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2278,6 +2310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Despite this limitation, it is well worth defining page styles for any spreadsheets that you are likely to print.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160216T072152Z" creationid="briga" creationdate="20160216T072152Z">
+        <seg>Malgrado questa limitazione, .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Digital signing of documents</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095217Z" creationid="briga" creationdate="20160205T095217Z">
@@ -2442,6 +2482,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090314Z" creationid="briga" creationdate="20160130T090310Z">
         <seg>Commenti e suggerimenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;106&lt;/seq0&gt;: Examples of default Calc cell styles</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160216T071400Z" creationid="briga" creationdate="20160216T071400Z">
+        <seg>Figura &lt;seq0&gt;106&lt;/seq0&gt;: Esempi di stili di cella predefiniti di Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -2750,6 +2798,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a spreadsheet file contains more than one sheet, the different sheets can have different page styles applied to them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160216T071549Z" creationid="briga" creationdate="20160216T071549Z">
+        <seg>Se un foglio di lavoro contiene più di un foglio, ognuno di essi può avere differenti stili di pagina applicati a ciascuno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want a spreadsheet to fit on a certain page size, you have to carefully control the column width and row height, with only &lt;f0&gt;File &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Page Preview&lt;/f3&gt; to guide you.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160216T072131Z" creationid="briga" creationdate="20160216T072131Z">
+        <seg>Se volete che un foglio di lavoro si adatti ad una determinata dimensione di pagina, dovete attentamente controllare la largezza di colonna e l'altezza di riga, usando solamente &lt;f0&gt;File &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Anteprima di stampa&lt;/f3&gt; come guida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Import and export of spreadsheets in multiple formats, including HTML, CSV, PDF, and PostScript.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T102424Z" creationid="briga" creationdate="20160208T102424Z">
@@ -2834,6 +2898,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084431Z" creationid="briga" creationdate="20160210T084431Z">
         <seg>Ingrid Halama &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Initially, the styles are configured so that if you change the font family of &lt;f0&gt;Default&lt;/f0&gt;&lt;f1&gt;, then all of the other styles will change to match.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160216T071258Z" creationid="briga" creationdate="20160216T071258Z">
+        <seg>All'inizio, gli stili sono configurati affinché possiate cambiare la famiglia tipografica di  &lt;f0&gt;Predefinito&lt;/f0&gt;&lt;f1&gt;, e tutti gli altri stili si modificano in cascata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3318,10 +3390,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Page styles</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160216T071411Z" creationid="briga" creationdate="20160216T071411Z">
+        <seg>Stili di pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Page styles assist with printing, so you do not need to define margins, headers and footers, and other printing attributes each time you print a spreadsheet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160215T071504Z" creationid="briga" creationdate="20160215T071504Z">
         <seg>Gli stili di pagina sono di aiuto quando dovete stampare, in modo che non sia necessario definire margini, intestazione e piè di pagina ed altri attributi di stampa, ogni qualvolta dovete stampare un foglio di lavoro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Page styles in Calc are applied to sheets.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160216T071430Z" creationid="briga" creationdate="20160216T071430Z">
+        <seg>Gli stili di pagina in Calc sono applicati ai fogli</seg>
       </tuv>
     </tu>
     <tu>
@@ -3672,8 +3760,8 @@
       <tuv lang="EN">
         <seg>Similar to paragraph styles in &lt;f0&gt;LibreOffice&lt;/f0&gt; Writer, cell styles are the most basic type of style in Calc.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160215T071758Z" creationid="briga" creationdate="20160215T071758Z">
-        <seg>Similar to paragraph styles in &lt;f0&gt;LibreOffice&lt;/f0&gt; Writer, cell styles are the most basic type of style in Calc.</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160216T071017Z" creationid="briga" creationdate="20160215T071758Z">
+        <seg>Come negli stili di paragrafo in &lt;f0&gt;LibreOffice&lt;/f0&gt; Writer, gli stili di cella sono il tipo di stille più basico in Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3682,6 +3770,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090305Z" creationid="briga" creationdate="20160130T090305Z">
         <seg>Simon Brydon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So, for example, a spreadsheet might contain one sheet to be printed in landscape orientation (using the Default page style) and another sheet to be printed in portrait orientation (using the Report page style).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160216T071656Z" creationid="briga" creationdate="20160216T071656Z">
+        <seg>Quindi, ad esempio, un foglio di lavoro potrebbe avere un foglio da stampare in orizzontale (usando lo stile di pagina predefinito) mentre un altro potrebbe essere stampato in verticale (usando lo stile di pagina rapporto).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3890,6 +3986,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084421Z" creationid="briga" creationdate="20160210T084421Z">
         <seg>I collaboratori di quella Guida sono:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The major difference between these two styles is that Report is portrait-oriented and Default is landscape-oriented.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160216T071803Z" creationid="briga" creationdate="20160216T071803Z">
+        <seg>La differenza principale fra di essi è che Rapporto è orientato in verticale laddove Predefinito ha un orientamento orizzontale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4238,6 +4342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We will discuss how to set this up in “&lt;/f1&gt;&lt;rf2&gt;Creating new (custom) styles&lt;/rf2&gt;”&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;on page &lt;/f4&gt;&lt;f5&gt;&lt;rf6&gt;113&lt;/rf6&gt;&lt;/f5&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160216T071334Z" creationid="briga" creationdate="20160216T071334Z">
+        <seg>Vedremo come farlo in “&lt;/f1&gt;&lt;rf2&gt;Creare nuovi stili (personalizzati)&lt;/rf2&gt;”&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;a pagina &lt;/f4&gt;&lt;f5&gt;&lt;rf6&gt;113&lt;/rf6&gt;&lt;/f5&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>What are &lt;i0/&gt;&lt;i1/&gt;styles?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160213T105034Z" creationid="briga" creationdate="20160213T105034Z">
@@ -4414,6 +4526,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can adjust many settings using page styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160216T071818Z" creationid="briga" creationdate="20160216T071818Z">
+        <seg>Potete variare diverse impostazioni attraverso gli stili di pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also define as many page styles as you wish.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160216T071838Z" creationid="briga" creationdate="20160216T071838Z">
+        <seg>Inoltre potete creare tanti stili di pagina quanti ne volete.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can apply a cell style to a cell and that cell will follow the formatting rules of the style.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160216T071116Z" creationid="briga" creationdate="20160216T071105Z">
+        <seg>Potete applicare uno stile di cella ad una cella ed essa seguirà le regole di formattazione dello stile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can enter data (usually numerical) in a spreadsheet and then manipulate this data to produce certain results.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T102027Z" creationid="briga" creationdate="20160208T102027Z">
@@ -4482,6 +4618,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084507Z" creationid="briga" creationdate="20160210T084507Z">
         <seg>licenza di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>page</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160216T071408Z" creationid="briga" creationdate="20160216T071408Z">
+        <seg>pagina</seg>
       </tuv>
     </tu>
     <tu>
