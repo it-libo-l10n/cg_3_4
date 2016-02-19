@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.3_0_r7969:7974" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2042,6 +2042,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160213T104448Z" creationid="briga" creationdate="20160213T104448Z">
         <seg>Capitolo &lt;f0&gt;4 &lt;s1/&gt;&lt;/f0&gt;&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter &lt;f0&gt;5 &lt;s1/&gt;&lt;/f0&gt;&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20160219T210922Z" creationid="luke" creationdate="20160219T210922Z">
+        <seg>Capitolo &lt;f0&gt;5 &lt;s1/&gt;&lt;/f0&gt;&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
