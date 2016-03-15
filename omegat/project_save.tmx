@@ -2142,6 +2142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Format &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Print Ranges &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Define&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160315T172914Z" creationid="Luciano B." creationdate="20160315T172914Z">
+        <seg>Scegliete &lt;f0&gt;Formato &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Aree di stampa &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Definisci&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f1&gt;Tools &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Options &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; Load/Save &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; General&lt;/f10&gt; and select the &lt;f11&gt;Load printer settings with the document&lt;/f11&gt; option.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160313T142216Z" creationid="Luciano B." creationdate="20160308T083507Z">
@@ -2418,6 +2426,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T100105Z" creationid="briga" creationdate="20160208T100105Z">
         <seg>Funzioni per data e ora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Defining a print range</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160315T172826Z" creationid="Luciano B." creationdate="20160315T172826Z">
+        <seg>Definire un'area di stampa</seg>
       </tuv>
     </tu>
     <tu>
@@ -2914,6 +2930,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T101345Z" creationid="briga" creationdate="20160202T101345Z">
         <seg>Nascondere e mostrare i dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Highlight the range of cells that comprise the print range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160315T172847Z" creationid="Luciano B." creationdate="20160315T172847Z">
+        <seg>Evidenziate l'intervallo di celle comprese nell'area di stampa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3790,6 +3814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Print ranges have several uses, including printing only a specific part of the data or printing selected rows or columns on every page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160315T172817Z" creationid="Luciano B." creationdate="20160315T172817Z">
+        <seg>Le aree di stampa hanno molteplici utilizzi, inclusa la stampa di una specifica parte dei dati oppure di righe o colonne selezionate su ogni pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Printing &lt;i0/&gt;multiple pages on a single sheet of paper</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160314T140807Z" creationid="Luciano B." creationdate="20160314T140807Z">
@@ -4550,10 +4582,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This might not be what you want.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160315T172747Z" creationid="Luciano B." creationdate="20160315T172747Z">
+        <seg>Questo potrebbe non essere ciò che volete fare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Times New Roman after you have created a 15-page spreadsheet; you can change all of the subtotals in the document by simply changing the properties for the subtotal style.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160215T071343Z" creationid="briga" creationdate="20160215T071343Z">
         <seg>Times New Roman dopo aver creato un foglio di lavoro di 15 pagine; potete modificare tutti i subtotale nel documento semplicemente cambiando le proprietà dello stile subtotale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To define a new print range or modify an existing print range:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160315T172838Z" creationid="Luciano B." creationdate="20160315T172838Z">
+        <seg>Per definire una nuova area di stampa o modificarne una esistente:</seg>
       </tuv>
     </tu>
     <tu>
