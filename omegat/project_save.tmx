@@ -1510,6 +1510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f4&gt;LibreOffice&lt;/f4&gt; will only display the cells in the print range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T161103Z" creationid="Luciano B." creationdate="20160318T161103Z">
+        <seg>&lt;f4&gt;LibreOffice&lt;/f4&gt; visualizzerà solo le celle comprese nell'area di stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A &lt;f0&gt;dialog&lt;/f0&gt; is a special type of window.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084325Z" creationid="briga" creationdate="20160210T084325Z">
@@ -1654,10 +1662,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding to the print range</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T161135Z" creationid="Luciano B." creationdate="20160318T161135Z">
+        <seg>Aggiungere all'area di stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Advanced functions</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095408Z" creationid="briga" creationdate="20160205T095408Z">
         <seg>Funzioni avanzate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After defining a print range, you can add more cells to it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T161153Z" creationid="Luciano B." creationdate="20160318T161153Z">
+        <seg>Dopo aver definito un'area di stampa, potete aggiungervi altre celle.</seg>
       </tuv>
     </tu>
     <tu>
