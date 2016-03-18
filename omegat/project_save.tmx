@@ -1318,6 +1318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f9&gt;&lt;/f8&gt;This removes &lt;f10&gt;all&lt;/f10&gt; defined print ranges on the sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T163855Z" creationid="Luciano B." creationdate="20160318T163855Z">
+        <seg>&lt;/f9&gt;&lt;/f8&gt;Saranno così rimosse &lt;f10&gt;tutte&lt;/f10&gt; le aree di stampa definite nel foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;http://www.libreoffice.org/get-help/accessibility/&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084118Z" creationid="briga" creationdate="20160210T084118Z">
@@ -1506,6 +1514,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084310Z" creationid="briga" creationdate="20160210T084258Z">
         <seg>&lt;f0&gt;z&lt;/f0&gt; + &lt;f1&gt;T&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f11&gt;After the print range is removed, the default page break lines will appear on the screen.&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T163912Z" creationid="Luciano B." creationdate="20160318T163912Z">
+        <seg>&lt;f11&gt;Dopo aver rimosso l'area di stampa, sullo schermo appaiono le linee di interruzione di pagina predefinite.&lt;/f11&gt;</seg>
       </tuv>
     </tu>
     <tu>
