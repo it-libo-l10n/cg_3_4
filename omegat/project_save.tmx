@@ -3126,6 +3126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If only a single range is defined, then clicking anywhere in the text entry box shows the selected print range on the screen, bounded in blue, as shown in &lt;t0&gt;Figure 139&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T170001Z" creationid="Luciano B." creationdate="20160318T170001Z">
+        <seg>Se è definito solo un singolo intervallo, facendo clic in un qualsiasi punto della casella di testo viene visualizzata l'area di stampa selezionata sullo schermo, delimitato in blu, come mostrato in &lt;t0&gt;Figura 139&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have already selected a print range, the Edit Print Ranges dialog looks something like &lt;t7&gt;Figure 138&lt;/t7&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T165452Z" creationid="Luciano B." creationdate="20160318T165452Z">
@@ -4803,6 +4811,14 @@ La prima è delimitata dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160315T172838Z" creationid="Luciano B." creationdate="20160315T172838Z">
         <seg>Per definire una nuova area di stampa o modificarne una esistente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To directly add new cells to the print range:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T170037Z" creationid="Luciano B." creationdate="20160318T170037Z">
+        <seg>Per aggiungere nuove celle all'area di stampa:</seg>
       </tuv>
     </tu>
     <tu>
