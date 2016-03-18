@@ -1488,8 +1488,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;To remove only certain print ranges, see “&lt;/f0&gt;&lt;f1&gt;&lt;rf2&gt;Editing a print range&lt;/rf2&gt;&lt;/f1&gt;&lt;f3&gt;” below.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T164348Z" creationid="Luciano B." creationdate="20160318T164348Z">
-        <seg>&lt;f0&gt;Per rimuovere solamente alcune aree di stampa, fate riferimento a "&lt;/f0&gt;&lt;f1&gt;&lt;rf2&gt;Modificare un intervallo di stampa&lt;/rf2&gt;&lt;/f1&gt;&lt;f3&gt;" più sotto.&lt;/f3&gt;</seg>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T164826Z" creationid="Luciano B." creationdate="20160318T164348Z">
+        <seg>&lt;f0&gt;Per rimuovere solamente alcune aree di stampa, fate riferimento a "&lt;/f0&gt;&lt;f1&gt;&lt;rf2&gt;Modificare un'area di stampa&lt;/rf2&gt;&lt;/f1&gt;&lt;f3&gt;" più sotto.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2586,6 +2586,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095224Z" creationid="briga" creationdate="20160205T095211Z">
         <seg>Inviare fogli di lavoro tramite e-mail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editing a print range</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T164838Z" creationid="Luciano B." creationdate="20160318T164838Z">
+        <seg>Modificare un'area di stampa</seg>
       </tuv>
     </tu>
     <tu>
