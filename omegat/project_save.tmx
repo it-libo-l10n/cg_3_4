@@ -3606,6 +3606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make sure the remaining ranges only have a single comma as a separator and that there is not a comma at the end of the sequence.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T103723Z" creationid="Luciano B." creationdate="20160322T103723Z">
+        <seg>Assicuratevi che i restanti intervalli di stampa abbiano una sola virgola di separazione a che non ci siano virgole alla fine della sequenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Many people manually format spreadsheet cells and pages without paying any attention to styles.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160213T105125Z" creationid="briga" creationdate="20160213T105125Z">
@@ -4859,6 +4867,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160314T140936Z" creationid="Luciano B." creationdate="20160314T140936Z">
         <seg>Per fare ciò:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To remove a print range, select the range in the text box and delete it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T103603Z" creationid="Luciano B." creationdate="20160322T103603Z">
+        <seg>Per eliminare un intervallo di stampa, selezionare l'intervallo nella casella di testo e cancellatelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To resize a print range, edit the data in the text box for the range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T103827Z" creationid="Luciano B." creationdate="20160322T103827Z">
+        <seg>Per ridimensionare un intervallo di stampa, modificate i dati nella casella di testo.</seg>
       </tuv>
     </tu>
     <tu>
