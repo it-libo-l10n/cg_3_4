@@ -1390,6 +1390,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Edit&lt;/f0&gt; contains commands for editing the document such as &lt;f1&gt;Undo, Changes, Compare Document&lt;/f1&gt;, and &lt;f2&gt;Find and Replace.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160322T164902Z" creationid="michele" creationdate="20160322T164902Z">
+        <seg>&lt;f0&gt;Modifica&lt;/f0&gt; contiene comandi per modificare il documento come &lt;f1&gt;annulla, Confronta documento&lt;/f1&gt;, e &lt;f2&gt; Trova e sostituisci.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;File&lt;/f0&gt; contains commands that apply to the entire document such as &lt;f1&gt;Open, Save, Wizards, Export as PDF&lt;/f1&gt;, and &lt;f2&gt;Digital Signatures&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160322T164636Z" creationid="michele" creationdate="20160322T164636Z">
+        <seg>&lt;f0&gt;File&lt;/f0&gt; contiene comandi che si applicano all'intero documento come &lt;f1&gt;Apri, Salva, Procedure guidate, Esporta nel formato PDF&lt;/f1&gt;, e &lt;f2&gt;Firme digitali&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Ranges and copies&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; section of the Print dialog, select the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Selected cells&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; option.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160315T172111Z" creationid="Luciano B." creationdate="20160315T172111Z">
