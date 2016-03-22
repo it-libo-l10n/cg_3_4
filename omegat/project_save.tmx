@@ -2886,6 +2886,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Parts of the Calc window</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160322T164134Z" creationid="michele" creationdate="20160322T164134Z">
+        <seg>Figura &lt;seq0&gt;2&lt;/seq0&gt;: Componenti della finestra di Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Filters</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160206T083653Z" creationid="briga" creationdate="20160206T083653Z">
@@ -3810,6 +3818,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084528Z" creationid="briga" creationdate="20160210T084528Z">
         <seg>È possibile usare LibreOffice in un ambiente di lavoro?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Menu bar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160322T164137Z" creationid="michele" creationdate="20160322T164137Z">
+        <seg>Barra dei menu</seg>
       </tuv>
     </tu>
     <tu>
@@ -5159,6 +5175,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Under the Title bar is the &lt;i0/&gt;Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160322T164209Z" creationid="michele" creationdate="20160322T164209Z">
+        <seg>Sotto la barra del Titolo c'è la &lt;i0/&gt;Barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Understanding functions</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095311Z" creationid="briga" creationdate="20160205T095311Z">
@@ -5455,6 +5479,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When the spreadsheet is newly created, its name is &lt;f1&gt;Untitled X&lt;/f1&gt;, where &lt;f2&gt;X&lt;/f2&gt; is a number.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160322T164041Z" creationid="michele" creationdate="20160322T164041Z">
+        <seg>Se il foglio elettronico è appena stato creato, il suo nome sarà &lt;f1&gt;Senza nome X&lt;/f1&gt;, dove &lt;f1&gt;X&lt;/f1&gt; è un numero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you apply a style, you apply a whole group of formats at the same time.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160213T105120Z" creationid="briga" creationdate="20160213T105120Z">
@@ -5463,10 +5495,26 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you choose one of the menus, a sub-menu appears with other options.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160322T164306Z" creationid="michele" creationdate="20160322T164306Z">
+        <seg>Facendo clic su uno dei menu, viene visualizzato un sottomenu con ulteriori opzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you close the dialog after use (usually, clicking &lt;f0&gt;OK&lt;/f0&gt; or another button saves your changes and closes the dialog), then you can again work with your document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084339Z" creationid="briga" creationdate="20160210T084339Z">
         <seg>Quando chiudete la finestra di dialogo dopo l'uso (normalmente, facendo clic su &lt;f0&gt;OK&lt;/f0&gt; oppure su un altro pulsante, le vostre modifiche vengono salvate e la finestra di dialogo viene chiusa), potete di nuovo lavorare con il vostro documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you save a spreadsheet for the first time, you are prompted to enter a name of your choice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160322T164044Z" creationid="michele" creationdate="20160322T164044Z">
+        <seg>Quando salvate un foglio elettronico per la prima volta, vi sarà richiesto di inserire un nome di vostra scelta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5731,6 +5779,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T162932Z" creationid="michele" creationdate="20160322T162932Z">
         <seg>finestra principale, descrizione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>menu bar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160322T164140Z" creationid="michele" creationdate="20160322T164140Z">
+        <seg>barra dei menu</seg>
       </tuv>
     </tu>
     <tu>
