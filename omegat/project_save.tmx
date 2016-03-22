@@ -1382,6 +1382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Click &lt;/f0&gt;&lt;f1&gt;OK&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T170032Z" creationid="Luciano B." creationdate="20160322T170032Z">
+        <seg>&lt;f0&gt;Fate click su &lt;/f0&gt;&lt;f1&gt;OK&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Click the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Print&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; button.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160314T151001Z" creationid="Luciano B." creationdate="20160314T151001Z">
@@ -2622,6 +2630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Defining a custom print range</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T170214Z" creationid="Luciano B." creationdate="20160322T170214Z">
+        <seg>Definire un'area di stampa personalizzata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Defining a print range</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160315T172826Z" creationid="Luciano B." creationdate="20160315T172826Z">
@@ -2906,6 +2922,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T110347Z" creationid="Luciano B." creationdate="20160322T110347Z">
         <seg>Figura &lt;seq0&gt;141&lt;/seq0&gt;: La videata di anteprima per l'area di stampa definita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;142&lt;/seq0&gt;: Specifying repeating rows</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T170142Z" creationid="Luciano B." creationdate="20160322T170142Z">
+        <seg>Figura &lt;seq0&gt;142&lt;/seq0&gt;: Specificare le righr da ripetere</seg>
       </tuv>
     </tu>
     <tu>
@@ -5755,6 +5779,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084535Z" creationid="briga" creationdate="20160210T084535Z">
         <seg>Non è necessario richiedere un permesso speciale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You do not need to select the entire range of the rows to be repeated; simply select one cell in each row.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T170110Z" creationid="Luciano B." creationdate="20160322T170110Z">
+        <seg>Non è necessario selezionare l'intera area delle righe da ripetere; è sufficiente selezionare una cella in ogni riga.</seg>
       </tuv>
     </tu>
     <tu>
