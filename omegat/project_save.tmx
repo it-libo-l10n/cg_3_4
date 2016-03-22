@@ -4927,6 +4927,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This automatically changes &lt;/f19&gt;&lt;f20&gt;Rows to repeat&lt;/f20&gt;&lt;f21&gt; from &lt;/f21&gt;&lt;f22&gt;- none -&lt;/f22&gt;&lt;f23&gt; to &lt;/f23&gt;&lt;f24&gt;- user defined -&lt;/f24&gt;&lt;f25&gt;.&lt;/f25&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T162758Z" creationid="Luciano B." creationdate="20160322T162758Z">
+        <seg>Ciò modificherà automaticamente &lt;/f19&gt;&lt;f20&gt;Righe da ripetere&lt;/f20&gt;&lt;f21&gt; da &lt;/f21&gt;&lt;f22&gt;- nessuna -&lt;/f22&gt;&lt;f23&gt; a &lt;/f23&gt;&lt;f24&gt;- definito dall'utente -&lt;/f24&gt;&lt;f25&gt;.&lt;/f25&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This book introduces Calc, the spreadsheet component of LibreOffice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T102015Z" creationid="briga" creationdate="20160208T102015Z">
@@ -5059,6 +5067,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T103603Z" creationid="Luciano B." creationdate="20160322T103603Z">
         <seg>Per eliminare un intervallo di stampa, selezionare l'intervallo nella casella di testo e cancellatelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To repeat columns, &lt;f0&gt;type the columns &lt;/f0&gt;in&lt;f1&gt; the text entry box under &lt;/f1&gt;&lt;f2&gt;Columns to repeat&lt;/f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;For example, to &lt;/f6&gt;repeat&lt;f7&gt; column A, type &lt;/f7&gt;&lt;f8&gt;$A&lt;/f8&gt;&lt;f9&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T162954Z" creationid="Luciano B." creationdate="20160322T162954Z">
+        <seg>Per ripetere le colonne, &lt;f0&gt;digitatele &lt;/f0&gt;nella&lt;f1&gt; casella di inserimento sotto &lt;/f1&gt;&lt;f2&gt;Colonne da ripetere&lt;/f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Ad esempio, per ripetere la colonna A, digitate &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;$A&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;.</seg>
       </tuv>
     </tu>
     <tu>
