@@ -2414,6 +2414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Tools &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Options &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;LibreOffice&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; Appearance&lt;/f12&gt; and scroll down to the Spreadsheet section.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T154141Z" creationid="Luciano B." creationdate="20160323T154141Z">
+        <seg>Scegliete &lt;f0&gt;Strumenti &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Opzioni &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;LibreOffice&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; Aspetto&lt;/f12&gt; e scorrete verso il basso, fino alla sezione Foglio elettronico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f1&gt;Tools &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Options &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; Load/Save &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; General&lt;/f10&gt; and select the &lt;f11&gt;Load printer settings with the document&lt;/f11&gt; option.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160313T142216Z" creationid="Luciano B." creationdate="20160308T083507Z">
@@ -3082,6 +3090,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160213T105136Z" creationid="briga" creationdate="20160213T105136Z">
         <seg>Ad esempio, potreste specificare tipo e dimensione dei caratteri e ogni formattazione come grassetto o corsivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, if the active cell is H15, then the break is created between columns G and H.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153939Z" creationid="Luciano B." creationdate="20160323T153939Z">
+        <seg>Ad esempio, se la cella attiva è la H15, l'interruzione verrà creata tra le colonne G ed H.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4622,10 +4638,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selecting &lt;f0&gt;Column Break&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;creates a page break to the left of the selected cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153926Z" creationid="Luciano B." creationdate="20160323T153857Z">
+        <seg>Selezionando &lt;f0&gt;Interruzione di colonna&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;sarà creata un'interruzione di pagina alla sinistra della cella selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Selecting &lt;f0&gt;Row Break&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;creates a page break above the selected cell.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153812Z" creationid="Luciano B." creationdate="20160323T153812Z">
-        <seg>Selezionando &lt;f0&gt;Interruzione riga&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;sarà creata un'interruzione di pagina sopra la cella selezionata.</seg>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153915Z" creationid="Luciano B." creationdate="20160323T153812Z">
+        <seg>Selezionando &lt;f0&gt;Interruzione di riga&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;sarà creata un'interruzione di pagina sopra la cella selezionata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5395,6 +5419,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T103827Z" creationid="Luciano B." creationdate="20160322T103827Z">
         <seg>Per ridimensionare un intervallo di stampa, modificate i dati nella casella di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To see page break lines more easily on screen, you can change their color.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T154009Z" creationid="Luciano B." creationdate="20160323T154009Z">
+        <seg>Per visualizzare più facilmente le interruzioni di pagina sullo schermo, potete cambiare il loro colore.</seg>
       </tuv>
     </tu>
     <tu>
