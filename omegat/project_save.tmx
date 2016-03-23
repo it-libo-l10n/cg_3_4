@@ -1494,6 +1494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Select &lt;/f0&gt;&lt;f1&gt;Row Break &lt;/f1&gt;&lt;f2&gt;or &lt;/f2&gt;&lt;f3&gt;Column Break&lt;/f3&gt;&lt;f4&gt; depending on your need.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153715Z" creationid="Luciano B." creationdate="20160323T153715Z">
+        <seg>&lt;f0&gt;Selezionate &lt;/f0&gt;&lt;f1&gt;Interruzione di riga &lt;/f1&gt;&lt;f2&gt;oppure &lt;/f2&gt;&lt;f3&gt;Interruzione di colonna&lt;/f3&gt;&lt;f4&gt; in base alle vostre esigenza.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Select the defined print range and click &lt;/f0&gt;&lt;f1&gt;OK&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153125Z" creationid="Luciano B." creationdate="20160323T153125Z">
@@ -2478,6 +2486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Column break</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153831Z" creationid="Luciano B." creationdate="20160323T153831Z">
+        <seg>Interruzione di colonna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Comparing documents</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160206T082915Z" creationid="briga" creationdate="20160206T082915Z">
@@ -3066,6 +3082,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160213T105136Z" creationid="briga" creationdate="20160213T105136Z">
         <seg>Ad esempio, potreste specificare tipo e dimensione dei caratteri e ogni formattazione come grassetto o corsivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, if the active cell is H15, then the break is created between rows 14 and 15.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153821Z" creationid="Luciano B." creationdate="20160323T153821Z">
+        <seg>Ad esempio, se la cella attiva è la H15, l'interruzione verrà creata tra le righe 14 e 15.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4494,6 +4518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Row break</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153735Z" creationid="Luciano B." creationdate="20160323T153735Z">
+        <seg>Interruzione di riga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sandeep Samuel Medikonda</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084439Z" creationid="briga" creationdate="20160210T084439Z">
@@ -4558,6 +4590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Insert &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Page Break&lt;/f3&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153608Z" creationid="Luciano B." creationdate="20160323T153608Z">
+        <seg>Selezionate &lt;f0&gt;Inserisci &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Interruzione di pagina&lt;/f3&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the &lt;f0&gt;Properties&lt;/f0&gt; button to display a printer-specific dialog where you can choose portrait or landscape &lt;i1/&gt;orientation, which paper tray to use, and the paper size to print on.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160314T134356Z" creationid="Luciano B." creationdate="20160314T134356Z">
@@ -4578,6 +4618,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160315T171510Z" creationid="Luciano B." creationdate="20160315T171510Z">
         <seg>Selezionate il primo foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selecting &lt;f0&gt;Row Break&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;creates a page break above the selected cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153812Z" creationid="Luciano B." creationdate="20160323T153812Z">
+        <seg>Selezionando &lt;f0&gt;Interruzione riga&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;sarà creata un'interruzione di pagina sopra la cella selezionata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4962,6 +5010,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T161832Z" creationid="Luciano B." creationdate="20160318T161832Z">
         <seg>L'area di stampa aggiuntiva sarà stampata in una pagina separata, anche se entrambe le aree si trovano sullo stesso foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The break is now set.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153724Z" creationid="Luciano B." creationdate="20160323T153724Z">
+        <seg>Adesso l'interruzione è impostata.</seg>
       </tuv>
     </tu>
     <tu>
