@@ -1454,6 +1454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Help&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;contains links to the Help file bundled with the software, &lt;/f2&gt;&lt;f3&gt;What's This?, Help&lt;/f3&gt;&lt;f4&gt;, and &lt;/f4&gt;&lt;f5&gt;License Information.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160323T163933Z" creationid="michele" creationdate="20160323T163933Z">
+        <seg>&lt;f0&gt;?&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;contiene collegamenti alla Guida che viene fornita con il programma, &lt;/f2&gt;&lt;f3&gt;Cos'è questo?, Guida di LibreOffice &lt;/f3&gt;&lt;f4&gt;, e &lt;/f4&gt;&lt;f5&gt;Informazioni sulla licenza.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Ranges and copies&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; section of the Print dialog, select the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Selected cells&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; option.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160315T172111Z" creationid="Luciano B." creationdate="20160315T172111Z">
@@ -2174,6 +2182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc has several types of &lt;is0/&gt;toolbars&lt;ie1/&gt;: docked (fixed in place), floating, and tear-off.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160323T164018Z" creationid="michele" creationdate="20160323T164018Z">
+        <seg>Calc dispone di diverse &lt;is0/&gt;barre degli strumenti&lt;ie1/&gt;: agganciate (o ancorate), mobili e separabili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc is often used to present data and make forecasts and predictions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="mauri" changedate="20160229T203812Z" creationid="luke" creationdate="20160219T223554Z">
@@ -2802,6 +2818,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095217Z" creationid="briga" creationdate="20160205T095217Z">
         <seg>Firma digitale dei documenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Docked toolbars can be moved to different locations or made to float, and floating toolbars can be docked.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160323T164024Z" creationid="michele" creationdate="20160323T164024Z">
+        <seg>Le barre strumenti agganciate possono essere spostate su lati diversi dello schermo o trasformate in barre mobili; allo stesso modo è possibile agganciare le barre mobili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5575,6 +5599,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Toolbars</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160323T163950Z" creationid="michele" creationdate="20160323T163950Z">
+        <seg>Barre degli strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Type a comma in the text box as the separator for the ranges.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T170212Z" creationid="Luciano B." creationdate="20160318T170212Z">
@@ -6339,6 +6371,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T163916Z" creationid="michele" creationdate="20160322T163916Z">
         <seg>Barra del titolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>toolbars</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160323T164029Z" creationid="michele" creationdate="20160323T164029Z">
+        <seg>barre degli strumenti</seg>
       </tuv>
     </tu>
     <tu>
