@@ -1662,6 +1662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A manual break helps to ensure that your data prints properly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153433Z" creationid="Luciano B." creationdate="20160323T153433Z">
+        <seg>Un'interruzione di pagina manuale contribuisce a fare sì che i vostri dati siano stampati correttamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A particular cell is identified by its row number and column letter.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T162517Z" creationid="michele" creationdate="20160322T162517Z">
@@ -3606,6 +3614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Inserting a page break</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153514Z" creationid="Luciano B." creationdate="20160323T153514Z">
+        <seg>Inserire un'interruzione di pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>International Support</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084038Z" creationid="briga" creationdate="20160210T084038Z">
@@ -3978,6 +3994,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T102807Z" creationid="briga" creationdate="20160202T102807Z">
         <seg>Modificare gli stili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Navigate to the cell where the page break will begin.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153533Z" creationid="Luciano B." creationdate="20160323T153533Z">
+        <seg>Spostatevi nella cella dove avrà inizio la pagina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5191,6 +5215,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This method can be useful to quickly change the print range without highlighting a large area of cells every time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153240Z" creationid="Luciano B." creationdate="20160323T153240Z">
+        <seg>Questo metodo può essere utile per modificare rapidamente l'intervallo di stampa senza evidenziare una grande area di celle ogni volta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This might not be what you want.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T163030Z" creationid="Luciano B." creationdate="20160315T172747Z">
@@ -5247,6 +5279,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To do this, you can use a &lt;f0&gt;manual break&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153401Z" creationid="Luciano B." creationdate="20160323T153401Z">
+        <seg>Per fare ciò, potete utilizzare una &lt;f0&gt;interruzione di pagina manuale&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To do this:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160314T140936Z" creationid="Luciano B." creationdate="20160314T140936Z">
@@ -5259,6 +5299,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T110834Z" creationid="Luciano B." creationdate="20160322T110834Z">
         <seg>Per uscire dall'Anteprima dell'interruzione di pagina, selezionate &lt;f0&gt;Vista &gt; Normale&lt;/f0&gt; dalla barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To insert a page break:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153521Z" creationid="Luciano B." creationdate="20160323T153521Z">
+        <seg>Per inserire una interruzione di pagina:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5687,6 +5735,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>While defining a print range can be a powerful tool, it may sometimes be necessary to manually adjust Calc’s printout.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153259Z" creationid="Luciano B." creationdate="20160323T153259Z">
+        <seg>Anche se definire un'area di stampa può essere uno strumento efficace, a volte potrebbe rendersi necessario modificare manualmente la stampa di Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>While some components of &lt;f0&gt;LibreOffice&lt;/f0&gt; offer many style types, Calc offers only two:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160215T071548Z" creationid="briga" creationdate="20160215T071548Z">
@@ -5843,6 +5899,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084539Z" creationid="briga" creationdate="20160210T084539Z">
         <seg>Potete contribuire allo sviluppo e al supporto degli utenti di LibreOffice in molti modi, senza necessariamente essere un programmatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can insert a horizontal page break above, or a vertical page break to the left of, the active cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153458Z" creationid="Luciano B." creationdate="20160323T153458Z">
+        <seg>Potete inserire un'interruzione orizzontale di pagina sopra la cella attiva, oppure un'interruzione verticale alla sua sinistra.</seg>
       </tuv>
     </tu>
     <tu>
