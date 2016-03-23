@@ -3134,6 +3134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if you set the column break while you are in H15, you can not remove it if you are in cell D15.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T155420Z" creationid="Luciano B." creationdate="20160323T155420Z">
+        <seg>Ad esempio, se avete impostato l'interruzione di colonna dalla casella H15, non potrete rimuoverla dalla cella D15.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, you can create a template for invoices that has your company’s logo and address at the top of the page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160213T104643Z" creationid="briga" creationdate="20160213T104623Z">
@@ -3390,6 +3398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, you can remove it from any cell in column H.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T155433Z" creationid="Luciano B." creationdate="20160323T155433Z">
+        <seg>Potrete comunque rimuoverla da qualsiasi cella della colonna H.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hyperlinks and URLs</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160206T082844Z" creationid="briga" creationdate="20160205T095859Z">
@@ -3554,6 +3570,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084336Z" creationid="briga" creationdate="20160210T084336Z">
         <seg>Generalmente, potete interagire solo con la finestra di dialogo (e non con il documento stesso) fino a quando la finestra di dialogo rimane aperta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order to remove the break, you have to be in the cell next to the break.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T155400Z" creationid="Luciano B." creationdate="20160323T155400Z">
+        <seg>Per rimuovere l'interruzione, dovrete trovarvi in una cella adiacenta ad essa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5331,6 +5355,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T102603Z" creationid="briga" creationdate="20160208T102603Z">
         <seg>Questo è il vostro primo supporto per l'utilizzo di &lt;f3&gt;LibreOffice&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This may be confusing at times, because although there may be a column break set on the page, when you go to &lt;f0&gt;Edit &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Manual Break&lt;/f3&gt;&lt;f4&gt;, the &lt;/f4&gt;&lt;f5&gt;Column break&lt;/f5&gt;&lt;f6&gt; choice may not be available (grayed out).&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T155256Z" creationid="Luciano B." creationdate="20160323T155256Z">
+        <seg>Qualche volta questo potrebbe confondere, perché in presenza di una Interruzione di Colonna nella pagina, andando in  &lt;f0&gt;Modifica &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Interruzione manuale di Pagina&lt;/f3&gt;&lt;f4&gt;, la scelta &lt;/f4&gt;&lt;f5&gt;Interruzione di Colonna&lt;/f5&gt;&lt;f6&gt; potrebbe essere non disponibile (mostrata in grigio).&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
