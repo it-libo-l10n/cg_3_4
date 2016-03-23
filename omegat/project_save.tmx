@@ -1502,6 +1502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Select &lt;/f0&gt;&lt;f1&gt;Row Break&lt;/f1&gt; or &lt;f2&gt;Column Break&lt;/f2&gt;&lt;f3&gt; depending on your need.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T154416Z" creationid="Luciano B." creationdate="20160323T154416Z">
+        <seg>&lt;f0&gt;Selezionate &lt;/f0&gt;&lt;f1&gt;interruzione di Riga&lt;/f1&gt; oppure &lt;f2&gt;Interruzione di Colonna&lt;/f2&gt;&lt;f3&gt; in base alle vostre necessità.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Select the defined print range and click &lt;/f0&gt;&lt;f1&gt;OK&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153125Z" creationid="Luciano B." creationdate="20160323T153125Z">
@@ -2722,6 +2730,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160315T172826Z" creationid="Luciano B." creationdate="20160315T172826Z">
         <seg>Definire un'area di stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Deleting a page break</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T154152Z" creationid="Luciano B." creationdate="20160323T154152Z">
+        <seg>Eliminare un'interruzione di pagina</seg>
       </tuv>
     </tu>
     <tu>
@@ -4038,6 +4054,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Multiple manual row and column breaks can exist on the same page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T154447Z" creationid="Luciano B." creationdate="20160323T154447Z">
+        <seg>Nella stessa pagina possono esistere più interruzioni manuali, sia di riga che di colonna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Navigate to a cell that is next to the break you want to remove.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T154215Z" creationid="Luciano B." creationdate="20160323T154215Z">
+        <seg>Posizionatevi in una cella accanto all'interruzione che volete rimuovere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Navigate to the cell where the page break will begin.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153533Z" creationid="Luciano B." creationdate="20160323T153533Z">
@@ -4606,6 +4638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Edit &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Delete Manual Break&lt;/f3&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T154306Z" creationid="Luciano B." creationdate="20160323T154306Z">
+        <seg>Selezionate &lt;f0&gt;Modifica &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Elimina interruzione manuale di pagina&lt;/f3&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f0&gt;Insert &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Page Break&lt;/f3&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153608Z" creationid="Luciano B." creationdate="20160323T153608Z">
@@ -5038,6 +5078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The break is now removed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T154437Z" creationid="Luciano B." creationdate="20160323T154437Z">
+        <seg>L'interruzione sarà rimossa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The break is now set.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153724Z" creationid="Luciano B." creationdate="20160323T153724Z">
@@ -5395,6 +5443,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T152842Z" creationid="Luciano B." creationdate="20160323T152842Z">
         <seg>Per stampare questo intervallo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To remove a page break:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T154158Z" creationid="Luciano B." creationdate="20160323T154158Z">
+        <seg>Per eliminare un 'interruzione di pagina:</seg>
       </tuv>
     </tu>
     <tu>
