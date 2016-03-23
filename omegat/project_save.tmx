@@ -1310,6 +1310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f3&gt;&lt;f4&gt;The name of the range cannot contain any spaces.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T152732Z" creationid="Luciano B." creationdate="20160323T152732Z">
+        <seg>&lt;/f3&gt;&lt;f4&gt;I nomi dell'intervallo non possono contenere alcun spazio.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f3&gt;Often the word &lt;f4&gt;images &lt;/f4&gt;is used when referring to pictures and other graphics that are not drawing objects.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="mauri" changedate="20160226T193359Z" creationid="mauri" creationdate="20160226T193359Z">
@@ -1354,6 +1362,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084057Z" creationid="briga" creationdate="20160210T084057Z">
         <seg>&lt;a1&gt;&lt;f2&gt;http://www.libreoffice.org/international-sites/&lt;/f2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Click &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;OK&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T152820Z" creationid="Luciano B." creationdate="20160323T152820Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Fate clic su &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;OK&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2346,6 +2362,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160315T172914Z" creationid="Luciano B." creationdate="20160315T172914Z">
         <seg>Scegliete &lt;f0&gt;Formato &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Aree di stampa &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Definisci&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Format &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Print Ranges &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Edit&lt;/f6&gt; (&lt;t7&gt;Figure 138&lt;/t7&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T152925Z" creationid="Luciano B." creationdate="20160323T152925Z">
+        <seg>Scegliete &lt;f0&gt;Formato &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Area di Stampa &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Modifica&lt;/f6&gt; (&lt;t7&gt;Figure 138&lt;/t7&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5227,6 +5251,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T110834Z" creationid="Luciano B." creationdate="20160322T110834Z">
         <seg>Per uscire dall'Anteprima dell'interruzione di pagina, selezionate &lt;f0&gt;Vista &gt; Normale&lt;/f0&gt; dalla barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To print this range:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T152842Z" creationid="Luciano B." creationdate="20160323T152842Z">
+        <seg>Per stampare questo intervallo:</seg>
       </tuv>
     </tu>
     <tu>
