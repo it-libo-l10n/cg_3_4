@@ -3230,6 +3230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Highlight the cells you want to define as a print range and select &lt;/f0&gt;&lt;f1&gt;Insert &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Names &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; Define&lt;/f7&gt;&lt;f8&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T152007Z" creationid="Luciano B." creationdate="20160323T152007Z">
+        <seg>Evidenziate le celle che volete definire come area di stampa e selezionate &lt;/f0&gt;&lt;f1&gt;Inserire &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Nomi &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; Definire&lt;/f7&gt;&lt;f8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Highlight the range of cells that comprise the print range.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160315T172847Z" creationid="Luciano B." creationdate="20160315T172847Z">
@@ -5137,8 +5145,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>This may be useful if there are different areas of a large spreadsheet that need to be printed for different reports.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T170830Z" creationid="Luciano B." creationdate="20160322T170830Z">
-        <seg>Questo può essere utile se ci sono aree diverse di un foglio di calcolo di grandi dimensioni che devono essere stampati per diversi rapporti.</seg>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T151829Z" creationid="Luciano B." creationdate="20160322T170830Z">
+        <seg>Questo può essere utile se ci sono differenti aree di un foglio di calcolo di grandi dimensioni che devono essere stampate per differenti rapporti.</seg>
       </tuv>
     </tu>
     <tu>
