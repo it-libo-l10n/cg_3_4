@@ -1656,8 +1656,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Where a sheet prints to more than one page of paper, it can be printed either by column, where the&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;first column of pages prints, and then the second column and so on, or by row as shown in the graphic on the top right of the dialog in &lt;/f3&gt;&lt;f4&gt;&lt;t5&gt;Figure 144&lt;/t5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T163738Z" creationid="Luciano B." creationdate="20160324T163738Z">
-        <seg>&lt;f0&gt;Nel caso in cui una tabella debba essere stampata in più di una pagina, è possibile stamparla sia per colonna, dove &lt;/ f0&gt; &lt;f1&gt; &lt;f2&gt; &lt;/ f2&gt; &lt;/ f1&gt; &lt;f3&gt; viene stampata la prima colonna, poi la seconda colonna e così via, oppure per riga, come mostrato nel grafico in alto a destra della finestra di dialogo in &lt;/ f3&gt; &lt;f4&gt; &lt;t5&gt; Figura 144 &lt;/t5&gt; &lt;/f4&gt; &lt;f6&gt;. &lt;/f6&gt;</seg>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T164821Z" creationid="Luciano B." creationdate="20160324T163738Z">
+        <seg>&lt;f0&gt;Nel caso in cui una tabella debba essere stampata in più di una pagina, è possibile stamparla sia per colonna, dove &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt; &lt;/f1&gt; &lt;f3&gt; viene stampata la prima colonna, poi la seconda colonna e così via, oppure per riga, come mostrato nel grafico in alto a destra della finestra di dialogo in &lt;/f3&gt; &lt;f4&gt; &lt;t5&gt; Figura 144 &lt;/t5&gt; &lt;/f4&gt; &lt;f6&gt;. &lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5663,6 +5663,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This option will only reduce a printout; it will not enlarge it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T164652Z" creationid="Luciano B." creationdate="20160324T164652Z">
+        <seg>Questa opzione può solo ridurre la dimensione di stampa; non la aumenterà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Times New Roman after you have created a 15-page spreadsheet; you can change all of the subtotals in the document by simply changing the properties for the subtotal style.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160215T071343Z" creationid="briga" creationdate="20160215T071343Z">
@@ -5723,6 +5731,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160314T140936Z" creationid="Luciano B." creationdate="20160314T140936Z">
         <seg>Per fare ciò:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To enlarge a printout, the reduce/enlarge option must be used.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T164742Z" creationid="Luciano B." creationdate="20160324T164742Z">
+        <seg>Per aumentare la dimensione di stampa, occorre usare l'opzione Riduci/ingrandisci stampa.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
