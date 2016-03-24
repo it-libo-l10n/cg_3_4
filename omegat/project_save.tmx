@@ -1470,6 +1470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;From here you can also set the margins, the spacing, and height for the header or footer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T170205Z" creationid="Luciano B." creationdate="20160324T170205Z">
+        <seg>&lt;f0&gt;Da qui potete anche impostare margini, altezza e spaziatura per l'intestazione o il piè di pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Help&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;contains links to the Help file bundled with the software, &lt;/f2&gt;&lt;f3&gt;What's This?, Help&lt;/f3&gt;&lt;f4&gt;, and &lt;/f4&gt;&lt;f5&gt;License Information.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160323T163933Z" creationid="michele" creationdate="20160323T163933Z">
@@ -1554,6 +1562,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T154416Z" creationid="Luciano B." creationdate="20160323T154416Z">
         <seg>&lt;f0&gt;Selezionate &lt;/f0&gt;&lt;f1&gt;interruzione di Riga&lt;/f1&gt; oppure &lt;f2&gt;Interruzione di Colonna&lt;/f2&gt;&lt;f3&gt; in base alle vostre necessità.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Select the &lt;/f0&gt;&lt;f1&gt;Header on&lt;/f1&gt;&lt;f2&gt; option.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T170125Z" creationid="Luciano B." creationdate="20160324T170125Z">
+        <seg>&lt;f0&gt;Selezionate l'opzione &lt;/f0&gt;&lt;f1&gt;Attiva riga d'intestazione&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3146,6 +3162,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T162306Z" creationid="Luciano B." creationdate="20160324T162306Z">
         <seg>Figura &lt;seq0&gt;144&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;145&lt;/seq0&gt;: Header dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T170139Z" creationid="Luciano B." creationdate="20160324T170139Z">
+        <seg>Figura &lt;seq0&gt;145&lt;/seq0&gt;: finestra di dialogo Riga d'intestazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -6451,6 +6475,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160308T083215Z" creationid="Luciano B." creationdate="20160308T083215Z">
         <seg>È possibile modificare l'azione associata all'icona &lt;f0&gt;Stampa file direttamente&lt;/f0&gt; per stampare sulla stampante predefinita del documento invece che sulla stampante predefinita del computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can check the &lt;/f0&gt;&lt;f1&gt;AutoFit height&lt;/f1&gt;&lt;f2&gt; box to automatically adjust the height of the header or footer.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T170240Z" creationid="Luciano B." creationdate="20160324T170240Z">
+        <seg>Potete spuntare la casella &lt;/f0&gt;&lt;f1&gt;Adatta altezza dinamicamente&lt;/f1&gt;&lt;f2&gt; per fare sì che l'altezza dell'intestazione o del piè di pagina venga adattata automaticamente.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
