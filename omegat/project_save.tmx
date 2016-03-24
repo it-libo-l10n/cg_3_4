@@ -2430,6 +2430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Charts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T164008Z" creationid="Luciano B." creationdate="20160324T164008Z">
+        <seg>Diagrammi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;File &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Print&lt;/f3&gt; from the menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160314T150803Z" creationid="Luciano B." creationdate="20160314T150803Z">
@@ -2562,6 +2570,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153831Z" creationid="Luciano B." creationdate="20160323T153831Z">
         <seg>Interruzione di colonna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comments—prints the comments defined in your spreadsheet on a separate page, along with the corresponding cell reference</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T163932Z" creationid="Luciano B." creationdate="20160324T163932Z">
+        <seg>Commenti—stampa i commenti inseriti nel foglio elettronico su una pagina separata, assieme al riferimento di cella corrispondente</seg>
       </tuv>
     </tu>
     <tu>
@@ -2842,6 +2858,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T083851Z" creationid="briga" creationdate="20160210T083851Z">
         <seg>Documentazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drawing objects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T164015Z" creationid="Luciano B." creationdate="20160324T164015Z">
+        <seg>Oggetti di disegno</seg>
       </tuv>
     </tu>
     <tu>
@@ -3290,6 +3314,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T102519Z" creationid="briga" creationdate="20160202T102519Z">
         <seg>Formattazione degli elementi di un diagramma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Formulas—prints the formulas contained in the cells, instead of the results</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T164037Z" creationid="Luciano B." creationdate="20160324T164037Z">
+        <seg>Formula—stampa le formule contenute nelle celle, invece dei risultati</seg>
       </tuv>
     </tu>
     <tu>
@@ -4262,6 +4294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Objects and graphics</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T164002Z" creationid="Luciano B." creationdate="20160324T164002Z">
+        <seg>Oggetti e immagini</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On t&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;he&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;Edit Print Ranges &lt;f12&gt;dialog, type the rows in the text entry box under &lt;/f12&gt;&lt;f13&gt;Rows to repeat&lt;/f13&gt;&lt;f14&gt;.&lt;/f14&gt;&lt;f15&gt;&lt;f16&gt; &lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;For example, to repeat rows 1 and 2, type &lt;/f17&gt;&lt;f18&gt;$1:$2&lt;/f18&gt;&lt;f19&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T162320Z" creationid="Luciano B." creationdate="20160322T160831Z">
@@ -4494,6 +4534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Print</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T163755Z" creationid="Luciano B." creationdate="20160324T163755Z">
+        <seg>Stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Print dialog</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160308T083546Z" creationid="Luciano B." creationdate="20160308T083546Z">
@@ -4698,6 +4746,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084435Z" creationid="briga" creationdate="20160210T084435Z">
         <seg>Rob Scott</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Row and column headers</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T163822Z" creationid="Luciano B." creationdate="20160324T163822Z">
+        <seg>Intestazioni di riga e di colonna</seg>
       </tuv>
     </tu>
     <tu>
@@ -4938,6 +4994,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084437Z" creationid="briga" creationdate="20160210T084437Z">
         <seg>Sharon Whiston</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sheet grid—prints the borders of the cells as a grid</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T163903Z" creationid="Luciano B." creationdate="20160324T163903Z">
+        <seg>Griglia—stampa i bordi delle celle come una griglia</seg>
       </tuv>
     </tu>
     <tu>
@@ -5395,6 +5459,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084322Z" creationid="briga" creationdate="20160210T084322Z">
         <seg>I termini utilizzati in LibreOffice per la maggior parte dell'&lt;i0/&gt;&lt;f1&gt;interfaccia utente&lt;/f1&gt; (la parte del programma che vedete e utilizzate, a differenza del codice dietro le quinte che lo rende funzionante) sono gli stessi come per molti altri programmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These details include:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T163808Z" creationid="Luciano B." creationdate="20160324T163808Z">
+        <seg>Questi dettagli includono:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6307,6 +6379,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T162419Z" creationid="Luciano B." creationdate="20160324T162419Z">
         <seg>Potete selezionare in quale sequenza saranno stampate le pagine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can specify which details to print.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T163802Z" creationid="Luciano B." creationdate="20160324T163802Z">
+        <seg>Potete specificare quali dettagli stampare.</seg>
       </tuv>
     </tu>
     <tu>
