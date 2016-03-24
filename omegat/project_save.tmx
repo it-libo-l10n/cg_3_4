@@ -1454,6 +1454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Fit print range(s) to width/height&lt;/f0&gt;&lt;f1&gt;—defines how high and wide the printout will be, in number of pages.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T165028Z" creationid="Luciano B." creationdate="20160324T165028Z">
+        <seg>&lt;f0&gt;Adatta area di stampa in larghezza/altezza&lt;/f0&gt;&lt;f1&gt;—definisce quanto sarà alta e larga, in pagine, l'area di stampa.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Format&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;contains commands&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;for modifying the layout of a spreadsheet such as &lt;/f4&gt;&lt;f5&gt;Styles and Formatting, Paragraph,&lt;/f5&gt;&lt;f6&gt; and &lt;/f6&gt;&lt;f7&gt;Merge Cells.&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160323T162809Z" creationid="michele" creationdate="20160323T162151Z">
@@ -3466,6 +3474,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095144Z" creationid="briga" creationdate="20160205T095144Z">
         <seg>Intestazioni e piè di pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Headers and footers are predefined pieces of text that are printed at the top or bottom of a sheet outside of the sheet area.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T165141Z" creationid="Luciano B." creationdate="20160324T165141Z">
+        <seg>Intestazioni e piè di pagina sono parti di testo predefinite che sono stampate all'inizio e alla fine del foglio, fuori dall'area della pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Headers are set the same way as footers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T165200Z" creationid="Luciano B." creationdate="20160324T165200Z">
+        <seg>Le intestazioni vengono impostate allo stesso modo dei piè di pagina.</seg>
       </tuv>
     </tu>
     <tu>
