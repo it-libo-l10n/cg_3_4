@@ -1390,6 +1390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;All&lt;/f0&gt;: Exports the entire document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165455Z" creationid="Luciano B." creationdate="20160325T165455Z">
+        <seg>&lt;f0&gt;Tutto&lt;/f0&gt;: Esporta l'intero documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Answers to frequently asked questions&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T083743Z">
@@ -1562,6 +1570,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T152206Z">
         <seg>&lt;f0&gt;Nella finestra di dialogo Definire i Nomi (&lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figura 143&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;), digitare un nome per l'intervallo nella finestra di testo con il cursore lampeggiante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Pages&lt;/f0&gt;: To export a range of pages, use the format &lt;f1&gt;3-6&lt;/f1&gt; (pages 3 to 6).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165522Z" creationid="Luciano B." creationdate="20160325T165522Z">
+        <seg>&lt;f0&gt;Pagine&lt;/f0&gt;: Per esportare un intervallo di pagine usate il formato &lt;f1&gt;3-6&lt;/f1&gt; (pagine da 3 a 6).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3318,6 +3334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;148&lt;/seq0&gt;: General page of PDF Options dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165429Z" creationid="Luciano B." creationdate="20160325T165429Z">
+        <seg>Figura &lt;seq0&gt;148&lt;/seq0&gt;: finestra di dialogo Opzioni PDF, scheda Generale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Dialog showing common controls:&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084347Z">
@@ -3642,6 +3666,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T101849Z">
         <seg>Codici di errore generali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>General page of &lt;is0/&gt;PDF Options dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165350Z" creationid="Luciano B." creationdate="20160325T165350Z">
+        <seg>Finestra di dialogo&lt;is0/&gt; Opzioni PDF - scheda Generale</seg>
       </tuv>
     </tu>
     <tu>
@@ -4654,6 +4686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the &lt;f0&gt;General&lt;/f0&gt; page, you can choose which pages to include in the PDF, the type of compression to use for images (which affects the quality of images in the PDF), and other options.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165415Z" creationid="Luciano B." creationdate="20160325T165415Z">
+        <seg>Nella scheda &lt;f0&gt;Generale&lt;/f0&gt;, potete scegliere quali pagine includere nel PDF, il tipo di compressione per le immagini (che riguarda la qualità delle immagini nel PDF), e altre opzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the &lt;f0&gt;General&lt;/f0&gt; tab of the Print dialog (&lt;t1&gt;Figure 134&lt;/t1&gt;), you can choose:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160314T133518Z">
@@ -5002,6 +5042,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T112614Z">
         <seg>Stampa rapida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Range section</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165446Z" creationid="Luciano B." creationdate="20160325T165446Z">
+        <seg>Sezione Intervallo</seg>
       </tuv>
     </tu>
     <tu>
@@ -6807,6 +6855,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You are then asked to enter the location and file name of the PDF to be created, and click &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;Save&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; to export the file.&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165332Z" creationid="Luciano B." creationdate="20160325T165332Z">
+        <seg>Vi verrà chiesto di inserire il percorso e il nome del file PDF da creare, e di fare clic su &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;Salva&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; per esportare il file.&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can adjust many settings using page styles.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160216T071818Z">
@@ -7091,6 +7147,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160215T071619Z">
         <seg>stili di pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>pages to export</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165436Z" creationid="Luciano B." creationdate="20160325T165436Z">
+        <seg>pagine da esportare</seg>
       </tuv>
     </tu>
     <tu>
