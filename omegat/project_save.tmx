@@ -1406,6 +1406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;PDF/A-1&lt;/f1&gt;&lt;/f0&gt;&lt;ie2/&gt;&lt;f3&gt;&lt;f4&gt;a&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;: PDF/A is an ISO standard for long-term preservation of documents, by embedding all the information necessary for faithful reproduction (such as fonts) while forbidding other elements (including forms, security, and encryption).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T171623Z" creationid="Luciano B." creationdate="20160325T171623Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;PDF/A-1&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;a&lt;/f3&gt;&lt;/f2&gt;: il &lt;f4&gt;&lt;f5&gt;PDF/A&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;-1a&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; è uno standard ISO per la conservazione dei documenti per lunghi periodi, mediante l'incorporamento di tutte le informazioni necessarie per una riproduzione fedele (come i tipi di carattere), escludendo invece altri elementi (come i formulari, la sicurezza e la crittografia).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Reduce image resolution&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;: Lower-DPI (dots per inch) images have lower quality.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T170002Z" creationid="Luciano B." creationdate="20160325T170002Z">
@@ -4006,6 +4014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you select PDF/A-1a, the forbidden elements are grayed-out (not available).&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T171651Z" creationid="Luciano B." creationdate="20160325T171651Z">
+        <seg>Se selezionate PDF/A-1a, gli elementi tralasciati saranno in grigio (non disponibili).&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want a spreadsheet to fit on a certain page size, you have to carefully control the column width and row height, with only &lt;f0&gt;File &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Page Preview&lt;/f3&gt; to guide you.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160216T072200Z">
@@ -4890,6 +4906,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160216T072304Z">
         <seg>Altrimenti, quando vi sarà la necessità di stampare, potreste perdere tempo provando e riprovando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PDF tags are written.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T171629Z" creationid="Luciano B." creationdate="20160325T171629Z">
+        <seg>I tag PDF vengono scritti.</seg>
       </tuv>
     </tu>
     <tu>
