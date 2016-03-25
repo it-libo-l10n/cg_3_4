@@ -2262,6 +2262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc can &lt;is0/&gt;export documents to&lt;ie1/&gt; PDF (Portable Document Format).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T164653Z" creationid="Luciano B." creationdate="20160325T164653Z">
+        <seg>Con Calc è possibile &lt;is0/&gt;esportare i documenti in&lt;ie1/&gt; PDF (Portable Document Format).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc functions similar to database functions</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160206T083710Z">
@@ -2670,6 +2678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;i0/&gt;&lt;f1&gt;Export Directly as PDF&lt;/f1&gt; icon &lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt; to export the entire document using your default PDF settings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T164825Z" creationid="Luciano B." creationdate="20160325T164825Z">
+        <seg>Fate clic sull'icona &lt;i0/&gt;&lt;f1&gt;Esporta direttamente come file PDF&lt;/f1&gt; &lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt; per esportare l'intero documento utilizzando le impostazioni PDF di default.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;i0/&gt;&lt;f1&gt;Print File Directly&lt;/f1&gt; icon &lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt; to send the entire document to the default printer defined for your computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160325T154758Z">
@@ -2746,6 +2762,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T095719Z">
         <seg>Controllo delle funzioni di Correzione automatica di Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Controlling PDF content and quality</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T164854Z" creationid="Luciano B." creationdate="20160325T164854Z">
+        <seg>Controllo del contenuto e della qualità del PDF</seg>
       </tuv>
     </tu>
     <tu>
@@ -4958,6 +4982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Quick export to PDF</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T164714Z" creationid="Luciano B." creationdate="20160325T164714Z">
+        <seg>Esportazione veloce in PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Quick printing</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T112614Z">
@@ -5983,6 +6015,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This industry-standard file format is ideal for sending the file to someone else to view using Adobe Reader or other PDF viewers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T164706Z" creationid="Luciano B." creationdate="20160325T164706Z">
+        <seg>Questo formato standard è ideale per l'invio di file che potranno essere aperti usando Adobe Acrobat Reader o altri visualizzatori PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is especially useful in a large document; for example, controlling the print order can save time if you have to collate the document a certain way.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T162613Z">
@@ -6727,6 +6767,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You are asked to enter the file name and location for the PDF file, but you do not get a chance to choose a page range, the image compression, or other options.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T164844Z" creationid="Luciano B." creationdate="20160325T164844Z">
+        <seg>Vi verrà chiesto di inserire il nome del file e il percorso per il file PDF, ma non avrete la possibilità di scegliere un intervallo di pagine, la compressione dell'immagine, o altre opzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can adjust many settings using page styles.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160216T071818Z">
@@ -6931,6 +6979,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160213T104520Z">
         <seg>descrizione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>export directly as PDF</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T164720Z" creationid="Luciano B." creationdate="20160325T164720Z">
+        <seg>esporta direttamente come file PDF</seg>
       </tuv>
     </tu>
     <tu>
