@@ -1310,6 +1310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f2&gt;Recommended &lt;f3&gt;for other kinds of images or graphics.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165757Z" creationid="Luciano B." creationdate="20160325T165757Z">
+        <seg>&lt;/f2&gt;Consigliato &lt;f3&gt;per altri tipi di immagini od oggetti grafici.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f3&gt;&lt;a5&gt;&lt;f6&gt;https://wiki.documentfoundation.org/Documentation/Publications&lt;/f6&gt;&lt;/a5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T083926Z">
@@ -1378,6 +1386,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T152820Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Fate clic su &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;OK&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Lossless compression&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;: Images are stored without any loss of quality.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165722Z" creationid="Luciano B." creationdate="20160325T165722Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Compressione senza perdite&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;: Le immagini sono salvate senza nessuna perdita di qualità.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1618,6 +1634,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153125Z">
         <seg>&lt;f0&gt;Selezionate l'area di stampa definita e fate clic su &lt;/f0&gt;&lt;f1&gt;OK&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Selection&lt;/f0&gt;: Exports whatever content is selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165604Z" creationid="Luciano B." creationdate="20160325T165604Z">
+        <seg>&lt;f0&gt;Selezione&lt;/f0&gt;: Esporta qualsiasi parte selezionata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3934,6 +3958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Images section</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165619Z" creationid="Luciano B." creationdate="20160325T165619Z">
+        <seg>Sezione Immagini</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Import and export of spreadsheets in multiple formats, including HTML, CSV, PDF, and PostScript.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T102424Z">
@@ -5702,6 +5734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tends to make large files when used with photographs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165733Z" creationid="Luciano B." creationdate="20160325T165733Z">
+        <seg>Crea file di grandi dimensioni quando il documento contiene fotografie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text functions</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T101242Z">
@@ -6243,6 +6283,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T110834Z">
         <seg>Per uscire dall'Anteprima dell'interruzione di pagina, selezionate &lt;f0&gt;Vista &gt; Normale&lt;/f0&gt; dalla barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To export single pages, use the format &lt;f2&gt;7;9;11&lt;/f2&gt; (pages 7, 9, and 11).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165537Z" creationid="Luciano B." creationdate="20160325T165537Z">
+        <seg>Per esportare pagine singole, usate il formato &lt;f2&gt;7;9;11&lt;/f2&gt; (pagine 7, 9 e 11).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6879,6 +6927,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also export a combination of page ranges and single pages, by using a format like &lt;f3&gt;3-6;8;10;12&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165557Z" creationid="Luciano B." creationdate="20160325T165557Z">
+        <seg>Potete anche esportare una combinazione di un intervallo di pagine e pagine singole, utilizzando un formato come &lt;f3&gt;3-6;8;10;12&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also modify these toolbars, as discussed in Chapter 14, Setting Up and Customizing Calc.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160323T164430Z">
@@ -7091,6 +7147,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160313T142905Z">
         <seg>opzioni generali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>image compression and resolution</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165610Z" creationid="Luciano B." creationdate="20160325T165610Z">
+        <seg>compressione e risoluzione dell'immagine</seg>
       </tuv>
     </tu>
     <tu>
