@@ -1390,6 +1390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Create PDF &lt;/f1&gt;&lt;/f0&gt;&lt;is2/&gt;&lt;f3&gt;&lt;f4&gt;form&lt;/f4&gt;&lt;/f3&gt;&lt;ie5/&gt;&lt;f6&gt;&lt;f7&gt; - Submit format:&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; Choose the format for submitting forms from within the PDF file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T171904Z" creationid="Luciano B." creationdate="20160325T171904Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Crea formulario PDF&lt;/f1&gt;&lt;/f0&gt;&lt;is2/&gt;&lt;is3/&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;ie6/&gt;&lt;ie7/&gt;&lt;f8&gt;&lt;f9&gt; - Formato di invio dati:&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; Scegliete il formato per l'invio dei formulari dal file PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;JPEG compression&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;: Allows for varying degrees of quality.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165849Z" creationid="Luciano B." creationdate="20160325T165849Z">
@@ -1408,8 +1416,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;PDF/A-1&lt;/f1&gt;&lt;/f0&gt;&lt;ie2/&gt;&lt;f3&gt;&lt;f4&gt;a&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;: PDF/A is an ISO standard for long-term preservation of documents, by embedding all the information necessary for faithful reproduction (such as fonts) while forbidding other elements (including forms, security, and encryption).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T171623Z" creationid="Luciano B." creationdate="20160325T171623Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;PDF/A-1&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;a&lt;/f3&gt;&lt;/f2&gt;: il &lt;f4&gt;&lt;f5&gt;PDF/A&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;-1a&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; è uno standard ISO per la conservazione dei documenti per lunghi periodi, mediante l'incorporamento di tutte le informazioni necessarie per una riproduzione fedele (come i tipi di carattere), escludendo invece altri elementi (come i formulari, la sicurezza e la crittografia).</seg>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T171704Z" creationid="Luciano B." creationdate="20160325T171623Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;PDF/A-1&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;a&lt;/f3&gt;&lt;/f2&gt;: il &lt;f4&gt;&lt;f5&gt;PDF/A&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;-1a&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; è uno standard ISO per la conservazione dei documenti per lunghi periodi, mediante l'incorporamento di tutte le informazioni necessarie per una riproduzione fedele (come i tipi di carattere), tralasciando invece altri elementi (come i formulari, la sicurezza e la crittografia).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1418,6 +1426,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T170002Z" creationid="Luciano B." creationdate="20160325T170002Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Riduci risoluzione immagine&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;: Le immagini con un numero inferiore di DPI (dots per inch - punti per pollice) sono di qualità più scarsa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Tagged PDF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;: Tagged PDF contains information about the structure of the document’s contents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T171732Z" creationid="Luciano B." creationdate="20160325T171732Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;PDF con tag&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;: Un PDF con tag contiene informazioni relative alla struttura dei contenuti del documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5670,6 +5686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some tags that are exported are table of contents, hyperlinks, and controls.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T171829Z" creationid="Luciano B." creationdate="20160325T171829Z">
+        <seg>Alcuni dei tag esportati sono indici, collegamenti e controlli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sorting</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160206T083040Z">
@@ -6103,6 +6127,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There is only one common setting valid for the whole PDF document: PDF (sends the whole document), &lt;/f8&gt;&lt;is9/&gt;&lt;f10&gt;FDF&lt;/f10&gt;&lt;ie11/&gt;&lt;f12&gt; (sends the control contents), HTML, and XML.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T171943Z" creationid="Luciano B." creationdate="20160325T171943Z">
+        <seg>È disponibile una sola impostazione comune valida per l'intero documento PDF: PDF (invia l'intero documento), &lt;/f2&gt;&lt;is3/&gt;&lt;f4&gt;FDF&lt;/f4&gt;&lt;ie5/&gt;&lt;f6&gt; (invia i contenuti del controllo), HTML e XML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These details include:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T163808Z">
@@ -6195,6 +6227,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T102457Z">
         <seg>Questo libro, le altre guide utente di &lt;f0&gt;LibreOffice&lt;/f0&gt;, il sistema di aiuto integrato, e i sistemi di assistenza agli utilizzatori presuppongono che da parte vostra vi sia un minimo di familiarità con il vostro computer e con funzioni basilari quali l'avvio di un programma, l'apertura ed il salvataggio di un file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This can help to display the document on devices with different screens, and when using screen reader software.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T171814Z" creationid="Luciano B." creationdate="20160325T171814Z">
+        <seg>Ciò può essere utile per la visualizzazione del documento su dispositivi con schermi differenti, e quando vengono usati software appositi per la lettura su schermo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6295,10 +6335,26 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This option can increase file sizes significantly.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T171836Z" creationid="Luciano B." creationdate="20160325T171836Z">
+        <seg>Questa opzione può far incrementare in modo significativo le dimensioni del file.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This option will only reduce a printout; it will not enlarge it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T164652Z">
         <seg>Questa opzione può solo ridurre la dimensione di stampa; non la aumenterà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This setting overrides the control’s URL property that you set in the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T171923Z" creationid="Luciano B." creationdate="20160325T171923Z">
+        <seg>Questa impostazione consente di ignorare le proprietà URL del controllo che avete inserito nel documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7363,6 +7419,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160213T105026Z">
         <seg>stili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tagged</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T171711Z" creationid="Luciano B." creationdate="20160325T171711Z">
+        <seg>contrassegnati</seg>
       </tuv>
     </tu>
     <tu>
