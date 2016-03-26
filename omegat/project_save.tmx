@@ -1510,6 +1510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Create hybrid file&lt;/f0&gt;: This setting enables you to export the document as a .pdf file containing two file formats: PDF and ODF.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T154837Z" creationid="Luciano B." creationdate="20160326T154837Z">
+        <seg>&lt;f0&gt;Creare file ibrido&lt;/f0&gt;: Questa impostazione permette di esportare il documento come un file .pdf contenente due formati di file: PDF and ODF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Data&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;contains commands for manipulating data in your spreadsheet such as &lt;/f2&gt;&lt;f3&gt;Define Range, Sort,&lt;/f3&gt;&lt;f4&gt; and &lt;/f4&gt;&lt;f5&gt;Filter.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160323T163322Z">
@@ -1522,6 +1530,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T164902Z">
         <seg>&lt;f0&gt;Modifica&lt;/f0&gt; contiene comandi per modificare il documento come &lt;f1&gt;annulla, Confronta documento&lt;/f1&gt;, e &lt;f2&gt; Trova e sostituisci.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Embed standard fonts:&lt;/f0&gt; &lt;f1&gt;You can choose to embed&lt;/f1&gt; the standard fonts (Times, Helvetica, Courier, Symbol, and ZapfDingbats) in all PDF documents created by &lt;f2&gt;LibreOffice,&lt;/f2&gt; to enhance display accuracy in PDF viewers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T154706Z" creationid="Luciano B." creationdate="20160326T154706Z">
+        <seg>&lt;f0&gt;Incorpora caratteri standard:&lt;/f0&gt; &lt;f1&gt;Potete sceglire di incorporare&lt;/f1&gt; i caratteri standard (Times, Helvetica, Courier, Symbol, and ZapfDingbats) in tutti i documenti PDF creati con &lt;f2&gt;LibreOffice,&lt;/f2&gt; per migliorare la visualizzazione con i lettori di file PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4278,6 +4294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Initial View page of PDF Options dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T154853Z" creationid="Luciano B." creationdate="20160326T154853Z">
+        <seg>Finestra di dialogo Opzioni PDF - scheda Visualizzazione iniziale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Initially, the styles are configured so that if you change the font family of &lt;f0&gt;Default&lt;/f0&gt;&lt;f1&gt;, then all of the other styles will change to match.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160216T071258Z">
@@ -4874,6 +4898,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160325T155614Z">
         <seg>Nella scheda &lt;f0&gt;Opzioni&lt;/f0&gt; della finestra di dialogo Stampa(&lt;t1&gt;Figura 135&lt;/t1&gt;), è possibile scegliere di stampare in un file (invece che su una stampante), per creare una singola stampa contenente più copie dello stesso documento (invece di una stampa separata per ogni copia)&lt;f2&gt;.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the &lt;i0/&gt;&lt;f1&gt;Initial View&lt;/f1&gt; page (&lt;t2&gt;Figure 149&lt;/t2&gt;), you can choose how the PDF opens by default in a PDF viewer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T155001Z" creationid="Luciano B." creationdate="20160326T155001Z">
+        <seg>Nella scheda &lt;i0/&gt;&lt;f1&gt;Visualizzazione iniziale&lt;/f1&gt; (&lt;t2&gt;Figura 149&lt;/t2&gt;), potete scegliere la modalità predefinita di apertura del file PDF in un visualizzatore PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7363,6 +7395,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165610Z" creationid="Luciano B." creationdate="20160325T165610Z">
         <seg>compressione e risoluzione dell'immagine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>initial view selection</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T154902Z" creationid="Luciano B." creationdate="20160326T154902Z">
+        <seg>selezione visualizzazione iniziale</seg>
       </tuv>
     </tu>
     <tu>
