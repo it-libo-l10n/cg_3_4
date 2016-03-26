@@ -1398,6 +1398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Export bookmarks: &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Exports sheet names in Calc documents as “bookmarks” (a table of contents list displayed by some PDF readers, including Adobe Reader).&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T154144Z" creationid="Luciano B." creationdate="20160326T154144Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Esporta segnalibri: &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Esporta i nomi dei fogli dei documenti di Calc come “segnalibri” (un elenco indice mostrato dalla maggior parte dei lettori PDF, incluso Adobe Reader).&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Export comments&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;: Exports comments in Calc documents as PDF notes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T153814Z" creationid="Luciano B." creationdate="20160326T153814Z">
@@ -7267,6 +7275,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T164043Z">
         <seg>Valori zero—stampa le celle con valore zero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>blank page export</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T154151Z" creationid="Luciano B." creationdate="20160326T154151Z">
+        <seg>esporta pagine vuote</seg>
       </tuv>
     </tu>
     <tu>
