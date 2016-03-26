@@ -1534,6 +1534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Export automatically inserted &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;blank pages&lt;/f2&gt;: Not available in Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T154336Z" creationid="Luciano B." creationdate="20160326T154336Z">
+        <seg>&lt;f0&gt;Esporta pagine vuote inserite &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;automaticamente&lt;/f2&gt;: Non disponibile in Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;File&lt;/f0&gt; contains commands that apply to the entire document such as &lt;f1&gt;Open, Save, Wizards, Export as PDF&lt;/f1&gt;, and &lt;f2&gt;Digital Signatures&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T164636Z">
@@ -7315,6 +7323,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160213T104520Z">
         <seg>descrizione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>embed standard fonts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T154356Z" creationid="Luciano B." creationdate="20160326T154356Z">
+        <seg>incorpora caratteri standard</seg>
       </tuv>
     </tu>
     <tu>
