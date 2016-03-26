@@ -1398,6 +1398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Export comments&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;: Exports comments in Calc documents as PDF notes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T153814Z" creationid="Luciano B." creationdate="20160326T153814Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Esporta i commenti&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;: Esporta i commenti in Calc come note PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;JPEG compression&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;: Allows for varying degrees of quality.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165849Z" creationid="Luciano B." creationdate="20160325T165849Z">
@@ -7243,6 +7251,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20160129T124304Z">
         <seg>È possibile distribuire e/o modificare il documento rispettando i termini della GNU General Public License (&lt;a1&gt;http://www.gnu.org/licenses/gpl.html&lt;/a1&gt;), versione 3 o successiva o della Creative Commons Attribution License (&lt;a2&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a2&gt;), versione 3.0 o successiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may not want this!&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T153741Z" creationid="Luciano B." creationdate="20160326T153741Z">
+        <seg>Forse non desiderate questo!&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
