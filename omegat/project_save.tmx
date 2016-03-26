@@ -1486,6 +1486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Center window on screen:&lt;/f0&gt; Causes the PDF viewer window to be centered on the computer screen.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T160315Z" creationid="Luciano B." creationdate="20160326T160315Z">
+        <seg>&lt;f0&gt;Centra finestra sullo schermo:&lt;/f0&gt; Fa sì che il visualizzatore di PDF centri la finestra sullo schermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Choose &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;File &gt; Print&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; from the menu.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160315T172028Z">
@@ -1522,6 +1530,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160323T163322Z">
         <seg>&lt;f0&gt;Dati&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;contiene comandi per manipolare i dati del tuo foglio elettronico come &lt;/f2&gt;&lt;f3&gt; definisci area, Ordina,&lt;/f3&gt;&lt;f4&gt; e &lt;/f4&gt;&lt;f5&gt;Filtro.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Display document title:&lt;/f0&gt; Causes the PDF viewer to display the document’s title in the title bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T160402Z" creationid="Luciano B." creationdate="20160326T160402Z">
+        <seg>&lt;f0&gt;Visualizza titolo documento:&lt;/f0&gt; Fa sì che il visualizzatore di PDF mostri il titolo del documento nella barra del titolo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1606,6 +1622,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Hide menubar:&lt;/f0&gt; Causes the PDF viewer to hide the menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T160423Z" creationid="Luciano B." creationdate="20160326T160423Z">
+        <seg>&lt;f0&gt;Nascondi barra dei menu:&lt;/f0&gt; Fa sì che il visualizzatore di PDF nasconda la barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Hide toolbar:&lt;/f0&gt; Causes the PDF viewer to hide the toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T160444Z" creationid="Luciano B." creationdate="20160326T160444Z">
+        <seg>&lt;f0&gt;Nascondi barra degli strumenti:&lt;/f0&gt; Fa sì che il visualizzatore di PDF nasconda la barra degli strumenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Hide window controls:&lt;/f0&gt; Causes the PDF viewer to hide other window controls.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T160458Z" creationid="Luciano B." creationdate="20160326T160458Z">
+        <seg>&lt;f0&gt;Nascondi controlli finestra:&lt;/f0&gt; Fa sì che il visualizzatore di PDF nasconda altri controlli finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;In the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Ranges and copies&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; section of the Print dialog, select the &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Selected cells&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; option.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160315T172111Z">
@@ -1670,6 +1710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Open in full screen mode:&lt;/f0&gt; Causes the PDF viewer to open full-screen instead of in a smaller window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T160339Z" creationid="Luciano B." creationdate="20160326T160339Z">
+        <seg>&lt;f0&gt;Apri in modalità schermo intero:&lt;/f0&gt; Fa sì che il visualizzatore di PDF apra a pieno schermo invece che in una finestra più piccola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Pages&lt;/f0&gt;: To export a range of pages, use the format &lt;f1&gt;3-6&lt;/f1&gt; (pages 3 to 6).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165522Z" creationid="Luciano B." creationdate="20160325T165522Z">
@@ -1682,6 +1730,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T164148Z">
         <seg>&lt;f0&gt;Riduci/Ingrandisci la stampa&lt;/f0&gt;—applica una scala maggiore o minore alla stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Resize window to initial page:&lt;/f0&gt; Causes the PDF viewer window to resize to fit the first page of the PDF.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T160250Z" creationid="Luciano B." creationdate="20160326T160250Z">
+        <seg>&lt;f0&gt;Ridimensiona finestra a pagina iniziale:&lt;/f0&gt; Fa sì che il visualizzatore di PDF ridimensioni la finestra adattandola alla prima pagina del file PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2338,6 +2394,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160216T071915Z">
         <seg>Poiché i fogli di lavoro sono prevalentemente usati sullo schermo, e non stampati, Calc non mostra gli stili di pagina a video.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bookmarks</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T160532Z" creationid="Luciano B." creationdate="20160326T160532Z">
+        <seg>Segnalibri</seg>
       </tuv>
     </tu>
     <tu>
@@ -4854,6 +4918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not available in Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T160526Z" creationid="Luciano B." creationdate="20160326T160526Z">
+        <seg>Non disponibile in Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160308T083108Z">
@@ -6655,6 +6727,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Transitions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T160504Z" creationid="Luciano B." creationdate="20160326T160504Z">
+        <seg>Transizioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Type a comma in the text box as the separator for the ranges.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T170212Z">
@@ -6715,6 +6795,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T083852Z">
         <seg>Guide utente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User interface options section</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T160409Z" creationid="Luciano B." creationdate="20160326T160409Z">
+        <seg>Sezione Opzioni interfaccia utente</seg>
       </tuv>
     </tu>
     <tu>
