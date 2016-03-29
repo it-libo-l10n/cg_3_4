@@ -5350,6 +5350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the &lt;f4&gt;General&lt;/f4&gt; tab, uncheck &lt;f5&gt;Apply user data&lt;/f5&gt; and then click the &lt;f6&gt;Reset&lt;/f6&gt; button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T162723Z" creationid="Luciano B." creationdate="20160329T162723Z">
+        <seg>Nella scheda &lt;f4&gt;General&lt;/f4&gt;, deselezionate &lt;f5&gt;Usa i dati utente&lt;/f5&gt; e quindi fate clicsul pulsante &lt;f6&gt;Ripristina&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the &lt;i0/&gt;&lt;f1&gt;Initial View&lt;/f1&gt; page (&lt;t2&gt;Figure 149&lt;/t2&gt;), you can choose how the PDF opens by default in a PDF viewer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T155001Z" creationid="Luciano B." creationdate="20160326T155001Z">
@@ -6971,6 +6979,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T164652Z">
         <seg>Questa opzione può solo ridurre la dimensione di stampa; non la aumenterà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This removes any names in the created and modified fields, deletes the modification and printing dates, and resets the editing time to zero, the creation date to the current date and time, and the version number to 1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T162826Z" creationid="Luciano B." creationdate="20160329T162826Z">
+        <seg>In tal modo sarà rimosso qualsiasi nome presente in comandi di campo creati o modificati, saranno eliminate le date di modifica e stampa, il tempo di modifica sarà azzerato, la data di creazione sarà impostata alla data e ora corrente, e il numero di versione sarà riportato a 1.</seg>
       </tuv>
     </tu>
     <tu>
