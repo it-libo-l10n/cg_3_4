@@ -5094,6 +5094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once opened, there are no restrictions on what the user can do with the document (for example, print, copy, or change it).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T150546Z" creationid="Luciano B." creationdate="20160329T150546Z">
+        <seg>Una volta aperto il file, non esistono restrizioni su cosa può fare l'utente sul documento (per esempio stamparlo, copiarlo o cambiarlo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only one bookmark level (sheet names) is available in Calc, regardless of the setting selected here.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T160724Z" creationid="Luciano B." creationdate="20160326T160724Z">
@@ -5178,6 +5186,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160216T072304Z">
         <seg>Altrimenti, quando vi sarà la necessità di stampare, potreste perdere tempo provando e riprovando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PDF export includes options to &lt;is0/&gt;encrypt&lt;ie1/&gt; the PDF (so it cannot be opened without a password) and apply some &lt;is2/&gt;&lt;is3/&gt;digital rights management (DRM)&lt;ie4/&gt;&lt;ie5/&gt; features.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T150503Z" creationid="Luciano B." creationdate="20160329T150503Z">
+        <seg>L'esportazione dei file in PDF include le opzioni per la &lt;is0/&gt;cifratura&lt;ie1/&gt; del PDF (così che essi non possano essere aperti senza una password) e per l'applicazione di alcune funzionalità relative alla&lt;is2/&gt;&lt;is3/&gt; gestione dei diritti digitali (DRM)&lt;ie4/&gt;&lt;ie5/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5626,6 +5642,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T083119Z">
         <seg>Vedere la &lt;t0&gt;Tabella 1&lt;/t0&gt; e questa pagina web: &lt;a1&gt;http://it.libreoffice.org/supporto/&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;t2&gt;Figure 152&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T150648Z" creationid="Luciano B." creationdate="20160329T150648Z">
+        <seg>Vedere &lt;t2&gt;Figura 152&lt;/t2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7303,6 +7327,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With a&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;permissions password set&lt;/f1&gt;, the PDF can be opened by anyone, but its permissions can be restricted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T150631Z" creationid="Luciano B." creationdate="20160329T150631Z">
+        <seg>Con una&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;password di autorizzazione impostata&lt;/f1&gt;, il PDF può essere aperto da chiunque, ma i permessi a operare su esso possono essere limitati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With an &lt;f0&gt;open password&lt;/f0&gt; set, the PDF can only be opened with the &lt;i1/&gt;password&lt;i2/&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T150529Z" creationid="Luciano B." creationdate="20160329T150529Z">
+        <seg>Impostando una &lt;f0&gt;password di apertura&lt;/f0&gt;, il documento può essere aperto solamente con la &lt;i1/&gt;password&lt;i2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Working backwards using Goal Seek</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095747Z">
@@ -7715,6 +7755,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165436Z" creationid="Luciano B." creationdate="20160325T165436Z">
         <seg>pagine da esportare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>password-protect</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T150508Z" creationid="Luciano B." creationdate="20160329T150508Z">
+        <seg>protezione con password</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>password-protect PDF</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T150514Z" creationid="Luciano B." creationdate="20160329T150514Z">
+        <seg>Protezione dei PDF con password</seg>
       </tuv>
     </tu>
     <tu>
