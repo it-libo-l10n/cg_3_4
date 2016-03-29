@@ -2462,6 +2462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc also allows the insertion of links directly into the spreadsheet using the Hyperlink dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T154133Z" creationid="Luciano B." creationdate="20160329T154133Z">
+        <seg>Calc permette inoltre l'inserimento di collegamenti direttamente nel foglio elettronico usando la finestra di dialogo Collegamento ipertestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc as a Simple Database</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160206T083059Z">
@@ -2490,6 +2498,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T151524Z" creationid="Luciano B." creationdate="20160329T151524Z">
         <seg>Calc può salvare file come documenti HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calc document as attachment</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T154200Z" creationid="Luciano B." creationdate="20160329T154200Z">
+        <seg>Documenti di Calc come allegati</seg>
       </tuv>
     </tu>
     <tu>
@@ -4238,6 +4254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the file contains more than one sheet, the additional sheets will follow one another in the HTML file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T154101Z" creationid="Luciano B." creationdate="20160329T154101Z">
+        <seg>Se il file contiene più di un foglio, i fogli aggiuntivi saranno disposti uno dopo l'altro nel file HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have already selected a print range, the Edit Print Ranges dialog looks something like &lt;t7&gt;Figure 138&lt;/t7&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T165452Z">
@@ -4818,6 +4842,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T160822Z" creationid="Luciano B." creationdate="20160326T160822Z">
         <seg>Pagina di collegamento alla finestra di dialogo Opzioni PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Links to each sheet will be placed at the top of the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T154109Z" creationid="Luciano B." creationdate="20160329T154109Z">
+        <seg>I collegamenti a ciascun foglio saranno posti all'inizio del documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7739,6 +7771,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160213T104520Z">
         <seg>descrizione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>e-mailing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T154212Z" creationid="Luciano B." creationdate="20160329T154212Z">
+        <seg>invio tramite e-mail</seg>
       </tuv>
     </tu>
     <tu>
