@@ -4310,6 +4310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If both are the same, the program will signal that you see the original, unchanged document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T161057Z" creationid="Luciano B." creationdate="20160329T161057Z">
+        <seg>Se risultano uguali, il programma vi segnalerà che state visualizzando il documento originale, non modificato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If only a single range is defined, then clicking anywhere in the text entry box shows the selected print range on the screen, bounded in blue, as shown in &lt;t0&gt;Figure 139&lt;/t0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T170001Z">
@@ -4450,6 +4458,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160315T170846Z">
         <seg>Oltre a stampare l'intero documento, potete scegliere di stampare singole pagine, intervalli di pagine, o una selezione del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition, the program can show you the public key information from the certificate.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T161107Z" creationid="Luciano B." creationdate="20160329T161107Z">
+        <seg>noltre, il programma può mostrarvi informazioni sulla chiave pubblica del certificato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5202,6 +5218,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T164002Z">
         <seg>Oggetti e immagini</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On Solaris and Linux systems, files that are supplied by Thunderbird, Mozilla or Firefox are used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T161319Z" creationid="Luciano B." creationdate="20160329T161319Z">
+        <seg>Su sistemi Solaris e Linux, vengono utilizzati i file forniti da Thunderbird, Mozilla o Firefox.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On Windows operating systems, the Windows features of validating a signature are used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T161300Z" creationid="Luciano B." creationdate="20160329T161300Z">
+        <seg>Sui sistemi operativi Windows vengono utilizzate le funzionalità di convalida della firma digitale fornite da Windows.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7447,6 +7479,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When someone later opens the document on any computer with a recent version of &lt;f0&gt;LibreOffice&lt;/f0&gt;, the program will compute the checksum again and compare it with the stored checksum.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T161047Z" creationid="Luciano B." creationdate="20160329T161047Z">
+        <seg>Quando qualcuno, successivamente, aprirà il documento su qualsiasi computer con installata una versione recente di &lt;f0&gt;LibreOffice&lt;/f0&gt;, il programma ricalcolerà di nuovo la somma di controllo, comparandola poi con quella salvata in precedenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When the spreadsheet is newly created, its name is &lt;f1&gt;Untitled X&lt;/f1&gt;, where &lt;f2&gt;X&lt;/f2&gt; is a number.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T150143Z">
@@ -7499,6 +7539,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T154514Z">
         <seg>Nel caso vogliate rimuoverle, dovrete toglierle una ad una.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whenever someone changes something in the document, this change breaks the digital signature.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T161246Z" creationid="Luciano B." creationdate="20160329T161246Z">
+        <seg>Ogni volta che qualcuno cambia qualcosa nel documento, queste variazioni modificano la firma digitale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7739,6 +7787,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160325T155946Z">
         <seg>Potete scegliere di stampare fogli singoli, multipli, e selezioni di celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can compare this key with the public key that is published on the web site of the certificate authority.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T161205Z" creationid="Luciano B." creationdate="20160329T161205Z">
+        <seg>Potete confrontare questa chiave ricevuta e la chiave pubblica presente sul sito web dell'autorità di certificazione.</seg>
       </tuv>
     </tu>
     <tu>
