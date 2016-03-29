@@ -2022,6 +2022,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A personal key is stored on your computer as a combination of a private key, which must be kept secret, and a public key, which you add to your documents when you sign them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T160756Z" creationid="Luciano B." creationdate="20160329T160756Z">
+        <seg>Una chiave personale è memorizzata sul vostro computer come combinazione tra una chiave privata, che deve essere mantenuta segreta, e una chiave pubblica, che viene aggiunta ai vostri documenti quando li firmate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A range of cell styles are supplied with &lt;f1&gt;LibreOffice; five are shown &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;in &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;&lt;t6&gt;Figure 106&lt;/t6&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f7&gt;&lt;f8&gt;.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160216T071150Z">
@@ -6462,6 +6470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The checksum and your public key are stored together with the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T160929Z" creationid="Luciano B." creationdate="20160329T160929Z">
+        <seg>La somma di controllo e la vostra chiave pubblica vengono salvate insieme nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The contributors to that book are:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084421Z">
@@ -7439,6 +7455,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you apply a &lt;is0/&gt;digital signature&lt;ie1/&gt; to a document, a checksum is computed from the document’s content plus your personal key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T160913Z" creationid="Luciano B." creationdate="20160329T160913Z">
+        <seg>Quando applicate una &lt;is0/&gt;firma digitale&lt;ie1/&gt; a un documento, viene calcolata di somma di controllo dal contenuto del documento e dalla vostra chiave personale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you apply a style, you apply a whole group of formats at the same time.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160213T105120Z">
@@ -7731,6 +7755,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T102027Z">
         <seg>Potete inserire dei dati (normalmente numerici) in un foglio elettronico e poi manipolarli per ottenere determinati risultati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can get a certificate from a certification authority, which may be a private company or a governmental institution.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T160810Z" creationid="Luciano B." creationdate="20160329T160810Z">
+        <seg>Potete ottenere un certificato da una autorità di certificazione, che potrebbe essere un'azienda privata o un'istituzione governativa.</seg>
       </tuv>
     </tu>
     <tu>
