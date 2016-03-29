@@ -3342,6 +3342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>E-mailing a spreadsheet to &lt;is0/&gt;several recipients</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T160419Z" creationid="Luciano B." creationdate="20160329T160419Z">
+        <seg>Inviare per e-mail un documento&lt;is0/&gt; a diversi destinatari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>E-mailing spreadsheets</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095224Z">
@@ -4298,6 +4306,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T154101Z" creationid="Luciano B." creationdate="20160329T154101Z">
         <seg>Se il file contiene più di un foglio, i fogli aggiuntivi saranno disposti uno dopo l'altro nel file HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you choose &lt;f0&gt;E-mail as Microsoft Excel&lt;/f0&gt;, &lt;f1&gt;LibreOffice&lt;/f1&gt; first creates a file in Excel format and then opens your e-mail program with the *.XLS file attached.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T160245Z" creationid="Luciano B." creationdate="20160329T160245Z">
+        <seg>Se scegliete &lt;f0&gt;E-mail come Microsoft Excel&lt;/f0&gt;, &lt;f1&gt;LibreOffice&lt;/f1&gt; creerò prima un file nel formato Excel e quindi aprirà il vostro programma di posta allegando il file *.XLS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6074,6 +6090,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160216T071017Z">
         <seg>Come negli stili di paragrafo in &lt;f0&gt;LibreOffice&lt;/f0&gt; Writer, gli stili di cella sono il tipo di stille più basico in Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Similarly, if you choose &lt;f0&gt;E-mail as PDF&lt;/f0&gt;, &lt;f1&gt;LibreOffice&lt;/f1&gt; first creates a PDF using your default PDF settings (as when using the &lt;f2&gt;Export Directly as PDF&lt;/f2&gt; toolbar button) and then opens your email program with the *.PDF file attached.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T160410Z" creationid="Luciano B." creationdate="20160329T160410Z">
+        <seg>Allo stesso modo, se scegliete &lt;f0&gt;E-mail come PDF&lt;/f0&gt;, &lt;f1&gt;LibreOffice&lt;/f1&gt; creerà prima un PDF usando le vostre impostazioni PDF predefinite (le stesse che usate con il pulsante &lt;f2&gt;Esporta direttamente come file PDF&lt;/f2&gt;) e poi aprirà il vostro programma di posta, allegando il file *,PDF.</seg>
       </tuv>
     </tu>
     <tu>
