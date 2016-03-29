@@ -2478,6 +2478,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc can export spreadsheets to XHTML, if the appropriate filter is installed (standard on Mac and Linux; optional on Windows).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T151404Z" creationid="Luciano B." creationdate="20160329T151404Z">
+        <seg>LibreOffice può esportare file in XHTML, se è installato il filtro appropriato (predefinito su Mac e Linux; opzionale su Windows).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calc can save files as HTML documents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T151524Z" creationid="Luciano B." creationdate="20160329T151524Z">
+        <seg>Calc può salvare file come documenti HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc functions similar to database functions</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160206T083710Z">
@@ -2738,6 +2754,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T164008Z">
         <seg>Diagrammi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;File &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Export&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T151412Z" creationid="Luciano B." creationdate="20160329T151412Z">
+        <seg>Scegliete &lt;f0&gt;File &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Apri&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3618,6 +3642,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T161009Z" creationid="Luciano B." creationdate="20160326T161009Z">
         <seg>Figura &lt;seq0&gt;151&lt;/seq0&gt;: Pagina di collegamento della finestra di dialogo Opzioni PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;152&lt;/seq0&gt;: Security page of PDF Options dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T151310Z" creationid="Luciano B." creationdate="20160329T151310Z">
+        <seg>Figura &lt;seq0&gt;152&lt;/seq0&gt;: Scheda sicurezza della finestra di dialogo Opzioni PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;153&lt;/seq0&gt;: Setting a password to encrypt a PDF</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T151345Z" creationid="Luciano B." creationdate="20160329T151345Z">
+        <seg>Figura &lt;seq0&gt;153&lt;/seq0&gt;: Impostare una password per codificare un PDF</seg>
       </tuv>
     </tu>
     <tu>
@@ -5098,6 +5138,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T155715Z" creationid="Luciano B." creationdate="20160326T155715Z">
         <seg>Nella pagina &lt;i0/&gt;&lt;f1&gt;Interfaccia utente&lt;/f1&gt; (&lt;t2&gt;Figura 150&lt;/t2&gt;), potete scegliere ulteriori impostazioni per controllare come un visualizzatore PDF mostra il file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Export dialog, specify a file name for the exported document, then select the XHTML in the &lt;f4&gt;File format&lt;/f4&gt; list and click the &lt;f5&gt;Export&lt;/f5&gt; button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T151511Z" creationid="Luciano B." creationdate="20160329T151511Z">
+        <seg>Nella finestra di dialogo Esporta specificate un nome di file per il documento che state esportando, poi selezionate il formato XHTML nell'elenco &lt;f4&gt;Formato file&lt;/f4&gt; e fate clic sul pulsante &lt;f5&gt;Esporta&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
