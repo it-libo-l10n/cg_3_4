@@ -2190,6 +2190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After saving, you see the Digital Signatures dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T161502Z" creationid="Luciano B." creationdate="20160329T161502Z">
+        <seg>Dopo il salvataggio, vedrete la finestra di dialogo Firme digitali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After you have defined a print range:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T161546Z">
@@ -2806,6 +2814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;File &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Digital Signatures&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T161509Z" creationid="Luciano B." creationdate="20160329T161421Z">
+        <seg>Scegliate &lt;f0&gt;File &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Firme digitali&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;File &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Export&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T151412Z" creationid="Luciano B." creationdate="20160329T151412Z">
@@ -2922,6 +2938,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084437Z">
         <seg>Claire Wood</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Add&lt;/f0&gt; to add a public key to the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T161525Z" creationid="Luciano B." creationdate="20160329T161525Z">
+        <seg>Fate clic su &lt;f0&gt;Aggiungi&lt;/f0&gt; per aggiungere una chiave pubblica al documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Yes&lt;/f0&gt; to save the file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T161439Z" creationid="Luciano B." creationdate="20160329T161439Z">
+        <seg>Fate clic su &lt;f0&gt;Sì&lt;/f0&gt; per salvare il file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3782,6 +3814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a more detailed description of how to get and manage a certificate, and signature validation, see “Using Digital Signatures” in the &lt;f0&gt;LibreOffice&lt;/f0&gt; Help.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T161347Z" creationid="Luciano B." creationdate="20160329T161347Z">
+        <seg>Per una descrizione più dettagliata di come ottenere e operare con un certificato, e per la validazione della firma, vedere "Applicare le firme digitali" nell'Help di &lt;f0&gt;LibreOffice&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For a more detailed explanation, choose &lt;f2&gt;Help &gt; What&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;’&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;s This?&lt;/f5&gt;&lt;f6&gt; and hover the mouse pointer over the icon&lt;/f6&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160323T164945Z">
@@ -4374,6 +4414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have not saved the document since the last change, a message box appears.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T161429Z" creationid="Luciano B." creationdate="20160329T161429Z">
+        <seg>Se non avete salvato il documento dall'ultima modifica, vi apparirà un messaggio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you keep them selected, the next time you enter data on one sheet, you enter data on all the selected sheets.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T162002Z" creationid="Luciano B." creationdate="20160315T172725Z">
@@ -4546,6 +4594,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160314T141053Z">
         <seg>Nella finestra di dialogo Stampa, selezionate la scheda &lt;f0&gt;Layout di pagina&lt;/f0&gt; (&lt;t1&gt;Figura 136&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Select Certificate dialog, select your certificate and click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T161618Z" creationid="Luciano B." creationdate="20160329T161618Z">
+        <seg>Nella finestra di dialogo Seleziona certificato, selezionate il vostro certificato e fate clic su &lt;f0&gt;OK&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7087,6 +7143,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To sign a document:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T161353Z" creationid="Luciano B." creationdate="20160329T161353Z">
+        <seg>Per firmare un documento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To specify default printing settings for &lt;f0&gt;LibreOffice&lt;/f0&gt;, go to &lt;f1&gt;Tools &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Options &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;LibreOffice&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; &gt; Print&lt;/f10&gt; and &lt;f11&gt;Tools &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;&gt;&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; Options &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;&gt;&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;&lt;f19&gt;LibreOffice&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt; Calc &gt; Print&lt;/f20&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160314T142739Z">
@@ -7915,6 +7979,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T153741Z" creationid="Luciano B." creationdate="20160326T153741Z">
         <seg>Forse non desiderate questo!&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You see again the Digital Signatures dialog, where you can add more certificates if you want.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T161636Z" creationid="Luciano B." creationdate="20160329T161636Z">
+        <seg>Ricomparirà la finestra di dialogo Firme digitali, dove, se volete, potete aggiungere altri certificati.</seg>
       </tuv>
     </tu>
     <tu>
