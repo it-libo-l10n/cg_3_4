@@ -2974,6 +2974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Convert document references to PDF targets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T150210Z" creationid="Luciano B." creationdate="20160329T150210Z">
+        <seg>Converti i segnalibri secondo il formato PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copying and moving styles</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T102813Z">
@@ -3062,6 +3070,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cross-document links</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T150339Z" creationid="Luciano B." creationdate="20160329T150339Z">
+        <seg>Collegamenti incrociati a un documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl (Control)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084239Z">
@@ -3122,6 +3138,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T100105Z">
         <seg>Funzioni per data e ora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Defines the behavior of links clicked in PDF files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T150352Z" creationid="Luciano B." creationdate="20160329T150352Z">
+        <seg>Definisce il comportamento dei collegamenti su cui si fa clic nei file PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3362,6 +3386,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095344Z">
         <seg>Esempi di funzioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Export URLs relative to file system</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T150241Z" creationid="Luciano B." creationdate="20160329T150241Z">
+        <seg>Esporta URL relativamente al file system</seg>
       </tuv>
     </tu>
     <tu>
@@ -4162,6 +4194,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T145815Z" creationid="Luciano B." creationdate="20160329T145815Z">
         <seg>Se avete definito dei segnalibri in Writer, nomi di diapositive in Impress o in Draw, o nomi di fogli in Calc, questa opzione vi permette di esportarli come "nomi di destinazione", a cui possono essere collegati pagine Web e documenti PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have defined links to other documents with OpenDocument extensions (such as .ODT, .ODS, and .ODP), this option converts the file names to .PDF in the exported PDF document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T150234Z" creationid="Luciano B." creationdate="20160329T150234Z">
+        <seg>Se avete definito dei collegamenti ad altri documenti con estensione OpenDocument (come .ODT, .ODS, e .ODP), questa opzione converte i nomi dei file in .PDF nel documento PDF esportato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have defined relative links in a document, this option exports those links to the PDF.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T150331Z" creationid="Luciano B." creationdate="20160329T150331Z">
+        <seg>Se avete definito dei collegamenti relativi in un documento, con questa opzione si esportano i collegamenti nel PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5562,6 +5610,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T164052Z">
         <seg>Scala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Security page of PDF Options dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T150421Z" creationid="Luciano B." creationdate="20160329T150421Z">
+        <seg>Finestra di dialogo Opzioni PDF - scheda Sicurezza</seg>
       </tuv>
     </tu>
     <tu>
@@ -7675,6 +7731,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160325T154709Z">
         <seg>stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>security settings</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T150358Z" creationid="Luciano B." creationdate="20160329T150358Z">
+        <seg>impostazioni di sicurezza</seg>
       </tuv>
     </tu>
     <tu>
