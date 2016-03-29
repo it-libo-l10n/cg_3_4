@@ -5286,6 +5286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Permissions settings are effective only if the user’s PDF viewer respects the settings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T150754Z" creationid="Luciano B." creationdate="20160329T150754Z">
+        <seg>Le impostazioni di autorizzazione funzionano solo se il visualizzatore di file PDF dell'utente rispetta tali impostazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Peter Hillier-Brook&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084432Z">
@@ -7323,6 +7331,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084140Z">
         <seg>Windows o Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With &lt;f0&gt;both&lt;/f0&gt; the &lt;f1&gt;open password&lt;/f1&gt; and &lt;f2&gt;permission password&lt;/f2&gt; set, the PDF can only be opened with the correct password, and its permissions can be restricted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T150718Z" creationid="Luciano B." creationdate="20160329T150718Z">
+        <seg>Con &lt;f0&gt;entrambe&lt;/f0&gt; le &lt;f1&gt;password di apertura&lt;/f1&gt; e &lt;f2&gt;password di autorizzazione&lt;/f2&gt; impostate, il file PDF può essere aperto solo con la password corretta e le operazioni su esso possono essere limitate.</seg>
       </tuv>
     </tu>
     <tu>
