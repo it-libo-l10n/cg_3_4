@@ -1686,6 +1686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Keyboard: Press the &lt;/f0&gt;&lt;f1&gt;F11&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160330T084712Z" creationid="briga" creationdate="20160330T084640Z">
+        <seg>&lt;f0&gt;Tastiera: Premete il tasto &lt;/f0&gt;&lt;f1&gt;F11&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;LibreOffice is distributed under &lt;/f0&gt;the &lt;is1/&gt;Open Source Initiative (OSI)&lt;ie2/&gt; approved Lesser General Public License (LGPL).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084510Z">
@@ -2390,6 +2398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Assigning styles to shortcut keys</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160330T085259Z" creationid="briga" creationdate="20160330T085259Z">
+        <seg>Assegnando un tasto di scelta rapida a uno stile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Associating a range with a name</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160206T083646Z">
@@ -2586,6 +2602,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T155608Z">
         <seg>Calc è la componente di fogli elettronici di &lt;f0&gt;LibreOffice&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calc provides several ways to &lt;i0/&gt;apply cell styles:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160330T085204Z" creationid="briga" creationdate="20160330T085204Z">
+        <seg>Calc dispone di diversi modi per &lt;i0/&gt;applicare stili di cella:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3618,6 +3642,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160216T071400Z">
         <seg>Figura &lt;seq0&gt;106&lt;/seq0&gt;: Esempi di stili di cella predefiniti di Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;107&lt;/seq0&gt;: Styles and Formatting window</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160330T085120Z" creationid="briga" creationdate="20160330T085120Z">
+        <seg>Figura &lt;seq0&gt;107&lt;/seq0&gt;: Finestra Stile e formattazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -5150,6 +5182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Menu: Choose &lt;f0&gt;Format &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Styles and Formatting&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160330T084737Z" creationid="briga" creationdate="20160330T084737Z">
+        <seg>Menu: Scegliete &lt;f0&gt;Formato &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Stili e formattazione&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Merging documents</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160206T082910Z">
@@ -6430,6 +6470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Styles and Formatting window</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160330T084825Z" creationid="briga" creationdate="20160330T084825Z">
+        <seg>Finestra Stili e formattazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Styles help improve consistency in a document and can greatly speed up formatting.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160215T071129Z">
@@ -6490,6 +6538,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160313T143018Z">
         <seg>La &lt;f0&gt;stampante&lt;/f0&gt; (tra quelle disponibili)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;i0/&gt;Styles and Formatting window can be docked at the left or right of the main Calc window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160330T084902Z" creationid="briga" creationdate="20160330T084902Z">
+        <seg>La &lt;i0/&gt;finestra Stile e formattazione può essere ancorata alla sinistra o alla destra della finestra principale di Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6606,6 +6662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The first button on the top left of the window, &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;, is for cell styles and the second, &lt;df2&gt;&lt;di3/&gt;&lt;s4&gt;page_styles_button&lt;/s4&gt;&lt;/df2&gt;, is for page styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160330T085111Z" creationid="briga" creationdate="20160330T085002Z">
+        <seg>Il primo pulsante in alto a destra della finestra, &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;, è per gli stili di cella ed il secondo, &lt;df2&gt;&lt;di3/&gt;&lt;s4&gt; per gli stili di pagina&lt;/s4&gt;&lt;/df2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first is bounded by cell A3 ($A$3) in the top left and cell C9 ($C$9) in the bottom right corner.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T101739Z">
@@ -6627,6 +6691,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160323T164341Z">
         <seg>Le icone (pulsanti) in queste barre forniscono una vasta gamma di funzioni e comandi comuni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The main way to &lt;i0/&gt;access styles is through the Styles and Formatting&lt;f1&gt; window (shown in &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;Figure 107&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160330T084616Z" creationid="briga" creationdate="20160330T084616Z">
+        <seg>La modalità principale per &lt;i0/&gt;accedere agli stili è attraverso la finestra Stili e formattazione&lt;f1&gt; (mostrata in &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;Figura 107&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7071,6 +7143,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To dock or undock the window, hold down the &lt;f1&gt;Ctrl&lt;/f1&gt; key and double-click a gray part of the window next to the icons at the top.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160330T085005Z" creationid="briga" creationdate="20160330T084958Z">
+        <seg>Per ancorare/sganciare finestra, tenete premuto il tasto &lt;f1&gt;Ctrl&lt;/f1&gt; e fate doppio clic su una parte grigia della finestra vicino alle icone in alto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To e-mail a document to several recipients, you can use the features in your e-mail program or you can use &lt;f0&gt;LibreOffice&lt;/f0&gt; Writer’s mail merge facilities to extract email addresses from an address book.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T160502Z" creationid="Luciano B." creationdate="20160329T160502Z">
@@ -7231,6 +7311,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Toolbar: Click the &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt; icon on the far left of the Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160330T084816Z" creationid="briga" creationdate="20160330T084816Z">
+        <seg>Barra strumenti: Fate clic su &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt; icona all'estrema sinistra della barra Formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Toolbars</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160323T163950Z">
@@ -7339,6 +7427,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T103109Z">
         <seg>Usare degli strumenti di disegno di Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using Fill Format mode</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160330T085229Z" creationid="briga" creationdate="20160330T085229Z">
+        <seg>Usando il Modo riempimento</seg>
       </tuv>
     </tu>
     <tu>
@@ -7455,6 +7551,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using the &lt;is0/&gt;Styles and Formatting window</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160330T085313Z" creationid="briga" creationdate="20160330T085313Z">
+        <seg>Using the &lt;is0/&gt;Styles and Formatting window</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the Apply Style list</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160330T085249Z" creationid="briga" creationdate="20160330T085249Z">
+        <seg>Usando l'elenco Applica stile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using the Navigator</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T212218Z">
@@ -7467,6 +7579,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095754Z">
         <seg>Usare il risolutore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the Styles and Formatting window</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160330T085211Z" creationid="briga" creationdate="20160330T085211Z">
+        <seg>Usando la finestra Stile e formattazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -7975,6 +8095,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can open this window in several ways.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160330T084649Z" creationid="briga" creationdate="20160330T084634Z">
+        <seg>Potete aprire questa finestra in vari modi.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can print multiple pages of a document on one sheet of paper.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160314T140904Z">
@@ -8067,6 +8195,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T164043Z">
         <seg>Valori zero—stampa le celle con valore zero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>accessing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160330T084455Z" creationid="briga" creationdate="20160330T084455Z">
+        <seg>accedendo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>applying</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160330T085132Z" creationid="briga" creationdate="20160330T085132Z">
+        <seg>applicando</seg>
       </tuv>
     </tu>
     <tu>
