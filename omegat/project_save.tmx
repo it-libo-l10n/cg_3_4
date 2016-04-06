@@ -1616,8 +1616,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;From here you can also set the margins, the spacing, and height for the header or footer.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T170205Z">
-        <seg>&lt;f0&gt;Da qui potete anche impostare margini, altezza e spaziatura per l'intestazione o il piè di pagina.</seg>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T133025Z">
+        <seg>&lt;f0&gt;Da qui potete anche impostare margini, altezza e spaziatura per l'intestazione o per il piè di pagina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7107,6 +7107,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T154637Z" creationid="Luciano B." creationdate="20160329T154637Z">
         <seg>Per&lt;i0/&gt; inviare il documento corrente nel formato OpenDocument:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change the appearance of the header or footer, click the &lt;f0&gt;More &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;button in the dialog&lt;/f2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T133135Z" creationid="Luciano B." creationdate="20160406T133135Z">
+        <seg>Per modificare l'aspetto dell'intestazione o del piè di pagina, fate clic sul pulsante &lt;f0&gt;Extra&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; nella finestra di dialogo dell'intestazione&lt;/f2&gt;&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
