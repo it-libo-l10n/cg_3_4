@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2834,6 +2834,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160308T082731Z">
         <seg>Capitolo &lt;f0&gt;6 &lt;s1/&gt;&lt;/f0&gt;&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter &lt;f0&gt;8 &lt;s1/&gt;&lt;/f0&gt;&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20160408T201904Z" creationid="Andrea" creationdate="20160408T201904Z">
+        <seg>Capitolo &lt;f0&gt;8 &lt;s1/&gt;&lt;/f0&gt;&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
