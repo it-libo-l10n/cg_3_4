@@ -1526,6 +1526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Data &gt; Define Range&lt;/f0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T161012Z" creationid="Luciano B." creationdate="20160411T161012Z">
+        <seg>&lt;f0&gt;Dati &gt; Definisci area&lt;/f0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Data&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;contains commands for manipulating data in your spreadsheet such as &lt;/f2&gt;&lt;f3&gt;Define Range, Sort,&lt;/f3&gt;&lt;f4&gt; and &lt;/f4&gt;&lt;f5&gt;Filter.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160323T163322Z">
@@ -1958,6 +1966,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f10&gt;Data &gt; Consolidate&lt;/f10&gt;&lt;br11/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T161037Z" creationid="Luciano B." creationdate="20160411T161037Z">
+        <seg>&lt;f10&gt;Dati &gt; Consolidate&lt;/f10&gt;&lt;br11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f11&gt;After the print range is removed, the default page break lines will appear on the screen.&lt;/f11&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T163912Z">
@@ -1974,10 +1990,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f12&gt;Data &gt; Group&lt;/f12&gt; and &lt;f13&gt;Outline&lt;/f13&gt; (all)&lt;br14/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T161040Z" creationid="Luciano B." creationdate="20160411T161040Z">
+        <seg>&lt;f12&gt;Dati &gt; Group&lt;/f12&gt; and &lt;f13&gt;Outline&lt;/f13&gt; (all)&lt;br14/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f13&gt;Insert &gt; Object&lt;/f13&gt;&lt;br14/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T160515Z" creationid="Luciano B." creationdate="20160411T160027Z">
         <seg>&lt;f13&gt;Inserisci &gt; Oggetto&lt;/f13&gt;&lt;br14/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f15&gt;Data &gt; Pivot Table&lt;/f15&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T161102Z" creationid="Luciano B." creationdate="20160411T161102Z">
+        <seg>&lt;f15&gt;Dati &gt; Pivot Table&lt;/f15&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2014,6 +2046,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;Data &gt; Sort&lt;/f2&gt;&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T161110Z" creationid="Luciano B." creationdate="20160411T161017Z">
+        <seg>&lt;f2&gt;Dati &gt; Ordina&lt;/f2&gt;&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f3&gt;Edit &gt; Compare Document&lt;/f3&gt;&lt;br4/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T155527Z" creationid="Luciano B." creationdate="20160411T155527Z">
@@ -2024,8 +2064,8 @@
       <tuv lang="EN">
         <seg>&lt;f3&gt;Format &gt; Merge Cells &gt; Merge and Center&lt;/f3&gt;, &lt;f4&gt;Merge Cells&lt;/f4&gt;, &lt;f5&gt;Split Cells&lt;/f5&gt;&lt;br6/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T160646Z" creationid="Luciano B." creationdate="20160411T160646Z">
-        <seg>&lt;f3&gt;Formato &gt; Merge Cells &gt; Merge and Center&lt;/f3&gt;, &lt;f4&gt;Merge Cells&lt;/f4&gt;, &lt;f5&gt;Split Cells&lt;/f5&gt;&lt;br6/&gt;</seg>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T160851Z" creationid="Luciano B." creationdate="20160411T160646Z">
+        <seg>&lt;f3&gt;Formato &gt; Unisci celle &gt; Unisci e centra le celle&lt;/f3&gt;, &lt;f4&gt;Unisci celle&lt;/f4&gt;, &lt;f5&gt;Dividi celle&lt;/f5&gt;&lt;br6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2034,6 +2074,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T160114Z" creationid="Luciano B." creationdate="20160411T160015Z">
         <seg>&lt;f3&gt;Inserisci &gt; Foglio da file&lt;/f3&gt;&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f4&gt;Data &gt; Subtotals&lt;/f4&gt;&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T161116Z" creationid="Luciano B." creationdate="20160411T161031Z">
+        <seg>&lt;f4&gt;Dati &gt; Subtotali&lt;/f4&gt;&lt;br5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2062,10 +2110,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f6&gt;Data &gt; Validity&lt;/f6&gt;&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T161128Z" creationid="Luciano B." creationdate="20160411T161023Z">
+        <seg>&lt;f6&gt;Dati &gt; Validità&lt;/f6&gt;&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f7&gt;Format &gt; Print Ranges&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T160653Z" creationid="Luciano B." creationdate="20160411T160653Z">
-        <seg>&lt;f7&gt;Formato &gt; Print Ranges&lt;/f7&gt;</seg>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T160918Z" creationid="Luciano B." creationdate="20160411T160653Z">
+        <seg>&lt;f7&gt;Formato &gt; Aree di stampa&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2082,6 +2138,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T155129Z" creationid="Luciano B." creationdate="20160329T155129Z">
         <seg>&lt;f7&gt;LibreOffice&lt;/f7&gt; aprirà il vostro programma di posta predefinito con il foglio elettronico (*.ODS) allegato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f8&gt;Data &gt; Multiple Operations&lt;/f8&gt;&lt;br9/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T161034Z" creationid="Luciano B." creationdate="20160411T161034Z">
+        <seg>&lt;f8&gt;Dati &gt; Multiple Operations&lt;/f8&gt;&lt;br9/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7635,6 +7699,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160323T163950Z">
         <seg>Barre degli strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tools &gt; Protect Document</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T160950Z" creationid="Luciano B." creationdate="20160411T160950Z">
+        <seg>Strumenti &gt; Proteggi documento</seg>
       </tuv>
     </tu>
     <tu>
