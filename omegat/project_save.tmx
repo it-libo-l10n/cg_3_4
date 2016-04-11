@@ -1544,8 +1544,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Edit &gt; Changes&lt;/f0&gt;, except for &lt;f1&gt;Merge Document&lt;/f1&gt;&lt;br2/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T155543Z" creationid="Luciano B." creationdate="20160411T155543Z">
-        <seg>&lt;f0&gt;Modifica &gt; Changes&lt;/f0&gt;, except for &lt;f1&gt;Merge Document&lt;/f1&gt;&lt;br2/&gt;</seg>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T155818Z" creationid="Luciano B." creationdate="20160411T155543Z">
+        <seg>&lt;f0&gt;Modifica &gt; Modifiche&lt;/f0&gt;, ad eccezione di &lt;f1&gt;Unisci documento&lt;/f1&gt;&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1666,6 +1666,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160315T172111Z">
         <seg>&lt;f0&gt;Nella sezione &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Intervallo e copie&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; della finestra di dialogo Stampa, selezionate l'opzione &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Celle selezionate&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Insert &gt; Cells &gt; Shift Cells Down&lt;/f0&gt; &amp; &lt;f1&gt;Shift Cells Right&lt;/f1&gt;&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T160012Z" creationid="Luciano B." creationdate="20160411T160012Z">
+        <seg>&lt;f0&gt;Inserisci &gt; Celle &gt; Sposta celle in basso&lt;/f0&gt; &amp; &lt;f1&gt;Sposta celle a  destra&lt;/f1&gt;&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1950,6 +1958,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f11&gt;Insert &gt; Movie and Sound&lt;/f11&gt;&lt;br12/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T160025Z" creationid="Luciano B." creationdate="20160411T160025Z">
+        <seg>&lt;f11&gt;Inserisci &gt; Movie and Sound&lt;/f11&gt;&lt;br12/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f13&gt;Insert &gt; Object&lt;/f13&gt;&lt;br14/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T160027Z" creationid="Luciano B." creationdate="20160411T160027Z">
+        <seg>&lt;f13&gt;Inserisci &gt; Object&lt;/f13&gt;&lt;br14/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;You can create, or download and install, as many templates as you wish.&lt;/f1&gt; If you do not specify a template when you start a new a new spreadsheet, the new spreadsheet is based on the default template for spreadsheets.&lt;f2&gt; &lt;/f2&gt;If you have not specified a default template, &lt;f3&gt;LibreOffice&lt;/f3&gt; uses the blank spreadsheet template that is installed with the program.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160213T105010Z">
@@ -1974,6 +1998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f3&gt;Insert &gt; Sheet from file&lt;/f3&gt;&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T160015Z" creationid="Luciano B." creationdate="20160411T160015Z">
+        <seg>&lt;f3&gt;Inserisci &gt; Sheet from file&lt;/f3&gt;&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f4&gt;LibreOffice&lt;/f4&gt; will only display the cells in the print range.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T161103Z">
@@ -1990,6 +2022,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f5&gt;Insert &gt; Names&lt;/f5&gt;&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T160018Z" creationid="Luciano B." creationdate="20160411T160018Z">
+        <seg>&lt;f5&gt;Inserisci &gt; Names&lt;/f5&gt;&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f7&gt;Insert &gt; Comment&lt;/f7&gt;&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T160021Z" creationid="Luciano B." creationdate="20160411T160021Z">
+        <seg>&lt;f7&gt;Inserisci &gt; Comment&lt;/f7&gt;&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f7&gt;LibreOffice&lt;/f7&gt; opens your default e-mail program with the spreadsheet (*.ODS) document attached.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T155129Z" creationid="Luciano B." creationdate="20160329T155129Z">
@@ -2002,6 +2050,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T152423Z">
         <seg>&lt;f8&gt;L'area definita in precedenza ora appare nel menu a discesa sotto a Area di stampa.&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f9&gt;Insert &gt; Picture &gt; From File&lt;/f9&gt;&lt;br10/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T160023Z" creationid="Luciano B." creationdate="20160411T160023Z">
+        <seg>&lt;f9&gt;Inserisci &gt; Picture &gt; From File&lt;/f9&gt;&lt;br10/&gt;</seg>
       </tuv>
     </tu>
     <tu>
