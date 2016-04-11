@@ -4086,6 +4086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;281&lt;/seq0&gt;: Update message after saving</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T162722Z" creationid="Luciano B." creationdate="20160411T162722Z">
+        <seg>Figura &lt;seq0&gt;281&lt;/seq0&gt;: Messaggio di aggiornamento dopo il salvataggio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Parts of the Calc window</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T164134Z">
@@ -4682,6 +4690,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T170001Z">
         <seg>Se è definito solo un singolo intervallo, facendo clic in un qualsiasi punto della casella di testo viene visualizzata l'area di stampa selezionata sullo schermo, delimitato in blu, come mostrato in &lt;t0&gt;Figura 139&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the changes conflict, the Resolve Conflicts dialog is shown.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T162829Z" creationid="Luciano B." creationdate="20160411T162829Z">
+        <seg>Se le modifiche sono in conflitto, f the changes conflict, viene visualizzata la finestra di dialogo Risolvi conflitti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the changes do not conflict, the document is saved, the message below appears, and any cells modified by the other user are shown with a red border.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T162643Z" creationid="Luciano B." creationdate="20160411T162643Z">
+        <seg>Se le modifiche non sono in conflitto, il documento viene salvato, appare il messaggio in basso, e le eventuali celle modificate dall'altro utente vengono visualizzate con un bordo rosso.</seg>
       </tuv>
     </tu>
     <tu>
