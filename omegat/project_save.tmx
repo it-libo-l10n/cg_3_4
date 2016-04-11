@@ -5574,6 +5574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opening a shared spreadsheet</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T154849Z" creationid="Luciano B." creationdate="20160411T154849Z">
+        <seg>Apertura di un foglio di calcolo condiviso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opening existing spreadsheets</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T211933Z">
@@ -7095,6 +7103,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This creates a copy of the spreadsheet that is not shared.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T154732Z" creationid="Luciano B." creationdate="20160411T154732Z">
+        <seg>Sarà creata una copia del foglio elettronico che non è condivisa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This dialog has five pages (General, Initial View, User Interface, Links, and Security).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165009Z" creationid="Luciano B." creationdate="20160325T165009Z">
@@ -8515,6 +8531,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160314T140722Z">
         <seg>pagine multiple per foglio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>opening</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T154826Z" creationid="Luciano B." creationdate="20160411T154826Z">
+        <seg>apertura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>opening shared spreadsheet</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T154813Z" creationid="Luciano B." creationdate="20160411T154813Z">
+        <seg>apertura foglio di calcolo condiviso</seg>
       </tuv>
     </tu>
     <tu>
