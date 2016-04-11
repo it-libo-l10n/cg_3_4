@@ -1542,6 +1542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Edit &gt; Changes&lt;/f0&gt;, except for &lt;f1&gt;Merge Document&lt;/f1&gt;&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T155543Z" creationid="Luciano B." creationdate="20160411T155543Z">
+        <seg>&lt;f0&gt;Modifica &gt; Changes&lt;/f0&gt;, except for &lt;f1&gt;Merge Document&lt;/f1&gt;&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Edit&lt;/f0&gt; contains commands for editing the document such as &lt;f1&gt;Undo, Changes, Compare Document&lt;/f1&gt;, and &lt;f2&gt;Find and Replace.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T164902Z">
@@ -1958,10 +1966,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f3&gt;Edit &gt; Compare Document&lt;/f3&gt;&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T155527Z" creationid="Luciano B." creationdate="20160411T155527Z">
+        <seg>&lt;f3&gt;Modifica &gt; Confronta documento&lt;/f3&gt;&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f4&gt;LibreOffice&lt;/f4&gt; will only display the cells in the print range.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T161103Z">
         <seg>&lt;f4&gt;LibreOffice&lt;/f4&gt; visualizzerà solo le celle comprese nell'area di stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f5&gt;Edit &gt; Sheet &gt; Move/Copy &lt;/f5&gt;&lt;f6&gt;&amp;&lt;/f6&gt;&lt;f7&gt; Delete&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T155705Z" creationid="Luciano B." creationdate="20160411T155531Z">
+        <seg>&lt;f5&gt;Modifica &gt; Foglio &gt; Sposta/copia &lt;/f5&gt;&lt;f6&gt;&amp;&lt;/f6&gt;&lt;f7&gt; Elimina&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
