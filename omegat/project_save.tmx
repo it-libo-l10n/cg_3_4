@@ -4686,6 +4686,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the document was modified and saved by another user since you opened it, one of the following events will occur:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T161921Z" creationid="Luciano B." creationdate="20160411T161921Z">
+        <seg>Se il documento è stato modificato e salvato da un altro utente da quando è stato aperto, si verificherà uno dei seguenti eventi::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the document was not modified and saved by another user since you opened it, the document is saved.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T161726Z" creationid="Luciano B." creationdate="20160411T161726Z">
+        <seg>Se il documento non è stato modificato e salvato da un altro utente dopo essere stato aperto, il documento viene salvato..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the file contains more than one sheet, the additional sheets will follow one another in the HTML file.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T154101Z" creationid="Luciano B." creationdate="20160329T154101Z">
@@ -8169,8 +8185,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>When you save a shared spreadsheet, one of several situations may occur:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T161640Z" creationid="Luciano B." creationdate="20160411T161640Z">
-        <seg>Quando si salva un foglio di calcolo condiviso, può verificarsi una delle diverse situazioni:</seg>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T162013Z" creationid="Luciano B." creationdate="20160411T161640Z">
+        <seg>Quando si salva un foglio di calcolo condiviso, possono verificarsi una delle diverse situazioni:</seg>
       </tuv>
     </tu>
     <tu>
