@@ -4414,6 +4414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, if you want to use a shared document in unshared mode, you need to save the shared document using another name or path.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T154627Z" creationid="Luciano B." creationdate="20160411T154627Z">
+        <seg>Comunque, se volete utilizzare un documento in modalità non condivisa, è necessario salvare il documento condiviso utilizzando un altro nome o percorso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, you can remove it from any cell in column H.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T155433Z">
@@ -6648,8 +6656,8 @@
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Tools &gt; Share Document&lt;/f0&gt; command can be used to switch the mode for a document from unshared to shared.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T154340Z" creationid="Luciano B." creationdate="20160411T154340Z">
-        <seg>Il comando &lt;f0&gt;Strumenti &gt; Condicidi documento&lt;/f0&gt; può essere utilizzato per cambiare la modalità per un documento da non condiviso a condiviso.</seg>
+      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T154428Z" creationid="Luciano B." creationdate="20160411T154340Z">
+        <seg>Il comando &lt;f0&gt;Strumenti &gt; Condividi documento&lt;/f0&gt; può essere utilizzato per cambiare la modalità di un documento da non condiviso a condiviso.</seg>
       </tuv>
     </tu>
     <tu>
