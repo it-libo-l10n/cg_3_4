@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8559,6 +8559,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you successfully save a shared spreadsheet, the document shows the latest version of all changes saved by all users.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160414T155615Z" creationid="luciano" creationdate="20160414T155615Z">
+        <seg>Quando salvate un foglio elettronico condiviso, il documento mostrerà la versione più recente di tutte le modifiche da parte di tutti gli utenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you want to remove them, you have to remove each one individually.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T154514Z">
@@ -8835,6 +8843,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160325T155946Z">
         <seg>Potete scegliere di stampare fogli singoli, multipli, e selezioni di celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can choose to cancel the Save command for now, or retry saving later.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160414T155415Z" creationid="luciano" creationdate="20160414T155415Z">
+        <seg>Potete scegliere di cancellare il comando Salva per il momento, o riprovare a salvarlo successivamente.</seg>
       </tuv>
     </tu>
     <tu>
