@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>(The &lt;/f13&gt;&lt;is14/&gt;&lt;f15&gt;Apply Style list&lt;/f15&gt;&lt;ie16/&gt;&lt;f17&gt; may not be visible by default.) Click the down-arrow to the right of each box to open the list.&lt;/f17&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160414T145333Z" creationid="michele" creationdate="20160414T145333Z">
+        <seg>(l' &lt;/f13&gt;&lt;is14/&gt;&lt;f15&gt;elenco Applica Stile&lt;/f15&gt;&lt;ie16/&gt;&lt;f17&gt;potrebbe non essere visibile per impostazione predefinita.) Fate clic sulla freccia verso il basso a destra di ogni riquadro per aprire l'elenco.&lt;/f17&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(The cells can be highlighted after opening the Define Names dialog as well.)&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T152518Z">
@@ -5110,6 +5118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the &lt;is0/&gt;Formatting toolbar&lt;ie1/&gt;, &lt;f2&gt;the three boxes on the left are the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Apply Style&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Font Name&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;, and &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Font Size&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; lists&lt;/f11&gt; (see &lt;t12&gt;Figure 9&lt;/t12&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160414T145142Z" creationid="michele" creationdate="20160414T145142Z">
+        <seg>Nella &lt;is0/&gt;barra degli strumenti di formattazione &lt;ie1/&gt;, &lt;f2&gt;i tre riquadri sulla sinistra sono &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Applica Stile&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Nome del carattere &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;, e &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Dimensione del Carattere &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt; (vedi&lt;t12&gt;Figura 9&lt;/t12&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the Print dialog, select the &lt;f0&gt;Page Layout&lt;/f0&gt; tab (&lt;t1&gt;Figure 136&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160314T141053Z">
@@ -7034,6 +7050,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084429Z">
         <seg>T.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>T&lt;f13&gt;hey show the current settings for the selected cell or area.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160414T145205Z" creationid="michele" creationdate="20160414T145205Z">
+        <seg>E&lt;f13&gt;ssi mostrano l'impostazione corrente per la cella o area selezionata.</seg>
       </tuv>
     </tu>
     <tu>
