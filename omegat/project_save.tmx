@@ -4150,6 +4150,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Example of a tear-off toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160414T133818Z" creationid="michele" creationdate="20160414T133818Z">
+        <seg>Figura &lt;seq0&gt;5&lt;/seq0&gt;: Esempio di una barre strumenti separabile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Moving a docked toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160414T133923Z" creationid="michele" creationdate="20160414T133923Z">
+        <seg>Figura &lt;seq0&gt;5&lt;/seq0&gt;: spostamento di una barra strumenti agganciata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Filters</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160206T083653Z">
@@ -5618,6 +5634,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T153623Z" creationid="Luciano B." creationdate="20160326T153623Z">
         <seg>Il formato PDF è la scelta più comune.&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moving toolbars</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160414T133821Z" creationid="michele" creationdate="20160414T133821Z">
+        <seg>Spostamento delle barre di strumenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -7715,6 +7739,30 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153521Z">
         <seg>Per inserire una interruzione di pagina:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To move a docked toolbar, place the mouse pointer over the toolbar handle, hold down the left mouse button, drag the toolbar to the new location, and then release the &lt;f0&gt;&lt;f1&gt;mouse button&lt;/f1&gt;&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160414T133912Z" creationid="michele" creationdate="20160414T133912Z">
+        <seg>Per spostare una barra degli strumenti ancorata, posizionate il puntatore del mouse sulla maniglia della barra, tenete premuto il pulsante sinistro del mouse, trascinate la barra degli strumenti nella nuova posizione e rilasciate il &lt;f0&gt;&lt;f1&gt;pulsante del mouse&lt;/f1&gt;&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To move a floating tear-off &lt;f3&gt;toolbar&lt;/f3&gt;, drag it by the title bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160414T133755Z" creationid="michele" creationdate="20160414T133755Z">
+        <seg>Per spostare una &lt;f3&gt;barra degli strumenti &lt;/f3&gt; separabile, trascinala dalla barra del titolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To move a floating toolbar, click on its title bar and drag it to a new location, as shown in &lt;t0&gt;Figure 4&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160414T134032Z" creationid="michele" creationdate="20160414T134032Z">
+        <seg>Per spostare una barra strumenti mobile, fate clic sulla sua barra del titolo e trascinatela nella nuova posizione, come in &lt;t0&gt;Figura 4&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
