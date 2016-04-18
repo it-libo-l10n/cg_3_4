@@ -2286,6 +2286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A small box showing the new color is added to the Color table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160418T160118Z" creationid="steevie" creationdate="20160418T160118Z">
+        <seg>Un piccolo riquadro con il nuovo colore viene aggiunto alla tavola dei colori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ability to open, edit, and save Microsoft Excel spreadsheets.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T102417Z">
@@ -2562,6 +2570,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084424Z">
         <seg>Andy Brown&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Another way to define or alter colors is through the Colors page of the Area dialog, where you can also save and load palettes, a feature that is not possible here.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160418T160153Z" creationid="steevie" creationdate="20160418T160153Z">
+        <seg>Un altro modo per definire o modificare i colori è tramite la pagina Colori della finestra di dialogo Area, dove potete anche salvare e caricare tavolozze, una funzionalità che non è possibile qui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4278,6 +4294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;323&lt;/seq0&gt;: Editing colors</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160418T160135Z" creationid="steevie" creationdate="20160418T160135Z">
+        <seg>Figura &lt;seq0&gt;323&lt;/seq0&gt;: modifica dei colori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Example of a tear-off toolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T133818Z" creationid="michele" creationdate="20160414T133818Z">
@@ -5062,6 +5086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you load a palette in one component of &lt;f0&gt;LibreOffice&lt;/f0&gt;, it is only active in that component; the other components keep their own palettes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160418T160222Z" creationid="steevie" creationdate="20160418T160214Z">
+        <seg>Se caricate una tavolozza in uno dei componenti di &lt;f0&gt;LibreOffice&lt;/f0&gt;, questa sarà attiva solo per quel componente; gli altri componenti manterranno le proprie tavolozze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you select PDF/A-1a, the forbidden elements are grayed-out (not available).&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T173133Z" creationid="Luciano B." creationdate="20160325T171651Z">
@@ -5138,6 +5170,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T162904Z">
         <seg>In Calc 3.4, ogni foglio può avere un massimo di 1,048,576 righe (65,536 righe in Calc 3.2 e precedenti) e un massimo di 1024 colonne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In Calc, draw a temporary draw object and use the context menu of this object to open the Area dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160418T160158Z" creationid="steevie" creationdate="20160418T160158Z">
+        <seg>In Calc, create un oggetto di disegno temporaneo e usate il menu contestuale di tale oggetto per aprire la finestra di dialogo Area.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5850,6 +5890,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T155727Z" creationid="steevie" creationdate="20160418T155727Z">
         <seg>Modificate il &lt;f0&gt;Nome&lt;/f0&gt; come richiesto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modify the color components as required and click &lt;f0&gt;OK&lt;/f0&gt; to exit the dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160418T160051Z" creationid="steevie" creationdate="20160418T160051Z">
+        <seg>Cambiate i componenti del colore secondo necessità e fate clic su &lt;f0&gt;OK&lt;/f0&gt; per uscire dalla finestra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6690,6 +6738,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T164052Z">
         <seg>Scala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Security options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160418T160237Z" creationid="steevie" creationdate="20160418T160218Z">
+        <seg>Sicurezza</seg>
       </tuv>
     </tu>
     <tu>
@@ -7567,6 +7623,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The newly defined color now appears in the lower of the color preview boxes shown in &lt;t1&gt;Figure 322&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160418T160104Z" creationid="steevie" creationdate="20160418T160104Z">
+        <seg>Il colore appena definito ora appare nel più basso dei riquadri di anteprima del colore mostrati in &lt;t1&gt;Figura 322&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The nonprinting area has a gray background.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T110627Z">
@@ -7667,6 +7731,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084322Z">
         <seg>I termini utilizzati in LibreOffice per la maggior parte dell'&lt;i0/&gt;&lt;f1&gt;interfaccia utente&lt;/f1&gt; (la parte del programma che vedete e utilizzate, a differenza del codice dietro le quinte che lo rende funzionante) sono gli stessi come per molti altri programmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The two color fields at the lower right show the value of the selected color on the left and the currently set value from the color value fields on the right.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160418T160045Z" creationid="steevie" creationdate="20160418T160045Z">
+        <seg>I due campi di colore in basso a destra mostrano il valore del colore selezionato sulla sinistra e il valore correntemente impostato nei campi relativi al valore del colore sulla destra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8379,6 +8451,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T170212Z">
         <seg>Digitate una virgola nella casella di testo, come separatore degli intervalli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type a name for this color in the &lt;f2&gt;Name&lt;/f2&gt; box, then click the &lt;f3&gt;Add&lt;/f3&gt; button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160418T160113Z" creationid="steevie" creationdate="20160418T160113Z">
+        <seg>Digitate un nome per questo colore nel riquadro &lt;f2&gt;Nome&lt;/f2&gt;, quindi fate clic sul pulsante &lt;f3&gt;Aggiungi&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9459,6 +9539,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T164549Z" creationid="Luciano B." creationdate="20160325T164549Z">
         <seg>esportare in PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>file sharing options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160418T160245Z" creationid="steevie" creationdate="20160418T160245Z">
+        <seg>opzioni di condivisione file</seg>
       </tuv>
     </tu>
     <tu>
