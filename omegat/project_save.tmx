@@ -2886,6 +2886,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc uses the first and last name stored in the &lt;f0&gt;&lt;f1&gt;LibreOffice&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; – User Data&lt;/f2&gt; page to fill in the &lt;f3&gt;Created&lt;/f3&gt; and &lt;f4&gt;Modified&lt;/f4&gt; fields in the document properties, and the optional &lt;f5&gt;Author&lt;/f5&gt; field often used in the footer of a printed spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160418T150554Z" creationid="steevie" creationdate="20160418T150554Z">
+        <seg>Calc usa nome e cognomi salvati nella pagina &lt;f0&gt;&lt;f1&gt;LibreOffice&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; – Dati utente&lt;/f2&gt; per compilare i campi &lt;f3&gt;Created&lt;/f3&gt; and &lt;f4&gt;Modified&lt;/f4&gt; fields in the document properties, and the optional &lt;f5&gt;Author&lt;/f5&gt; field often used in the footer of a printed spreadsheet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc works with elements called &lt;i0/&gt;&lt;f1&gt;spreadsheets&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T162028Z">
@@ -4274,6 +4282,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T145427Z" creationid="michele" creationdate="20160414T145427Z">
         <seg>Figura &lt;seq0&gt;9&lt;/seq0&gt;: elenchi Applica Stile, Nome del Carattere e Dimensione del Carattere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fill in the form on this page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160418T150557Z" creationid="steevie" creationdate="20160418T150557Z">
+        <seg>Fill in the form on this page.</seg>
       </tuv>
     </tu>
     <tu>
