@@ -3358,6 +3358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Macro Security&lt;/f0&gt; button to open the &lt;i1/&gt;Macro Security dialog (not shown here), where you can adjust the security level for executing macros and specify trusted sources.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160418T160951Z" creationid="steevie" creationdate="20160418T160951Z">
+        <seg>Fate clic sul pulsante &lt;f0&gt;Sicurezza delle macro&lt;/f0&gt; per aprire la finestra di dialogo &lt;i1/&gt;Sicurezza delle macro (qui non riportata), dove potete impostare il livello di sicurezza per l'esecuzione delle macro e specificare le fonti affidabili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Modify&lt;/f0&gt; button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T155732Z" creationid="steevie" creationdate="20160418T155732Z">
@@ -3370,6 +3378,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T151610Z">
         <seg>Fate clic sul pulsante &lt;f0&gt;Ancora&lt;/f0&gt; nella finestra di dialogo e selezionate l'opzione  &lt;f1&gt;Area di stampa&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Options&lt;/f0&gt; button to open a separate dialog with specific choices (&lt;t1&gt;Figure 325&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160418T160854Z" creationid="steevie" creationdate="20160418T160840Z">
+        <seg>Fate clic sul pulsante &lt;f0&gt;Opzioni&lt;/f0&gt; per aprire una finestra di dialogo separata con scelte specifiche (&lt;t1&gt;Figura 325&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5102,6 +5118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you record changes, save multiple versions, or include hidden information or notes in your documents, and you do not want some of the recipients to see that information, you can set warnings to remind you to remove this information, or you can have &lt;f0&gt;LibreOffice&lt;/f0&gt; remove some information automatically.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160418T160758Z" creationid="steevie" creationdate="20160418T160650Z">
+        <seg>Se registrate le modifiche, salvate versioni multiple, o includete informazioni nascoste o note nei vostri documenti, e desiderate che alcuni dei destinatari non vedano queste informazioni, potete impostare degli avvisi per ricordarvi di rimuovere tali informazioni, oppure potete fare in modo che &lt;f0&gt;LibreOffice&lt;/f0&gt; cancelli automaticamente alcune informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you select PDF/A-1a, the forbidden elements are grayed-out (not available).&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T173133Z" creationid="Luciano B." creationdate="20160325T171651Z">
@@ -5766,6 +5790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Macro security</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160418T160858Z" creationid="steevie" creationdate="20160418T160843Z">
+        <seg>Sicurezza delle macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Macros, for recording and executing repetitive tasks; scripting languages supported include &lt;f0&gt;LibreOffice&lt;/f0&gt; Basic, Python, BeanShell, and JavaScript.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T102402Z">
@@ -6034,6 +6066,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T095749Z">
         <seg>Nota per gli utenti Mac</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that (unless removed) much of this information is retained in a file whether the file is in &lt;f1&gt;LibreOffice&lt;/f1&gt;’s default OpenDocument format, or has been saved to other formats, including PDF.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160418T160835Z" creationid="steevie" creationdate="20160418T160653Z">
+        <seg>Notate che (a meno che siano state rimosse) molte di queste informazioni sono conservate in un file, che sia nel formato predefinito di &lt;f1&gt;LibreOffice&lt;/f1&gt; OpenDocument, o che sia stato salvato in altri formati, incluso PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9619,6 +9659,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084507Z">
         <seg>licenza di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>macro security options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160418T160935Z" creationid="steevie" creationdate="20160418T160935Z">
+        <seg>opzioni di sicurezza delle macro</seg>
       </tuv>
     </tu>
     <tu>
