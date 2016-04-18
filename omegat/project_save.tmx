@@ -2222,6 +2222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A list of subsections drops down.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160418T145200Z" creationid="steevie" creationdate="20160418T145139Z">
+        <seg>Appare un elenco di sottosezioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A manual break helps to ensure that your data prints properly.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153433Z">
@@ -3198,6 +3206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Tools &gt; Options&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160418T145039Z" creationid="steevie" creationdate="20160418T145039Z">
+        <seg>Scegliete &lt;f0&gt;Strumenti &gt; Catalogo&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f1&gt;Tools &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Options &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; Load/Save &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; General&lt;/f10&gt; and select the &lt;f11&gt;Load printer settings with the document&lt;/f11&gt; option.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160313T142216Z">
@@ -3218,6 +3234,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160206T090135Z">
         <seg>Opzioni di caricamento e salvataggio dei documenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choosing options that affect all of &lt;f0&gt;LibreOffice&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160418T144952Z" creationid="steevie" creationdate="20160418T144935Z">
+        <seg>Opzioni comuni a tutti i componenti di &lt;f0&gt;LibreOffice&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3338,6 +3362,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160405T160630Z">
         <seg>Fate clic sull'icona &lt;i0/&gt;&lt;f1&gt;Stampa direttamente il file&lt;/f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt; per inviare l'intero documento alla stampante predefinita del vostro computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the expansion symbol (+ sign or triangle) to the left of &lt;f0&gt;&lt;f1&gt;LibreOffice&lt;/f1&gt;&lt;/f0&gt; on the left-hand side.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160418T145147Z" creationid="steevie" creationdate="20160418T145136Z">
+        <seg>Fate clic sul simbolo di espansione (segno + o triangolo) alla sinistra di &lt;f0&gt;&lt;f1&gt;LibreOffice&lt;/f1&gt;&lt;/f0&gt; sul lato sinistro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6062,6 +6094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other general options are discussed in Chapter 2, Setting Up &lt;f1&gt;LibreOffice,&lt;/f1&gt; in the &lt;f2&gt;Getting Started&lt;/f2&gt; guide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160418T145030Z" creationid="steevie" creationdate="20160418T145030Z">
+        <seg>Altre opzioni generali sono descritte nel Capitolo 2 (Configurare &lt;f1&gt;LibreOffice&lt;/f1&gt;) nella &lt;f2&gt;Guida introduttiva&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other websites run by users also offer free tips and tutorials.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T083513Z">
@@ -7335,6 +7375,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The list on the left-hand side varies depending on which LibreOffice component is open.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160418T145106Z" creationid="steevie" creationdate="20160418T145106Z">
+        <seg>L'elenco presente sul lato sinistro della finestra di dialogo varia in relazione al componente di LibreOffice aperto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The main way to &lt;i0/&gt;access styles is through the Styles and Formatting&lt;f1&gt; window (shown in &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;Figure 107&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160330T084616Z" creationid="briga" creationdate="20160330T084616Z">
@@ -7735,6 +7783,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This section covers some of the settings that apply to all the components of &lt;f0&gt;LibreOffice&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160418T145008Z" creationid="steevie" creationdate="20160418T144942Z">
+        <seg>Questa sezione tratta alcune delle impostazioni comuni a tutti i componenti di &lt;f0&gt;LibreOffice&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This setting overrides the control’s URL property that you set in the document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T171923Z" creationid="Luciano B." creationdate="20160325T171923Z">
@@ -7827,6 +7883,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T080349Z">
         <seg>Per visualizzare la Guida in linea completa, premete il tasto &lt;f0&gt;F1&lt;/f0&gt; oppure selezionate &lt;f1&gt;Guida di LibreOffice&lt;/f1&gt; dal menu di Aiuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To do so, first save them in a document and then save the document as a template as described in Chapter 4, Using Styles and Templates in Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160418T144930Z" creationid="steevie" creationdate="20160418T144930Z">
+        <seg>Per farlo, salvatele prima in un documento e poi salvate il documento come modello, così come descritto nel Capitolo 4 (Uso di stili e modelli in Calc).</seg>
       </tuv>
     </tu>
     <tu>
