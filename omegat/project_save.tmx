@@ -3638,6 +3638,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl-click required to follow hyperlinks</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160421T122412Z" creationid="steevie" creationdate="20160421T122412Z">
+        <seg>Ctrl-clic necessario per l'apertura dei collegamenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl-click to activate</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160421T122357Z" creationid="steevie" creationdate="20160421T122357Z">
+        <seg>Fate Ctrl-click per attivare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Custom header</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T164345Z" creationid="Luciano B." creationdate="20160325T164345Z">
@@ -7614,6 +7630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The default behavior in most components of LibreOffice is to &lt;f0&gt;Ctrl+click&lt;/f0&gt; on a hyperlink to open the linked document, but you can choose to open hyperlinks using a single click.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160421T122557Z" creationid="steevie" creationdate="20160421T122557Z">
+        <seg>Il comportamento predefinito di molti componenti di LibreOffice richiede il &lt;f0&gt;Ctrl+clic&lt;/f0&gt; su un collegamento ipertestuale per aprire il documento collegato ma è possibile scegliere di aprire collegamenti ipertestuali facendo un solo click.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first button on the top left of the window, &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;, is for cell styles and the second, &lt;df2&gt;&lt;di3/&gt;&lt;s4&gt;page_styles_button&lt;/s4&gt;&lt;/df2&gt;, is for page styles.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160330T085111Z" creationid="briga" creationdate="20160330T085002Z">
@@ -9667,6 +9691,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160313T142905Z">
         <seg>opzioni generali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>hyperlinks</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160421T122403Z" creationid="steevie" creationdate="20160421T122403Z">
+        <seg>collegamenti ipertestuali</seg>
       </tuv>
     </tu>
     <tu>
