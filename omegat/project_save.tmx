@@ -4438,6 +4438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;329&lt;/seq0&gt;: Choosing Load/Save VBA Properties</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160421T130408Z" creationid="steevie" creationdate="20160421T130408Z">
+        <seg>Figura &lt;seq0&gt;329&lt;/seq0&gt;: opzioni Carica/Salva Proprietà VBA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Example of a tear-off toolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T133818Z" creationid="michele" creationdate="20160414T133818Z">
@@ -5194,6 +5202,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T160245Z" creationid="Luciano B." creationdate="20160329T160245Z">
         <seg>Se scegliete &lt;f0&gt;E-mail come Microsoft Excel&lt;/f0&gt;, &lt;f1&gt;LibreOffice&lt;/f1&gt; creerò prima un file nel formato Excel e quindi aprirà il vostro programma di posta allegando il file *.XLS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you choose &lt;i0/&gt;&lt;f1&gt;Save original Basic code&lt;/f1&gt;, the macros will not work in &lt;f2&gt;LibreOffice&lt;/f2&gt; but are retained if you save the file into Microsoft Office format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160421T130457Z" creationid="steevie" creationdate="20160421T130457Z">
+        <seg>Se scegliete &lt;i0/&gt;&lt;f1&gt;Salva codice Basic originale&lt;/f1&gt;, le macro non funzioneranno in &lt;f2&gt;LibreOffice&lt;/f2&gt; ma saranno mantenute se si salva il file nel formato Microsoft Office.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6322,6 +6338,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T123011Z" creationid="steevie" creationdate="20160421T123011Z">
         <seg>Nella pagina &lt;f0&gt;&lt;f1&gt;LibreOffice&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; – Aspetto&lt;/f3&gt;&lt;/f2&gt; potete specificare quali elementi rendere visibili e con quali colori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the &lt;f0&gt;&lt;f1&gt;Load/Save – VBA Properties&lt;/f1&gt;&lt;/f0&gt; page, you can choose whether to keep any macros in Microsoft Office documents that are opened in &lt;f2&gt;LibreOffice&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160421T130357Z" creationid="steevie" creationdate="20160421T130357Z">
+        <seg>Nella pagina &lt;f0&gt;&lt;f1&gt;Carica/Salva – Proprietà VBA&lt;/f1&gt;&lt;/f0&gt;, potete stabilire se mantenere le macro nei documenti Microsoft Office aperti da &lt;f2&gt;LibreOffice&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9095,6 +9119,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>VBA Properties Load/Save options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160421T130333Z" creationid="steevie" creationdate="20160421T130333Z">
+        <seg>Proprietà VBA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VBA properties load/save options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160421T130326Z" creationid="steevie" creationdate="20160421T130326Z">
+        <seg>proprietà VBA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Validating cell contents</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T212254Z">
@@ -10007,6 +10047,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>load Basic code to edit</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160421T130552Z" creationid="steevie" creationdate="20160421T130552Z">
+        <seg>load Basic code to edit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>load/save options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T125355Z" creationid="steevie" creationdate="20160421T125355Z">
@@ -10139,6 +10187,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T122228Z" creationid="steevie" creationdate="20160421T122216Z">
         <seg>rimuovi le informazioni personali al salvataggio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>save original Basic code</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160421T130421Z" creationid="steevie" creationdate="20160421T130421Z">
+        <seg>salva codice Basic originale</seg>
       </tuv>
     </tu>
     <tu>
