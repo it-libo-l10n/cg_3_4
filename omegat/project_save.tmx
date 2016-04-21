@@ -1766,6 +1766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;LibreOffice&lt;/f0&gt;&lt;f1&gt; by default saves documents in &lt;/f1&gt;&lt;is2/&gt;&lt;f3&gt;OpenDocument Format&lt;/f3&gt;&lt;ie4/&gt;&lt;f5&gt; (ODF) version 1.2 Extended.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160421T125743Z" creationid="steevie" creationdate="20160421T125743Z">
+        <seg>Per impostazione predefinita &lt;f0&gt;LibreOffice&lt;/f0&gt;&lt;f1&gt; salva i documenti nel &lt;/f1&gt;&lt;is2/&gt;&lt;f3&gt;Formato Open Document&lt;/f3&gt;&lt;ie4/&gt;&lt;f5&gt; (ODF) versione 1.2 Esteso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Martin J Fox&lt;/f0&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090305Z">
@@ -5214,6 +5222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you plan to share documents with people who are still using older versions of &lt;/f7&gt;&lt;f8&gt;LibreOffice&lt;/f8&gt;&lt;f9&gt;, save the document using ODF version 1.0/1.1.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160421T125935Z" creationid="steevie" creationdate="20160421T125935Z">
+        <seg>Se intendete condividere documenti con persone che utilizzano editor che fanno ancora uso di versioni più vecchie di &lt;/f7&gt;&lt;f8&gt;LibreOffice&lt;/f8&gt;&lt;f9&gt;, salvate il documento usando la versione ODF 1.0/1.1.&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you record changes, save multiple versions, or include hidden information or notes in your documents, and you do not want some of the recipients to see that information, you can set warnings to remind you to remove this information, or you can have &lt;f0&gt;LibreOffice&lt;/f0&gt; remove some information automatically.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T160758Z" creationid="steevie" creationdate="20160418T160650Z">
@@ -7326,6 +7342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Size optimization for ODF format</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160421T130009Z" creationid="steevie" creationdate="20160421T130009Z">
+        <seg>Ottimizzazione dimensioni per il formato ODF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So, for example, a spreadsheet might contain one sheet to be printed in landscape orientation (using the Default page style) and another sheet to be printed in portrait orientation (using the Report page style).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160216T071656Z">
@@ -8711,6 +8735,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Two notable examples are cross-references to headings and the formatting of numbered lists.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160421T125854Z" creationid="steevie" creationdate="20160421T125854Z">
+        <seg>Due esempi notevoli sono i riferimenti incrociati alle intestazioni e la formattazione degli elenchi numerati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Type a comma in the text box as the separator for the ranges.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T170212Z">
@@ -9119,6 +9151,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When a file saved in ODF 1.2 Extended is opened in an earlier version of &lt;/f5&gt;&lt;f6&gt;LibreOffice&lt;/f6&gt;&lt;f7&gt; (using ODF 1.0/1.1), some of the advanced features may be lost.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160421T125850Z" creationid="steevie" creationdate="20160421T125850Z">
+        <seg>Quando un file salvato in ODF 1.2 Esteso viene aperto con una precedente versione di &lt;/f5&gt;&lt;f6&gt;LibreOffice&lt;/f6&gt;&lt;f7&gt; (usando ODF 1.0/1.1), alcune delle caratteristiche avanzate potrebbero perdersi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When all conflicts are resolved, the document is saved.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T163045Z" creationid="Luciano B." creationdate="20160411T163045Z">
@@ -9259,6 +9299,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160215T071548Z">
         <seg>Sebbene alcuni componenti di &lt;f0&gt;LibreOffice&lt;/f0&gt; offrano diversi tipi di stile, Calc ne possiede solo due:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>While this allows for improved functionality, there may be backwards compatibility issues.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160421T125746Z" creationid="steevie" creationdate="20160421T125746Z">
+        <seg>Se da un lato ciò permette una funzionalità migliorata, dall'altro lato potrebbero esserci problemi di compatibilità con le versioni precedenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10115,6 +10163,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T161219Z">
         <seg>fogli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>size optimization</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160421T125958Z" creationid="steevie" creationdate="20160421T125958Z">
+        <seg>ottimizzazione dimensioni</seg>
       </tuv>
     </tu>
     <tu>
