@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_0_r8270:8272" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6670,6 +6670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove personal information on saving</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160421T122233Z" creationid="steevie" creationdate="20160421T122225Z">
+        <seg>Rimuovi le informazioni personali al salvataggio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Removing personal data</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095229Z">
@@ -6954,6 +6962,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160315T171510Z">
         <seg>Selezionate il primo foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select this option to always remove user data from the file properties when saving the file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160421T122237Z" creationid="steevie" creationdate="20160421T122237Z">
+        <seg>Selezionate questa opzione per rimuovere sempre i dati dell'utente dalle proprietà del file quando salvate il file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7623,6 +7639,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following options are on the Security options and warnings dialog (&lt;t0&gt;Figure 325&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160421T122212Z" creationid="steevie" creationdate="20160421T122212Z">
+        <seg>Le seguenti opzioni si trovano nella finestra di dialogo Opzioni di sicurezza e avvisi (&lt;t0&gt;Figura 325&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The header or footer of a Calc spreadsheet has three columns for text.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T163610Z" creationid="Luciano B." creationdate="20160325T163610Z">
@@ -8283,6 +8307,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153521Z">
         <seg>Per inserire una interruzione di pagina:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To manually remove personal information from specific documents, deselect this option and then use the &lt;f0&gt;Delete&lt;/f0&gt; button under &lt;f1&gt;File &gt; Properties &gt; General&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160421T122242Z" creationid="steevie" creationdate="20160421T122242Z">
+        <seg>Per rimuovere manualmente le informazioni personali da documenti specifici, deselezionate questa opzione e utilizzate poi il pulsante &lt;f0&gt;Cancella&lt;/f0&gt; sotto &lt;f1&gt;File &gt; Proprietà &gt; Generale&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9787,6 +9819,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160325T154709Z">
         <seg>stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>remove personal information on saving</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160421T122228Z" creationid="steevie" creationdate="20160421T122216Z">
+        <seg>rimuovi le informazioni personali al salvataggio</seg>
       </tuv>
     </tu>
     <tu>
