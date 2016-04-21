@@ -1750,10 +1750,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;LibreOffice&lt;/f0&gt; can open and save files in the .xlsx format produced by Microsoft Office 2007 and 2010.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160421T130314Z" creationid="steevie" creationdate="20160421T130314Z">
+        <seg>&lt;f0&gt;LibreOffice&lt;/f0&gt; è anche in grado di aprire e salvare nel formato .xlsx Prodotto da Microsoft Office 2007 and 2010.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;LibreOffice&lt;/f0&gt; comes with an extensive &lt;is1/&gt;Help system&lt;ie2/&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T102539Z">
         <seg>&lt;f0&gt;LibreOffice&lt;/f0&gt; offre un &lt;is1/&gt;sistema di aiuto&lt;ie2/&gt; vasto ed articolato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;LibreOffice&lt;/f0&gt; documents are &lt;is1/&gt;XML&lt;ie2/&gt; files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160421T130049Z" creationid="steevie" creationdate="20160421T130049Z">
+        <seg>I documenti di &lt;f0&gt;LibreOffice&lt;/f0&gt; sono file &lt;is1/&gt;XML&lt;ie2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3686,6 +3702,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Current versions of Microsoft Excel can open ODF files, so this may no longer be needed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160421T130218Z" creationid="steevie" creationdate="20160421T130218Z">
+        <seg>Le versioni attuali di Microsoft Excel possono aprire file ODF, quindi ciò potrebbe non essere più necessario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Custom header</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T164345Z" creationid="Luciano B." creationdate="20160325T164345Z">
@@ -3842,6 +3866,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160323T164024Z">
         <seg>Le barre strumenti agganciate possono essere spostate su lati diversi dello schermo o trasformate in barre mobili; allo stesso modo è possibile agganciare le barre mobili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Document type</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160421T130123Z" creationid="steevie" creationdate="20160421T130123Z">
+        <seg>Tipo documento</seg>
       </tuv>
     </tu>
     <tu>
@@ -5238,6 +5270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you routinely share documents with users of Microsoft Excel, you might want to change the &lt;f0&gt;Always save as&lt;/f0&gt; attribute for spreadsheets to one of the Excel formats.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160421T130205Z" creationid="steevie" creationdate="20160421T130205Z">
+        <seg>Se condividete abitualmente documenti con utenti di Microsoft Excel, potreste voler modificare l'attributo per documenti di testo &lt;f0&gt;Salva sempre come&lt;/f0&gt; con uno dei formati di Microsoft Excel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you select PDF/A-1a, the forbidden elements are grayed-out (not available).&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T173133Z" creationid="Luciano B." creationdate="20160325T171651Z">
@@ -5250,6 +5290,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160216T072200Z">
         <seg>Se volete che un foglio di lavoro si adatti ad una determinata dimensione di pagina, dovete attentamente controllare la larghezza di colonna e l'altezza di riga, usando solamente &lt;f0&gt;File &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Anteprima di stampa&lt;/f3&gt; come guida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want to be able to read the XML files in a text editor in a structured form, deselect this option.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160421T130116Z" creationid="steevie" creationdate="20160421T130116Z">
+        <seg>Se volete leggere i file XML in un editor di testo in un formato strutturato, disattivate l'opzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9243,6 +9291,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T164044Z">
         <seg>Quando salvate un foglio elettronico per la prima volta, vi sarà richiesto di inserire un nome di vostra scelta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you select this option, &lt;f3&gt;LibreOffice&lt;/f3&gt; writes the XML data without indents and line breaks.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160421T130111Z" creationid="steevie" creationdate="20160421T130111Z">
+        <seg>Se selezionate questa opzione, &lt;f3&gt;LibreOffice&lt;/f3&gt; scrive i dati XML senza rientri né interruzioni di linea.</seg>
       </tuv>
     </tu>
     <tu>
