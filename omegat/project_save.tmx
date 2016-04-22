@@ -5104,8 +5104,8 @@
       <tuv lang="EN">
         <seg>Identifying copies of spreadsheets</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160422T155632Z" creationid="luciano" creationdate="20160422T155632Z">
-        <seg>Identificare copie di fogli elettronici</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160422T160307Z" creationid="luciano" creationdate="20160422T155632Z">
+        <seg>Identificare le copie di fogli elettronici</seg>
       </tuv>
     </tu>
     <tu>
@@ -8327,6 +8327,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This can be done either in the file name or in the file title.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160422T160456Z" creationid="luciano" creationdate="20160422T160456Z">
+        <seg>Questo può essere fatto sia nel nome del file che nel titolo del file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This can help to display the document on devices with different screens, and when using screen reader software.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T141423Z" creationid="Luciano B." creationdate="20160325T171814Z">
@@ -9363,6 +9371,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T163045Z" creationid="Luciano B." creationdate="20160411T163045Z">
         <seg>Qundo tutti i conflitti saranno risolti, il documento sarà salvato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When not using the document sharing feature, it is important to keep track of the different copies of the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160422T160358Z" creationid="luciano" creationdate="20160422T160358Z">
+        <seg>Quando non si utilizza la funzionalità di condivisione dei documenti, è importante tenere traccia delle diverse copie del documento.</seg>
       </tuv>
     </tu>
     <tu>
