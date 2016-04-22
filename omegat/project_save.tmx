@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>(Optional) Click &lt;f0&gt;Edit &gt; Changes &gt; Protect Records&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160422T155402Z" creationid="luciano" creationdate="20160422T155402Z">
+        <seg>(Opzionale) Fate click su &lt;f0&gt;Modifica &gt; Modifiche &gt; Proteggi la Registrazione&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(The &lt;/f13&gt;&lt;is14/&gt;&lt;f15&gt;Apply Style list&lt;/f15&gt;&lt;ie16/&gt;&lt;f17&gt; may not be visible by default.) Click the down-arrow to the right of each box to open the list.&lt;/f17&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T145333Z" creationid="michele" creationdate="20160414T145333Z">
@@ -6438,6 +6446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the Protect Records dialog, type a password (twice) and click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160422T155448Z" creationid="luciano" creationdate="20160422T155448Z">
+        <seg>Nella finestra di dialogo Proteggi la Registrazione, digitate una password (due volte) e fate clic su &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On this page you can choose how links are exported to PDF.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T160923Z" creationid="Luciano B." creationdate="20160326T160923Z">
@@ -6482,6 +6498,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084313Z">
         <seg>Aprite la finestra Stili e formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the document and make sure that the &lt;f0&gt;Edit &gt; Changes &gt; Record&lt;/f0&gt; menu item has a check mark next to it, indicating that change recording is active.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160422T155300Z" creationid="luciano" creationdate="20160422T155300Z">
+        <seg>Aprite il documento e assicuratevi che la voce di menu &lt;f0&gt;Modifica &gt; Modifiche &gt; Registra&lt;/f0&gt; presenti a fianco il segno di spunta, indicando che la registrazione delle modifiche è attiva.</seg>
       </tuv>
     </tu>
     <tu>
