@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1486,6 +1486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;A colored border, with a dot in the upper left-hand corner, appears around a cell where changes were made (&lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figure 284&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160423T123832Z" creationid="luciano" creationdate="20160423T123832Z">
+        <seg>&lt;f0&gt;Apparirà un bordo colorato, con un punto nell'angolo in alto sinistra, attorno alla cella modoficata (&lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figura 284&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;All&lt;/f0&gt;: Exports the entire document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165455Z" creationid="Luciano B." creationdate="20160325T165455Z">
@@ -2834,6 +2842,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160216T071915Z">
         <seg>Poiché i fogli di lavoro sono prevalentemente usati sullo schermo, e non stampati, Calc non mostra gli stili di pagina a video.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Begin editing the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160423T123633Z" creationid="luciano" creationdate="20160423T123633Z">
+        <seg>Iniziate a modificare il documento.Begin editing the document.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7330,6 +7346,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T154306Z">
         <seg>Selezionate &lt;f0&gt;Modifica &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Elimina interruzione manuale di pagina&lt;/f3&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Edit &gt; Changes &gt; Record&lt;/f0&gt;&lt;f1&gt; from the menu bar.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160423T123555Z" creationid="luciano" creationdate="20160423T123555Z">
+        <seg>Selezionate &lt;f0&gt;Modifica &gt; Modifica &gt; Registra&lt;/f0&gt;&lt;f1&gt; dalla barra dei menu.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
