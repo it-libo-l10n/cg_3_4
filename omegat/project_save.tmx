@@ -1488,8 +1488,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;A colored border, with a dot in the upper left-hand corner, appears around a cell where changes were made (&lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figure 284&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160423T123832Z" creationid="luciano" creationdate="20160423T123832Z">
-        <seg>&lt;f0&gt;Apparirà un bordo colorato, con un punto nell'angolo in alto sinistra, attorno alla cella modoficata (&lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figura 284&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160423T123901Z" creationid="luciano" creationdate="20160423T123832Z">
+        <seg>&lt;f0&gt;Apparirà un bordo colorato, con un punto nell'angolo in alto sinistra, attorno alla cella modificata (&lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figura 284&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6674,6 +6674,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T145030Z" creationid="steevie" creationdate="20160418T145030Z">
         <seg>Altre opzioni generali sono descritte nel Capitolo 2 (Configurare &lt;f1&gt;LibreOffice&lt;/f1&gt;) nella &lt;f2&gt;Guida introduttiva&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other reviewers then quickly know which cells were edited.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160423T124052Z" creationid="luciano" creationdate="20160423T124052Z">
+        <seg>Gli altri revisori sapranno velocemente quali celle sono state modificate.</seg>
       </tuv>
     </tu>
     <tu>
