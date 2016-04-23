@@ -1326,6 +1326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f1&gt;&lt;f2&gt;The dialog shown in &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Figure 285&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt; appears.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160423T145251Z" creationid="luciano" creationdate="20160423T145251Z">
+        <seg>&lt;/f1&gt;&lt;f2&gt;Viene visualizzato il messaggio di &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Figura 285&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f2&gt;&lt;/f1&gt;To change the default color for grid points, click the down-arrow by the color and select a new color from the drop-down list.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T124521Z" creationid="steevie" creationdate="20160421T124521Z">
@@ -8114,6 +8122,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T161832Z">
         <seg>L'area di stampa aggiuntiva sarà stampata in una pagina separata, anche se entrambe le aree si trovano sullo stesso foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The automatically-added comment provided by Calc appears in the title bar of this dialog and cannot be edited.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160423T145353Z" creationid="luciano" creationdate="20160423T145353Z">
+        <seg>Il commento aggiunto automaticamente da Calc viene visualizzato nella barra del titolo della finestra di dialogo e non può essere modificato.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
