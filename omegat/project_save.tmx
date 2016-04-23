@@ -1518,6 +1518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Calc automatically adds to any recorded change a comment that describes what was changed (for example, &lt;/f0&gt;&lt;f1&gt;Cell B4 changed from ‘9’ to ‘4’&lt;/f1&gt;&lt;f2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160423T144737Z" creationid="luciano" creationdate="20160423T144737Z">
+        <seg>&lt;f0&gt;Calc aggiunge automaticamente ad modifica registrata un commento che descrive cos'è stato cambiato (per esempio, &lt;/f0&gt;&lt;f1&gt;Cella B4 modificata da ‘9’ a ‘4’&lt;/f1&gt;&lt;f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Center window on screen:&lt;/f0&gt; Causes the PDF viewer window to be centered on the computer screen.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T160315Z" creationid="Luciano B." creationdate="20160326T160315Z">
@@ -10339,6 +10347,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T151337Z" creationid="steevie" creationdate="20160418T151337Z">
         <seg>colori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>comments on changes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160423T144340Z" creationid="luciano" creationdate="20160423T144340Z">
+        <seg>commenti alle modifiche</seg>
       </tuv>
     </tu>
     <tu>
