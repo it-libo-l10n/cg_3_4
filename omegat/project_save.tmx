@@ -4486,6 +4486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;285&lt;/seq0&gt;: Comment dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160423T145919Z" creationid="luciano" creationdate="20160423T145853Z">
+        <seg>Figura &lt;seq0&gt;285&lt;/seq0&gt;: Finestra di commento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Parts of the Calc window</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T164134Z">
@@ -8407,6 +8415,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The title bar for the Comment dialog shows the cell and the change you are commenting on.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160423T145841Z" creationid="luciano" creationdate="20160423T145758Z">
+        <seg>La barra del titolo per la Finestra di commento mostra la cella e le modifiche che state commentando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The two color fields at the lower right show the value of the selected color on the left and the currently set value from the color value fields on the right.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T160045Z" creationid="steevie" creationdate="20160418T160045Z">
@@ -10225,8 +10241,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>You can step through your changes one at a time using the left and right arrows on the right hand side of the Comment dialog, and add comments to each change.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160423T145622Z" creationid="luciano" creationdate="20160423T145622Z">
-        <seg>È possibile passare in rassegna le modifiche una per volta utilizzando le frecce destra e sinistra sul lato destro della finestra di commento, e aggiungere commenti ad ogni cambiamento.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160423T145831Z" creationid="luciano" creationdate="20160423T145622Z">
+        <seg>È possibile passare in rassegna le modifiche una per volta utilizzando le frecce destra e sinistra sul lato destro della Finestra di commento, e aggiungere commenti ad ogni cambiamento.</seg>
       </tuv>
     </tu>
     <tu>
