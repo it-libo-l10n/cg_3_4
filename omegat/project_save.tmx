@@ -2006,6 +2006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Type your own comment and click &lt;/f0&gt;&lt;f1&gt;OK&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160423T145437Z" creationid="luciano" creationdate="20160423T145437Z">
+        <seg>&lt;f0&gt;Scrivete il vostro commento e fate clic su &lt;/f0&gt;&lt;f1&gt;OK&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;User guides, how-tos, and other documentation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T083855Z">
@@ -10211,6 +10219,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T163802Z">
         <seg>Potete specificare quali dettagli stampare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can step through your changes one at a time using the left and right arrows on the right hand side of the Comment dialog, and add comments to each change.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160423T145622Z" creationid="luciano" creationdate="20160423T145622Z">
+        <seg>È possibile passare in rassegna le modifiche una per volta utilizzando le frecce destra e sinistra sul lato destro della finestra di commento, e aggiungere commenti ad ogni cambiamento.</seg>
       </tuv>
     </tu>
     <tu>
