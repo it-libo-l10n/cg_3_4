@@ -2078,6 +2078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;You can view your comments one at a time using the left and right arrows located on the right hand side of the Comment dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160424T131616Z" creationid="luciano" creationdate="20160424T131616Z">
+        <seg>&lt;f0&gt;È possibile visualizzare i tuoi commenti, uno alla volta utilizzando le frecce destra e sinistra posizionate sul lato destro della Finestra di commento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;z&lt;/f0&gt; &lt;f1&gt;(Command)&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084247Z">
@@ -10335,6 +10343,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You do not need to click &lt;/f0&gt;&lt;f1&gt;OK&lt;/f1&gt;&lt;f2&gt; after editing each comment; you can save them all at once when you’re done editing.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160424T131757Z" creationid="luciano" creationdate="20160424T131757Z">
+        <seg>Non occorre fare clic su &lt;/f0&gt;&lt;f1&gt;OK&lt;/f1&gt;&lt;f2&gt; dopo aver modificato ogni commento; potete salvarli tutti assieme una volta terminate le modifiche.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You do not need to select the entire range of the rows to be repeated; simply select one cell in each row.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T170110Z">
@@ -10491,6 +10507,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T151337Z" creationid="steevie" creationdate="20160418T151337Z">
         <seg>colori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>comments</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160424T131804Z" creationid="luciano" creationdate="20160424T131804Z">
+        <seg>commenti</seg>
       </tuv>
     </tu>
     <tu>
