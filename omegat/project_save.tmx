@@ -1622,6 +1622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Edit the comment and click &lt;/f0&gt;&lt;f1&gt;OK.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160424T131432Z" creationid="luciano" creationdate="20160424T131432Z">
+        <seg>&lt;f0&gt;Modificate il commento e fate clic su &lt;/f0&gt;&lt;f1&gt;OK.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Edit&lt;/f0&gt; contains commands for editing the document such as &lt;f1&gt;Undo, Changes, Compare Document&lt;/f1&gt;, and &lt;f2&gt;Find and Replace.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T164902Z">
@@ -1882,6 +1890,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T160250Z" creationid="Luciano B." creationdate="20160326T160250Z">
         <seg>&lt;f0&gt;Ridimensiona finestra a pagina iniziale:&lt;/f0&gt; Fa sì che il visualizzatore di PDF ridimensioni la finestra adattandola alla prima pagina del file PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Select &lt;/f0&gt;&lt;f1&gt;Edit &gt; Changes &gt; Comments.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160424T131328Z" creationid="luciano" creationdate="20160424T131328Z">
+        <seg>&lt;f0&gt;Selezionate &lt;/f0&gt;&lt;f1&gt;Modifica &gt; Modifiche &gt; Commenti.</seg>
       </tuv>
     </tu>
     <tu>
