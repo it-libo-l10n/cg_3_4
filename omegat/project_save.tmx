@@ -4206,6 +4206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Editing comments</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160424T134311Z" creationid="luciano" creationdate="20160424T134311Z">
+        <seg>Modificare i commenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Editing data</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T212258Z">
@@ -4610,6 +4618,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160424T133809Z" creationid="luciano" creationdate="20160424T133718Z">
         <seg>Figura &lt;seq0&gt;288&lt;/seq0&gt;: Punto colorato nella cella contenente un commento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;289&lt;/seq0&gt;: Viewing a comment</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160424T134248Z" creationid="luciano" creationdate="20160424T134248Z">
+        <seg>Figura &lt;seq0&gt;289&lt;/seq0&gt;: Visualizzare un commento</seg>
       </tuv>
     </tu>
     <tu>
@@ -9299,6 +9315,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T134252Z" creationid="michele" creationdate="20160414T134252Z">
         <seg>Per disancorare una finestra, tenete premuto il tasto &lt;f0&gt;Ctrl&lt;/f0&gt; e fate  &lt;f1&gt;doppio clic  &lt;f1&gt;sulla cornice (o in un' area vuota contigua alle icone nella parte superiore) della finestra ancorata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To view the comment you just added, hover the mouse pointer over the cell that has a comment; the comment appears, as shown below.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160424T134222Z" creationid="luciano" creationdate="20160424T134222Z">
+        <seg>Per visualizzare il commento appena aggiunto, portate il cursore del mouse sulla cella con il commento; il commento apparirà, come mostrato sotto.</seg>
       </tuv>
     </tu>
     <tu>
