@@ -3726,6 +3726,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comment – Searches the content of the comments and only displays changes which have comments that match the search criteria.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160425T121120Z" creationid="luciano" creationdate="20160425T121120Z">
+        <seg>Commento - Ricerca il contenuto dei commenti e visualizza solo le modifiche che hanno commenti che corrispondono ai criteri di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Comments—prints the comments defined in your spreadsheet on a separate page, along with the corresponding cell reference</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T163932Z">
@@ -7986,6 +7994,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084433Z">
         <seg>Shelagh Manton&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show accepted changes – Only changes you accepted are displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160425T121243Z" creationid="luciano" creationdate="20160425T121243Z">
+        <seg>Visualizza modifiche accettate  - Sono visualizzate solo le modifiche che vengono accettate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show rejected changes – Only changes you rejected are displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160425T121312Z" creationid="luciano" creationdate="20160425T121312Z">
+        <seg>Visualizza modifiche rifiutate  - Sono visualizzate solo le modifiche che vengono rifiutate.</seg>
       </tuv>
     </tu>
     <tu>
