@@ -5414,6 +5414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If any comments are in the spreadsheet, the Navigator shows a mark (usually a + or an arrow) next to the word Comments.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160425T114151Z" creationid="luciano" creationdate="20160425T114151Z">
+        <seg>Se ci sono commenti nel foglio elettronico, il navigatore mostra un segno (di solito un +o una freccia) accanto alla parola Commenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If any part of the Calc window in &lt;t0&gt;Figure 2&lt;/t0&gt; is not shown, you can display it using the View menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T163355Z">
@@ -8603,6 +8611,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T155022Z" creationid="Luciano B." creationdate="20160326T155022Z">
         <seg>Le selezioni sono autoesplicative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The small comment markers in the corners of cells can be difficult to see, so Calc provides another way to find them, by using the Navigator.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160425T114006Z" creationid="luciano" creationdate="20160425T114006Z">
+        <seg>I piccoli indicatori di commento agli angoli delle celle possono essere difficili da vedere, quindi Calc fornisce un altro modo per trovarli, utilizzando il Navigatore.</seg>
       </tuv>
     </tu>
     <tu>
