@@ -2926,6 +2926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Author – Only changes made by a specific author are displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160425T120718Z" creationid="luciano" creationdate="20160425T120621Z">
+        <seg>Autore –  Sono visualizzate solo le modifiche apportateda uno specifico autore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Autoformatting cells and sheets</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T101326Z">
@@ -4016,8 +4024,8 @@
       <tuv lang="EN">
         <seg>Date – Only changes made in a certain time range are displayed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160425T120555Z" creationid="luciano" creationdate="20160425T120555Z">
-        <seg>Data - vengono visualizzate solo le modifiche apportate in un certo intervallo di tempo.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160425T120646Z" creationid="luciano" creationdate="20160425T120555Z">
+        <seg>Data - Sono visualizzate solo le modifiche apportate in un certo intervallo di tempo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8963,6 +8971,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T164706Z" creationid="Luciano B." creationdate="20160325T164706Z">
         <seg>Questo formato standard è ideale per l'invio di file che potranno essere aperti usando Adobe Acrobat Reader o altri visualizzatori PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is especially useful if you have multiple reviewers on the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160425T120826Z" creationid="luciano" creationdate="20160425T120826Z">
+        <seg>Questo è utile specialmente quando si hanno numerosi revisori nel documento.</seg>
       </tuv>
     </tu>
     <tu>
