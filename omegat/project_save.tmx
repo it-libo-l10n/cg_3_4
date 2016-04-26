@@ -5558,6 +5558,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If more than one person has reviewed the document, one reviewer may have modified another reviewer’s change.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160426T160127Z" creationid="luciano" creationdate="20160426T160127Z">
+        <seg>Se più persone hanno revisionato il documento, un revisore potrebbe aver modificato la modifiche di un altro revisore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If necessary, change the settings from RGB (Red, Green, Blue) to CMYK (Cyan, Magenta, Yellow, Black) or vice versa.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T155711Z" creationid="steevie" creationdate="20160418T155711Z">
@@ -5618,6 +5626,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T154101Z" creationid="Luciano B." creationdate="20160329T154101Z">
         <seg>Se il file contiene più di un foglio, i fogli aggiuntivi saranno disposti uno dopo l'altro nel file HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the reviewer added a comment to the change, it is displayed, followed by the description of the change, as in the first line of &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Figure 291&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160426T160024Z" creationid="luciano" creationdate="20160426T160024Z">
+        <seg>Se il revisore ha aggiunto un commento alla modificha, questo sarà visualizzato, seguito dalla descrizione della modifica, come nella prima linea di &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Figura 291&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
