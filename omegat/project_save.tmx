@@ -2006,6 +2006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;Comment&lt;/f1&gt;&lt;f2&gt; column by default contains an explanation of the change that was made.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160426T155821Z" creationid="luciano" creationdate="20160426T155821Z">
+        <seg>&lt;f0&gt;La colonna &lt;/f0&gt;&lt;f1&gt;Commenti&lt;/f1&gt;&lt;f2&gt; contiene di default contains una spiegazione delle modifiche apportate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The automatic page break lines are then displayed&lt;/f0&gt;&lt;f1&gt; on the screen.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T161006Z">
@@ -10611,6 +10619,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160325T155946Z">
         <seg>Potete scegliere di stampare fogli singoli, multipli, e selezioni di celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can choose to accept or reject&lt;f0&gt; each change as you go through.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160426T155716Z" creationid="luciano" creationdate="20160426T155716Z">
+        <seg>Potete scegliere di accettare o rifiutare &lt;f0&gt; ogni cambiamento che scorrete.&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
