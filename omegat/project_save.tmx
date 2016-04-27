@@ -4982,6 +4982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;334&lt;/seq0&gt;: Calc calculation options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145236Z" creationid="steevie" creationdate="20160427T145236Z">
+        <seg>Figura &lt;seq0&gt;334&lt;/seq0&gt;: Opzioni di calcolo di Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Example of a tear-off toolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T133818Z" creationid="michele" creationdate="20160414T133818Z">
@@ -5942,6 +5950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If this options is not selected, an iterative reference causes an error message.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145218Z" creationid="steevie" creationdate="20160427T145218Z">
+        <seg>Quando questa opzione non è abilitata, un riferimento circolare provoca un messaggio d'errore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are importing a Microsoft Excel file containing VBA code, you can select the option &lt;f0&gt;Executable code&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T124919Z" creationid="steevie" creationdate="20160427T124919Z">
@@ -6408,8 +6424,8 @@
       <tuv lang="EN">
         <seg>In this section you can choose the number of approximation steps carried out during iterative calculations and the degree of precision of the answer.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145027Z" creationid="steevie" creationdate="20160427T145027Z">
-        <seg>In questa sezione potete scegliere il numero di passi di approssimazione completati durante il calcolo iterativo ed il grado di precisione della risposta.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145249Z" creationid="steevie" creationdate="20160427T145027Z">
+        <seg>In questa sezione potete scegliere il numero di passaggi di approssimazione completati durante il calcolo iterativo ed il grado di precisione della risposta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7050,6 +7066,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T124937Z" creationid="steevie" creationdate="20160427T124937Z">
         <seg>Conversione file di Microsoft Office</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Minimum Change</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145323Z" creationid="steevie" creationdate="20160427T145323Z">
+        <seg>Scarto consentito</seg>
       </tuv>
     </tu>
     <tu>
@@ -8518,6 +8542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sets the maximum number of iteration steps.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145313Z" creationid="steevie" creationdate="20160427T145313Z">
+        <seg>Imposta il numero massimo di passaggi di iterazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting a default template</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T102908Z">
@@ -8894,6 +8926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Specifies the difference between two consecutive iteration step results.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145439Z" creationid="steevie" creationdate="20160427T145439Z">
+        <seg>Indica la differenza tra i risultati di due iterazioni consecutive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Specifies whether some elements are visible onscreen: column/row headers, horizontal scrollbar, vertical scrollbar, sheet tabs, and outline symbols.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143813Z" creationid="steevie" creationdate="20160427T143813Z">
@@ -9066,6 +9106,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084424Z">
         <seg>Stephen Buck</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Steps</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145243Z" creationid="steevie" creationdate="20160427T145243Z">
+        <seg>Passaggi</seg>
       </tuv>
     </tu>
     <tu>
