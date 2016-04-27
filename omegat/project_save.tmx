@@ -3278,6 +3278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Case sensitive</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T150159Z" creationid="steevie" creationdate="20160427T150159Z">
+        <seg>Maiuscole/minuscole</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Caution</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160315T172350Z">
@@ -9062,6 +9070,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Specifies whether to distinguish between upper and lower case in texts when comparing cell contents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T150245Z" creationid="steevie" creationdate="20160427T150245Z">
+        <seg>Specificate se distinguere tra maiuscole e minuscole nel testo quando si confronta il contenuto delle celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Specifies whether to expand references when inserting columns or rows adjacent to the reference range.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T134334Z" creationid="steevie" creationdate="20160427T134248Z">
@@ -9114,6 +9130,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T135740Z" creationid="steevie" creationdate="20160427T135740Z">
         <seg>Indica quali linee vengono mostrate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specify a variety of options relevant to spreadsheet calculation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T150148Z" creationid="steevie" creationdate="20160427T150148Z">
+        <seg>Indicate varie opzioni attinenti ai calcoli nel foglio di calcolo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12123,6 +12147,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T144735Z" creationid="steevie" creationdate="20160427T144735Z">
         <seg>Opzioni Calcola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>case sensitive</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T150153Z" creationid="steevie" creationdate="20160427T150153Z">
+        <seg>Maiuscole/minuscole</seg>
       </tuv>
     </tu>
     <tu>
