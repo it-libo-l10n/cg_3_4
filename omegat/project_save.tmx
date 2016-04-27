@@ -11191,6 +11191,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You might want to avoid updating links when opening documents if they often contain many charts or linked graphics that would slow down loading.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T131223Z" creationid="steevie" creationdate="20160427T131223Z">
+        <seg>Potete evitare di aggiornare i collegamenti all'apertura dei documenti se contengono molti diagrammi o immagini collegate che rallenterebbero il caricamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You must activate this option &lt;f1&gt;before&lt;/f1&gt; you create the &lt;f2&gt;LibreOffice&lt;/f2&gt; Basic macro; otherwise the script will not be inserted.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T125604Z" creationid="steevie" creationdate="20160427T125604Z">
