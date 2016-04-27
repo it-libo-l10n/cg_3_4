@@ -5718,6 +5718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a cell contains text that is wider than the width of the cell, the text is displayed over empty neighboring cells in the same row.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143227Z" creationid="steevie" creationdate="20160427T143227Z">
+        <seg>Se la cella contiene testo più lungo della larghezza della cella, viene mostrato sopra le celle adiacenti nella stessa riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a sheet is printed on multiple pages, you can set up certain rows or columns to repeat on each printed page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T110931Z">
@@ -8766,6 +8774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Specifies whether the anchor icon is displayed when an inserted object, such as a graphic, is selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143104Z" creationid="steevie" creationdate="20160427T143104Z">
+        <seg>Indica se l'icona ancoraggio viene mostrata quando è selezionato un oggetto inserito, come ad esempio un'immagine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Specifies whether to automatically apply the formatting attributes of an inserted cell to empty adjacent cells.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T133228Z" creationid="steevie" creationdate="20160427T132649Z">
@@ -9018,6 +9034,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T142908Z" creationid="steevie" creationdate="20160427T142908Z">
         <seg>Il testo viene evidenziato in nero; i numeri in blu; formule, valori logici, date eccetera in verde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text overflow</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143121Z" creationid="steevie" creationdate="20160427T143121Z">
+        <seg>Overflow di testo</seg>
       </tuv>
     </tu>
     <tu>
@@ -12339,6 +12363,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160213T104523Z">
         <seg>modello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>text overflow</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143116Z" creationid="steevie" creationdate="20160427T143116Z">
+        <seg>Overflow di testo</seg>
       </tuv>
     </tu>
     <tu>
