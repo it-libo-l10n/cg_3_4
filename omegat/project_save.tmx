@@ -5430,6 +5430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Guides while moving</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T140655Z" creationid="steevie" creationdate="20160427T140649Z">
+        <seg>Linee guida durante lo spostamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HTML compatibility&lt;ie0/&gt; Load/Save options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T125219Z" creationid="steevie" creationdate="20160427T125158Z">
@@ -8710,6 +8718,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Specifies whether to view guides when moving drawings, frames, graphics and other objects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T140829Z" creationid="steevie" creationdate="20160427T140711Z">
+        <seg>Indica se le linee guida vengono mostrate quando si spostano disegni, cornici, immagini e altri oggetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specifies whether to view the page breaks within a defined print area.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T140728Z" creationid="steevie" creationdate="20160427T140625Z">
+        <seg>Indica se le interruzioni di pagina vengono mostrate all'interno di una area di stampa definita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Specifies which lines are displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T135740Z" creationid="steevie" creationdate="20160427T135740Z">
@@ -11755,6 +11779,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T135811Z" creationid="steevie" creationdate="20160427T135811Z">
         <seg>Linee della griglia, mostra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>guides while moving</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T140635Z" creationid="steevie" creationdate="20160427T140635Z">
+        <seg>Linee guida durante lo spostamento</seg>
       </tuv>
     </tu>
     <tu>
