@@ -7176,8 +7176,8 @@
       <tuv lang="EN">
         <seg>Note that there is a slider between the horizontal scrollbar and the sheet tabs that may be set to one end.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143852Z" creationid="steevie" creationdate="20160427T143852Z">
-        <seg>Note that there is a slider between the horizontal scrollbar and the sheet tabs that may be set to one end.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T144324Z" creationid="steevie" creationdate="20160427T143852Z">
+        <seg>Notate che c'è un cursore tra la barra di scorrimento orizzontale e il divisorio dei fogliche può essere spostato a un estremo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8274,6 +8274,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T095354Z">
         <seg>Selezionate il pulsante &lt;f0&gt;Proprietà&lt;/f0&gt; per visualizzare una finestra di dialogo dove è possibile scegliere l'orientamento verticale oppure orizzontale &lt;i1/&gt;, quale cassetto della carta utilizzare, e il formato del foglio su cui stampare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the &lt;f0&gt;Synchronize sheets&lt;/f0&gt; option to apply any selected zoom factor to all sheets in the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T144526Z" creationid="steevie" creationdate="20160427T144526Z">
+        <seg>Selezionate l'opzione &lt;f0&gt;Sincronizza fogli&lt;/f0&gt; per applicare un determinato fattore di zoom a tutti i fogli nel foglio di calcolo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11811,6 +11819,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T142038Z" creationid="steevie" creationdate="20160427T142008Z">
         <seg>Valori zero </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Zoom&lt;ie0/&gt; section</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T144408Z" creationid="steevie" creationdate="20160427T144408Z">
+        <seg>Zoom&lt;ie0/&gt; section</seg>
       </tuv>
     </tu>
     <tu>
