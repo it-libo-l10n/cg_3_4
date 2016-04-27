@@ -2278,6 +2278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f3&gt;LibreOffice&lt;/f3&gt; Basic macros must be located in the header of the HTML document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T125616Z" creationid="steevie" creationdate="20160427T125616Z">
+        <seg>Le macro di &lt;f3&gt;LibreOffice&lt;/f3&gt; Basic devono essere situate nell'intestazione del documento HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f4&gt;Data &gt; Subtotals&lt;/f4&gt;&lt;br5/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T161116Z" creationid="Luciano B." creationdate="20160411T161031Z">
@@ -4430,6 +4438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Export - Display warning</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T125843Z" creationid="steevie" creationdate="20160427T125843Z">
+        <seg>Esporta - Mostra avviso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Export URLs relative to file system</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T150241Z" creationid="Luciano B." creationdate="20160329T150241Z">
@@ -5838,6 +5854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want the macro to run automatically when the HTML document is opened, choose &lt;f0&gt;Tools &gt; Customize &gt; Events&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T125632Z" creationid="steevie" creationdate="20160427T125632Z">
+        <seg>Se desiderate che le macro vengano eseguite automaticamente quando il documento HTML viene aperto, scegliete &lt;f0&gt;Strumenti &gt; Personalizza &gt; Eventi&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to be able to read the XML files in a text editor in a structured form, deselect this option.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T130116Z" creationid="steevie" creationdate="20160421T130116Z">
@@ -7046,6 +7070,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once you have created the macro in the &lt;f4&gt;LibreOffice&lt;/f4&gt; Basic IDE, it appears in the source text of the HTML document in the header.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T125629Z" creationid="steevie" creationdate="20160427T125629Z">
+        <seg>Una volta creata la macro nell'IDE di &lt;f4&gt;LibreOffice&lt;/f4&gt; Basic, questa apparirà nel sorgente pagina del documento HTML, nell'intestazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only buy 2 spare gloves.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160423T122950Z" creationid="luciano" creationdate="20160423T122950Z">
@@ -7802,6 +7834,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T150648Z" creationid="Luciano B." creationdate="20160329T150648Z">
         <seg>Vedere &lt;t2&gt;Figura 152&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See Chapter 12, Calc Macros, for more information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T125840Z" creationid="steevie" creationdate="20160427T125840Z">
+        <seg>Si veda il Capitolo 12 (Macro di Calc) per ulteriori informazioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11051,6 +11091,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T161854Z" creationid="Luciano B." creationdate="20160329T161854Z">
         <seg>Potreste volervi assicurare che i dati personali, le versioni, le note, le informazioni nascoste, o le modifiche registrate vengano eliminati dai file prima di inviarli ad altre persone o di esportarli in PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You must activate this option &lt;f1&gt;before&lt;/f1&gt; you create the &lt;f2&gt;LibreOffice&lt;/f2&gt; Basic macro; otherwise the script will not be inserted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T125604Z" creationid="steevie" creationdate="20160427T125604Z">
+        <seg>Dovete attivare questa opzione &lt;f1&gt;prima&lt;/f1&gt; di creare la macro di &lt;f2&gt;LibreOffice&lt;/f2&gt; Basic; altrimenti lo script non verrà inserito.</seg>
       </tuv>
     </tu>
     <tu>
