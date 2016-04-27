@@ -9455,6 +9455,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The text of the comment is shown when you hover the pointer over the cell, &lt;f0&gt;if&lt;/f0&gt; tips are enabled under &lt;f1&gt;Tools &gt; Options &gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;LibreOffice &gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;General&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T142600Z" creationid="steevie" creationdate="20160427T142600Z">
+        <seg>Il testo del commento è mostrato quando il cursore è portato sopra la cella &lt;f0&gt;se&lt;/f0&gt; i suggerimenti sono abilitati sotto &lt;f1&gt;Strumenti&gt; Opzioni &gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;LibreOffice &gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;Generale&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The title bar for the Comment dialog shows the cell and the change you are commenting on.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160423T145841Z" creationid="luciano" creationdate="20160423T145758Z">
@@ -9939,6 +9947,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T170037Z">
         <seg>Per aggiungere nuove celle all'area di stampa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To display a comment permanently, right-click on the cell and select &lt;f0&gt;Show comment&lt;/f0&gt; from the &lt;f1&gt;context&lt;/f1&gt; menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T142657Z" creationid="steevie" creationdate="20160427T142657Z">
+        <seg>Per mostrare permanentemente un commento, fare clic con il pulsante secondario del mouse su &lt;f0&gt;Mostra commento&lt;/f0&gt; nel menu &lt;f1&gt;contestuale&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12339,6 +12355,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084317Z">
         <seg>Parti dell'interfaccia utente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>value highlighting</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T142708Z" creationid="steevie" creationdate="20160427T142708Z">
+        <seg>Evidenzia valore</seg>
       </tuv>
     </tu>
     <tu>
