@@ -5654,6 +5654,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are importing a Microsoft Excel file containing VBA code, you can select the option &lt;f0&gt;Executable code&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T124919Z" creationid="steevie" creationdate="20160427T124919Z">
+        <seg>Se state importando un file di Microsoft Excel contenente codice VBA, potete selezionare l'opzione &lt;f0&gt;Codice eseguibile&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are not using file sharing, you can make changes to a copy of the document (stored in a different folder, under a different name, or both), then use Calc to compare the files and show the changes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160422T153510Z" creationid="luciano" creationdate="20160422T153413Z">
@@ -6630,6 +6638,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Microsoft Office Load/Save options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T124939Z" creationid="steevie" creationdate="20160427T124939Z">
+        <seg>Microsoft Office</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Office file conversion</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T124937Z" creationid="steevie" creationdate="20160427T124937Z">
+        <seg>Conversione file di Microsoft Office</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modify the &lt;f0&gt;Name&lt;/f0&gt; as required.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T155727Z" creationid="steevie" creationdate="20160418T155727Z">
@@ -6882,6 +6906,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T123011Z" creationid="steevie" creationdate="20160421T123011Z">
         <seg>Nella pagina &lt;f0&gt;&lt;f1&gt;LibreOffice&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; – Aspetto&lt;/f3&gt;&lt;/f2&gt; potete specificare quali elementi rendere visibili e con quali colori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the &lt;f0&gt;&lt;f1&gt;Load/Save – Microsoft Office&lt;/f1&gt;&lt;/f0&gt; page, you can choose what to do when importing and exporting Microsoft Office OLE objects (linked or embedded objects or documents such as spreadsheets or equations).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T124957Z" creationid="steevie" creationdate="20160427T124957Z">
+        <seg>Nella pagina &lt;f0&gt;&lt;f1&gt;Carica/Salva – Microsoft Office&lt;/f1&gt;&lt;/f0&gt;, potete stabilire cosa fare quando si importano ed esportano oggetti OLE di Microsoft Office (che siano collegati o integrati oppure documenti come fogli elettronici o equazioni).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10339,6 +10371,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090514Z">
         <seg>Dove ottenere ulteriore aiuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whereas normally the code is preserved but rendered inactive (if you inspect it with the StarBasic IDE you will notice that it is all commented), with this option the code is ready to be executed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T124923Z" creationid="steevie" creationdate="20160427T124923Z">
+        <seg>Dal momento che normalmente il codice viene mantenuto ma reso inattivo (se lo controllate con l'IDE StarBasic noterete che è tutto commentato), con questa opzione il codice è pronto per essere eseguito.</seg>
       </tuv>
     </tu>
     <tu>
