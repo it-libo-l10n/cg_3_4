@@ -5758,6 +5758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If this option is selected, you can also choose the direction the cursor moves: up, down, left, or right.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T131857Z" creationid="steevie" creationdate="20160427T131857Z">
+        <seg>Se questa opzione è selezionata, potete anche scegliere la direzione in cui si muove il cursore: in alto, in basso, a sinistra o a destra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are importing a Microsoft Excel file containing VBA code, you can select the option &lt;f0&gt;Executable code&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T124919Z" creationid="steevie" creationdate="20160427T124919Z">
@@ -8498,6 +8506,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T171632Z">
         <seg>La spaziatura influisce sullo spazio che intercorre tra la pagina e l'intestazione o il piè di pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specifies that pressing &lt;f0&gt;Enter&lt;/f0&gt; moves the cursor to another cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T131748Z" creationid="steevie" creationdate="20160427T131748Z">
+        <seg>Indica che premendo&lt;f0&gt;Invio&lt;/f0&gt; si muove il cursore in un'altra cella.</seg>
       </tuv>
     </tu>
     <tu>
