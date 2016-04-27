@@ -5878,6 +5878,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If there is no empty neighboring cell, a small triangle at the cell border indicates that the text continues.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143326Z" creationid="steevie" creationdate="20160427T143326Z">
+        <seg>Quando nessuna cella adiacente è libera, un piccolo triangolo sul bordo della cella indica che il testo continua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If this option is &lt;f1&gt;not&lt;/f1&gt; selected, pressing &lt;f2&gt;Enter&lt;/f2&gt; completes data entry for a cell but does not move the cursor.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T132445Z" creationid="steevie" creationdate="20160427T132445Z">
@@ -7186,6 +7194,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T164002Z">
         <seg>Oggetti e immagini</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Objects section</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143537Z" creationid="steevie" creationdate="20160427T143537Z">
+        <seg>Sezione Oggetti</seg>
       </tuv>
     </tu>
     <tu>
@@ -8542,6 +8558,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show &lt;is0/&gt;references in color</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143339Z" creationid="steevie" creationdate="20160427T143339Z">
+        <seg>Mostra &lt;is0/&gt;i riferimenti in colore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show accepted changes – Only changes you accepted are displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160425T121243Z" creationid="luciano" creationdate="20160425T121243Z">
@@ -8730,6 +8754,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T142241Z" creationid="steevie" creationdate="20160427T142241Z">
         <seg>Indica che un piccolo rettangolo viene mostrato nell'angolo in alto a destra di una cella quando è presente un commento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specifies that each reference is highlighted in color in the formula.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143421Z" creationid="steevie" creationdate="20160427T143421Z">
+        <seg>Indica che ogni riferimento è evidenziato nel colore della formula.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9194,6 +9226,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T102855Z">
         <seg>Ora l'interruzione è impostata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The cell range is also enclosed by a colored border as soon as the cell containing the reference is selected for editing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143527Z" creationid="steevie" creationdate="20160427T143527Z">
+        <seg>L'intervallo di celle è anche racchiuso da un bordo colorato non appena la cella contenente il riferimento è sellezionata per la modifica.</seg>
       </tuv>
     </tu>
     <tu>
