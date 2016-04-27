@@ -4190,10 +4190,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Decimal places</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T150517Z" creationid="steevie" creationdate="20160427T150517Z">
+        <seg>Posizioni decimali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Defines the behavior of links clicked in PDF files.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T150352Z" creationid="Luciano B." creationdate="20160329T150352Z">
         <seg>Definisce il comportamento dei collegamenti su cui si fa clic nei file PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Defines the number of decimals to be displayed for numbers with the Standard number format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T150603Z" creationid="steevie" creationdate="20160427T150603Z">
+        <seg>Definisce il numero di cifre decimali mostrate per i numeri con il formato di numero standard.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9390,6 +9406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The EXACT text function is always case-sensitive, independent of the settings in this dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T150457Z" creationid="steevie" creationdate="20160427T150457Z">
+        <seg>La funzione di testo IDENTICO differenzia sempre tra maiuscole e minuscole, indipendentemente dall'impostazione in questa finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Formatting toolbar changes to show many of the comment formatting options.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160425T113447Z" creationid="luciano" creationdate="20160425T113447Z">
@@ -9683,6 +9707,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T110627Z">
         <seg>L'area non stampabile ha uno sfondo grigio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The numbers are displayed as rounded numbers, but are not saved as rounded numbers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T150659Z" creationid="steevie" creationdate="20160427T150659Z">
+        <seg>I numeri sono mostrati come approssimati, ma non sono salvati come tali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12539,6 +12571,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T150514Z" creationid="Luciano B." creationdate="20160329T150514Z">
         <seg>Protezione dei PDF con password</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>precision</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T150707Z" creationid="steevie" creationdate="20160427T150707Z">
+        <seg>precisione</seg>
       </tuv>
     </tu>
     <tu>
