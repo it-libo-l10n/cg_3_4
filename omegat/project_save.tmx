@@ -4454,6 +4454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Expand formatting</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T132629Z" creationid="steevie" creationdate="20160427T132629Z">
+        <seg>Espandi formattazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Export - &lt;f0&gt;LibreOffice&lt;/f0&gt; Basic</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T125526Z" creationid="steevie" creationdate="20160427T125526Z">
@@ -5754,6 +5762,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160426T160024Z" creationid="luciano" creationdate="20160426T160024Z">
         <seg>Se il revisore ha aggiunto un commento alla modificha, questo sarà visualizzato, seguito dalla descrizione della modifica, come nella prima linea di &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Figura 291&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If this option is &lt;f1&gt;not&lt;/f1&gt; selected, pressing &lt;f2&gt;Enter&lt;/f2&gt; completes data entry for a cell but does not move the cursor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T132445Z" creationid="steevie" creationdate="20160427T132445Z">
+        <seg>Quando questa opzione &lt;f1&gt;non&lt;/f1&gt; è selezionata, premendo &lt;f2&gt;Invio&lt;/f2&gt; viene completato l'inserimento dati nella cella, ma non viene spostato il cursore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7510,6 +7526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press Enter to switch to edit mode</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T132458Z" creationid="steevie" creationdate="20160427T132458Z">
+        <seg>Premi invio per passare al modo modifica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Print</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T163755Z">
@@ -8514,6 +8538,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T131748Z" creationid="steevie" creationdate="20160427T131748Z">
         <seg>Indica che premendo&lt;f0&gt;Invio&lt;/f0&gt; si muove il cursore in un'altra cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specifies that pressing &lt;f0&gt;Enter&lt;/f0&gt; puts the selected cell into edit mode.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T132616Z" creationid="steevie" creationdate="20160427T132616Z">
+        <seg>Indica che premendo&lt;f0&gt;Invio&lt;/f0&gt; si pone la cella selezionata in modo modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specifies whether to automatically apply the formatting attributes of an inserted cell to empty adjacent cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T132649Z" creationid="steevie" creationdate="20160427T132649Z">
+        <seg>Specifies whether to automatically apply the formatting attributes of an inserted cell to empty adjacent cells.</seg>
       </tuv>
     </tu>
     <tu>
