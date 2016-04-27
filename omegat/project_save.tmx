@@ -5566,6 +5566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, cells that already have a special format will not be modified by this function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T133900Z" creationid="steevie" creationdate="20160427T133900Z">
+        <seg>Tuttavia, celle che possiedono già un formato speciale non saranno modificate da questa funzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, if you want to use a shared document in unshared mode, you need to save the shared document using another name or path.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T154627Z" creationid="Luciano B." creationdate="20160411T154627Z">
@@ -5960,8 +5968,8 @@
       <tuv lang="EN">
         <seg>If, for example, an inserted cell has the bold attribute, this attribute will also apply to empty adjacent cells.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T133433Z" creationid="steevie" creationdate="20160427T133433Z">
-        <seg>Per esempio, se una cella con valori</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T133755Z" creationid="steevie" creationdate="20160427T133433Z">
+        <seg>Per esempio, se una cella con valori ha come attributo il grassetto, questo sarà applicato alle celle vuote adiacenti.</seg>
       </tuv>
     </tu>
     <tu>
