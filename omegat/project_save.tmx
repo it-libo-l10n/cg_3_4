@@ -9054,6 +9054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Specifies that the search criteria you set for the Calc database functions must match the whole cell exactly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T151145Z" creationid="steevie" creationdate="20160427T151145Z">
+        <seg>Indica che i criteri di ricerca impostati per le funzioni database di Calc devono corrispondere esattamente con l'intera c ella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Specifies that, when you paste cells from the clipboard to a cell range that is not empty, a warning appears.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T135542Z" creationid="steevie" creationdate="20160427T135542Z">
@@ -10239,6 +10247,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This search:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T151252Z" creationid="steevie" creationdate="20160427T151252Z">
+        <seg>Questa ricerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This section covers some of the settings that apply to all the components of &lt;f0&gt;LibreOffice&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T145008Z" creationid="steevie" creationdate="20160418T144942Z">
@@ -11347,6 +11363,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T142947Z" creationid="steevie" creationdate="20160427T142947Z">
         <seg>Quando questo comando è attivo, i colori assegnati nel documento non vengono mostrati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When this option is selected, Calc behaves exactly like Microsoft Excel when searching cells in the database functions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T151234Z" creationid="steevie" creationdate="20160427T151234Z">
+        <seg>Quando questa opzione è selezionata, Calc si comporta esattamente come Microsoft Excel durante la ricerca di celle nelle funzioni database.</seg>
       </tuv>
     </tu>
     <tu>
