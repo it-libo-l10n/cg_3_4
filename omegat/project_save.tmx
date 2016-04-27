@@ -5654,6 +5654,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the &lt;f5&gt;Display warning&lt;/f5&gt; option is selected, then when exporting to HTML a warning is shown that &lt;f6&gt;LibreOffice&lt;/f6&gt; Basic macros will be lost.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T130135Z" creationid="steevie" creationdate="20160427T130135Z">
+        <seg>Se l'opzione &lt;f5&gt;Mostra avviso&lt;/f5&gt; è selezionata, durante l'esportazione in HTML verrà mostrato un avvertimento per ricordare che le macro di &lt;f6&gt;LibreOffice&lt;/f6&gt;Basic andranno perdute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the Options dialog is not already open, click &lt;f0&gt;Tools &gt; Options&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T125216Z" creationid="steevie" creationdate="20160421T125216Z">
@@ -10363,6 +10371,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T161047Z" creationid="Luciano B." creationdate="20160329T161047Z">
         <seg>Quando qualcuno, successivamente, aprirà il documento su qualsiasi computer con installata una versione recente di &lt;f0&gt;LibreOffice&lt;/f0&gt;, il programma ricalcolerà di nuovo la somma di controllo, comparandola poi con quella salvata in precedenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the &lt;f0&gt;&lt;f1&gt;LibreOffice&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; Basic&lt;/f2&gt; option (see above) is &lt;f3&gt;not&lt;/f3&gt; selected, the &lt;f4&gt;Display warning&lt;/f4&gt; option becomes available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T130111Z" creationid="steevie" creationdate="20160427T130111Z">
+        <seg>Quando l'opzione &lt;f0&gt;&lt;f1&gt;LibreOffice&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; Basic&lt;/f2&gt; (si veda sopra) &lt;f3&gt;non&lt;/f3&gt; è selezionata, l'opzione  &lt;f4&gt;Mostra avviso&lt;/f4&gt; diviene disponibile.</seg>
       </tuv>
     </tu>
     <tu>
