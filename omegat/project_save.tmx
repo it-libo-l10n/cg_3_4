@@ -4838,6 +4838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;330&lt;/seq0&gt;: Choosing Load/Save Microsoft Office options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T125042Z" creationid="steevie" creationdate="20160427T125042Z">
+        <seg>Figura &lt;seq0&gt;330&lt;/seq0&gt;: opzioni Carica/salva Microsoft Office</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Example of a tear-off toolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T133818Z" creationid="michele" creationdate="20160414T133818Z">
@@ -5290,6 +5298,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T103012Z">
         <seg>Grafica in Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML compatibility&lt;ie0/&gt; Load/Save options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T125158Z" creationid="steevie" creationdate="20160427T125158Z">
+        <seg>HTML compatibility&lt;ie0/&gt; Load/Save options</seg>
       </tuv>
     </tu>
     <tu>
@@ -7874,6 +7890,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T165757Z">
         <seg>Selezionate la scheda Intestazione (o Piè di pagina).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the [L] options to convert Microsoft OLE objects into the corresponding &lt;f0&gt;LibreOffice&lt;/f0&gt; OLE objects when a Microsoft document is loaded into &lt;f1&gt;LibreOffice&lt;/f1&gt; (mnemonic: “L” for “load”).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T125129Z" creationid="steevie" creationdate="20160427T125108Z">
+        <seg>Selezionate l'opzione nella colonna [C] per convertire gli oggetti OLE Microsoft nei corrispondenti OLE &lt;f0&gt;LibreOffice&lt;/f0&gt; quando caricate un documento Microsoft in &lt;f1&gt;LibreOffice&lt;/f1&gt; (ricordate: "C" sta per "carica").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the [S] options to convert &lt;f0&gt;LibreOffice&lt;/f0&gt; OLE objects into the corresponding Microsoft OLE objects when a document is saved in a Microsoft format (mnemonic: “S” for “save”).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T125150Z" creationid="steevie" creationdate="20160427T125119Z">
+        <seg>Selezionate l'opzione nella colonna [S] per convertire gli oggetti OLE &lt;f0&gt;LibreOffice&lt;/f0&gt; nei corrispondenti OLE Microsoft quando salvate un documento in formato Microsoft (ricordate: "S" sta per "salva").</seg>
       </tuv>
     </tu>
     <tu>
