@@ -4446,6 +4446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Example: If the range A1:B1 is referenced in a formula and you insert a new column after column B, the reference is expanded to A1:C1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T134706Z" creationid="steevie" creationdate="20160427T134706Z">
+        <seg>Esempio: se l'intervallo A:B1 è citato in una formula e inserite una nuova colonna dopo la B, il riferimento è esteso a A1:C1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Examples of functions</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095344Z">
@@ -9481,8 +9489,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>This is only possible if the reference range, where the column or row is inserted, originally spanned at least two cells in the desired direction.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T134404Z" creationid="steevie" creationdate="20160427T134404Z">
-        <seg>Questo è possibile solo se l'interv</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T134525Z" creationid="steevie" creationdate="20160427T134404Z">
+        <seg>Questo è possibile solo se l'intervallo di riferimento, in cui le colonne o righe sono inserite, in origine abbraccia almeno due celle nella direzione desiderata.</seg>
       </tuv>
     </tu>
     <tu>
