@@ -4190,6 +4190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display section</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T141900Z" creationid="steevie" creationdate="20160427T141900Z">
+        <seg>Sezione Mostra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displaying or hiding toolbars</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T123914Z" creationid="michele" creationdate="20160414T123914Z">
@@ -5266,6 +5274,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T144914Z" creationid="michele" creationdate="20160414T144914Z">
         <seg>Barra di formattazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Formulas</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T141955Z" creationid="steevie" creationdate="20160427T141955Z">
+        <seg>Formule</seg>
       </tuv>
     </tu>
     <tu>
@@ -6650,6 +6666,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084424Z">
         <seg>Krishna Aradhi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Large handles</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T141803Z" creationid="steevie" creationdate="20160427T141803Z">
+        <seg>Maniglie grandi</seg>
       </tuv>
     </tu>
     <tu>
@@ -8302,6 +8326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select various options for the &lt;is0/&gt;screen display&lt;ie1/&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T141948Z" creationid="steevie" creationdate="20160427T141948Z">
+        <seg>Selezionate varie opzioni per &lt;is0/&gt;vista a schermo&lt;ie1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Selecting &lt;f0&gt;Column Break&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;creates a page break to the left of the selected cell.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153926Z">
@@ -8662,6 +8694,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Specifies that larger than normal handles (the eight points on a selection box) are displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T141847Z" creationid="steevie" creationdate="20160427T141847Z">
+        <seg>Indica se mostrare maniglie (gli otto punti di una casella di selezione) più grandi del normale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Specifies that pressing &lt;f0&gt;Enter&lt;/f0&gt; moves the cursor to another cell.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T131748Z" creationid="steevie" creationdate="20160427T131748Z">
@@ -8730,6 +8770,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T135202Z" creationid="steevie" creationdate="20160427T135202Z">
         <seg>Indica quando evidenziare le intestazioni di colonne e righe nelle colonne e righe selezionate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specifies whether to show formulas instead of results in the cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T142026Z" creationid="steevie" creationdate="20160427T142003Z">
+        <seg>Indica se mostrare formule invece dei risultati nelle celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specifies whether to show numbers with the value of 0.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T142057Z" creationid="steevie" creationdate="20160427T142029Z">
+        <seg>Indica se mostrare numeri con valore 0.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11571,6 +11627,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T164043Z">
         <seg>Valori zero—stampa le celle con valore zero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Zero values</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T142038Z" creationid="steevie" creationdate="20160427T142008Z">
+        <seg>Valori zero </seg>
       </tuv>
     </tu>
     <tu>
