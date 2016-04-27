@@ -4462,6 +4462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Expand references when new columns/rows are inserted</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T134254Z" creationid="steevie" creationdate="20160427T134229Z">
+        <seg>Amplia i riferimenti all'inserimento di nuove colonne/righe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Export - &lt;f0&gt;LibreOffice&lt;/f0&gt; Basic</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T125526Z" creationid="steevie" creationdate="20160427T125526Z">
@@ -8574,6 +8582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Specifies whether to expand references when inserting columns or rows adjacent to the reference range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T134334Z" creationid="steevie" creationdate="20160427T134248Z">
+        <seg>Indica se espandere i riferimenti quando si inseriscono colonne o righe adiacenti all'intervallo di riferimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Speeding up data entry</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T212250Z">
@@ -9459,6 +9475,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T162613Z">
         <seg>Questa funzione è particolarmente utile nel caso di un documento di grosse dimensioni; per esempio, controllare l'ordine di stampa può farvi risparmiare tempo se dovete ordinare il documento in un certo modo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is only possible if the reference range, where the column or row is inserted, originally spanned at least two cells in the desired direction.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T134404Z" creationid="steevie" creationdate="20160427T134404Z">
+        <seg>Questo è possibile solo se l'interv</seg>
       </tuv>
     </tu>
     <tu>
