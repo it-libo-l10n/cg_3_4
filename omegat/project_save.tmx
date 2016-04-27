@@ -3510,6 +3510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Charts will be shown with the displayed values.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T150833Z" creationid="steevie" creationdate="20160427T150833Z">
+        <seg>I diagrammi saranno visualizzati con i valori mostrati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choices made on the &lt;f0&gt;Load/Save – HTML Compatibility&lt;/f0&gt; page affect HTML pages imported into &lt;f1&gt;LibreOffice&lt;/f1&gt; and those exported from &lt;f2&gt;LibreOffice&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T125246Z" creationid="steevie" creationdate="20160427T125246Z">
@@ -5974,6 +5982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If this option is &lt;f0&gt;not&lt;/f0&gt; selected, the displayed numbers are rounded, but they are calculated internally using the non-rounded number.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T150954Z" creationid="steevie" creationdate="20160427T150954Z">
+        <seg>Se questa opzione &lt;f0&gt;non&lt;/f0&gt; è selezionata, I numeri sono mostrati arrotondati, ma calcolati internamente usando i valori non arrotondati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If this option is &lt;f1&gt;not&lt;/f1&gt; selected, pressing &lt;f2&gt;Enter&lt;/f2&gt; completes data entry for a cell but does not move the cursor.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T132445Z" creationid="steevie" creationdate="20160427T132445Z">
@@ -7846,6 +7862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Precision as shown</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T150721Z" creationid="steevie" creationdate="20160427T150721Z">
+        <seg>Precisione come mostrato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preface</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090506Z">
@@ -8250,6 +8274,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T124256Z" creationid="steevie" creationdate="20160421T124256Z">
         <seg>Scorrere di una pagina verso il basso fino a trovare&lt;f0&gt;foglio elettronico&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search criteria = and &lt;&gt; must apply to whole cells</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T151015Z" creationid="steevie" creationdate="20160427T151015Z">
+        <seg>Criteri di ricerca = and &lt;&gt; devono riferirsi a celle intere</seg>
       </tuv>
     </tu>
     <tu>
@@ -9106,6 +9138,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T135202Z" creationid="steevie" creationdate="20160427T135202Z">
         <seg>Indica quando evidenziare le intestazioni di colonne e righe nelle colonne e righe selezionate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specifies whether to make calculations using the rounded values displayed in the sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T150755Z" creationid="steevie" creationdate="20160427T150755Z">
+        <seg>indica se fare i calcoli usando i valori approssimati mostrati nel foglio.</seg>
       </tuv>
     </tu>
     <tu>
