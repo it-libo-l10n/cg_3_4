@@ -4448,8 +4448,8 @@
       <tuv lang="EN">
         <seg>Example: If the range A1:B1 is referenced in a formula and you insert a new column after column B, the reference is expanded to A1:C1.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T134706Z" creationid="steevie" creationdate="20160427T134706Z">
-        <seg>Esempio: se l'intervallo A:B1 è citato in una formula e inserite una nuova colonna dopo la B, il riferimento è esteso a A1:C1.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T135003Z" creationid="steevie" creationdate="20160427T134706Z">
+        <seg>Esempio: se l'intervallo A:B1 è citato in una formula e viene inserita una nuova colonna dopo la B, il riferimento è esteso a A1:C1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5782,6 +5782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the range A1:B1 is referenced and a new row is inserted under row 1, the reference is not expanded, since there is only a single cell in the vertical direction.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T134856Z" creationid="steevie" creationdate="20160427T134856Z">
+        <seg>Se l'intervallo A1:B1 è citato e una nuova riga viene inserita sotto la 1, il riferimento non è esteso, poiché vi è solo una cella nella direzione verticale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the reviewer added a comment to the change, it is displayed, followed by the description of the change, as in the first line of &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Figure 291&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160426T160024Z" creationid="luciano" creationdate="20160426T160024Z">
@@ -5890,6 +5898,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T161429Z" creationid="Luciano B." creationdate="20160329T161429Z">
         <seg>Se non avete salvato il documento dall'ultima modifica, vi apparirà un messaggio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you insert rows or columns in the middle of a reference area, the reference is always expanded.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T134945Z" creationid="steevie" creationdate="20160427T134945Z">
+        <seg>Inserendo righe o colonne al centro di un'area di riferimento, la </seg>
       </tuv>
     </tu>
     <tu>
