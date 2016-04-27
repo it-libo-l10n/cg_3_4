@@ -5838,6 +5838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If this option is selected, you can also specify the color for the grid lines in the current document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T140005Z" creationid="steevie" creationdate="20160427T140005Z">
+        <seg>Quando questa opzione è selezionata, potete anche indicare il color delle linee della griglia nel documento attuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are importing a Microsoft Excel file containing VBA code, you can select the option &lt;f0&gt;Executable code&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T124919Z" creationid="steevie" creationdate="20160427T124919Z">
@@ -9034,6 +9042,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160423T121440Z" creationid="luciano" creationdate="20160423T121440Z">
         <seg>L'allenatore vi ha presentato un bilancio per la stagione e voi dovrete modificare i costi e ritornarlo indietro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The color choice overrides the selection made in &lt;f0&gt;Tools &gt; Options &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;LibreOffice &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Appearance &gt; Spreadsheet &gt; Grid lines&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T140222Z" creationid="steevie" creationdate="20160427T140222Z">
+        <seg>La scelta del colore prevale sulla scelta fatta in  &lt;f0&gt;Strumenti &gt; Opzioni &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;LibreOffice &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Aspetto &gt; foglio elettronico &gt; Linee della griglia&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
