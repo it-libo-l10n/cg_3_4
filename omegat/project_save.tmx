@@ -5814,6 +5814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If this option is not selected, a printer-independent layout is used for screen display and printing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T135406Z" creationid="steevie" creationdate="20160427T135406Z">
+        <seg>If this option is not selected, a printer-independent layout is used for screen display and printing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If this option is selected, you can also choose the direction the cursor moves: up, down, left, or right.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T132658Z" creationid="steevie" creationdate="20160427T131857Z">
@@ -8430,6 +8438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show overwrite warning when pasting data</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T135419Z" creationid="steevie" creationdate="20160427T135419Z">
+        <seg>Mostra avviso di sovrascrittura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show rejected changes – Only changes you rejected are displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160425T121312Z" creationid="luciano" creationdate="20160425T121312Z">
@@ -8602,6 +8618,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T132616Z" creationid="steevie" creationdate="20160427T132616Z">
         <seg>Indica che premendo&lt;f0&gt;Invio&lt;/f0&gt; si pone la cella selezionata in modo modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specifies that printer metrics are applied for printing and also for formatting the display on the screen.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T135352Z" creationid="steevie" creationdate="20160427T135352Z">
+        <seg>Indica che i parametri della stampante sono applicati per la stampa e per la formattazione mostrata a schermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specifies that, when you paste cells from the clipboard to a cell range that is not empty, a warning appears.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T135542Z" creationid="steevie" creationdate="20160427T135542Z">
+        <seg>Indica che, quando vengono incollate celle dagli Appunti in un intervallo di celle non vuoto, appare un avvertimento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10475,6 +10507,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T212254Z">
         <seg>Validare il contenuto di una cella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View options for Calc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T135554Z" creationid="steevie" creationdate="20160427T135554Z">
+        <seg>Opzioni di visualizzazione per Calc</seg>
       </tuv>
     </tu>
     <tu>
