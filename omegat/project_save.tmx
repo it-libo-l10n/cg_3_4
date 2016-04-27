@@ -6406,6 +6406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this section you can choose the number of approximation steps carried out during iterative calculations and the degree of precision of the answer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145027Z" creationid="steevie" creationdate="20160427T145027Z">
+        <seg>In questa sezione potete scegliere il numero di passi di approssimazione completati durante il calcolo iterativo ed il grado di precisione della risposta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In your e-mail program, enter the recipient, subject, and any text you want to add, then send the e-mail.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T155348Z" creationid="Luciano B." creationdate="20160329T155348Z">
@@ -6618,6 +6626,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T145308Z" creationid="steevie" creationdate="20160418T145308Z">
         <seg>Reimposta le opzioni sui valori presenti all'apertura di &lt;f1&gt;LibreOffice&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Iterations</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145037Z" creationid="steevie" creationdate="20160427T145037Z">
+        <seg>Iterazioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Iterative references are formulas that are continuously repeated until the problem is solved.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T144923Z" creationid="steevie" creationdate="20160427T144923Z">
+        <seg>I riferimenti circolari sono formule ripetute continuamente fino alla soluzione del problema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8410,6 +8434,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T122237Z" creationid="steevie" creationdate="20160421T122237Z">
         <seg>Selezionate questa opzione per rimuovere sempre i dati dell'utente dalle proprietà del file quando salvate il file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select this option to enable iterations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145106Z" creationid="steevie" creationdate="20160427T145106Z">
+        <seg>Selezionate questa opzione per abilitare le iterazioni.</seg>
       </tuv>
     </tu>
     <tu>
