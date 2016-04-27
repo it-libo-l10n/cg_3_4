@@ -5806,6 +5806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the &lt;f0&gt;Sheet tabs&lt;/f0&gt; option is not selected, you can only switch between the sheets by using the Navigator.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143849Z" creationid="steevie" creationdate="20160427T143824Z">
+        <seg>Quando il&lt;f0&gt;Sheet tabs&lt;/f0&gt; option is not selected, you can only switch between the sheets by using the Navigator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the &lt;f5&gt;Display warning&lt;/f5&gt; option is selected, then when exporting to HTML a warning is shown that &lt;f6&gt;LibreOffice&lt;/f6&gt; Basic macros will be lost.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T130135Z" creationid="steevie" creationdate="20160427T130135Z">
@@ -7162,6 +7170,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T084734Z">
         <seg>Note that Chapter 8, &lt;f3&gt;Using the DataPilot&lt;/f3&gt;, is licensed under the &lt;a4&gt;Creative Commons Attribution-Share Alike License&lt;/a4&gt;, version 3.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that there is a slider between the horizontal scrollbar and the sheet tabs that may be set to one end.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143852Z" creationid="steevie" creationdate="20160427T143852Z">
+        <seg>Note that there is a slider between the horizontal scrollbar and the sheet tabs that may be set to one end.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8806,6 +8822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Specifies whether some elements are visible onscreen: column/row headers, horizontal scrollbar, vertical scrollbar, sheet tabs, and outline symbols.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143813Z" creationid="steevie" creationdate="20160427T143813Z">
+        <seg>Indica se alcuni elementi sono visibili a schermo: intestazioni di colonne/righe, barra di scorrimento orizzontale, barra di scorrimento verticale, divisorio dei fogli e punti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Specifies whether the anchor icon is displayed when an inserted object, such as a graphic, is selected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143104Z" creationid="steevie" creationdate="20160427T143104Z">
@@ -8826,6 +8850,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T135912Z" creationid="steevie" creationdate="20160427T135912Z">
         <seg>Indica se mostrare le linee della griglia tra le celle quando visualizzate su schermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specifies whether to display or hide objects in three object groups: objects and graphics; charts; and drawing objects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143636Z" creationid="steevie" creationdate="20160427T143636Z">
+        <seg>Indica se mostrare o meno oggetti in tre gruppi: oggetti/immagini; grafici; e oggetti di disegno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11195,6 +11227,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T155943Z" creationid="Luciano B." creationdate="20160326T155943Z">
         <seg>Sezione Opzioni finestra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Window section</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143645Z" creationid="steevie" creationdate="20160427T143645Z">
+        <seg>Sezione Finestra</seg>
       </tuv>
     </tu>
     <tu>
