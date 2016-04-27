@@ -2790,6 +2790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Anchor</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143012Z" creationid="steevie" creationdate="20160427T143012Z">
+        <seg>Ancoraggior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Andrew Pitonyak</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084434Z">
@@ -8326,6 +8334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select this option to highlight all values in the sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T142815Z" creationid="steevie" creationdate="20160427T142815Z">
+        <seg>Selezionate quest'opzione per evidenziare tutti i valori nella tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select this option to include &lt;f0&gt;LibreOffice&lt;/f0&gt; Basic macros (scripts) when exporting to HTML format.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T125539Z" creationid="steevie" creationdate="20160427T125539Z">
@@ -8994,6 +9010,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T101242Z">
         <seg>Funzioni per il testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text is highlighted in black; numbers in blue; and formulas, logical values, dates, and so on, in green.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T142908Z" creationid="steevie" creationdate="20160427T142908Z">
+        <seg>Il testo viene evidenziato in nero; i numeri in blu; formule, valori logici, date eccetera in verde.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10711,6 +10735,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Value highlighting</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T142719Z" creationid="steevie" creationdate="20160427T142719Z">
+        <seg>Evidenzia valore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>View options for Calc</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T135554Z" creationid="steevie" creationdate="20160427T135554Z">
@@ -10891,6 +10923,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T150143Z">
         <seg>Se il foglio elettronico è appena stato creato, il suo nome sarà &lt;f1&gt;Senza nome X&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;, dove &lt;f1&gt;X&lt;/f1&gt; è un numero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When this command is active, any colors assigned in the document are not displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T142947Z" creationid="steevie" creationdate="20160427T142947Z">
+        <seg>Quando questo comando è attivo, i colori assegnati nel documento non vengono mostrati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11703,6 +11743,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>anchor, visible</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143003Z" creationid="steevie" creationdate="20160427T143003Z">
+        <seg>ancoraggio, visibile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>appearance options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T122934Z" creationid="steevie" creationdate="20160421T122934Z">
@@ -12361,8 +12409,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>value highlighting</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T142708Z" creationid="steevie" creationdate="20160427T142708Z">
-        <seg>Evidenzia valore</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T142723Z" creationid="steevie" creationdate="20160427T142708Z">
+        <seg>evidenzia valore</seg>
       </tuv>
     </tu>
     <tu>
