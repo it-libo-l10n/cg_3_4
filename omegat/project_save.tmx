@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>01/01/1904</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145838Z" creationid="steevie" creationdate="20160427T145838Z">
+        <seg>01/01/1904</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1 = Tabbed page (not strictly speaking a control)&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084353Z">
@@ -7614,6 +7622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T150036Z" creationid="steevie" creationdate="20160427T150036Z">
+        <seg>Altre opzioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other reviewers then quickly know which cells were edited.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160423T124052Z" creationid="luciano" creationdate="20160423T124052Z">
@@ -8586,6 +8602,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145744Z" creationid="steevie" creationdate="20160427T145744Z">
         <seg>Imposta l'1 gennaio 1900 come giorno zero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sets 1/1/1904 as day zero.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145845Z" creationid="steevie" creationdate="20160427T145845Z">
+        <seg>Imposta l'1 gennaio 1904 come giorno zero.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10739,6 +10763,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T144818Z" creationid="steevie" creationdate="20160427T144818Z">
         <seg>Usate questa pagina per definire le &lt;i0/&gt; impostazioni di calcolo per i fogli di lavoro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use this setting for StarCalc 1.0 spreadsheets containing date entries.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145834Z" creationid="steevie" creationdate="20160427T145834Z">
+        <seg>Usate questa impostazione per fogli di calcolo contenenti date.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use this setting for spreadsheets that are imported in a foreign format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T150018Z" creationid="steevie" creationdate="20160427T150018Z">
+        <seg>Usate questa impostazione per foglio di calcolo importati da un formato sconosciuto.</seg>
       </tuv>
     </tu>
     <tu>
