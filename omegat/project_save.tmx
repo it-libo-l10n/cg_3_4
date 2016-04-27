@@ -3182,6 +3182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T130631Z" creationid="steevie" creationdate="20160427T130631Z">
+        <seg>Opzioni di Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc provides another type of comments (formerly called “notes”), which authors and reviewers often use to exchange ideas, ask for suggestions, or brainstorm in the document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160424T132142Z" creationid="luciano" creationdate="20160424T132142Z">
@@ -3554,6 +3562,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160313T142216Z">
         <seg>Andate in&lt;f1&gt; Strumenti &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Opzioni &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; Carica/Salva &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; Generale&lt;/f10&gt; e selezionate l'opzione &lt;f11&gt;Carica le impostazioni della stampante assieme al documento.&lt;/f11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose the &lt;is0/&gt;unit of measurement&lt;ie1/&gt; used in spreadsheets and the default tab stops distance.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T130557Z" creationid="steevie" creationdate="20160427T130557Z">
+        <seg>Scegli l'&lt;is0/&gt;unità di misura&lt;ie1/&gt; usata nel foglio di calcolo e la distanza di tabulazione predefinita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose whether to &lt;i0/&gt;update links when opening a document always, only on request, or never.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T130756Z" creationid="steevie" creationdate="20160427T130756Z">
+        <seg>Selezione quando &lt;i0/&gt;aggiornare i collegamenti all'apertura del documento: Sempre, su richiesta o mai.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9967,6 +9991,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Updating section</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T130613Z" creationid="steevie" creationdate="20160427T130613Z">
+        <seg>Sezione Aggiornamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &lt;f0&gt;File &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Save As&lt;/f3&gt; and select &lt;f4&gt;HTML Document&lt;/f4&gt;, or &lt;f5&gt;File &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; Wizards &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; Web Page&lt;/f11&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T153109Z" creationid="Luciano B." creationdate="20160329T152101Z">
@@ -11803,6 +11835,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160213T105025Z">
         <seg>tipi supportati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>updating links</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T130623Z" creationid="steevie" creationdate="20160427T130623Z">
+        <seg>Aggiornamento dei collegamenti</seg>
       </tuv>
     </tu>
     <tu>
