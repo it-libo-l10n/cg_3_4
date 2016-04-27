@@ -6038,6 +6038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If this option is &lt;f0&gt;not&lt;/f0&gt; selected, the &lt;f1&gt;win&lt;/f1&gt; search pattern acts like &lt;f2&gt;.*win.* &lt;/f2&gt;—the search pattern can be at any position within the cell when searching with the Calc database functions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T152911Z" creationid="steevie" creationdate="20160427T152911Z">
+        <seg>Se questa opzione &lt;f0&gt;non&lt;/f0&gt; è selezionata, il modello di ricerca &lt;f1&gt;win&lt;/f1&gt; agisce come&lt;f2&gt;.*win.* &lt;/f2&gt;—il modello di ricerca può trovarsi in qualsiasi posizione all'interno della cella quando si usano le funzioni database di ricerca.di Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If this option is &lt;f0&gt;not&lt;/f0&gt; selected, the displayed numbers are rounded, but they are calculated internally using the non-rounded number.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T150954Z" creationid="steevie" creationdate="20160427T150954Z">
@@ -12419,6 +12427,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T154356Z" creationid="Luciano B." creationdate="20160326T154356Z">
         <seg>incorpora caratteri standard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>enable in formulas</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T152915Z" creationid="steevie" creationdate="20160427T152915Z">
+        <seg>enable in formulas</seg>
       </tuv>
     </tu>
     <tu>
