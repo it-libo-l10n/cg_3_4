@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>01/01/1900 (StarCalc 1.0)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145647Z" creationid="steevie" creationdate="20160427T145647Z">
+        <seg>01/01/1900 (StarCalc 1.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1 = Tabbed page (not strictly speaking a control)&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084353Z">
@@ -162,6 +170,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090524Z">
         <seg>12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>12/30/1899 (default)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145657Z" creationid="steevie" creationdate="20160427T145637Z">
+        <seg>30/12/1899 (Standard)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4142,6 +4158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Date section</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145519Z" creationid="steevie" creationdate="20160427T145519Z">
+        <seg>Sezione Data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Date – Only changes made in a certain time range are displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160425T120646Z" creationid="luciano" creationdate="20160425T120555Z">
@@ -5890,6 +5914,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T135016Z" creationid="steevie" creationdate="20160427T134856Z">
         <seg>Se l'intervallo A1:B1 è citato e una nuova riga viene inserita al di sotto della 1, il riferimento non è esteso, poiché vi è solo una cella nella direzione verticale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the result of the iteration is lower than the minimum change value, then the iteration will stop.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145511Z" creationid="steevie" creationdate="20160427T145511Z">
+        <seg>Se il risultato dell'iterazione è minore dello scarto consentito minimo, l'iterazione si ferma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8454,6 +8486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the start &lt;i0/&gt;date for the internal conversion from days to numbers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145621Z" creationid="steevie" creationdate="20160427T145621Z">
+        <seg>Selezionate la &lt;i0/&gt;data d'inizio per la conversione interna da giorni a numeri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select this option to always remove user data from the file properties when saving the file.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T122237Z" creationid="steevie" creationdate="20160421T122237Z">
@@ -8538,6 +8578,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T150946Z" creationid="steevie" creationdate="20160418T150946Z">
         <seg>Impostate le opzioni di stampa adatte alla vostra stampante e ai vostri consueti metodi di stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sets 1/1/1900 as day zero.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145744Z" creationid="steevie" creationdate="20160427T145744Z">
+        <seg>Imposta l'1 gennaio 1900 come giorno zero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sets 12/30/1899 as day zero.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145712Z" creationid="steevie" creationdate="20160427T145645Z">
+        <seg>Imposta il 30 dicembre 1899 come giorno zero.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12083,6 +12139,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160423T144340Z" creationid="luciano" creationdate="20160423T144340Z">
         <seg>commenti alle modifiche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>dates</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145530Z" creationid="steevie" creationdate="20160427T145530Z">
+        <seg>Date</seg>
       </tuv>
     </tu>
     <tu>
