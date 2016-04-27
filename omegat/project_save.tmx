@@ -5150,6 +5150,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finds &lt;f0&gt;win&lt;/f0&gt; and &lt;f1&gt;win95&lt;/f1&gt;, but not &lt;f2&gt;os2win&lt;/f2&gt; or &lt;f3&gt;upwind&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T152229Z" creationid="steevie" creationdate="20160427T152205Z">
+        <seg>Trova&lt;f0&gt;win&lt;/f0&gt; e &lt;f1&gt;win95&lt;/f1&gt;, ma non &lt;f2&gt;os2win&lt;/f2&gt; oppure &lt;f3&gt;edwin&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Finds &lt;f0&gt;win&lt;/f0&gt;, but not &lt;f1&gt;win9&lt;/f1&gt;5, &lt;f2&gt;os2win&lt;/f2&gt;, or &lt;f3&gt;upwind&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T152208Z" creationid="steevie" creationdate="20160427T152146Z">
+        <seg>Trova&lt;f0&gt;win&lt;/f0&gt;, ma non &lt;f1&gt;win9&lt;/f1&gt;5, &lt;f2&gt;os2win&lt;/f2&gt;, oppure &lt;f3&gt;Edwin&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For &lt;f0&gt;printing&lt;/f0&gt;, choose &lt;f1&gt;Format &gt; Page &gt; Sheet&lt;/f1&gt; and mark the &lt;f2&gt;Grid&lt;/f2&gt; option.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T140412Z" creationid="steevie" creationdate="20160427T140412Z">
@@ -12939,6 +12955,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160425T115809Z" creationid="luciano" creationdate="20160425T115809Z">
         <seg>visualizzare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>win</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T152104Z" creationid="steevie" creationdate="20160427T152104Z">
+        <seg>win</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>win.*</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T152148Z" creationid="steevie" creationdate="20160427T152148Z">
+        <seg>win.*</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
