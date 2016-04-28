@@ -4518,6 +4518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable regular expressions in formulas</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T145721Z" creationid="steevie" creationdate="20160428T145721Z">
+        <seg>Attiva le espressioni regolari nelle formule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ensure the Styles and Formatting window is open by pressing &lt;f0&gt;F11&lt;/f0&gt; or by selecting &lt;f1&gt;Format &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Styles and Formatting&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160330T085458Z" creationid="briga" creationdate="20160330T085458Z">
@@ -12433,8 +12441,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>enable in formulas</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T152915Z" creationid="steevie" creationdate="20160427T152915Z">
-        <seg>enable in formulas</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T145629Z" creationid="steevie" creationdate="20160427T152915Z">
+        <seg>Attiva nelle formule</seg>
       </tuv>
     </tu>
     <tu>
@@ -12771,6 +12779,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160422T160716Z" creationid="luciano" creationdate="20160422T160716Z">
         <seg>registrazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>regular expressions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T145638Z" creationid="steevie" creationdate="20160428T145618Z">
+        <seg>espressioni regolari</seg>
       </tuv>
     </tu>
     <tu>
