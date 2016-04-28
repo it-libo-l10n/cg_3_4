@@ -5112,8 +5112,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;335&lt;/seq0&gt;: Formula options</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T151753Z" creationid="steevie" creationdate="20160428T151753Z">
-        <seg>Figure &lt;seq0&gt;335&lt;/seq0&gt;: Formula options</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T151838Z" creationid="steevie" creationdate="20160428T151753Z">
+        <seg>Figura &lt;seq0&gt;335&lt;/seq0&gt;: Opzioni formule</seg>
       </tuv>
     </tu>
     <tu>
@@ -6546,6 +6546,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T144721Z" creationid="steevie" creationdate="20160427T144721Z">
         <seg>Nella finestra di dialogo Opzioni, fate clic su &lt;f0&gt;&lt;f1&gt;LibreOffice&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; Calc &gt; &lt;/f2&gt;&lt;i3/&gt;&lt;f4&gt;Calcola&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Options dialog, choose &lt;f0&gt;&lt;f1&gt;LibreOffice&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; Calc &gt; &lt;/f2&gt;&lt;i3/&gt;&lt;i4/&gt;&lt;f5&gt;Sort Lists&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T151950Z" creationid="steevie" creationdate="20160428T151950Z">
+        <seg>Nella finestra di dialogo Opzioni, fate clic su &lt;f0&gt;&lt;f1&gt;LibreOffice&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; Calc &gt; &lt;/f2&gt;&lt;i3/&gt;&lt;i4/&gt;&lt;f5&gt;Ordina elenchi&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9118,6 +9126,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sort Lists options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T151851Z" creationid="steevie" creationdate="20160428T151851Z">
+        <seg>Opzioni ordina elenchi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort lists are used for more than sorting, for example filling a series of cells during data entry.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T152117Z" creationid="steevie" creationdate="20160428T152117Z">
+        <seg>Le liste ordinate sono utilizzate per molto più che l'ordinamento ,per esempio completare una serie di celle durante l'inserimento dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sorting</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160206T083040Z">
@@ -10017,8 +10041,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>The separators choices override the defaults in Calc and Excel syntax.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T151750Z" creationid="steevie" creationdate="20160428T151750Z">
-        <seg>La scelta del separatore prevale sull'impostazione predefinita nella sintassi Calc ed Excel</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T151801Z" creationid="steevie" creationdate="20160428T151750Z">
+        <seg>La scelta del separatore prevale sull'impostazione predefinita nella sintassi Calc ed Excel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12823,6 +12847,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T151908Z" creationid="steevie" creationdate="20160428T151908Z">
+        <seg>opzioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>page</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160216T071408Z">
@@ -13059,6 +13091,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T125958Z" creationid="steevie" creationdate="20160421T125958Z">
         <seg>ottimizzazione dimensioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sort lists</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T151859Z" creationid="steevie" creationdate="20160428T151859Z">
+        <seg>Ordina elenchi</seg>
       </tuv>
     </tu>
     <tu>
