@@ -1686,6 +1686,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Cho&lt;/f0&gt;ose &lt;f1&gt;View &gt; Toolbars &gt; Customize&lt;/f1&gt; from t&lt;f2&gt;he menu bar.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164839Z" creationid="steevie" creationdate="20160428T164839Z">
+        <seg>&lt;f0&gt;Selezionate&lt;/f0&gt; &lt;f1&gt;Visualizza &gt; Barre degli strumenti &gt; Personalizza&lt;/f1&gt; dalla &lt;f2&gt;barra dei menu.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Choo&lt;/f0&gt;se &lt;f1&gt;Tools &gt; Customize&lt;/f1&gt; from t&lt;f2&gt;he menu bar and pick t&lt;/f2&gt;he &lt;f3&gt;Toolbars&lt;/f3&gt; page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164925Z" creationid="steevie" creationdate="20160428T164925Z">
+        <seg>&lt;f0&gt;Selezionate&lt;/f0&gt; &lt;f1&gt;Strumenti &gt; Personalizza&lt;/f1&gt; dalla &lt;f2&gt;barra dei menu e scegliete l&lt;/f2&gt;a scheda &lt;f3&gt;Barre degli strumenti&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Choose &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;File &gt; Print&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; from the menu.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160315T172028Z">
@@ -5542,6 +5558,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;345&lt;/seq0&gt;: The Toolbars page of the Customize dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165012Z" creationid="steevie" creationdate="20160428T165012Z">
+        <seg>Figura &lt;seq0&gt;345&lt;/seq0&gt;: la scheda Barre degli strumenti della finestra di dialogo Personalizza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Example of a tear-off toolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T133818Z" creationid="michele" creationdate="20160414T133818Z">
@@ -8370,6 +8394,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160422T155448Z" creationid="luciano" creationdate="20160422T155448Z">
         <seg>Nella finestra di dialogo Proteggi la Registrazione, digitate una password (due volte) e fate clic su &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the toolbar, click the arrow at the end of the toolbar and choose &lt;f0&gt;Customize Toolbar&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164838Z" creationid="steevie" creationdate="20160428T164838Z">
+        <seg>Nella barra degli strumenti, fate clic sulla freccia alla fine della barra e selezionate &lt;f0&gt;Personalizza barra degli strumenti&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11415,6 +11447,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This section describes how to create new toolbars and add other icons (commands) to the list of those available on a toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164833Z" creationid="steevie" creationdate="20160428T164833Z">
+        <seg>Questa sezione descrive come creare nuove barre degli strumenti e aggiungere icone (comandi) alla lista di quelle disponibili in una barra degli strumenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This setting overrides the control’s URL property that you set in the document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T171923Z" creationid="Luciano B." creationdate="20160325T171923Z">
@@ -11691,6 +11731,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165537Z" creationid="Luciano B." creationdate="20160325T165537Z">
         <seg>Per esportare pagine singole, usate il formato &lt;f2&gt;7;9;11&lt;/f2&gt; (pagine 7, 9 e 11).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To get to the toolbar customization dialog, do any of the following:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164837Z" creationid="steevie" creationdate="20160428T164837Z">
+        <seg>Per arrivare alla finestra di dialogo di personalizzazione delle barre degli strumenti, eseguite una delle seguenti operazioni:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13179,6 +13227,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T161205Z" creationid="Luciano B." creationdate="20160329T161205Z">
         <seg>Potete confrontare questa chiave ricevuta e la chiave pubblica presente sul sito web dell'autorità di certificazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can customize toolbars in several ways, including choosing which icons are visible and locking the position of a docked toolbar, as described in Chapter 1, Introducing &lt;f0&gt;LibreOffice,&lt;/f0&gt; of the &lt;f1&gt;Getting Started&lt;/f1&gt; guide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164736Z" creationid="steevie" creationdate="20160428T164736Z">
+        <seg>È possibile personalizzare le barre degli strumenti in molti modi, compreso scegliere quali icone debbano essere visibili e bloccare la posizione di una barra degli strumenti ancorata. come descritto nel Capitolo 1, Introduzione a &lt;f0&gt;Calc&lt;/f0&gt;, della &lt;f1&gt;Guida introduttiva&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
