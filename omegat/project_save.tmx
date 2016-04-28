@@ -2574,6 +2574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A dialog similar to the one shown in &lt;t2&gt;Figure 343&lt;/t2&gt; (but without the &lt;f3&gt;Menu name&lt;/f3&gt; box) opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163950Z" creationid="steevie" creationdate="20160428T163950Z">
+        <seg>Si aprirà una finestra di dialogo simile a quella mostrata nella &lt;t2&gt;Figura 343&lt;/t2&gt; (ma senza il campo &lt;f3&gt;Nome del menu&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A dotted frame will show the area where it will be docked.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T135430Z" creationid="michele" creationdate="20160414T135430Z">
@@ -5646,6 +5654,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, &lt;f5&gt;Rename&lt;/f5&gt; and &lt;f6&gt;Delete&lt;/f6&gt; are not available for the supplied menus.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163936Z" creationid="steevie" creationdate="20160428T163936Z">
+        <seg>Ad esempio, &lt;f5&gt;Rinomina&lt;/f5&gt; ed &lt;f6&gt;Elimina&lt;/f6&gt; non sono disponibili per i menu forniti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, for the contents of a cell you might specify the font family, font size, and any formatting such as bold or italic.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160213T105136Z">
@@ -7986,6 +8002,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084436Z">
         <seg>Nikita Telang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not all of these modifications can be applied to all the entries in the Menu list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163909Z" creationid="steevie" creationdate="20160428T163909Z">
+        <seg>Non tutte le modifiche possono essere applicate a tutte le voci nell'elenco dei Menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11279,6 +11303,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To &lt;i0/&gt;modify an existing menu, select it in the Menu list and click the &lt;f1&gt;Menu&lt;/f1&gt; button to drop down a list of modifications: &lt;f2&gt;Move&lt;/f2&gt;, &lt;f3&gt;Rename&lt;/f3&gt;, &lt;f4&gt;Delete&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163859Z" creationid="steevie" creationdate="20160428T163859Z">
+        <seg>Per &lt;i0/&gt;modificare un menu esistente, selezionatelo nell'elenco Menu e fate clic sul pulsante &lt;f1&gt;Menu&lt;/f1&gt; per visualizzare un elenco di modifiche: &lt;f2&gt;Sposta&lt;/f2&gt;, &lt;f3&gt;Rinomina&lt;/f3&gt; &lt;f4&gt;Elimina&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To &lt;i0/&gt;send the current document in OpenDocument format:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T154637Z" creationid="Luciano B." creationdate="20160329T154637Z">
@@ -11563,6 +11595,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T134032Z" creationid="michele" creationdate="20160414T134032Z">
         <seg>Per spostare una barra strumenti mobile, fate clic sulla sua barra del titolo e trascinatela nella nuova posizione, come in &lt;t0&gt;Figura 4&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To move a menu (such as &lt;f0&gt;File&lt;/f0&gt;), choose &lt;f1&gt;Menu &gt; Move&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163940Z" creationid="steevie" creationdate="20160428T163940Z">
+        <seg>Per spostare un menu (come &lt;f0&gt;File&lt;/f0&gt;), scegliete &lt;f1&gt;Menu &gt; Sposta&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To move submenus (such as &lt;f0&gt;File | Send&lt;/f0&gt;), select the main menu (File) in the Menu list and then, in the Menu Content section of the dialog, select the submenu (Send) in the Entries list and use the arrow keys to move it up or down in the sequence.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164113Z" creationid="steevie" creationdate="20160428T164113Z">
+        <seg>Per spostare i sottomenu (come &lt;f0&gt;File | Invia&lt;/f0&gt;), selezionate il menu principale (File) nell'elenco del Menu, quindi, nella sezione Contenuto del menu della finestra di dialogo, selezionate il sottomenu (Invia) nell'elenco delle Voci e utilizzate i tasti freccia per spostarlo verso l'alto o verso il basso nella sequenza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11891,6 +11939,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T164106Z">
         <seg>Potete usare le opzioni di scala per controllare il numero di pagine su cui i dati verranno stampati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the up and down arrow buttons to move the menu into the required position.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163951Z" creationid="steevie" creationdate="20160428T163951Z">
+        <seg>Usate i pulsanti freccia su e giù per spostare il menu nella posizione desiderata.</seg>
       </tuv>
     </tu>
     <tu>
