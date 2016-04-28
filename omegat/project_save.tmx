@@ -3950,6 +3950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choosing icons for toolbar commands</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165759Z" creationid="steevie" creationdate="20160428T165750Z">
+        <seg>Scelta delle icone per i comandi delle barre degli strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choosing options for Calc</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160206T090141Z">
@@ -5606,6 +5614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;346&lt;/seq0&gt;: Change Icon dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165835Z" creationid="steevie" creationdate="20160428T165835Z">
+        <seg>Figura &lt;seq0&gt;346&lt;/seq0&gt;: finestra di dialogo Cambia icona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Example of a tear-off toolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T133818Z" creationid="michele" creationdate="20160414T133818Z">
@@ -6810,6 +6826,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T161429Z" creationid="Luciano B." creationdate="20160329T161429Z">
         <seg>Se non avete salvato il documento dall'ultima modifica, vi apparirà un messaggio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you insert an item which does not have an associated icon, the toolbar will display the full name of the item: the next section describes how to choose an icon for a toolbar command.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165729Z" creationid="steevie" creationdate="20160428T165729Z">
+        <seg>Se inserite un elemento che non ha un'icona associata, la barra degli strumenti mostrerà il nome completo dell'elemento; la prossima sezione illustra come scegliere un'icona per un comando di una barra degli strumenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8430,6 +8454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the Change Icon dialog, scroll through the available icons, select one, and click &lt;f1&gt;OK&lt;/f1&gt; to assign it to the command.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165821Z" creationid="steevie" creationdate="20160428T165821Z">
+        <seg>Nella finestra di dialogo Cambia icona potete scorrere le icone disponibili, selezionarne una e fare clic su &lt;f1&gt;OK&lt;/f1&gt; per assegnarla al comando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the Customize dialog, select the menu in the Menu list and click the &lt;f1&gt;Add&lt;/f1&gt; button in the Menu Content section of the dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164400Z" creationid="steevie" creationdate="20160428T164400Z">
@@ -8466,6 +8498,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160422T155448Z" creationid="luciano" creationdate="20160422T155448Z">
         <seg>Nella finestra di dialogo Proteggi la Registrazione, digitate una password (due volte) e fate clic su &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Toolbars page of the Customize dialog, select the toolbar in the Toolbar list and click the &lt;f0&gt;Add&lt;/f0&gt; button in the Toolbar Content section of the dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165715Z" creationid="steevie" creationdate="20160428T165645Z">
+        <seg>Nella pagina Barre degli strumenti della finestra di dialogo Personalizza, selezionate la barra degli strumenti nell'elenco Barra degli strumenti e fate clic sul pulsante &lt;f0&gt;Importa&lt;/f0&gt; nella sezione Contenuto della barra degli strumenti, nella finestra di dialogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9482,6 +9522,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153608Z">
         <seg>Selezionate &lt;f0&gt;Inserisci &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Interruzione di pagina&lt;/f3&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select a category and then the command, and click &lt;f1&gt;Add&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165719Z" creationid="steevie" creationdate="20160428T165719Z">
+        <seg>Selezionate una categoria, quindi il comando, e poi fate clic su &lt;f1&gt;Aggiungi&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10570,6 +10618,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T164000Z">
         <seg>La &lt;i0/&gt;Barra del titolo, nella parte superiore della finestra, mostra il nome del foglio elettronico attualmente in uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Add Commands dialog is the same as for adding commands to menus (&lt;t0&gt;Figure 344&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165648Z" creationid="steevie" creationdate="20160428T165648Z">
+        <seg>The Add Commands dialog is the same as for adding commands to menus (&lt;t0&gt;Figure 344&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11671,6 +11727,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To choose an icon for a command, select the command and click &lt;f0&gt;Modify &gt; Change icon&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165808Z" creationid="steevie" creationdate="20160428T165808Z">
+        <seg>Per scegliere un'icona per un comando, selezionate il comando e fate clic su &lt;f0&gt;Modifica &gt; Cambia icona&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To compare them:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160428T155822Z" creationid="luciano" creationdate="20160428T155822Z">
@@ -12103,10 +12167,26 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use a custom icon, create it in a graphics program and import it into &lt;f0&gt;LibreOffice&lt;/f0&gt; by clicking the &lt;f1&gt;Import&lt;/f1&gt; button on the Change Icon dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165926Z" creationid="steevie" creationdate="20160428T165926Z">
+        <seg>Per utilizzare un'icona personalizzata, createla in un programma di grafica e importatela in &lt;f0&gt;LibreOffice&lt;/f0&gt; facendo clic sul pulsante &lt;f1&gt;Importa&lt;/f1&gt; nella finestra di dialogo Cambia icona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To view the comment you just added, hover the mouse pointer over the cell that has a comment; the comment appears, as shown below.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160424T134222Z" creationid="luciano" creationdate="20160424T134222Z">
         <seg>Per visualizzare il commento appena aggiunto, portate il cursore del mouse sulla cella con il commento; il commento apparirà, come mostrato sotto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toolbar buttons usually have icons, not words, on them, but not all of the commands have associated icons.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165802Z" creationid="steevie" creationdate="20160428T165757Z">
+        <seg>Sui pulsanti delle barre degli strumenti solitamente vi sono icone e non parole, ma non tutti i comandi sono associati a delle icone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12831,6 +12911,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you are done making changes, click &lt;f0&gt;OK&lt;/f0&gt; to save.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165743Z" creationid="steevie" creationdate="20160428T165743Z">
+        <seg>Una volta terminate le modifiche, fate clic su &lt;f0&gt;OK&lt;/f0&gt; per salvare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you choose one of the menus, a sub-menu appears with other options.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T164306Z">
@@ -12867,6 +12955,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164417Z" creationid="steevie" creationdate="20160428T164417Z">
         <seg>Quando avete terminato di aggiungere comandi, fate clic su &lt;f1&gt;Chiudi&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you have finished adding commands, click &lt;f2&gt;Close&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165726Z" creationid="steevie" creationdate="20160428T165726Z">
+        <seg>Quando avete terminato di aggiungere comandi, fate clic su &lt;f2&gt;Chiudi&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13827,6 +13923,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160422T160729Z" creationid="luciano" creationdate="20160422T160729Z">
         <seg>modifiche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>choosing icons for commands</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165753Z" creationid="steevie" creationdate="20160428T165745Z">
+        <seg>scegliere icone per i comandi</seg>
       </tuv>
     </tu>
     <tu>
