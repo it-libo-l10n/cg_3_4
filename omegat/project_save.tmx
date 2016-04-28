@@ -2798,6 +2798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alt+Up/Down arrow</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T154543Z" creationid="steevie" creationdate="20160428T154543Z">
+        <seg>Alt+Freccia su/giù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively, click the &lt;f0&gt;Edit&lt;/f0&gt; button to open the Color dialog, shown in &lt;t1&gt;Figure 323&lt;/t1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T155821Z" creationid="steevie" creationdate="20160418T155821Z">
@@ -4184,8 +4192,8 @@
       <tuv lang="EN">
         <seg>Ctrl-D</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T154403Z" creationid="steevie" creationdate="20160428T154403Z">
-        <seg>Ctrl-D</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T154616Z" creationid="steevie" creationdate="20160428T154403Z">
+        <seg>Ctrl+D</seg>
       </tuv>
     </tu>
     <tu>
@@ -9198,6 +9206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shift-Ctrl-D</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T154605Z" creationid="steevie" creationdate="20160428T154500Z">
+        <seg>Maiusc+Ctrl+D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show &lt;is0/&gt;references in color</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143339Z" creationid="steevie" creationdate="20160427T143339Z">
@@ -9946,6 +9962,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T162328Z">
         <seg>La scheda Foglio della finestra di dialogo Stile di pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The actions are:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T154642Z" creationid="steevie" creationdate="20160428T154642Z">
+        <seg>Le azioni sono:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12719,6 +12743,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>adjust row height</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T154637Z" creationid="steevie" creationdate="20160428T154637Z">
+        <seg>regola altezza riga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>anchor, visible</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143003Z" creationid="steevie" creationdate="20160427T143003Z">
@@ -12831,6 +12863,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>data select</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T154457Z" creationid="steevie" creationdate="20160428T154457Z">
+        <seg>Seleziona dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>dates</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145530Z" creationid="steevie" creationdate="20160427T145530Z">
@@ -12851,6 +12891,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T154332Z" creationid="steevie" creationdate="20160428T154313Z">
         <seg>Elimina il contenuto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>delete contents – launch the Delete Contents dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T154651Z" creationid="steevie" creationdate="20160428T154651Z">
+        <seg>delete contents – launch the Delete Contents dialog.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12939,6 +12987,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T160245Z" creationid="steevie" creationdate="20160418T160245Z">
         <seg>opzioni di condivisione file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fill down</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T154423Z" creationid="steevie" creationdate="20160428T154423Z">
+        <seg>Riempi in basso</seg>
       </tuv>
     </tu>
     <tu>
@@ -13539,6 +13595,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T152148Z" creationid="steevie" creationdate="20160427T152148Z">
         <seg>win.*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>–</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T154502Z" creationid="steevie" creationdate="20160428T154502Z">
+        <seg>–</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
