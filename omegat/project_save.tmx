@@ -1534,6 +1534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;On t&lt;/f1&gt;&lt;/f0&gt;he &lt;f2&gt;Keyboard&lt;/f2&gt; page of the Customize dialog, choose the shortcut keys you want to assign a style to.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T171119Z" creationid="steevie" creationdate="20160428T171119Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Nel&lt;/f1&gt;&lt;/f0&gt;la scheda &lt;f2&gt;Tastiera&lt;/f2&gt; della finestra di dialogo Personalizza, scegliete la combinazione di tasti cui volete assegnare uno stile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;PDF/A-1&lt;/f1&gt;&lt;/f0&gt;&lt;ie2/&gt;&lt;f3&gt;&lt;f4&gt;a&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;: PDF/A is an ISO standard for long-term preservation of documents, by embedding all the information necessary for faithful reproduction (such as fonts) while forbidding other elements (including forms, security, and encryption).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T141314Z" creationid="Luciano B." creationdate="20160325T171623Z">
@@ -1626,6 +1634,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160424T130332Z" creationid="luciano" creationdate="20160424T130332Z">
         <seg>&lt;f0&gt;Dopo aver aggiunto un commento a una cella modificata, potete visualizzarlo passando il puntatore del mouse sopra la cella, come mostrato in &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figura 286&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;All existing shortcut keys for the currently selected &lt;/f0&gt;&lt;f1&gt;Function&lt;/f1&gt;&lt;f2&gt; are listed in the&lt;/f2&gt; &lt;f3&gt;Keys&lt;/f3&gt; selection box&lt;f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170916Z" creationid="steevie" creationdate="20160428T170916Z">
+        <seg>&lt;f0&gt;Tutte le combinazioni di tasti esistenti per la &lt;/f0&gt;&lt;f1&gt;Funzione&lt;/f1&gt;&lt;f2&gt; selezionata sono elencati nel &lt;/f2&gt;riquadro di selezione &lt;f3&gt;Tasti&lt;/f3&gt;&lt;f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5070,6 +5086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Example: &lt;i0/&gt;Assigning styles to shortcut keys</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170955Z" creationid="steevie" creationdate="20160428T170955Z">
+        <seg>Esempio: &lt;i0/&gt;assegnare gli stili a delle combinazioni di tasti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Example: Cell E5 contains the text &lt;f0&gt;Europe&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T151027Z" creationid="steevie" creationdate="20160428T151027Z">
@@ -6614,6 +6638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If it were not, and you wanted to reassign a shortcut key combination that is already in use, you must first &lt;/f6&gt;delete&lt;f7&gt; the existing k&lt;/f7&gt;ey&lt;f8&gt;.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170924Z" creationid="steevie" creationdate="20160428T170924Z">
+        <seg>Se così non fosse, e desiderate riassegnare una combinazione di tasti di scelta rapida già in uso, dovete prima &lt;/f6&gt;eliminare&lt;f7&gt; la combinazione di t&lt;/f7&gt;asti&lt;f8&gt; esistente.&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If more than one person has reviewed the document, one reviewer may have modified another reviewer’s change.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160426T160127Z" creationid="luciano" creationdate="20160426T160127Z">
@@ -6642,6 +6674,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160426T160326Z" creationid="luciano" creationdate="20160426T160326Z">
         <seg>In questo caso, le modifiche sono ordinate in modo gerarchico con un segno più per l'apertura della gerarchia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the &lt;/f4&gt;&lt;f5&gt;Keys&lt;/f5&gt;&lt;f6&gt; list is empty, it indicates that the chosen key combination is free for use.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170918Z" creationid="steevie" creationdate="20160428T170918Z">
+        <seg>Se l'elenco &lt;/f4&gt;&lt;f5&gt;Tasti&lt;/f5&gt;&lt;f6&gt; è vuoto, vuol dire che la combinazione di tasti scelta è libera e può essere utilizzata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7474,6 +7514,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T170123Z">
         <seg>In questo esempio, sono selezionati tre rettangoli, ognuno dei quali separato da una virgola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this example, we have chosen &lt;f3&gt;Ctrl+3&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T171135Z" creationid="steevie" creationdate="20160428T171135Z">
+        <seg>In questo esempio si è scelto &lt;f3&gt;Ctrl+3&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8402,6 +8450,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160425T115635Z" creationid="luciano" creationdate="20160425T115635Z">
         <seg>Ora, voi volete rivedere queste modifiche e accettare o rifiutare la controproposta..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; the&lt;/f5&gt; chosen s&lt;f6&gt;hortcut keys will execute the function chosen in step 3 above whenever they are pressed.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170914Z" creationid="steevie" creationdate="20160428T170914Z">
+        <seg>A questo punto&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; la&lt;/f5&gt; combinazione di tasti&lt;f6&gt; scelta eseguirà la funzione scelta nel passo 3 descritto sopra, ogni qualvolta verrà premuta.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13559,6 +13615,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can configure shortcut keys to quickly assign styles in your document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170957Z" creationid="steevie" creationdate="20160428T170957Z">
+        <seg>È possibile configurare delle combinazioni di tasti per assegnare rapidamente gli stili in un documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can create a new toolbar by clicking on the &lt;f0&gt;New &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;button, or &lt;/f2&gt;&lt;/f1&gt;customize existing toolbars by clicking on the &lt;f3&gt;Toolbar&lt;/f3&gt; or &lt;f4&gt;Modify&lt;/f4&gt; buttons, and add commands to a toolbar by clicking on the &lt;f5&gt;Add&lt;/f5&gt; button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165221Z" creationid="steevie" creationdate="20160428T165221Z">
@@ -13987,6 +14051,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170004Z" creationid="steevie" creationdate="20160428T170004Z">
         <seg>assegnare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>assigning to shortcut keys</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170951Z" creationid="steevie" creationdate="20160428T170951Z">
+        <seg>assegnare combinazioni di tasti</seg>
       </tuv>
     </tu>
     <tu>
