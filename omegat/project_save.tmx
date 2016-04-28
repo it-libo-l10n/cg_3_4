@@ -2694,6 +2694,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A confirmation dialog appears if you are about to overwrite an existing file, otherwise there will be no feedback and the file will be saved.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172529Z" creationid="steevie" creationdate="20160428T172529Z">
+        <seg>Se state per sovrascrivere un file esistente comparirà una finestra di conferma, altrimenti il file verrà salvato senza alcuna richiesta di conferma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A deleted column or row is marked by a heavy colored bar.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160423T124235Z" creationid="luciano" creationdate="20160423T124235Z">
@@ -2986,6 +2994,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T161153Z">
         <seg>Dopo aver definito un'area di stampa, potete aggiungervi altre celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After making your keyboard shortcut assignments, click the &lt;f0&gt;Save&lt;/f0&gt; button on the Customize dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172449Z" creationid="steevie" creationdate="20160428T172449Z">
+        <seg>Dopo aver assegnato le vostre combinazioni di tasti, fate clic sul pulsante &lt;f0&gt;Salva&lt;/f0&gt; nella finestra di dialogo Personalizza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3718,6 +3734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changes to the shortcut key assignments can be &lt;i0/&gt;saved in a keyboard configuration file for use at a later time, thus permitting you to create and apply different configurations as the need arises.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172432Z" creationid="steevie" creationdate="20160428T172432Z">
+        <seg>Potete &lt;i0/&gt;salvare le modifiche alle assegnazioni delle combinazioni di tasti in un file di configurazione tasti per utilizzarlo in un secondo momento, permettendovi così di creare e applicare diverse configurazioni a seconda delle necessità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changes&lt;i0/&gt; options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T152429Z" creationid="steevie" creationdate="20160428T152429Z">
@@ -4154,6 +4178,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163613Z" creationid="steevie" creationdate="20160428T163613Z">
         <seg>Fate clic su &lt;f0&gt;OK&lt;/f0&gt; per salvare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Save&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172525Z" creationid="steevie" creationdate="20160428T172525Z">
+        <seg>Fate clic su &lt;f0&gt;Salva&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7038,6 +7070,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you need to, browse to find a file from another location.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172522Z" creationid="steevie" creationdate="20160428T172522Z">
+        <seg>Se necessario, sfogliate per trovare un file in un'altra posizione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you plan to share documents with people who are still using older versions of &lt;/f7&gt;&lt;f8&gt;LibreOffice&lt;/f8&gt;&lt;f9&gt;, save the document using ODF version 1.0/1.1.&lt;/f9&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T125935Z" creationid="steevie" creationdate="20160421T125935Z">
@@ -7498,6 +7538,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160314T141053Z">
         <seg>Nella finestra di dialogo Stampa, selezionate la scheda &lt;f0&gt;Layout di pagina&lt;/f0&gt; (&lt;t1&gt;Figura 136&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Save Keyboard Configuration dialog, select &lt;f0&gt;All files&lt;/f0&gt; from the &lt;f1&gt;Save as Type&lt;/f1&gt; list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172515Z" creationid="steevie" creationdate="20160428T172515Z">
+        <seg>Nella finestra di dialogo Salva configurazione della tastiera, selezionate &lt;f0&gt;Tutti i file&lt;/f0&gt; dall'elenco &lt;f1&gt;Salva come tipo&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8046,6 +8094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Loading a saved keyboard configuration</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172530Z" creationid="steevie" creationdate="20160428T172530Z">
+        <seg>Caricare una configurazione di tasti salvata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Logical functions</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T100112Z">
@@ -8418,6 +8474,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160423T122808Z" creationid="luciano" creationdate="20160423T122808Z">
         <seg>Le nuove uniformi possono aspettare; si possono acquistarne solo 10 per sostituire quelle danneggiate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next enter a name for the keyboard configuration file in the &lt;f0&gt;File name&lt;/f0&gt; box, or select an existing file from the list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172520Z" creationid="steevie" creationdate="20160428T172520Z">
+        <seg>Successivamente inserite un nome per il file di configurazione nel riquadro &lt;f0&gt;Nome file&lt;/f0&gt;, oppure selezionate un file esistente dalla lista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9406,6 +9470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Resetting the shortcut keys</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172654Z" creationid="steevie" creationdate="20160428T172654Z">
+        <seg>Ripristino dei tasti di scelta rapida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Resizing and moving the chart</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T102549Z">
@@ -9494,6 +9566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Running &lt;is0/&gt;macros&lt;ie1/&gt; from key combinations</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172731Z" creationid="steevie" creationdate="20160428T172731Z">
+        <seg>Eseguire &lt;is0/&gt;macro&lt;ie1/&gt; da una combinazione di tasti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sandeep Samuel Medikonda</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084439Z">
@@ -9514,6 +9594,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095153Z">
         <seg>Salvare documenti come pagine web (documenti HTML).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saving changes to a file</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172427Z" creationid="steevie" creationdate="20160428T172427Z">
+        <seg>Salvare le modifiche in un file</seg>
       </tuv>
     </tu>
     <tu>
@@ -11879,10 +11967,26 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To &lt;i0/&gt;load a saved keyboard configuration file and replace your existing configuration, click the &lt;f1&gt;Load&lt;/f1&gt; button near the bottom right of the Customize dialog, and then select the configuration file from the Load Keyboard Configuration dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172650Z" creationid="steevie" creationdate="20160428T172650Z">
+        <seg>Per &lt;i0/&gt;caricare un file di configurazione tasti salvato e sostituire la configurazione esistente, fate clic sul pulsante &lt;f1&gt;Carica&lt;/f1&gt; che si trova vicino alla parte inferiore destra della finestra di dialogo Personalizza, poi selezionate il file di configurazione dalla finestra di dialogo Carica configurazione della tastiera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To &lt;i0/&gt;modify an existing menu, select it in the Menu list and click the &lt;f1&gt;Menu&lt;/f1&gt; button to drop down a list of modifications: &lt;f2&gt;Move&lt;/f2&gt;, &lt;f3&gt;Rename&lt;/f3&gt;, &lt;f4&gt;Delete&lt;/f4&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163859Z" creationid="steevie" creationdate="20160428T163859Z">
         <seg>Per &lt;i0/&gt;modificare un menu esistente, selezionatelo nell'elenco Menu e fate clic sul pulsante &lt;f1&gt;Menu&lt;/f1&gt; per visualizzare un elenco di modifiche: &lt;f2&gt;Sposta&lt;/f2&gt;, &lt;f3&gt;Rinomina&lt;/f3&gt; &lt;f4&gt;Elimina&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To &lt;i0/&gt;reset all of the keyboard shortcuts to their default values, click the &lt;f1&gt;Reset&lt;/f1&gt; button near the bottom right of the Customize dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172700Z" creationid="steevie" creationdate="20160428T172700Z">
+        <seg>Per &lt;i0/&gt;ripristinare tutti i valori predefiniti delle combinazioni di tasti, fate clic sul pulsante &lt;f1&gt;Ripristina&lt;/f1&gt;, sul lato destro della finestra di dialogo Personalizza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12303,6 +12407,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To save keyboard shortcuts to a file:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172434Z" creationid="steevie" creationdate="20160428T172434Z">
+        <seg>Per salvare le combinazioni di tasti in un file:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To see page break lines more easily on screen, you can change their color.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T154009Z">
@@ -12603,6 +12715,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163458Z" creationid="steevie" creationdate="20160428T163458Z">
         <seg>Usate le frecce su e giù poste accanto all'elenco delle Voci per spostare l'elemento del menu selezionato in una posizione diversa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use this feature with care as no confirmation dialog will be displayed; the defaults will be set without any further notice or user input.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172702Z" creationid="steevie" creationdate="20160428T172702Z">
+        <seg>Fate attenzione nell'utilizzare questa funzionalità, in quanto non verrà visualizzato alcun messaggio di conferma; i valori predefiniti verranno impostati senza ulteriori notifiche o azioni da parte dell'utente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14583,6 +14703,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>loading from a file</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172532Z" creationid="steevie" creationdate="20160428T172532Z">
+        <seg>caricare da un file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>macro security options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T160935Z" creationid="steevie" creationdate="20160418T160935Z">
@@ -14823,6 +14951,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>resetting to default values</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172656Z" creationid="steevie" creationdate="20160428T172656Z">
+        <seg>ripristinare i valori predefiniti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>resolution options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T160100Z" creationid="steevie" creationdate="20160428T160100Z">
@@ -14859,6 +14995,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T161506Z" creationid="Luciano B." creationdate="20160411T161506Z">
         <seg>salvataggio di condivisi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>saving to a file</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172430Z" creationid="steevie" creationdate="20160428T172430Z">
+        <seg>salvare in un file</seg>
       </tuv>
     </tu>
     <tu>
