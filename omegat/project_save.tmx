@@ -5438,6 +5438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For this purpose, you can merge documents in Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160428T152849Z" creationid="luciano" creationdate="20160428T152849Z">
+        <seg>A questo scopo, potete unire i documenti in Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For viewing on a computer screen a resolution of 72dpi (for Windows) or 96dpi (GNU/Linux) is sufficient, while for printing it is generally preferable to use at least 300 or 600 dpi, depending on the capability of the printer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T170036Z" creationid="Luciano B." creationdate="20160325T170036Z">
@@ -6686,6 +6694,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this case, it may be quicker to review all of these changes at once, rather than one review at a time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160428T152835Z" creationid="luciano" creationdate="20160428T152835Z">
+        <seg>In questo caso, può essere più veloce revisionare tutte le modifiche contemporaneamente, piuttosto che revisionarle una alla volta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this example, three rectangles are selected, each separated by a comma.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T170123Z">
@@ -7814,6 +7830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open the original document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160428T152958Z" creationid="luciano" creationdate="20160428T152958Z">
+        <seg>Aprite il documento modificato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opening CSV files</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T211937Z">
@@ -8646,6 +8670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Edit &gt; Changes &gt; Merge Document&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160428T153049Z" creationid="luciano" creationdate="20160428T153049Z">
+        <seg>Selezionate &lt;f0&gt;Modifica &gt; Modifiche &gt; Unisci Documenti&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f0&gt;Edit &gt; Changes &gt; Record&lt;/f0&gt;&lt;f1&gt; from the menu bar.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160423T123555Z" creationid="luciano" creationdate="20160423T123555Z">
@@ -9184,8 +9216,8 @@
       <tuv lang="EN">
         <seg>Sometimes, however, multiple reviewers all return edited versions of a document at the same time.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160428T152714Z" creationid="luciano" creationdate="20160428T152714Z">
-        <seg>Qualche volta, comunque, tutti i revisori ritornano i documenti revisionati allo stesso momento.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160428T152810Z" creationid="luciano" creationdate="20160428T152714Z">
+        <seg>Qualche volta, tuttavia, capita che tutti i revisori ritornino i documenti revisionati allo stesso momento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10819,6 +10851,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T122242Z" creationid="steevie" creationdate="20160421T122242Z">
         <seg>Per rimuovere manualmente le informazioni personali da documenti specifici, deselezionate questa opzione e utilizzate poi il pulsante &lt;f0&gt;Cancella&lt;/f0&gt; sotto &lt;f1&gt;File &gt; Proprietà &gt; Generale&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To merge documents, all of the edited documents need to have recorded changes in them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160428T152946Z" creationid="luciano" creationdate="20160428T152946Z">
+        <seg>Per unirli, tutti i documenti modificati devono contenere delle modifiche registrate.</seg>
       </tuv>
     </tu>
     <tu>
