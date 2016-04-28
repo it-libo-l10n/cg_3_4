@@ -2070,6 +2070,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Synchronize axes&lt;/f0&gt; changes the current grid settings symmetrically.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T160257Z" creationid="steevie" creationdate="20160428T160257Z">
+        <seg>&lt;f0&gt;Sincronizza assi&lt;/f0&gt; modifica le impostazioni attuali della griglia in maniera simmetrica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Print in reverse page order&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; option can be selected with any of the above options.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T100414Z">
@@ -2178,6 +2186,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T165143Z">
         <seg>&lt;f0&gt;Visualizza&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;contiene comandi per modificare l'apparenza dell'interfaccia utente di Calc&lt;/f2&gt;&lt;f3&gt;Barre degli strumenti, Schermo intero&lt;/f3&gt;&lt;f4&gt;, e &lt;/f4&gt;&lt;f5&gt;Zoom&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Visible grid&lt;/f0&gt; displays grid points on the screen.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T160033Z" creationid="steevie" creationdate="20160428T160033Z">
+        <seg>&lt;f0&gt;Griglia visibile&lt;/f0&gt; mostra i punti della griglia sullo schermo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5926,6 +5942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here you can set the unit of distance for the spacing between horizontal and vertical grid points and subdivisions (intermediate points) of the grid.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T160210Z" creationid="steevie" creationdate="20160428T160210Z">
+        <seg>Qui potete impostare l'unità di distanza per spaziare i punti griglia orizzontali e verticali e le suddivisione (punti intermedi) della griglia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hiding and showing data</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T101345Z">
@@ -8590,6 +8614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Resolution section</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T160114Z" creationid="steevie" creationdate="20160428T160114Z">
+        <seg>Sezione Risoluzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reviewers and authors can add their own comments to explain their reasons for the changes.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160423T144905Z" creationid="luciano" creationdate="20160423T144905Z">
@@ -10523,6 +10555,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T131207Z">
         <seg>Sono incluse l'ordine delle pagine, i dettagli e la scala per la stampa. Poiché queste opzioni sono impostate nella pagina stile, differenti stili di pagina possono essere impostati per modificare velocemente le proprietà di stampa dei fogli nel &lt;s0/&gt;foglio di calcolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These points are not printed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T160047Z" creationid="steevie" creationdate="20160428T160047Z">
+        <seg>Questi punti non sono stampati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13511,6 +13551,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>resolution options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T160100Z" creationid="steevie" creationdate="20160428T160100Z">
+        <seg>opzioni risoluzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>reviewing</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160425T114406Z" creationid="luciano" creationdate="20160425T114406Z">
@@ -13639,6 +13687,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>synchronize axes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T160219Z" creationid="steevie" creationdate="20160428T160219Z">
+        <seg>Sincronizza assi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>tagged</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T171711Z" creationid="Luciano B." creationdate="20160325T171711Z">
@@ -13739,6 +13795,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160425T115809Z" creationid="luciano" creationdate="20160425T115809Z">
         <seg>visualizzare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>visible grid</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T160012Z" creationid="steevie" creationdate="20160428T160012Z">
+        <seg>Griglia visibile</seg>
       </tuv>
     </tu>
     <tu>
