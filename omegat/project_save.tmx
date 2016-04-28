@@ -1542,6 +1542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Make any other required changes, and then click &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;OK&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; to save these settings and close the dialog.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172425Z" creationid="steevie" creationdate="20160428T172425Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Eseguite tutte le modifiche desiderate e poi fate clic su &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;OK&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; per salvare le nuove impostazioni e chiudere la finestra.&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;On t&lt;/f1&gt;&lt;/f0&gt;he &lt;f2&gt;Keyboard&lt;/f2&gt; page of the Customize dialog, choose the shortcut keys you want to assign a style to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T171119Z" creationid="steevie" creationdate="20160428T171119Z">
@@ -2562,6 +2570,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T161103Z">
         <seg>&lt;f4&gt;LibreOffice&lt;/f4&gt; visualizzerà solo le celle comprese nell'area di stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f5&gt;Ctrl+3&lt;/f5&gt; now appears in the &lt;f6&gt;Keys&lt;/f6&gt; list on the right, and &lt;f7&gt;&lt;f8&gt;Heading&lt;/f8&gt;&lt;/f7&gt; appears next to &lt;f9&gt;Ctrl+3&lt;/f9&gt; in the Shortcut keys box at the top.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172346Z" creationid="steevie" creationdate="20160428T172346Z">
+        <seg>&lt;f5&gt;Ctrl+3&lt;/f5&gt; Appare ora nella lista dei &lt;f6&gt;tasti&lt;/f6&gt; a destra e&lt;f7&gt;&lt;f8&gt;Intestazione&lt;/f8&gt;&lt;/f7&gt; appare vicino a &lt;f9&gt;Ctrl+3&lt;/f9&gt; nel riquadro in alto Tasti di scelta rapida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5754,6 +5770,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165835Z" creationid="steevie" creationdate="20160428T165835Z">
         <seg>Figura &lt;seq0&gt;346&lt;/seq0&gt;: finestra di dialogo Cambia icona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;347&lt;/seq0&gt;: Assigning a cell style to a key combination</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172419Z" creationid="steevie" creationdate="20160428T172419Z">
+        <seg>Figure &lt;seq0&gt;379&lt;/seq0&gt;: assegnare uno stile di cella ad una combinazione di tasti</seg>
       </tuv>
     </tu>
     <tu>
