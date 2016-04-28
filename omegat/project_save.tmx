@@ -1646,6 +1646,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Begin a group&lt;/f0&gt; adds a separator line after the highlighted entry.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164555Z" creationid="steevie" creationdate="20160428T164555Z">
+        <seg>Scegliendo &lt;f0&gt;Inizia un gruppo&lt;/f0&gt; viene aggiunta una linea di separazione dopo la voce evidenziata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;C&lt;/f0&gt;hoose &lt;f1&gt;Format &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Print Ranges &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; Remove&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T163813Z">
@@ -4062,6 +4070,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Modify&lt;/f0&gt; button and choose the required action from the drop-down list of actions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164544Z" creationid="steevie" creationdate="20160428T164544Z">
+        <seg>Fate clic sul pulsante &lt;f0&gt;Modifica&lt;/f0&gt; e scegliete l'azione richiesta dall'elenco a comparsa delle azioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Modify&lt;/f0&gt; button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T155732Z" creationid="steevie" creationdate="20160418T155732Z">
@@ -4418,6 +4434,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T144409Z" creationid="steevie" creationdate="20160418T144409Z">
         <seg>Le personalizzazioni dei menu e delle barre degli strumenti si possono salvare in un modello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customizing &lt;i0/&gt;toolbars</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164608Z" creationid="steevie" creationdate="20160428T164608Z">
+        <seg>Personalizzare le &lt;i0/&gt;barre degli strumenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -6926,6 +6950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition to changing the sequence of entries on a menu or submenu, you can add submenus, rename or delete the entries, and add group separators.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164428Z" creationid="steevie" creationdate="20160428T164428Z">
+        <seg>Oltre a poter cambiare la sequenza delle voci di un menu o sottomenu, si possono aggiungere sottomenu, rinominare o eliminare le voci e aggiungere separatori di gruppo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition to highlighting a print range for each print job, you can define a range of cells to be used repeatedly.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T102344Z">
@@ -7950,10 +7982,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modifying menu entries</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164427Z" creationid="steevie" creationdate="20160428T164427Z">
+        <seg>Modifica delle voci del menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modifying styles</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T102807Z">
         <seg>Modificare gli stili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most of the actions should be self-explanatory.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164552Z" creationid="steevie" creationdate="20160428T164552Z">
+        <seg>La maggior parte delle azioni dovrebbe risultare autoesplicativa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11459,6 +11507,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160426T154717Z" creationid="luciano" creationdate="20160426T154717Z">
         <seg>Per iniziare questo precesso:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To begin, select the menu or submenu in the Menu list near the top of the Customize page, then select the entry in the Entries list under Menu Content.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164520Z" creationid="steevie" creationdate="20160428T164520Z">
+        <seg>Per iniziare, selezionate il menu o sottomenu dall'elenco Menu nella parte alta della pagina Personalizza, quindi selezionate la voce nell'elenco delle Voci nell'area Contenuto menu.</seg>
       </tuv>
     </tu>
     <tu>
