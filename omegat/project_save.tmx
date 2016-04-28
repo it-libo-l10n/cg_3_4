@@ -9390,6 +9390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sometimes when sharing documents, reviewers may forget to record the changes they make.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160428T155635Z" creationid="luciano" creationdate="20160428T155635Z">
+        <seg>Qualche volta condividendo i documenti, i revisori potrebbero scordarsi di registrare le modifiche che hanno fatto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sometimes, however, multiple reviewers all return edited versions of a document at the same time.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160428T152810Z" creationid="luciano" creationdate="20160428T152714Z">
@@ -10675,6 +10683,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T162613Z">
         <seg>Questa funzione è particolarmente utile nel caso di un documento di grosse dimensioni; per esempio, controllare l'ordine di stampa può farvi risparmiare tempo se dovete ordinare il documento in un certo modo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is not a problem with Calc, because Calc can find the changes by comparing documents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160428T155732Z" creationid="luciano" creationdate="20160428T155732Z">
+        <seg>Questo non è comunque un problema con Calc, perché Calc è in grado di trovare le modifiche confrontando i documenti.</seg>
       </tuv>
     </tu>
     <tu>
