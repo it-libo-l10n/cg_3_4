@@ -2054,6 +2054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Snap to grid&lt;/f0&gt; activates the snap function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T155955Z" creationid="steevie" creationdate="20160428T155920Z">
+        <seg>&lt;f0&gt;Cattura alla griglia&lt;/f0&gt; abilita la funzione allineamento automatico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Styles are &lt;/f0&gt;&lt;f1&gt;logical&lt;/f1&gt;&lt;f2&gt; attributes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160213T105221Z">
@@ -5790,6 +5798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Grid section</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T155932Z" creationid="steevie" creationdate="20160428T155919Z">
+        <seg>Sezione Griglia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Grid&lt;i0/&gt; options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T155049Z" creationid="steevie" creationdate="20160428T155049Z">
@@ -6358,6 +6374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have activated the &lt;is0/&gt;snap grid&lt;ie1/&gt; but wish to move or create individual objects without snap positions, you can press the &lt;f2&gt;Ctrl&lt;/f2&gt; key to deactivate the snap grid for as long as needed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T155914Z" creationid="steevie" creationdate="20160428T155652Z">
+        <seg>Con l'opzione &lt;is0/&gt;Cattura alla griglia&lt;ie1/&gt; attiva, è possibile comunque posizionare arbitrariamente un oggetto premendo il tasto &lt;f2&gt;Ctrl&lt;/f2&gt; per il tempo desiderato mentre spostate l'oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have already selected a print range, the Edit Print Ranges dialog looks something like &lt;t7&gt;Figure 138&lt;/t7&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T165452Z">
@@ -6762,6 +6786,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T130404Z" creationid="steevie" creationdate="20160427T130404Z">
         <seg>Nella finestra di dialogo Opzioni, fate clic su &lt;f0&gt;&lt;f1&gt;LibreOffice&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; Calc &gt; Generale&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Options dialog, choose &lt;f0&gt;&lt;f1&gt;LibreOffice&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; Calc &gt; Grid&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T155910Z" creationid="steevie" creationdate="20160428T155910Z">
+        <seg>Nella finestra di dialogo Opzioni, fate clic su &lt;f0&gt;&lt;f1&gt;LibreOffice&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; Calc &gt; Griglia&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
