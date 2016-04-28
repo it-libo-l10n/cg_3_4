@@ -3790,6 +3790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Tools &gt; Options &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;LibreOffice &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;View&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T161858Z" creationid="steevie" creationdate="20160428T161858Z">
+        <seg>Choose &lt;f0&gt;Tools &gt; Options &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;LibreOffice &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;View&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;Tools &gt; Options&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T145039Z" creationid="steevie" creationdate="20160418T145039Z">
@@ -4314,6 +4322,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T144409Z" creationid="steevie" creationdate="20160418T144409Z">
         <seg>Le personalizzazioni dei menu e delle barre degli strumenti si possono salvare in un modello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customizing the &lt;i0/&gt;menu font</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T161818Z" creationid="steevie" creationdate="20160428T161818Z">
+        <seg>Personalizzare il&lt;i0/&gt;menu carattere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customizing the &lt;i0/&gt;user interface</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T161738Z" creationid="steevie" creationdate="20160428T161738Z">
+        <seg>Personalizzare l'&lt;i0/&gt;interfaccia utente</seg>
       </tuv>
     </tu>
     <tu>
@@ -5346,6 +5370,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T160801Z" creationid="steevie" creationdate="20160428T160725Z">
         <seg>Figura &lt;seq0&gt;340&lt;/seq0&gt;: Definire i colori diagramma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;341&lt;/seq0&gt;: The AutoCorrect dialog in Calc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T161642Z" creationid="steevie" creationdate="20160428T161642Z">
+        <seg>Figura &lt;seq0&gt;341&lt;/seq0&gt;: La finestra di autocorrezione in Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -6606,6 +6638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want to change the menu font from that supplied by &lt;f0&gt;LibreOffice&lt;/f0&gt; to the &lt;is1/&gt;system font&lt;ie2/&gt; for your operating system, do this:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T161853Z" creationid="steevie" creationdate="20160428T161853Z">
+        <seg>Se volete modificare il carattere del menuthe menu font from that supplied by &lt;f0&gt;LibreOffice&lt;/f0&gt; to the &lt;is1/&gt;system font&lt;ie2/&gt; for your operating system, do this:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to merge more documents, close the dialog and then repeat steps 2 and 3.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160428T153739Z" creationid="luciano" creationdate="20160428T153739Z">
@@ -6712,8 +6752,8 @@
       <tuv lang="EN">
         <seg>In Calc, this dialog has four tabs, as shown below.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T161423Z" creationid="steevie" creationdate="20160428T161423Z">
-        <seg>In Calc, questa finestra di dialogo presenta 5 schede, come mostrato sotto.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T161704Z" creationid="steevie" creationdate="20160428T161423Z">
+        <seg>In Calc, questa finestra di dialogo presenta 4 schede, come mostrato sotto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13519,6 +13559,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>menu font, customizing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T161807Z" creationid="steevie" creationdate="20160428T161807Z">
+        <seg>personalizzazione menu carattere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>merging</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160428T151802Z" creationid="luciano" creationdate="20160428T151802Z">
@@ -13923,6 +13971,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T155529Z" creationid="Luciano B." creationdate="20160326T155529Z">
         <seg>impostazioni interfaccia utente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>user interface, customizing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T161719Z" creationid="steevie" creationdate="20160428T161658Z">
+        <seg>personalizzazione interfaccia utente</seg>
       </tuv>
     </tu>
     <tu>
