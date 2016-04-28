@@ -12871,6 +12871,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>data select – launch the selection list dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T155016Z" creationid="steevie" creationdate="20160428T155016Z">
+        <seg>seleziona dati –apri una finestra per scegliere da una lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>dates</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145530Z" creationid="steevie" creationdate="20160427T145530Z">
@@ -12899,6 +12907,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T154651Z" creationid="steevie" creationdate="20160428T154651Z">
         <seg>delete contents – launch the Delete Contents dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>delete – immediately delete the cell content, without the dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T154732Z" creationid="steevie" creationdate="20160428T154732Z">
+        <seg>elimina – cancella immediatamente il contenuto della cella, senza conferma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12993,8 +13009,16 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>fill down</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T154423Z" creationid="steevie" creationdate="20160428T154423Z">
-        <seg>Riempi in basso</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T154811Z" creationid="steevie" creationdate="20160428T154423Z">
+        <seg>compila verso il basso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fill down – fill cell content downward within selection.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T154903Z" creationid="steevie" creationdate="20160428T154757Z">
+        <seg>compila verso il basso – completa il contenuto delle celle in basso all'interno della selezione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13035,6 +13059,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160313T142905Z">
         <seg>opzioni generali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>grid</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T155021Z" creationid="steevie" creationdate="20160428T155021Z">
+        <seg>griglia</seg>
       </tuv>
     </tu>
     <tu>
