@@ -1542,6 +1542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;To &lt;/f1&gt;&lt;/f0&gt;customize the selected menu, click on the &lt;f2&gt;Menu&lt;/f2&gt; or &lt;f3&gt;Modify&lt;/f3&gt; buttons.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163455Z" creationid="steevie" creationdate="20160428T163455Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Per &lt;/f1&gt;&lt;/f0&gt;personalizzare il menu selezionato, fate clic sui pulsanti &lt;f2&gt;Menu&lt;/f2&gt; o &lt;f3&gt;Modifica&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;To add another data series, click &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Add&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;, then select the new series and click on the required color.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T161046Z" creationid="steevie" creationdate="20160428T161046Z">
@@ -4230,6 +4238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating a new menu</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163508Z" creationid="steevie" creationdate="20160428T163508Z">
+        <seg>Creare un nuovo menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating a spreadsheet from a template</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T102829Z">
@@ -5646,6 +5662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, in addition to &lt;f11&gt;File&lt;/f11&gt;, &lt;f12&gt;Edit&lt;/f12&gt;, &lt;f13&gt;View&lt;/f13&gt;, and so on, there is &lt;f14&gt;File &lt;/f14&gt;|&lt;f15&gt; Send&lt;/f15&gt; and &lt;f16&gt;File &lt;/f16&gt;|&lt;f17&gt;Templates&lt;/f17&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163246Z" creationid="steevie" creationdate="20160428T163246Z">
+        <seg>Ad esempio, oltre ai menu &lt;f11&gt;File&lt;/f11&gt;, &lt;f12&gt;Modifica&lt;/f12&gt;, &lt;f13&gt;Visualizza&lt;/f13&gt;, e così via, ci sono i menu &lt;f14&gt;File &lt;/f14&gt;|&lt;f15&gt; Invia&lt;/f15&gt; e &lt;f16&gt;File &lt;/f16&gt;|&lt;f17&gt;Modelli&lt;/f17&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, you can create a template for invoices that has your company’s logo and address at the top of the page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160213T104643Z">
@@ -7048,8 +7072,8 @@
       <tuv lang="EN">
         <seg>In the section&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;LibreOffice&lt;/f1&gt;&lt;f2&gt; Calc&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;Menus&lt;/f5&gt;&lt;f6&gt;,&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;select from the &lt;f8&gt;Menu &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;drop-down&lt;/f10&gt;&lt;/f9&gt; list the menu that you want to customize.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163123Z" creationid="steevie" creationdate="20160428T163123Z">
-        <seg>Nella sezione&lt;f0&gt; &lt;/f0&gt;&lt;f5&gt;Menu di&lt;/f5&gt; &lt;f1&gt;LibreOffice&lt;/f1&gt;&lt;f2&gt; Calc&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;/f3&gt;&lt;f6&gt;,&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;selezionate dall'elenco &lt;f9&gt;&lt;f10&gt;a tendina&lt;f9&gt;&lt;/f10&gt; &lt;f8&gt;Menu &lt;/f8&gt;&lt;/f9&gt; il menu che volete personalizzare.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163305Z" creationid="steevie" creationdate="20160428T163123Z">
+        <seg>Nella sezione&lt;f0&gt; &lt;/f0&gt;&lt;f5&gt;Menu di&lt;/f5&gt; &lt;f1&gt;LibreOffice&lt;/f1&gt;&lt;f2&gt; Calc&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;/f3&gt;&lt;f6&gt;,&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;selezionate dall'elenco &lt;f9&gt;&lt;f10&gt;a tendina&lt;/f10&gt; &lt;f8&gt;Menu &lt;/f8&gt;&lt;/f9&gt; il menu che volete personalizzare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10406,6 +10430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The commands available for the selected menu are shown in the central part of the dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163452Z" creationid="steevie" creationdate="20160428T163452Z">
+        <seg>I comandi disponibili per il menu selezionato sono mostrati nella parte centrale della finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The contributors to that book are:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084421Z">
@@ -10763,6 +10795,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T173546Z" creationid="Luciano B." creationdate="20160325T171943Z">
         <seg>È disponibile una sola impostazione comune valida per l'intero documento PDF: PDF (invia l'intero documento), &lt;/f8&gt;&lt;is9/&gt;&lt;f10&gt;FDF&lt;/f10&gt;&lt;ie11/&gt;&lt;f12&gt; (invia i contenuti del controllo), HTML e XML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These actions are described in the following sections.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163457Z" creationid="steevie" creationdate="20160428T163457Z">
+        <seg>Queste azioni sono illustrate in dettaglio nelle sezioni seguenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11791,6 +11831,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the up and down arrows next to the Entries list to move the selected menu item to a different position.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163458Z" creationid="steevie" creationdate="20160428T163458Z">
+        <seg>Usate le frecce su e giù poste accanto all'elenco delle Voci per spostare l'elemento del menu selezionato in una posizione diversa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use this page to choose whether to use Calc or Excel syntax, as well as choosing which separators you prefer to use in formulas.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T151603Z" creationid="steevie" creationdate="20160428T151603Z">
@@ -12351,6 +12399,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you have finished making all your changes, click &lt;f0&gt;OK&lt;/f0&gt; to save them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163500Z" creationid="steevie" creationdate="20160428T163500Z">
+        <seg>Una volte terminate tutte le modifiche, fate clic su &lt;f0&gt;OK&lt;/f0&gt; per salvarle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you open a spreadsheet document that is in shared mode, a message appears stating that the document is in shared mode and that some features are not available in this mode.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T155129Z" creationid="Luciano B." creationdate="20160411T155129Z">
@@ -12659,6 +12715,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160216T071818Z">
         <seg>Potete variare diverse impostazioni attraverso gli stili di pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also add commands to a menu by clicking on the &lt;f4&gt;Add&lt;/f4&gt; button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163457Z" creationid="steevie" creationdate="20160428T163457Z">
+        <seg>È possibile aggiungere comandi a un menu facendo clic sul pulsante &lt;f4&gt;Importa&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13299,6 +13363,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160428T155435Z" creationid="luciano" creationdate="20160428T155420Z">
         <seg>confronto tra documenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>creating</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163502Z" creationid="steevie" creationdate="20160428T163502Z">
+        <seg>creare</seg>
       </tuv>
     </tu>
     <tu>
