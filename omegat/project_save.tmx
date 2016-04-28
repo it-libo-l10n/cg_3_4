@@ -1478,6 +1478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Choose &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Tools &gt; Customize &gt; Toolbars&lt;/f2&gt; from the menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165327Z" creationid="steevie" creationdate="20160428T165327Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Scegliete&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Strumenti &gt; Personalizza &gt; Barre degli strumenti&lt;/f2&gt; dalla barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Click &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;OK&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;.&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T152820Z">
@@ -4342,6 +4350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating a new toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165236Z" creationid="steevie" creationdate="20160428T165236Z">
+        <seg>Creare una nuova barra degli strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating a spreadsheet from a template</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T102829Z">
@@ -7126,6 +7142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the &lt;f0&gt;Save In&lt;/f0&gt; drop-down list, choose whether to save this changed toolbar for Calc or for a selected document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165116Z" creationid="steevie" creationdate="20160428T165116Z">
+        <seg>Nel menu a tendina &lt;f0&gt;Salva in&lt;/f0&gt; scegliete se salvare la barra degli strumenti modificata per Calc oppure per il documento selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the &lt;is0/&gt;Formatting toolbar&lt;ie1/&gt;, &lt;f2&gt;the three boxes on the left are the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Apply Style&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Font Name&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;, and &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Font Size&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; lists&lt;/f11&gt; (see &lt;t12&gt;Figure 9&lt;/t12&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T145142Z" creationid="michele" creationdate="20160414T145142Z">
@@ -7250,6 +7274,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163305Z" creationid="steevie" creationdate="20160428T163123Z">
         <seg>Nella sezione&lt;f0&gt; &lt;/f0&gt;&lt;f5&gt;Menu di&lt;/f5&gt; &lt;f1&gt;LibreOffice&lt;/f1&gt;&lt;f2&gt; Calc&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;/f3&gt;&lt;f6&gt;,&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;selezionate dall'elenco &lt;f9&gt;&lt;f10&gt;a tendina&lt;/f10&gt; &lt;f8&gt;Menu &lt;/f8&gt;&lt;/f9&gt; il menu che volete personalizzare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the section&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;LibreOffice&lt;/f1&gt;&lt;f2&gt; Calc&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;Toolbars&lt;/f5&gt;&lt;f6&gt;,&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;select from the &lt;f8&gt;Toolbar &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;drop-down&lt;/f10&gt;&lt;/f9&gt; list the toolbar that you want to customize.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165211Z" creationid="steevie" creationdate="20160428T165211Z">
+        <seg>Nella sezione&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Barre degli strumenti LibreOffice Calc&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, &lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;selezionate dall'elenco a tendina &lt;f5&gt;Barra degli strumenti&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;/f7&gt; la barra che volete personalizzare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11063,6 +11095,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These actions are described below.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165226Z" creationid="steevie" creationdate="20160428T165226Z">
+        <seg>Queste azioni sono illustrate di seguito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These actions are described in the following sections.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163457Z" creationid="steevie" creationdate="20160428T163457Z">
@@ -11591,10 +11631,26 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To create a new toolbar:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165239Z" creationid="steevie" creationdate="20160428T165239Z">
+        <seg>Per creare una nuova barra degli strumenti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To customize &lt;is0/&gt;menus&lt;ie1/&gt;&lt;i2/&gt;:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T162409Z" creationid="steevie" creationdate="20160428T162409Z">
         <seg>Per personalizzare &lt;is0/&gt;menu&lt;ie1/&gt;&lt;i2/&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To customize a toolbar:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165035Z" creationid="steevie" creationdate="20160428T165035Z">
+        <seg>Per personalizzare una barra degli strumenti:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13227,6 +13283,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T161205Z" creationid="Luciano B." creationdate="20160329T161205Z">
         <seg>Potete confrontare questa chiave ricevuta e la chiave pubblica presente sul sito web dell'autorità di certificazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can create a new toolbar by clicking on the &lt;f0&gt;New &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;button, or &lt;/f2&gt;&lt;/f1&gt;customize existing toolbars by clicking on the &lt;f3&gt;Toolbar&lt;/f3&gt; or &lt;f4&gt;Modify&lt;/f4&gt; buttons, and add commands to a toolbar by clicking on the &lt;f5&gt;Add&lt;/f5&gt; button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165221Z" creationid="steevie" creationdate="20160428T165221Z">
+        <seg>Potete creare una nuova barra degli strumenti facendo clic sul pulsante &lt;f0&gt;Nuovo&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;, oppure &lt;/f2&gt;&lt;/f1&gt;potete personalizzare una barra degli strumenti esistente facendo clic sui pulsanti &lt;f3&gt;Barra degli strumenti&lt;/f3&gt; oppure &lt;f4&gt;Modifica&lt;/f4&gt;, e aggiungere comandi a una barra degli strumenti facendo clic sul pulsante &lt;f5&gt;Importa&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
