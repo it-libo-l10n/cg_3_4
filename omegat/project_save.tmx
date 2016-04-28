@@ -1734,6 +1734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Click &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;OK&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt; to accept the change.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170850Z" creationid="steevie" creationdate="20160428T170850Z">
+        <seg>&lt;f0&gt;Fate clic su &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;OK&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt; per accettare la modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Click &lt;/f0&gt;&lt;f1&gt;OK&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T170032Z">
@@ -2022,10 +2030,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Next selec&lt;/f0&gt;t the required function from &lt;f1&gt;the &lt;/f1&gt;&lt;f2&gt;Category&lt;/f2&gt;&lt;f3&gt; and &lt;/f3&gt;&lt;f4&gt;Function&lt;/f4&gt; lists.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170847Z" creationid="steevie" creationdate="20160428T170847Z">
+        <seg>&lt;f0&gt;Poi selezio&lt;/f0&gt;nate la funzione richiesta da&lt;f1&gt;gli &lt;/f1&gt;elenchi &lt;f2&gt;Categoria&lt;/f2&gt;&lt;f3&gt; e &lt;/f3&gt;&lt;f4&gt;Funzione&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Now all of the changes are combined into one document and you can accept or reject the changes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160428T153849Z" creationid="luciano" creationdate="20160428T153849Z">
         <seg>&lt;f0&gt;Ora tutte le modifiche sono unite in un unico documento e potete accettare o rifiutare le modifiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Now select the desired shortcut keys &lt;/f0&gt;in the &lt;f1&gt;&lt;f2&gt;Shortcut keys&lt;/f2&gt;&lt;/f1&gt; list&lt;f3&gt; and click the &lt;/f3&gt;&lt;f4&gt;Modify&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt; button at the upper right&lt;/f6&gt;&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170849Z" creationid="steevie" creationdate="20160428T170849Z">
+        <seg>&lt;f0&gt;Ora selezionate la combinazione di tasti desiderata &lt;/f0&gt;nell'elenco &lt;f1&gt;&lt;f2&gt;Tasti di scelta rapida&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; e fate clic sul pulsante &lt;/f3&gt;&lt;f4&gt;Cambia&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt; in alto a destra&lt;/f6&gt;&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2118,6 +2142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Select &lt;/f0&gt;&lt;f1&gt;Tools &gt; Customize &gt; Keyboard&lt;/f1&gt;&lt;f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170606Z" creationid="steevie" creationdate="20160428T170606Z">
+        <seg>&lt;f0&gt;Selezionate &lt;/f0&gt;&lt;f1&gt;Strumenti &gt; Personalizza &gt; Tastiera&lt;/f1&gt;&lt;f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Select the &lt;/f0&gt;&lt;f1&gt;Header on&lt;/f1&gt;&lt;f2&gt; option.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T170125Z">
@@ -2146,6 +2178,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084253Z">
         <seg>&lt;f0&gt;Maiusc&lt;/f0&gt;+&lt;f1&gt;z&lt;/f1&gt;+&lt;f2&gt;F5&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Shortcut keys that are greyed-out in the listing on the Customize dialog, such as &lt;/f0&gt;&lt;f1&gt;F1&lt;/f1&gt;&lt;f2&gt; and &lt;/f2&gt;&lt;f3&gt;F10,&lt;/f3&gt;&lt;f4&gt; are &lt;/f4&gt;not &lt;f5&gt;available for reassignment.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170600Z" creationid="steevie" creationdate="20160428T170600Z">
+        <seg>&lt;f0&gt;Le combinazioni di tasti che appaiono marcate in grigio nell'elenco della finestra di dialogo Personalizza, come &lt;/f0&gt;&lt;f1&gt;F1&lt;/f1&gt;&lt;f2&gt; e &lt;/f2&gt;&lt;f3&gt;F10,&lt;/f3&gt;&lt;f4&gt;non &lt;/f4&gt;&lt;f5&gt;possono essere riassegnate.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2222,6 +2262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;To adapt shortcut keys to your needs, use the &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;Customize dialog&lt;/f2&gt;&lt;f3&gt;, as described below.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170603Z" creationid="steevie" creationdate="20160428T170603Z">
+        <seg>&lt;f0&gt;Per adattare le combinazioni di tasti alle vostre esigenze, usate la &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;finestra di dialogo Personalizza&lt;/f2&gt;&lt;f3&gt;, come descritto di seguito.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;To change the color that indicates changes, select &lt;/f0&gt;&lt;f1&gt;Tools &gt; Options &gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;LibreOffice&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Calc &gt; Changes&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160423T143500Z" creationid="luciano" creationdate="20160423T143500Z">
@@ -2234,6 +2282,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T151642Z">
         <seg>&lt;f0&gt;Per definire un intervallo di stampa, utilizzate la stessa procedura impiegata per etichettare un'area della tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;To have the shortcut key assignment available only with Calc, select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Calc&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; in the upper right corner of the page; otherwise select &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;LibreOffice&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; to make it available to every component.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170843Z" creationid="steevie" creationdate="20160428T170843Z">
+        <seg>&lt;f0&gt;Per disporre dell'assegnazione di una combinazione di tasti solo per Calc, selezionate &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Calc&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; nell'angolo in alto a destra della pagina; altrimenti selezionate &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;LibreOffice&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; per renderlo disponibile per tutti i componenti&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10618,6 +10674,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143121Z" creationid="steevie" creationdate="20160427T143121Z">
         <seg>Overflow di testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;/f2&gt;&lt;f3&gt;Keyboard&lt;/f3&gt;&lt;f4&gt; page of the Customize dialog opens.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170648Z" creationid="steevie" creationdate="20160428T170648Z">
+        <seg>Si aprirà la pagina &lt;/f2&gt;&lt;f3&gt;Tastiera&lt;/f3&gt;&lt;f4&gt; della finestra di dialogo Personalizza.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
