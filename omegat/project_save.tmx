@@ -2406,6 +2406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;You can also define shortcut key combinations that will run macros.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172803Z" creationid="steevie" creationdate="20160428T172803Z">
+        <seg>&lt;f0&gt;Potete anche definire combinazioni di tasti che eseguono macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;You can change the colors Calc uses for notes by selecting &lt;/f0&gt;&lt;f1&gt;Tools &gt; Options &gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;LibreOffice &gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;Appearance&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160424T134042Z" creationid="luciano" creationdate="20160424T134042Z">
@@ -11587,6 +11595,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T151247Z" creationid="Luciano B." creationdate="20160329T151247Z">
         <seg>Le selezioni sono autoesplicative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These shortcut keys are strictly user-defined; none are built in.&lt;/f0&gt; For more information on macros, see Chapter 12, Calc Macros.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T173035Z" creationid="steevie" creationdate="20160428T173035Z">
+        <seg>Tutte queste combinazioni di tasti sono personalizzate dall0utente, nessuna è integrata.&lt;/f0&gt; Per maggiori informazioni sulle macro, fate riferimento al Capitolo 12, Macro di Calc.</seg>
       </tuv>
     </tu>
     <tu>
