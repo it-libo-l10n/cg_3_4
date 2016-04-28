@@ -2726,10 +2726,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add a tilde (~) in front of the letter that you want to use as an accelerator.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164229Z" creationid="steevie" creationdate="20160428T164229Z">
+        <seg>Aggiungete una tilde (~) davanti alla lettera che volete usare come acceleratore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add-in functions</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T101252Z">
         <seg>Funzioni aggiuntive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adding a command to a menu</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164252Z" creationid="steevie" creationdate="20160428T164252Z">
+        <seg>Aggiungere un comando a un menu</seg>
       </tuv>
     </tu>
     <tu>
@@ -3178,6 +3194,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T150737Z" creationid="steevie" creationdate="20160428T150737Z">
         <seg>Cerca autonomamente diciture righe/colonne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Back on the Customize dialog, you can use the up and down arrow buttons to arrange the commands in your preferred sequence.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164422Z" creationid="steevie" creationdate="20160428T164422Z">
+        <seg>Ritornati alla finestra di dialogo Personalizza, potete organizzare i comandi nella sequenza desiderata utilizzando i pulsanti freccia su e giù.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4026,6 +4050,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T160951Z" creationid="steevie" creationdate="20160418T160951Z">
         <seg>Fate clic sul pulsante &lt;f0&gt;Sicurezza delle macro&lt;/f0&gt; per aprire la finestra di dialogo &lt;i1/&gt;Sicurezza delle macro (qui non riportata), dove potete impostare il livello di sicurezza per l'esecuzione delle macro e specificare le fonti affidabili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Menu&lt;/f0&gt; button and select &lt;f1&gt;Rename&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164225Z" creationid="steevie" creationdate="20160428T164225Z">
+        <seg>Fate clic sul pulsante &lt;f0&gt;Menu&lt;/f0&gt; e selezionate &lt;f1&gt;Rinomina&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4886,6 +4918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Existing submenus can be edited to change the letter which is used to select them from the keyboard once the menu is open.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164147Z" creationid="steevie" creationdate="20160428T164147Z">
+        <seg>I sottomenu esistenti possono essere modificati per cambiare la lettera utilizzata per selezionarli dalla tastiera, quando il menu è aperto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Expand formatting</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T132629Z" creationid="steevie" creationdate="20160427T132629Z">
@@ -5470,6 +5510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;344&lt;/seq0&gt;: Adding a command to a menu</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164406Z" creationid="steevie" creationdate="20160428T164406Z">
+        <seg>Figura &lt;seq0&gt;344&lt;/seq0&gt;: aggiungere comandi a un menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Example of a tear-off toolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T133818Z" creationid="michele" creationdate="20160414T133818Z">
@@ -5714,6 +5762,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163246Z" creationid="steevie" creationdate="20160428T163246Z">
         <seg>Ad esempio, oltre ai menu &lt;f11&gt;File&lt;/f11&gt;, &lt;f12&gt;Modifica&lt;/f12&gt;, &lt;f13&gt;Visualizza&lt;/f13&gt;, e così via, ci sono i menu &lt;f14&gt;File &lt;/f14&gt;|&lt;f15&gt; Invia&lt;/f15&gt; e &lt;f16&gt;File &lt;/f16&gt;|&lt;f17&gt;Modelli&lt;/f17&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, to select the &lt;f0&gt;Send&lt;/f0&gt; submenu command by pressing &lt;f1&gt;&lt;f2&gt;S&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt; (after opening the File menu using &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;Alt+F&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;)&lt;/f7&gt;&lt;/f6&gt;, enter &lt;f8&gt;&lt;f9&gt;~Send&lt;/f9&gt;&lt;/f8&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164233Z" creationid="steevie" creationdate="20160428T164233Z">
+        <seg>Ad esempio, per selezionare il comando del sottomenu &lt;f0&gt;Invia&lt;/f0&gt; premendo &lt;f1&gt;&lt;f2&gt;I&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt; (dopo avere aperto il menu File usando &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;Alt+F&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;)&lt;/f7&gt;&lt;/f6&gt;, inserite &lt;f8&gt;&lt;f9&gt;~Invia&lt;/f9&gt;&lt;/f8&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6882,6 +6938,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160315T170846Z">
         <seg>Oltre a stampare l'intero documento, potete scegliere di stampare singole pagine, intervalli di pagine, o una selezione del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition to renaming, you can allocate a letter in a custom menu’s name, which will become underlined, to be used as a keyboard shortcut, that allows you to select that menu when you press &lt;f0&gt;Alt&lt;/f0&gt;+ that letter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164144Z" creationid="steevie" creationdate="20160428T164144Z">
+        <seg>Oltre a rinominare, potete specificare una lettera nel nome di un menu personalizzato, che diverrà sottolineata; in tal modo la lettera verrà utilizzata come scorciatoia da tastiera, permettendovi di selezionare il menu quando premete &lt;f0&gt;Alt&lt;/f0&gt;+ la lettera scelta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8222,6 +8286,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the Add Commands dialog, select a category and then the command, and click &lt;f0&gt;Add&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164413Z" creationid="steevie" creationdate="20160428T164413Z">
+        <seg>Nella finestra di dialogo Aggiungi comandi, selezionate una categoria, quindi il comando e poi fate clic su &lt;f0&gt;Aggiungi&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Customize dialog, select the menu in the Menu list and click the &lt;f1&gt;Add&lt;/f1&gt; button in the Menu Content section of the dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164400Z" creationid="steevie" creationdate="20160428T164400Z">
+        <seg>Nella finestra di dialogo Personalizza, selezionate il menu nell'elenco dei Menu e fate clic sul pulsante &lt;f1&gt;Importa&lt;/f1&gt; nella sezione Contenuto del menu della finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the Export dialog, specify a file name for the exported document, then select the XHTML in the &lt;f4&gt;File format&lt;/f4&gt; list and click the &lt;f5&gt;Export&lt;/f5&gt; button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T151511Z" creationid="Luciano B." creationdate="20160329T151511Z">
@@ -9262,6 +9342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a menu or menu entry.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164216Z" creationid="steevie" creationdate="20160428T164216Z">
+        <seg>Selezionate un menu o una voce del menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the &lt;f0&gt;Properties&lt;/f0&gt; button to display a printer-specific dialog where you can choose portrait or landscape &lt;i1/&gt;orientation, which paper tray to use, and the paper size to print on.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T095354Z">
@@ -10198,6 +10286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Submenus are easily identified in the Entries list by a small black triangle on the right hand side of the name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164141Z" creationid="steevie" creationdate="20160428T164141Z">
+        <seg>Un piccolo triangolo nero a destra del nome permette di riconoscere facilmente i sottomenu nella lista delle Voci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>T.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084429Z">
@@ -10530,6 +10626,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T122557Z" creationid="steevie" creationdate="20160421T122557Z">
         <seg>Il comportamento predefinito di molti componenti di LibreOffice richiede il &lt;f0&gt;Ctrl+clic&lt;/f0&gt; su un collegamento ipertestuale per aprire il documento collegato ma è possibile scegliere di aprire collegamenti ipertestuali facendo un solo click.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The dialog remains open, so you can select several commands.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164415Z" creationid="steevie" creationdate="20160428T164415Z">
+        <seg>La finestra di dialogo resta aperta, affinché possiate selezionare più comandi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11035,6 +11139,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T141423Z" creationid="Luciano B." creationdate="20160325T171814Z">
         <seg>Ciò può essere utile per la visualizzazione del documento su dispositivi con schermi differenti, e quando vengono usati programmi appositi per la lettura sullo schermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This changes it from the default &lt;f10&gt;&lt;f11&gt;d&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164244Z" creationid="steevie" creationdate="20160428T164244Z">
+        <seg>In tal modo si modifica l'impostazione predefinita, che non prevede scorciatoie per la selezione del comando (per le versioni di LibreOffice meno recenti)&lt;f10&gt;&lt;f11&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12423,6 +12535,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When allocating a shortcut to custom menus, be careful to not use an existing shortcut letter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164250Z" creationid="steevie" creationdate="20160428T164250Z">
+        <seg>Quando assegnate una scorciatoia ai menu personalizzati, assicuratevi di non utilizzare una lettera già utilizzata per un'altra scorciatoia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When done, click outside the comment to deselect it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160424T135428Z" creationid="luciano" creationdate="20160424T135428Z">
@@ -12523,6 +12643,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160423T143626Z" creationid="luciano" creationdate="20160423T143626Z">
         <seg>Una volta terminato di modificare il documento, potete inviarlo all'allenatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you have finished adding commands, click &lt;f1&gt;Close&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164417Z" creationid="steevie" creationdate="20160428T164417Z">
+        <seg>Quando avete terminato di aggiungere comandi, fate clic su &lt;f1&gt;Chiudi&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12835,6 +12963,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165332Z" creationid="Luciano B." creationdate="20160325T165332Z">
         <seg>Vi verrà chiesto di inserire il percorso e il nome del file PDF da creare, e di fare clic su &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;Salva&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; per esportare il file.&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can &lt;i0/&gt;add commands to the supplied menus and to menus you have created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164259Z" creationid="steevie" creationdate="20160428T164259Z">
+        <seg>Potete &lt;i0/&gt;aggiungere comandi ai menu forniti e ai menu da voi creati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13347,6 +13483,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160423T144321Z" creationid="luciano" creationdate="20160423T144321Z">
         <seg>aggiungere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>adding commands</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164258Z" creationid="steevie" creationdate="20160428T164258Z">
+        <seg>aggiungere comandi</seg>
       </tuv>
     </tu>
     <tu>
@@ -13883,6 +14027,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163707Z" creationid="steevie" creationdate="20160428T163707Z">
         <seg>modifica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>modifying entries</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164424Z" creationid="steevie" creationdate="20160428T164424Z">
+        <seg>modificare le voci</seg>
       </tuv>
     </tu>
     <tu>
