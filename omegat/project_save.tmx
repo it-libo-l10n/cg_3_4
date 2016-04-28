@@ -3030,6 +3030,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatically find column and row labels</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T150737Z" creationid="steevie" creationdate="20160428T150737Z">
+        <seg>Cerca autonomamente diciture righe/colonne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Barbara Duprey</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090306Z">
@@ -9128,8 +9136,8 @@
       <tuv lang="EN">
         <seg>Specifies that regular expressions are enabled when searching and also for character string comparisons.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T150236Z" creationid="steevie" creationdate="20160428T150236Z">
-        <seg>Indica che le espressioni regolari sono abilitate sia durante la ricerca che per </seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T150620Z" creationid="steevie" creationdate="20160428T150236Z">
+        <seg>Indica che le espressioni regolari sono abilitate sia durante la ricerca che per il confronto di stringhe di caratteri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10321,8 +10329,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>This relates to the database functions, and to VLOOKUP, HLOOKUP and SEARCH.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T150246Z" creationid="steevie" creationdate="20160428T150246Z">
-        <seg>This relates to the database functions, and to VLOOKUP, HLOOKUP and SEARCH.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T150715Z" creationid="steevie" creationdate="20160428T150246Z">
+        <seg>Questo si riferisce alle funzioni di database e a VLOOKUP, HLOOKUP and SEARCH.</seg>
       </tuv>
     </tu>
     <tu>
