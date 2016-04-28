@@ -5454,6 +5454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Formula options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T151231Z" creationid="steevie" creationdate="20160428T151231Z">
+        <seg>Opzioni formule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Formulas</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T141955Z" creationid="steevie" creationdate="20160427T141955Z">
@@ -5978,6 +5986,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T144037Z" creationid="steevie" creationdate="20160427T143824Z">
         <seg>Quando l'opzione &lt;f0&gt;divisorio dei fogli&lt;/f0&gt; non è selezionata, è possibile passare da un foglio all'altro solo usando il Navigatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the &lt;f1&gt;Automatically find column and row labels&lt;/f1&gt; option is selected, you can write the following formula in cell A1: =SUM(Europe).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T151203Z" creationid="steevie" creationdate="20160428T151203Z">
+        <seg>Se l'opzione&lt;f1&gt;Cerca autonomamente diciture righe/colonne&lt;/f1&gt; è selezionata, potete scrivere la seguente formula in A1: =SOMMA(Europa).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6514,6 +6530,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T144721Z" creationid="steevie" creationdate="20160427T144721Z">
         <seg>Nella finestra di dialogo Opzioni, fate clic su &lt;f0&gt;&lt;f1&gt;LibreOffice&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; Calc &gt; &lt;/f2&gt;&lt;i3/&gt;&lt;f4&gt;Calcola&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Options dialog, choose &lt;f0&gt;&lt;f1&gt;LibreOffice&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; Calc &gt; Formula options&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T151306Z" creationid="steevie" creationdate="20160428T151306Z">
+        <seg>Nella finestra di dialogo Opzioni, selezionate su&lt;f0&gt;&lt;f1&gt;LibreOffice&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; Calc &gt; Formula&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
