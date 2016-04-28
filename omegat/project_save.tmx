@@ -1550,6 +1550,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;A file selection dialog opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160428T153228Z" creationid="luciano" creationdate="20160428T153228Z">
+        <seg>Si aprirà una finestra di selezione dei file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;After the documents merge, the Accept or Reject Changes dialog opens, as in &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figure 292&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;, showing changes by more than one reviewer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160428T153441Z" creationid="luciano" creationdate="20160428T153441Z">
+        <seg>&lt;f0&gt;Dopo l'unione dei documenti, si aprirà la finestra di dialogo After the documents merge, the Accept or Reject Changes dialog opens, as in &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figure 292&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;, showing changes by more than one reviewer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;After you have added a comment to a changed cell, you can see it by hovering the mouse pointer over the cell, as shown in &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figure 286&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160424T130332Z" creationid="luciano" creationdate="20160424T130332Z">
@@ -8672,8 +8688,8 @@
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;Edit &gt; Changes &gt; Merge Document&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160428T153049Z" creationid="luciano" creationdate="20160428T153049Z">
-        <seg>Selezionate &lt;f0&gt;Modifica &gt; Modifiche &gt; Unisci Documenti&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160428T153149Z" creationid="luciano" creationdate="20160428T153049Z">
+        <seg>Selezionate &lt;f0&gt;Modifica &gt; Modifiche &gt; Unisci documento&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8698,6 +8714,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153608Z">
         <seg>Selezionate &lt;f0&gt;Inserisci &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Interruzione di pagina&lt;/f3&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select a file you want to merge and click &lt;/f0&gt;&lt;f1&gt;OK&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160428T153315Z" creationid="luciano" creationdate="20160428T153315Z">
+        <seg>Selezionate un file che volete unire e fate clic su &lt;/f0&gt;&lt;f1&gt;OK&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
