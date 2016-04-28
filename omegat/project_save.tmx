@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>(It will appear on the menu bar itself after you save your customizations.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163622Z" creationid="steevie" creationdate="20160428T163622Z">
+        <seg>(apparirà sulla barra dei menu dopo aver salvato la personalizzazione).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Optional) Click &lt;f0&gt;Edit &gt; Changes &gt; Protect Records&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160422T155402Z" creationid="luciano" creationdate="20160422T155402Z">
@@ -2790,6 +2798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After creating a new menu, you need to add some commands to it, as described in “&lt;bf0&gt;Adding a command to a menu&lt;/bf0&gt;” on page &lt;bf1&gt;342&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163637Z" creationid="steevie" creationdate="20160428T163626Z">
+        <seg>Dopo aver creato un nuovo menu, è necessario aggiungervi dei comandi, come descritto in “&lt;bf0&gt;Aggiungere un comando a un menu&lt;/bf0&gt;” a pagina &lt;bf1&gt;342&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After defining a print range, you can add more cells to it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T161153Z">
@@ -3914,6 +3930,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T161644Z" creationid="Luciano B." creationdate="20160329T161644Z">
         <seg>Fate clic su &lt;f0&gt;OK&lt;/f0&gt; per aggiungere la chiave pubblica nel file salvato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163613Z" creationid="steevie" creationdate="20160428T163613Z">
+        <seg>Fate clic su &lt;f0&gt;OK&lt;/f0&gt; per salvare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5430,6 +5454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;343&lt;/seq0&gt;: Adding a new menu</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163648Z" creationid="steevie" creationdate="20160428T163629Z">
+        <seg>Figura &lt;seq0&gt;343&lt;/seq0&gt;: aggiungere un nuovo menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Example of a tear-off toolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T133818Z" creationid="michele" creationdate="20160414T133818Z">
@@ -6926,6 +6958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the &lt;f0&gt;Menus&lt;/f0&gt; page of the Customize dialog, click &lt;f1&gt;New&lt;/f1&gt; to display the dialog shown in &lt;t2&gt;Figure 343&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163548Z" creationid="steevie" creationdate="20160428T163548Z">
+        <seg>Nella pagina &lt;f0&gt;Menu&lt;/f0&gt; della finestra di dialogo Personalizza, fate clic su &lt;f1&gt;Nuovo&lt;/f1&gt; per visualizzare la finestra di dialogo mostrata in &lt;t2&gt;Figura 343&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the &lt;f0&gt;Page sides&lt;/f0&gt; section, select whether to print all pages or only some pages.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160314T141832Z">
@@ -7810,6 +7850,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T160051Z" creationid="steevie" creationdate="20160418T160051Z">
         <seg>Cambiate i componenti del colore secondo necessità e fate clic su &lt;f0&gt;OK&lt;/f0&gt; per uscire dalla finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modifying existing menus</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163702Z" creationid="steevie" creationdate="20160428T163702Z">
+        <seg>Modificare menu esistenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -10583,6 +10631,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The new menu now appears on the list of menus in the Customize dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163616Z" creationid="steevie" creationdate="20160428T163616Z">
+        <seg>Il nuovo menu appare ora nella lista dei menu nella finestra di dialogo Personalizzare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The newly defined color is now listed in the Color table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T155737Z" creationid="steevie" creationdate="20160418T155737Z">
@@ -11759,6 +11815,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Type a name for your new menu in the &lt;f0&gt;Menu name&lt;/f0&gt; box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163552Z" creationid="steevie" creationdate="20160428T163552Z">
+        <seg>Digitate un nome per il nuovo menu nel campo &lt;f0&gt;Nome del menu&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Type the text of your comment in the box.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160424T133214Z" creationid="luciano" creationdate="20160424T133214Z">
@@ -11827,6 +11891,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T164106Z">
         <seg>Potete usare le opzioni di scala per controllare il numero di pagine su cui i dati verranno stampati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the up and down arrow buttons to move the new menu into the required position on the menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163555Z" creationid="steevie" creationdate="20160428T163555Z">
+        <seg>Usate i pulsanti freccia su e giù per spostare il nuovo menu nella posizione desiderata sulla barra dei menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13747,6 +13819,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160428T151831Z" creationid="luciano" creationdate="20160428T151831Z">
         <seg>unire documenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>modifying</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163707Z" creationid="steevie" creationdate="20160428T163707Z">
+        <seg>modifica</seg>
       </tuv>
     </tu>
     <tu>
