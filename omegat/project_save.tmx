@@ -2742,6 +2742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A file browser window opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T173315Z" creationid="steevie" creationdate="20160428T173315Z">
+        <seg>Si aprirà una finestra di esplorazione file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A list of subsections drops down.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T145200Z" creationid="steevie" creationdate="20160418T145139Z">
@@ -3118,6 +3126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although individual extensions can be found in different places, the official &lt;f0&gt;LibreOffice&lt;/f0&gt; extension repository is at &lt;a1&gt;http://extensions.libreoffice.org/&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T173141Z" creationid="steevie" creationdate="20160428T173141Z">
+        <seg>Sebbene sia possibile trovare le singole estensioni in posti differenti, il deposito ufficiale delle estensioni di &lt;f0&gt;LibreOffice&lt;/f0&gt;si trova all'indirizzo &lt;a1&gt;http://extensions.libreoffice.org/&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Although one sheet may print on several pages (pieces of paper), only one page style can be applied to a sheet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160216T071508Z">
@@ -3130,6 +3146,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170555Z" creationid="steevie" creationdate="20160428T170306Z">
         <seg>Sebbene sia semplice r&lt;/f5&gt;iportare&lt;f6&gt; le assegnazioni di tasti di scelta rapida a quelle predefinite di. &lt;/f6&gt;&lt;f7&gt;LibreOffice&lt;/f7&gt;&lt;f8&gt;, modificare alcune combinazioni di tasti comuni può provocare confusione, specialmente se condividete il vostro computer con altri utenti.&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An &lt;i0/&gt;extension is a package that can be installed into &lt;f1&gt;LibreOffice&lt;/f1&gt; to add new functionality.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T173043Z" creationid="steevie" creationdate="20160428T173043Z">
+        <seg>Un'&lt;i0/&gt;estensione è un pacchetto che può essere installato all'interno di &lt;f1&gt;LibreOffice&lt;/f1&gt; per aggiungere nuove funzionalità.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3954,6 +3978,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T162311Z" creationid="steevie" creationdate="20160428T162036Z">
         <seg>Fate una spunta su &lt;f0&gt;Usa i caratteri di sistema per l'interfaccia utente&lt;/f0&gt; e fate c&lt;f1&gt;lic &lt;/f1&gt;su &lt;f2&gt;OK&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check the descriptions to see what licenses and fees apply to the ones that interest you.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T173201Z" creationid="steevie" creationdate="20160428T173201Z">
+        <seg>Consultate la descrizione per sapere quali licenze e contributi si applicano a quelle che sono di vostro interesse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4950,6 +4982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download an extension and save it anywhere on your computer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T173228Z" creationid="steevie" creationdate="20160428T173228Z">
+        <seg>Scaricate l'estensione e salvatela sul vostro computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Drawing objects</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T164015Z">
@@ -5890,6 +5930,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T100049Z">
         <seg>Funzioni di analisi finanziaria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Find and select the extension you want to install and click &lt;f0&gt;Open&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T173317Z" creationid="steevie" creationdate="20160428T173317Z">
+        <seg>Trovate e selezionate l'estensione che volete installare e fate clic su &lt;f0&gt;Apri&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7222,6 +7270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In &lt;f0&gt;LibreOffice&lt;/f0&gt;, select &lt;f1&gt;Tools &gt; &lt;s2/&gt;Extension Manager&lt;/f1&gt; from the menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T173249Z" creationid="steevie" creationdate="20160428T173249Z">
+        <seg>In &lt;f0&gt;LibreOffice&lt;/f0&gt;, selezionate &lt;f1&gt;Strumenti &gt; &lt;s2/&gt;Gestione Estensioni&lt;/f1&gt; dalla barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In &lt;f0&gt;Tools &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Options &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;LibreOffice&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; Security &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;&gt;&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; Options&lt;/f15&gt;, you can set Calc to remind (warn) you when files contain certain information and remove personal information automatically on saving.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T162225Z" creationid="Luciano B." creationdate="20160329T162225Z">
@@ -7450,6 +7506,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T145142Z" creationid="michele" creationdate="20160414T145142Z">
         <seg>Nella &lt;is0/&gt;barra degli strumenti di formattazione &lt;ie1/&gt;, &lt;f2&gt;i tre riquadri sulla sinistra sono &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Applica Stile&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Nome del carattere &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;, e &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Dimensione del Carattere &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt; (vedi&lt;t12&gt;Figura 9&lt;/t12&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Extension Manager dialog, click &lt;f3&gt;Add&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T173309Z" creationid="steevie" creationdate="20160428T173309Z">
+        <seg>Nella finestra di dialogo Gestione estensioni, fate clic su &lt;f3&gt;Aggiungi&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7762,6 +7826,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T164458Z" creationid="Luciano B." creationdate="20160325T164458Z">
         <seg>Inserisce il numero totale di pagine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing extensions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T173202Z" creationid="steevie" creationdate="20160428T173202Z">
+        <seg>Installazione delle estensioni</seg>
       </tuv>
     </tu>
     <tu>
@@ -10350,6 +10422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some extensions are free of charge; others are available for a fee.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T173157Z" creationid="steevie" creationdate="20160428T173157Z">
+        <seg>Alcune estensioni sono gratuite; altre sono soggette al pagamento di un contributo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some keystrokes and menu items are different on a Mac from those used in Windows and Linux.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084131Z">
@@ -11190,6 +11270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The extension begins installing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T173321Z" creationid="steevie" creationdate="20160428T173321Z">
+        <seg>Si avvierà l'installazione dell'applicazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first button on the top left of the window, &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;, is for cell styles and the second, &lt;df2&gt;&lt;di3/&gt;&lt;s4&gt;page_styles_button&lt;/s4&gt;&lt;/df2&gt;, is for page styles.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160330T085111Z" creationid="briga" creationdate="20160330T085002Z">
@@ -11979,6 +12067,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T163913Z">
         <seg>Barra del titolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To &lt;i0/&gt;install an extension, follow these steps:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T173223Z" creationid="steevie" creationdate="20160428T173223Z">
+        <seg>Per &lt;i0/&gt;installare una estensione, seguite questi passaggi:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13247,6 +13343,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When the installation is complete, the extension is listed in the Extension Manager dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T173329Z" creationid="steevie" creationdate="20160428T173329Z">
+        <seg>Quando l'installazione è completa, l'estensione compare nell'elenco della finestra di dialogo Gestione estensioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When the spreadsheet is newly created, its name is &lt;f1&gt;Untitled X&lt;/f1&gt;, where &lt;f2&gt;X&lt;/f2&gt; is a number.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T150143Z">
@@ -14071,6 +14175,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You may be asked to accept a license agreement.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T173325Z" creationid="steevie" creationdate="20160428T173325Z">
+        <seg>È possibile che vi venga richiesto di accettare un contratto di licenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You may be new to office software, or you may be familiar with another office suite.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T101928Z">
@@ -14535,6 +14647,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>extensions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T173039Z" creationid="steevie" creationdate="20160428T173039Z">
+        <seg>estensioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>file sharing options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T160245Z" creationid="steevie" creationdate="20160418T160245Z">
@@ -14667,6 +14787,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T131538Z" creationid="steevie" creationdate="20160427T131538Z">
         <seg>Opzioni di impostazioni di immissione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>installing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T173210Z" creationid="steevie" creationdate="20160428T173210Z">
+        <seg>installazione</seg>
       </tuv>
     </tu>
     <tu>
