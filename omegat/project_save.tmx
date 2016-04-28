@@ -1654,6 +1654,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Be careful when reassigning your operating system’s or &lt;/f0&gt;&lt;f1&gt;LibreOffice&lt;/f1&gt;&lt;f2&gt;’s predefined shortcut keys.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170153Z" creationid="steevie" creationdate="20160428T170123Z">
+        <seg>&lt;f0&gt;Fate attenzione nel riassegnare i tasti di scelta rapida predefiniti del vostro sistema operativo o di &lt;/f0&gt;&lt;f1&gt;LibreOffice&lt;/f1&gt;&lt;f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Begin a group&lt;/f0&gt; adds a separator line after the highlighted entry.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164555Z" creationid="steevie" creationdate="20160428T164555Z">
@@ -4494,6 +4502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Custom icons must be 16 x 16 or 26 x 26 pixels in size and cannot contain more than 256 colors.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165950Z" creationid="steevie" creationdate="20160428T165950Z">
+        <seg>Le icone personalizzate devono avere le dimensioni di 16x16 o 26x26 pixel e non possono contenere più di 256 colori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Customizations to menus and toolbars can be saved in a template.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T144409Z" creationid="steevie" creationdate="20160418T144409Z">
@@ -4506,6 +4522,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164608Z" creationid="steevie" creationdate="20160428T164608Z">
         <seg>Personalizzare le &lt;i0/&gt;barre degli strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customizing keyboard shortcuts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170001Z" creationid="steevie" creationdate="20160428T170001Z">
+        <seg>Personalizzare i tasti di scelta rapida</seg>
       </tuv>
     </tu>
     <tu>
@@ -7090,6 +7114,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T152120Z" creationid="steevie" creationdate="20160428T152120Z">
         <seg>In addition to the supplied lists, you can define and edit your own lists, as described in “Defining a fill series” in Chapter 2, Entering, Editing, and Formatting Data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition to using the built-in &lt;i0/&gt;&lt;is1/&gt;keyboard shortcuts&lt;ie2/&gt; (listed in Appendix A), you can define your own.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170020Z" creationid="steevie" creationdate="20160428T170020Z">
+        <seg>Oltre a utilizzare le &lt;i0/&gt;&lt;is1/&gt;combinazioni di tasti&lt;ie2/&gt; integrate (elencate nell'Appendice A), è possibile definirne di proprie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13359,6 +13391,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can assign shortcuts to standard &lt;f3&gt;LibreOffice&lt;/f3&gt; functions or your own macros and save them for use with the entire &lt;f4&gt;LibreOffice&lt;/f4&gt; suite or only for Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170139Z" creationid="steevie" creationdate="20160428T170106Z">
+        <seg>Potete assegnare combinazioni di tasti alle funzioni standard di &lt;f3&gt;LibreOffice&lt;/f3&gt; oppure alle vostre macro e salvarle per l'utilizzo con l'intero pacchetto &lt;f4&gt;LibreOffice&lt;/f4&gt; o solo per Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can assign specific colors for insertions, deletions, and other changes, or you can let Calc assign colors based on the author of the change; in the latter case, one color will apply to all changes made by that author.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T153339Z" creationid="steevie" creationdate="20160428T153339Z">
@@ -13863,6 +13903,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>assigning</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170004Z" creationid="steevie" creationdate="20160428T170004Z">
+        <seg>assegnare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>blank page export</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T141844Z" creationid="Luciano B." creationdate="20160326T154151Z">
@@ -14275,6 +14323,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T144843Z" creationid="steevie" creationdate="20160427T144843Z">
         <seg>Riferimenti circolari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>keyboard shortcuts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170014Z" creationid="steevie" creationdate="20160428T170014Z">
+        <seg>combinazioni di tasti</seg>
       </tuv>
     </tu>
     <tu>
