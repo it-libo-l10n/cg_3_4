@@ -4520,8 +4520,8 @@
       <tuv lang="EN">
         <seg>Enable regular expressions in formulas</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T145721Z" creationid="steevie" creationdate="20160428T145721Z">
-        <seg>Attiva le espressioni regolari nelle formule</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T150244Z" creationid="steevie" creationdate="20160428T145721Z">
+        <seg>Permetti le espressioni regolari nelle formule</seg>
       </tuv>
     </tu>
     <tu>
@@ -9126,6 +9126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Specifies that regular expressions are enabled when searching and also for character string comparisons.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T150236Z" creationid="steevie" creationdate="20160428T150236Z">
+        <seg>Indica che le espressioni regolari sono abilitate sia durante la ricerca che per </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Specifies that the search criteria you set for the Calc database functions must match the whole cell exactly.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T151145Z" creationid="steevie" creationdate="20160427T151145Z">
@@ -10307,6 +10315,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T164652Z">
         <seg>Questa opzione può solo ridurre la dimensione di stampa; non la aumenterà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This relates to the database functions, and to VLOOKUP, HLOOKUP and SEARCH.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T150246Z" creationid="steevie" creationdate="20160428T150246Z">
+        <seg>This relates to the database functions, and to VLOOKUP, HLOOKUP and SEARCH.</seg>
       </tuv>
     </tu>
     <tu>
