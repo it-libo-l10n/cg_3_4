@@ -2782,6 +2782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding a command to a toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165628Z" creationid="steevie" creationdate="20160428T165628Z">
+        <seg>Aggiungere un comando a una barra degli strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding comments to changes</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T100034Z">
@@ -2858,6 +2866,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163637Z" creationid="steevie" creationdate="20160428T163626Z">
         <seg>Dopo aver creato un nuovo menu, è necessario aggiungervi dei comandi, come descritto in “&lt;bf0&gt;Aggiungere un comando a un menu&lt;/bf0&gt;” a pagina &lt;bf1&gt;342&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After creating a new toolbar, you need to add some commands to it, as described below.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165618Z" creationid="steevie" creationdate="20160428T165618Z">
+        <seg>Dopo aver creato una nuova barra degli strumenti è necessario aggiungervi dei comandi, come descritto di seguito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3986,6 +4002,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T161525Z" creationid="Luciano B." creationdate="20160329T161525Z">
         <seg>Fate clic su &lt;f0&gt;Aggiungi&lt;/f0&gt; per aggiungere una chiave pubblica al documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;New&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165532Z" creationid="steevie" creationdate="20160428T165532Z">
+        <seg>Fate clic su &lt;f0&gt;Nuovo&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6590,6 +6614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the list of available buttons for a toolbar does not include all the commands you want on that toolbar, you can add commands.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165631Z" creationid="steevie" creationdate="20160428T165631Z">
+        <seg>Se l'elenco dei pulsanti disponibili per una barra degli strumenti non include tutti i comandi che desiderate su quella barra degli strumenti, potete aggiungere dei comandi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the range A1:B1 is referenced and a new row is inserted under row 1, the reference is not expanded, since there is only a single cell in the vertical direction.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T135016Z" creationid="steevie" creationdate="20160427T134856Z">
@@ -7280,8 +7312,8 @@
       <tuv lang="EN">
         <seg>In the section&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;LibreOffice&lt;/f1&gt;&lt;f2&gt; Calc&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;Toolbars&lt;/f5&gt;&lt;f6&gt;,&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;select from the &lt;f8&gt;Toolbar &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;drop-down&lt;/f10&gt;&lt;/f9&gt; list the toolbar that you want to customize.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165211Z" creationid="steevie" creationdate="20160428T165211Z">
-        <seg>Nella sezione&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Barre degli strumenti LibreOffice Calc&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, &lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;selezionate dall'elenco a tendina &lt;f5&gt;Barra degli strumenti&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;/f7&gt; la barra che volete personalizzare.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165523Z" creationid="steevie" creationdate="20160428T165211Z">
+        <seg>Nella sezione&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Barre degli strumenti LibreOffice Calc&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, &lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;selezionate dall'elenco a tendina &lt;f5&gt;Barra degli strumenti&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;/f7&gt; la barra che volete personalizzare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8418,6 +8450,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160428T151513Z" creationid="luciano" creationdate="20160428T151513Z">
         <seg>Nella scheda Filtro di questa finestra di dialogo (non mostrata qui), potete scegliere come filtrare l'elenco delle modifiche: per data, autore, intervallo di celle, o commenti contenenti termini specifici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Name dialog, type the new toolbar's name and choose from the &lt;f1&gt;Save In&lt;/f1&gt; drop-down list where to save this new toolbar: for &lt;f2&gt;Calc&lt;/f2&gt; or for a selected document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165614Z" creationid="steevie" creationdate="20160428T165614Z">
+        <seg>Nella finestra di dialogo Nome, digitate il nome della nuova barra degli strumenti e scegliete dall'elenco a tendina &lt;f1&gt;Salva in&lt;/f1&gt; dove salvare il menu modificato: per &lt;f2&gt;Calc&lt;/f2&gt; oppure per il documento selezionato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10879,6 +10919,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The new toolbar now appears on the list of toolbars in the Customize dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165616Z" creationid="steevie" creationdate="20160428T165616Z">
+        <seg>La nuova barra degli strumenti compare ora nell'elenco delle barre degli strumenti nella finestra di dialogo Personalizza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The newly defined color is now listed in the Color table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T155737Z" creationid="steevie" creationdate="20160418T155737Z">
@@ -12795,6 +12843,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084339Z">
         <seg>Quando chiudete la finestra di dialogo dopo l'uso (normalmente, facendo clic su &lt;f0&gt;OK&lt;/f0&gt; oppure su un altro pulsante, le vostre modifiche vengono salvate e la finestra di dialogo viene chiusa), potete di nuovo lavorare con il vostro documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you create a new toolbar, you need to add commands to it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165632Z" creationid="steevie" creationdate="20160428T165632Z">
+        <seg>Quando create una nuova barra degli strumenti, è necessario aggiungervi dei comandi.</seg>
       </tuv>
     </tu>
     <tu>
