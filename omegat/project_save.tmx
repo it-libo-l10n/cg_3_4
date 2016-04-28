@@ -2718,6 +2718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After selecting the filter criteria, switch back to the List tab to see the results.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160428T151648Z" creationid="luciano" creationdate="20160428T151648Z">
+        <seg>Dopo aver specificato i criteri del filtro, tornate alla scheda Lista per visualizzare i risultati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After you have &lt;i0/&gt;protected the document, any user must enter the correct password in order to turn off protection and accept or reject changes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160422T154816Z" creationid="luciano" creationdate="20160422T154816Z">
@@ -7618,6 +7626,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T151511Z" creationid="Luciano B." creationdate="20160329T151511Z">
         <seg>Nella finestra di dialogo Esporta specificate un nome di file per il documento che state esportando, poi selezionate il formato XHTML nell'elenco &lt;f4&gt;Formato file&lt;/f4&gt; e fate clic sul pulsante &lt;f5&gt;Esporta&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Filter tab of this dialog (not shown here), you can choose how to filter the list of changes: by date, author, cell range, or comments containing specific terms.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160428T151513Z" creationid="luciano" creationdate="20160428T151513Z">
+        <seg>Nella scheda Filtro di questa finestra di dialogo (non mostrata qui), potete scegliere come filtrare l'elenco delle modifiche: per data, autore, intervallo di celle, o commenti contenenti termini specifici.</seg>
       </tuv>
     </tu>
     <tu>
