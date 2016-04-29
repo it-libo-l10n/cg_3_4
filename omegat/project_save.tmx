@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4042,6 +4042,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T164008Z">
         <seg>Diagrammi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Charts and graphs can be powerful ways to convey information to the reader.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160429T144542Z" creationid="emanuelegiusti" creationdate="20160429T144542Z">
+        <seg>Diagrammi e grafici possono essere potenti modi di trasmettere le informazioni al lettore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8262,6 +8270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice Calc offers a variety of different chart and graph formats for your data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160429T144638Z" creationid="emanuelegiusti" creationdate="20160429T144638Z">
+        <seg>ibreOffice Calc offre una varietà di differenti formati di diagrammi e grafici per i vostri dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice runs on Windows, Linux, and Mac OS X operating systems, each of which has several versions and can be customized by users (fonts, colors, themes, window managers).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084124Z">
@@ -9450,6 +9466,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160422T154521Z" creationid="luciano" creationdate="20160422T154521Z">
         <seg>Preparazione di un documento per la revisione (opzionale)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Presenting information visually</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160429T144437Z" creationid="emanuelegiusti" creationdate="20160429T144437Z">
+        <seg>Presentare informazioni visivamente</seg>
       </tuv>
     </tu>
     <tu>
