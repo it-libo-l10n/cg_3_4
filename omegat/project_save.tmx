@@ -1624,8 +1624,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;A colored border, with a dot in the upper left-hand corner, appears around a cell where changes were made (&lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figure 284&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160423T123901Z" creationid="luciano" creationdate="20160423T123832Z">
-        <seg>&lt;f0&gt;Apparirà un bordo colorato, con un punto nell'angolo in alto sinistra, attorno alla cella modificata (&lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figura 284&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160429T145816Z" creationid="luciano" creationdate="20160423T123832Z">
+        <seg>&lt;f0&gt;Apparirà un bordo colorato attorno alla cella modificata, con un punto nell'angolo in alto sinistra  (&lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figura 284&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1712,8 +1712,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Calc automatically adds to any recorded change a comment that describes what was changed (for example, &lt;/f0&gt;&lt;f1&gt;Cell B4 changed from ‘9’ to ‘4’&lt;/f1&gt;&lt;f2&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160423T144737Z" creationid="luciano" creationdate="20160423T144737Z">
-        <seg>&lt;f0&gt;Calc aggiunge automaticamente ad modifica registrata un commento che descrive cos'è stato cambiato (per esempio, &lt;/f0&gt;&lt;f1&gt;Cella B4 modificata da ‘9’ a ‘4’&lt;/f1&gt;&lt;f2&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160429T150031Z" creationid="luciano" creationdate="20160423T144737Z">
+        <seg>&lt;f0&gt;Calc aggiunge automaticamente ad ogni modifica registrata un commento che descrive cos'è stato cambiato (per esempio, &lt;/f0&gt;&lt;f1&gt;Cella B4 modificata da ‘9’ a ‘4’&lt;/f1&gt;&lt;f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3552,8 +3552,8 @@
       <tuv lang="EN">
         <seg>Begin editing the document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160423T123633Z" creationid="luciano" creationdate="20160423T123633Z">
-        <seg>Iniziate a modificare il documento.Begin editing the document.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160429T145747Z" creationid="luciano" creationdate="20160423T123633Z">
+        <seg>Iniziate a modificare il documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14457,8 +14457,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>You may want to explain your rationale for the changes.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160423T143803Z" creationid="luciano" creationdate="20160423T143803Z">
-        <seg>Potreste volere spiegare le ragioni delle modifiche.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160429T150000Z" creationid="luciano" creationdate="20160423T143803Z">
+        <seg>Potreste volere spiegare le logica seguita per le modifiche.</seg>
       </tuv>
     </tu>
     <tu>
