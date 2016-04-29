@@ -1766,6 +1766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Choose &lt;/f0&gt;&lt;f1&gt;File &gt; Versions&lt;/f1&gt;&lt;f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160429T141137Z" creationid="luciano" creationdate="20160429T141137Z">
+        <seg>&lt;f0&gt;Scegliete &lt;/f0&gt;&lt;f1&gt;File &gt; Versioni&lt;/f1&gt;&lt;f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Click &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;OK&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt; to accept the change.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170850Z" creationid="steevie" creationdate="20160428T170850Z">
@@ -5682,6 +5690,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160428T155319Z" creationid="luciano" creationdate="20160428T155319Z">
         <seg>Figura &lt;seq0&gt;293&lt;/seq0&gt;: Documenti uniti con colori differenti per gli autori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;294&lt;/seq0&gt;: Version management dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160429T141309Z" creationid="luciano" creationdate="20160429T141309Z">
+        <seg>Figura &lt;seq0&gt;294&lt;/seq0&gt;: La finestra di dialogo di Versioni</seg>
       </tuv>
     </tu>
     <tu>
@@ -11671,6 +11687,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The&lt;/f2&gt; Versions dialog &lt;f3&gt;opens.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160429T141242Z" creationid="luciano" creationdate="20160429T141242Z">
+        <seg>Si aprirà la finestra di dialogo &lt;/f2&gt; Versioni &lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There is only one common setting valid for the whole PDF document: PDF (sends the whole document), &lt;/f8&gt;&lt;is9/&gt;&lt;f10&gt;FDF&lt;/f10&gt;&lt;ie11/&gt;&lt;f12&gt; (sends the control contents), HTML, and XML.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T173546Z" creationid="Luciano B." creationdate="20160325T171943Z">
@@ -12715,6 +12739,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165926Z" creationid="steevie" creationdate="20160428T165926Z">
         <seg>Per utilizzare un'icona personalizzata, createla in un programma di grafica e importatela in &lt;f0&gt;LibreOffice&lt;/f0&gt; facendo clic sul pulsante &lt;f1&gt;Importa&lt;/f1&gt; nella finestra di dialogo Cambia icona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To use version management in Calc:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160429T141105Z" creationid="luciano" creationdate="20160429T141105Z">
+        <seg>Per utilizzare la gestione delle versioni in Cal:</seg>
       </tuv>
     </tu>
     <tu>
