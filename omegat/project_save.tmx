@@ -7086,6 +7086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you do a &lt;f0&gt;Save As...&lt;/f0&gt; of a document with different versions stored in it, the old versions are not saved in the new file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160429T141005Z" creationid="luciano" creationdate="20160429T141005Z">
+        <seg>Se scegliete &lt;f0&gt;Salva con nome...&lt;/f0&gt; di un documento con differenti versioni memorizzate in esso, le vecchie versioni non vengono salvate nel nuovo file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have activated the &lt;is0/&gt;snap grid&lt;ie1/&gt; but wish to move or create individual objects without snap positions, you can press the &lt;f2&gt;Ctrl&lt;/f2&gt; key to deactivate the snap grid for as long as needed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T155914Z" creationid="steevie" creationdate="20160428T155652Z">
@@ -14035,6 +14043,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T165312Z">
         <seg>Potete definire più stili di pagina per un foglio elettronico e assegnare differenti stili a fogli diversi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can do this by saving a copy of the document (under a different name) after each revision, or by using &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Calc’s&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; version feature.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160429T140832Z" creationid="luciano" creationdate="20160429T140832Z">
+        <seg>Potere farlo salvando una copia del documento (con nome differente) dopo ogni revisione, oppure utilizzare la caratteristica di &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Calc&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Salva la versione nuova.</seg>
       </tuv>
     </tu>
     <tu>
