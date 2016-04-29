@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6992,8 +6992,8 @@
       <tuv lang="EN">
         <seg>If the changes conflict, the Resolve Conflicts dialog is shown.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T162829Z" creationid="Luciano B." creationdate="20160411T162829Z">
-        <seg>Se le modifiche sono in conflitto, f the changes conflict, viene visualizzata la finestra di dialogo Risolvi conflitti.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160429T144405Z" creationid="Luciano B." creationdate="20160411T162829Z">
+        <seg>Se le modifiche sono in conflitto, viene visualizzata la finestra di dialogo Risolvi conflitti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8240,8 +8240,8 @@
       <tuv lang="EN">
         <seg>Later, you or another person can review the document and accept or reject each change.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160422T152153Z" creationid="luciano" creationdate="20160422T152153Z">
-        <seg>Successivamente voi o un'altra persona potrete può revisionare il documento e accettare o rifiutare ogni modifica.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160429T144705Z" creationid="luciano" creationdate="20160422T152153Z">
+        <seg>Successivamente voi o un'altra persona potrete revisionare il documento e accettare o rifiutare ogni modifica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13737,8 +13737,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>When you successfully save a shared spreadsheet, the document shows the latest version of all changes saved by all users.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160414T155615Z" creationid="luciano" creationdate="20160414T155615Z">
-        <seg>Quando salvate un foglio elettronico condiviso, il documento mostrerà la versione più recente di tutte le modifiche da parte di tutti gli utenti.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160429T144624Z" creationid="luciano" creationdate="20160414T155615Z">
+        <seg>Quando salvate con successo un foglio elettronico condiviso, il documento mostrerà la versione più recente di tutte le modifiche salvate da tutti gli utenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14145,8 +14145,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>You can choose to cancel the Save command for now, or retry saving later.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160414T155415Z" creationid="luciano" creationdate="20160414T155415Z">
-        <seg>Potete scegliere di cancellare il comando Salva per il momento, o riprovare a salvarlo successivamente.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160429T144517Z" creationid="luciano" creationdate="20160414T155415Z">
+        <seg>Potete scegliere di cancellare il comando Salva momentaneamente, o riprovare a salvarlo successivamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14489,8 +14489,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>You must decide for each conflict which version to keep, yours or the other person’s.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T162958Z" creationid="Luciano B." creationdate="20160411T162958Z">
-        <seg>Per ogni conflitto dovrete decidere quale versione da mantenere, la vostro o quella dell'altro utente.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160429T144436Z" creationid="Luciano B." creationdate="20160411T162958Z">
+        <seg>Per ogni conflitto dovrete decidere quale versione da mantenere, la vostra o quella dell'altro utente.</seg>
       </tuv>
     </tu>
     <tu>
