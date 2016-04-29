@@ -2750,6 +2750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A dialog opens where you can enter comments about this version.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160429T141516Z" creationid="luciano" creationdate="20160429T141516Z">
+        <seg>Si aprirà una finestra di dialogo dove potere inserire i commenti relativi a questa versione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A dialog similar to the one shown in &lt;t2&gt;Figure 343&lt;/t2&gt; (but without the &lt;f3&gt;Menu name&lt;/f3&gt; box) opens.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163950Z" creationid="steevie" creationdate="20160428T163950Z">
@@ -5704,8 +5712,16 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;294&lt;/seq0&gt;: Version management dialog</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160429T141309Z" creationid="luciano" creationdate="20160429T141309Z">
-        <seg>Figura &lt;seq0&gt;294&lt;/seq0&gt;: La finestra di dialogo di Versioni</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160429T141636Z" creationid="luciano" creationdate="20160429T141309Z">
+        <seg>Figura &lt;seq0&gt;294&lt;/seq0&gt;: Finestra di dialogo gestione delle versioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;295&lt;/seq0&gt;: Version comment dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160429T141704Z" creationid="luciano" creationdate="20160429T141527Z">
+        <seg>Figura &lt;seq0&gt;295&lt;/seq0&gt;: Finestra di dialogo commento della Versione</seg>
       </tuv>
     </tu>
     <tu>
