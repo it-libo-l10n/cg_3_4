@@ -3078,10 +3078,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All data that is changed, is marked as changed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160429T134652Z" creationid="luciano" creationdate="20160429T134652Z">
+        <seg>Ogni dato che è cambiato, viene contrassegnato come modificato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All data that is in your original document but is not in the edited document is identified as deleted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160429T134400Z" creationid="luciano" creationdate="20160429T134400Z">
-        <seg>Yutti i dati presenti nel vostro documento originale ma che non sono nel ll data that is in your original document but is not in the edited document is identified as deleted.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160429T134559Z" creationid="luciano" creationdate="20160429T134400Z">
+        <seg>Ogni dato presente nel vostro documento originale ma non nel documento modificato viene identificato come eliminato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6346,6 +6354,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T152632Z">
         <seg>Da questa finestra di dialogo potete impostare lo sfondo e lo stile del bordo dell'intestazione e del piè di pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From this point you can go through and accept or reject changes as you could normally.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160429T134803Z" creationid="luciano" creationdate="20160429T134803Z">
+        <seg>Da questo punto in poi potete accettare o rifiutare le modifiche come fareste normalmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15403,6 +15419,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T142723Z" creationid="steevie" creationdate="20160427T142708Z">
         <seg>evidenzia valore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>versions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160429T134814Z" creationid="luciano" creationdate="20160429T134814Z">
+        <seg>versioni</seg>
       </tuv>
     </tu>
     <tu>
