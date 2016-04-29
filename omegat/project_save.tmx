@@ -3078,6 +3078,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All data that is in your original document but is not in the edited document is identified as deleted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160429T134400Z" creationid="luciano" creationdate="20160429T134400Z">
+        <seg>Yutti i dati presenti nel vostro documento originale ma che non sono nel ll data that is in your original document but is not in the edited document is identified as deleted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All data that occurs in the edited document but not in the original is identified as inserted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160429T134445Z" creationid="luciano" creationdate="20160429T134308Z">
+        <seg>Ogni dato presente nel documento modificato ma non nell'originale è identificato come inserito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All documents in &lt;f0&gt;LibreOffice&lt;/f0&gt; are based on templates.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160213T104728Z">
