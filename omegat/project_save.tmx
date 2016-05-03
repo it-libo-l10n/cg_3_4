@@ -14783,6 +14783,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can associate a meaningful name to a range, which allows you to refer to the range using the meaningful name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160503T152447Z" creationid="steevie" creationdate="20160503T152447Z">
+        <seg>Si può associare un nome significativo a un intervallo, permettendo così di usare il nome per riferirsi all'intervallo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can change the action of the &lt;f0&gt;Print File Directly&lt;/f0&gt; icon, to send the document to the printer defined for the document, instead of the default printer for the computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160405T161218Z">
@@ -14867,6 +14875,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165221Z" creationid="steevie" creationdate="20160428T165221Z">
         <seg>Potete creare una nuova barra degli strumenti facendo clic sul pulsante &lt;f0&gt;Nuovo&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;, oppure &lt;/f2&gt;&lt;/f1&gt;potete personalizzare una barra degli strumenti esistente facendo clic sui pulsanti &lt;f3&gt;Barra degli strumenti&lt;/f3&gt; oppure &lt;f4&gt;Modifica&lt;/f4&gt;, e aggiungere comandi a una barra degli strumenti facendo clic sul pulsante &lt;f5&gt;Importa&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can create either a &lt;f0&gt;database range&lt;/f0&gt;, which has some database-like functionality, or a &lt;f1&gt;named range&lt;/f1&gt;, which does not.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160503T152656Z" creationid="steevie" creationdate="20160503T152656Z">
+        <seg>É possibile creare un &lt;f0&gt;Intervallo database &lt;/f0&gt;, che possiede alcune funzionalità come database, oppure un &lt;f1&gt;Intervallo con nome&lt;/f1&gt;, che non le ha.</seg>
       </tuv>
     </tu>
     <tu>
