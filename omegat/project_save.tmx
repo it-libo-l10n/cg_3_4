@@ -3222,6 +3222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although this document was initially created for macro programmers, the content should be accessible to all users.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160503T150050Z" creationid="steevie" creationdate="20160503T150050Z">
+        <seg>Nonostante questo documento sia stato creato per programmatori di macro, dovrebbe essere leggibile e fruibile da tutti gli utenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Although you can easily r&lt;/f5&gt;eset&lt;f6&gt; the shortcut key assignments to the &lt;/f6&gt;&lt;f7&gt;LibreOffice&lt;/f7&gt;&lt;f8&gt; defaults, changing some common shortcut keys can cause confusion, frustration and possible data loss or corruption, especially if other users share your computer.&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170555Z" creationid="steevie" creationdate="20160428T170306Z">
@@ -7202,6 +7210,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T152702Z" creationid="luciano" creationdate="20160429T141005Z">
         <seg>Se scegliete &lt;f0&gt;Salva con nome...&lt;/f0&gt; di un documento con memorizzate all'interno differenti versioni, le vecchie versioni non saranno salvate nel nuovo file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you do not use macros, then skip those portions that deal with macros.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160503T150153Z" creationid="steevie" creationdate="20160503T150134Z">
+        <seg>Se non fate uso di macro, potete saltare le parti dove queste vengono trattate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13803,6 +13819,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T161246Z" creationid="Luciano B." creationdate="20160329T161246Z">
         <seg>Ogni volta che qualcuno cambia qualcosa nel documento, queste variazioni modificano la firma digitale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Where applicable, the functionality is explained using both the GUI (Graphical User Interface) and macros.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160503T150013Z" creationid="steevie" creationdate="20160503T150013Z">
+        <seg>Dove possibile, ogni funzionalità viene descritta usando sia la GUI (Graphical User Interface - Interfaccia Grafica Utente) che le macro.</seg>
       </tuv>
     </tu>
     <tu>
