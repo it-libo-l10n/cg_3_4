@@ -2870,6 +2870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A spreadsheet in a Calc document is similar in structure to a database table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160503T150950Z" creationid="steevie" creationdate="20160503T150950Z">
+        <seg>La struttura di un foglio di calcolo in un documento Calc assomiglia alla tabella di un database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A table can be visualized as a series of rows and columns.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T150838Z" creationid="steevie" creationdate="20160503T150838Z">
@@ -5206,6 +5214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each cell corresponds to a single field in a database record.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160503T151025Z" creationid="steevie" creationdate="20160503T151025Z">
+        <seg>Ogni cella rappresenta un singolo campo rel record di un database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Each column can have different contents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T163621Z" creationid="Luciano B." creationdate="20160325T163621Z">
@@ -5226,6 +5242,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T150816Z" creationid="steevie" creationdate="20160503T150816Z">
         <seg>Ogni record in una tabella ha la stessa struttura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each row in the table corresponds to a single record and each column corresponds to the fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160503T150915Z" creationid="steevie" creationdate="20160503T150915Z">
+        <seg>Ogni riga in una tabella corrisponde a un singolo record, mentre ogni colonna rappresenta i campi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6330,6 +6354,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160215T071223Z">
         <seg>Ad esempio, potete decidere di cambiare l'aspetto di tutti i subtotale nel vostro foglio di lavoro in un corpo da 10 punti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For many people, Calc implements sufficient database functionality that no other database program or functionality is required.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160503T151211Z" creationid="steevie" creationdate="20160503T151211Z">
+        <seg>Per molte persone, Calc implementa abbastanza funzionalità come database da non richiedere l'uso di altri strumenti di gestione di database.</seg>
       </tuv>
     </tu>
     <tu>
