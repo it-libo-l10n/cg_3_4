@@ -5254,6 +5254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each row represents a single student.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160503T151335Z" creationid="steevie" creationdate="20160503T151310Z">
+        <seg>Ogni riga rappresenta uno studente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Each spreadsheet can have many sheets, and each sheet can have many individual cells.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T162552Z">
@@ -11526,6 +11534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The columns represent the grades received on homework, labs, and tests (see &lt;t0&gt;Table 13&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160503T151428Z" creationid="steevie" creationdate="20160503T151330Z">
+        <seg>Le colonne rappresentano i voti ricevuti per i compiti, i laboratori e gli esami (vedi &lt;t0&gt;Tabella 13&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The commands available for the selected menu are shown in the central part of the dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163452Z" creationid="steevie" creationdate="20160428T163452Z">
@@ -13947,6 +13963,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160215T071548Z">
         <seg>Sebbene alcuni componenti di &lt;f0&gt;LibreOffice&lt;/f0&gt; offrano diversi tipi di stile, Calc ne possiede solo due:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>While teaching, a spreadsheet might be used as a grading program.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160503T151320Z" creationid="steevie" creationdate="20160503T151253Z">
+        <seg>Ad esempio, nel campo dell'insegnamento, un foglio di calcolo può essere usato come una pagella.</seg>
       </tuv>
     </tu>
     <tu>
