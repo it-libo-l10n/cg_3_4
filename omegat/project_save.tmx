@@ -9839,18 +9839,34 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moves the viewable columns one screen to the left.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T162023Z" creationid="luciano" creationdate="20160504T161929Z">
+        <seg>Sposta a sinistra di una schernata le colonne visibili.&lt;segmento 8883&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves the viewable columns one screen to the right.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T162017Z" creationid="luciano" creationdate="20160504T162017Z">
+        <seg>Sposta a destra di una schernata le colonne visibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moves the viewable rows down one screen.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T161819Z" creationid="luciano" creationdate="20160504T161819Z">
-        <seg>Sposta verso il basso di una videata le righe visibili.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T161945Z" creationid="luciano" creationdate="20160504T161819Z">
+        <seg>Sposta verso il basso di una schernata le righe visibili.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Moves the viewable rows up one screen.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T161840Z" creationid="luciano" creationdate="20160504T161550Z">
-        <seg>Sposta verso l'alto di una videata le righe visibili.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T161936Z" creationid="luciano" creationdate="20160504T161550Z">
+        <seg>Sposta verso l'alto di una schermata le righe visibili.</seg>
       </tuv>
     </tu>
     <tu>
