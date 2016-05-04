@@ -8958,6 +8958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Listing &lt;seq0&gt;10&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T140705Z" creationid="steevie" creationdate="20160504T140705Z">
+        <seg>Listato &lt;seq0&gt;10&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Loading a saved keyboard configuration</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172530Z" creationid="steevie" creationdate="20160428T172530Z">
@@ -12321,8 +12329,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>The macro in &lt;t0&gt;Listing 10&lt;/t0&gt; creates a named range, if it does not exist, that references a range of cells.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T140425Z" creationid="steevie" creationdate="20160504T140425Z">
-        <seg>La macro mostrata in &lt;t0&gt;Listing 10&lt;/t0&gt; creates a named range, if it does not exist, that references a range of cells.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T140658Z" creationid="steevie" creationdate="20160504T140425Z">
+        <seg>La macro mostrata in &lt;t0&gt;Listato 10&lt;/t0&gt; crea un intervallo con nome, se non esiste già, che si riferisce a un intervallo di celle.</seg>
       </tuv>
     </tu>
     <tu>
