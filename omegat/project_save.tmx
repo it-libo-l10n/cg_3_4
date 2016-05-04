@@ -3598,6 +3598,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adds the next sheet to the current selection of sheets.&lt;f0&gt; &lt;/f0&gt;If all the sheets in a spreadsheet are selected, this combination only selects the next sheet.&lt;f1&gt; &lt;/f1&gt;Makes the next sheet the current sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T162654Z" creationid="luciano" creationdate="20160504T162654Z">
+        <seg>Aggiunge i prossimo foglio elettronico alla selezione corrente di fogli elettronici.&lt;f0&gt; &lt;/f0&gt;Se tutti i fogli del foglio elettronico sono selezionati, questa combinazione seleziona solamente il prosimo foglio.&lt;f1&gt; &lt;/f1&gt;Rende il foglio successivo il foglio corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Advanced functions</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095408Z">
