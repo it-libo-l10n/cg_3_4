@@ -5270,6 +5270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Left Arrow</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T141809Z" creationid="luciano" creationdate="20160504T141809Z">
+        <seg>Ctrl+Freccia a sinistra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl-D</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T154616Z" creationid="steevie" creationdate="20160428T154403Z">
@@ -7678,6 +7686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the column to the left of the cell that contains the cursor is empty, the cursor moves to the next column to the left that contains data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T142007Z" creationid="luciano" creationdate="20160504T142007Z">
+        <seg>Se al colonna a sinistra di questa cella If the column to the left of the cell that contains the cursor is empty, the cursor moves to the next column to the left that contains data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the document was modified and saved by another user since you opened it, one of the following events will occur:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T162454Z" creationid="Luciano B." creationdate="20160411T161921Z">
@@ -9430,10 +9446,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moves the cursor to the last cell of the current row in a column containing data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T141745Z" creationid="luciano" creationdate="20160504T141745Z">
+        <seg>Sposta il cursore all'ultima cella della riga corrente in una colonna che contiene i dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moves the cursor to the last cell on the sheet that contains data.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160504T141447Z" creationid="luciano" creationdate="20160504T141447Z">
         <seg>Sposta il cursore all'ultima cella nel foglio che contiene dei dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves the cursor to the left edge of the current data range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T141922Z" creationid="luciano" creationdate="20160504T141922Z">
+        <seg>Sposta il cursore al margine sinistro dell'area dati corrente.</seg>
       </tuv>
     </tu>
     <tu>
