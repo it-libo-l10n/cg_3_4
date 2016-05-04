@@ -12030,6 +12030,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The NamedRanges object supports the method addNewByname, which accepts four arguments; the name, content, position, and type.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T140227Z" creationid="steevie" creationdate="20160504T140227Z">
+        <seg>L'oggetto NamedRanges supporta il metodo addNewByname, che accetta quattro argomenti: nome, contenuto, posizione e tipo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Navigator allows for quick navigation to the associated ranges.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T133815Z" creationid="steevie" creationdate="20160504T133815Z">
@@ -12307,6 +12315,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T145106Z" creationid="steevie" creationdate="20160418T145106Z">
         <seg>L'elenco presente sul lato sinistro della finestra di dialogo varia in relazione al componente di LibreOffice aperto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The macro in &lt;t0&gt;Listing 10&lt;/t0&gt; creates a named range, if it does not exist, that references a range of cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T140425Z" creationid="steevie" creationdate="20160504T140425Z">
+        <seg>La macro mostrata in &lt;t0&gt;Listing 10&lt;/t0&gt; creates a named range, if it does not exist, that references a range of cells.</seg>
       </tuv>
     </tu>
     <tu>
