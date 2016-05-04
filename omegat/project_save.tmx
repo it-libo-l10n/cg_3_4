@@ -5278,6 +5278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Right Arrow</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T142127Z" creationid="luciano" creationdate="20160504T142127Z">
+        <seg>Ctrl+Freccia a destra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl-D</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T154616Z" creationid="steevie" creationdate="20160428T154403Z">
@@ -7688,8 +7696,8 @@
       <tuv lang="EN">
         <seg>If the column to the left of the cell that contains the cursor is empty, the cursor moves to the next column to the left that contains data.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T142007Z" creationid="luciano" creationdate="20160504T142007Z">
-        <seg>Se al colonna a sinistra di questa cella If the column to the left of the cell that contains the cursor is empty, the cursor moves to the next column to the left that contains data.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T142258Z" creationid="luciano" creationdate="20160504T142007Z">
+        <seg>Se la colonna a sinistra della cella che contiene il cursore è vuota, il cursore si sposta sulla colonna successiva a sinistra che contiene i dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9466,6 +9474,15 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160504T141922Z" creationid="luciano" creationdate="20160504T141922Z">
         <seg>Sposta il cursore al margine sinistro dell'area dati corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves the cursor to the right edge of the current data range.&lt;f0&gt; &lt;/f0&gt;If the column to the right of the cell that contains the cursor is empty, the cursor moves to the next column to the right that contains data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T142252Z" creationid="luciano" creationdate="20160504T142252Z">
+        <seg>Sposta il cursore al margine sinistro dell'area dati corrente.&lt;f0&gt; &lt;/f0&gt;Se la colonna alla sinistra della cella che contiene il cursore è vuota, il cursore si sposta sulla colonna successiva a sinistra che contiene i dati.
+If the column to the right of the cell that contains the cursor is empty, the cursor moves to the next column to the right that contains data.</seg>
       </tuv>
     </tu>
     <tu>
