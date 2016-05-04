@@ -3366,6 +3366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A named range can define a function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T145002Z" creationid="steevie" creationdate="20160504T145002Z">
+        <seg>Un intervallo con nome può definire una funzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A particular cell is identified by its row number and column letter.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T162517Z">
@@ -3738,6 +3746,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20160129T124840Z">
         <seg>Tutti i marchi registrati citati in questo documento appartengono ai legittimi proprietari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Also, the third argument acts as the base address for cells referenced in a relative way.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T145050Z" creationid="steevie" creationdate="20160504T145050Z">
+        <seg>Inoltre, il terzo argomento agisce come indirizzo base per celle referenziate in maniera relativa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8094,6 +8110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you choose to create ranges based on the top row, one named range is created for each column header—the header is not included in the named range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T145143Z" creationid="steevie" creationdate="20160504T145143Z">
+        <seg>If you choose to create ranges based on the top row, one named range is created for each column header—the header is not included in the named range.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you do a &lt;f0&gt;Save As...&lt;/f0&gt; of a document with different versions stored in it, the old versions are not saved in the new file.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T152702Z" creationid="luciano" creationdate="20160429T141005Z">
@@ -11538,6 +11562,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160428T160535Z" creationid="luciano" creationdate="20160428T160535Z">
         <seg>Selezionate il documento originale e fate clic su &lt;/f0&gt;&lt;f1&gt;Inserisci&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the range containing the headers and the data and then use &lt;f0&gt;Insert &gt; Names &gt; Create&lt;/f0&gt; to open the Create Names dialog (see &lt;t1&gt;Figure 315&lt;/t1&gt;), which allows you to simultaneously create multiple named ranges based on the top row, bottom row, right column or left column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T145126Z" creationid="steevie" creationdate="20160504T145126Z">
+        <seg>Select the range containing the headers and the data and then use &lt;f0&gt;Insert &gt; Names &gt; Create&lt;/f0&gt; to open the Create Names dialog (see &lt;t1&gt;Figure 315&lt;/t1&gt;), which allows you to simultaneously create multiple named ranges based on the top row, bottom row, right column or left column.</seg>
       </tuv>
     </tu>
     <tu>
