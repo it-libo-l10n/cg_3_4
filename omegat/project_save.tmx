@@ -2718,6 +2718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;z&lt;/f0&gt;&lt;f1&gt; (&lt;/f1&gt;&lt;f2&gt;Command&lt;/f2&gt;&lt;f3&gt;)&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T140930Z" creationid="luciano" creationdate="20160504T140930Z">
+        <seg>&lt;f0&gt;z&lt;/f0&gt;&lt;f1&gt; (&lt;/f1&gt;&lt;f2&gt;Comando&lt;/f2&gt;&lt;f3&gt;)&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f10&gt;Data &gt; Consolidate&lt;/f10&gt;&lt;br11/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T161205Z" creationid="Luciano B." creationdate="20160411T161037Z">
@@ -6632,8 +6640,8 @@
       <tuv lang="EN">
         <seg>For a more detailed list, see the application Help.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084138Z">
-        <seg>Per un elenco più dettagliato, vedere la Guida in linea dell'applicazione.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T140853Z">
+        <seg>Per un elenco più dettagliato, consultate la Guida in linea dell'applicazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6832,8 +6840,8 @@
       <tuv lang="EN">
         <seg>Formatting and editing shortcuts are described in Chapter 2, Entering, Editing, and Formatting Data.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T140619Z" creationid="luciano" creationdate="20160504T140056Z">
-        <seg>La formattazione e la modifica dei collegamenti sono descritti nel capitolo 2, Inserimento, Modifica e Formattazione dei Dati.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T140810Z" creationid="luciano" creationdate="20160504T140056Z">
+        <seg>La formattazione e la modifica dei tasti di scelta rapida sono descritti nel capitolo 2, Inserimento, Modifica e Formattazione dei Dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9866,6 +9874,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T211933Z">
         <seg>Apertura di fogli di lavoro esistenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens a context menu</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T140905Z" creationid="luciano" creationdate="20160504T140905Z">
+        <seg>Apre un menu contestuale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens the Navigator</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T140942Z" creationid="luciano" creationdate="20160504T140942Z">
+        <seg>Apre il Navigatore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens the Styles and Formatting window</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T140952Z" creationid="luciano" creationdate="20160504T140952Z">
+        <seg>Apre la finestra Stili e Formattazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16107,6 +16139,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T133924Z" creationid="steevie" creationdate="20160504T133924Z">
         <seg>intervallo con nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>navigation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T140959Z" creationid="luciano" creationdate="20160504T140959Z">
+        <seg>navigazione</seg>
       </tuv>
     </tu>
     <tu>
