@@ -9302,6 +9302,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moves the cursor to the first cell in the sheet (cell A1).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T141350Z" creationid="luciano" creationdate="20160504T141350Z">
+        <seg>Sposta il cursore alla prima cella del foglio (cella A1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves the cursor to the first cell of the current row.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T141524Z" creationid="luciano" creationdate="20160504T141524Z">
+        <seg>Sposta il cursore alla prima cella delle riga corrente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves the cursor to the last cell on the sheet that contains data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T141447Z" creationid="luciano" creationdate="20160504T141447Z">
+        <seg>Sposta il cursore all'ultima cella nel foglio che contiene dei dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moving toolbars</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T133821Z" creationid="michele" creationdate="20160414T133821Z">
