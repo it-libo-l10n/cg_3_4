@@ -6734,6 +6734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For help with &lt;f0&gt;LibreOffice’s&lt;/f0&gt; keyboard shortcuts or using LibreOffice with a keyboard only, search the Help supplied with LibreOffice (also available online at &lt;a1&gt;http://help.libreoffice.org&lt;/a1&gt;) using the “shortcut” or “&lt;f2&gt;accessibility” keywords.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T134606Z" creationid="luciano" creationdate="20160504T134606Z">
+        <seg>Per avere informazioni sui tasti di scelta rapida di &lt;f0&gt;LibreOffice&lt;/f0&gt; o sull'utilizzo di LibreOffice solo con la tastiera, potete ricercare For help with &lt;f0&gt;LibreOffice’s&lt;/f0&gt; keyboard shortcuts or using LibreOffice with a keyboard only, search the Help supplied with LibreOffice (also available online at &lt;a1&gt;http://help.libreoffice.org&lt;/a1&gt;) using the “shortcut” or “&lt;f2&gt;accessibility” keywords.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For many people, Calc implements sufficient database functionality that no other database program or functionality is required.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T151211Z" creationid="steevie" creationdate="20160503T151211Z">
@@ -8834,6 +8842,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160429T144638Z" creationid="emanuelegiusti" creationdate="20160429T144638Z">
         <seg>ibreOffice Calc offre una varietà di differenti formati di diagrammi e grafici per i vostri dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice has a general set of keyboard shortcuts, available in all components, and a component-specific set directly related to the work of that component.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T134343Z" creationid="luciano" creationdate="20160504T134343Z">
+        <seg>LibreOffice utilizza un gruppo generale di tasti di scelta rapida, disponibile in tutti i componenti, e un gruppo specifico per il singolo componente, direttamente collegato al lavoro di quel componente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15145,8 +15161,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>You can use Calc without a pointing device such as a mouse or trackball, by using its built-in keyboard shortcuts.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T134221Z" creationid="luciano" creationdate="20160504T134221Z">
-        <seg>È possibile utilizzare Calc senza un dispositivo di puntamento, come un mouse o un trackball, utilizzando le You can use Calc without a pointing device such as a mouse or trackball, by using its built-in keyboard shortcuts.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T134316Z" creationid="luciano" creationdate="20160504T134221Z">
+        <seg>È possibile utilizzare Calc senza un dispositivo di puntamento, come un mouse o un trackball, utilizzando le scorciatoie da tastiera integrate.</seg>
       </tuv>
     </tu>
     <tu>
