@@ -9558,6 +9558,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moves the cursor to the top edge of the current data range.&lt;f0&gt; &lt;/f0&gt;If the row above the cell that contains the cursor is empty, the cursor moves up to the next row that contains data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T142924Z" creationid="luciano" creationdate="20160504T142710Z">
+        <seg>Sposta il cursore al margine superiore dell'area dati corrente.&lt;f0&gt; &lt;/f0&gt;Se la colonna sopra la cella che contiene il cursore è vuota, il cursore si sposta sulla colonna successiva superiore che contiene i dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moving toolbars</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T133821Z" creationid="michele" creationdate="20160414T133821Z">
