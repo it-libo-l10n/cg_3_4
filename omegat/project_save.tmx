@@ -11711,6 +11711,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selects all cells containing data from the current cell to the end of the continuous range of data cells, in the direction of the arrow pressed.&lt;f0&gt; &lt;/f0&gt;If used to select rows and columns together, a rectangular cell range is selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T161035Z" creationid="luciano" creationdate="20160504T161035Z">
+        <seg>Seleziona tutte le celle che contengono i dati dalla cella corrente fino al termine dell'intervallo di celle di dati, in direzione della freccia premuta.&lt;f0&gt; &lt;/f0&gt;Se si utilizza per selezionare assieme righe e colonne, viene selezionato un intervallo rettangolare di celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set the print options to suit your default printer and your most common printing method.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T150946Z" creationid="steevie" creationdate="20160418T150946Z">
