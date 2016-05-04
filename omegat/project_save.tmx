@@ -7350,6 +7350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a range is referenced by name in multiple locations, you can point the name to another location and all references point to the new location.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T132855Z" creationid="steevie" creationdate="20160504T132855Z">
+        <seg>Se un intervallo è richiamato per nome in posizioni multiple, modificando l'intervallo tutte le referenze sono automaticamente aggiornate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a sheet is printed on multiple pages, you can set up certain rows or columns to repeat on each printed page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T110931Z">
