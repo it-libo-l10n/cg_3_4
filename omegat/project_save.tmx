@@ -5494,6 +5494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Down Arrow</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T160241Z" creationid="luciano" creationdate="20160504T160241Z">
+        <seg>Ctrl+Freccia giù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Left Arrow</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160504T141809Z" creationid="luciano" creationdate="20160504T141809Z">
@@ -9718,6 +9726,15 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moves the cursor to the bottom edge of the current data range.&lt;f0&gt; &lt;/f0&gt;If the row below the cell that contains the cursor is empty, the cursor moves down to the next row that contains data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T160356Z" creationid="luciano" creationdate="20160504T160356Z">
+        <seg>Sposta il cursore al margine superiore dell'area dati corrente.&lt;f0&gt; &lt;/f0&gt;&gt;Se la riga sotto la cella che contiene il cursore è vuota, il cursore si sposta sulla riga successiva inferiore.
+If the row below the cell that contains the cursor is empty, the cursor moves down to the next row that contains data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moves the cursor to the first cell in the sheet (cell A1).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160504T141350Z" creationid="luciano" creationdate="20160504T141350Z">
@@ -9768,8 +9785,8 @@
       <tuv lang="EN">
         <seg>Moves the cursor to the top edge of the current data range.&lt;f0&gt; &lt;/f0&gt;If the row above the cell that contains the cursor is empty, the cursor moves up to the next row that contains data.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T142924Z" creationid="luciano" creationdate="20160504T142710Z">
-        <seg>Sposta il cursore al margine superiore dell'area dati corrente.&lt;f0&gt; &lt;/f0&gt;Se la colonna sopra la cella che contiene il cursore è vuota, il cursore si sposta sulla colonna successiva superiore che contiene i dati.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T160409Z" creationid="luciano" creationdate="20160504T142710Z">
+        <seg>Sposta il cursore al margine superiore dell'area dati corrente.&lt;f0&gt; &lt;/f0&gt;Se la riga sopra la cella che contiene il cursore è vuota, il cursore si sposta sulla riga successiva superiore che contiene i dati.</seg>
       </tuv>
     </tu>
     <tu>
