@@ -4182,6 +4182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>COLUMN_HEADER</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142943Z" creationid="steevie" creationdate="20160504T142943Z">
+        <seg>COLUMN_HEADER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc Error Codes</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T101311Z">
@@ -5622,6 +5630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142901Z" creationid="steevie" creationdate="20160504T142901Z">
+        <seg>Descrizione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Description of Functions</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T095910Z">
@@ -6106,6 +6122,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T083736Z">
         <seg>Domande frequenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>FILTER_CRITERIA</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142904Z" creationid="steevie" creationdate="20160504T142904Z">
+        <seg>FILTER_CRITERIA</seg>
       </tuv>
     </tu>
     <tu>
@@ -10270,6 +10294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PRINT_AREA</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142922Z" creationid="steevie" creationdate="20160504T142922Z">
+        <seg>PRINT_AREA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Page Order</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T162342Z">
@@ -12246,6 +12278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;14&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142749Z" creationid="steevie" creationdate="20160504T142749Z">
+        <seg>Tabella &lt;seq0&gt;14&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Table &lt;seq0&gt;1&lt;/seq0&gt;: Free support for LibreOffice users</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T083728Z">
@@ -12815,6 +12855,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The most common value is 0, which is not a defined constant value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142743Z" creationid="steevie" creationdate="20160504T142743Z">
+        <seg>Il valore più comune è 0, che non è un valore costante definito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The most commonly used graphic formats are GIF, JPG, PNG, and BMP.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20160220T005633Z">
@@ -12955,6 +13003,30 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T152350Z" creationid="luciano" creationdate="20160428T152552Z">
         <seg>I processi visti finora sono efficaci quando avete un revisore alla volta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The range can be used as a print range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142942Z" creationid="steevie" creationdate="20160504T142942Z">
+        <seg>L'intervallo puà essere usato come area di stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The range can be used as column headers for printing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T143012Z" creationid="steevie" creationdate="20160504T143012Z">
+        <seg>L'intervallo può essere usato come intestazione di colonna per la stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The range contains filter criteria.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142921Z" creationid="steevie" creationdate="20160504T142921Z">
+        <seg>L'intervallo contiene criteri filtro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14695,6 +14767,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Value</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142857Z" creationid="steevie" creationdate="20160504T142857Z">
+        <seg>Valore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Value highlighting</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T142719Z" creationid="steevie" creationdate="20160427T142719Z">
@@ -16067,6 +16147,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T151337Z" creationid="steevie" creationdate="20160418T151337Z">
         <seg>colori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>com.sun.star.sheet.NamedRangeFlag constants.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142801Z" creationid="steevie" creationdate="20160504T142801Z">
+        <seg>costanti com.sun.star.sheet.NamedRangeFlag.</seg>
       </tuv>
     </tu>
     <tu>
