@@ -10552,8 +10552,16 @@
       <tuv lang="EN">
         <seg>REM The fourth argument is a set of flags that define</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T141713Z" creationid="steevie" creationdate="20160504T141713Z">
-        <seg>REM Il quarto argomento è un insieme di </seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142212Z" creationid="steevie" creationdate="20160504T141713Z">
+        <seg>REM Il quarto argomento è un insieme di opzioni che definisce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>REM The fourth argument uses values from the</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142340Z" creationid="steevie" creationdate="20160504T142340Z">
+        <seg>REM Il quarto argomento usa valori presi dalle</seg>
       </tuv>
     </tu>
     <tu>
@@ -10594,6 +10602,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T141550Z" creationid="steevie" creationdate="20160504T141550Z">
         <seg>REM definisce un intervallo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>REM how the range is used, but most ranges use 0.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142249Z" creationid="steevie" creationdate="20160504T142249Z">
+        <seg>REM come usare l'intervallo, ma spesso viene usato 0.</seg>
       </tuv>
     </tu>
     <tu>
