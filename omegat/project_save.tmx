@@ -12622,6 +12622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The cells A3 and B3 are the two cells directly to the left of C3, so, the equation &lt;f4&gt;=AddLeft()&lt;/f4&gt; calculates the sum of the two cells directly to the left of the cell that contains the equation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T143916Z" creationid="steevie" creationdate="20160504T143916Z">
+        <seg>Le celle A3 e B3 sono le due immediatamente a sinistra di C3, così l'equazione &lt;f4&gt;=AggiungiSx()&lt;/f4&gt; calcola la somma delle due celle immediatamente a sinistra di quella che contiene l'equazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The changed color appears in the lower of the two color preview boxes at the top.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T155723Z" creationid="steevie" creationdate="20160418T155723Z">
