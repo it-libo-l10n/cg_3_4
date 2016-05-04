@@ -1782,6 +1782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oSheet&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;'Sheet that contains the named range.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T144235Z" creationid="steevie" creationdate="20160504T144235Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oSheet&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;'Fogli oche contiene l'intervallo con nome.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;s$&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T141140Z" creationid="steevie" creationdate="20160504T141140Z">
@@ -1898,6 +1906,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T173106Z" creationid="Luciano B." creationdate="20160325T170002Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Riduci risoluzione immagine&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;: Le immagini con un numero inferiore di DPI (dots per inch - punti per pollice) sono di qualità inferiore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;AddNamedFunction&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T144222Z" creationid="steevie" creationdate="20160504T144222Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;AddNamedFunction&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4446,6 +4462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changing the reference cell to C4, which is below A3 and B3, causes the AddLeft equation to calculate the sum of the two cells that are to the left on the previous row.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T144158Z" creationid="steevie" creationdate="20160504T144158Z">
+        <seg>Con la modifica della cella di riferimento in C4, che è sotto A3 e B3, l'equazione AggiungiSx calcola la somma di due celle a sinista, ma sulla riga precedente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changing the size of the left or right margin adjusts how far the header or footer is from that side of the page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T171550Z">
@@ -5242,6 +5266,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T140907Z" creationid="steevie" creationdate="20160504T140907Z">
         <seg>Crea un intervallo con nome che referenzia $Foglio1.$B$3:$D$6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create the AddLeft named range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T144215Z" creationid="steevie" creationdate="20160504T144215Z">
+        <seg>Crea l'intervallo con nome AggiungiSx.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9210,6 +9242,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T140705Z" creationid="steevie" creationdate="20160504T140705Z">
         <seg>Listato &lt;seq0&gt;10&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Listing &lt;seq0&gt;11&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T144202Z" creationid="steevie" creationdate="20160504T144202Z">
+        <seg>Listato &lt;seq0&gt;11&lt;/seq0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
