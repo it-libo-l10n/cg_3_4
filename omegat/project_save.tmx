@@ -9839,10 +9839,18 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moves the viewable rows down one screen.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T161819Z" creationid="luciano" creationdate="20160504T161819Z">
+        <seg>Sposta verso il basso di una videata le righe visibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moves the viewable rows up one screen.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T161550Z" creationid="luciano" creationdate="20160504T161550Z">
-        <seg>Sposta le righe visibili Moves the viewable rows up one screen.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T161840Z" creationid="luciano" creationdate="20160504T161550Z">
+        <seg>Sposta verso l'alto di una videata le righe visibili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10555,6 +10563,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142922Z" creationid="steevie" creationdate="20160504T142922Z">
         <seg>PRINT_AREA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Page Down</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T161725Z" creationid="luciano" creationdate="20160504T161725Z">
+        <seg>Page giù</seg>
       </tuv>
     </tu>
     <tu>
