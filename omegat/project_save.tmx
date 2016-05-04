@@ -6640,8 +6640,8 @@
       <tuv lang="EN">
         <seg>For example, create a range named &lt;f2&gt;Scores&lt;/f2&gt;, and then use the following equation: &lt;f3&gt;=SUM(Scores)&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T134247Z" creationid="steevie" creationdate="20160504T134247Z">
-        <seg>Ad esempio, create un intervallo chiamato &lt;f2&gt;Punteggi&lt;/f2&gt; e poi usate questa equazione.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T135200Z" creationid="steevie" creationdate="20160504T134247Z">
+        <seg>Ad esempio, create un intervallo chiamato &lt;f2&gt;Punteggi&lt;/f2&gt; e poi usate questa equazione: &lt;f3&gt;=SOMMA(Punteggi)&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13147,6 +13147,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160428T155822Z" creationid="luciano" creationdate="20160428T155822Z">
         <seg>Per confrontarli:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To create a named range, select the range to define.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T135438Z" creationid="steevie" creationdate="20160504T135438Z">
+        <seg>Per creare un intervallo con nome, selezionate l'intervallo.</seg>
       </tuv>
     </tu>
     <tu>
