@@ -6638,6 +6638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, create a range named &lt;f2&gt;Scores&lt;/f2&gt;, and then use the following equation: &lt;f3&gt;=SUM(Scores)&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T134247Z" creationid="steevie" creationdate="20160504T134247Z">
+        <seg>Ad esempio, create un intervallo chiamato &lt;f2&gt;Punteggi&lt;/f2&gt; e poi usate questa equazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, for the contents of a cell you might specify the font family, font size, and any formatting such as bold or italic.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160213T105136Z">
@@ -12259,6 +12267,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160216T071803Z">
         <seg>La differenza principale fra di essi è che Rapporto è orientato in verticale laddove Predefinito ha un orientamento orizzontale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The most common usage of a &lt;is0/&gt;named&lt;ie1/&gt; range is, as its name implies, to associate a range of cells with a meaningful name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T134047Z" creationid="steevie" creationdate="20160504T134047Z">
+        <seg>L'uso più comune di un intervallo &lt;is0/&gt;con nome&lt;ie1/&gt;, come suggerisce il nome, è quello di associare un nome significativo a un intervallo di celle.</seg>
       </tuv>
     </tu>
     <tu>
