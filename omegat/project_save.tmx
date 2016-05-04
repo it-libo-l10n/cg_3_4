@@ -7774,6 +7774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the cell range is not specified as an absolute address, the referenced range will be different based on where in the spreadsheet the range is used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T143229Z" creationid="steevie" creationdate="20160504T143229Z">
+        <seg>Se l'intervallo di celle non è indicato come indirizzo assoluto, l'intervallo referenziato differisce a seconda di dove viene usato l'intervallo nel foglio di calcolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the changes conflict, the Resolve Conflicts dialog is shown.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T144405Z" creationid="Luciano B." creationdate="20160411T162829Z">
@@ -10750,6 +10758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ROW_HEADER</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T143017Z" creationid="steevie" creationdate="20160504T143017Z">
+        <seg>ROW_HEADER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Range section</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165446Z" creationid="Luciano B." creationdate="20160325T165446Z">
@@ -13023,6 +13039,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The range can be used as row headers for printing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T143031Z" creationid="steevie" creationdate="20160504T143031Z">
+        <seg>L'intervallo può essere usato come intestazione di riga per la stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The range contains filter criteria.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142921Z" creationid="steevie" creationdate="20160504T142921Z">
@@ -13099,6 +13123,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T142600Z" creationid="steevie" creationdate="20160427T142600Z">
         <seg>Il testo del commento è mostrato quando il cursore è portato sopra la cella &lt;f0&gt;se&lt;/f0&gt; i suggerimenti sono abilitati sotto &lt;f1&gt;Strumenti&gt; Opzioni &gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;LibreOffice &gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;Generale&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The third argument, a cell address, acts as the base address for cells referenced in a relative way.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T143115Z" creationid="steevie" creationdate="20160504T143115Z">
+        <seg>Il terzo argomento, l'indirizzo di una cella, agisce come indirizzo base per celle referenziate in maniera relativa.</seg>
       </tuv>
     </tu>
     <tu>
