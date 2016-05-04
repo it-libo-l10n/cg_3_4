@@ -3814,6 +3814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although the header is not included in the range, the text in the header is used to name the range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T145828Z" creationid="steevie" creationdate="20160504T145828Z">
+        <seg>Sebbene l'intestazione non sia inclusa nell'intervallo, il suo testo viene usato come nome dell'intervallo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Although this document was initially created for macro programmers, the content should be accessible to all users.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T150050Z" creationid="steevie" creationdate="20160503T150050Z">
@@ -5366,6 +5374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create a named range</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T145843Z" creationid="steevie" creationdate="20160504T145843Z">
+        <seg>Creare un intervallo con nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create a named range that references $Sheet1.$B$3:$D$6.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T140907Z" creationid="steevie" creationdate="20160504T140907Z">
@@ -6618,6 +6634,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T135625Z" creationid="steevie" creationdate="20160504T135625Z">
         <seg>Figura &lt;seq0&gt;314&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;315&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T145831Z" creationid="steevie" creationdate="20160504T145831Z">
+        <seg>Figura &lt;seq0&gt;315&lt;/seq0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12987,6 +13011,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T140658Z" creationid="steevie" creationdate="20160504T140425Z">
         <seg>La macro mostrata in &lt;t0&gt;Listato 10&lt;/t0&gt; crea un intervallo con nome, se non esiste già, che si riferisce a un intervallo di celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The macro in &lt;t0&gt;Listing 12&lt;/t0&gt; creates three named ranges based on the top row of a named range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T145947Z" creationid="steevie" creationdate="20160504T145947Z">
+        <seg>La macro nel &lt;t0&gt;Listato 12&lt;/t0&gt; crea  tre intervalli con nome in base alla prima riga di un intervallo con nome.</seg>
       </tuv>
     </tu>
     <tu>
