@@ -9902,6 +9902,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moves the cursor to the Name box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160505T162002Z" creationid="luciano" creationdate="20160505T162002Z">
+        <seg>Sposta il cursore alla casella Nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moves the cursor to the bottom edge of the current data range.&lt;f0&gt; &lt;/f0&gt;If the row below the cell that contains the cursor is empty, the cursor moves down to the next row that contains data.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160504T160356Z" creationid="luciano" creationdate="20160504T160356Z">
@@ -14941,6 +14949,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T160950Z" creationid="Luciano B." creationdate="20160411T160950Z">
         <seg>Strumenti &gt; Proteggi documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Traces dependents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160505T161915Z" creationid="luciano" creationdate="20160505T161915Z">
+        <seg>Individua dipendenti.</seg>
       </tuv>
     </tu>
     <tu>
