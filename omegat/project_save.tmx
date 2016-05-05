@@ -3766,6 +3766,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alt+Page Down</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160505T142909Z" creationid="luciano" creationdate="20160505T142909Z">
+        <seg>Alt+Pagina giù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alt+Page Up</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160505T142844Z" creationid="luciano" creationdate="20160505T142844Z">
+        <seg>Alt+Pagina su</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alt+Up/Down arrow</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T154543Z" creationid="steevie" creationdate="20160428T154543Z">
@@ -10681,8 +10697,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Page Down</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T161725Z" creationid="luciano" creationdate="20160504T161725Z">
-        <seg>Page giù</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160505T142835Z" creationid="luciano" creationdate="20160504T161725Z">
+        <seg>Pagina giù</seg>
       </tuv>
     </tu>
     <tu>
@@ -12099,6 +12115,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160504T162101Z" creationid="luciano" creationdate="20160504T162101Z">
         <seg>Maiusc+Ctrl+Pagina giù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shift+Ctrl+Page Up</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160505T142810Z" creationid="luciano" creationdate="20160505T142810Z">
+        <seg>Shift+Ctrl+Pagina su</seg>
       </tuv>
     </tu>
     <tu>
