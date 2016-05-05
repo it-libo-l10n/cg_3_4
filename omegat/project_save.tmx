@@ -4846,6 +4846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Checks spelling in the current sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160505T162027Z" creationid="luciano" creationdate="20160505T162027Z">
+        <seg>Controllo ortografico nel foglio corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choices made on the &lt;f0&gt;Load/Save – HTML Compatibility&lt;/f0&gt; page affect HTML pages imported into &lt;f1&gt;LibreOffice&lt;/f1&gt; and those exported from &lt;f2&gt;LibreOffice&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T125246Z" creationid="steevie" creationdate="20160427T125246Z">
@@ -10639,6 +10647,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens the &lt;f0&gt;Thesaurus&lt;/f0&gt; if the current cell contains text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160505T162145Z" creationid="luciano" creationdate="20160505T162145Z">
+        <seg>Apre i&lt;f0&gt;Sinonimi&lt;/f0&gt; se la cella corrente contiene del testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opens the Function Wizard.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160505T144957Z" creationid="luciano" creationdate="20160505T144957Z">
@@ -14957,6 +14973,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160505T161915Z" creationid="luciano" creationdate="20160505T161915Z">
         <seg>Individua dipendenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Traces precedents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160505T162233Z" creationid="luciano" creationdate="20160505T162233Z">
+        <seg>Individua precedenti.</seg>
       </tuv>
     </tu>
     <tu>
