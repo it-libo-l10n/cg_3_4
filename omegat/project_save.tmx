@@ -11271,6 +11271,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rearranges the relative or absolute references (for example, A1, $A$1, $A1, A$1) in the input field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160505T160740Z" creationid="luciano" creationdate="20160505T160740Z">
+        <seg>Riorganizza i riferimenti relativi o assoluti (per esempio, A1, $A$1, $A1, A$1) nel campo di digitazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Recording &lt;i0/&gt;changes</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160422T151237Z" creationid="luciano" creationdate="20160422T151237Z">
@@ -12251,6 +12259,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160505T160635Z" creationid="luciano" creationdate="20160505T160635Z">
         <seg>Mostra o nasconde il menu &lt;f0&gt;Sorgenti di Database&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shows or hides the &lt;f0&gt;Navigator&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160505T160801Z" creationid="luciano" creationdate="20160505T160801Z">
+        <seg>Mostra o nasconde il &lt;f0&gt;Navigatore&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
