@@ -4198,6 +4198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Be careful not to accidentally right-click and thus undo actions you want to keep.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160505T075925Z" creationid="briga" creationdate="20160505T075925Z">
+        <seg>Prestate attenzione a non premere accidentalmente il pulsante destro del mouse per evitare di annullare operazioni corrette.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Because defined print ranges are formatted with automatic page breaks, they can be viewed by using the Page Break Preview screen, select &lt;f0&gt;View &gt;&lt;/f0&gt;&lt;f1&gt; Page Break Preview&lt;/f1&gt; from the menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T155542Z">
@@ -14488,6 +14496,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To quit Fill Format mode, click the &lt;f0&gt;Fill Format mode &lt;/f0&gt;icon again &lt;s1/&gt;or close the Styles and Formatting window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160505T075904Z" creationid="briga" creationdate="20160505T075904Z">
+        <seg>Per disattivare il Modo riempimento, fate di nuovo clic sull'icona &lt;f0&gt;Modo riempimento&lt;/f0&gt; oppure chiudete la finestra Stile e formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To remove a page break:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T154158Z">
@@ -15128,6 +15144,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using the &lt;is0/&gt;Apply Style list</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160505T075932Z" creationid="briga" creationdate="20160505T075932Z">
+        <seg>Usando l'elenco Applica stile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using the &lt;is0/&gt;Styles and Formatting window</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160330T085333Z" creationid="briga" creationdate="20160330T085313Z">
@@ -15444,6 +15468,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T142947Z" creationid="steevie" creationdate="20160427T142947Z">
         <seg>Quando questo comando è attivo, i colori assegnati nel documento non vengono mostrati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When this mode is active, a right-click anywhere in the document undoes the last Fill Format action.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160505T075914Z" creationid="briga" creationdate="20160505T075914Z">
+        <seg>Se il Modo riempimento è attivo, è sufficiente fare clic con il pulsante destro del mouse in un punto qualsiasi del documento per annullare l'ultima operazione di riempimento eseguita.</seg>
       </tuv>
     </tu>
     <tu>
