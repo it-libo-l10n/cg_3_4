@@ -7854,6 +7854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Highlights cells containing numeric values (not text).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160505T163226Z" creationid="luciano" creationdate="20160505T163226Z">
+        <seg>Evidenzia le celle che contengono valori numerici (non testo). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hold down the &lt;f0&gt;Control&lt;/f0&gt; key.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160315T171540Z">
@@ -14995,8 +15003,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>Turns additional selection mode on or off.&lt;f0&gt; &lt;/f0&gt;In this mode, you can use the arrow keys to extend the selection.&lt;f1&gt; &lt;/f1&gt;You can also click in another cell to extend the selection.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160505T162615Z" creationid="luciano" creationdate="20160505T162615Z">
-        <seg>Abilita o disabilita la selezione aggiuntiva.&lt;f0&gt; &lt;/f0&gt;In questa modalità, potete utilizzare le frecce della tastiera per estendere la selezionethis mode.&lt;f1&gt; &lt;/f1&gt;You can also click in another cell to extend the selection.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160505T163134Z" creationid="luciano" creationdate="20160505T162615Z">
+        <seg>Abilita o disabilita la selezione aggiuntiva.&lt;f0&gt; &lt;/f0&gt;In questa modalità, potete utilizzare le frecce della tastiera per estendere la selezionethis mode.&lt;f1&gt; &lt;/f1&gt;Inoltre potete fare clic in un'altra cella per ampliare la selezione.</seg>
       </tuv>
     </tu>
     <tu>
