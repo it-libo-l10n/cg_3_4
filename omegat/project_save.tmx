@@ -11311,6 +11311,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Recalculates all of the formulas in the sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160505T163307Z" creationid="luciano" creationdate="20160505T163307Z">
+        <seg>Ripete il calcolo di tutte le formule nel foglio elettronico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Recording &lt;i0/&gt;changes</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160422T151237Z" creationid="luciano" creationdate="20160422T151237Z">
@@ -15069,6 +15077,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095311Z">
         <seg>Comprendere le funzioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Updates the selected chart.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160505T163332Z" creationid="luciano" creationdate="20160505T163332Z">
+        <seg>Aggiorna il grafico selezionato.</seg>
       </tuv>
     </tu>
     <tu>
