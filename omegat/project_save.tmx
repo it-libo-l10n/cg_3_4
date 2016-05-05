@@ -5134,6 +5134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Fill Format mode&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160505T075307Z" creationid="briga" creationdate="20160505T075307Z">
+        <seg>Fate clic sull'icona &lt;f0&gt;Modo riempimento&lt;/f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Macro Security&lt;/f0&gt; button to open the &lt;i1/&gt;Macro Security dialog (not shown here), where you can adjust the security level for executing macros and specify trusted sources.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T160951Z" creationid="steevie" creationdate="20160418T160951Z">
@@ -10423,6 +10431,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open the Styles and Formatting window and select the style you want to apply.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160505T075259Z" creationid="briga" creationdate="20160505T075259Z">
+        <seg>Aprite la finestra Stili e Formattazione e selezionate lo stile che desiderate applicare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open the document and make sure that the &lt;f0&gt;Edit &gt; Changes &gt; Record&lt;/f0&gt; menu item has a check mark next to it, indicating that change recording is active.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160422T155300Z" creationid="luciano" creationdate="20160422T155300Z">
@@ -13892,6 +13908,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153240Z">
         <seg>Questo metodo può essere utile per modificare rapidamente l'intervallo di stampa senza evidenziare una grande area di celle ogni volta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This method is quite useful when you need to apply the same style to many scattered cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160505T075249Z" creationid="briga" creationdate="20160505T075249Z">
+        <seg>Questo metodo è particolarmente utile quando dovete formattare con lo stesso stile più celle dislocate in punti diversi.</seg>
       </tuv>
     </tu>
     <tu>
