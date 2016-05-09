@@ -8638,6 +8638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you would like to have the functionality described in this table, you must create custom key sequences as explained in Chapter 14, Setting Up and Customizing Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160509T143245Z" creationid="luciano" creationdate="20160509T143245Z">
+        <seg>Se desiderate avere le funzionalità descritte in questa tabella, dovete creare una sequenze di tasti personalizzati, come spiegato nel Capitolo 14, Configurazione e Personalizzazione di Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If, for example, an inserted cell has the bold attribute, this attribute will also apply to empty adjacent cells.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T133755Z" creationid="steevie" creationdate="20160427T133433Z">
@@ -13933,6 +13941,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T151801Z" creationid="steevie" creationdate="20160428T151750Z">
         <seg>La scelta del separatore prevale sull'impostazione predefinita nella sintassi Calc ed Excel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The shortcuts listed in &lt;t0&gt;Table 33&lt;/t0&gt; do not work under any Linux desktop tested.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160509T143104Z" creationid="luciano" creationdate="20160509T143104Z">
+        <seg>Le combinazioni di scelta rapida elencate nella &lt;t0&gt;Tabella 33&lt;/t0&gt; non funzionano in qualsiasi desktop Linux testato.</seg>
       </tuv>
     </tu>
     <tu>
