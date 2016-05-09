@@ -3950,6 +3950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although a database range can be used as a regular named range, a database range also defines a range of cells in a spreadsheet to be used as a database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T150138Z" creationid="steevie" creationdate="20160509T150138Z">
+        <seg>Nonostante un'area database possa venire usata come un normale intervallo con nome, un'area database definisce anche le celle di un foglio di calcolo che sono utilizzate come database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Although individual extensions can be found in different places, the official &lt;f0&gt;LibreOffice&lt;/f0&gt; extension repository is at &lt;a1&gt;http://extensions.libreoffice.org/&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T173141Z" creationid="steevie" creationdate="20160428T173141Z">
@@ -6062,6 +6070,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Database&lt;i0/&gt; range</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T150007Z" creationid="steevie" creationdate="20160509T150007Z">
+        <seg>&lt;i0/&gt;Area Database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Date and time functions</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T100105Z">
@@ -6426,6 +6442,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T150816Z" creationid="steevie" creationdate="20160503T150816Z">
         <seg>Ogni record in una tabella ha la stessa struttura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each row in a range corresponds to a record and each cell corresponds to a field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T150222Z" creationid="steevie" creationdate="20160509T150222Z">
+        <seg>Ogni riga in un'area corrisponde a un record di dati e ciascuna cella corrisponde a un campo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17273,6 +17297,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can sort, group, search, and perform calculations on the range as if it were a database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T150252Z" creationid="steevie" creationdate="20160509T150252Z">
+        <seg>Potete ordinare, raggruppare, cercare e fare calcoli nell'area come se fosse un database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can specify which details to print.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T163802Z">
@@ -17765,6 +17797,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T145404Z" creationid="steevie" creationdate="20160509T145404Z">
         <seg>database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>database range</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T145945Z" creationid="steevie" creationdate="20160509T145929Z">
+        <seg>area database</seg>
       </tuv>
     </tu>
     <tu>
@@ -18339,8 +18379,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>range</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T145414Z" creationid="steevie" creationdate="20160509T145414Z">
-        <seg>intervallo</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T145950Z" creationid="steevie" creationdate="20160509T145414Z">
+        <seg>area</seg>
       </tuv>
     </tu>
     <tu>
