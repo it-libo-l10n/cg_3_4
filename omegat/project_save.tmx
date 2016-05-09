@@ -6142,6 +6142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Define a database range</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T151049Z" creationid="steevie" creationdate="20160509T151049Z">
+        <seg>Definire un'area database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Define a named range</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T135640Z" creationid="steevie" creationdate="20160504T135640Z">
@@ -7154,6 +7162,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T145831Z" creationid="steevie" creationdate="20160504T145831Z">
         <seg>Figura &lt;seq0&gt;315&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;316&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T151035Z" creationid="steevie" creationdate="20160509T151035Z">
+        <seg>Figura &lt;seq0&gt;316&lt;/seq0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9010,6 +9026,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T150719Z" creationid="steevie" creationdate="20160503T150719Z">
         <seg>In un database, un record (o record di dati) è un gruppo di dati trattato come una singola unità d'informazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In a macro, a database range is accessed, created, and deleted from the DatabaseRanges property.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T151145Z" creationid="steevie" creationdate="20160509T151145Z">
+        <seg>In una macro, è possibile accedere, creare ed eliminare un'area database usando la proprietà DatabaseRanges.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14185,6 +14209,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The macro in &lt;t0&gt;Listing 13&lt;/t0&gt; creates a database range named &lt;f1&gt;MyName&lt;/f1&gt; and sets the range to be used as an auto filter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T151227Z" creationid="steevie" creationdate="20160509T151227Z">
+        <seg>La macro nel &lt;t0&gt;Listato 13&lt;/t0&gt; crea un'area database chiamata &lt;f1&gt;MioNome&lt;/f1&gt; and sets the range to be used as an auto filter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The macro in &lt;t1&gt;Listing 11&lt;/t1&gt; creates the named range &lt;f2&gt;AddLeft&lt;/f2&gt;, which refers to the equation &lt;f3&gt;A3+B3&lt;/f3&gt; with C3 as the reference cell.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T143444Z" creationid="steevie" creationdate="20160504T143444Z">
@@ -16635,8 +16667,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>When you first define a range, the Modify button shown in the example is labeled New.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T150920Z" creationid="steevie" creationdate="20160509T150831Z">
-        <seg>Quando definite per la prima volta un'area, il pulsante Modifica.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T151033Z" creationid="steevie" creationdate="20160509T150831Z">
+        <seg>Quando definite per la prima volta un'area, il pulsante Modifica appare come Aggiungi.</seg>
       </tuv>
     </tu>
     <tu>
