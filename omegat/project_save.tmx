@@ -1766,6 +1766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oAddr&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;'Cell address range for the database range.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T151848Z" creationid="steevie" creationdate="20160509T151848Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oAddr&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;'Intervallo di indirizzi di celle per l'area database.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oAddress&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;'Range address.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T144554Z" creationid="steevie" creationdate="20160509T144554Z">
@@ -1794,6 +1802,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T144247Z" creationid="steevie" creationdate="20160504T144247Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oCellAddress&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;'Indirizzo per riferimenti relativi.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oDoc&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;'Reference ThisComponent with a shorter name.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T152016Z" creationid="steevie" creationdate="20160509T152016Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oDoc&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;'Riferimento a ThisComponent con un nome più breve.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1834,6 +1850,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T144303Z" creationid="steevie" creationdate="20160504T144303Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oRanges&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;'La proprietà NamedRanges.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oSheet&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;'First sheet, which will contain the range.&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T151910Z" creationid="steevie" creationdate="20160509T151910Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oSheet&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;'Primo foglio che contiene l'area.&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1898,6 +1922,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T153814Z" creationid="Luciano B." creationdate="20160326T153814Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Esporta i commenti&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;: Esporta i commenti in Calc come note PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;If&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;NOT&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oDoc&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;DatabaseRanges&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;.&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;hasByName&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;(&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;"MyName"&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;)&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt; &lt;/f22&gt;&lt;f23&gt;&lt;f24&gt;Then&lt;/f24&gt;&lt;/f23&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T152040Z" creationid="steevie" creationdate="20160509T152040Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;If&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;NOT&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oDoc&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;DatabaseRanges&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;.&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;hasByName&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;(&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;"MioNome"&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;)&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt; &lt;/f22&gt;&lt;f23&gt;&lt;f24&gt;Then&lt;/f24&gt;&lt;/f23&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2070,6 +2102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oAddr&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oRange&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;getRangeAddress&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;()&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T152048Z" creationid="steevie" creationdate="20160509T152048Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oAddr&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oRange&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;getRangeAddress&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;()&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;oAddress&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oRange&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;getRangeAddress&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;()&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T144707Z" creationid="steevie" creationdate="20160509T144707Z">
@@ -2118,10 +2158,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oDoc&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;ThisComponent&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T152019Z" creationid="steevie" creationdate="20160509T152019Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oDoc&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;ThisComponent&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oDoc&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;DatabaseRanges&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;.&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;addNewByName&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;"MyName"&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;,&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt; &lt;/f16&gt;&lt;f17&gt;&lt;f18&gt;oAddr&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;)&lt;/f20&gt;&lt;/f19&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T152103Z" creationid="steevie" creationdate="20160509T152103Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oDoc&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;DatabaseRanges&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;.&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;addNewByName&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;"MioNome"&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;,&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt; &lt;/f16&gt;&lt;f17&gt;&lt;f18&gt;oAddr&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;)&lt;/f20&gt;&lt;/f19&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;oRange&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;ThisComponent&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;NamedRanges&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;.&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;getByName&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;(&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;sName$&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;)&lt;/f21&gt;&lt;/f20&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142455Z" creationid="steevie" creationdate="20160504T142455Z">
         <seg>&lt;f0&gt;&lt;f1&gt;oRange&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;ThisComponent&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;NamedRanges&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;.&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;getByName&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;(&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;sName$&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;)&lt;/f21&gt;&lt;/f20&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oRange&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oDoc&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;DatabaseRanges&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;.&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;getByName&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;(&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;"MyName"&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;)&lt;/f21&gt;&lt;/f20&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T152115Z" creationid="steevie" creationdate="20160509T152115Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oRange&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oDoc&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;DatabaseRanges&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;.&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;getByName&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;(&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;"MioNome"&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;)&lt;/f21&gt;&lt;/f20&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2134,10 +2198,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oRange&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oSheet&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;getCellRangeByName&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;"A1:F10"&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;)&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T152046Z" creationid="steevie" creationdate="20160509T152046Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oRange&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oSheet&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;getCellRangeByName&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;"A1:F10"&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;)&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;oRange&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oSheet&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;getCellRangeByName&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;"C3"&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;)&lt;/f17&gt;&lt;/f16&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T144444Z" creationid="steevie" creationdate="20160504T144444Z">
         <seg>&lt;f0&gt;&lt;f1&gt;oRange&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oSheet&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;getCellRangeByName&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;"C3"&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;)&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oRange&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;AutoFilter&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;=&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;True&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T152128Z" creationid="steevie" creationdate="20160509T152128Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oRange&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;AutoFilter&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;=&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;True&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18701,6 +18781,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T151859Z" creationid="steevie" creationdate="20160428T151859Z">
         <seg>Ordina elenchi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sorting</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T152144Z" creationid="steevie" creationdate="20160509T152144Z">
+        <seg>ordinare</seg>
       </tuv>
     </tu>
     <tu>
