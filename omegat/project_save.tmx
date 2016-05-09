@@ -7286,6 +7286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;317&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T152716Z" creationid="steevie" creationdate="20160509T152716Z">
+        <seg>Figura &lt;seq0&gt;317&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;322&lt;/seq0&gt;: Defining colors to use in color palettes in &lt;f1&gt;LibreOffice&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T151839Z" creationid="steevie" creationdate="20160418T151807Z">
@@ -13295,6 +13303,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sort by the Name column</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T152731Z" creationid="steevie" creationdate="20160509T152731Z">
+        <seg>Ordinare per nome di colonna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sort lists are used for more than sorting, for example filling a series of cells during data entry.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T152328Z" creationid="steevie" creationdate="20160428T152117Z">
@@ -15859,8 +15875,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>To sort the data in &lt;t0&gt;Table 13&lt;/t0&gt; on page &lt;t1&gt;296&lt;/t1&gt;, select the cells from A1 to G16—if you include the column headers, indicate this on the Options page of the sort dialog (see &lt;t2&gt;Figure 318&lt;/t2&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T152536Z" creationid="steevie" creationdate="20160509T152443Z">
-        <seg>Per ordinare i dati nella &lt;t0&gt;Tabella 13&lt;/t0&gt; a pagina &lt;t1&gt;296&lt;/t1&gt;, selezionate le celle da A1 a G16—se volete includere le intestazioni di colonna, indicatelo nella pagina O (see &lt;t2&gt;Figure 318&lt;/t2&gt;).</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T152653Z" creationid="steevie" creationdate="20160509T152443Z">
+        <seg>Per ordinare i dati nella &lt;t0&gt;Tabella 13&lt;/t0&gt; a pagina &lt;t1&gt;296&lt;/t1&gt;, selezionate le celle da A1 a G16—se volete includere le intestazioni di colonna, indicatelo nella pagina Opzioni della finestra di dialogo Ordina (vedi &lt;t2&gt;Figura 318&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16131,8 +16147,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>Use &lt;f0&gt;Data &gt; Sort&lt;/f0&gt; to open the Sort dialog (see &lt;t1&gt;Figure 317&lt;/t1&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T152445Z" creationid="steevie" creationdate="20160509T152445Z">
-        <seg>Use &lt;f0&gt;Data &gt; Sort&lt;/f0&gt; to open the Sort dialog (see &lt;t1&gt;Figure 317&lt;/t1&gt;).</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T152647Z" creationid="steevie" creationdate="20160509T152445Z">
+        <seg>Usare &lt;f0&gt;Data &gt; Ordina&lt;/f0&gt; per aprire la finestra di dialogo Ordina (vedi &lt;t1&gt;Figura 317&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -17605,6 +17621,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160423T144253Z" creationid="luciano" creationdate="20160423T144253Z">
         <seg>Potete condividere le vostre osservazioni in due modi: aggiungendo i commenti alle modifiche fatte, o aggiungendo commenti generali al foglio elettronico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can sort by up to three columns or rows at a time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T152714Z" creationid="steevie" creationdate="20160509T152714Z">
+        <seg>Potete ordinare fino a tre colonne o righe per volta.</seg>
       </tuv>
     </tu>
     <tu>
