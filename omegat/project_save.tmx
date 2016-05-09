@@ -3366,6 +3366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A database range provides behavior that is useful when performing database related activities.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T150655Z" creationid="steevie" creationdate="20160509T150559Z">
+        <seg>Un'area database ha un comportamento che risulta utile quando vi vengono eseguite azioni simili a quelle compiute sui database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A deleted column or row is marked by a heavy colored bar.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160423T124235Z" creationid="luciano" creationdate="20160423T124235Z">
@@ -7642,6 +7650,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084626Z">
         <seg>Ad esempio, potete contribuire producendo a manutenendo documentazione scritta per gli utenti, realizzando delle guide in video e altri servizi di supporto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, you can mark the first row as headings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T150636Z" creationid="steevie" creationdate="20160509T150636Z">
+        <seg>Per esempio, potete contrassegnare la prima riga come intestazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15201,6 +15217,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To create, modify, or delete a database range, use &lt;f0&gt;Data &gt; Define Range&lt;/f0&gt; to open the Define Data Range dialog (see &lt;t1&gt;Figure 316&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T150841Z" creationid="steevie" creationdate="20160509T150819Z">
+        <seg>Per creare, modificare o cancellare un'area database, usate &lt;f0&gt;Dati &gt; Definisci Area&lt;/f0&gt; per aprire la finestra di dialogo Definisci area database (vedi &lt;t1&gt;Figura 316&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To customize &lt;is0/&gt;menus&lt;ie1/&gt;&lt;i2/&gt;:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T162409Z" creationid="steevie" creationdate="20160428T162409Z">
@@ -16605,6 +16629,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160423T143626Z" creationid="luciano" creationdate="20160423T143626Z">
         <seg>Una volta terminato di modificare il documento, potete inviarlo all'allenatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you first define a range, the Modify button shown in the example is labeled New.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T150920Z" creationid="steevie" creationdate="20160509T150831Z">
+        <seg>Quando definite per la prima volta un'area, il pulsante Modifica.</seg>
       </tuv>
     </tu>
     <tu>
