@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5502,6 +5502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creates a document template.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160509T141625Z" creationid="luciano" creationdate="20160509T141557Z">
+        <seg>Crea un nuovo modello di documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating Charts and Graphs</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T102345Z">
@@ -7706,6 +7714,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T065532Z" creationid="steevie" creationdate="20160428T155049Z">
         <seg>&lt;i0/&gt;Opzioni Griglia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Groups the selected data range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160509T141658Z" creationid="luciano" creationdate="20160509T141658Z">
+        <seg>Raggruppa l'area dati selezionata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15185,10 +15201,26 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ungroups the selected data range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160509T141732Z" creationid="luciano" creationdate="20160509T141732Z">
+        <seg>Separa l'area dati selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Updates the selected chart.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160505T163332Z" creationid="luciano" creationdate="20160505T163332Z">
         <seg>Aggiorna il grafico selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Updates the templates.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160509T141616Z" creationid="luciano" creationdate="20160509T141616Z">
+        <seg>Aggiorna il modello di documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16941,6 +16973,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160330T085132Z" creationid="briga" creationdate="20160330T085132Z">
         <seg>applicando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>arrow keys</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160509T141754Z" creationid="luciano" creationdate="20160509T141754Z">
+        <seg>frecce di direzione</seg>
       </tuv>
     </tu>
     <tu>
