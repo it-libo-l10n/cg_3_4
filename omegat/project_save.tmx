@@ -12999,6 +12999,22 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shift+Ctrl+F11</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160509T152753Z" creationid="luciano" creationdate="20160509T152753Z">
+        <seg>Maiusc+Ctrl+F11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shift+Ctrl+F5</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160509T152724Z" creationid="luciano" creationdate="20160509T152724Z">
+        <seg>Maiusc+Ctrl+F5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shift+Ctrl+Page Down</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160504T162101Z" creationid="luciano" creationdate="20160504T162101Z">
@@ -13015,10 +13031,26 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shift+F11</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160509T152734Z" creationid="luciano" creationdate="20160509T152734Z">
+        <seg>Maiusc+F11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shift+F5</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T152650Z" creationid="luciano" creationdate="20160509T152650Z">
         <seg>Maiusc+F5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shift+F7</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160509T152729Z" creationid="luciano" creationdate="20160509T152729Z">
+        <seg>Maiusc+F7</seg>
       </tuv>
     </tu>
     <tu>
@@ -15955,8 +15987,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>Traces dependents.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160505T161915Z" creationid="luciano" creationdate="20160505T161915Z">
-        <seg>Individua dipendenti.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160509T152711Z" creationid="luciano" creationdate="20160505T161915Z">
+        <seg>Individua le celle dipendenti.</seg>
       </tuv>
     </tu>
     <tu>
