@@ -6270,6 +6270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the options for the current field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160509T150544Z" creationid="luciano" creationdate="20160509T150544Z">
+        <seg>Mostra le opzioni per il campo corrente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Docked toolbars can be moved to different locations or made to float, and floating toolbars can be docked.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160323T164024Z">
@@ -10318,6 +10326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move the current field to the last place.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160509T150506Z" creationid="luciano" creationdate="20160509T150506Z">
+        <seg>Sposta nell'ultima prima posizione il campo attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moves one sheet to the left.&lt;f0&gt; &lt;/f0&gt;In the page preview it moves to the previous print page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160504T161302Z" creationid="luciano" creationdate="20160504T161302Z">
@@ -10354,6 +10370,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T150323Z" creationid="luciano" creationdate="20160509T150323Z">
         <seg>Sposta verso destra di una posizione il campo corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves the current field to the first place.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160509T150428Z" creationid="luciano" creationdate="20160509T150334Z">
+        <seg>Sposta nella prima posizione il campo attivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11899,6 +11923,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T122233Z" creationid="steevie" creationdate="20160421T122225Z">
         <seg>Rimuovi le informazioni personali al salvataggio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Removes the current field from the area.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160509T150634Z" creationid="luciano" creationdate="20160509T150634Z">
+        <seg>Rimuove il campo corrente dall'area.</seg>
       </tuv>
     </tu>
     <tu>
