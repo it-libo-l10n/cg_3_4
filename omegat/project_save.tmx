@@ -3830,6 +3830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alt+Shift+Arrow Key</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160509T142430Z" creationid="luciano" creationdate="20160509T142430Z">
+        <seg>Alt+Shift+Tasto freccia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alt+Up Arrow</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T142225Z" creationid="luciano" creationdate="20160509T142225Z">
@@ -10839,6 +10847,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Optimizes the column width or row height based on the current cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160509T142633Z" creationid="luciano" creationdate="20160509T142633Z">
+        <seg>Ottimizza la larghezza della colonna o l'altezza della riga in base alla cella corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Options are described in the Help; many will be familiar to users of other office suites.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T161531Z" creationid="steevie" creationdate="20160428T161531Z">
@@ -17133,6 +17149,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160215T071746Z">
         <seg>cella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cell formatting</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160509T142659Z" creationid="luciano" creationdate="20160509T142659Z">
+        <seg>formattazione della cella</seg>
       </tuv>
     </tu>
     <tu>
