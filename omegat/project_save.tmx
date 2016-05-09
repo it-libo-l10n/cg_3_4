@@ -1694,6 +1694,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f8&gt;&lt;/f7&gt;Double-click on the required page style.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160509T075721Z" creationid="briga" creationdate="20160509T075721Z">
+        <seg>&lt;/f8&gt;&lt;/f7&gt;Fate doppio clic sullo stile di pagina desiderato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f9&gt;&lt;/f8&gt;This removes &lt;f10&gt;all&lt;/f10&gt; defined print ranges on the sheet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T163855Z">
@@ -6486,6 +6494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;110&lt;/seq0&gt;: Status bar showing location of page style information below the sheet tabs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160509T075841Z" creationid="briga" creationdate="20160509T075841Z">
+        <seg>Figura &lt;seq0&gt;110&lt;/seq0&gt;: Barra di stato mostra lo stile di pagina sotto alle linguette dei fogli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;134&lt;/seq0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160313T142504Z">
@@ -8976,8 +8992,8 @@
       <tuv lang="EN">
         <seg>In the Styles and Formatting window, c&lt;f0&gt;&lt;f1&gt;hoose the Page Styles list by clicking the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&lt;df4&gt;&lt;di5/&gt;&lt;s6&gt;page_styles_button&lt;/s6&gt;&lt;/df4&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f7&gt;&lt;f8&gt; icon.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160509T075535Z" creationid="briga" creationdate="20160509T075535Z">
-        <seg>Nella fin+, c&lt;f0&gt;&lt;f1&gt;hoose the Page Styles list by clicking the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&lt;df4&gt;&lt;di5/&gt;&lt;s6&gt;page_styles_button&lt;/s6&gt;&lt;/df4&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f7&gt;&lt;f8&gt; icon.</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160509T075656Z" creationid="briga" creationdate="20160509T075535Z">
+        <seg>Nella finestra Stile e formattazione s&lt;f0&gt;&lt;f1&gt;cegliete gli Stili di pagina facendo clic sull'icona  &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&lt;df4&gt;&lt;di5/&gt;&lt;s6&gt;page_styles_button&lt;/s6&gt;&lt;/df4&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f7&gt;&lt;f8&gt; .</seg>
       </tuv>
     </tu>
     <tu>
@@ -14637,6 +14653,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165537Z" creationid="Luciano B." creationdate="20160325T165537Z">
         <seg>Per esportare pagine singole, usate il formato &lt;f2&gt;7;9;11&lt;/f2&gt; (pagine 7, 9 e 11).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To find out which page style is in use for a selected sheet, look in the status bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160509T075800Z" creationid="briga" creationdate="20160509T075800Z">
+        <seg>Per sapere lo stile che è applicato alla pagina per un determinato foglio fate riferimento alla barra di stato.</seg>
       </tuv>
     </tu>
     <tu>
