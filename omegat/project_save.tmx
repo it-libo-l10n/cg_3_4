@@ -2678,6 +2678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Pivot table&lt;/f0&gt; shortcuts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160509T144232Z" creationid="luciano" creationdate="20160509T144232Z">
+        <seg>&lt;f0&gt;Tabelle Pivot&lt;/f0&gt; Tasti di scelta rapida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Reduce/Enlarge printout&lt;/f0&gt;—scales the data in the printout either larger or smaller.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T164148Z">
@@ -13023,10 +13031,42 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Standard currency format</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160509T144004Z" creationid="luciano" creationdate="20160509T144004Z">
+        <seg>Formato valuta standard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Standard date format</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160509T143939Z" creationid="luciano" creationdate="20160509T143939Z">
+        <seg>Formato darta standard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Standard exponential format</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T143924Z" creationid="luciano" creationdate="20160509T143924Z">
         <seg>Formato esponenziale standardt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Standard format</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160509T144051Z" creationid="luciano" creationdate="20160509T144051Z">
+        <seg>Formato standard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Standard percentage format (two decimal places)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160509T144032Z" creationid="luciano" creationdate="20160509T144032Z">
+        <seg>Formato percentuale standard (due cifre decimali)</seg>
       </tuv>
     </tu>
     <tu>
