@@ -1798,6 +1798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oRange&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;'DatabaseRange object.&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T151753Z" creationid="steevie" creationdate="20160509T151753Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oRange&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;'Oggetto DatabaseRange.&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oRange&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;' The created range.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T141045Z" creationid="steevie" creationdate="20160504T141045Z">
@@ -1994,6 +2002,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T140908Z" creationid="steevie" creationdate="20160504T140908Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;AddNamedRange&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;AddNewDatabaseRange&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T151737Z" creationid="steevie" creationdate="20160509T151737Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;AggiungiAreaDatabase&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5658,6 +5674,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090306Z">
         <seg>Cover art:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create a database range and an auto filter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T151713Z" creationid="steevie" creationdate="20160509T151713Z">
+        <seg>Creare un'area database e un auto filtro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10030,6 +10054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Listing &lt;seq0&gt;13&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T151658Z" creationid="steevie" creationdate="20160509T151658Z">
+        <seg>Listato &lt;seq0&gt;13&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Loading a saved keyboard configuration</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172530Z" creationid="steevie" creationdate="20160428T172530Z">
@@ -14211,8 +14243,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>The macro in &lt;t0&gt;Listing 13&lt;/t0&gt; creates a database range named &lt;f1&gt;MyName&lt;/f1&gt; and sets the range to be used as an auto filter.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T151227Z" creationid="steevie" creationdate="20160509T151227Z">
-        <seg>La macro nel &lt;t0&gt;Listato 13&lt;/t0&gt; crea un'area database chiamata &lt;f1&gt;MioNome&lt;/f1&gt; and sets the range to be used as an auto filter.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T151534Z" creationid="steevie" creationdate="20160509T151227Z">
+        <seg>La macro nel &lt;t0&gt;Listato 13&lt;/t0&gt; crea un'area database chiamata &lt;f1&gt;MioNome&lt;/f1&gt; e la imposta per essere usata come un auto filtro.</seg>
       </tuv>
     </tu>
     <tu>
