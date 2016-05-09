@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>0</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T144908Z" creationid="steevie" creationdate="20160509T144908Z">
+        <seg>0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>01/01/1900 (StarCalc 1.0)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145647Z" creationid="steevie" creationdate="20160427T145647Z">
@@ -2038,6 +2046,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;com&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;sun&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;.&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;star&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;sheet&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;Border&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;.&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;TOP&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;)&lt;/f23&gt;&lt;/f22&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T144714Z" creationid="steevie" creationdate="20160509T144714Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;com&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;sun&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;.&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;star&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;sheet&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;Border&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;.&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;TOP&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;)&lt;/f23&gt;&lt;/f22&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oAddress&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oRange&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;getRangeAddress&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;()&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T144707Z" creationid="steevie" creationdate="20160509T144707Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oAddress&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oRange&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;getRangeAddress&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;()&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;oCell&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oRange&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;getReferredCells&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;().&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;getCellByPosition&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;(&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;0&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;,&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;0&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;)&lt;/f25&gt;&lt;/f24&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142513Z" creationid="steevie" creationdate="20160504T142513Z">
@@ -2086,6 +2110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oRange&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oSheet&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;getCellRangeByName&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;"A1:C20"&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;)&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T144704Z" creationid="steevie" creationdate="20160509T144704Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oRange&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oSheet&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;getCellRangeByName&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;"A1:C20"&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;)&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;oRange&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oSheet&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;getCellRangeByName&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;"C3"&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;)&lt;/f17&gt;&lt;/f16&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T144444Z" creationid="steevie" creationdate="20160504T144444Z">
@@ -2114,6 +2146,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T144449Z" creationid="steevie" creationdate="20160504T144449Z">
         <seg>&lt;f0&gt;&lt;f1&gt;oRanges&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;addNewByName&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;sName&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;,&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;"A3+B3"&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;,&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;&lt;f19&gt;oCellAddress&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;,&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt; &lt;/f22&gt;&lt;f23&gt;&lt;f24&gt;0&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt;)&lt;/f26&gt;&lt;/f25&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oRanges&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;addNewFromTitles&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oAddress&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;,&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;_&lt;/f14&gt;&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T144709Z" creationid="steevie" creationdate="20160509T144709Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oRanges&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;addNewFromTitles&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oAddress&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;,&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;_&lt;/f14&gt;&lt;/f13&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4274,6 +4314,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T151602Z" creationid="steevie" creationdate="20160503T151602Z">
         <seg>B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>BOTTOM</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T144927Z" creationid="steevie" creationdate="20160509T144927Z">
+        <seg>BOTTOM</seg>
       </tuv>
     </tu>
     <tu>
@@ -9710,6 +9758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LEFT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T144947Z" creationid="steevie" creationdate="20160509T144947Z">
+        <seg>LEFT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Large handles</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T141803Z" creationid="steevie" creationdate="20160427T141803Z">
@@ -11583,6 +11639,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>RIGHT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T144938Z" creationid="steevie" creationdate="20160509T144938Z">
+        <seg>RIGHT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ROW_HEADER</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T143017Z" creationid="steevie" creationdate="20160504T143017Z">
@@ -12215,6 +12279,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the bottom border.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T144937Z" creationid="steevie" creationdate="20160509T144937Z">
+        <seg>Seleziona il bordo inferiore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the cell range using the mouse cursor, or directly type in the cell references using the format of the selection already in the text box.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T103406Z">
@@ -12271,6 +12343,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the left border.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T145003Z" creationid="steevie" creationdate="20160509T145003Z">
+        <seg>Seleziona il bordo sinistro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the original document and click &lt;/f0&gt;&lt;f1&gt;Insert&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160428T160535Z" creationid="luciano" creationdate="20160428T160535Z">
@@ -12287,6 +12367,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the right border.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T144947Z" creationid="steevie" creationdate="20160509T144947Z">
+        <seg>Seleziona il bordo destro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the sheet to be styled (click on its sheet tab at the bottom of the screen).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160509T075528Z" creationid="briga" creationdate="20160509T075528Z">
@@ -12299,6 +12387,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145621Z" creationid="steevie" creationdate="20160427T145621Z">
         <seg>Selezionate la &lt;i0/&gt;data d'inizio per la conversione interna da giorni a numeri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the top border.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T144926Z" creationid="steevie" creationdate="20160509T144926Z">
+        <seg>Seleziona il bordo superiore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13288,6 +13384,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TOP</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T144910Z" creationid="steevie" creationdate="20160509T144910Z">
+        <seg>TOP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Table &lt;seq0&gt;13&lt;/seq0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T151541Z" creationid="steevie" creationdate="20160503T151541Z">
@@ -13300,6 +13404,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142749Z" creationid="steevie" creationdate="20160504T142749Z">
         <seg>Tabella &lt;seq0&gt;14&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;15&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T144844Z" creationid="steevie" creationdate="20160509T144844Z">
+        <seg>Tabella &lt;seq0&gt;15&lt;/seq0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13716,6 +13828,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163452Z" creationid="steevie" creationdate="20160428T163452Z">
         <seg>I comandi disponibili per il menu selezionato sono mostrati nella parte centrale della finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The constants in &lt;t0&gt;Table 15&lt;/t0&gt; determine the location of the headers when multiple ranges are created using the method addNewFromTitles().</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T144839Z" creationid="steevie" creationdate="20160509T144839Z">
+        <seg>Le costanti elencate in &lt;t0&gt;Tabella 15&lt;/t0&gt; determinano la posizione dell'intestazione quando intervalli multipli vengono creati usando il metodo addNewFromTitles().</seg>
       </tuv>
     </tu>
     <tu>
@@ -17469,6 +17589,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T151337Z" creationid="steevie" creationdate="20160418T151337Z">
         <seg>colori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>com.sun.star.sheet.Border constants.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T144901Z" creationid="steevie" creationdate="20160509T144901Z">
+        <seg>Costanti in com.sun.star.sheet.Border.</seg>
       </tuv>
     </tu>
     <tu>
