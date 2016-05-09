@@ -5598,6 +5598,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copies or moves the current field into the “Column” area.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160509T150056Z" creationid="luciano" creationdate="20160509T150056Z">
+        <seg>Copia o sposta il campo attivo nell'area "Colonna".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copies or moves the current field into the “Data” area.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160509T150111Z" creationid="luciano" creationdate="20160509T150111Z">
+        <seg>Copia o sposta il campo attivo nell'area "Dati".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copies or moves the current field into the “Row” area.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160509T150048Z" creationid="luciano" creationdate="20160509T150048Z">
+        <seg>Copia o sposta il campo attivo nell'area "Riga".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copying and moving styles</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T102813Z">
@@ -10286,6 +10310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moves the current field up one place.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160509T150201Z" creationid="luciano" creationdate="20160509T150201Z">
+        <seg>Sposta verso l'alto di una posMoves il campo corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moves the cursor to the Name box.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160505T162002Z" creationid="luciano" creationdate="20160505T162002Z">
@@ -12531,6 +12563,22 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160505T142736Z" creationid="luciano" creationdate="20160505T142736Z">
         <seg>Seleziona l'area dati che contiene il cursore.&lt;f0&gt; &lt;/f0&gt;L'intervallo è composto dalle celle contigue contenenti dati ed è delimitato dalle righe e colonne vuote.&lt;f1&gt; &lt;/f1&gt;Il simbolo“&lt;f2&gt;&lt;f3&gt;*&lt;/f3&gt;&lt;/f2&gt;” è&lt;f4&gt; il segno di moltiplicazione presente nel tastierino numerico.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selects the first field in the current layout area.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160509T150002Z" creationid="luciano" creationdate="20160509T150002Z">
+        <seg>Seleziona il primo elemento nell'area attiva della finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selects the last field in the current layout area.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160509T150017Z" creationid="luciano" creationdate="20160509T150017Z">
+        <seg>Seleziona l'ultimo elemento nell'area attiva della finestra di dialogo.</seg>
       </tuv>
     </tu>
     <tu>
