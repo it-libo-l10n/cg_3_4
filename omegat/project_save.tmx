@@ -5126,6 +5126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check the &lt;f0&gt;Custom sort order&lt;/f0&gt; checkbox to sort based on a predefined list of values.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T135645Z" creationid="steevie" creationdate="20160510T135645Z">
+        <seg>Spuntate la casella di controllo &lt;f0&gt;Sequenza d'ordine definita dall'utente&lt;/f0&gt; per un ordinamento basato su una lista predefinita di valori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check the &lt;f1&gt;Range contains column labels&lt;/f1&gt; checkbox to prevent column headers from being sorted with the rest of the data.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T154200Z" creationid="steevie" creationdate="20160509T154200Z">
@@ -7782,6 +7790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, sorting days based on their name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T140021Z" creationid="steevie" creationdate="20160510T140021Z">
+        <seg>Ad esempio, ordinare i giorni secondo il loro nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, to select the &lt;f0&gt;Send&lt;/f0&gt; submenu command by pressing &lt;f1&gt;&lt;f2&gt;S&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt; (after opening the File menu using &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;Alt+F&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;)&lt;/f7&gt;&lt;/f6&gt;, enter &lt;f8&gt;&lt;f9&gt;~Send&lt;/f9&gt;&lt;/f8&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164233Z" creationid="steevie" creationdate="20160428T164233Z">
@@ -8490,6 +8506,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143227Z" creationid="steevie" creationdate="20160427T143227Z">
         <seg>Se la cella contiene testo più lungo della larghezza della cella, viene mostrato sopra le celle adiacenti nella stessa riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a cell that contains a relative reference to another cell is moved, the reference is relative to the new position when sorting is finished.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T140204Z" creationid="steevie" creationdate="20160510T140204Z">
+        <seg>Se viene spostata una cella che contiene un riferimento relativo a un'altra cella, il riferimento viene aggiornato al termine dell'ordinamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11695,6 +11719,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Predefined sort lists are useful for sorting lists of data that should not be sorted alphabetically or numerically.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T140001Z" creationid="steevie" creationdate="20160510T140001Z">
+        <seg>Le liste ordinate predefinite sono utili per l'ordinamento di elenchi di dati che non dovrebbero essere ordinati alfabeticamente o numericamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preface</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090506Z">
@@ -13976,6 +14008,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Copy sort results to&lt;/f0&gt; checkbox, however, causes the selected data to be left unchanged and a copy of the sorted data is copied to the specified location.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T135445Z" creationid="steevie" creationdate="20160510T135445Z">
+        <seg>Tuttavia, la casella di controllo &lt;f0&gt;Area destinazione risultato&lt;/f0&gt; non sposta i dati originali, ma copia i dati ordinati nella posizione indicata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Sheet&lt;/f0&gt; tab of the Page Style dialog (&lt;t1&gt;Figure 144&lt;/t1&gt;) provides the following options.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T162301Z">
@@ -15889,6 +15929,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To set your own predefined lists, use &lt;f1&gt;Tools &gt; Options &gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;LibreOffice&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Calc &gt; Sort Lists&lt;/f4&gt; and then enter your own sort lists.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T135856Z" creationid="steevie" creationdate="20160510T135856Z">
+        <seg>Per indicare le vostre liste predefinite, potete usare &lt;f1&gt;Strumenti &gt; Opzioni &gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;LibreOffice&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Calc &gt; Ordina elenchi&lt;/f4&gt;, quindi indicare le vostre liste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To show or hide icons defined for the selected toolbar, choose &lt;f0&gt;Visible Buttons&lt;/f0&gt; from the drop-down menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T140052Z" creationid="michele" creationdate="20160414T140052Z">
@@ -16753,6 +16801,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When a cell is moved during a sort operation, external references to that cell are not updated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T140058Z" creationid="steevie" creationdate="20160510T140058Z">
+        <seg>Quando una cella è spostata durante un'operazione di ordinamento, i riferimenti esterni a quella cella non vengono aggiornati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When a file saved in ODF 1.2 Extended is opened in an earlier version of &lt;/f5&gt;&lt;f6&gt;LibreOffice&lt;/f6&gt;&lt;f7&gt; (using ODF 1.0/1.1), some of the advanced features may be lost.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T125850Z" creationid="steevie" creationdate="20160421T125850Z">
@@ -17541,6 +17597,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160424T134803Z" creationid="luciano" creationdate="20160424T134803Z">
         <seg>È possibile modificare e formattare il testo di un commento, proprio come per qualsiasi altro testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can either directly enter a target address (Sheet3.A1, for example) or select a predefined range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T135548Z" creationid="steevie" creationdate="20160510T135548Z">
+        <seg>Potete sia indicare un indirizzo di destinazione (ad esempio Foglio3.A1) o selezionare un intervallo predefinito.</seg>
       </tuv>
     </tu>
     <tu>
