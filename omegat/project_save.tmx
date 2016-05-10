@@ -4144,8 +4144,8 @@
       <tuv lang="EN">
         <seg>Although you can place the auto filter in any row, only the rows below the auto filter are filtered.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T143222Z" creationid="steevie" creationdate="20160510T143222Z">
-        <seg>Although you can place the auto filter in any row, only the rows below the auto filter are filtered.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T143530Z" creationid="steevie" creationdate="20160510T143222Z">
+        <seg>Nonostante .si possa posizionare un filtro automatico in ogni riga, solo le righe al di sotto vengono filtrate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7374,6 +7374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;319&lt;/seq0&gt;: Use an auto filter with column C</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T143827Z" creationid="steevie" creationdate="20160510T143827Z">
+        <seg>Figura &lt;seq0&gt;319&lt;/seq0&gt;: Usare un filtro automatico nella colonna C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;322&lt;/seq0&gt;: Defining colors to use in color palettes in &lt;f1&gt;LibreOffice&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T151839Z" creationid="steevie" creationdate="20160418T151807Z">
@@ -7642,6 +7650,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160206T083653Z">
         <seg>Filtri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Finally, use the drop-down arrow to choose an appropriate auto filter (&lt;t2&gt;Figure 319&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T143753Z" creationid="steevie" creationdate="20160510T143753Z">
+        <seg>Infine fate clic sulla freccia in basso del menu a tendina per scegliere il filtro appropriato (&lt;t2&gt;Figura 319&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12263,6 +12279,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove an auto filter by repeating the steps to create the auto filter—in other words, the menu option acts as a toggle to turn the auto filter on and off.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T143950Z" creationid="steevie" creationdate="20160510T143950Z">
+        <seg>Per rimuovere un filtro automatico ripetete i passi fatti per crearlo—in altre parole, le opzioni del menu servono come commutatore per attivare e disattivare i filtri automatici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove personal information on saving</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T122233Z" creationid="steevie" creationdate="20160421T122225Z">
@@ -14633,6 +14657,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The macro in &lt;t0&gt;Listing 13&lt;/t0&gt; demonstrates creating an auto filter for a range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T144109Z" creationid="steevie" creationdate="20160510T144109Z">
+        <seg>La macro nel &lt;t0&gt;Listato 13&lt;/t0&gt; mostra la creazione di un filtro automatico per un intervallo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The macro in &lt;t1&gt;Listing 11&lt;/t1&gt; creates the named range &lt;f2&gt;AddLeft&lt;/f2&gt;, which refers to the equation &lt;f3&gt;A3+B3&lt;/f3&gt; with C3 as the reference cell.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T143444Z" creationid="steevie" creationdate="20160504T143444Z">
@@ -16417,6 +16449,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &lt;f1&gt;Data &gt; Filter &gt; AutoFilter&lt;/f1&gt; to insert the auto filter combo box in the appropriate cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T143623Z" creationid="steevie" creationdate="20160510T143623Z">
+        <seg>Usate &lt;f1&gt;Dati &gt; Filtro &gt; Filtro automatico&lt;/f1&gt; per inserire la casella combinata nella cella appropriata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &lt;f4&gt;Insert &gt; Names &gt; Define&lt;/f4&gt; to open the Define Names dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T135523Z" creationid="steevie" creationdate="20160504T135523Z">
@@ -17013,6 +17053,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164250Z" creationid="steevie" creationdate="20160428T164250Z">
         <seg>Quando assegnate una scorciatoia ai menu personalizzati, assicuratevi di non utilizzare una lettera già utilizzata per un'altra scorciatoia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When an auto filter is removed, the combo box is removed from the cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T144026Z" creationid="steevie" creationdate="20160510T144026Z">
+        <seg>Quando il filtro automatico viene rimosso, la casella combinata viene eliminata dalla cella.</seg>
       </tuv>
     </tu>
     <tu>
