@@ -4142,6 +4142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although you can place the auto filter in any row, only the rows below the auto filter are filtered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T143222Z" creationid="steevie" creationdate="20160510T143222Z">
+        <seg>Although you can place the auto filter in any row, only the rows below the auto filter are filtered.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An &lt;i0/&gt;extension is a package that can be installed into &lt;f1&gt;LibreOffice&lt;/f1&gt; to add new functionality.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T173043Z" creationid="steevie" creationdate="20160428T173043Z">
@@ -4162,6 +4170,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T132155Z" creationid="michele" creationdate="20160414T132155Z">
         <seg>Una barra degli strumenti attiva mostra un segno di spunta vicino al suo nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An auto filter entry is created for each unique entry in the column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T142941Z" creationid="steevie" creationdate="20160510T142941Z">
+        <seg>Una voce per il filtro automatico viene creata per ogni voce unica nella colonna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7846,6 +7862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, using the data in &lt;t0&gt;Table 13&lt;/t0&gt;, select data in columns B and C. If you do not select the title rows, Calc asks if the title row or the current row should be used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T143232Z" creationid="steevie" creationdate="20160510T143212Z">
+        <seg>Per esempio, usando i dati nella &lt;t0&gt;Tabella 13&lt;/t0&gt;, selezionate le colonne B e C. Se non selezionate l'intestazione Calc vi chiede se usare la riga corrente o lì'intestazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, you can create a template for invoices that has your company’s logo and address at the top of the page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160213T104643Z">
@@ -8798,6 +8822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the value 70 is in the top ten values, then all rows containing the value 70 in the filtered column are displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T142856Z" creationid="steevie" creationdate="20160510T142856Z">
+        <seg>Se il valore 70 è tra i primi dieci valori, tutte le righe contenenti il valore 70 nella colonna filtrata sono visualizzate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If there is no empty neighboring cell, a small triangle at the cell border indicates that the text continues.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143326Z" creationid="steevie" creationdate="20160427T143326Z">
@@ -9386,6 +9418,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T155400Z">
         <seg>Per rimuovere l'interruzione, dovrete trovarvi in una cella adiacenta ad essa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In other words, more than ten rows may be displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T142913Z" creationid="steevie" creationdate="20160510T142913Z">
+        <seg>In altre parole, possono essere visualizzate più di dieci colonne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14144,6 +14184,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The All auto filter causes all rows to be visible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T142524Z" creationid="steevie" creationdate="20160510T142524Z">
+        <seg>Il filtro automatico Tutto rende visibili tutte le righe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The DataPilot dialog</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095457Z">
@@ -14256,10 +14304,26 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Standard auto filter opens the Standard Filter dialog and is the same as the standard filter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T142739Z" creationid="steevie" creationdate="20160510T142739Z">
+        <seg>Il Filtro standard apre la finestra di dialogo Filtro standard ed è esattamente il filtro standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Style dialog has several tabs.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160509T080547Z" creationid="briga" creationdate="20160509T080539Z">
         <seg>La finestra di dialogo Stile ha diverse schede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Top 10 auto filter displays the ten rows with the largest value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T142817Z" creationid="steevie" creationdate="20160510T142817Z">
+        <seg>Il filtro Top 10 visualizza le dieci righe con il valore più alto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15613,6 +15677,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165239Z" creationid="steevie" creationdate="20160428T165239Z">
         <seg>Per creare una nuova barra degli strumenti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To create an auto filter, first select the columns to filter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T143005Z" creationid="steevie" creationdate="20160510T143005Z">
+        <seg>Per creare un filtro automatico, selezionate prima la colonna da filtrare.</seg>
       </tuv>
     </tu>
     <tu>
