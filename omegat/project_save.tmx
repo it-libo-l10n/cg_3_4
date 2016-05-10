@@ -3822,6 +3822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After applying a filter, some rows are visible and some rows are not.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T141516Z" creationid="steevie" creationdate="20160510T141516Z">
+        <seg>Dopo aver applicato un filtro, alcune righe sono visibili, mentre altre no.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After clicking &lt;f0&gt;OK&lt;/f0&gt;, the document is opened in shared mode.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T155300Z" creationid="Luciano B." creationdate="20160411T155300Z">
@@ -3842,6 +3850,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165618Z" creationid="steevie" creationdate="20160428T165618Z">
         <seg>Dopo aver creato una nuova barra degli strumenti è necessario aggiungervi dei comandi, come descritto di seguito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After creating an auto filter for a specific column, a combo box is added to the column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T142200Z" creationid="steevie" creationdate="20160510T142200Z">
+        <seg>Dopo aver creato un filtro automatico per una colonna prefissata, una casella combinata viene aggiunta alla colonna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4402,6 +4418,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160425T120718Z" creationid="luciano" creationdate="20160425T120621Z">
         <seg>Autore –  Sono visualizzate solo le modifiche apportateda uno specifico autore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto filters</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T141958Z" creationid="steevie" creationdate="20160510T141958Z">
+        <seg>Filtri automatici</seg>
       </tuv>
     </tu>
     <tu>
@@ -8182,6 +8206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Generic filters, common to all sorts of data manipulations, are automatically provided by the auto filter capability.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T141439Z" creationid="steevie" creationdate="20160510T141439Z">
+        <seg>Filtri generici, comuni a tutti i tipi di manipolazione dei dati, sono forniti automaticamente dall'auto filtro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Grade</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T151620Z" creationid="steevie" creationdate="20160503T151620Z">
@@ -9026,6 +9058,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T173133Z" creationid="Luciano B." creationdate="20160325T171651Z">
         <seg>Se selezionate PDF/A-1a, gli elementi tralasciati saranno in grigio (non disponibili).&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you select multiple rows in one operation, you will also select the invisible rows contained between the selected visible rows.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T141613Z" creationid="steevie" creationdate="20160510T141613Z">
+        <seg>Selezionando fighe multiple in una operazione, anche le righe invisibili contenute tra quelle visibili saranno selezionate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11451,6 +11491,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T164424Z" creationid="Luciano B." creationdate="20160325T164424Z">
         <seg>Aprire la finestra di dialogo Attributi di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Operations, such as delete, act on all of the selected rows.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T141755Z" creationid="steevie" creationdate="20160510T141755Z">
+        <seg>Operazioni come l'eliminazione di una riga agiscono su tutte le righe selezionate, incluse quelle invisibili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14320,6 +14368,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The combo box provides quick access to each of the auto filter types.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T142243Z" creationid="steevie" creationdate="20160510T142243Z">
+        <seg>La casella combinata fornisce un accesso facilitato a ognuno dei tipi di filtro automatico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The commands available for the selected menu are shown in the central part of the dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163452Z" creationid="steevie" creationdate="20160428T163452Z">
@@ -15481,6 +15537,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To avoid this problem, you must individually select each of the filtered rows using the control key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T141921Z" creationid="steevie" creationdate="20160510T141921Z">
+        <seg>Per evitare questo problema, ogni riga da filtrare va selezionata tenendo premuto il tasto CTRL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To begin this process:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T152233Z" creationid="luciano" creationdate="20160426T154717Z">
@@ -16293,6 +16357,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T160416Z" creationid="steevie" creationdate="20160418T160416Z">
         <seg>Nella pagina &lt;i0/&gt;&lt;f1&gt;&lt;f2&gt;LibreOffice&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;– &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Sicurezza&lt;/f6&gt; potete stabilire le opzioni di sicurezza per il salvataggio dei documenti e il caricamento di quei documenti che contengono macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;is0/&gt;auto&lt;ie1/&gt; filters to quickly create easily accessible filters commonly used in many different types of applications.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T142123Z" creationid="steevie" creationdate="20160510T142123Z">
+        <seg>Usate i filtri &lt;is0/&gt;automatici&lt;ie1/&gt; per creare velocemente filtri accessibili in maniera semplice usati comunemente in molti tipi diversi di applicazioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17417,6 +17489,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also define your own filters.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T141454Z" creationid="steevie" creationdate="20160510T141454Z">
+        <seg>Si possono definire anche filtri personali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also export a combination of page ranges and single pages, by using a format like &lt;f3&gt;3-6;8;10;12&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165557Z" creationid="Luciano B." creationdate="20160325T165557Z">
@@ -18101,6 +18181,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170951Z" creationid="steevie" creationdate="20160428T170951Z">
         <seg>assegnare combinazioni di tasti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>auto filters</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T141947Z" creationid="steevie" creationdate="20160510T141947Z">
+        <seg>filtri automatici</seg>
       </tuv>
     </tu>
     <tu>
