@@ -1734,6 +1734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;80</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T142257Z" creationid="steevie" creationdate="20160511T142257Z">
+        <seg>&lt;80</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;http://www.libreoffice.org/get-help/accessibility/&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084118Z">
@@ -3110,6 +3118,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Quiz&lt;/f0&gt; 1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T142240Z" creationid="steevie" creationdate="20160511T142240Z">
+        <seg>&lt;f0&gt;Quiz&lt;/f0&gt; 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Quiz&lt;/f0&gt; 2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T142251Z" creationid="steevie" creationdate="20160511T142251Z">
+        <seg>&lt;f0&gt;Quiz&lt;/f0&gt; 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Reduce/Enlarge printout&lt;/f0&gt;—scales the data in the printout either larger or smaller.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T164148Z">
@@ -3694,6 +3718,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>="Andy"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T142256Z" creationid="steevie" creationdate="20160511T142256Z">
+        <seg>="Andrea"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&gt;80</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T142256Z" creationid="steevie" creationdate="20160511T142256Z">
+        <seg>&gt;80</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T151601Z" creationid="steevie" creationdate="20160503T151601Z">
@@ -4104,8 +4144,8 @@
       <tuv lang="EN">
         <seg>Advanced filters</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T141241Z" creationid="steevie" creationdate="20160511T141241Z">
-        <seg>Filtri avanzati</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T141506Z" creationid="steevie" creationdate="20160511T141241Z">
+        <seg>Filtri speciali</seg>
       </tuv>
     </tu>
     <tu>
@@ -4464,8 +4504,8 @@
       <tuv lang="EN">
         <seg>An &lt;is0/&gt;advanced&lt;ie1/&gt; filter supports up to eight filter conditions, as opposed to the three supported by the simple filter.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T141323Z" creationid="steevie" creationdate="20160511T141323Z">
-        <seg>Un filtro &lt;is0/&gt;avanzato&lt;ie1/&gt;ammette fino a otto condizioni, invece delle tre ammesse da un filtro semplice.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T141515Z" creationid="steevie" creationdate="20160511T141323Z">
+        <seg>Un filtro &lt;is0/&gt;speciale&lt;ie1/&gt; ammette fino a otto condizioni, invece delle tre ammesse da un filtro semplice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6878,6 +6918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Duplicate the column headings from the area to be filtered into the area that will contain the filter criteria.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T141744Z" creationid="steevie" creationdate="20160511T141622Z">
+        <seg>Duplicate le intestazioni di colonna dall'area da filtrare nell'area che conterrà i criteri filtro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dynamic charts; a wide range of 2D and 3D charts.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T102411Z">
@@ -7110,6 +7158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter the filter criteria underneath the column headings (see &lt;t0&gt;Table 16&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T141816Z" creationid="steevie" creationdate="20160511T141816Z">
+        <seg>Indicate i criteri filtro al di sotto delle intestazioni di colonna (vedi &lt;t0&gt;Tabella 16&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter the new values that define the color.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T151850Z" creationid="steevie" creationdate="20160418T151850Z">
@@ -7138,6 +7194,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T101341Z">
         <seg>Codici di errore visualizzati all'interno delle celle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Example advanced filter criteria</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T142234Z" creationid="steevie" creationdate="20160511T142234Z">
+        <seg>Esempio di criteri per filtro speciale</seg>
       </tuv>
     </tu>
     <tu>
@@ -13375,6 +13439,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select an empty space in the Calc document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T141614Z" creationid="steevie" creationdate="20160511T141614Z">
+        <seg>Selezionate uno spazio vuoto nel documento Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the &lt;f0&gt;Properties&lt;/f0&gt; button to display a printer-specific dialog where you can choose portrait or landscape &lt;i1/&gt;orientation, which paper tray to use, and the paper size to print on.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T095354Z">
@@ -14656,6 +14728,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;16&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T142223Z" creationid="steevie" creationdate="20160511T142223Z">
+        <seg>Tabella &lt;seq0&gt;16&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Table &lt;seq0&gt;1&lt;/seq0&gt;: Free support for LibreOffice users</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T083728Z">
@@ -15138,8 +15218,24 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The criteria for an advanced filter is stored in a sheet.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T141411Z" creationid="steevie" creationdate="20160511T141411Z">
-        <seg>I criteri per un filtro avanzato sono salvati in un foglio.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T141524Z" creationid="steevie" creationdate="20160511T141411Z">
+        <seg>I criteri per un filtro speciale sono salvati in un foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The criteria from each row are connected with OR.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T142219Z" creationid="steevie" creationdate="20160511T142219Z">
+        <seg>I criteri in ciascuna riga sono collegati da un OR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The criterion in each column of a row is connected with AND.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T142148Z" creationid="steevie" creationdate="20160511T142148Z">
+        <seg>All'interno di una riga, i criteri di ogni colonna sono collegati da un AND.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15184,6 +15280,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The empty space may reside in any sheet in any location in the Calc document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T141652Z" creationid="steevie" creationdate="20160511T141619Z">
+        <seg>Lo spazio vuoto può trovarsi in qualsiasi posizione del documento Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The example shows &lt;f1&gt;LibreOffice&lt;/f1&gt;’s predefined cell styles.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T171526Z" creationid="steevie" creationdate="20160428T171526Z">
@@ -15213,6 +15317,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T101739Z">
         <seg>
 Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9 ($C$9) nell'angolo inferiore destro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first step in creating an advanced filter is entering the filter criteria into the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T141558Z" creationid="steevie" creationdate="20160511T141455Z">
+        <seg>Il primo passo per creare un filtro speciale è indicare i criteri filtro nel foglio di calcolo.</seg>
       </tuv>
     </tu>
     <tu>
