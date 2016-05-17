@@ -3350,6 +3350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Table &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;17&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T132501Z" creationid="steevie" creationdate="20160517T132501Z">
+        <seg>&lt;f0&gt;Tabella &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;17&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Print in reverse page order&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; option can be selected with any of the above options.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T100414Z">
@@ -4238,6 +4246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Advanced filter properties.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T132514Z" creationid="steevie" creationdate="20160517T132514Z">
+        <seg>Proprietà dei filtri speciali.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Advanced filters</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T141506Z" creationid="steevie" creationdate="20160511T141241Z">
@@ -5082,6 +5098,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T160532Z" creationid="Luciano B." creationdate="20160326T160532Z">
         <seg>Segnalibri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Boolean (true or false) that specifies if the first row (or column) contains headers which should not be filtered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T132704Z" creationid="steevie" creationdate="20160517T132704Z">
+        <seg>Valore booleano (vero o falso) che indica se la prima riga (o colonna) contiene intestazioni che non devono essere filtrate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Boolean that specifies if the filtered data should be copied to another position in the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133131Z" creationid="steevie" creationdate="20160517T133131Z">
+        <seg>Valore booleano che indica se i dati filtrati devono essere copiati in un'altra posizione nel documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6150,6 +6182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T132537Z" creationid="steevie" creationdate="20160517T132537Z">
+        <seg>Commento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Comment indicator</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T142113Z" creationid="steevie" creationdate="20160427T142113Z">
@@ -6210,6 +6250,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095640Z">
         <seg>Consolidare i dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ContainsHeader</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T132539Z" creationid="steevie" creationdate="20160517T132539Z">
+        <seg>ContainsHeader</seg>
       </tuv>
     </tu>
     <tu>
@@ -6290,6 +6338,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T150048Z" creationid="luciano" creationdate="20160509T150048Z">
         <seg>Copia o sposta il campo attivo nell'area "Riga".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CopyOutputData</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T132704Z" creationid="steevie" creationdate="20160517T132704Z">
+        <seg>CopyOutputData</seg>
       </tuv>
     </tu>
     <tu>
@@ -10486,6 +10542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>IsCaseSensitive</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133133Z" creationid="steevie" creationdate="20160517T133133Z">
+        <seg>IsCaseSensitive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It does not have a colored border, unless the cell was also changed.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160424T133712Z" creationid="luciano" creationdate="20160424T133712Z">
@@ -12587,6 +12651,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084405Z">
         <seg>I guadagni derivanti dalla vendita dell'edizione stampata saranno utilizzati a favore della comunità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Property</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T132532Z" creationid="steevie" creationdate="20160517T132532Z">
+        <seg>Proprietà</seg>
       </tuv>
     </tu>
     <tu>
@@ -15548,6 +15620,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T173321Z" creationid="steevie" creationdate="20160428T173321Z">
         <seg>Si avvierà l'installazione dell'applicazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The filter descriptor must be modified before the filter is applied.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T132456Z" creationid="steevie" creationdate="20160517T132456Z">
+        <seg>Bisogna modificare il descrittore di filtro prima di poterlo applicare.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
