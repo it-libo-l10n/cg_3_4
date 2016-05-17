@@ -2246,6 +2246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;UseAnAdvancedFilter&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125338Z" creationid="steevie" creationdate="20160517T125338Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;UsaFiltroSpeciale&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Tagged PDF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;: Tagged PDF contains information about the structure of the document’s contents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T171732Z" creationid="Luciano B." creationdate="20160325T171732Z">
@@ -4670,10 +4678,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Apply an advanced filter using a previously defined named range</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125306Z" creationid="steevie" creationdate="20160517T125306Z">
+        <seg>Applicare un filtro speciale usando un intervallo con nome definito in precedenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Applying &lt;i0/&gt;page styles</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160509T075440Z" creationid="briga" creationdate="20160509T075440Z">
         <seg>Applicare &lt;i0/&gt;stili di pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Applying an advanced filter using a macro is simple (see &lt;t0&gt;Listing 17&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T124920Z" creationid="steevie" creationdate="20160517T124920Z">
+        <seg>Applicare un filtro speciale usando una macro è semplice (vedi &lt;t0&gt;Listato 17&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5802,6 +5826,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163613Z" creationid="steevie" creationdate="20160428T163613Z">
         <seg>Fate clic su &lt;f0&gt;OK&lt;/f0&gt; per salvare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T124851Z" creationid="steevie" creationdate="20160517T124851Z">
+        <seg>Fate clic su &lt;f0&gt;OK&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7794,6 +7826,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T134906Z" creationid="steevie" creationdate="20160511T134906Z">
         <seg>Figura &lt;seq0&gt;320&lt;/seq0&gt;: Usare il filtro standard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;321&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125104Z" creationid="steevie" creationdate="20160517T125104Z">
+        <seg>Figura &lt;seq0&gt;321&lt;/seq0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10782,6 +10822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Listing &lt;seq0&gt;17&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125309Z" creationid="steevie" creationdate="20160517T125309Z">
+        <seg>Listato &lt;seq0&gt;17&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Loading a saved keyboard configuration</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172530Z" creationid="steevie" creationdate="20160428T172530Z">
@@ -13599,6 +13647,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the range containing the filter criteria and any other relevant options.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T124840Z" creationid="steevie" creationdate="20160517T124840Z">
+        <seg>Selezionati l'intervallo contenente i criteri filtro e ogni altra opzione attinente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the range containing the headers and the data and then use &lt;f0&gt;Insert &gt; Names &gt; Create&lt;/f0&gt; to open the Create Names dialog (see &lt;t1&gt;Figure 315&lt;/t1&gt;), which allows you to simultaneously create multiple named ranges based on the top row, bottom row, right column or left column.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T145459Z" creationid="steevie" creationdate="20160504T145126Z">
@@ -13617,8 +13673,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Select the sheet ranges that contain the data to filter.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T124334Z" creationid="steevie" creationdate="20160517T124334Z">
-        <seg>Select the sheet ranges that contain the data to filter.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T124558Z" creationid="steevie" creationdate="20160517T124334Z">
+        <seg>Selezionate sui fogli gli intervalli che contengono i dati da filtrare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15156,6 +15212,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T102855Z">
         <seg>Ora l'interruzione è impostata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The cell range containing the filter criteria is used to create a filter descriptor, which is then used to filter the range containing the data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125101Z" creationid="steevie" creationdate="20160517T125101Z">
+        <seg>L'intervallo di celle contenente i criteri filtro viene usato per creare un descrittore di filtro, utilizzato a sua volta per filtrare l'intervallo contenente i dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17249,6 +17313,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &lt;f0&gt;Data &gt; Filter &gt; Advanced Filter&lt;/f0&gt; to open the Advanced Filter dialog (see &lt;t1&gt;Figure 321&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T124656Z" creationid="steevie" creationdate="20160517T124656Z">
+        <seg>Usate &lt;f0&gt;Dati &gt; Filtro &gt; Filtro speciale&lt;/f0&gt; per aprire la finestra di dialogo Filtro speciale (vedi &lt;t1&gt;Figura 321&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &lt;f0&gt;Data &gt; Filter &gt; Standard Filter&lt;/f0&gt; to open &lt;i1/&gt;Standard Filter dialog (see &lt;t2&gt;Figure 320&lt;/t2&gt;) and limit the view based on 1 to 3 filter conditions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T134802Z" creationid="steevie" creationdate="20160511T134802Z">
@@ -17317,6 +17389,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T135251Z" creationid="steevie" creationdate="20160427T135251Z">
         <seg>Usa i &lt;is0/&gt;parametri della stampante&lt;ie1/&gt; per la formattazione del testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use an advanced filter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125326Z" creationid="steevie" creationdate="20160517T125326Z">
+        <seg>Uso di un filtro speciale.</seg>
       </tuv>
     </tu>
     <tu>
