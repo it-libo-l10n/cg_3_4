@@ -4198,6 +4198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After creating one or more sets of filter criteria, apply an advanced filter as follows:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T124337Z" creationid="steevie" creationdate="20160517T124332Z">
+        <seg>Dopo aver creato uno o più insiemi di criteri filtro, applicateli ad un filtro speciale come segue:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After defining a print range, you can add more cells to it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T161153Z">
@@ -6704,8 +6712,8 @@
       <tuv lang="EN">
         <seg>Define named ranges to reference your advanced filter criteria and any destination ranges for filtered data (see &lt;t0&gt;Figure 314&lt;/t0&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T145633Z" creationid="steevie" creationdate="20160511T145633Z">
-        <seg>Define named ranges to reference your advanced filter criteria and any destination ranges for filtered data (see &lt;t0&gt;Figure 314&lt;/t0&gt;).</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T124223Z" creationid="steevie" creationdate="20160511T145633Z">
+        <seg>Definite intervalli con nome per citare i vostri criteri speciali di filtro a qualsiasi intervallo di destinazione per i dati filtati (vedi &lt;t0&gt;Figura 314&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6986,6 +6994,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T172446Z" creationid="Luciano B." creationdate="20160325T170118Z">
         <seg>Le immagini EPS (Encapsulated PostScript) con anteprime incorporate sono esportate solo come anteprime.&lt;ie0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each appropriately configured named range is available in drop down list boxes in the Advanced Filter dialog (see &lt;t1&gt;Figure 321&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T124243Z" creationid="steevie" creationdate="20160517T124214Z">
+        <seg>Ogni intervallo configurato in modo appropriato è disponibile nel menu a tendina nella finestra di dialogo Filtro speciale (vedi &lt;t1&gt;Figura 321&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13595,6 +13611,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T144947Z" creationid="steevie" creationdate="20160509T144947Z">
         <seg>Seleziona il bordo destro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the sheet ranges that contain the data to filter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T124334Z" creationid="steevie" creationdate="20160517T124334Z">
+        <seg>Select the sheet ranges that contain the data to filter.</seg>
       </tuv>
     </tu>
     <tu>
