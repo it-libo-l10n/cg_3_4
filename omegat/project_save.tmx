@@ -1766,6 +1766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;(Advanced material.) The OutputPosition property returns a copy of a struct.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T134133Z" creationid="steevie" creationdate="20160517T134133Z">
+        <seg>&lt;f0&gt;(Materiale avanzato.) La proprietà OutputPosition property ha come risultato la copia di una struttura (struct).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Connection&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;=&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;com&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;sun&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;star&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;.&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;sheet&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;.&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;FilterConnection&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;.AND&lt;/f27&gt;&lt;/f26&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T141139Z" creationid="steevie" creationdate="20160511T141139Z">
@@ -2090,6 +2098,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T144419Z" creationid="steevie" creationdate="20160504T144419Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;sName&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;As&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;String&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;'Nome dell'equazione da creare.&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;x&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;As&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;New&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;com&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;sun&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;.&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;star&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;.&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;table&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;.&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;CellAddress&lt;/f29&gt;&lt;/f28&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133958Z" creationid="steevie" creationdate="20160517T133958Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;x&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;As&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;New&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;com&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;sun&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;.&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;star&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;.&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;table&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;.&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;CellAddress&lt;/f29&gt;&lt;/f28&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2462,6 +2478,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oFiltDesc&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;CopyOutputData&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;=&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;True&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133903Z" creationid="steevie" creationdate="20160517T133903Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oFiltDesc&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;CopyOutputData&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;=&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;True&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oFiltDesc&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;OutputPosition&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;=&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;x&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T134013Z" creationid="steevie" creationdate="20160517T134013Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oFiltDesc&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;OutputPosition&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;=&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;x&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;oFilterDesc&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oRange&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;createFilterDescriptor&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;True&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;)&lt;/f17&gt;&lt;/f16&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T140812Z" creationid="steevie" creationdate="20160511T140812Z">
@@ -2642,6 +2674,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T144438Z" creationid="steevie" creationdate="20160504T144438Z">
         <seg>&lt;f0&gt;&lt;f1&gt;sName&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;"AggiungiSx"&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;x&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Column&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;=&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;1&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T134009Z" creationid="steevie" creationdate="20160517T134009Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;x&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Column&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;=&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;1&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;x&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Row&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;=&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;3&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T134010Z" creationid="steevie" creationdate="20160517T134010Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;x&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Row&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;=&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;3&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;x&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Sheet&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;=&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;2&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T134009Z" creationid="steevie" creationdate="20160517T134009Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;x&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Sheet&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;=&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;2&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5038,6 +5094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Because a copy is returned, it is not possible to set the individual values directly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T134414Z" creationid="steevie" creationdate="20160517T134414Z">
+        <seg>Poiché il risultato è una copia, non è .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Because defined print ranges are formatted with automatic page breaks, they can be viewed by using the Page Break Preview screen, select &lt;f0&gt;View &gt;&lt;/f0&gt;&lt;f1&gt; Page Break Preview&lt;/f1&gt; from the menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T155542Z">
@@ -5106,6 +5170,38 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160517T132704Z" creationid="steevie" creationdate="20160517T132704Z">
         <seg>Valore booleano (vero o falso) che indica se la prima riga (o colonna) contiene intestazioni che non devono essere filtrate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Boolean that specifies if duplicate entries are left out of the result.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133721Z" creationid="steevie" creationdate="20160517T133721Z">
+        <seg>Valore booleano che indica se omettere le voci duplicate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Boolean that specifies if the OutputPosition position is saved for future calls.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133655Z" creationid="steevie" creationdate="20160517T133655Z">
+        <seg>Valore booleano che indica se la posizione OutputPosition.va salvata per futuri usi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Boolean that specifies if the case of letters is important when comparing entries.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133515Z" creationid="steevie" creationdate="20160517T133515Z">
+        <seg>Valore booleano che indica se differenziare fra maiuscole e minuscole quando si confrontano le voci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Boolean that specifies if the filter strings are interpreted as regular expressions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133748Z" creationid="steevie" creationdate="20160517T133748Z">
+        <seg>Valore booleano che indica se le stringhe filtro sono interpretate come espressioni regolari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6338,6 +6434,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T150048Z" creationid="luciano" creationdate="20160509T150048Z">
         <seg>Copia o sposta il campo attivo nell'area "Riga".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy filtered results to a different location.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133820Z" creationid="steevie" creationdate="20160517T133820Z">
+        <seg>Copiare risultati filtrati in una diversa posizione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9270,6 +9374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If if CopyOutputData is True , specifies the position where filtered data are to be copied.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133626Z" creationid="steevie" creationdate="20160517T133626Z">
+        <seg>Se CopyOutputData è Vero, indica la posizione in cui copiare i dati filtrati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If it were not, and you wanted to reassign a shortcut key combination that is already in use, you must first &lt;/f6&gt;delete&lt;f7&gt; the existing k&lt;/f7&gt;ey&lt;f8&gt;.&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170924Z" creationid="steevie" creationdate="20160428T170924Z">
@@ -10982,6 +11094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Listing &lt;seq0&gt;18&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133752Z" creationid="steevie" creationdate="20160517T133752Z">
+        <seg>Listato &lt;seq0&gt;18&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Loading a saved keyboard configuration</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172530Z" creationid="steevie" creationdate="20160428T172530Z">
@@ -12247,6 +12367,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Orientation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133516Z" creationid="steevie" creationdate="20160517T133516Z">
+        <seg>Orientation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other &lt;is0/&gt;features&lt;ie1/&gt; provided by Calc include:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T102302Z">
@@ -12299,6 +12427,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160216T072304Z">
         <seg>Altrimenti, quando vi sarà la necessità di stampare, potreste perdere tempo provando e riprovando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OutputPosition</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133540Z" creationid="steevie" creationdate="20160517T133540Z">
+        <seg>OutputPosition</seg>
       </tuv>
     </tu>
     <tu>
@@ -12727,6 +12863,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>REM Column B, Row 4 (remember, start counting with 0)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133957Z" creationid="steevie" creationdate="20160517T133957Z">
+        <seg>REM Colunna B, Riga 4 (ricorda che si inizia a contare da 0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>REM Compare using a numeric or a string?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135710Z" creationid="steevie" creationdate="20160511T135710Z">
@@ -12735,10 +12879,26 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>REM Copy the output data rather than filter in place.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133900Z" creationid="steevie" creationdate="20160517T133900Z">
+        <seg>REM Copia i dati di output piuttosto che lasciarli in posto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>REM CopyOutputData, OutputPosition, and MaxFieldCount.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T140022Z" creationid="steevie" creationdate="20160511T140022Z">
         <seg>REM CopyOutputData, OutputPosition e MaxFieldCount.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>REM Create a CellAddress and set it for Sheet3,</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133932Z" creationid="steevie" creationdate="20160517T133932Z">
+        <seg>REM Crea un CellAddress e lo imposta per il Foglio3,</seg>
       </tuv>
     </tu>
     <tu>
@@ -13443,6 +13603,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084439Z">
         <seg>Sandeep Samuel Medikonda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SaveOutputPosition</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133627Z" creationid="steevie" creationdate="20160517T133627Z">
+        <seg>SaveOutputPosition</seg>
       </tuv>
     </tu>
     <tu>
@@ -14415,6 +14583,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SkipDuplicates</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133656Z" creationid="steevie" creationdate="20160517T133656Z">
+        <seg>SkipDuplicates</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So, for example, a spreadsheet might contain one sheet to be printed in landscape orientation (using the Default page style) and another sheet to be printed in portrait orientation (using the Report page style).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160216T071656Z">
@@ -14587,6 +14763,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T171632Z">
         <seg>La spaziatura influisce sullo spazio che intercorre tra la pagina e l'intestazione o il piè di pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specifies if columns (com.sun.star.table.TableOrientation.COLUMNS) or rows (com.sun.star.table.TableOrientation.ROWS) are filtered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133539Z" creationid="steevie" creationdate="20160517T133539Z">
+        <seg>Indica se le colonne (com.sun.star.table.TableOrientation.COLUMNS) o le righe (com.sun.star.table.TableOrientation.ROWS) vengono filtrate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17725,6 +17909,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T150018Z" creationid="steevie" creationdate="20160427T150018Z">
         <seg>Usate questa impostazione per foglio di calcolo importati da un formato sconosciuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>UseRegularExpressions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133721Z" creationid="steevie" creationdate="20160517T133721Z">
+        <seg>UseRegularExpressions</seg>
       </tuv>
     </tu>
     <tu>
