@@ -1926,6 +1926,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oCritRange&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;'Range that contains the filter criteria.&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125428Z" creationid="steevie" creationdate="20160517T125428Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oCritRange&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;'Intervallo che contiene i criteri filtro.&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oDataRange&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;'Range that contains the data to filter.&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125447Z" creationid="steevie" creationdate="20160517T125447Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oDataRange&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;'Intervallo che contiene i dati da filtrare.&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oDoc&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;'Reference ThisComponent with a shorter name.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T152016Z" creationid="steevie" creationdate="20160509T152016Z">
@@ -1946,6 +1962,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T140727Z" creationid="steevie" creationdate="20160511T140727Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oFields&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;1&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;)&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;As&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;New&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;&lt;f19&gt;com&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;.&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;sun&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;.&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;star&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;.&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;sheet&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;.&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;TableFilterField&lt;/f35&gt;&lt;/f34&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oFiltDesc&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;'Filter descriptor.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125500Z" creationid="steevie" creationdate="20160517T125500Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oFiltDesc&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;'Descrittore di filtro.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2026,6 +2050,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T140314Z" creationid="steevie" creationdate="20160511T140314Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oSheet&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;' Foglio da filtrare.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oSheet&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;'A sheet from the Calc document.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125403Z" creationid="steevie" creationdate="20160517T125403Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oSheet&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;'Un foglio di un documento Calc.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2382,6 +2414,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oCritRange&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oSheet&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;getCellRangeByName&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;"A1:G3"&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;)&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125532Z" creationid="steevie" creationdate="20160517T125532Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oCritRange&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oSheet&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;getCellRangeByName&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;"A1:G3"&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;)&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oDataRange&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oSheet&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;getCellRangeByName&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;"A1:G16"&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;)&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125726Z" creationid="steevie" creationdate="20160517T125726Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oDataRange&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oSheet&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;getCellRangeByName&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;"A1:G16"&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;)&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oDataRange&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;filter&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oFiltDesc&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;)&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125740Z" creationid="steevie" creationdate="20160517T125740Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oDataRange&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;filter&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oFiltDesc&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;)&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;oDoc&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;ThisComponent&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T152019Z" creationid="steevie" creationdate="20160509T152019Z">
@@ -2394,6 +2450,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T152103Z" creationid="steevie" creationdate="20160509T152103Z">
         <seg>&lt;f0&gt;&lt;f1&gt;oDoc&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;DatabaseRanges&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;.&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;addNewByName&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;(&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;"MioNome"&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;,&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt; &lt;/f16&gt;&lt;f17&gt;&lt;f18&gt;oAddr&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;)&lt;/f20&gt;&lt;/f19&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oFiltDesc&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oCritRange&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;createFilterDescriptorByObject&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;oDataRange&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;)&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125727Z" creationid="steevie" creationdate="20160517T125727Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oFiltDesc&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oCritRange&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;createFilterDescriptorByObject&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;oDataRange&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;)&lt;/f17&gt;&lt;/f16&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2542,6 +2606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oSheet&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;ThisComponent&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;getSheets&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;().&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;getByIndex&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;(&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;1&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;)&lt;/f21&gt;&lt;/f20&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125515Z" creationid="steevie" creationdate="20160517T125515Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oSheet&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;ThisComponent&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;getSheets&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;().&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;getByIndex&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;(&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;1&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;)&lt;/f21&gt;&lt;/f20&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;oSheet&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;filter&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oFilterDesc&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;)&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T140026Z" creationid="steevie" creationdate="20160511T140026Z">
@@ -2682,6 +2754,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T160315Z" creationid="Luciano B." creationdate="20160326T160315Z">
         <seg>&lt;f0&gt;Centra finestra sullo schermo:&lt;/f0&gt; Fa sì che il visualizzatore di PDF centri la finestra sullo schermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Change properties on the filter descriptor to change the behavior of the filter (see &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Table 17&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;).&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125823Z" creationid="steevie" creationdate="20160517T125823Z">
+        <seg>&lt;f0&gt;Cambiate le proprietà del descrittore di filtro per modificare il comportamento del filtro (vedi &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Tabella 17&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;).&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3298,6 +3378,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160424T130551Z" creationid="luciano" creationdate="20160424T130551Z">
         <seg>&lt;f0&gt;Il commento appare anche nella finestra di dialogo quando si accettano e rifiutano le modifiche, come mostrato nella prima linea della &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figura 291&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt; a pagina &lt;/f3&gt;&lt;f4&gt;&lt;t5&gt;277&lt;/t5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The filter created in &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Listing 17&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt; filters the data in place.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125935Z" creationid="steevie" creationdate="20160517T125935Z">
+        <seg>&lt;f0&gt;Il filtro creato nel &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Listato 17&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt; filtra i dati nel proprio posto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11094,6 +11182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modify the OutputPosition property to specify a different output position (see &lt;/f3&gt;&lt;f4&gt;&lt;t5&gt;Listing 18&lt;/t5&gt;&lt;/f4&gt;&lt;f6&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T130016Z" creationid="steevie" creationdate="20160517T130016Z">
+        <seg>Modificate la proprietà OutputPosition per indicare una diversa destinazione (vedi &lt;/f3&gt;&lt;f4&gt;&lt;t5&gt;Listato 18&lt;/t5&gt;&lt;/f4&gt;&lt;f6&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modify the color components as required and click &lt;f0&gt;OK&lt;/f0&gt; to exit the dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T160051Z" creationid="steevie" creationdate="20160418T160051Z">
@@ -12639,6 +12735,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>REM Range that contains the filter criteria</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125511Z" creationid="steevie" creationdate="20160517T125511Z">
+        <seg>REM Intervallo contenente i criteri filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>REM SaveOutputPosition, Orientation, ContainsHeader,</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T140012Z" creationid="steevie" creationdate="20160511T140012Z">
@@ -12683,6 +12787,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135726Z" creationid="steevie" creationdate="20160511T135726Z">
         <seg>REM La proprietà NumericValue è usata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>REM The data that you want to filter</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125711Z" creationid="steevie" creationdate="20160517T125711Z">
+        <seg>REM I dati da filtrare</seg>
       </tuv>
     </tu>
     <tu>
@@ -12759,6 +12871,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>REM You can also obtain the range containing the</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125646Z" creationid="steevie" creationdate="20160517T125605Z">
+        <seg>REM Si può anche ottenere l'intervallo contenente i</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>REM You could use the Connection property to indicate</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135419Z" creationid="steevie" creationdate="20160511T135346Z">
@@ -12831,6 +12951,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>REM filter criteria from a named range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125652Z" creationid="steevie" creationdate="20160517T125638Z">
+        <seg>REM criteri filtro da un intervallo con nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>REM how the range is used, but most ranges use 0.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142249Z" creationid="steevie" creationdate="20160504T142249Z">
@@ -12851,6 +12979,30 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135623Z" creationid="steevie" creationdate="20160511T135611Z">
         <seg>REM filtrare con base 0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>REM oCritRange = oRange.getReferredCells()</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125659Z" creationid="steevie" creationdate="20160517T125659Z">
+        <seg>REM oCritRange = oRange.getReferredCells()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>REM oRange = oRanges.getByName("AverageLess80")</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125654Z" creationid="steevie" creationdate="20160517T125654Z">
+        <seg>REM oRange = oRanges.getByName("AverageLess80")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>REM oRanges = ThisComponent.NamedRanges</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125653Z" creationid="steevie" creationdate="20160517T125653Z">
+        <seg>REM oRanges = ThisComponent.NamedRanges</seg>
       </tuv>
     </tu>
     <tu>
