@@ -4368,8 +4368,8 @@
       <tuv lang="EN">
         <seg>After creating one or more sets of filter criteria, apply an advanced filter as follows:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T124337Z" creationid="steevie" creationdate="20160517T124332Z">
-        <seg>Dopo aver creato uno o più insiemi di criteri filtro, applicateli ad un filtro speciale come segue:</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T134436Z" creationid="steevie" creationdate="20160517T124332Z">
+        <seg>Dopo aver creato uno o più insiemi di criteri filtro, applicateli a un filtro speciale come segue:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5096,8 +5096,8 @@
       <tuv lang="EN">
         <seg>Because a copy is returned, it is not possible to set the individual values directly.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T134414Z" creationid="steevie" creationdate="20160517T134414Z">
-        <seg>Poiché il risultato è una copia, non è .</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T134523Z" creationid="steevie" creationdate="20160517T134414Z">
+        <seg>Poiché il risultato è una copia, non si possono impostare direttamente i singoli valori.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6992,8 +6992,8 @@
       <tuv lang="EN">
         <seg>Define named ranges to reference your advanced filter criteria and any destination ranges for filtered data (see &lt;t0&gt;Figure 314&lt;/t0&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T124223Z" creationid="steevie" creationdate="20160511T145633Z">
-        <seg>Definite intervalli con nome per citare i vostri criteri speciali di filtro a qualsiasi intervallo di destinazione per i dati filtati (vedi &lt;t0&gt;Figura 314&lt;/t0&gt;).</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T134426Z" creationid="steevie" creationdate="20160511T145633Z">
+        <seg>Definite intervalli con nome per citare i vostri criteri speciali di filtro a qualsiasi intervallo di destinazione per i dati filtrati (vedi &lt;t0&gt;Figura 314&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8562,6 +8562,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163246Z" creationid="steevie" creationdate="20160428T163246Z">
         <seg>Ad esempio, oltre ai menu &lt;f11&gt;File&lt;/f11&gt;, &lt;f12&gt;Modifica&lt;/f12&gt;, &lt;f13&gt;Visualizza&lt;/f13&gt;, e così via, ci sono i menu &lt;f14&gt;File &lt;/f14&gt;|&lt;f15&gt; Invia&lt;/f15&gt; e &lt;f16&gt;File &lt;/f16&gt;|&lt;f17&gt;Modelli&lt;/f17&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, oFiltDesc.OutputPosition.Row &lt;/f0&gt;&lt;f1&gt;= 2 does not work (because you set the Row on the copy to 2, but do not change the original).&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T134638Z" creationid="steevie" creationdate="20160517T134638Z">
+        <seg>Ad esempio, oFiltDesc.OutputPosition.Row &lt;/f0&gt;&lt;f1&gt;= 2 non funziona (perché nella copia avete impostato la riga a 2, ma non avete modificato l'originale).&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
