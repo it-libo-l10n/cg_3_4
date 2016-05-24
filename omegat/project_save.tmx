@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3066,6 +3066,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T101019Z" creationid="michele" creationdate="20160524T101019Z">
         <seg>&lt;f0&gt;Dal Quickstart&lt;/f0&gt;, se è stato abilitato in &lt;f1&gt;Strumenti &gt; Opzioni &gt; LibreOffice – Memoria&lt;/f1&gt;, che si trova in Windows, in alcune distribuzioni Linux, e (in forma leggermente diversa) in Mac OS X. Il&lt;i2/&gt; Quickstart è un'icona che viene visualizzata nel vassoio di sistema o nel dock (la barra contenente le icone delle applicazioni, situata nella parte bassa dello schermo) durante l'avvio del sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;From the Start Center.&lt;/f0&gt; When &lt;f1&gt;LibreOffice&lt;/f1&gt; is open but no document is open (for example, if you close all the open documents but leave the program running), the Start Center is shown.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T103219Z" creationid="michele" creationdate="20160524T103219Z">
+        <seg>&lt;f0&gt;Dallo Start Center .&lt;/f0&gt; quando&lt;f1&gt;LibreOffice&lt;/f1&gt; è aperto ma non ci sono documenti aperti (per esempio, se chiudi tutti i documenti aperti ma lasci il programma aperto), verrà visualizato lo Start Center.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8050,6 +8058,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T155857Z" creationid="Luciano B." creationdate="20160326T155132Z">
         <seg>Figura &lt;seq0&gt;149&lt;/seq0&gt;: Pagina di Visualizzazione iniziale della finestra di dialogo Opzioni PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Quickstarter menu on Windows 7</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T103041Z" creationid="michele" creationdate="20160524T103013Z">
+        <seg>Figura &lt;seq0&gt;14&lt;/seq0&gt;: il menu Quickstart su Windows 7</seg>
       </tuv>
     </tu>
     <tu>
