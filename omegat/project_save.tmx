@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18561,6 +18561,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &lt;f0&gt;File &gt; Recent Documents&lt;/f0&gt; to display the last 10 files that were opened in any of the &lt;f1&gt;LibreOffice&lt;/f1&gt; components.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T123145Z" creationid="michele" creationdate="20160524T123145Z">
+        <seg>Usate &lt;f0&gt;File &gt; Documenti recenti&lt;/f0&gt; per visualizzare gli ultimi 10 file aperti in ognuna delle componenti di &lt;f1&gt;LibreOffice&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &lt;f1&gt;Data &gt; Filter &gt; AutoFilter&lt;/f1&gt; to insert the auto filter combo box in the appropriate cell.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160510T143623Z" creationid="steevie" creationdate="20160510T143623Z">
@@ -18621,6 +18629,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160510T141252Z" creationid="steevie" creationdate="20160510T141252Z">
         <seg>Usate i filtri per limitar le fighe visibili in un foglio di calcolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the &lt;f0&gt;Open Document&lt;/f0&gt; selection on the Quickstarter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T123351Z" creationid="michele" creationdate="20160524T123351Z">
+        <seg>Usa il &lt;f0&gt;Open Document&lt;/f0&gt; selection on the Quickstarter.</seg>
       </tuv>
     </tu>
     <tu>
