@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6630,6 +6630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Consider this case.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160524T132059Z" creationid="antonio" creationdate="20160524T132059Z">
+        <seg>Considerate questo caso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Consolidating data</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095640Z">
@@ -11398,6 +11406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>John is having trouble keeping track of his personal finances.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160524T132218Z" creationid="antonio" creationdate="20160524T132218Z">
+        <seg>john sta avendo difficoltà a tenere traccia delle sue finanze personali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Kashmira Patel</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084434Z">
@@ -12249,8 +12265,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Multiple sheets help keep information organized; once you link those sheets together, you unleash the full power of Calc.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="antonio" changedate="20160524T131932Z" creationid="antonio" creationdate="20160524T131256Z">
-        <seg>I fogli multipli aiutano a mantenere le informazioni organizzate; una volta che collegate assieme quesi fogli, you unleash the full power of Calc.</seg>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160524T132033Z" creationid="antonio" creationdate="20160524T131256Z">
+        <seg>I fogli multipli aiutano a mantenere le informazioni organizzate; una volta che collegate assieme quesi fogli, liberate tutta la potenza di Calc.</seg>
       </tuv>
     </tu>
     <tu>
