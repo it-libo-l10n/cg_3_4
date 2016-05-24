@@ -14639,6 +14639,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select cell A3, which contains the number 3, and copy the value to the clipboard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T131759Z" creationid="luciano" creationdate="20160524T131759Z">
+        <seg>Selezionate la cella A3, che contiene il numero 3, e copiate il valore negli appunti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the &lt;f0&gt;Properties&lt;/f0&gt; button to display a printer-specific dialog where you can choose portrait or landscape &lt;i1/&gt;orientation, which paper tray to use, and the paper size to print on.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T095354Z">
@@ -14771,6 +14779,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160428T160535Z" creationid="luciano" creationdate="20160428T160535Z">
         <seg>Selezionate il documento originale e fate clic su &lt;/f0&gt;&lt;f1&gt;Inserisci&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the range A1:C3.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T131836Z" creationid="luciano" creationdate="20160524T131836Z">
+        <seg>Selezionate l'area A1:C3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18765,6 +18781,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T123145Z" creationid="michele" creationdate="20160524T123145Z">
         <seg>Usate &lt;f0&gt;File &gt; Documenti recenti&lt;/f0&gt; per visualizzare gli ultimi 10 file aperti in ognuna delle componenti di &lt;f1&gt;LibreOffice&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;f0&gt;Tools &gt; Macros &gt; Record Macro&lt;/f0&gt; to start the macro recorder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T132000Z" creationid="luciano" creationdate="20160524T132000Z">
+        <seg>Fate clic su &lt;f0&gt;Strumenti &gt; Macro &gt; Registra Macro&lt;/f0&gt; per avviare il Registratore di macro.</seg>
       </tuv>
     </tu>
     <tu>
