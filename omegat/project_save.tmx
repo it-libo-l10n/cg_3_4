@@ -3238,6 +3238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;LibreOffice&lt;/f0&gt; Macros</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T144530Z" creationid="luciano" creationdate="20160524T144530Z">
+        <seg>Macro di &lt;f0&gt;LibreOffice&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;LibreOffice&lt;/f0&gt; can open and save files in the .xlsx format produced by Microsoft Office 2007 and 2010.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T130314Z" creationid="steevie" creationdate="20160421T130314Z">
@@ -6942,10 +6950,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create new library</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T144736Z" creationid="luciano" creationdate="20160524T144736Z">
+        <seg>Creare una nuova libreria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create new module in library</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T144435Z" creationid="luciano" creationdate="20160524T144435Z">
-        <seg>Creare un nuovo module nella libreria</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T144754Z" creationid="luciano" creationdate="20160524T144435Z">
+        <seg>Creare un nuovo modulo nella libreria</seg>
       </tuv>
     </tu>
     <tu>
@@ -7202,6 +7218,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T122357Z" creationid="steevie" creationdate="20160421T122357Z">
         <seg>Fate Ctrl-click per attivare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Current document</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T144716Z" creationid="luciano" creationdate="20160524T144716Z">
+        <seg>Documento corrente</seg>
       </tuv>
     </tu>
     <tu>
@@ -12054,6 +12078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Macros in selected library</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T144612Z" creationid="luciano" creationdate="20160524T144612Z">
+        <seg>Macro presenti in librerie selezionate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Macros, for recording and executing repetitive tasks; scripting languages supported include &lt;f0&gt;LibreOffice&lt;/f0&gt; Basic, Python, BeanShell, and JavaScript.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T102402Z">
@@ -13163,6 +13195,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T142349Z" creationid="luciano" creationdate="20160429T142349Z">
         <seg>Aprire una versione più vecchia - Selezionare la versione e fare clic sul pulsante &lt;f0&gt;Apri&lt;/f0&gt; e si aprirà in modalità di sola lettura una copia di una versione precedente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open documents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T144633Z" creationid="luciano" creationdate="20160524T144633Z">
+        <seg>Apri documenti</seg>
       </tuv>
     </tu>
     <tu>
