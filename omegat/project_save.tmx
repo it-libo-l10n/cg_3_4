@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5686,6 +5686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc can also export spreadsheets to the PDF and XHTML file formats.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T153822Z" creationid="michele" creationdate="20160524T153822Z">
+        <seg>Calc può anche esportare fogli di calcolo nei formati file PDF e XHTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc can export spreadsheets to XHTML, if the appropriate filter is installed (standard on Mac and Linux; optional on Windows).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T151404Z" creationid="Luciano B." creationdate="20160329T151404Z">
@@ -5704,8 +5712,8 @@
       <tuv lang="EN">
         <seg>Calc can save spreadsheets in a range of formats, including &lt;i0/&gt;HTML (Web pages), through the Save As dialog.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160524T153057Z" creationid="michele" creationdate="20160524T153057Z">
-        <seg>calc può salvare &lt;i0/&gt;HTML (Web pages), through the Save As dialog.</seg>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T153729Z" creationid="michele" creationdate="20160524T153057Z">
+        <seg>Calc può salvare fogli di lavoro in una serie si formati, incluso &lt;i0/&gt;HTML (pagine Web), tramite la finestra di dialogo Salva con nome.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15247,6 +15255,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See Chapter 6, Printing, Exporting, and E-mailing, for more information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T153906Z" creationid="michele" creationdate="20160524T153906Z">
+        <seg>Vedi Capitolo 6, Stampare, Esportare, e inviare per E-mail, per ulteriori informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See Chapter 7, Using Formulas and Functions, for more details.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T082526Z" creationid="michele" creationdate="20160524T082526Z">
@@ -22785,6 +22801,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>password protection</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T153911Z" creationid="michele" creationdate="20160524T153911Z">
+        <seg>protezione con password</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>password-protect</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T150508Z" creationid="Luciano B." creationdate="20160329T150508Z">
@@ -22981,6 +23005,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172430Z" creationid="steevie" creationdate="20160428T172430Z">
         <seg>salvare in un file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>security</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T153914Z" creationid="michele" creationdate="20160524T153914Z">
+        <seg>sicurezza</seg>
       </tuv>
     </tu>
     <tu>
