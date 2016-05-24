@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12775,6 +12775,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open a new spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T131000Z" creationid="luciano" creationdate="20160524T131000Z">
+        <seg>Aprite un nuovo foglio elettronico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open an old version – Select the version and click the &lt;f0&gt;Open&lt;/f0&gt; button and a read-only copy of a previous version opens.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T142349Z" creationid="luciano" creationdate="20160429T142349Z">
@@ -18739,8 +18747,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>Use &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; General&lt;/f0&gt; and select the &lt;f1&gt;Enable experimental (unstable) features&lt;/f1&gt; option to enable the macro recorder.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T130635Z" creationid="luciano" creationdate="20160524T130635Z">
-        <seg>Per abilitare la registrazione delle macro, utilizzate &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Generale&lt;/f0&gt; e selezionate l'opzione &lt;f1&gt;Abilita le funzioni sperimentaliEnable experimental (unstable) features&lt;/f1&gt; option to enable the macro recorder.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T130926Z" creationid="luciano" creationdate="20160524T130635Z">
+        <seg>(Per abilitare la registrazione delle macro, utilizzate &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Generale&lt;/f0&gt; e selezionate l'opzione &lt;f1&gt;Abilita le funzioni sperimentali&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
