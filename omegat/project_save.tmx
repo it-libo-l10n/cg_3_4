@@ -6342,6 +6342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Stop Recording&lt;/f0&gt; to stop the macro recorder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T143146Z" creationid="luciano" creationdate="20160524T143146Z">
+        <seg>Fate click su &lt;f0&gt;Stop Recording&lt;/f0&gt; to stop the macro recorder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Yes&lt;/f0&gt; to save the file.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T161439Z" creationid="Luciano B." creationdate="20160329T161439Z">
@@ -16746,8 +16754,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The cells are now multiplied by 3.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T142807Z" creationid="luciano" creationdate="20160524T142807Z">
-        <seg>I vslori delle celle sono moltiplicati per 3.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T143010Z" creationid="luciano" creationdate="20160524T142807Z">
+        <seg>Le celle sono moltiplicate per 3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17019,8 +17027,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>The following steps create a macro that performs paste special with multiply.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T120857Z" creationid="luciano" creationdate="20160524T120857Z">
-        <seg>La seguente procedura crea una macro che esegue incolla speciale con multipli.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T142947Z" creationid="luciano" creationdate="20160524T120857Z">
+        <seg>La seguente procedura crea una macro che esegue incolla speciale con multiplicazione.a</seg>
       </tuv>
     </tu>
     <tu>
