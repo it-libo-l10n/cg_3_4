@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6278,6 +6278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click one of the icons to open a new document of that type, or click the &lt;f2&gt;Templates&lt;/f2&gt; icon to start a new document using a template.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T103804Z" creationid="michele" creationdate="20160524T103804Z">
+        <seg>Fate clic sulle icone per aprire un nuovo documento di tipo corrispondente, oppure fate clic sull'icona Modelli per aprire un nuovo documento strutturato sulla base di un modello esistente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click outside the box to close it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160424T133246Z" creationid="luciano" creationdate="20160424T133246Z">
@@ -8102,6 +8110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: &lt;f1&gt;LibreOffice&lt;/f1&gt; Start Center</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T103910Z" creationid="michele" creationdate="20160524T103910Z">
+        <seg>Figura &lt;seq0&gt;15&lt;/seq0&gt;: Centro di Avvio di &lt;f1&gt;LibreOffice&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Dialog showing common controls:&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084347Z">
@@ -9554,6 +9570,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160510T140204Z" creationid="steevie" creationdate="20160510T140204Z">
         <seg>Se viene spostata una cella che contiene un riferimento relativo a un'altra cella, il riferimento viene aggiornato al termine dell'ordinamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a document is already open in &lt;f3&gt;LibreOffice&lt;/f3&gt;, the new document opens in a new window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T103819Z" creationid="michele" creationdate="20160524T103819Z">
+        <seg>Se un documento è già aperto in &lt;f3&gt;LibreOffice&lt;/f3&gt;, il nuovo documento si apre in una nuova finestra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13051,6 +13075,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T132458Z" creationid="steevie" creationdate="20160427T132458Z">
         <seg>Premi invio per passare al modo modifica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press the &lt;f0&gt;Control+N&lt;/f0&gt; keys.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T104000Z" creationid="michele" creationdate="20160524T104000Z">
+        <seg>Premendo i tasti&lt;f0&gt;CTRL+N&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18393,6 +18425,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &lt;f0&gt;File &gt; New &gt; Spreadsheet&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T104057Z" creationid="michele" creationdate="20160524T104057Z">
+        <seg>Tramite &lt;f0&gt;File &gt; Nuovo &gt; Foglio elettronico&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &lt;f1&gt;Data &gt; Filter &gt; AutoFilter&lt;/f1&gt; to insert the auto filter combo box in the appropriate cell.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160510T143623Z" creationid="steevie" creationdate="20160510T143623Z">
@@ -18989,6 +19029,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090512Z">
         <seg>Contenuto del libro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When &lt;f0&gt;LibreOffice&lt;/f0&gt; is open, you can also start a new document in one of the following ways.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T103935Z" creationid="michele" creationdate="20160524T103935Z">
+        <seg>Se &lt;f0&gt;LibreOffice&lt;/f0&gt; è già aperto, è possibile aprire un nuovo documento in uno dei seguenti modi.</seg>
       </tuv>
     </tu>
     <tu>
