@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4790,6 +4790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An example is shown here without the explanations in the &lt;f2&gt;Getting Started&lt;/f2&gt; guide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T103102Z" creationid="luciano" creationdate="20160524T103102Z">
+        <seg>Un esempio è mostrato qui senza le spiegazioni della &lt;f2&gt; Come iniziare &lt;/ f2&gt; Guida.An example is shown here without the explanations in the &lt;f2&gt;Getting Started&lt;/f2&gt; guide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An example of a &lt;f0&gt;tear-off toolbar&lt;/f0&gt; is shown in &lt;t1&gt;Figure 4&lt;/t1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T133423Z" creationid="michele" creationdate="20160414T133423Z">
@@ -5736,8 +5744,8 @@
       <tuv lang="EN">
         <seg>Chapter 13 of the &lt;f0&gt;Getting Started&lt;/f0&gt; guide, Getting Started with Macros, provides a basis for understanding the general macro capabilities in &lt;f1&gt;LibreOffice&lt;/f1&gt; using the macro recorder.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T102435Z" creationid="luciano" creationdate="20160524T102334Z">
-        <seg>Il Capitolo 13 della &lt;f0&gt;Getting Started&lt;/f0&gt; guide, Getting Started with Macros, provides a basis for understanding the general macro capabilities in &lt;f1&gt;LibreOffice&lt;/f1&gt; using the macro recorder.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T102959Z" creationid="luciano" creationdate="20160524T102334Z">
+        <seg>Il Capitolo 13 della &lt;f0&gt;Guida Introduttiva&lt;/f0&gt;, Iniziare con le Macro, fornisce le per comprendere le funzionalità macro generali in&lt;f1&gt; LibreOffice &lt;/ f1&gt; utilizzando il Registratore di macro</seg>
       </tuv>
     </tu>
     <tu>
