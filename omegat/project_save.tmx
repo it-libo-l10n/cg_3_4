@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9890,6 +9890,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160510T135101Z" creationid="steevie" creationdate="20160510T135101Z">
         <seg>Se la casella di controllo&lt;f5&gt;Area contenente intestazioni di colonne&lt;/f5&gt; non è spuntata, le colonne sono identificate dal loro nome, ad esempio Colonna A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the CSV file uses a text delimiter character that is not in the Text delimiter list, click in the box, and type the character.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T130804Z" creationid="michele" creationdate="20160524T130804Z">
+        <seg>Se il file CSV usa un carattere per delimitare le colonne che non è incluso nella lista di .</seg>
       </tuv>
     </tu>
     <tu>
