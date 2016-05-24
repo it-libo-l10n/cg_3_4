@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5694,6 +5694,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc can save spreadsheets in a range of formats, including &lt;i0/&gt;HTML (Web pages), through the Save As dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T153057Z" creationid="michele" creationdate="20160524T153057Z">
+        <seg>calc può salvare &lt;i0/&gt;HTML (Web pages), through the Save As dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc document as attachment</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T154200Z" creationid="Luciano B." creationdate="20160329T154200Z">
@@ -6254,6 +6262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;File &gt; Save As&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T152752Z" creationid="michele" creationdate="20160524T152752Z">
+        <seg>Scegliere &lt;f0&gt;File &gt; Salva con nome&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;Format &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Print Ranges &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Add&lt;/f6&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T161625Z">
@@ -6442,6 +6458,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T161525Z" creationid="Luciano B." creationdate="20160329T161525Z">
         <seg>Fate clic su &lt;f0&gt;Aggiungi&lt;/f0&gt; per aggiungere una chiave pubblica al documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Keep Current Format&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T152821Z" creationid="michele" creationdate="20160524T152821Z">
+        <seg>Fate clic su &lt;f0&gt;Mantieni il formato corrente&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8570,6 +8594,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T144321Z" creationid="michele" creationdate="20160524T144321Z">
         <seg>Figura &lt;seq0&gt;18&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Choosing options when exporting to Text CSV</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T152950Z" creationid="michele" creationdate="20160524T152950Z">
+        <seg>Figura &lt;seq0&gt;19&lt;/seq0&gt;: Selezionando opzioni quando si esporta a Testo CSV</seg>
       </tuv>
     </tu>
     <tu>
@@ -11230,6 +11262,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the &lt;f0&gt;File name&lt;/f0&gt; box, type a name for the file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T152810Z" creationid="michele" creationdate="20160524T152810Z">
+        <seg>Nel riquadro &lt;f0&gt;Nome file&lt;/f0&gt; digitate un nome per il file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the &lt;f0&gt;File type&lt;/f0&gt; list, select &lt;f1&gt;Text CSV (.csv)&lt;/f1&gt; and click &lt;f2&gt;Save&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T152813Z" creationid="michele" creationdate="20160524T152813Z">
+        <seg>Nell'elenco &lt;f0&gt;Tipo di file&lt;/f0&gt;, selezionate &lt;f1&gt;Testo CSV (.csv)&lt;/f1&gt; e fate clic su &lt;f2&gt;Salva&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the &lt;f0&gt;Functions&lt;/f0&gt; section at the bottom of the dialog, scroll down in the Category list to &lt;f1&gt;Styles&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T171219Z" creationid="steevie" creationdate="20160428T171219Z">
@@ -11290,6 +11338,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T145142Z" creationid="michele" creationdate="20160414T145142Z">
         <seg>Nella &lt;is0/&gt;barra degli strumenti di formattazione &lt;ie1/&gt;, &lt;f2&gt;i tre riquadri sulla sinistra sono &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Applica Stile&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Nome del carattere &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;, e &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Dimensione del Carattere &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt; (vedi&lt;t12&gt;Figura 9&lt;/t12&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Export Text File dialog (&lt;t0&gt;Figure 19&lt;/t0&gt;), select the options you want and then click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T152912Z" creationid="michele" creationdate="20160524T152912Z">
+        <seg>Nella finestra di dialogo esporta testo (&lt;t0&gt;Figura 19&lt;/t0&gt;), seleziona l'opzione desiderata e fai clic su &lt;f1&gt;OK&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11482,6 +11538,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160315T171456Z">
         <seg>Nel foglio elettronico, selezionate i fogli da stampare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the&lt;f1&gt; section named &lt;/f1&gt;&lt;f2&gt;Default file format and ODF settings&lt;/f2&gt;&lt;f3&gt;, under &lt;/f3&gt;&lt;f4&gt;Document type&lt;/f4&gt;&lt;f5&gt;, select &lt;/f5&gt;&lt;f6&gt;Spreadsheet&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;,&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; then under &lt;/f9&gt;&lt;f10&gt;Always save as&lt;/f10&gt;&lt;f11&gt;, select your preferred file format.&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T152612Z" creationid="michele" creationdate="20160524T152516Z">
+        <seg>Nella &lt;f1&gt; sezione chiamata &lt;/f1&gt;&lt;f2&gt;Formato file predefinito e impostazioni ODF&lt;/f2&gt;&lt;f3&gt;, sotto &lt;/f3&gt;&lt;f4&gt;Tipo Documento&lt;/f4&gt;&lt;f5&gt;, seleziona &lt;/f5&gt;&lt;f6&gt;Foglio elettronico &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;,&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;poi sotto &lt;/f9&gt;&lt;f10&gt;Salva sempre come&lt;/f10&gt;&lt;f11&gt;, seleziona il formato file preferito.&lt;/f11&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14967,6 +15031,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Saving as a CSV file</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T152620Z" creationid="michele" creationdate="20160524T152620Z">
+        <seg>Salvataggio come file CSV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Saving as a Microsoft Excel document</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T142733Z" creationid="michele" creationdate="20160524T142658Z">
@@ -14979,6 +15051,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172427Z" creationid="steevie" creationdate="20160428T172427Z">
         <seg>Salvare le modifiche in un file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saving in other formats</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T153002Z" creationid="michele" creationdate="20160524T153002Z">
+        <seg>Salvare in altri formati</seg>
       </tuv>
     </tu>
     <tu>
@@ -19035,8 +19115,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>To have Calc save documents by default in a Microsoft Excel file format, go to &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; General&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160524T144426Z" creationid="michele" creationdate="20160524T144426Z">
-        <seg>&lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; General&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T152222Z" creationid="michele" creationdate="20160524T144426Z">
+        <seg>&lt;f0&gt;Strumenti &gt; Opzioni &gt; Carica/Salva &gt; Generale&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19245,6 +19325,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T133406Z" creationid="antonio" creationdate="20160524T133406Z">
         <seg>Per risolvere questo problema, John ha deciso di tenere traccia delle sue finanze con LibreOffice Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To save a spreadsheet &lt;i0/&gt;as a comma separated value (CSV) file:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T152732Z" creationid="michele" creationdate="20160524T152732Z">
+        <seg>Per salvare un documento &lt;i0/&gt;come file comma separated value (CSV):</seg>
       </tuv>
     </tu>
     <tu>
@@ -21585,6 +21673,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You may see the message box shown below.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T152817Z" creationid="michele" creationdate="20160524T152817Z">
+        <seg>Potreste vedere una finestra con la notifica mostrata sotto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You may want to explain your rationale for the changes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T150000Z" creationid="luciano" creationdate="20160423T143803Z">
@@ -21757,6 +21853,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T141907Z" creationid="luciano" creationdate="20160509T141754Z">
         <seg>tasti freccia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>as CSV file</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T152632Z" creationid="michele" creationdate="20160524T152632Z">
+        <seg>come file CSV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>as HTML</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T153026Z" creationid="michele" creationdate="20160524T153026Z">
+        <seg>come HTML</seg>
       </tuv>
     </tu>
     <tu>
@@ -22797,6 +22909,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T142533Z" creationid="michele" creationdate="20160524T142533Z">
         <seg>Salva Informazioni di Ripristino Automatico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>saving as CSV</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T152616Z" creationid="michele" creationdate="20160524T152616Z">
+        <seg>salvataggio come CSV</seg>
       </tuv>
     </tu>
     <tu>
