@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7774,6 +7774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter numbers into a sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T131607Z" creationid="luciano" creationdate="20160524T131607Z">
+        <seg>Inserire i numeri nel foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter the filter criteria underneath the column headings (see &lt;t0&gt;Table 16&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T141816Z" creationid="steevie" creationdate="20160511T141816Z">
@@ -8386,6 +8394,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T141827Z" creationid="luciano" creationdate="20160429T141827Z">
         <seg>Figura &lt;seq0&gt;296&lt;/seq0&gt;: Lista delle versioni aggiornata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;297&lt;/seq0&gt;: Enter numbers</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T131639Z" creationid="luciano" creationdate="20160524T131639Z">
+        <seg>Figura &lt;seq0&gt;297&lt;/seq0&gt;: Inserire i numeri</seg>
       </tuv>
     </tu>
     <tu>
