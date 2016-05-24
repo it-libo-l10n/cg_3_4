@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11438,6 +11438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Macros are especially useful to repeat a task the same way over and over again.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T101922Z" creationid="luciano" creationdate="20160524T101922Z">
+        <seg>Le macro sono particolarmente utili per ripetere un'azione di continuo sempre nello stesso modo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Macros, for recording and executing repetitive tasks; scripting languages supported include &lt;f0&gt;LibreOffice&lt;/f0&gt; Basic, Python, BeanShell, and JavaScript.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T102402Z">
@@ -17065,6 +17073,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This chapter briefly discusses common problems related to macro programming using Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T102034Z" creationid="luciano" creationdate="20160524T102034Z">
+        <seg>Questo capitolodescrive brevemente i problemi comuni relativi alla programmazione delle macro utilizzando Calc..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This chapter covers images and diagrams.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20160220T005834Z">
@@ -18693,6 +18709,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160215T071040Z">
         <seg>Grazie agli stili, non è più necessario selezionare, ad esempio, “Dimensione dei caratteri 14pt, Times New Roman, Grassetto, &lt;/f2&gt;&lt;f3&gt;Centrato&lt;/f3&gt;&lt;f4&gt;”, ma sarà sufficiente scegliere lo stile “Titolo”, precedentemente impostato con le caratteristiche desiderate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the &lt;i0/&gt;&lt;is1/&gt;macro recorder</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T102108Z" creationid="luciano" creationdate="20160524T102108Z">
+        <seg>Utilizzo del &lt;i0/&gt;&lt;is1/&gt;Registratore di macro</seg>
       </tuv>
     </tu>
     <tu>
