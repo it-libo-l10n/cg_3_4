@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19149,6 +19149,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164837Z" creationid="steevie" creationdate="20160428T164837Z">
         <seg>Per arrivare alla finestra di dialogo di personalizzazione delle barre degli strumenti, eseguite una delle seguenti operazioni:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To give a sheet a more meaningful name:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160524T154446Z" creationid="antonio" creationdate="20160524T154446Z">
+        <seg>Per dare un nome più significativo ad un foglio:</seg>
       </tuv>
     </tu>
     <tu>
