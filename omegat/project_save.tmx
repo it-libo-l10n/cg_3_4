@@ -3678,6 +3678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;We need 6 sheets, one for each of the 5 accounts and one as a summary sheet, so we will add 3 more.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160524T144343Z" creationid="antonio" creationdate="20160524T144343Z">
+        <seg>&lt;f0&gt;Abbiamo bisogno di 6 fogli. uno per oguno dei 5 conti correnti e uno per il</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Where a sheet prints to more than one page of paper, it can be printed either by column, where the&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;first column of pages prints, and then the second column and so on, or by row as shown in the graphic on the top right of the dialog in &lt;/f3&gt;&lt;f4&gt;&lt;t5&gt;Figure 144&lt;/t5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T132521Z">
@@ -8390,6 +8398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;249&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160524T144154Z" creationid="antonio" creationdate="20160524T144154Z">
+        <seg>Figura &lt;seq0&gt;249&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;280&lt;/seq0&gt;: Choosing to share a spreadsheet</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T153022Z" creationid="Luciano B." creationdate="20160411T153022Z">
@@ -9632,8 +9648,8 @@
       <tuv lang="EN">
         <seg>He&lt;/f2&gt;&lt;f3&gt;re you can choose to put the new sheet before or after the selected sheet and how many sheets to insert.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="antonio" changedate="20160524T144027Z" creationid="antonio" creationdate="20160524T144027Z">
-        <seg>&lt;/f2&gt;&lt;f3&gt;re you can choose to put the new sheet before or after the selected sheet and how many sheets to insert.&lt;/f3&gt;</seg>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160524T144148Z" creationid="antonio" creationdate="20160524T144027Z">
+        <seg>&lt;/f2&gt;&lt;f3&gt;Qui potete scegliere di inserire il nuovo foglio prima o dopo di quello selezionato e quanti inserirne.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11330,6 +11346,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T131618Z" creationid="steevie" creationdate="20160427T131618Z">
         <seg>Sezione impostazioni di immissione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Sheet dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160524T144214Z" creationid="antonio" creationdate="20160524T144214Z">
+        <seg>La finestra di dialogo Inserisci foglio</seg>
       </tuv>
     </tu>
     <tu>
