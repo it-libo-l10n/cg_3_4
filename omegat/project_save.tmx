@@ -3310,6 +3310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Right-click&lt;/f0&gt; on a cell, graphic, or other object to open a context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T083956Z" creationid="michele" creationdate="20160524T083956Z">
+        <seg>&lt;f0&gt;Clic destro&lt;/f0&gt; on a cell, graphic, or other object to open a context menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Select &lt;/f0&gt;&lt;f1&gt;Edit &gt; Changes &gt; Accept or Reject&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160426T155331Z" creationid="luciano" creationdate="20160426T155331Z">
@@ -13639,6 +13647,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click (context) menus</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T083924Z" creationid="michele" creationdate="20160524T083924Z">
+        <seg>Fare clic col tasto destro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click on the cell containing the comment marker, and choose &lt;f0&gt;Show comment&lt;/f0&gt; from the &lt;f1&gt;context&lt;/f1&gt; menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160424T135113Z" creationid="luciano" creationdate="20160424T135113Z">
@@ -17265,6 +17281,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To edit inside the Input line area, click in the area, then type your changes.&lt;f6&gt; &lt;/f6&gt;To edit within the current cell, just &lt;f7&gt;double-click&lt;/f7&gt; the cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T083900Z" creationid="michele" creationdate="20160524T083900Z">
+        <seg>Per modificare nella Riga di Digitazione, fare clic nell'area e digitare le modifiche.&lt;f6&gt; &lt;/f6&gt;Per modificare dentro la cella corrente, basta fare &lt;f7&gt;doppio-click&lt;/f7&gt;sulla cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To enable sharing, check the box at the top of the dialog, and then click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T153340Z" creationid="Luciano B." creationdate="20160411T153340Z">
@@ -18981,6 +19005,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160206T083020Z">
         <seg>Scrittura di funzioni personalizzate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Y&lt;/f5&gt;ou can either edit the cell contents of the current cell there, or you can do that in the current cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T083730Z" creationid="michele" creationdate="20160524T083730Z">
+        <seg>P&lt;/f5&gt;uoi alternativamente modificare il contenuto della cella nella barra delle formule, o nella cella corrente.</seg>
       </tuv>
     </tu>
     <tu>
