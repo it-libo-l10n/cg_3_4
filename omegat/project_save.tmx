@@ -3206,6 +3206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;If you prefer, select the &lt;/f0&gt;&lt;f1&gt;Link&lt;/f1&gt;&lt;f2&gt; option to insert the external sheet as a link instead as a copy.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160524T153053Z" creationid="antonio" creationdate="20160524T153053Z">
+        <seg>&lt;f0&gt;Se preferite, scegliete l'opzione &lt;/f0&gt;&lt;f1&gt;Collega&lt;/f1&gt;&lt;f2&gt; per inserire il foglio esterno come un collegamento invece che come copia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Important—&lt;/f0&gt;First save your spreadsheet in the file format used by &lt;f1&gt;LibreOffice&lt;/f1&gt;, &lt;f2&gt;*.ods&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T143010Z" creationid="michele" creationdate="20160524T143010Z">
@@ -18453,6 +18461,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160428T155732Z" creationid="luciano" creationdate="20160428T155732Z">
         <seg>Questo non è comunque un problema con Calc, perché Calc è in grado di trovare le modifiche confrontando i documenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is one of several ways to include “live” data from another spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160524T153205Z" creationid="antonio" creationdate="20160524T153205Z">
+        <seg>Questo è uno dei tanti modi per includere i dati .</seg>
       </tuv>
     </tu>
     <tu>
