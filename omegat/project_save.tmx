@@ -8462,6 +8462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;298&lt;/seq0&gt;: Stop recording button</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T142350Z" creationid="luciano" creationdate="20160524T142350Z">
+        <seg>Figura &lt;seq0&gt;298&lt;/seq0&gt;: Termina registrazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Parts of the Calc window</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T164134Z">
@@ -16560,6 +16568,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Record Macro dialog is displayed with a stop recording button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T142325Z" creationid="luciano" creationdate="20160524T142325Z">
+        <seg>Sarà visualizzata la finestra di dialogo del Registratore di macro con il pulsante Termina registrazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Sheet tab of the Page Style dialog</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T162328Z">
@@ -19059,7 +19075,7 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>Use &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; General&lt;/f0&gt; and select the &lt;f1&gt;Enable experimental (unstable) features&lt;/f1&gt; option to enable the macro recorder.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T130926Z" creationid="luciano" creationdate="20160524T130635Z">
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T142124Z" creationid="luciano" creationdate="20160524T130635Z">
         <seg>(Per abilitare la registrazione delle macro, utilizzate &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Generale&lt;/f0&gt; e selezionate l'opzione &lt;f1&gt;Abilita le funzioni sperimentali&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
