@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Three sheets are already provided by default.) Because you are inserting more than one sheet, the &lt;/f6&gt;&lt;f7&gt;Name&lt;/f7&gt;&lt;f8&gt; box is not available.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160524T150034Z" creationid="antonio" creationdate="20160524T150034Z">
+        <seg>(Tre fogli sono disponibili in modo predefinito.) Dal momento che state inserendo più di un foglio, la &lt;/f6&gt;&lt;f7&gt;casella Nome&lt;/f7&gt;&lt;f8&gt; è non disponibile.&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(To format a footer, the choices are the same.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T163840Z" creationid="Luciano B." creationdate="20160325T163840Z">
@@ -2866,6 +2874,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T141137Z" creationid="luciano" creationdate="20160429T141137Z">
         <seg>&lt;f0&gt;Scegliete &lt;/f0&gt;&lt;f1&gt;File &gt; Versioni&lt;/f1&gt;&lt;f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Choose &lt;/f0&gt;&lt;f1&gt;New sheet&lt;/f1&gt;&lt;f2&gt; and &lt;/f2&gt;&lt;f3&gt;3&lt;/f3&gt;&lt;f4&gt; as the &lt;/f4&gt;&lt;f5&gt;No.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160524T145735Z" creationid="antonio" creationdate="20160524T145735Z">
+        <seg>&lt;f0&gt;Scegliete &lt;/f0&gt;&lt;f1&gt;Nuovo foglio&lt;/f1&gt;&lt;f2&gt; e &lt;/f2&gt;&lt;f3&gt;3&lt;/f3&gt;&lt;f4&gt; come &lt;/f4&gt;&lt;f5&gt;Nr.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22293,6 +22309,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160504T140959Z" creationid="luciano" creationdate="20160504T140959Z">
         <seg>navigazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>of sheets&lt;/f5&gt;&lt;f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160524T145741Z" creationid="antonio" creationdate="20160524T145741Z">
+        <seg>di fogli&lt;/f5&gt;&lt;f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
