@@ -6406,6 +6406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;/f2&gt;&lt;f3&gt;Browse&lt;/f3&gt;&lt;f4&gt; and select the file; a list of the available sheets appears in the box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160524T151854Z" creationid="antonio" creationdate="20160524T151854Z">
+        <seg>Fate click su &lt;/f2&gt;&lt;f3&gt;Sfoglia&lt;/f3&gt;&lt;f4&gt; e selezionate il file; una lista dei fogli disponibili appare nella casella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;&lt;f1&gt;∑&lt;/f1&gt;&lt;/f0&gt; into the current cell totals the numbers in the cells above the current cell.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T082622Z" creationid="michele" creationdate="20160524T082622Z">
@@ -10890,6 +10898,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T084150Z" creationid="michele" creationdate="20160524T084150Z">
         <seg>Se non sapete dove è posizionata una funzione nei menu o nelle barre degli strumenti, spesso è possibile trovarla facendo clic con il pulsante destro del mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If, after you select the file, no sheets appear, you probably selected an invalid file type (not a spreadsheet, for example).&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160524T152111Z" creationid="antonio" creationdate="20160524T152111Z">
+        <seg>Se, dopo aver scelto il file, non appare nessun foglio, probabilmente avete selezionato un tipo di file non valido (non un foglio di lavoro, per esempio).&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15427,6 +15443,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160509T075528Z" creationid="briga" creationdate="20160509T075528Z">
         <seg>Scegliete il foglio a cui volete applicare lo stile (facendo clic sulla linguetta del foglio in basso sullo schermo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the sheet to import.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160524T151914Z" creationid="antonio" creationdate="20160524T151914Z">
+        <seg>Scegliete il foglio da importare.</seg>
       </tuv>
     </tu>
     <tu>
