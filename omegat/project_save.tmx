@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2870,6 +2870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Choose &lt;/f0&gt;&lt;f1&gt;Tools &gt; Options &gt; Load/Save &gt; General&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T141232Z" creationid="michele" creationdate="20160524T141232Z">
+        <seg>&lt;f0&gt;Seleziona&lt;/f0&gt;&lt;f1&gt;Strumenti &gt; Opzini &gt; Load/Save &gt; General&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Click &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;OK&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt; to accept the change.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170850Z" creationid="steevie" creationdate="20160428T170850Z">
@@ -3674,6 +3682,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160424T134042Z" creationid="luciano" creationdate="20160424T134042Z">
         <seg>&lt;f0&gt;Potete cambiare il colore che Calc usa per le note selezionando &lt;/f0&gt;&lt;f1&gt;Strumenti &gt; Opzioni &gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;LibreOffice &gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;Aspetto&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;You can choose to have Calc save your spreadsheet automatically at regular intervals.&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; Automatic saving, like manual saving, overwrites the last saved state of the file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T140901Z" creationid="michele" creationdate="20160524T140621Z">
+        <seg>&lt;f0&gt;Puoi Impostare Calc per effettuare il salvataggio automatico ad intervalli temporali regolari.&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; Il salvatggio automatico al pari delsalvataggio manuale, sovrascrive l'ultimo stato salvato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14455,6 +14471,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Saving a document &lt;i0/&gt;automatically</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T140609Z" creationid="michele" creationdate="20160524T140609Z">
+        <seg>Salvataggio &lt;i0/&gt;automatico di un documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Saving a shared spreadsheet</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T161550Z" creationid="Luciano B." creationdate="20160411T161550Z">
@@ -17443,8 +17467,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>There you can specify the spreadsheet name and the location in which to save it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160524T135734Z" creationid="michele" creationdate="20160524T135734Z">
-        <seg>Li potete specificare il nome del foglio di lavoro e il percorso dove salvare il file.</seg>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T140603Z" creationid="michele" creationdate="20160524T135734Z">
+        <seg>LÌ potete specificare il nome del foglio di lavoro e il percorso dove salvare il file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18637,6 +18661,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160422T160708Z" creationid="luciano" creationdate="20160422T160708Z">
         <seg>Per impostare il titolo del foglio elettronici, selezionate &lt;f0&gt;File &gt; Proprietà &gt; Descrizione&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To set up automatic file saving:&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T140924Z" creationid="michele" creationdate="20160524T140924Z">
+        <seg>Per impostare il salvataggio automatico:&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21077,6 +21109,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160510T141947Z" creationid="steevie" creationdate="20160510T141947Z">
         <seg>filtri automatici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>automatic saving</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T140559Z" creationid="michele" creationdate="20160524T140559Z">
+        <seg>salvataggio automatico</seg>
       </tuv>
     </tu>
     <tu>
