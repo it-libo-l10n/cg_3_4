@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5800,8 +5800,8 @@
       <tuv lang="EN">
         <seg>Chapter 13 of the &lt;f0&gt;Getting Started&lt;/f0&gt; guide, Getting Started with Macros, provides a basis for understanding the general macro capabilities in &lt;f1&gt;LibreOffice&lt;/f1&gt; using the macro recorder.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T102959Z" creationid="luciano" creationdate="20160524T102334Z">
-        <seg>Il Capitolo 13 della &lt;f0&gt;Guida Introduttiva&lt;/f0&gt;, Iniziare con le Macro, fornisce le per comprendere le funzionalità macro generali in&lt;f1&gt; LibreOffice &lt;/ f1&gt; utilizzando il Registratore di macro</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T132627Z" creationid="luciano" creationdate="20160524T102334Z">
+        <seg>Il Capitolo 13 della &lt;f0&gt;Guida Introduttiva&lt;/f0&gt;, Iniziare con le Macro, fornisce le basi per comprendere le funzionalità generali delle macro in&lt;f1&gt; LibreOffice &lt;/ f1&gt; utilizzando il Registratore di macro</seg>
       </tuv>
     </tu>
     <tu>
@@ -7784,8 +7784,8 @@
       <tuv lang="EN">
         <seg>Enter numbers into a sheet.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T131607Z" creationid="luciano" creationdate="20160524T131607Z">
-        <seg>Inserire i numeri nel foglio.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T132937Z" creationid="luciano" creationdate="20160524T131607Z">
+        <seg>Inserite i numeri nel foglio.</seg>
       </tuv>
     </tu>
     <tu>
