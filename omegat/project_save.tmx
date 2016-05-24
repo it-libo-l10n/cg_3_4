@@ -4136,8 +4136,8 @@
       <tuv lang="EN">
         <seg>A new &lt;f0&gt;LibreOffice&lt;/f0&gt; installation does not contain many templates, but you can add more by downloading them from &lt;a1&gt;http://templates.libreoffice.org&lt;/a1&gt; &lt;s2/&gt;or other sources and installing them on your computer as described in Chapter 4, Using Styles and Templates in Calc.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160524T122119Z" creationid="michele" creationdate="20160524T122119Z">
-        <seg>Una nuovo installazione di &lt;f0&gt;LibreOffice&lt;/f0&gt;non contiene molti modelli,ma ne puoi aggiungere altri scaricandoli da &lt;a1&gt;http://templates.libreoffice.org&lt;/a1&gt; &lt;s2/&gt;o da altre sorgenti e installarle nel tuo computer come descritto nel Capitolo 4,personalizzare Calc.</seg>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T122601Z" creationid="michele" creationdate="20160524T122119Z">
+        <seg>Una nuovo installazione di &lt;f0&gt;LibreOffice&lt;/f0&gt;non contiene molti modelli,ma ne puoi aggiungere altri scaricandoli da &lt;a1&gt;http://templates.libreoffice.org&lt;/a1&gt; &lt;s2/&gt;o da altre sorgenti e installarle nel tuo computer come descritto nel Capitolo 14,personalizzare Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8146,6 +8146,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T103910Z" creationid="michele" creationdate="20160524T103910Z">
         <seg>Figura &lt;seq0&gt;15&lt;/seq0&gt;: Centro di Avvio di &lt;f1&gt;LibreOffice&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Starting a new spreadsheet from a template</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T122647Z" creationid="michele" creationdate="20160524T122647Z">
+        <seg>La figura &lt;seq0&gt;16&lt;/seq0&gt;: Avviare un nuovo documento da un modello </seg>
       </tuv>
     </tu>
     <tu>
@@ -17019,8 +17027,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>These are installed a little differently, as described in Chapter 14, Setting Up and Customizing Calc.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160524T122315Z" creationid="michele" creationdate="20160524T122315Z">
-        <seg>queste si installano in maniera leggermente diversa, come descritto nel Capitolo 14.</seg>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T122613Z" creationid="michele" creationdate="20160524T122315Z">
+        <seg>Queste si installano in maniera leggermente diversa, come descritto nel Capitolo 14 Personalizzare Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19209,6 +19217,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When no document is open, the Start Center (&lt;t0&gt;Figure 15&lt;/t0&gt;) provides an icon for opening an existing document or choosing from a list of recently-edited documents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T122727Z" creationid="michele" creationdate="20160524T122727Z">
+        <seg>Quando non vi sono documenti aperti, il Centro di Avvio (&lt;t0&gt;Figura 15&lt;/t0&gt;) mostra un'icona per l'apertura di un documento esistente o la selezione da una lista di documenti elaborati di recente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When not using the document sharing feature, it is important to keep track of the different copies of the document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160422T160358Z" creationid="luciano" creationdate="20160422T160358Z">
@@ -19829,6 +19845,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160323T164430Z">
         <seg>La Le barre degli strumenti possono essere modificate, come spiegato nel Capitolo 14 Impostare Personalizzare LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also open an existing document in one of the following ways.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T122730Z" creationid="michele" creationdate="20160524T122730Z">
+        <seg>Inoltre è possibile aprire un documento esistente in uno dei seguenti modi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21229,6 +21253,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T154813Z" creationid="Luciano B." creationdate="20160411T154813Z">
         <seg>apertura foglio di calcolo condiviso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>opening spreadsheets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T122659Z" creationid="michele" creationdate="20160524T122659Z">
+        <seg>Apertura dei fogli elettronici</seg>
       </tuv>
     </tu>
     <tu>
