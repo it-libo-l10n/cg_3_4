@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2910,6 +2910,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Click &lt;/f0&gt;&lt;f1&gt;OK&lt;/f1&gt;&lt;f2&gt; to insert the sheet.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160524T150911Z" creationid="antonio" creationdate="20160524T150911Z">
+        <seg>&lt;f0&gt;Fate click su &lt;/f0&gt;&lt;f1&gt;OK&lt;/f1&gt;&lt;f2&gt; per inserire il foglio.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Click &lt;/f0&gt;&lt;f1&gt;OK&lt;/f1&gt;&lt;f2&gt; to insert the sheets.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T150106Z" creationid="antonio" creationdate="20160524T150106Z">
@@ -3226,6 +3234,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160315T172111Z">
         <seg>&lt;f0&gt;Nella sezione &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Intervallo e copie&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; della finestra di dialogo Stampa, selezionate l'opzione &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Celle selezionate&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;In the &lt;/f0&gt;&lt;f1&gt;Name&lt;/f1&gt;&lt;f2&gt; box, type a name for this new sheet, for example &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Credit Card 1&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160524T150850Z" creationid="antonio" creationdate="20160524T150850Z">
+        <seg>&lt;f0&gt;Nella casella &lt;/f0&gt;&lt;f1&gt;Nome&lt;/f1&gt;&lt;f2&gt; , scrivete un nome per questo nuovo foglio, per esempio &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Carta di credito 1&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14659,6 +14675,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T161844Z">
         <seg>Eliminare un'area di stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repeat steps 1–4 for each new sheet, giving them the names Credit Card 2 and Car Loan.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160524T151039Z" creationid="antonio" creationdate="20160524T151039Z">
+        <seg>Ripetete i passaggi 1-4 per ogni nuovo foglio, giving them the names Credit Card 2 and Car Loan.</seg>
       </tuv>
     </tu>
     <tu>
