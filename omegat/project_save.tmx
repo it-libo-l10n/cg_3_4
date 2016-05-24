@@ -4134,6 +4134,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A new &lt;f0&gt;LibreOffice&lt;/f0&gt; installation does not contain many templates, but you can add more by downloading them from &lt;a1&gt;http://templates.libreoffice.org&lt;/a1&gt; &lt;s2/&gt;or other sources and installing them on your computer as described in Chapter 4, Using Styles and Templates in Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T122119Z" creationid="michele" creationdate="20160524T122119Z">
+        <seg>Una nuovo installazione di &lt;f0&gt;LibreOffice&lt;/f0&gt;non contiene molti modelli,ma ne puoi aggiungere altri scaricandoli da &lt;a1&gt;http://templates.libreoffice.org&lt;/a1&gt; &lt;s2/&gt;o da altre sorgenti e installarle nel tuo computer come descritto nel Capitolo 4,personalizzare Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A new spreadsheet, based on the selected template, opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T121912Z" creationid="michele" creationdate="20160524T121912Z">
+        <seg>Si aprirà un nuovo foglio di calcolo basato sul modello selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A particular cell is identified by its row number and column letter.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T162517Z">
@@ -12259,6 +12275,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T125627Z" creationid="steevie" creationdate="20160421T125627Z">
         <seg>Versione del formato ODF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OXT files</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T121918Z" creationid="michele" creationdate="20160524T121918Z">
+        <seg>File OXT</seg>
       </tuv>
     </tu>
     <tu>
