@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3990,6 +3990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A &lt;i0/&gt;macro is a saved sequence of commands or keystrokes that are stored for later use.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T101517Z" creationid="luciano" creationdate="20160524T101517Z">
+        <seg>Una &lt;i0/&gt;macro è una sequenza di comandi o di tasti memorizzati per un utilizzo successivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A Calc document is a very capable database, providing sufficient functionality to satisfy the needs of many users.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T145420Z" creationid="steevie" creationdate="20160503T145420Z">
@@ -5102,6 +5110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automating repetitive tasks</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T101351Z" creationid="luciano" creationdate="20160524T101351Z">
+        <seg>Automatizzare compiti ripetitivi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Average</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T151617Z" creationid="steevie" creationdate="20160503T151617Z">
@@ -5392,8 +5408,8 @@
       <tuv lang="EN">
         <seg>Calc Macros</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160206T082943Z">
-        <seg>Macro di Calc</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T101316Z">
+        <seg>Le Macro di Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -20877,6 +20893,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T160935Z" creationid="steevie" creationdate="20160418T160935Z">
         <seg>opzioni di sicurezza delle macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>macros</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T101358Z" creationid="luciano" creationdate="20160524T101358Z">
+        <seg>macro</seg>
       </tuv>
     </tu>
     <tu>
