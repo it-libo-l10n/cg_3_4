@@ -4126,6 +4126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t1&gt;Listing 1&lt;/t1&gt; shows the contents of the macro.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T152902Z" creationid="luciano" creationdate="20160524T152902Z">
+        <seg>&lt;t1&gt;&lt;Elenco 1&lt;/t1&gt; visualizza il contenuto della macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>="Andy"</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T142256Z" creationid="steevie" creationdate="20160511T142256Z">
@@ -11296,8 +11304,8 @@
       <tuv lang="EN">
         <seg>In the New Module dialog, type a name for the new module or leave the name as Module1.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T150717Z" creationid="luciano" creationdate="20160524T150717Z">
-        <seg>Nella finestra di dialogo del Nuovo Modulo, digitate il nome o lasciate il nome Module1.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T152744Z" creationid="luciano" creationdate="20160524T150717Z">
+        <seg>Nella finestra di dialogo del Nuovo Modulo, digitate il nome o lasciate il nome Modulo1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12210,6 +12218,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133752Z" creationid="steevie" creationdate="20160517T133752Z">
         <seg>Listato &lt;seq0&gt;18&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Listing &lt;seq0&gt;1&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T153054Z" creationid="luciano" creationdate="20160524T153054Z">
+        <seg>Elenco &lt;seq0&gt;1&lt;/seq0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17298,8 +17314,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The created macro is saved in Module1 of the Standard library in the &lt;f0&gt;Untitled 1&lt;/f0&gt; document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T152727Z" creationid="luciano" creationdate="20160524T152727Z">
-        <seg>La macro creata è salvata nel Modulo1 della libreria Standard nel documento &lt;f0&gt;Snza nome 1&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T152753Z" creationid="luciano" creationdate="20160524T152727Z">
+        <seg>La macro creata è salvata nel Modulo1 della libreria Standard nel documento &lt;f0&gt;Senza nome 1&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
