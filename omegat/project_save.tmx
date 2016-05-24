@@ -40,8 +40,8 @@
       <tuv lang="EN">
         <seg>(See also “&lt;/f2&gt;&lt;f3&gt;&lt;bf4&gt;Linking to external data&lt;/bf4&gt;&lt;/f3&gt;&lt;f5&gt;” on page &lt;/f5&gt;&lt;f6&gt;&lt;bf7&gt;253&lt;/bf7&gt;&lt;/f6&gt;&lt;f8&gt;.) The links can be updated manually to show the current contents of the external file; or, depending on the options you have selected in &lt;/f8&gt;&lt;f9&gt;Tools&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt; &gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;Options&lt;/f12&gt;&lt;f13&gt;&lt;f14&gt; &gt; LibreOffice&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; Calc&lt;/f15&gt;&lt;f16&gt;&lt;f17&gt; &gt; &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;General&lt;/f18&gt;&lt;f19&gt;&lt;f20&gt; &gt; &lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;Updating&lt;/f21&gt;, &lt;f22&gt;whenever the file is opened.&lt;/f22&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="antonio" changedate="20160524T153521Z" creationid="antonio" creationdate="20160524T153521Z">
-        <seg>(Vedi anche “&lt;/f2&gt;&lt;f3&gt;&lt;bf4&gt;Collegare dati esterni&lt;/bf4&gt;&lt;/f3&gt;&lt;f5&gt;” alla pagina &lt;/f5&gt;&lt;f6&gt;&lt;bf7&gt;253&lt;/bf7&gt;&lt;/f6&gt;&lt;f8&gt;.) I collegamenti possono essere aggiornati manualmente pe rmostrare il contenuto attuale del file esterno; o, depending on the options you have selected in &lt;/f8&gt;&lt;f9&gt;Tools&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt; &gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;Options&lt;/f12&gt;&lt;f13&gt;&lt;f14&gt; &gt; LibreOffice&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; Calc&lt;/f15&gt;&lt;f16&gt;&lt;f17&gt; &gt; &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;General&lt;/f18&gt;&lt;f19&gt;&lt;f20&gt; &gt; &lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;Updating&lt;/f21&gt;, &lt;f22&gt;whenever the file is opened.&lt;/f22&gt;</seg>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160524T153810Z" creationid="antonio" creationdate="20160524T153521Z">
+        <seg>(Vedi anche “&lt;/f2&gt;&lt;f3&gt;&lt;bf4&gt;Collegare dati esterni&lt;/bf4&gt;&lt;/f3&gt;&lt;f5&gt;” alla pagina &lt;/f5&gt;&lt;f6&gt;&lt;bf7&gt;253&lt;/bf7&gt;&lt;/f6&gt;&lt;f8&gt;.) I collegamenti possono essere aggiornati manualmente pe rmostrare il contenuto attuale del file esterno; o, a seconda delle opzioni che avete scelto in &lt;/f8&gt;&lt;f9&gt;Strumenti&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt; &gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;Opzioni&lt;/f12&gt;&lt;f13&gt;&lt;f14&gt; &gt; LibreOffice&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; Calc&lt;/f15&gt;&lt;f16&gt;&lt;f17&gt; &gt; &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;Generale&lt;/f18&gt;&lt;f19&gt;&lt;f20&gt; &gt; &lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;Aggiorna&lt;/f21&gt;, &lt;f22&gt;ogni volta che il file viene aperto.&lt;/f22&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22869,6 +22869,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T122228Z" creationid="steevie" creationdate="20160421T122216Z">
         <seg>rimuovi le informazioni personali al salvataggio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>renaming</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160524T153820Z" creationid="antonio" creationdate="20160524T153820Z">
+        <seg>rinominare</seg>
       </tuv>
     </tu>
     <tu>
