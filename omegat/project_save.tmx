@@ -6366,6 +6366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;New Module&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T145911Z" creationid="luciano" creationdate="20160524T145911Z">
+        <seg>Fate click su &lt;f0&gt;Nuovo Modulo&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;New&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165532Z" creationid="steevie" creationdate="20160428T165532Z">
@@ -10186,6 +10194,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T155711Z" creationid="steevie" creationdate="20160418T155711Z">
         <seg>Se necessario, cambiare le impostazioni da RGB (Red, Green, Blue - Rosso, Verde, Blu) oppure il sistema CMYK (Cyan, Magenta, Yellow, Black - Ciano, Magenta, Giallo Nero).o viceversa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If no libraries exist, then the Standard library is automatically created and used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T150114Z" creationid="luciano" creationdate="20160524T150114Z">
+        <seg>Se non esistono librerie, automaticamenteviene creata e utilizzata la libreria Standard library is automatically created and used. </seg>
       </tuv>
     </tu>
     <tu>
@@ -20987,8 +21003,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>You can create a new library to contain the macro, but this is not necessary.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T145732Z" creationid="luciano" creationdate="20160524T145732Z">
-        <seg>Voi potete creare una nuova libreria che contiene la macro, ma questo non è necessario.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T145836Z" creationid="luciano" creationdate="20160524T145732Z">
+        <seg>Potete creare una nuova libreria per contenere la macro, ma questo non è necessario.</seg>
       </tuv>
     </tu>
     <tu>
