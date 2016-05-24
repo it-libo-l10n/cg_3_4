@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3062,6 +3062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;From the Quickstarter&lt;/f0&gt;, if it has been enabled in &lt;f1&gt;Tools &gt; Options &gt; LibreOffice – Memory&lt;/f1&gt;, which is found in Windows, some Linux distributions, and (in a slightly different form) in Mac OS X. The &lt;i2/&gt;Quickstarter is an icon that is placed in the system tray or the dock during system startup.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T101019Z" creationid="michele" creationdate="20160524T101019Z">
+        <seg>&lt;f0&gt;Dal Quickstart&lt;/f0&gt;, se è stato abilitato in &lt;f1&gt;Strumenti &gt; Opzioni &gt; LibreOffice – Memoria&lt;/f1&gt;, che si trova in Windows, in alcune distribuzioni Linux, e (in forma leggermente diversa) in Mac OS X. Il&lt;i2/&gt; Quickstart è un'icona che viene visualizzata nel vassoio di sistema o nel dock (la barra contenente le icone delle applicazioni, situata nella parte bassa dello schermo) durante l'avvio del sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;From the operating system menu&lt;/f0&gt;, in the same way that you start other programs.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T100125Z" creationid="michele" creationdate="20160524T100125Z">
@@ -3330,6 +3338,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T084039Z" creationid="michele" creationdate="20160524T083956Z">
         <seg>&lt;f0&gt;fare clic con il pulsante secondario del mouse&lt;/f0&gt; su una cella, immagine, o o altro oggetto per aprire il menù contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Right-click&lt;/f0&gt; the &lt;f1&gt;Quickstarter&lt;/f1&gt; icon (&lt;t2&gt;Figure 14&lt;/t2&gt;) in the system tray to open a menu from which you can open a new document, open the Templates and Documents dialog box, or choose an existing document to open.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T101156Z" creationid="michele" creationdate="20160524T101156Z">
+        <seg>&lt;f0&gt;Clic destro&lt;/f0&gt; the &lt;f1&gt;Quickstarter&lt;/f1&gt; icon (&lt;t2&gt;Figure 14&lt;/t2&gt;) in the system tray to open a menu from which you can open a new document, open the Templates and Documents dialog box, or choose an existing document to open.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10914,6 +10930,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160323T164820Z">
         <seg>Da una spiegazione sommaria delle funzioni di un icona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It indicates that &lt;f3&gt;LibreOffice&lt;/f3&gt; has been loaded and is ready to use.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T101137Z" creationid="michele" creationdate="20160524T101055Z">
+        <seg>Indica che &lt;f3&gt;LibreOffice&lt;/f3&gt; è stato caricato ed è pronto per essere usato.</seg>
       </tuv>
     </tu>
     <tu>
