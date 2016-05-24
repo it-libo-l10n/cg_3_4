@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9968,8 +9968,8 @@
       <tuv lang="EN">
         <seg>If the file has another extension (for example, *.txt), select the file, select &lt;f0&gt;Text CSV (*csv;*txt) &lt;/f0&gt;in the File type box (scroll down into the spreadsheet section to find it), and then click &lt;f1&gt;Open&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160524T124407Z" creationid="michele" creationdate="20160524T124407Z">
-        <seg>Se il file ha un'altra estensione (per esempio, *.txt), seleziona il file, seleziona &lt;f0&gt;Testo CSV (*csv;*txt) &lt;/f0&gt;in the File type box (scroll down into the spreadsheet section to find it), and then click &lt;f1&gt;Open&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T125354Z" creationid="michele" creationdate="20160524T124407Z">
+        <seg>Se il file ha un'altra estensione (per esempio, *.txt), seleziona il file, seleziona &lt;f0&gt;Testo CSV (*csv;*txt) &lt;/f0&gt; nella casella tipo di File (scorri in fondo alla sezione del foglio di calcolo per trovarlo), poi fai clic su &lt;f1&gt;Apri&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12635,6 +12635,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T104840Z" creationid="michele" creationdate="20160524T104840Z">
         <seg>Nella finestra di dialogo dei modelli (&lt;t0&gt;Figura 16&lt;/t0&gt;), fare clic sull'icona &lt;f1&gt;Modelli&lt;/f1&gt; sulla sinistra (se non fosse ancora selezionata), successivamente nevigare nella cartella appropriata e fare &lt;f2&gt;doppio-clic &lt;/f2&gt; sul modello scelto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Text Import dialog (&lt;t0&gt;Figure 17&lt;/t0&gt;), select the Separator options to divide the text in the file into columns.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T125426Z" creationid="michele" creationdate="20160524T125426Z">
+        <seg>Nella finestra di dialogo (&lt;t0&gt;Figure 17&lt;/t0&gt;), select the Separator options to divide the text in the file into columns.</seg>
       </tuv>
     </tu>
     <tu>
