@@ -5430,6 +5430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>CSV files</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T123801Z" creationid="michele" creationdate="20160524T123801Z">
+        <seg>file CSV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc Error Codes</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T101311Z">
@@ -6506,6 +6514,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153831Z">
         <seg>Interruzione di colonna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comma-separated-values (CSV) files are text files that contain the cell contents of a single sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T123958Z" creationid="michele" creationdate="20160524T123958Z">
+        <seg>I Comma-separated-values (CSV) sono file di testo che contengono il contenuto delle celle di un singolo foglio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9646,6 +9662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a document is already open in &lt;f1&gt;LibreOffice&lt;/f1&gt;, the second document opens in a new window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T123753Z" creationid="michele" creationdate="20160524T123753Z">
+        <seg>Se &lt;f1&gt;LibreOffice&lt;/f1&gt; ha già un documento aperto, il secondo documento si apre in una nuova finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a document is already open in &lt;f3&gt;LibreOffice&lt;/f3&gt;, the new document opens in a new window.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T103819Z" creationid="michele" creationdate="20160524T103819Z">
@@ -10102,6 +10126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have associated Microsoft Office file formats with &lt;f0&gt;LibreOffice&lt;/f0&gt;, you can also open these files by double-clicking on them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T123755Z" creationid="michele" creationdate="20160524T123755Z">
+        <seg>Se avete associato i formati file di Microsoft Office con &lt;f0&gt;LibreOffice&lt;/f0&gt;, potete aprire anch'essi con il doppio clic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have defined Writer bookmarks, Impress or Draw slide names, or Calc sheet names, this option exports them as “named destinations” to which Web pages and PDF documents can link.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T145815Z" creationid="Luciano B." creationdate="20160329T145815Z">
@@ -10522,6 +10554,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T080509Z">
         <seg>Inoltre, è possibile scegliere di attivare l'identificazione degli strumenti, i suggerimenti attivi e l'Assistente di aiuto (da &lt;f2&gt;Strumenti &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; Opzioni &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; LibreOffice &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; Generale&lt;/f11&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In each case, the Open dialog box appears.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T123745Z" creationid="michele" creationdate="20160524T123745Z">
+        <seg>In ciascun caso, viene visualizzata la finestra di dialogo Apri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14571,6 +14611,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T151143Z" creationid="luciano" creationdate="20160424T135155Z">
         <seg>Selezionate il commento, e fate un doppio clic sopra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the file you want, and then click &lt;f0&gt;Open&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T123749Z" creationid="michele" creationdate="20160524T123749Z">
+        <seg>Scegliete il file desiderato, poi fate clic su &lt;f0&gt;Apri&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18635,8 +18683,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>Use the &lt;f0&gt;Open Document&lt;/f0&gt; selection on the Quickstarter.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160524T123351Z" creationid="michele" creationdate="20160524T123351Z">
-        <seg>Usa il &lt;f0&gt;Open Document&lt;/f0&gt; selection on the Quickstarter.</seg>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T123727Z" creationid="michele" creationdate="20160524T123351Z">
+        <seg>Usa la sezione &lt;f0&gt;Apri Documento&lt;/f0&gt; nel Quickstart.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20701,6 +20749,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142801Z" creationid="steevie" creationdate="20160504T142801Z">
         <seg>costanti com.sun.star.sheet.NamedRangeFlag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>comma separated values (CSV)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T123807Z" creationid="michele" creationdate="20160524T123807Z">
+        <seg>valori separati da virgola (comma separated values - CSV)</seg>
       </tuv>
     </tu>
     <tu>
