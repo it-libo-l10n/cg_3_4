@@ -9654,6 +9654,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the document has been digitally signed, an icon &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt; shows in this area.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T094101Z" creationid="michele" creationdate="20160524T094101Z">
+        <seg>Se il documento è stato firmato digitalmente, una icona &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt; sarà visualizzata in questa area.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the document has not been digitally signed, &lt;f0&gt;double-click&lt;/f0&gt;ing in this area opens the Digital Signatures dialog, where you can sign the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T093858Z" creationid="michele" creationdate="20160524T093858Z">
+        <seg>Se il documento non è stato firmato digitalmente, &lt;f0&gt;effettuare un doppio click&lt;/f0&gt;in questa sezione per aprire la finestra di dialogo delle firme digitali, dove puoi firmare il documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the document was modified and saved by another user since you opened it, one of the following events will occur:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T162454Z" creationid="Luciano B." creationdate="20160411T161921Z">
@@ -14019,6 +14035,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T162105Z">
         <seg>Per ulteriori informazioni riguardanti gli stili, consultate il Capitolo 3 Uso di Stili e Modelli, della guida di Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See Chapter 6, Printing, Exporting, and E-mailing, for more about digital signatures.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T094008Z" creationid="michele" creationdate="20160524T094008Z">
+        <seg>Vedi Capitolo 6, Stampare, Esportare, e  E-mail, per sapere di più sulle firme digitali.</seg>
       </tuv>
     </tu>
     <tu>
