@@ -8494,6 +8494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;300&lt;/seq0&gt;: Cells multiplied by 3</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T142826Z" creationid="luciano" creationdate="20160524T142826Z">
+        <seg>Figura &lt;seq0&gt;300&lt;/seq0&gt;: Celle multiplicate per 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;314&lt;/seq0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T135625Z" creationid="steevie" creationdate="20160504T135625Z">
@@ -15175,6 +15183,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set the operation to &lt;f0&gt;Multiply&lt;/f0&gt; and click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T142737Z" creationid="luciano" creationdate="20160524T142737Z">
+        <seg>Impostate l'operazione &lt;f0&gt;Multiplica&lt;/f0&gt; e fate clic su &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set the print options to suit your default printer and your most common printing method.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T150946Z" creationid="steevie" creationdate="20160418T150946Z">
@@ -16700,6 +16716,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T143916Z" creationid="steevie" creationdate="20160504T143916Z">
         <seg>Le celle A3 e B3 sono le due immediatamente a sinistra di C3, così l'equazione &lt;f4&gt;=AggiungiSx()&lt;/f4&gt; calcola la somma delle due celle immediatamente a sinistra di quella che contiene l'equazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The cells are now multiplied by 3.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T142807Z" creationid="luciano" creationdate="20160524T142807Z">
+        <seg>I vslori delle celle sono moltiplicati per 3.</seg>
       </tuv>
     </tu>
     <tu>
