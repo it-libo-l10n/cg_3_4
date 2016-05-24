@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2894,6 +2894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Click &lt;/f0&gt;&lt;f1&gt;Save&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T143948Z" creationid="michele" creationdate="20160524T143926Z">
+        <seg>&lt;f0&gt;Fate Clic su&lt;/f0&gt;&lt;f1&gt;salva&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Click the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Print&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; button.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160314T151001Z">
@@ -3106,6 +3114,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T100125Z" creationid="michele" creationdate="20160524T100125Z">
         <seg>&lt;f0&gt;Dal menu del sistema operativo&lt;/f0&gt;, allo stesso modo in cui avvi altri programmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;From this point on, &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;all changes you make to the spreadsheet will occur only in the Microsoft Excel document&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T144200Z" creationid="michele" creationdate="20160524T144128Z">
+        <seg>&lt;f0&gt;Da questo passaggio in poi, &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;tutti i cambiamenti che fate al foglio di calcolo saranno registrati solo nel documento Microsoft Excel &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8390,6 +8406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T144321Z" creationid="michele" creationdate="20160524T144321Z">
+        <seg>Figura &lt;seq0&gt;18&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Dialog showing common controls:&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084347Z">
@@ -10662,6 +10686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want to go back to working with the *.ods version of your spreadsheet, you must open it again.&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T144313Z" creationid="michele" creationdate="20160524T144313Z">
+        <seg>Se desiderate tornare a lavorare sulla versione *.ods del vostro foglio di calcolo, dovete riaprirlo.&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to merge more documents, close the dialog and then repeat steps 2 and 3.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160505T074645Z" creationid="luciano" creationdate="20160428T153739Z">
@@ -12913,8 +12945,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>On the &lt;f0&gt;Save As&lt;/f0&gt; dialog (&lt;t1&gt;Figure 18&lt;/t1&gt;), in the &lt;f2&gt;File type&lt;/f2&gt; (or &lt;f3&gt;Save as type&lt;/f3&gt;) drop-down menu, select the type of Excel format you need.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160524T143348Z" creationid="michele" creationdate="20160524T143348Z">
-        <seg>Nella finestra &lt;f0&gt;Salva come&lt;/f0&gt; finestra di dialogo (&lt;t1&gt;Figura 18&lt;/t1&gt;), nel &lt;f2&gt;Tipo di file&lt;/f2&gt; (o &lt;f3&gt;Save as type&lt;/f3&gt;) drop-down menu, select the type of Excel format you need.</seg>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T143839Z" creationid="michele" creationdate="20160524T143348Z">
+        <seg>Nella finestra &lt;f0&gt;Salva come&lt;/f0&gt; finestra di dialogo (&lt;t1&gt;Figura 18&lt;/t1&gt;), nel menu a tendina &lt;f2&gt;Tipo di file&lt;/f2&gt; (o &lt;f3&gt;Salva come&lt;/f3&gt;), selziona il tipo di formato Excel che vuoi usare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14651,6 +14683,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T161550Z" creationid="Luciano B." creationdate="20160411T161550Z">
         <seg>Salvataggio di un foglio elettronico condiviso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saving a spreadsheet in Microsoft Excel format</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T144342Z" creationid="michele" creationdate="20160524T144342Z">
+        <seg>Salvare un foglio di lavoro nel formato Microsoft Excel </seg>
       </tuv>
     </tu>
     <tu>
@@ -18665,6 +18705,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To have Calc save documents by default in a Microsoft Excel file format, go to &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; General&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T144426Z" creationid="michele" creationdate="20160524T144426Z">
+        <seg>&lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; General&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To hide the comment again, right-click on the cell and deselect &lt;f0&gt;Show Comment&lt;/f0&gt; on the &lt;f1&gt;context&lt;/f1&gt; menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160424T135553Z" creationid="luciano" creationdate="20160424T135553Z">
@@ -21129,6 +21177,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You have changed the name and file type of your document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T144225Z" creationid="michele" creationdate="20160524T144146Z">
+        <seg>Avete cambiato il nome e il tipo di file del vostro documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You may be asked to accept a license agreement.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T173325Z" creationid="steevie" creationdate="20160428T173325Z">
@@ -21165,6 +21221,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T150000Z" creationid="luciano" creationdate="20160423T143803Z">
         <seg>Potreste volere spiegare le logica seguita per le modifiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may wish to change the file name too.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T143931Z" creationid="michele" creationdate="20160524T143913Z">
+        <seg>Potreste anche voler cambiare il nome del file.</seg>
       </tuv>
     </tu>
     <tu>
