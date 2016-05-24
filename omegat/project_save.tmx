@@ -3190,6 +3190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;In the Insert Sheet dialog, choose the position for the new sheets (in this example, we use &lt;/f0&gt;&lt;f1&gt;After current sheet&lt;/f1&gt;&lt;f2&gt;).&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160524T145632Z" creationid="antonio" creationdate="20160524T145632Z">
+        <seg>&lt;f0&gt;Nella finestra di dialogo Inserisci foglio, scegliere la posizione per il nuovo foglio (in questo esempio, usiamo &lt;/f0&gt;&lt;f1&gt;Dopo il foglio corrente&lt;/f1&gt;&lt;f2&gt;).&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Insert &gt; Cells &gt; Shift Cells Down&lt;/f0&gt; &amp; &lt;f1&gt;Shift Cells Right&lt;/f1&gt;&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T160012Z" creationid="Luciano B." creationdate="20160411T160012Z">
@@ -18805,6 +18813,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153521Z">
         <seg>Per inserire una interruzione di pagina:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To insert sheets and rename afterwards:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160524T145509Z" creationid="antonio" creationdate="20160524T145509Z">
+        <seg>Inserire i fogli e rinominare in seguito:</seg>
       </tuv>
     </tu>
     <tu>
