@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5486,6 +5486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc documents can also be created from templates.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T104434Z" creationid="michele" creationdate="20160524T104434Z">
+        <seg>I documenti Calc possono anche essere creati a partire da un modello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc finds and marks the changes as follows:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T134002Z" creationid="luciano" creationdate="20160429T134002Z">
@@ -8690,6 +8698,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T152527Z" creationid="steevie" creationdate="20160427T152146Z">
         <seg>Trova&lt;f0&gt;win&lt;/f0&gt;, ma non &lt;f1&gt;win9&lt;/f1&gt;5, &lt;f2&gt;os2win&lt;/f2&gt;, oppure &lt;f3&gt;Lewine&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Follow the above procedures, but instead of choosing &lt;f0&gt;Spreadsheet&lt;/f0&gt;, choose the &lt;f1&gt;Templates&lt;/f1&gt; icon from the Start Center or &lt;f2&gt;File &gt; New &gt; Templates and Documents&lt;/f2&gt; from the Menu bar or toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T104647Z" creationid="michele" creationdate="20160524T104647Z">
+        <seg>Seguire la procedura sopracitata, ma invece di selezionare &lt;f0&gt;Foglio elettronico&lt;/f0&gt;, scegliere l'icona &lt;f1&gt;Modelli&lt;/f1&gt;da Centro di Avvio oppure &lt;f2&gt;File &gt; Nuovo &gt; Modelli&lt;/f2&gt; dalla barra dei menu o dalla barra degli strumenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12443,6 +12459,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160422T155448Z" creationid="luciano" creationdate="20160422T155448Z">
         <seg>Nella finestra di dialogo Proteggi la Registrazione, digitate una password (due volte) e fate clic su &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Templates and Documents dialog (&lt;t0&gt;Figure 16&lt;/t0&gt;), click the &lt;f1&gt;Templates&lt;/f1&gt; icon on the left (if it is not already selected), then navigate to the appropriate folder and &lt;f2&gt;double-click&lt;/f2&gt; on the required template.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T104840Z" creationid="michele" creationdate="20160524T104840Z">
+        <seg>Nella finestra di dialogo dei modelli (&lt;t0&gt;Figura 16&lt;/t0&gt;), fare clic sull'icona &lt;f1&gt;Modelli&lt;/f1&gt; sulla sinistra (se non fosse ancora selezionata), successivamente nevigare nella cartella appropriata e fare &lt;f2&gt;doppio-clic &lt;/f2&gt; sul modello scelto.</seg>
       </tuv>
     </tu>
     <tu>
