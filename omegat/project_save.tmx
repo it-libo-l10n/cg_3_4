@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3344,8 +3344,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Right-click&lt;/f0&gt; the &lt;f1&gt;Quickstarter&lt;/f1&gt; icon (&lt;t2&gt;Figure 14&lt;/t2&gt;) in the system tray to open a menu from which you can open a new document, open the Templates and Documents dialog box, or choose an existing document to open.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160524T101929Z" creationid="michele" creationdate="20160524T101156Z">
-        <seg>Fate clic con il &lt;f0&gt;pulsante destro del mouse&lt;/f0&gt; sull'icona &lt;f0&gt;Quickstart&lt;/f0&gt; (&lt;t1&gt;Figura 16&lt;/t1&gt;) nel vassoio di sistema per aprire un menu a comparsa da cui potete aprire un nuovo documento, aprire la finestra di dialogo &lt;f2&gt;&lt;f3&gt;Modelli e documenti&lt;/f3&gt;&lt;/f2&gt;, oppure scegliere un documento esistente da aprire</seg>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T102257Z" creationid="michele" creationdate="20160524T101156Z">
+        <seg>Fate clic con il &lt;f0&gt;pulsante destro del mouse&lt;/f0&gt; sull'icona &lt;f1&gt;Quickstart&lt;/f1&gt; (&lt;t2&gt;Figura 14&lt;/t2&gt;) nel vassoio di sistema per aprire un menu a comparsa da cui potete aprire un nuovo documento, aprire la finestra di dialogo Modelli e documenti, oppure scegliere un documento esistente da aprire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19581,6 +19581,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T095925Z" creationid="michele" creationdate="20160524T095921Z">
         <seg>Puoi anche effettuare un &lt;f0&gt;clci destro &lt;/f0&gt;sul livello di zoom percentuale per selezionare un valore di ingrandimento o fare un &lt;f1&gt;doppio clic &lt;/f1&gt; per aprire la finestra di dialogo Zoom &amp; Layout visualizzazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also &lt;f3&gt;double-click&lt;/f3&gt; the &lt;f4&gt;Quickstarter&lt;/f4&gt; icon to display the Templates and Documents dialog box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T102340Z" creationid="michele" creationdate="20160524T102340Z">
+        <seg>È anche possibile fare &lt;f3&gt;doppio clic &lt;/f3&gt;sull'icona &lt;f4&gt;Quickstart&lt;/f4&gt; per visualizzare la finestra di dialogo Modelli e documenti.</seg>
       </tuv>
     </tu>
     <tu>
