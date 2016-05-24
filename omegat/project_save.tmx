@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2872,8 +2872,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Choose &lt;/f0&gt;&lt;f1&gt;Tools &gt; Options &gt; Load/Save &gt; General&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160524T141232Z" creationid="michele" creationdate="20160524T141232Z">
-        <seg>&lt;f0&gt;Seleziona&lt;/f0&gt;&lt;f1&gt;Strumenti &gt; Opzini &gt; Load/Save &gt; General&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T142455Z" creationid="michele" creationdate="20160524T141232Z">
+        <seg>&lt;f0&gt;Seleziona&lt;/f0&gt;&lt;f1&gt;Strumenti &gt; Opzioni &gt; carica/Salva &gt; Generale&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3130,6 +3130,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T160458Z" creationid="Luciano B." creationdate="20160326T160458Z">
         <seg>&lt;f0&gt;Nascondi controlli finestra:&lt;/f0&gt; Fa sì che il visualizzatore di PDF nasconda altri controlli finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Important—&lt;/f0&gt;First save your spreadsheet in the file format used by &lt;f1&gt;LibreOffice&lt;/f1&gt;, &lt;f2&gt;*.ods&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T143010Z" creationid="michele" creationdate="20160524T143010Z">
+        <seg>&lt;f0&gt;importante—&lt;/f0&gt;Prima slava il documento nel formato usato da &lt;f1&gt;LibreOffice&lt;/f1&gt;, &lt;f2&gt;*.ods&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6382,6 +6390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on &lt;i0/&gt;&lt;f1&gt;Save AutoRecovery information every&lt;/f1&gt; and set the time interval.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T142612Z" creationid="michele" creationdate="20160524T142612Z">
+        <seg>Fate clic su &lt;i0/&gt;&lt;f1&gt;Salva informazioni di ripristino automatico ogni&lt;/f1&gt; e impostate l'intervallo di tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on icons to hide or show them on the toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T140300Z" creationid="michele" creationdate="20160414T140300Z">
@@ -7882,6 +7898,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T151850Z" creationid="steevie" creationdate="20160418T151850Z">
         <seg>Inserite i nuovi valori che definiscono il colore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter the value you want by typing it or by pressing the up or down arrow keys.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T142619Z" creationid="michele" creationdate="20160524T142619Z">
+        <seg>Inserite il valore desiderato digitandolo o premendo i tasti freccia Su e Giù.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10398,6 +10422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you do not, any changes you may have made since the last time you saved it will only appear in the Microsoft Excel version of the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T143227Z" creationid="michele" creationdate="20160524T143227Z">
+        <seg>Se non lo fate le modifiche apportate dall'ultimo salvataggio saranno visualizzate solo nella versione Microsoft Excel del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have activated the &lt;is0/&gt;snap grid&lt;ie1/&gt; but wish to move or create individual objects without snap positions, you can press the &lt;f2&gt;Ctrl&lt;/f2&gt; key to deactivate the snap grid for as long as needed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T155914Z" creationid="steevie" creationdate="20160428T155652Z">
@@ -10498,6 +10530,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T160222Z" creationid="steevie" creationdate="20160418T160214Z">
         <seg>Se caricate una tavolozza in uno dei componenti di &lt;f0&gt;LibreOffice&lt;/f0&gt;, questa sarà attiva solo per quel componente; gli altri componenti manterranno le proprie tavolozze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you need to exchange files with users of &lt;i0/&gt;Microsoft Excel who are unwilling or unable to receive *.ods files, you can save a document as an Excel file (*.xls or *.xlsx).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T142932Z" creationid="michele" creationdate="20160524T142932Z">
+        <seg>Se devi scambiare file con utenti di &lt;i0/&gt;Microsoft Excel che non vogliano o non siano in grado di ricevere file *.ods, puoi salvare un documento come file Excel(*.xls o *.xlsx).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12815,6 +12855,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the &lt;f0&gt;Save As&lt;/f0&gt; dialog (&lt;t1&gt;Figure 18&lt;/t1&gt;), in the &lt;f2&gt;File type&lt;/f2&gt; (or &lt;f3&gt;Save as type&lt;/f3&gt;) drop-down menu, select the type of Excel format you need.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T143348Z" creationid="michele" creationdate="20160524T143348Z">
+        <seg>Nella finestra &lt;f0&gt;Salva come&lt;/f0&gt; finestra di dialogo (&lt;t1&gt;Figura 18&lt;/t1&gt;), nel &lt;f2&gt;Tipo di file&lt;/f2&gt; (o &lt;f3&gt;Save as type&lt;/f3&gt;) drop-down menu, select the type of Excel format you need.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the &lt;f4&gt;General&lt;/f4&gt; tab, uncheck &lt;f5&gt;Apply user data&lt;/f5&gt; and then click the &lt;f6&gt;Reset&lt;/f6&gt; button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T162723Z" creationid="Luciano B." creationdate="20160329T162723Z">
@@ -14555,6 +14603,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095153Z">
         <seg>Salvare documenti come pagine web (documenti HTML).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saving as a Microsoft Excel document</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T142733Z" creationid="michele" creationdate="20160524T142658Z">
+        <seg>Salvare come documento Microsoft Excel </seg>
       </tuv>
     </tu>
     <tu>
@@ -16896,6 +16952,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The default value is 15 minutes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T142616Z" creationid="michele" creationdate="20160524T142616Z">
+        <seg>Il valore predefinito è 15 minuti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The detection depends on the language settings.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T135149Z" creationid="michele" creationdate="20160524T135149Z">
@@ -17541,6 +17605,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T141242Z" creationid="luciano" creationdate="20160429T141242Z">
         <seg>Si aprirà la finestra di dialogo &lt;/f2&gt; Versioni &lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then choose &lt;f0&gt;File &gt; Save As&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T143231Z" creationid="michele" creationdate="20160524T143231Z">
+        <seg>Quindi scegliete &lt;f0&gt;File &gt; Salva con nome&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22201,6 +22273,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>saving AutoRecovery info</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T142533Z" creationid="michele" creationdate="20160524T142533Z">
+        <seg>Salva Informazioni di Ripristino Automatico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>saving as Microsoft Excel</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T142635Z" creationid="michele" creationdate="20160524T142635Z">
+        <seg>salvataggio in formato Microsoft Excel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>saving shared</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T161506Z" creationid="Luciano B." creationdate="20160411T161506Z">
@@ -22405,6 +22493,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T163916Z">
         <seg>Barra del titolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>to Microsoft Excel format</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T142753Z" creationid="michele" creationdate="20160524T142753Z">
+        <seg>nel formato Microsoft Excel</seg>
       </tuv>
     </tu>
     <tu>
