@@ -3312,8 +3312,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Right-click&lt;/f0&gt; on a cell, graphic, or other object to open a context menu.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160524T083956Z" creationid="michele" creationdate="20160524T083956Z">
-        <seg>&lt;f0&gt;Clic destro&lt;/f0&gt; on a cell, graphic, or other object to open a context menu.</seg>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T084039Z" creationid="michele" creationdate="20160524T083956Z">
+        <seg>&lt;f0&gt;fare clic con il pulsante secondario del mouse&lt;/f0&gt; su una cella, immagine, o o altro oggetto per aprire il menù contestuale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4986,6 +4986,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T144006Z" creationid="Luciano B." creationdate="20160411T152539Z">
         <seg>In ogni momento, è possibile impostare un foglio elettronico per condividerlo con altri utenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At the top of the columns and at the left end of the rows are a series of gray boxes containing letters and numbers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T084247Z" creationid="michele" creationdate="20160524T084247Z">
+        <seg>Sopra le colonne e alla sinistra delle righe vi sono una serie di caselle grigie contenenti lettere e numeri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9990,6 +9998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you’re not sure where in the menus or toolbars a function is located, you may be able to find it by right-clicking.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T084150Z" creationid="michele" creationdate="20160524T084150Z">
+        <seg>Se non sapete dove è posizionata una funzione nei menu o nelle barre degli strumenti, spesso è possibile trovarla facendo clic con il pulsante destro del mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If, for example, an inserted cell has the bold attribute, this attribute will also apply to empty adjacent cells.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T133755Z" creationid="steevie" creationdate="20160427T133433Z">
@@ -10578,6 +10594,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T101852Z">
         <seg>Indice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Individual cells</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T084158Z" creationid="michele" creationdate="20160524T084158Z">
+        <seg>Singole celle</seg>
       </tuv>
     </tu>
     <tu>
@@ -11979,6 +12003,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143537Z" creationid="steevie" creationdate="20160427T143537Z">
         <seg>Sezione Oggetti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Often the context menu is the fastest and easiest way to reach a function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T084054Z" creationid="michele" creationdate="20160524T084054Z">
+        <seg>Spesso il menu contestuale è il modo più facile e veloce di raggiungere una funzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13649,8 +13681,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Right-click (context) menus</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160524T083924Z" creationid="michele" creationdate="20160524T083924Z">
-        <seg>Fare clic col tasto destro</seg>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T084001Z" creationid="michele" creationdate="20160524T083924Z">
+        <seg>fare clic con il pulsante secondario del mouse</seg>
       </tuv>
     </tu>
     <tu>
@@ -15800,6 +15832,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The columns start at A and go on to the right, and the rows start at 1 and go down.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T084256Z" creationid="michele" creationdate="20160524T084256Z">
+        <seg>Le colonne cominciano con la lettera A e proseguono verso destra, mentre le righe cominciano con il numero 1 e proseguono verso il basso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The combo box provides quick access to each of the auto filter types.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160510T142243Z" creationid="steevie" creationdate="20160510T142243Z">
@@ -16085,6 +16125,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T125513Z" creationid="steevie" creationdate="20160427T125513Z">
         <seg>Gli elementi di maggior interesse per gli utenti Calc si trovano nella sezione &lt;f0&gt;Esporta&lt;/f0&gt;: &lt;f1&gt;&lt;f2&gt;LibreOffice&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Basic&lt;/f3&gt; e &lt;f4&gt;Mostra avviso&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The main section of the screen displays the &lt;i0/&gt;cells in the form of a grid, with each cell being at the intersection of a column and a row.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T084244Z" creationid="michele" creationdate="20160524T084244Z">
+        <seg>La sezione principale dello schermo mostra le &lt;i0/&gt;celle disposte a griglia, con ciascuna cella posizionata all'intersezione di una colonna e di una riga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16501,6 +16549,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163457Z" creationid="steevie" creationdate="20160428T163457Z">
         <seg>Queste azioni sono illustrate in dettaglio nelle sezioni seguenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These are the column and row headers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T084251Z" creationid="michele" creationdate="20160524T084251Z">
+        <seg>Si tratta delle intestazioni delle colonne e delle righe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19883,7 +19939,7 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>cells</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160322T162529Z">
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T084221Z">
         <seg>celle</seg>
       </tuv>
     </tu>
