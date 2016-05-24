@@ -11590,6 +11590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Inserting sheets from a different spreadsheet</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160524T151223Z" creationid="antonio" creationdate="20160524T151223Z">
+        <seg>inserire fogli da un differente foglio di lavoro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Inserts the Date field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T164505Z" creationid="Luciano B." creationdate="20160325T164505Z">
@@ -14681,8 +14689,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Repeat steps 1–4 for each new sheet, giving them the names Credit Card 2 and Car Loan.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="antonio" changedate="20160524T151039Z" creationid="antonio" creationdate="20160524T151039Z">
-        <seg>Ripetete i passaggi 1-4 per ogni nuovo foglio, giving them the names Credit Card 2 and Car Loan.</seg>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160524T151126Z" creationid="antonio" creationdate="20160524T151039Z">
+        <seg>Ripetete i passaggi 1-4 per ogni nuovo foglio, dando loro i nomi Carta di credito 2 e Finanziamento Auto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22237,6 +22245,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T135829Z" creationid="antonio" creationdate="20160524T135829Z">
         <seg>inserire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>inserting from other spreadsheets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160524T151150Z" creationid="antonio" creationdate="20160524T151150Z">
+        <seg>inserire da altri foglio di lavoro</seg>
       </tuv>
     </tu>
     <tu>
