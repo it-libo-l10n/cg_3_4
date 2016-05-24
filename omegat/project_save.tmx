@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6030,6 +6030,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;File &gt; Open&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T124231Z" creationid="michele" creationdate="20160524T124231Z">
+        <seg>Scegliete &lt;f0&gt;File &gt; Apri&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;Format &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Print Ranges &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Add&lt;/f6&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T161625Z">
@@ -6522,6 +6530,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T123958Z" creationid="michele" creationdate="20160524T123958Z">
         <seg>I Comma-separated-values (CSV) sono file di testo che contengono il contenuto delle celle di un singolo foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Commas, semicolons, or other &lt;t0/&gt;characters are used to separate the cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T124131Z" creationid="michele" creationdate="20160524T124131Z">
+        <seg>Le virgole, punti e virgola, o altri &lt;t0/&gt;caratteri sono usati per separare le celle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7578,6 +7594,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T150737Z" creationid="steevie" creationdate="20160503T150732Z">
         <seg>Ogni elemento in un record è chiamato campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each line in a CSV file represents a row in a spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T124045Z" creationid="michele" creationdate="20160524T124045Z">
+        <seg>Ogni riga in un file CSV rappresenta una riga in un foglio di calcolo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9918,6 +9942,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the file has a *.csv extension, select the file and click &lt;f0&gt;Open&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T124237Z" creationid="michele" creationdate="20160524T124237Z">
+        <seg>Se il file ha estensione *.csv, selezionate il file e fate clic su &lt;f0&gt;Apri&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the file has another extension (for example, *.txt), select the file, select &lt;f0&gt;Text CSV (*csv;*txt) &lt;/f0&gt;in the File type box (scroll down into the spreadsheet section to find it), and then click &lt;f1&gt;Open&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T124407Z" creationid="michele" creationdate="20160524T124407Z">
+        <seg>Se il file ha un'altra estensione (per esempio, *.txt), seleziona il file, seleziona &lt;f0&gt;Testo CSV (*csv;*txt) &lt;/f0&gt;in the File type box (scroll down into the spreadsheet section to find it), and then click &lt;f1&gt;Open&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the list of available buttons for a toolbar does not include all the commands you want on that toolbar, you can add commands.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165631Z" creationid="steevie" creationdate="20160428T165631Z">
@@ -11570,6 +11610,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172530Z" creationid="steevie" creationdate="20160428T172530Z">
         <seg>Caricare una configurazione di tasti salvata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Locate the CSV file that you want to open.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T124233Z" creationid="michele" creationdate="20160524T124233Z">
+        <seg>Localizzate il file CSV che desiderate aprire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16000,6 +16048,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text is entered in quotation marks; numbers are entered without quotation marks.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T124208Z" creationid="michele" creationdate="20160524T124208Z">
+        <seg>Il testo è inserito tra due virgolette; i numeri senza le virgolette.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text is highlighted in black; numbers in blue; and formulas, logical values, dates, and so on, in green.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T142908Z" creationid="steevie" creationdate="20160427T142908Z">
@@ -18125,6 +18181,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164113Z" creationid="steevie" creationdate="20160428T164113Z">
         <seg>Per spostare i sottomenu (come &lt;f0&gt;File | Invia&lt;/f0&gt;), selezionate il menu principale (File) nell'elenco del Menu, quindi, nella sezione Contenuto del menu della finestra di dialogo, selezionate il sottomenu (Invia) nell'elenco delle Voci e utilizzate i tasti freccia per spostarlo verso l'alto o verso il basso nella sequenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To open a CSV file in Calc:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T124224Z" creationid="michele" creationdate="20160524T124224Z">
+        <seg>Per aprire un CSV in Calc:</seg>
       </tuv>
     </tu>
     <tu>
