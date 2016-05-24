@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2850,6 +2850,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160423T145052Z" creationid="luciano" creationdate="20160423T145052Z">
         <seg>&lt;f0&gt;Scegliete &lt;/f0&gt;&lt;f1&gt;Modifica &gt; Modifiche &gt; Commenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Choose &lt;/f0&gt;&lt;f1&gt;File &gt; Save&lt;/f1&gt; (or &lt;f2&gt;&lt;f3&gt;Save All&lt;/f3&gt;&lt;/f2&gt; or &lt;f4&gt;&lt;f5&gt;Save As&lt;/f5&gt;&lt;/f4&gt;)&lt;f6&gt;.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T135441Z" creationid="michele" creationdate="20160524T135401Z">
+        <seg>&lt;f0&gt;Seleziona &lt;/f0&gt;&lt;f1&gt;File &gt; Salva&lt;/f1&gt; (o &lt;f2&gt;&lt;f3&gt;Salva tutto&lt;/f3&gt;&lt;/f2&gt; o &lt;f4&gt;&lt;f5&gt;Save Come&lt;/f5&gt;&lt;/f4&gt;)&lt;f6&gt;.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6270,6 +6278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to open the file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T135155Z" creationid="michele" creationdate="20160524T135155Z">
+        <seg>Fate clic su &lt;f0&gt;OK&lt;/f0&gt; per aprire il file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163613Z" creationid="steevie" creationdate="20160428T163613Z">
@@ -6466,6 +6482,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160314T141852Z">
         <seg>Fate clic sul pulsante &lt;f0&gt;Stampa&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Save &lt;/f0&gt;button on the main toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T135511Z" creationid="michele" creationdate="20160524T135511Z">
+        <seg>fai clic sul pulsante &lt;f0&gt;Salva &lt;/f0&gt;nella barra degli strumenti principale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9718,6 +9742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, you can save the spreadsheet in a different location or with a different name by selecting &lt;f2&gt;File &gt; Save As&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T140033Z" creationid="michele" creationdate="20160524T140033Z">
+        <seg>In ogni caso, puoi salvare il foglio di calcolo in una percorso differente o con un nome diverso selezionando &lt;f2&gt;File &gt; Save As&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, you cannot customize context (right-click) menus.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T144346Z" creationid="steevie" creationdate="20160418T144346Z">
@@ -9968,8 +10000,8 @@
       <tuv lang="EN">
         <seg>If the CSV file uses a text delimiter character that is not in the Text delimiter list, click in the box, and type the character.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160524T133138Z" creationid="michele" creationdate="20160524T130804Z">
-        <seg>Se il file CSV usa un carattere per delimitare le colonne non incluso nella lista di delle Opzioni di separazione, fai clic nela casella di testo e digita i caratteri.</seg>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T134034Z" creationid="michele" creationdate="20160524T130804Z">
+        <seg>Se il file CSV usa un carattere per delimitare le colonne non incluso nella lista di delle Opzioni di separazione, fai clic nella casella di testo e digita il carattere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10098,6 +10130,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160426T160024Z" creationid="luciano" creationdate="20160426T160024Z">
         <seg>Se il revisore ha aggiunto un commento alla modificha, questo sarà visualizzato, seguito dalla descrizione della modifica, come nella prima linea di &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Figura 291&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the spreadsheet has been previously saved, then saving it using the &lt;f0&gt;Save&lt;/f0&gt; (or &lt;f1&gt;Save All&lt;/f1&gt;) command will overwrite an existing copy.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T135856Z" creationid="michele" creationdate="20160524T135856Z">
+        <seg>Se il foglio di lavoro è già stato salvato i comandi &lt;f0&gt;Salva&lt;/f0&gt; (o &lt;f1&gt;Salva tutto&lt;/f1&gt;) sovrascriveranno le copie precedenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the spreadsheet has not been saved previously, then each of these actions will open the Save As dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T135636Z" creationid="michele" creationdate="20160524T135636Z">
+        <seg>Se il foglio di lavoro non è stato ancora salvato, ognuna di queste azioni aprirà la finestra Salva come.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10250,6 +10298,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T152702Z" creationid="luciano" creationdate="20160429T141005Z">
         <seg>Se scegliete &lt;f0&gt;Salva con nome...&lt;/f0&gt; di un documento con memorizzate all'interno differenti versioni, le vecchie versioni non saranno salvate nel nuovo file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you do not select &lt;f0&gt;Text CSV (*csv;*txt) &lt;/f0&gt;as the file type when opening the file, the document opens in Writer, not Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T135251Z" creationid="michele" creationdate="20160524T135251Z">
+        <seg>Se non si seleziona &lt;f0&gt;Text CSV (*csv;*txt) &lt;/f0&gt;come il tipo di file da aprire, il documento si aprirà in Writer e non in Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13415,6 +13471,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press &lt;f0&gt;Control+S&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T135350Z" creationid="michele" creationdate="20160524T135350Z">
+        <seg>Premete &lt;f0&gt;Ctrl+S&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press Enter to move selection</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T131703Z" creationid="steevie" creationdate="20160427T131703Z">
@@ -15903,6 +15967,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spreadsheets can be saved in three ways.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T135348Z" creationid="michele" creationdate="20160524T135348Z">
+        <seg>I fogli di lavoro possono essere salvati in tre modi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spreadsheets consist of a number of individual &lt;i2/&gt;&lt;f3&gt;sheets&lt;/f3&gt;, each sheet containing cells arranged in rows and columns.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T162512Z">
@@ -16592,6 +16664,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The choices in the &lt;f0&gt;Other&lt;/f0&gt; &lt;f1&gt;options&lt;/f1&gt; section determine whether quoted data will always be imported as text, and whether Calc will automatically detect all number formats, including special number formats such as dates, time, and scientific notation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T135123Z" creationid="michele" creationdate="20160524T134801Z">
+        <seg>Le scelte nell'&lt;f1&gt;opzione&lt;/f1&gt; &lt;f0&gt;Altro&lt;/f0&gt;determina se i dati tra virgolette saranno sempre importati come testo, e se Calc determinerà automaticamente i formati dei numeri, incluso numeri speciali come data, ora e notazione scientifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The coach has submitted a budget to you for the season and you need to edit the costs and return it to her.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T145105Z" creationid="luciano" creationdate="20160423T121440Z">
@@ -16700,6 +16780,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T122557Z" creationid="steevie" creationdate="20160421T122557Z">
         <seg>Il comportamento predefinito di molti componenti di LibreOffice richiede il &lt;f0&gt;Ctrl+clic&lt;/f0&gt; su un collegamento ipertestuale per aprire il documento collegato ma è possibile scegliere di aprire collegamenti ipertestuali facendo un solo click.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The detection depends on the language settings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T135149Z" creationid="michele" creationdate="20160524T135149Z">
+        <seg>l'individuazione dipende dalla lingua impostata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17333,6 +17421,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T173546Z" creationid="Luciano B." creationdate="20160325T171943Z">
         <seg>È disponibile una sola impostazione comune valida per l'intero documento PDF: PDF (invia l'intero documento), &lt;/f8&gt;&lt;is9/&gt;&lt;f10&gt;FDF&lt;/f10&gt;&lt;ie11/&gt;&lt;f12&gt; (invia i contenuti del controllo), HTML e XML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There you can specify the spreadsheet name and the location in which to save it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T135734Z" creationid="michele" creationdate="20160524T135734Z">
+        <seg>Li potete specificare il nome del foglio di lavoro e il percorso dove salvare il file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21633,6 +21729,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>methods</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T135256Z" creationid="michele" creationdate="20160524T135256Z">
+        <seg>Metodo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>modifying</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163707Z" creationid="steevie" creationdate="20160428T163707Z">
@@ -21917,6 +22021,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T161506Z" creationid="Luciano B." creationdate="20160411T161506Z">
         <seg>salvataggio di condivisi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>saving spreadsheets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T135259Z" creationid="michele" creationdate="20160524T135259Z">
+        <seg>Salvataggio di fogli di lavoro</seg>
       </tuv>
     </tu>
     <tu>
