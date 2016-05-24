@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3338,6 +3338,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T160250Z" creationid="Luciano B." creationdate="20160326T160250Z">
         <seg>&lt;f0&gt;Ridimensiona finestra a pagina iniziale:&lt;/f0&gt; Fa sì che il visualizzatore di PDF ridimensioni la finestra adattandola alla prima pagina del file PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Right-click&lt;/f0&gt; a column in the preview to set the format or to hide the column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T130102Z" creationid="michele" creationdate="20160524T130102Z">
+        <seg>Effettuando il &lt;f0&gt;Clic destro&lt;/f0&gt; su una colonna nell'anteprima per selezionare il formato o per nascondere una colonna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8226,6 +8234,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T122647Z" creationid="michele" creationdate="20160524T122647Z">
         <seg>La figura &lt;seq0&gt;16&lt;/seq0&gt;: Avviare un nuovo documento da un modello </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Text Import dialog, with Comma (,) selected as the separator and double quotation mark (“) as the text delimiter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T125813Z" creationid="michele" creationdate="20160524T125813Z">
+        <seg>Figura &lt;seq0&gt;17&lt;/seq0&gt;: finestra di dialogo Importazione Testo, con Virgola(,) selezionato come separatore e virgolette (“) per delimitare il testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20325,6 +20341,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160330T084649Z" creationid="briga" creationdate="20160330T084634Z">
         <seg>Potete aprire questa finestra in vari modi.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can preview the layout of the imported data at the bottom of the dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160524T125949Z" creationid="michele" creationdate="20160524T125949Z">
+        <seg>Puoi visualizzare un'anteprima dei dati importati nella parte inferiore della finestra di dialogo.</seg>
       </tuv>
     </tu>
     <tu>
