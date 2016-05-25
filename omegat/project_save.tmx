@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2990,6 +2990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Click on all of the subsequent columns or rows while holding down &lt;/f0&gt;the &lt;f1&gt;Control&lt;/f1&gt; k&lt;f2&gt;&lt;f3&gt;ey.&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T124653Z" creationid="michele" creationdate="20160525T124653Z">
+        <seg>&lt;f0&gt;Fate clic su tutte le successive colonne o righe tenendo premuto il tasto &lt;/f0&gt;&lt;f1&gt;Ctrl&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Click the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Print&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; button.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160314T151001Z">
@@ -3290,6 +3298,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T160458Z" creationid="Luciano B." creationdate="20160326T160458Z">
         <seg>&lt;f0&gt;Nascondi controlli finestra:&lt;/f0&gt; Fa sì che il visualizzatore di PDF nasconda altri controlli finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Hold down &lt;/f0&gt;the &lt;f1&gt;Control&lt;/f1&gt; ke&lt;f2&gt;&lt;f3&gt;y.&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T124650Z" creationid="michele" creationdate="20160525T124650Z">
+        <seg>&lt;f0&gt;Tenete premuto&lt;/f0&gt; il tasto &lt;f1&gt;Ctrl&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6894,10 +6910,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the first column or row in the group.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T124638Z" creationid="michele" creationdate="20160525T124638Z">
+        <seg>Fate clic sulla prima colonna o riga del gruppo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the little inverted black triangle just to the right of the Name Box&lt;f0&gt; (&lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figure 10&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T091731Z" creationid="michele" creationdate="20160525T091731Z">
         <seg>Fate clic sul piccolo pulsante con un triangolo rovesciato posto sulla destra della Casella del nome&lt;f0&gt; (&lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figura 10&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on the sheet tab for the sheet you want to select.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T124752Z" creationid="michele" creationdate="20160525T124752Z">
+        <seg>Fate clic sulla scheda del foglio che desiderate selezionare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7074,6 +7106,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T125337Z" creationid="steevie" creationdate="20160421T125225Z">
         <seg>Fate clic sul simbolo di espansione (segno + o triangolo) alla sinistra di &lt;f1&gt;Carica/Salva&lt;/f1&gt; per visualizzare la lista delle pagine di opzioni carica/salva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the last column or row in the group.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T124643Z" creationid="michele" creationdate="20160525T124643Z">
+        <seg>Fate clic sull'ultima colonna o riga del gruppo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8542,6 +8582,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Entire columns and rows can be selected very quickly in &lt;f0&gt;LibreOffice&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T124554Z" creationid="michele" creationdate="20160525T124554Z">
+        <seg>Potete selezionare rapidamente intere colonne e righe in &lt;f0&gt;LibreOffice&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Entire sheet</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T124657Z" creationid="michele" creationdate="20160525T124657Z">
+        <seg>Intero foglio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error codes displayed within cells</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T101341Z">
@@ -9066,6 +9122,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T144154Z" creationid="antonio" creationdate="20160524T144154Z">
         <seg>Figura &lt;seq0&gt;249&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;24&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T124734Z" creationid="michele" creationdate="20160525T124734Z">
+        <seg>Figura &lt;seq0&gt;24&lt;/seq0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10590,6 +10654,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hold down the &lt;f0&gt;Shift&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; key.&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T124641Z" creationid="michele" creationdate="20160525T124641Z">
+        <seg>Tenete premuto il tasto &lt;f0&gt;Maiusc&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;.&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How can I contribute to LibreOffice?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084538Z">
@@ -11442,6 +11514,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160510T141613Z" creationid="steevie" creationdate="20160510T141613Z">
         <seg>Selezionando fighe multiple in una operazione, anche le righe invisibili contenute tra quelle visibili saranno selezionate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you use this method, be sure to change &lt;f2&gt;ADD&lt;/f2&gt; back to &lt;f3&gt;STD&lt;/f3&gt; or you may find yourself adding more selections unintentionally.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T124426Z" creationid="michele" creationdate="20160525T124426Z">
+        <seg>Se usi questo metodo, assicurati di cambiare &lt;f2&gt;ADD&lt;/f2&gt; in &lt;f3&gt;STD&lt;/f3&gt; o potresti inavvertitamente ritrovarti ad aggiungere selezioni la selezione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12474,6 +12554,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133133Z" creationid="steevie" creationdate="20160517T133133Z">
         <seg>IsCaseSensitive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It can be advantageous to select multiple sheets at times when you want to make changes to many sheets at once.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T124747Z" creationid="michele" creationdate="20160525T124747Z">
+        <seg>A volte può essere utile selezionare più fogli se si vogliono apportare modifiche a tutti i fogli selezionati contemporaneamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13667,6 +13755,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T133821Z" creationid="michele" creationdate="20160414T133821Z">
         <seg>Spostamento delle barre di strumenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Multiple columns or rows</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T124634Z" creationid="michele" creationdate="20160525T124634Z">
+        <seg>Colonne o righe multiple</seg>
       </tuv>
     </tu>
     <tu>
@@ -16303,6 +16399,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select All box</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T124739Z" creationid="michele" creationdate="20160525T124739Z">
+        <seg>il riquadro Seleziona tutto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select a category and then the command, and click &lt;f1&gt;Add&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165719Z" creationid="steevie" creationdate="20160428T165719Z">
@@ -16651,6 +16755,22 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T122819Z" creationid="michele" creationdate="20160525T122819Z">
         <seg>Selezionare &lt;is0/&gt;celle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selecting &lt;is0/&gt;columns and &lt;i1/&gt;rows</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T124501Z" creationid="michele" creationdate="20160525T124501Z">
+        <seg>Selezionare&lt;is0/&gt; colonne e &lt;i1/&gt;righe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selecting &lt;is0/&gt;sheets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T124743Z" creationid="michele" creationdate="20160525T124743Z">
+        <seg>Selezionare &lt;is0/&gt;fogli</seg>
       </tuv>
     </tu>
     <tu>
@@ -17179,6 +17299,22 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T122905Z" creationid="michele" creationdate="20160525T122905Z">
         <seg>Singola cella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Single column or row</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T124557Z" creationid="michele" creationdate="20160525T124557Z">
+        <seg>Singola colonna o riga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Single sheet</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T124749Z" creationid="michele" creationdate="20160525T124749Z">
+        <seg>Foglio singolo</seg>
       </tuv>
     </tu>
     <tu>
@@ -19817,6 +19953,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This method works best when adding single cells to a range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T124348Z" creationid="michele" creationdate="20160525T124348Z">
+        <seg>Questo metodo funziona meglio quando si aggiunge una cella singola a un intervallo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This might not be what you want.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T163030Z">
@@ -20677,6 +20821,46 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T123512Z" creationid="michele" creationdate="20160525T123512Z">
         <seg>Per selezionare un intervallo di celle, inserite il riferimento della cella superiore sinistra, seguito dai due punti (:) e dal riferimento della cella inferiore destra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To select a single column, click on the column identifier letter (see &lt;t0&gt;Figure 2&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T124628Z" creationid="michele" creationdate="20160525T124628Z">
+        <seg>Per selezionare una singola colonna, fate clic sulla lettera identificativa della colonna (si veda la &lt;t0&gt;Figura 2&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To select a single row, click on the row identifier number.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T124631Z" creationid="michele" creationdate="20160525T124631Z">
+        <seg>Per selezionare una singola riga, fate clic sul numero identificativo della riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To select multiple columns or rows that are contiguous:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T124636Z" creationid="michele" creationdate="20160525T124636Z">
+        <seg>Per selezionare più colonne o righe contigue:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To select multiple columns or rows that are not contiguous:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T124645Z" creationid="michele" creationdate="20160525T124645Z">
+        <seg>Per selezionare più colonne o righe non contigue:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To select the entire sheet, click on the small box between the A column header and the 1 row header.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T124702Z" creationid="michele" creationdate="20160525T124702Z">
+        <seg>Per selezionare l'intero foglio, fate clic sul piccolo rettangolo posto tra l'intestazione della colonna A e l'intestazione della riga 1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22681,6 +22865,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also press &lt;f0&gt;Control+A&lt;/f0&gt; to select the entire sheet&lt;f1&gt;.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T124729Z" creationid="michele" creationdate="20160525T124729Z">
+        <seg>Potete selezionare l'intero foglio anche premendo &lt;f0&gt;Ctrl+A&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also right-click on the comment to see a menu of choices, some of which lead to dialogs in which you can fine-tune the formatting; these dialogs are also discussed in Chapter 5.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T151656Z" creationid="luciano" creationdate="20160425T113800Z">
@@ -22693,6 +22885,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T123300Z" creationid="michele" creationdate="20160525T123300Z">
         <seg>Puoi anche selezionare un insieme di celle contiguo facendo prima clic nel campo &lt;f0&gt;STD&lt;/f0&gt; nella barra di stato e modificandolo in &lt;f1&gt;EXT&lt;/f1&gt;, prima di fare clic nell'angolo opposto dell'intervallo di celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also select a non-contiguous range of cells by first clicking twice in the &lt;f0&gt;STD&lt;/f0&gt; field on the status bar to change it to &lt;f1&gt;ADD&lt;/f1&gt;, before clicking on a cell that you want to add to the range of cells in selected in step 3 above.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T124248Z" creationid="michele" creationdate="20160525T124248Z">
+        <seg>Puoi anche selezionare un intervallo di celle non contiguo facendo doppio clic nel campo&lt;f0&gt;STD&lt;/f0&gt; nella barra di stato per cambiarlo in &lt;f1&gt;ADD&lt;/f1&gt;, prima di fare clic su una cella che vuoi aggiungere all'intervallo di celle selezionate nel sopracitato passaggio 3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23029,6 +23229,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T151752Z" creationid="steevie" creationdate="20160418T151752Z">
         <seg>Potete selezionare un colore da una tavolozza, modificare un colore già presente e definire nuovi colori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can select either one or multiple sheets.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T124745Z" creationid="michele" creationdate="20160525T124745Z">
+        <seg>Potete selezionare uno o più fogli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23589,6 +23797,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T151337Z" creationid="steevie" creationdate="20160418T151337Z">
         <seg>colori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>columns</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T124429Z" creationid="michele" creationdate="20160525T124429Z">
+        <seg>colonne</seg>
       </tuv>
     </tu>
     <tu>
@@ -24525,6 +24741,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160425T114406Z" creationid="luciano" creationdate="20160425T114406Z">
         <seg>rivedere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rows</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T124432Z" creationid="michele" creationdate="20160525T124432Z">
+        <seg>righe</seg>
       </tuv>
     </tu>
     <tu>
