@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4510,6 +4510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A dark line appears, indicating where the freeze is put.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T152121Z" creationid="michele" creationdate="20160525T152121Z">
+        <seg>Apparirà una linea nera, ad indicare il punto in cui è stato posto il fissaggio.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A database range provides behavior that is useful when performing database related activities.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T150655Z" creationid="steevie" creationdate="20160509T150559Z">
@@ -5358,6 +5366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An example would be a large spreadsheet in which one of the cells has a number in it that is used by three formulas in other cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T152652Z" creationid="michele" creationdate="20160525T152652Z">
+        <seg>Un esempio potrebbe essere un grande foglio di calcolo al cui interno una delle celle ha un numero usato in tre formule in altre celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Anchor</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143012Z" creationid="steevie" creationdate="20160427T143012Z">
@@ -5386,6 +5402,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084424Z">
         <seg>Andy Brown&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Another way to change the view is by splitting the window, also known as splitting the screen.&lt;f0&gt; &lt;/f0&gt;The screen can be split horizontally, vertically, or both.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T152459Z" creationid="michele" creationdate="20160525T152459Z">
+        <seg>Un altro modo per cambiare la visualizzazione del foglio è la divisione della finestra anche conosciuto come divisione dello schermo.&lt;f0&gt; &lt;/f0&gt;Lo schermo può essere suddiviso orizzontalmente, verticalmente o in entrambi i modi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6800,8 +6824,8 @@
       <tuv lang="EN">
         <seg>Choose &lt;f0&gt;Window &gt; Freeze&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;.&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160525T151812Z" creationid="michele" creationdate="20160525T151812Z">
-        <seg>Selezionate &lt;f0&gt;Finestra &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Fissa&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;.</seg>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T152059Z" creationid="michele" creationdate="20160525T151812Z">
+        <seg>Selezionate &lt;f0&gt;Finestra &gt; Fissa&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;.&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7098,6 +7122,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T123505Z" creationid="michele" creationdate="20160525T123505Z">
         <seg>Fateci clic come descritto in "&lt;rf0&gt;Uso di un riferimento cella&lt;/rf0&gt;” a pagina &lt;rf1&gt;32&lt;/rf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click into the cell that is immediately below the row you want frozen and immediately to the right of the column you want frozen.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T152140Z" creationid="michele" creationdate="20160525T152140Z">
+        <seg>Fate clic nella cella che si trova subito sotto la riga o subito a destra della colonna che volete fissare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9710,6 +9742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;30&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T152125Z" creationid="michele" creationdate="20160525T152125Z">
+        <seg>Figura &lt;seq0&gt;30&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;314&lt;/seq0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T135625Z" creationid="steevie" creationdate="20160504T135625Z">
@@ -9754,6 +9794,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160510T143827Z" creationid="steevie" creationdate="20160510T143827Z">
         <seg>Figura &lt;seq0&gt;319&lt;/seq0&gt;: Usare un filtro automatico nella colonna C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;31&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T152715Z" creationid="michele" creationdate="20160525T152715Z">
+        <seg>Figura &lt;seq0&gt;31&lt;/seq0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9834,6 +9882,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T130408Z" creationid="steevie" creationdate="20160421T130408Z">
         <seg>Figura &lt;seq0&gt;329&lt;/seq0&gt;: opzioni Carica/Salva Proprietà VBA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;32&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T152732Z" creationid="michele" creationdate="20160525T152732Z">
+        <seg>Figura &lt;seq0&gt;32&lt;/seq0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10622,6 +10678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Freezing a row and a column</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T152136Z" creationid="michele" creationdate="20160525T152136Z">
+        <seg>Fissare una riga e una colonna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Freezing locks a number of rows at the top of a spreadsheet or a number of columns on the left of a spreadsheet or both.&lt;f0&gt; &lt;/f0&gt;Then when scrolling around within the sheet, any frozen columns and rows remain in view.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T150630Z" creationid="michele" creationdate="20160525T150630Z">
@@ -10674,6 +10738,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T141940Z" creationid="luciano" creationdate="20160429T141940Z">
         <seg>Da ora in poi voi potete:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Frozen rows and columns</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T152133Z" creationid="michele" creationdate="20160525T152129Z">
+        <seg>Righe e colonne fissate</seg>
       </tuv>
     </tu>
     <tu>
@@ -12162,6 +12234,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T140931Z" creationid="Luciano B." creationdate="20160325T165619Z">
         <seg>Sezione delle Immagini</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Immediately above this button, you will see a thick black line (&lt;t0&gt;Figure 32&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T152832Z" creationid="michele" creationdate="20160525T152832Z">
+        <seg>Sopra questo bottone, vedrai una spessa linea nera (&lt;t0&gt;Figura 32&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14046,6 +14126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move the mouse pointer into the vertical scroll bar, on the right-hand side of the screen, and place it over the small button at the top with the black triangle.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T152729Z" creationid="michele" creationdate="20160525T152729Z">
+        <seg>Portate il puntatore del mouse nella barra di scorrimento verticale alla destra dello schermo, sopra il pulsante con un piccolo triangolo che si trova in alto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move the mouse pointer over the sheet tab for the last desired sheet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T125608Z" creationid="michele" creationdate="20160525T125608Z">
@@ -14058,6 +14146,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T125912Z" creationid="michele" creationdate="20160525T125912Z">
         <seg>Spostate il puntatore del mouse sopra la scheda del secondo foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move the mouse pointer over this line, and it turns into a line with two arrows (&lt;t1&gt;Figure 33&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T152923Z" creationid="michele" creationdate="20160525T152923Z">
+        <seg>Sposta il puntatore del mouse sopra questa linea, e questa verrà trasformata in due frecce (&lt;t1&gt;Figura 33&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14595,6 +14691,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T122421Z" creationid="michele" creationdate="20160525T122421Z">
         <seg>Notate che i fogli non sono numerati in ordine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now as you scroll around the screen, everything above and to the left of these lines will remain in view.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T152218Z" creationid="michele" creationdate="20160525T152218Z">
+        <seg>Ora, quando fate scorrere il foglio, tutto ciò che si trova sopra e alla sinistra di queste linee rimane visibile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18511,6 +18615,38 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Split screen bar on vertical scroll bar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T152736Z" creationid="michele" creationdate="20160525T152736Z">
+        <seg>barra di divisione dello schermo nella barra di scorrimento verticale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Split screen example</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T152721Z" creationid="michele" creationdate="20160525T152721Z">
+        <seg>Esempio di divisione dello schermo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Splitting the screen</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T152315Z" creationid="michele" creationdate="20160525T152315Z">
+        <seg>Dividere lo schermo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Splitting the screen horizontally</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T152725Z" creationid="michele" creationdate="20160525T152725Z">
+        <seg>Dividere lo schermo orizzontalmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spreadsheet functions</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T101214Z">
@@ -19316,6 +19452,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T155723Z" creationid="steevie" creationdate="20160418T155723Z">
         <seg>I colori modificati appaiono nel più basso tra i due riquadri di anteprima del colore, nella parte alta della pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The check mark by &lt;f1&gt;Freeze&lt;/f1&gt; will vanish.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T152309Z" creationid="michele" creationdate="20160525T152309Z">
+        <seg>Il segno di spunta di fianco a &lt;f1&gt;Fissa&lt;/f1&gt; scomparirà.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20237,6 +20381,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T133643Z" creationid="michele" creationdate="20160525T133643Z">
         <seg>Poi potete ricorrere a ognuna delle seguenti opzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then you can change the number in the cell and watch how it affects each of the formulas.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T152710Z" creationid="michele" creationdate="20160525T152710Z">
+        <seg>Potete quindi modificare il numero nella cella e vedere come influisce su ciascuna formula.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21841,6 +21993,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To split the screen horizontally:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T152727Z" creationid="michele" creationdate="20160525T152727Z">
+        <seg>Per dividere lo schermo orizzontalmente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To start recording changes:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160423T123131Z" creationid="luciano" creationdate="20160423T123131Z">
@@ -21925,6 +22085,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160505T074908Z" creationid="michele" creationdate="20160414T134252Z">
         <seg>Per disancorare una finestra, tenete premuto il tasto &lt;f0&gt;Ctrl&lt;/f0&gt; e fate  &lt;f1&gt;doppio clic &lt;/f1&gt;sulla cornice (o in un' area vuota contigua alle icone nella parte superiore) della finestra ancorata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To unfreeze rows or columns, choose &lt;f0&gt;Window &gt; Freeze&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T152246Z" creationid="michele" creationdate="20160525T152246Z">
+        <seg>Per sbloccare righe e colonne, selezionate &lt;f0&gt;Finestra &gt; Fissa&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22073,6 +22241,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Two lines appear on the screen, a horizontal line above this cell and a vertical line to the left of this cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T152215Z" creationid="michele" creationdate="20160525T152215Z">
+        <seg>Appariranno sullo schermo due linee nere: una orizzontale sopra la cella ed una verticale alla sua sinistra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Two little triangles indicate where the sheet will be dropped (see &lt;t0&gt;Figure 27&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T134203Z" creationid="michele" creationdate="20160525T134203Z">
@@ -22141,6 +22317,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095311Z">
         <seg>Comprendere le funzioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unfreezing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T152221Z" creationid="michele" creationdate="20160525T152221Z">
+        <seg>Sbloccare</seg>
       </tuv>
     </tu>
     <tu>
@@ -22865,6 +23049,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using the split-screen technique, you can position the cell containing the number in one section and each of the cells with formulas in the other sections.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T152706Z" creationid="michele" creationdate="20160525T152706Z">
+        <seg>Usando la divisione dello schermo, potete posizionare la cella contenente il numero in una sezione e ognuna delle celle con le formule nelle altre sezioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using zoom</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T145219Z" creationid="michele" creationdate="20160525T145219Z">
@@ -23581,6 +23773,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095821Z">
         <seg>Perché usare fogli multipli?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Why would you want to do this?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T152504Z" creationid="michele" creationdate="20160525T152504Z">
+        <seg>A cosa vi può servire?</seg>
       </tuv>
     </tu>
     <tu>
@@ -24333,6 +24533,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T101743Z" creationid="michele" creationdate="20160525T101743Z">
         <seg>Potete memorizzare dei dati da usare nei comandi di campo nel documento; ad esempio, il titolo del documento, le informazioni di contatto per un partecipante al progetto, o magari il nome di un prodotto che potrebbe cambiare nel corso di un progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can therefore have up to four portions of the spreadsheet in view at any one time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T152502Z" creationid="michele" creationdate="20160525T152502Z">
+        <seg>In questo modo potete avere fino a quattro diverse parti del foglio visibili contemporaneamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25981,6 +26189,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T152144Z" creationid="steevie" creationdate="20160509T152144Z">
         <seg>ordinare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>splitting the screen</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T152312Z" creationid="michele" creationdate="20160525T152312Z">
+        <seg>Dividere lo schermo</seg>
       </tuv>
     </tu>
     <tu>
