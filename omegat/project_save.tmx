@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(You can also use &lt;f1&gt;File &gt; Save&lt;/f1&gt; the first time you save a new document.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T085343Z" creationid="michele" creationdate="20160525T085343Z">
+        <seg>(È anche possibile usare &lt;f1&gt;File &gt; Salva&lt;/f1&gt; se state salvando un nuovo documento per la prima volta).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(You need to have a document open for this menu item to appear.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T161352Z" creationid="steevie" creationdate="20160428T161352Z">
@@ -5800,8 +5808,8 @@
       <tuv lang="EN">
         <seg>Calc provides two levels of document protection: &lt;f0&gt;read-protect&lt;/f0&gt; (file cannot be viewed without a password) and &lt;f1&gt;write-protect&lt;/f1&gt; (file can be viewed in read-only mode but cannot be changed without a password).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160525T081355Z" creationid="michele" creationdate="20160525T081355Z">
-        <seg>Writer fornisce due livelli di protezione dei documenti: &lt;f0&gt;protezione in lettura &lt;/f0&gt;(il file non può essere visualizzato senza una password) e &lt;f1&gt;protezione in scrittura &lt;/f1&gt;(il file può essere visualizzato in sola lettura, ma non può essere modificato senza una password).</seg>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T085202Z" creationid="michele" creationdate="20160525T081355Z">
+        <seg>Calc fornisce due livelli di protezione dei documenti: &lt;f0&gt;protezione in lettura &lt;/f0&gt;(il file non può essere visualizzato senza una password) e &lt;f1&gt;protezione in scrittura &lt;/f1&gt;(il file può essere visualizzato in sola lettura, ma non può essere modificato senza una password).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10030,6 +10038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here you have several choices:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T085914Z" creationid="michele" creationdate="20160525T085914Z">
+        <seg>Qui hai diverse possibilità:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hiding and showing data</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T101345Z">
@@ -13363,6 +13379,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160422T155448Z" creationid="luciano" creationdate="20160422T155448Z">
         <seg>Nella finestra di dialogo Proteggi la Registrazione, digitate una password (due volte) e fate clic su &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Save As dialog, type the file name, select the &lt;f0&gt;Save with password&lt;/f0&gt; option, and then click &lt;f1&gt;Save&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T085821Z" creationid="michele" creationdate="20160525T085751Z">
+        <seg>Nella finestra di dialogo Salva con nome, digita il nome del file, seleziona l'opzione &lt;f0&gt;Salva con password&lt;/f0&gt; , e fai clic su &lt;f1&gt;Salva&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17240,6 +17264,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Set Password dialog (&lt;t0&gt;Figure 20&lt;/t0&gt;) opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T085901Z" creationid="michele" creationdate="20160525T085901Z">
+        <seg>Si aprirà la finestra imposta la password(&lt;t0&gt;Figure 20&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Sheet tab of the Page Style dialog</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T162328Z">
@@ -18369,6 +18401,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This behavior is compatible with Microsoft Excel file protection.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T085332Z" creationid="michele" creationdate="20160525T085332Z">
+        <seg>Questo comportamento è compatibile con la protezione dei file in Microsoft Word.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This book introduces Calc, the spreadsheet component of LibreOffice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T102015Z">
@@ -18763,8 +18803,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>Thus you can make the content available for reading by a selected group of people and for reading and editing by a different group.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160525T084906Z" creationid="michele" creationdate="20160525T084906Z">
-        <seg>.</seg>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T085207Z" creationid="michele" creationdate="20160525T084906Z">
+        <seg>Quindi è possibile rendere il contenuto leggibile solo per un gruppo di utenti e modificabile per un altro gruppo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19837,6 +19877,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T123145Z" creationid="michele" creationdate="20160524T123145Z">
         <seg>Usate &lt;f0&gt;File &gt; Documenti recenti&lt;/f0&gt; per visualizzare gli ultimi 10 file aperti in ognuna delle componenti di &lt;f1&gt;LibreOffice&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;f0&gt;File &gt; Save As&lt;/f0&gt; when saving the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T085338Z" creationid="michele" creationdate="20160525T085338Z">
+        <seg>Usate &lt;f0&gt;File &gt; Salva con nome&lt;/f0&gt; quando salvate il documento.</seg>
       </tuv>
     </tu>
     <tu>
