@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4398,6 +4398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t0&gt;Figure 30&lt;/t0&gt; shows some frozen rows and columns.&lt;f1&gt; &lt;/f1&gt;The heavier horizontal line between rows 3 and 14 and the heavier vertical line between columns C and H denote the frozen areas.&lt;f2&gt; &lt;/f2&gt;Rows 4 through 13 and columns D through G have been scrolled off the page.&lt;f3&gt; &lt;/f3&gt;The first three rows and columns remained because they are frozen into place.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T150740Z" creationid="michele" creationdate="20160525T150740Z">
+        <seg>&lt;t0&gt;Figura 30&lt;/t0&gt; shows some frozen rows and columns.&lt;f1&gt; &lt;/f1&gt;The heavier horizontal line between rows 3 and 14 and the heavier vertical line between columns C and H denote the frozen areas.&lt;f2&gt; &lt;/f2&gt;Rows 4 through 13 and columns D through G have been scrolled off the page.&lt;f3&gt; &lt;/f3&gt;The first three rows and columns remained because they are frozen into place.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t0&gt;Listing 11&lt;/t0&gt; illustrates two capabilities that are not widely known.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T144609Z" creationid="steevie" creationdate="20160504T144609Z">
@@ -8414,6 +8422,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the complete width of the document page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T150346Z" creationid="michele" creationdate="20160525T150346Z">
+        <seg>Mostra la larghezza completa della pagina del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays the document at its actual size.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T150522Z" creationid="michele" creationdate="20160525T150522Z">
+        <seg>Visualizza il documento nella sua dimensione originale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays the entire page on your screen.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T150216Z" creationid="michele" creationdate="20160525T150216Z">
+        <seg>Visualizza la pagina intera sul tuo schermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the note that is attached to the current cell.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160505T144601Z" creationid="luciano" creationdate="20160505T144601Z">
@@ -8802,6 +8834,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T105341Z" creationid="michele" creationdate="20160525T105341Z">
         <seg>Invio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter a zoom percentage of your choice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T150609Z" creationid="michele" creationdate="20160525T150609Z">
+        <seg>Inserisci una percentuale di zoom a tuo piacere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10086,6 +10126,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fit Width</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T150321Z" creationid="michele" creationdate="20160525T150321Z">
+        <seg>Larghezza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fit Width and Height</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T150157Z" creationid="michele" creationdate="20160525T150157Z">
+        <seg>Larghezza e altezza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Follow the above procedures, but instead of choosing &lt;f0&gt;Spreadsheet&lt;/f0&gt;, choose the &lt;f1&gt;Templates&lt;/f1&gt; icon from the Start Center or &lt;f2&gt;File &gt; New &gt; Templates and Documents&lt;/f2&gt; from the Menu bar or toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T104647Z" creationid="michele" creationdate="20160524T104647Z">
@@ -10546,6 +10602,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T082830Z">
         <seg>Assistenza gratuita online</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Freezing locks a number of rows at the top of a spreadsheet or a number of columns on the left of a spreadsheet or both.&lt;f0&gt; &lt;/f0&gt;Then when scrolling around within the sheet, any frozen columns and rows remain in view.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T150630Z" creationid="michele" creationdate="20160525T150630Z">
+        <seg>Potete fissare un certo numero di righe in cima al foglio o un certo numero di colonne all'estremo sinistro del foglio, o entrambe le cose.&lt;f0&gt; &lt;/f0&gt;In questo modo quando fate scorrere il foglio, le colonne e le righe fissate restano visibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Freezing&lt;i0/&gt; rows and columns</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T150627Z" creationid="michele" creationdate="20160525T150627Z">
+        <seg>Fissare&lt;i0/&gt; righe e colonne</seg>
       </tuv>
     </tu>
     <tu>
@@ -15135,6 +15207,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Optimal</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T150004Z" creationid="michele" creationdate="20160525T150004Z">
+        <seg>Ottimale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Optimizes the column width or row height based on the current cell.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T142633Z" creationid="luciano" creationdate="20160509T142633Z">
@@ -16451,6 +16531,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172654Z" creationid="steevie" creationdate="20160428T172654Z">
         <seg>Ripristino dei tasti di scelta rapida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Resizes the display to fit the width of the selected cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T150117Z" creationid="michele" creationdate="20160525T150117Z">
+        <seg>Ridimensiona la visualizzazione per includere le celle selezionate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20065,6 +20153,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The top and bottom edges of the page may not be visible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T150500Z" creationid="michele" creationdate="20160525T150419Z">
+        <seg>I margini in alto e in basso della pagina potrebbero non essere visibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The two color fields at the lower right show the value of the selected color on the left and the currently set value from the color value fields on the right.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T160045Z" creationid="steevie" creationdate="20160418T160045Z">
@@ -21817,6 +21913,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use this option, you must first highlight a range of cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T150143Z" creationid="michele" creationdate="20160525T150143Z">
+        <seg>Per usare questa opzione, devi prima evidenziare una serie di celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To use version management in Calc:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T152713Z" creationid="luciano" creationdate="20160429T141105Z">
@@ -22789,6 +22893,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T142719Z" creationid="steevie" creationdate="20160427T142719Z">
         <seg>Evidenzia valore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Variable</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T150540Z" creationid="michele" creationdate="20160525T150540Z">
+        <seg>Variabili</seg>
       </tuv>
     </tu>
     <tu>
@@ -25037,6 +25149,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T081236Z" creationid="michele" creationdate="20160524T081236Z">
         <seg>barra delle formule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>freezing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T150615Z" creationid="michele" creationdate="20160525T150615Z">
+        <seg>Fissare</seg>
       </tuv>
     </tu>
     <tu>
