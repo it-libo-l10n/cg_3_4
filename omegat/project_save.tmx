@@ -6614,6 +6614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Add&lt;/f0&gt; to insert a row of boxes into which you can enter your custom properties.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T101424Z" creationid="michele" creationdate="20160525T101424Z">
+        <seg>Fate clic su &lt;f0&gt;Aggiungi&lt;/f0&gt; per ottenere una nuova riga di riquadri, nei quali inserire le vostre proprietà personalizzate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Keep Current Format&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T152821Z" creationid="michele" creationdate="20160524T152821Z">
@@ -9310,6 +9318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;36&lt;/seq0&gt;: The Description page of the document’s &lt;is1/&gt;Properties dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T101421Z" creationid="michele" creationdate="20160525T101421Z">
+        <seg>Figura &lt;seq0&gt;36&lt;/seq0&gt;: la scheda Descrizione della finestra di dialogo &lt;is1/&gt;Proprietà del documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;37&lt;/seq0&gt;: Custom Properties page, showing drop-down lists of names and types</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T101403Z" creationid="michele" creationdate="20160525T101403Z">
@@ -9610,6 +9626,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160517T134638Z" creationid="steevie" creationdate="20160517T134638Z">
         <seg>Ad esempio, oFiltDesc.OutputPosition.Row &lt;/f0&gt;&lt;f1&gt;= 2 non funziona (perché nella copia avete impostato la riga a 2, ma non avete modificato l'originale).&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, on the &lt;f0&gt;Description&lt;/f0&gt; page (&lt;t1&gt;Figure 36&lt;/t1&gt;) you might need to change the contents of the &lt;f2&gt;Title&lt;/f2&gt; field from the draft title to the final title.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T101547Z" creationid="michele" creationdate="20160525T101547Z">
+        <seg>Ad esempio, nella scheda &lt;f0&gt;Descrizione&lt;/f0&gt; (&lt;t1&gt;Figura 36&lt;/t1&gt;) potreste avere necessità di modificare il contenuto del campo &lt;f2&gt;Titolo&lt;/f2&gt; dal titolo provvisorio o di bozza a quello definitivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10362,6 +10386,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T133900Z" creationid="steevie" creationdate="20160427T133900Z">
         <seg>Tuttavia, celle che possiedono già un formato speciale non saranno modificate da questa funzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, if the new document is based on a template, this page may contain fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T101440Z" creationid="michele" creationdate="20160525T101440Z">
+        <seg>Se il nuovo documento è basato su un modello, tale scheda potrebbe contenere dei comandi di campo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11950,6 +11982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Information that changes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T101746Z" creationid="michele" creationdate="20160525T101746Z">
+        <seg>Informazioni che cambiano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Informational functions</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T101147Z">
@@ -11998,6 +12038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert as Copy</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T102224Z" creationid="michele" creationdate="20160525T102224Z">
+        <seg>Inserisci come copia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert mode (&lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T092845Z" creationid="michele" creationdate="20160524T092845Z">
@@ -12026,6 +12074,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T151223Z" creationid="antonio" creationdate="20160524T151223Z">
         <seg>inserire fogli da un differente foglio di lavoro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inserts a copy of the selected item where you drag and drop in the current document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T102222Z" creationid="michele" creationdate="20160525T102222Z">
+        <seg>Inserisce una copia dell'elemento selezionato nel punto in cui eseguite il trascinamento nel documento corrente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12858,6 +12914,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160428T151901Z" creationid="luciano" creationdate="20160428T151901Z">
         <seg>Unire i&lt;i0/&gt; documenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Metadata to assist in classifying, sorting, storing, and retrieving documents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T101750Z" creationid="michele" creationdate="20160525T101750Z">
+        <seg>I metadati utili per la classificazione, l'ordinamento, la memorizzazione e il recupero dei documenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14067,6 +14131,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T145030Z" creationid="steevie" creationdate="20160418T145030Z">
         <seg>Altre opzioni generali sono descritte nel Capitolo 2 (Configurare &lt;f1&gt;LibreOffice&lt;/f1&gt;) nella &lt;f2&gt;Guida introduttiva&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other information (the name of the person on the Created and Modified lines of the &lt;f2&gt;General&lt;/f2&gt; page) is derived from the User Data page in &lt;f3&gt;Tools &gt; Options&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T102135Z" creationid="michele" creationdate="20160525T102135Z">
+        <seg>Altre informazioni (il nome della persona sulle righe Creato e Modificato della scheda &lt;f3&gt;Generale&lt;/f3&gt;) sono derivate dalla scheda Dati utente sotto &lt;f3&gt;Strumenti &gt; Opzioni &lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16655,6 +16727,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some of this metadata is exported to the closest equivalent in HTML and PDF; some fields have no equivalent and are not exported.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T101748Z" creationid="michele" creationdate="20160525T101748Z">
+        <seg>Alcuni di questi metadati sono esportati all'equivalente più vicino in HTML e in PDF; alcuni comandi di campo non hanno equivalente e non vengono esportati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some people find some or all of the items in &lt;f0&gt;LibreOffice&lt;/f0&gt;’s &lt;i1/&gt;AutoCorrect function annoying because they change what you type when you do not want it changed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T161319Z" creationid="steevie" creationdate="20160428T161319Z">
@@ -17424,6 +17504,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Internet&lt;/f0&gt; page is relevant only to HTML documents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T102214Z" creationid="michele" creationdate="20160525T102214Z">
+        <seg>La scheda &lt;f0&gt;Internet&lt;/f0&gt; è solo attinente ai documenti HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Name&lt;/f0&gt; box includes a drop-down list of typical choices; scroll down to see all the choices.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T101348Z" creationid="michele" creationdate="20160525T101348Z">
@@ -17628,6 +17716,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160313T142617Z">
         <seg>La finestra di dialogo Stampa ha quattro schede, tramite le quali potete scegliere diverse opzioni, come descritto nelle seguenti sezioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Properties dialog has six tabs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T101944Z" creationid="michele" creationdate="20160525T101944Z">
+        <seg>La finestra di dialogo proprietà ha sei schede.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17992,6 +18088,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The file sharing options on the &lt;f1&gt;Security&lt;/f1&gt; page are discussed elsewhere in this book.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T101811Z" creationid="michele" creationdate="20160525T101811Z">
+        <seg>Le opzioni di condivisione del file sulla scheda &lt;f1&gt;Sicurezza&lt;/f1&gt;sono discusse altrove in questa guida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The filter descriptor must be modified before the filter is applied.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160517T132456Z" creationid="steevie" creationdate="20160517T132456Z">
@@ -18093,6 +18197,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160323T164341Z">
         <seg>Le icone (pulsanti) in queste barre forniscono una vasta gamma di funzioni e comandi comuni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The information on the &lt;f0&gt;General&lt;/f0&gt; page and the &lt;f1&gt;Statistics&lt;/f1&gt; page is generated by the program.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T102037Z" creationid="michele" creationdate="20160525T102037Z">
+        <seg>Le informazioni sulla scheda  &lt;f0&gt;Generale&lt;/f0&gt; e sulla scheda &lt;f1&gt;Statistiche&lt;/f1&gt; sono generate dal programma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18953,6 +19065,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This dialog can be used in a template, where the field names can serve as reminders to users of information they need to include.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T101739Z" creationid="michele" creationdate="20160525T101739Z">
+        <seg>Questa finestra di dialogo può essere sfruttata in un modello, in cui i nomi dei comandi di campo possono servire come promemoria per gli autori, per informazioni che è necessario inserire nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This dialog has five pages (General, Initial View, User Interface, Links, and Security).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165009Z" creationid="Luciano B." creationdate="20160325T165009Z">
@@ -19801,6 +19921,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To open the &lt;is0/&gt;Properties&lt;ie1/&gt; dialog for a document, choose &lt;f2&gt;&lt;f3&gt;File&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Properties&lt;/f6&gt;&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T101927Z" creationid="michele" creationdate="20160525T101927Z">
+        <seg>Per aprire la finestra di dialogo &lt;is0/&gt;Proprietà&lt;ie1/&gt; per un documento, seleziona &lt;f2&gt;&lt;f3&gt;File&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Proprietà&lt;/f6&gt;&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To open the AutoCorrect dialog, click &lt;f0&gt;Tools &gt; AutoCorrect Options&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T161346Z" creationid="steevie" creationdate="20160428T161346Z">
@@ -20465,6 +20593,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the &lt;f0&gt;Description&lt;/f0&gt; and &lt;f1&gt;Custom Properties&lt;/f1&gt; pages to hold:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T101753Z" creationid="michele" creationdate="20160525T101753Z">
+        <seg>Usate le schede &lt;f0&gt;Descrizione&lt;/f0&gt; e &lt;f1&gt;Proprietà personalizzate&lt;/f1&gt; per contenere:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the &lt;f0&gt;Open Document&lt;/f0&gt; selection on the Quickstarter.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T123727Z" creationid="michele" creationdate="20160524T123351Z">
@@ -20517,6 +20653,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163458Z" creationid="steevie" creationdate="20160428T163458Z">
         <seg>Usate le frecce su e giù poste accanto all'elenco delle Voci per spostare l'elemento del menu selezionato in una posizione diversa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the&lt;f0&gt; Custom Properties&lt;/f0&gt; page (&lt;t1&gt;Figure 37&lt;/t1&gt;) to store information that does not fit into the fields supplied on the other pages of this dialog box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T101508Z" creationid="michele" creationdate="20160525T101508Z">
+        <seg>Usate la scheda &lt;f0&gt;Proprietà personalizzate&lt;/f0&gt; (&lt;t1&gt;Figura 37&lt;/t1&gt;) per memorizzare le informazioni che non si adattano ai campi presenti nelle altre schede di questa finestra di dialogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21201,6 +21345,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When the Custom Properties page is first opened in a new document, it may be blank.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T101443Z" creationid="michele" creationdate="20160525T101443Z">
+        <seg>Quando aprite la scheda Proprietà personalizzate per la prima volta in un nuovo documento, potrebbe essere vuota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When the cursor is on an object such as a picture or chart, the information shown includes the size of the object and its location.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T095518Z" creationid="michele" creationdate="20160524T095518Z">
@@ -21301,6 +21453,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165632Z" creationid="steevie" creationdate="20160428T165632Z">
         <seg>Quando create una nuova barra degli strumenti, è necessario aggiungervi dei comandi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you do so, all of the references to that information will change wherever they appear in the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T101552Z" creationid="michele" creationdate="20160525T101552Z">
+        <seg>Quando effettuate tali modifiche, tutti i riferimenti a quelle informazioni cambieranno ovunque compaiano nel documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22121,6 +22281,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can return to this dialog at any time and change the information you entered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T101656Z" creationid="michele" creationdate="20160525T101656Z">
+        <seg>È sempre possibile riaprire questa finestra di dialogo ogni volta decidiate di cambiare le informazioni inserite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can save versions that are stored as part of the original file.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160422T154145Z" creationid="luciano" creationdate="20160422T154145Z">
@@ -22209,6 +22377,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can store data for use in fields in your document; for example, the title of the document, contact information for a project participant, or the name of a product might change during the course of a project.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T101743Z" creationid="michele" creationdate="20160525T101743Z">
+        <seg>Potete memorizzare dei dati da usare nei comandi di campo nel documento; ad esempio, il titolo del documento, le informazioni di contatto per un partecipante al progetto, o magari il nome di un prodotto che potrebbe cambiare nel corso di un progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can turn these headers off by selecting &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;View &gt; Column &amp; Row Headers&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;.&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T084516Z" creationid="michele" creationdate="20160524T084516Z">
@@ -22245,6 +22421,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T101341Z" creationid="michele" creationdate="20160525T101341Z">
         <seg>Non è possibile creare nuovi tipi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You cannot drag and drop copies of graphics, OLE objects, or indexes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T102219Z" creationid="michele" creationdate="20160525T102219Z">
+        <seg>Non è possibile trascinare copie di immagini, oggetti OLE o indici.</seg>
       </tuv>
     </tu>
     <tu>
