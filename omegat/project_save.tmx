@@ -2198,6 +2198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;In the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;General &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;tab, click the &lt;/f5&gt;&lt;/f4&gt;&lt;is6/&gt;&lt;f7&gt;&lt;f8&gt;Change Password&lt;/f8&gt;&lt;/f7&gt;&lt;ie9/&gt;&lt;f10&gt;&lt;f11&gt; button, which is located at the top right corner next to the file name.&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T091402Z" creationid="michele" creationdate="20160525T091402Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Nella &lt;/f1&gt;&lt;/f0&gt;&lt;f4&gt;&lt;f5&gt;scheda&lt;/f5&gt;&lt;/f4&gt;&lt;f2&gt;&lt;f3&gt;Generale &lt;/f3&gt;&lt;/f2&gt;&lt;is6/&gt;&lt;f7&gt;&lt;f8&gt;Cambia password&lt;/f8&gt;&lt;/f7&gt;&lt;ie9/&gt;&lt;f10&gt;&lt;f11&gt; , situato nell'angolo in alto a destra della finestra.&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;JPEG compression&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;: Allows for varying degrees of quality.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165849Z" creationid="Luciano B." creationdate="20160325T165849Z">
@@ -2330,6 +2338,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T171732Z" creationid="Luciano B." creationdate="20160325T171732Z">
         <seg>&lt;f0&gt;&lt;f1&gt;PDF con tag&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;: Un PDF con tag contiene informazioni relative alla struttura dei contenuti del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;The &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Set Password&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; dialog opens; see &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;&lt;t8&gt;Figure 20&lt;/t8&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f9&gt;&lt;f10&gt;.&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T091603Z" creationid="michele" creationdate="20160525T091603Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;La &lt;/f1&gt;&lt;/f0&gt;&lt;f4&gt;&lt;f5&gt; finestra di dialogo&lt;/f5&gt;&lt;/f4&gt;&lt;f2&gt;&lt;f3&gt;Imposta la password&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; si apre; vedi&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;&lt;t8&gt;Figura 20&lt;/t8&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f9&gt;&lt;f10&gt;.&lt;/f10&gt;&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5806,6 +5822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc provides many ways to navigate within a spreadsheet from cell to cell and sheet to sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T091630Z" creationid="michele" creationdate="20160525T091630Z">
+        <seg>Calc offre diversi modi per navigare in un foglio elettronico da cella a cella e da foglio a foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc provides several ways to &lt;i0/&gt;apply cell styles:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160330T085204Z" creationid="briga" creationdate="20160330T085204Z">
@@ -6666,6 +6690,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160425T113242Z" creationid="luciano" creationdate="20160425T113242Z">
         <seg>Fate clic sul commento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on the little inverted black triangle just to the right of the Name Box&lt;f0&gt; (&lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figure 10&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T091731Z" creationid="michele" creationdate="20160525T091731Z">
+        <seg>Fate clic sul piccolo pulsante con un triangolo rovesciato posto sulla destra della Casella del nome&lt;f0&gt; (&lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figura 10&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9874,6 +9906,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160510T141439Z" creationid="steevie" creationdate="20160510T141439Z">
         <seg>Filtri generici, comuni a tutti i tipi di manipolazione dei dati, sono forniti automaticamente dall'auto filtro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Going to a particular cell</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T091651Z" creationid="michele" creationdate="20160525T091651Z">
+        <seg>Andare in una cella specifica</seg>
       </tuv>
     </tu>
     <tu>
@@ -14015,6 +14055,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Place the mouse pointer over the cell and click.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T091658Z" creationid="michele" creationdate="20160525T091658Z">
+        <seg>Posizionate il puntatore del mouse sopra la cella e fate clic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Placing the mouse pointer over any of the icons displays a small box, called a &lt;is0/&gt;tooltip&lt;ie1/&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160323T164739Z">
@@ -17640,6 +17688,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The existing &lt;/f3&gt;&lt;is4/&gt;&lt;f5&gt;cell reference&lt;/f5&gt;&lt;ie6/&gt;&lt;f7&gt; will be highlighted.&lt;/f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Type the cell reference of the cell you want to go to and press &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Enter&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T091927Z" creationid="michele" creationdate="20160525T091927Z">
+        <seg>Il &lt;/f3&gt;&lt;is4/&gt;&lt;f5&gt;riferimento di cella esistente&lt;/f5&gt;&lt;ie6/&gt;&lt;f7&gt;sarà evidenziato.&lt;/f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Digita il riferimento di cella al al quale vuoi andare e premi&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Invio&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The extension begins installing.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T173321Z" creationid="steevie" creationdate="20160428T173321Z">
@@ -20313,6 +20369,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using a cell reference</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T091701Z" creationid="michele" creationdate="20160525T091701Z">
+        <seg>Usare un riferimento cella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using a grid helps you determine the exact position of any charts or other objects you may add to a spreadsheet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T155213Z" creationid="steevie" creationdate="20160428T155213Z">
@@ -20437,6 +20501,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160206T082956Z">
         <seg>Utilizzo del Registratore di macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the mouse</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T091655Z" creationid="michele" creationdate="20160525T091655Z">
+        <seg>Usare il mouse</seg>
       </tuv>
     </tu>
     <tu>
@@ -21605,6 +21677,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160425T120513Z" creationid="luciano" creationdate="20160425T120513Z">
         <seg>Potete filtrare in base a:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can generally use whatever method you prefer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T091648Z" creationid="michele" creationdate="20160525T091648Z">
+        <seg>In generale potete fare uso del metodo che preferite.</seg>
       </tuv>
     </tu>
     <tu>
