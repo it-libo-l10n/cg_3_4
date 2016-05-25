@@ -6678,6 +6678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the &lt;is0/&gt;&lt;f1&gt;&lt;f2&gt;Navigator&lt;/f2&gt;&lt;/f1&gt;&lt;ie3/&gt; button &lt;s4/&gt;in the &lt;f5&gt;Standard&lt;/f5&gt; toolbar (or press &lt;f6&gt;F5&lt;/f6&gt;) to display the Navigator.&lt;f7&gt; &lt;/f7&gt;Type the cell reference into the top two fields, labeled Column and Row, and press &lt;f8&gt;Enter&lt;/f8&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T094915Z" creationid="michele" creationdate="20160525T094915Z">
+        <seg>Fare clic sul &lt;ie3/&gt; bottone &lt;s4/&gt; &lt;is0/&gt;&lt;f1&gt;&lt;f2&gt;Navigatore&lt;/f2&gt;&lt;/f1&gt;nella barra degli strumenti  &lt;f5&gt;Standard&lt;/f5&gt;  (oppure premete &lt;f6&gt;F5&lt;/f6&gt;) per mostrare il navigatore.&lt;f7&gt; &lt;/f7&gt;Digita i riferimenti di cella nelle due caselle di testo, denominate Colonna e Riga, e premi &lt;f8&gt;Invio&lt;/f8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the Options tab (see &lt;t0&gt;Figure 318&lt;/t0&gt;) to set the sort options.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T152932Z" creationid="steevie" creationdate="20160509T152932Z">
@@ -9582,6 +9590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more about using the Navigator, see page &lt;bf11&gt;45&lt;/bf11&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T095031Z" creationid="michele" creationdate="20160525T095031Z">
+        <seg>Per saperne di più sull'uso del navigatore, vedi pagina&lt;bf11&gt;45&lt;/bf11&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more control over &lt;i0/&gt;printing, use the Print dialog (&lt;f1&gt;File &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Print&lt;/f4&gt; or &lt;f5&gt;Ctrl+P&lt;/f5&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160405T161839Z">
@@ -11182,6 +11198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In &lt;t9&gt;Figure 35&lt;/t9&gt; on page &lt;t10&gt;46&lt;/t10&gt;, the Navigator would select cell A7.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T095001Z" creationid="michele" creationdate="20160525T095001Z">
+        <seg>In &lt;t9&gt;Figura 35&lt;/t9&gt; a pagina &lt;t10&gt;46&lt;/t10&gt;, il Navigatore selezionerebbe la cella A7\.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In Calc 3.4, each sheet can have a maximum of 1,048,576 rows (65,536 rows in Calc 3.2 and earlier) and a maximum of 1024 columns.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T162904Z">
@@ -11666,6 +11690,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T095929Z">
         <seg>Nel foglio elettronico, fate clic sull'etichetta per selezionare il foglio che volete stampare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the spreadsheet, one cell normally has a darker black border.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T095122Z" creationid="michele" creationdate="20160525T095122Z">
+        <seg>Nel foglio elettronico, una cella normalmente ha un bordo più nero.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13011,6 +13043,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160504T161936Z" creationid="luciano" creationdate="20160504T161550Z">
         <seg>Sposta verso l'alto di una schermata le righe visibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moving from cell to cell</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T095050Z" creationid="michele" creationdate="20160525T095050Z">
+        <seg>Spostarsi da una cella all'altra</seg>
       </tuv>
     </tu>
     <tu>
@@ -17224,6 +17264,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;is2/&gt;&lt;is3/&gt;&lt;is4/&gt;focus&lt;ie5/&gt;&lt;ie6/&gt;&lt;ie7/&gt; indicates which cell is enabled to receive input.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T095228Z" creationid="michele" creationdate="20160525T095228Z">
+        <seg>La  &lt;is2/&gt;&lt;is3/&gt;&lt;is4/&gt;selezione&lt;ie5/&gt;&lt;ie6/&gt;&lt;ie7/&gt; indica quale cella è abilitata al ricevimento di input.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Add Commands dialog is the same as for adding commands to menus (&lt;t0&gt;Figure 344&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165648Z" creationid="steevie" creationdate="20160428T165648Z">
@@ -18517,6 +18565,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T085332Z" creationid="michele" creationdate="20160525T085332Z">
         <seg>Questo comportamento è compatibile con la protezione dei file in Microsoft Word.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This black border indicates where the &lt;f0&gt;focus&lt;/f0&gt; is (see &lt;t1&gt;Figure 21&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T095142Z" creationid="michele" creationdate="20160525T095142Z">
+        <seg>Questo bordo indica la &lt;f0&gt;selezione&lt;/f0&gt; (si veda la &lt;t1&gt;Figura 21&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
