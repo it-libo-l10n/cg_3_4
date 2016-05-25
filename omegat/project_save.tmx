@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3616,8 +3616,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Right-click &lt;/f0&gt;any one of the sheet tabs and choose &lt;f1&gt;Select All Sheets&lt;/f1&gt; from the &lt;f2&gt;context&lt;/f2&gt; menu.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160525T130046Z" creationid="michele" creationdate="20160525T130046Z">
-        <seg>&lt;f0&gt;Clic destro &lt;/f0&gt;qualsiasi delle schede dei fogli e seleziona &lt;f1&gt;Seleziona tutti i fogli &lt;/f1&gt;dal menu &lt;f2&gt;contestuale&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T130231Z" creationid="michele" creationdate="20160525T130046Z">
+        <seg>&lt;f0&gt;Clic destro &lt;/f0&gt;su qualsiasi delle schede dei fogli e seleziona &lt;f1&gt;Seleziona tutti i fogli &lt;/f1&gt;dal menu &lt;f2&gt;contestuale&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6134,6 +6134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cells in the new columns or rows are formatted like the corresponding cells in the column or row before (or to the left of) which the new column or row is inserted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T130852Z" creationid="michele" creationdate="20160525T130852Z">
+        <seg>Le celle nelle nuove colonne o righe sono formattate come le corrispondenti celle nella colonna o riga prima (o alla sinistra) della quale viene inserita la nuova colonna o riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changes from different authors appear in different colors in the document, as shown in &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figure 293&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160428T153946Z" creationid="luciano" creationdate="20160428T153946Z">
@@ -6618,6 +6626,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160313T142216Z">
         <seg>Andate in&lt;f1&gt; Strumenti &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Opzioni &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; Carica/Salva &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; Generale&lt;/f10&gt; e selezionate l'opzione &lt;f11&gt;Carica le impostazioni della stampante assieme al documento.&lt;/f11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose either &lt;f0&gt;Insert &gt; Columns &lt;/f0&gt;or&lt;f1&gt; Insert &gt; Rows&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T131120Z" creationid="michele" creationdate="20160525T131120Z">
+        <seg>Scegliete alternativamente &lt;f0&gt;Inserisci &gt; Colonne &lt;/f0&gt; o &lt;f1&gt; Inserisci &gt; Righe&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7210,6 +7226,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153831Z">
         <seg>Interruzione di colonna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Columns and rows can be inserted individually or in groups.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T130844Z" creationid="michele" creationdate="20160525T130844Z">
+        <seg>Potete inserire colonne e righe singolarmente o in gruppi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10854,6 +10878,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a color has been set for the tab, then on selection the lower edge of the tab has the color and the remainder of the tab is white.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T130813Z" creationid="michele" creationdate="20160525T130813Z">
+        <seg>Se un colore è stato impostato per una scheda, la linguetta in basso della scheda avrà il colore scelto, mentre il resto della scheda sarà bianco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a document is already open in &lt;f0&gt;LibreOffice&lt;/f0&gt;, the second document opens in a new window.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T122749Z" creationid="michele" creationdate="20160524T122749Z">
@@ -12466,6 +12498,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T092845Z" creationid="michele" creationdate="20160524T092845Z">
         <seg>Modalità inserimento(&lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inserting &lt;is0/&gt;columns and rows</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T130836Z" creationid="michele" creationdate="20160525T130836Z">
+        <seg>Inserire&lt;is0/&gt; colonne e righe</seg>
       </tuv>
     </tu>
     <tu>
@@ -16635,6 +16675,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160423T145021Z" creationid="luciano" creationdate="20160423T145021Z">
         <seg>Selezionate la cella con la modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the cell, column, or row where you want the new column or row inserted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T130927Z" creationid="michele" creationdate="20160525T130927Z">
+        <seg>Selezionate la cella, colonna o riga dove volete venga inserita la nuova colonna o riga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21921,6 +21969,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using the &lt;f0&gt;Insert&lt;/f0&gt; menu:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T130855Z" creationid="michele" creationdate="20160525T130855Z">
+        <seg>Usare il menu &lt;f0&gt;Inserisci&lt;/f0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using the &lt;i0/&gt;&lt;is1/&gt;macro recorder</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160524T102108Z" creationid="luciano" creationdate="20160524T102108Z">
@@ -22509,6 +22565,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163500Z" creationid="steevie" creationdate="20160428T163500Z">
         <seg>Una volte terminate tutte le modifiche, fate clic su &lt;f0&gt;OK&lt;/f0&gt; per salvarle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you insert a single new column, it is inserted to the &lt;f0&gt;left&lt;/f0&gt; of the highlighted column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T130847Z" creationid="michele" creationdate="20160525T130847Z">
+        <seg>Quando inserite una nuova colonna, questa è inserita &lt;f0&gt;a sinistra&lt;/f0&gt; della colonna evidenziata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you insert a single new row, it is inserted &lt;f1&gt;above&lt;/f1&gt; the highlighted row.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T130849Z" creationid="michele" creationdate="20160525T130849Z">
+        <seg>Quando inserite una nuova riga, questa è inserita &lt;f1&gt;al di sopra&lt;/f1&gt; della riga evidenziata.</seg>
       </tuv>
     </tu>
     <tu>
