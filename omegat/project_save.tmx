@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3654,6 +3654,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Right-click&lt;/f0&gt; the header of the column or row.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T131356Z" creationid="michele" creationdate="20160525T131356Z">
+        <seg>Fate &lt;f0&gt;clic&lt;/f0&gt; sull'intestazione della colonna o riga con il pulsante destro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Insert&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt; &gt; &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Sheet&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; from the menu bar.&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T142825Z" creationid="antonio" creationdate="20160524T142825Z">
@@ -6494,6 +6502,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Delete Columns&lt;/f0&gt; or &lt;f1&gt;Delete Rows&lt;/f1&gt; from the &lt;f2&gt;context&lt;/f2&gt; menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T131653Z" creationid="michele" creationdate="20160525T131653Z">
+        <seg>Scegliere &lt;f0&gt;Elimina Colonne&lt;/f0&gt; o &lt;f1&gt;Elimina Righe&lt;/f1&gt; dal &lt;f2&gt;menu&lt;/f2&gt; contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Edit &gt; Delete Cells&lt;/f0&gt; from the menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T131609Z" creationid="michele" creationdate="20160525T131609Z">
+        <seg>Scegliere &lt;f0&gt;Modifica &gt; Elimina Celle&lt;/f0&gt; dalla barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;File &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Digital Signatures&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T161509Z" creationid="Luciano B." creationdate="20160329T161421Z">
@@ -6586,6 +6610,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T111122Z">
         <seg>Scegliete &lt;f0&gt;Formato &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Aree di stampa &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Modifica&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Insert Rows &lt;/f0&gt;or &lt;f1&gt;Insert Columns&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T131359Z" creationid="michele" creationdate="20160525T131359Z">
+        <seg>Scegliete &lt;f0&gt;Inserisci Righe &lt;/f0&gt;o &lt;f1&gt;Inserisci Colonne&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7226,6 +7258,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153831Z">
         <seg>Interruzione di colonna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Columns and rows can be deleted individually or in groups.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T131443Z" creationid="michele" creationdate="20160525T131443Z">
+        <seg>Potete eliminare colonne e righe singolarmente o in gruppi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8114,6 +8154,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T102815Z">
         <seg>Eliminare gli stili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Deleting&lt;i0/&gt; &lt;is1/&gt;columns and rows</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T131440Z" creationid="michele" creationdate="20160525T131440Z">
+        <seg>Eliminare&lt;i0/&gt; &lt;is1/&gt;colonne e righe</seg>
       </tuv>
     </tu>
     <tu>
@@ -10682,6 +10730,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T161556Z">
         <seg>Evidenziate l'intervallo di celle da aggiungere all'area di stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Highlight the required columns or rows by holding down the left mouse button on the first one and then dragging across the required number of identifiers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T132149Z" creationid="michele" creationdate="20160525T132149Z">
+        <seg>Evidenziate le colonne o righe necessarie facendo clic sulla prima e trascinando fino a ottenerne il numero richiesto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Highlight the required number of columns or rows by holding down the left mouse button on the first one and then dragging across the required number of identifiers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T131405Z" creationid="michele" creationdate="20160525T131405Z">
+        <seg>Evidenziate le colonne o righe necessarie facendo clic sulla prima e trascinando fino a ottenerne il numero richiesto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13879,6 +13943,22 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Multiple columns or rows can be deleted at once rather than deleting them one at a time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T131656Z" creationid="michele" creationdate="20160525T131656Z">
+        <seg>Potete eliminare più colonne o righe contemporaneamente anziché eliminarne una alla volta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Multiple columns or rows can be inserted at once rather than inserting them one at a time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T131403Z" creationid="michele" creationdate="20160525T131403Z">
+        <seg>Potete inserire più colonne o righe contemporaneamente anziché inserirne una alla volta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Multiple contiguous sheets</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T125603Z" creationid="michele" creationdate="20160525T125603Z">
@@ -14735,6 +14815,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Or,</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T131613Z" creationid="michele" creationdate="20160525T131613Z">
+        <seg>O,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Organizing templates</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T102931Z">
@@ -15251,6 +15339,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T112611Z">
         <seg>Stampa, esportazione e invio di e-mail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Proceed as for inserting a single column or row above.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T131407Z" creationid="michele" creationdate="20160525T131407Z">
+        <seg>Procedete come per inserire una singola colonna o riga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16119,6 +16215,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click on the column or row header.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T131616Z" creationid="michele" creationdate="20160525T131616Z">
+        <seg>Fate clic sull'intestazione della colonna o riga con il pulsante destro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rob Scott</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084435Z">
@@ -16691,6 +16795,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T151847Z" creationid="steevie" creationdate="20160418T151847Z">
         <seg>Selezionate il colore da modificare dall'elenco o dalla tavola dei colori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the column or row to be deleted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T131512Z" creationid="michele" creationdate="20160525T131512Z">
+        <seg>Selezionate la colonna o riga da eliminare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20481,6 +20593,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To delete a single column or row:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T131507Z" creationid="michele" creationdate="20160525T131507Z">
+        <seg>Per eliminare una singola colonna o riga:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To directly add new cells to the print range:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T170037Z">
@@ -22077,6 +22197,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T091655Z" creationid="michele" creationdate="20160525T091655Z">
         <seg>Usare il mouse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the mouse:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T131303Z" creationid="michele" creationdate="20160525T131303Z">
+        <seg>Usare il mouse:</seg>
       </tuv>
     </tu>
     <tu>
@@ -24157,6 +24285,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T154732Z" creationid="steevie" creationdate="20160428T154732Z">
         <seg>elimina – cancella immediatamente il contenuto della cella, senza conferma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>deleting</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T131409Z" creationid="michele" creationdate="20160525T131409Z">
+        <seg>eliminare</seg>
       </tuv>
     </tu>
     <tu>
