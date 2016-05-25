@@ -3774,6 +3774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;Enter&lt;/f1&gt;&lt;f2&gt; key can also be used to switch into and out of the editing mode.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122254Z" creationid="michele" creationdate="20160525T122254Z">
+        <seg>&lt;f0&gt;Il tasto &lt;/f0&gt;&lt;f1&gt;Invio&lt;/f1&gt;&lt;f2&gt; può anche essere usato per entrare ed uscire dal modo modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The automatic page break lines are then displayed&lt;/f0&gt;&lt;f1&gt; on the screen.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T161006Z">
@@ -4238,6 +4246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t0&gt;Figure 23&lt;/t0&gt; shows how to do this.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122356Z" creationid="michele" creationdate="20160525T122356Z">
+        <seg>La &lt;t0&gt;Figura 23&lt;/t0&gt; mostra come fare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t0&gt;Figure 283&lt;/t0&gt; shows the budget spreadsheet your coach submitted.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160423T122031Z" creationid="luciano" creationdate="20160423T122031Z">
@@ -4322,6 +4338,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160524T101517Z" creationid="luciano" creationdate="20160524T101517Z">
         <seg>Una &lt;i0/&gt;macro è una sequenza di comandi o di tasti memorizzati per un utilizzo successivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A &lt;is0/&gt;range&lt;ie1/&gt; of cells can be selected using the keyboard or the mouse.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T123014Z" creationid="michele" creationdate="20160525T123014Z">
+        <seg>Potete selezionare &lt;is0/&gt;un intervallo&lt;ie1/&gt; di celle usando la tastiera o il mouse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6038,6 +6062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cells can be selected using a number of methods and in a variety of combinations and quantities.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122903Z" creationid="michele" creationdate="20160525T122903Z">
+        <seg>Le celle possono essere selezionate usando una serie di metodi e una varietà di combinazioni e quantità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cells hold the individual elements—text, numbers, formulas, and so on—that make up the data to display and manipulate.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T162544Z">
@@ -6766,6 +6798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click in a cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T123020Z" creationid="michele" creationdate="20160525T123020Z">
+        <seg>Fate clic in una cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click in an empty space at the end of the line of sheet tabs.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T143015Z" creationid="antonio" creationdate="20160524T143015Z">
@@ -6778,6 +6818,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T134129Z" creationid="Luciano B." creationdate="20160325T164402Z">
         <seg>Fate clic nell'area (Sinistra, Centro, Destra) che volete configurare, quindi utilizzate i pulsanti per aggiungere gli elementi desiderati o modificare gli attributi del testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click in the cell which is to be one corner of the range of cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T123029Z" creationid="michele" creationdate="20160525T123029Z">
+        <seg>Fate clic nella cella che si troverà ad uno degli angoli dell'intervallo di celle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7026,6 +7074,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T093441Z" creationid="michele" creationdate="20160524T093441Z">
         <seg>Fare clic per cambiare modalità&lt;f0&gt;STD&lt;/f0&gt; (&lt;f1&gt;Standard&lt;/f1&gt;), &lt;f2&gt;EXT&lt;/f2&gt; (&lt;f3&gt;Estesa&lt;/f3&gt;), e &lt;f4&gt;ADD&lt;/f4&gt; (&lt;f5&gt;Con aggiunta&lt;/f5&gt;) .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clicking on one of the sheet tabs at the bottom of the spreadsheet selects that sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122341Z" creationid="michele" creationdate="20160525T122341Z">
+        <seg>Facendo clic su una delle schede dei fogli alla base del foglio elettronico, si seleziona il relativo foglio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8286,6 +8342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each sheet in a spreadsheet is independent of the others, though they can be linked with references from one sheet to another.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122330Z" creationid="michele" creationdate="20160525T122330Z">
+        <seg>Ciascun singolo foglio di un foglio elettronico è indipendente dagli altri, anche se può essere collegato con riferimenti ad un altro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Each spreadsheet can have many sheets, and each sheet can have many individual cells.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T162552Z">
@@ -8960,8 +9024,16 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;: Customizing the effect of the Enter key</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122143Z" creationid="michele" creationdate="20160525T122143Z">
-        <seg>Figura &lt;seq0&gt;22&lt;/seq0&gt;: Customizing the effect of the Enter key</seg>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122213Z" creationid="michele" creationdate="20160525T122143Z">
+        <seg>Figura &lt;seq0&gt;22&lt;/seq0&gt;: Personalizzare l'effetto del tasto invio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;23&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122802Z" creationid="michele" creationdate="20160525T122802Z">
+        <seg>Figura &lt;seq0&gt;23&lt;/seq0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10478,6 +10550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hold down the &lt;f0&gt;Shift&lt;/f0&gt; key and &lt;f1&gt;click&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T123052Z" creationid="michele" creationdate="20160525T123052Z">
+        <seg>Tenendo premuto il tasto &lt;f0&gt;Maiusc&lt;/f0&gt; fate &lt;f1&gt;clic&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How can I contribute to LibreOffice?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084538Z">
@@ -11006,6 +11086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If this is the case, then the four buttons at the left of the sheet tabs can move the tabs into view.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122345Z" creationid="michele" creationdate="20160525T122345Z">
+        <seg>In questo caso, potete usare i quattro pulsanti a sinistra delle schede dei fogli per poterli vedere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If this option is &lt;f0&gt;not&lt;/f0&gt; selected, the &lt;f1&gt;win&lt;/f1&gt; search pattern acts like &lt;f2&gt;.*win.* &lt;/f2&gt;—the search pattern can be at any position within the cell when searching with the Calc database functions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T152911Z" creationid="steevie" creationdate="20160427T152911Z">
@@ -11154,6 +11242,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T143227Z" creationid="michele" creationdate="20160524T143227Z">
         <seg>Se non lo fate le modifiche apportate dall'ultimo salvataggio saranno visualizzate solo nella versione Microsoft Excel del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have a lot of sheets, then some of the sheet tabs may be hidden behind the horizontal scroll bar at the bottom of the screen.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122343Z" creationid="michele" creationdate="20160525T122343Z">
+        <seg>Se avete numerosi fogli, alcune delle schede dei fogli potrebbero essere nascoste dietro la barra di scorrimento orizzontale alla base dello schermo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12662,6 +12758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Left-click in the cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122908Z" creationid="michele" creationdate="20160525T122908Z">
+        <seg>Fate clic nella cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice 3.4 Calc Guide</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20160129T123530Z">
@@ -13222,10 +13326,58 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move left one sheet</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122745Z" creationid="michele" creationdate="20160525T122745Z">
+        <seg>Sposta di un foglio a sinistra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move right one sheet</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122747Z" creationid="michele" creationdate="20160525T122747Z">
+        <seg>Sposta di un foglio a destra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move the current field to the last place.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T150506Z" creationid="luciano" creationdate="20160509T150506Z">
         <seg>Sposta nell'ultima prima posizione il campo attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move the mouse around the screen.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T123023Z" creationid="michele" creationdate="20160525T123023Z">
+        <seg>Muovete il mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move the mouse to the opposite corner of the range of cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T123031Z" creationid="michele" creationdate="20160525T123031Z">
+        <seg>Portate il mouse all'angolo opposto dell'intervallo desiderato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move to the first sheet</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122743Z" creationid="michele" creationdate="20160525T122743Z">
+        <seg>Sposta al primo foglio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move to the last sheet</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122749Z" creationid="michele" creationdate="20160525T122749Z">
+        <seg>Sposta all'ultimo foglio</seg>
       </tuv>
     </tu>
     <tu>
@@ -13455,6 +13607,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moving from sheet to sheet</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122327Z" creationid="michele" creationdate="20160525T122327Z">
+        <seg>Spostarsi da un foglio all'altro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moving toolbars</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T133821Z" creationid="michele" creationdate="20160414T133821Z">
@@ -13651,6 +13811,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T144324Z" creationid="steevie" creationdate="20160427T143852Z">
         <seg>Notate che c'è un cursore tra la barra di scorrimento orizzontale e il divisorio dei fogliche può essere spostato a un estremo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notice that the sheets here are not in number order.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122421Z" creationid="michele" creationdate="20160525T122421Z">
+        <seg>Notate che i fogli non sono numerati in ordine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14015,6 +14183,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once the desired block of cells is highlighted, release the left mouse button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T123025Z" creationid="michele" creationdate="20160525T123025Z">
+        <seg>Dopo aver evidenziato il blocco di celle desiderato, rilasciate il pulsante sinistro del mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once you have created the macro in the &lt;f4&gt;LibreOffice&lt;/f4&gt; Basic IDE, it appears in the source text of the HTML document in the header.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T125629Z" creationid="steevie" creationdate="20160427T125629Z">
@@ -14367,6 +14543,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Otherwise, they appear faded.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122740Z" creationid="michele" creationdate="20160525T122740Z">
+        <seg>Sennò, appaiono piegate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OutputPosition</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133540Z" creationid="steevie" creationdate="20160517T133540Z">
@@ -14663,10 +14847,26 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press and hold down the left mouse button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T123022Z" creationid="michele" creationdate="20160525T123022Z">
+        <seg>Tenete premuto il pulsante sinistro del mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press the &lt;f0&gt;Control+N&lt;/f0&gt; keys.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T104000Z" creationid="michele" creationdate="20160524T104000Z">
         <seg>Premendo i tasti&lt;f0&gt;CTRL+N&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pressing &lt;f0&gt;Control+Page Down&lt;/f0&gt;&lt;f1&gt; moves one sheet to the right and pressing &lt;/f1&gt;&lt;f2&gt;Control+Page Up&lt;/f2&gt;&lt;f3&gt; moves one sheet to the left.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122337Z" creationid="michele" creationdate="20160525T122337Z">
+        <seg>Premendo &lt;f0&gt;Ctrl+Pag Giù&lt;/f0&gt;&lt;f1&gt; ci si sposta a destra di un foglio e premendo &lt;/f1&gt;&lt;f2&gt;Ctrl+Pag Su&lt;/f2&gt;&lt;f3&gt; di un foglio a sinistra.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15307,6 +15507,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T143017Z" creationid="steevie" creationdate="20160504T143017Z">
         <seg>ROW_HEADER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Range of contiguous cells</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122924Z" creationid="michele" creationdate="20160525T122924Z">
+        <seg>Intervallo di celle contigue</seg>
       </tuv>
     </tu>
     <tu>
@@ -16359,6 +16567,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selecting &lt;is0/&gt;cells</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122819Z" creationid="michele" creationdate="20160525T122819Z">
+        <seg>Selezionare &lt;is0/&gt;celle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Selecting items in a sheet or spreadsheet</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T212050Z">
@@ -16631,6 +16847,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sheet tab arrows</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122810Z" creationid="michele" creationdate="20160525T122810Z">
+        <seg>Frecce delle schede dei fogli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sheet tabs</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T084524Z" creationid="michele" creationdate="20160524T084524Z">
@@ -16651,6 +16875,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T135803Z" creationid="antonio" creationdate="20160524T135803Z">
         <seg>I Fogli in Calc sono gestiti utilizzando schede nella parte inferiore del foglio di lavoro.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sheets may have their positions moved around (see &lt;bf0&gt;Moving and copying sheets&lt;/bf0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122504Z" creationid="michele" creationdate="20160525T122504Z">
+        <seg>I fogli possono essere spostati (vedi &lt;bf0&gt;Spostare e copiare fogli&lt;/bf0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16859,6 +17091,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T151559Z" creationid="steevie" creationdate="20160503T151559Z">
         <seg>Un foglio di calcolo come semplice pagella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Single cell</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122905Z" creationid="michele" creationdate="20160525T122905Z">
+        <seg>Singola cella</seg>
       </tuv>
     </tu>
     <tu>
@@ -17992,6 +18232,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Status bar shows that Sheet7 is in position three of the eight sheets in the book.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122605Z" creationid="michele" creationdate="20160525T122605Z">
+        <seg>La barra di stato mostra che il Foglio7 è terzo su otto fogli totali del libro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Style dialog has several tabs.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160509T080547Z" creationid="briga" creationdate="20160509T080539Z">
@@ -18761,6 +19009,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The result will look like the left side of &lt;t0&gt;Figure 21&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122919Z" creationid="michele" creationdate="20160525T122919Z">
+        <seg>Il risultato sarà simile a quello mostrato nella parte sinistra della &lt;t0&gt;Figura 21&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The selections are self-explanatory.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T155022Z" creationid="Luciano B." creationdate="20160326T155022Z">
@@ -18781,6 +19037,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T092634Z" creationid="michele" creationdate="20160524T092634Z">
         <seg>Il numero sequenziale potrebbe non corrispondere con il nome assegnato nella linguetta del foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The sheet tab arrows that appear in &lt;t0&gt;Figure 23&lt;/t0&gt; only appear if you have some sheet tabs that can not be seen.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122718Z" creationid="michele" creationdate="20160525T122718Z">
+        <seg>Le frecce delle schede dei fogli, visibili in &lt;t0&gt;Figura 23&lt;/t0&gt;, compaiono solo se ci sono delle schede con non possono essere visualizzate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18933,6 +19197,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T140900Z" creationid="antonio" creationdate="20160524T140900Z">
         <seg>Ci sono di versi modi per inserire un nuovo foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are three ways to navigate between different sheets in a spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122332Z" creationid="michele" creationdate="20160525T122332Z">
+        <seg>Potete navigare tra i diversi fogli di un foglio elettronico in tre modi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20297,6 +20569,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To select a range of cells by dragging the mouse:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T123017Z" creationid="michele" creationdate="20160525T123017Z">
+        <seg>Per selezionare un intervallo di celle trascinando il mouse:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To select a range of cells without dragging the mouse:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T123027Z" creationid="michele" creationdate="20160525T123027Z">
+        <seg>Per selezionare un intervallo di celle senza trascinare il mouse:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To set a header or footer:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T165515Z">
@@ -20913,6 +21201,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the first two options under &lt;/f2&gt;&lt;f3&gt;Input settings&lt;/f3&gt;&lt;f4&gt; in &lt;/f4&gt;&lt;f5&gt;&lt;t6&gt;Figure 22&lt;/t6&gt;&lt;/f5&gt;&lt;f7&gt; to change the &lt;/f7&gt;&lt;f8&gt;Enter&lt;/f8&gt;&lt;f9&gt; key settings.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122314Z" creationid="michele" creationdate="20160525T122314Z">
+        <seg>Utilizzate le prime due opzioni sotto la voce &lt;/f2&gt;&lt;f3&gt;Impostazioni di immissione&lt;/f3&gt;&lt;f4&gt; in &lt;/f4&gt;&lt;f5&gt;&lt;t6&gt;Figura 22&lt;/t6&gt;&lt;/f5&gt;&lt;f7&gt; per modificare le impostazioni del tasto &lt;/f7&gt;&lt;f8&gt;Invio&lt;/f8&gt;&lt;f9&gt;.&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the methods hasByName(name) and getByName(name) to verify and retrieve a named range.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T140016Z" creationid="steevie" creationdate="20160504T140016Z">
@@ -21301,6 +21597,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160425T120446Z" creationid="luciano" creationdate="20160425T120446Z">
         <seg>Utilizzando le diverse impostazioni, è possibile controllare quali modifiche far apparire sullo schermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the keyboard</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122334Z" creationid="michele" creationdate="20160525T122334Z">
+        <seg>Usare la tastiera</seg>
       </tuv>
     </tu>
     <tu>
@@ -22721,6 +23025,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can verify your selection by looking in the Name Box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122921Z" creationid="michele" creationdate="20160525T122921Z">
+        <seg>Potete verificare la selezione guardando la Casella del nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You cannot create new types.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T101341Z" creationid="michele" creationdate="20160525T101341Z">
@@ -23793,6 +24105,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>moving from sheet to sheet</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122322Z" creationid="michele" creationdate="20160525T122322Z">
+        <seg>Spostarsi da un foglio all'altro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>multiple pages per sheet</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160314T140722Z">
@@ -23813,6 +24133,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T133924Z" creationid="steevie" creationdate="20160504T133924Z">
         <seg>intervallo con nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>navigating</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122324Z" creationid="michele" creationdate="20160525T122324Z">
+        <seg>navigazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -24157,6 +24485,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T150358Z" creationid="Luciano B." creationdate="20160329T150358Z">
         <seg>impostazioni di sicurezza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>selecting</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122813Z" creationid="michele" creationdate="20160525T122813Z">
+        <seg>selezionare</seg>
       </tuv>
     </tu>
     <tu>
