@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3030,6 +3030,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Contents.&lt;/f0&gt; Shows or hides the list of categories.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T155722Z" creationid="michele" creationdate="20160525T155722Z">
+        <seg>&lt;f0&gt;Contenuto.&lt;/f0&gt; Mostra o nasconde la lista delle categorie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Control+&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;←&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T103636Z" creationid="michele" creationdate="20160525T103636Z">
@@ -3086,6 +3094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Data Range.&lt;/f0&gt; Specifies the current data range denoted by the position of the cell cursor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T155353Z" creationid="michele" creationdate="20160525T155353Z">
+        <seg>&lt;f0&gt;Area dati.&lt;/f0&gt; Specifica l'area dati corrente denotata dalla posizione del cursore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Data&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;contains commands for manipulating data in your spreadsheet such as &lt;/f2&gt;&lt;f3&gt;Define Range, Sort,&lt;/f3&gt;&lt;f4&gt; and &lt;/f4&gt;&lt;f5&gt;Filter.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160323T163322Z">
@@ -3122,6 +3138,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T145638Z" creationid="michele" creationdate="20160525T145638Z">
         <seg>&lt;f0&gt;Doppio-clic&lt;/f0&gt; sulla barra delle percentuali nella barra di stato alla base della finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Drag Mode.&lt;/f0&gt; Choose hyperlink, link, or copy.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T160012Z" creationid="michele" creationdate="20160525T160012Z">
+        <seg>&lt;f0&gt;Modo trascinamento.&lt;/f0&gt; Scegli hyperlink, link, o copia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3750,6 +3774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Scenarios.&lt;/f0&gt; Displays all available scenarios.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T155841Z" creationid="michele" creationdate="20160525T155841Z">
+        <seg>&lt;f0&gt;Scenari.&lt;/f0&gt; Mostra tutti gli scenari disponibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Insert&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt; &gt; &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Sheet&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; from the menu bar.&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T142825Z" creationid="antonio" creationdate="20160524T142825Z">
@@ -3850,6 +3882,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T155955Z" creationid="steevie" creationdate="20160428T155920Z">
         <seg>&lt;f0&gt;Cattura alla griglia&lt;/f0&gt; abilita la funzione allineamento automatico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Start/End.&lt;/f0&gt; Moves to the cell at the beginning or end of the current data range, which you can highlight using the &lt;f1&gt;Data Range&lt;/f1&gt; button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T155615Z" creationid="michele" creationdate="20160525T155615Z">
+        <seg>&lt;f0&gt;Inizio/Fine.&lt;/f0&gt; Sposta le celle all'inizio o alla fine dell'area dati corrente, che può essere evidenziata usando il bottone &lt;f1&gt;Area Dati&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4010,6 +4050,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T164826Z">
         <seg>&lt;f0&gt;Per rimuovere solamente alcune aree di stampa, fate riferimento a "&lt;/f0&gt;&lt;f1&gt;&lt;rf2&gt;Modificare un'area di stampa&lt;/rf2&gt;&lt;/f1&gt;&lt;f3&gt;" più sotto.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Toggle.&lt;/f0&gt; Switches between showing all categories and showing only the selected category.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T155819Z" creationid="michele" creationdate="20160525T155819Z">
+        <seg>&lt;f0&gt;Commuta.&lt;/f0&gt; Cambia la visualizzazione tra tutte le categorie e solo quelle selezionate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4218,6 +4266,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T160543Z" creationid="Luciano B." creationdate="20160411T160101Z">
         <seg>&lt;f17&gt;Inserisci &gt; Frame&lt;/f17&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;Double-click&lt;/f1&gt; a name to apply that scenario.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T155907Z" creationid="michele" creationdate="20160525T155907Z">
+        <seg>&lt;f1&gt;Doppio clic&lt;/f1&gt; un nome da applicare allo scenario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4826,6 +4882,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090330Z">
         <seg>Ringraziamenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Action</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T155301Z" creationid="michele" creationdate="20160525T155301Z">
+        <seg>Azione</seg>
       </tuv>
     </tu>
     <tu>
@@ -11422,6 +11486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Icon</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T155258Z" creationid="michele" creationdate="20160525T155258Z">
+        <seg>Icona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Identifying copies of spreadsheets</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160422T160307Z" creationid="luciano" creationdate="20160422T155632Z">
@@ -14591,6 +14663,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moving quickly through a document</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T160055Z" creationid="michele" creationdate="20160525T160055Z">
+        <seg>Spostarsi rapidamente all'interno di un documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moving sheets</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T133953Z" creationid="michele" creationdate="20160525T133953Z">
@@ -17303,6 +17383,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See Chapter 9, Data Analysis, for more information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T155930Z" creationid="michele" creationdate="20160525T155930Z">
+        <seg>Vedi Capitolo 9, Analisi Dati, per ulteriori informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See Chapter 14, Setting Up and Customizing Calc, for details.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160405T162236Z">
@@ -17339,6 +17427,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T093531Z" creationid="michele" creationdate="20160524T093531Z">
         <seg>Vecdi pagina &lt;bf8&gt;35&lt;/bf8&gt; per ulteriori informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See “&lt;bf1&gt;Choosing a drag mode&lt;/bf1&gt;” for details.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T160053Z" creationid="michele" creationdate="20160525T160053Z">
+        <seg>Vedi“&lt;bf1&gt;Scegliere una modalità di trascinamento&lt;/bf1&gt;” per maggiori dettagli.</seg>
       </tuv>
     </tu>
     <tu>
