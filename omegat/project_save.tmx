@@ -3798,6 +3798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The four choices for the direction of the &lt;/f0&gt;&lt;f1&gt;Enter&lt;/f1&gt;&lt;f2&gt; key are shown on the right hand side of &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Figure 22&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T110133Z" creationid="michele" creationdate="20160525T110133Z">
+        <seg>&lt;f0&gt;Le quattro possibili direzioni in cui si muove il tasto &lt;/f0&gt;&lt;f1&gt;Invio&lt;/f1&gt;&lt;f2&gt; sono mostrate nella parte destra della &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Figura 22&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The term &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;graphics&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; refers to both pictures and drawing objects.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="mauri" changedate="20160226T193307Z">
@@ -7734,6 +7742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Customizing&lt;i0/&gt; the effect of the &lt;f1&gt;Enter&lt;/f1&gt; key</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T105543Z" creationid="michele" creationdate="20160525T105543Z">
+        <seg>personalizzare&lt;i0/&gt; l'effetto del tasto &lt;f1&gt;Invio&lt;/f1&gt; key</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>D</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T151602Z" creationid="steevie" creationdate="20160503T151602Z">
@@ -8378,6 +8394,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T105341Z" creationid="michele" creationdate="20160525T105341Z">
         <seg>Invio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter key</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T105525Z" creationid="michele" creationdate="20160525T105525Z">
+        <seg>Tasto Invio</seg>
       </tuv>
     </tu>
     <tu>
@@ -16647,6 +16671,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shift+Enter</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T105429Z" creationid="michele" creationdate="20160525T105429Z">
+        <seg>Maiusc+invio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shift+F11</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T152734Z" creationid="luciano" creationdate="20160509T152734Z">
@@ -20641,6 +20673,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Up one cell (unless changed by user)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T105454Z" creationid="michele" creationdate="20160525T105454Z">
+        <seg>In alto di una cella (se non cambiato dall'utente)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Updates the selected chart.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160505T163332Z" creationid="luciano" creationdate="20160505T163332Z">
@@ -22365,6 +22405,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160505T081119Z" creationid="briga" creationdate="20160505T081119Z">
         <seg>Potete creare tasti di scelta rapida per applicare stili di cella o di pagina comunemente usati, inclusi quelli personalizzati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can customize the direction in which the &lt;f0&gt;Enter&lt;/f0&gt; key moves the focus, by selecting &lt;f1&gt;Tools &gt; Options &gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;LibreOffice&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Calc &gt; General&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T110100Z" creationid="michele" creationdate="20160525T110100Z">
+        <seg>Puoi personalizzare la direzione nella quale il tasto &lt;f0&gt;invio&lt;/f0&gt; sposta la selezione, selezionando &lt;f1&gt;Strumenti &gt; Opzioni &gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;LibreOffice&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Calc &gt; Generale&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
