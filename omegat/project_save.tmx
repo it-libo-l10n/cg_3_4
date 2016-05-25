@@ -7182,6 +7182,38 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Control+End</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T104815Z" creationid="michele" creationdate="20160525T104815Z">
+        <seg>Ctrl+End</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Control+Home</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T104750Z" creationid="michele" creationdate="20160525T104750Z">
+        <seg>Ctrl+Home</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Control+Page Down</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T105022Z" creationid="michele" creationdate="20160525T105022Z">
+        <seg>Ctrl+pagina giù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Control+Page Up</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T105156Z" creationid="michele" creationdate="20160525T105156Z">
+        <seg>Ctrl+Pagina su</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Control+click</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084219Z">
@@ -8054,6 +8086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Down one cell (unless changed by user)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T105401Z" creationid="michele" creationdate="20160525T105401Z">
+        <seg>In basso di una cella (se non cambiato dall'utente)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download an extension and save it anywhere on your computer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T173228Z" creationid="steevie" creationdate="20160428T173228Z">
@@ -8330,6 +8370,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160330T085458Z" creationid="briga" creationdate="20160330T085458Z">
         <seg>Assicuratevi che la finestra Stili e formattazione sia aperta premendo i tasto &lt;f0&gt;F11&lt;/f0&gt; oppure selezionando &lt;f1&gt;Formato &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Stili e formattazione&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T105341Z" creationid="michele" creationdate="20160525T105341Z">
+        <seg>Invio</seg>
       </tuv>
     </tu>
     <tu>
@@ -13927,6 +13975,38 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One screen to the left (if possible)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T105003Z" creationid="michele" creationdate="20160525T105003Z">
+        <seg>Una schermata a sinistra (se possibile)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One screen to the right (if possible)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T104945Z" creationid="michele" creationdate="20160525T104945Z">
+        <seg>Una schermata a destra (se possibile)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One sheet to the left (in sheet tabs)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T105126Z" creationid="michele" creationdate="20160525T105126Z">
+        <seg>Un foglio di lavoro a sinistra (linguette dei fogli)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One sheet to the right (in sheet tabs)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T105114Z" creationid="michele" creationdate="20160525T105114Z">
+        <seg>Un foglio di lavoro a destra (linguette dei fogli)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only buy 2 spare gloves.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160423T122950Z" creationid="luciano" creationdate="20160423T122950Z">
@@ -17376,6 +17456,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tab</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T105256Z" creationid="michele" creationdate="20160525T105256Z">
+        <seg>Scheda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Table &lt;seq0&gt;13&lt;/seq0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T151541Z" creationid="steevie" creationdate="20160503T151541Z">
@@ -19497,6 +19585,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To Cell A1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T104808Z" creationid="michele" creationdate="20160525T104808Z">
+        <seg>Alla Cella A1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To access a toolbar’s customization options, use the down-arrow at the end of the toolbar or on its title bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T135757Z" creationid="michele" creationdate="20160414T135757Z">
@@ -19905,6 +20001,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To lower right-hand corner of the rectangular area containing data</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T104904Z" creationid="michele" creationdate="20160525T104904Z">
+        <seg>Nell'angolo in basso a destra dell'area rettangolare che contiene i dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To make these changes, use the record changes feature in Calc.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T145710Z" creationid="luciano" creationdate="20160423T123048Z">
@@ -20233,6 +20337,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To the next cell on the left</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T105337Z" creationid="michele" creationdate="20160525T105337Z">
+        <seg>Alla cella successiva sulla sinistra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To the next cell on the right</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T105320Z" creationid="michele" creationdate="20160525T105320Z">
+        <seg>Alla cella successiva sulla destra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To the next column to the left containing data in that row or to Column A</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T104143Z" creationid="michele" creationdate="20160525T104143Z">
@@ -20253,6 +20373,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T104347Z" creationid="michele" creationdate="20160525T104347Z">
         <seg>Alla riga soprastante che contenga dati nella stessa colonna o alla Riga 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To the next row below containing data in that column or to Row 1048576</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T104609Z" creationid="michele" creationdate="20160525T104609Z">
+        <seg>Alla riga successiva che contenga dati nella stessa colonna o alla Riga 1048576</seg>
       </tuv>
     </tu>
     <tu>
