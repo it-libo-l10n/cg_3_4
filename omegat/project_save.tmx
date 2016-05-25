@@ -3800,8 +3800,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The four choices for the direction of the &lt;/f0&gt;&lt;f1&gt;Enter&lt;/f1&gt;&lt;f2&gt; key are shown on the right hand side of &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Figure 22&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160525T110133Z" creationid="michele" creationdate="20160525T110133Z">
-        <seg>&lt;f0&gt;Le quattro possibili direzioni in cui si muove il tasto &lt;/f0&gt;&lt;f1&gt;Invio&lt;/f1&gt;&lt;f2&gt; sono mostrate nella parte destra della &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Figura 22&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;.</seg>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T121928Z" creationid="michele" creationdate="20160525T110133Z">
+        <seg>&lt;f0&gt;Le quattro possibili scelte per il tasto &lt;/f0&gt;&lt;f1&gt;Invio&lt;/f1&gt;&lt;f2&gt; sono mostrate nella parte destra della &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Figura 22&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7942,6 +7942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Depending on the file being used or on the type of data being entered, setting a different direction can be useful.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122139Z" creationid="michele" creationdate="20160525T122139Z">
+        <seg>A seconda del file usato e del tipo di dato inserito, selezionare una direzione diversa può essere utile.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Description</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142901Z" creationid="steevie" creationdate="20160504T142901Z">
@@ -8946,6 +8954,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T095435Z" creationid="michele" creationdate="20160525T095435Z">
         <seg>Figura &lt;seq0&gt;21&lt;/seq0&gt;: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;: Customizing the effect of the Enter key</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122143Z" creationid="michele" creationdate="20160525T122143Z">
+        <seg>Figura &lt;seq0&gt;22&lt;/seq0&gt;: Customizing the effect of the Enter key</seg>
       </tuv>
     </tu>
     <tu>
@@ -12322,6 +12338,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133133Z" creationid="steevie" creationdate="20160517T133133Z">
         <seg>IsCaseSensitive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It can move the focus down, right, up, or left.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122002Z" creationid="michele" creationdate="20160525T122002Z">
+        <seg>Può spostare la selezione giù, a destra, su, o a sinistra.</seg>
       </tuv>
     </tu>
     <tu>
