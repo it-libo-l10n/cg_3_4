@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3102,6 +3102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Double-click&lt;/f0&gt; on the percentage figure in the Status bar at the bottom of the window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T145638Z" creationid="michele" creationdate="20160525T145638Z">
+        <seg>&lt;f0&gt;Doppio-clic&lt;/f0&gt; sulla barra delle percentuali nella barra di stato alla base della finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Each method opens &lt;/f0&gt;&lt;f1&gt;the Insert Sheet dia&lt;/f1&gt;&lt;f2&gt;log.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T144014Z" creationid="antonio" creationdate="20160524T144014Z">
@@ -5414,6 +5422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Apart from the first character of the sheet name, allowed characters are letters, numbers, spaces, and the underscore character.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T145208Z" creationid="michele" creationdate="20160525T145208Z">
+        <seg>A parte il primo carattere del nome del foglio, i caratteri permessi includono lettere, numeri, spazi, e caratteri sottolineati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Appearance options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T122936Z" creationid="steevie" creationdate="20160421T122936Z">
@@ -5602,6 +5618,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160425T115142Z" creationid="luciano" creationdate="20160425T115142Z">
         <seg>A questo punto, stiamo modificando il nostro punto di vista, passando da quello dello sponsor della squadra a quello dell'allenatore, così da poter revisionare il documento scritto in origine dall'allenatore per accettare o rifiutare le modifiche apportate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Attempting to rename a sheet with an invalid name will produce an error message.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T145210Z" creationid="michele" creationdate="20160525T145210Z">
+        <seg>Se si cerca di rinominare un foglio con un nome non valido apparirà un messaggio di errore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6754,6 +6778,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T145039Z" creationid="steevie" creationdate="20160418T145039Z">
         <seg>Scegliete &lt;f0&gt;Strumenti &gt; Catalogo&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;View &gt; Zoom&lt;/f0&gt; from the Menu bar, or</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T145546Z" creationid="michele" creationdate="20160525T145546Z">
+        <seg>Seleziona &lt;f0&gt;visualizza &gt; Zoom&lt;/f0&gt; dalla barra dei menu, o</seg>
       </tuv>
     </tu>
     <tu>
@@ -9582,6 +9614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;29&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T145642Z" creationid="michele" creationdate="20160525T145642Z">
+        <seg>Figura &lt;seq0&gt;29&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Parts of the Calc window</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T164134Z">
@@ -12194,6 +12234,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T152120Z" creationid="steevie" creationdate="20160428T152120Z">
         <seg>In addition to the supplied lists, you can define and edit your own lists, as described in “Defining a fill series” in Chapter 2, Entering, Editing, and Formatting Data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition to using the Zoom slider on the Status bar (see page &lt;bf0&gt;24&lt;/bf0&gt;), you can open the Zoom &lt;is1/&gt;dialog&lt;ie2/&gt; and make a selection on the left-hand side.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T145500Z" creationid="michele" creationdate="20160525T145500Z">
+        <seg>Otre all'uso del cursore dello Zoom sulla barra di stato (vedi pagina &lt;bf0&gt;24&lt;/bf0&gt;), puoi aprire la finestra di &lt;is1/&gt;dialogo &lt;ie2/&gt; Zoom ed effettuare una selezione sul lato sinistro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17615,6 +17663,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sheet names must start with either a letter or a number; other characters including spaces are not allowed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T145139Z" creationid="michele" creationdate="20160525T145139Z">
+        <seg>Il nome dei fogli deve cominciare con una lettera o con un numero; altri caratteri incluso gli spazi non sono permessi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sheet sequence number (&lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T092418Z" creationid="michele" creationdate="20160524T092418Z">
@@ -22209,6 +22265,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the &lt;is0/&gt;zoom&lt;ie1/&gt; function to change the view to show more or fewer cells in the window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T145245Z" creationid="michele" creationdate="20160525T145245Z">
+        <seg>Usate la funzione &lt;is0/&gt;zoom&lt;ie1/&gt; per modificare la visualizzazione e mostrare più o meno celle nella finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the Define Names dialog to add and modify one named range at a time.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T135616Z" creationid="steevie" creationdate="20160504T135616Z">
@@ -22669,6 +22733,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T103106Z">
         <seg>Usare il menu contestuale delle immagini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using zoom</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T145219Z" creationid="michele" creationdate="20160525T145219Z">
+        <seg>Usare lo zoom</seg>
       </tuv>
     </tu>
     <tu>
@@ -24361,6 +24433,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Zoom dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T145651Z" creationid="michele" creationdate="20160525T145651Z">
+        <seg>Finestra di dialogo Zoom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Zoom&lt;ie0/&gt; section</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T065010Z" creationid="steevie" creationdate="20160427T144408Z">
@@ -25933,6 +26013,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160425T115809Z" creationid="luciano" creationdate="20160425T115809Z">
         <seg>visualizzare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>viewing Calc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T145215Z" creationid="michele" creationdate="20160525T145215Z">
+        <seg>Viste di Calc</seg>
       </tuv>
     </tu>
     <tu>
