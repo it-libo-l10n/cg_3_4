@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(left) One selected cell and (right) a group of selected cells</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T095502Z" creationid="michele" creationdate="20160525T095502Z">
+        <seg>selezione di una cella (a sinistra) e di un gruppo di celle (a destra)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>.*win</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T152538Z" creationid="steevie" creationdate="20160427T152538Z">
@@ -3078,6 +3086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;End&lt;/f0&gt; moves the focus to the column furthest to the right that contains data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T095715Z" creationid="michele" creationdate="20160525T095715Z">
+        <seg>Il tasto &lt;f0&gt;Fine&lt;/f0&gt; sposta la selezione alla colonna contenente dati più a destra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Ensure &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Document (Global)&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; is selected in the Scope box.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T151849Z">
@@ -3234,6 +3250,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T160458Z" creationid="Luciano B." creationdate="20160326T160458Z">
         <seg>&lt;f0&gt;Nascondi controlli finestra:&lt;/f0&gt; Fa sì che il visualizzatore di PDF nasconda altri controlli finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Home&lt;/f0&gt; moves the focus to the start of a row.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T095710Z" creationid="michele" creationdate="20160525T095710Z">
+        <seg>Il tasto &lt;f0&gt;Inizio&lt;/f0&gt; sposta la selezione all'inizio della riga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3466,6 +3490,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T160339Z" creationid="Luciano B." creationdate="20160326T160339Z">
         <seg>&lt;f0&gt;Apri in modalità schermo intero:&lt;/f0&gt; Fa sì che il visualizzatore di PDF apra a pieno schermo invece che in una finestra più piccola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Page Down&lt;/f0&gt; moves the display down one complete screen and &lt;f1&gt;Page Up&lt;/f1&gt; moves the display up one complete screen.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T095721Z" creationid="michele" creationdate="20160525T095721Z">
+        <seg>Il tasto &lt;f0&gt;Pag giù&lt;/f0&gt; sposta la visualizzazione più in basso di una videata e il tasto &lt;f1&gt;Pag su&lt;/f1&gt; la sposta di una videata in alto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8734,6 +8766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T095435Z" creationid="michele" creationdate="20160525T095435Z">
+        <seg>Figura &lt;seq0&gt;21&lt;/seq0&gt;: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;248&lt;/seq0&gt;: Creating a new sheet</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T143056Z" creationid="antonio" creationdate="20160524T143056Z">
@@ -10370,6 +10410,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T103819Z" creationid="michele" creationdate="20160524T103819Z">
         <seg>Se un documento è già aperto in &lt;f3&gt;LibreOffice&lt;/f3&gt;, il nuovo documento si apre in una nuova finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a group of cells is selected, they have a highlight color (usually gray), with the focus cell having a dark border.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T095430Z" creationid="michele" creationdate="20160525T095430Z">
+        <seg>Se un gruppo di celle viene selezionato, vengono generalmente evidenziate con un colore (di solito il grigio), con la cella selezionata che ha il bordo più scuro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14227,6 +14275,30 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T104000Z" creationid="michele" creationdate="20160524T104000Z">
         <seg>Premendo i tasti&lt;f0&gt;CTRL+N&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pressing &lt;f0&gt;Enter&lt;/f0&gt; or &lt;f1&gt;Shift+Enter&lt;/f1&gt; moves the focus down or up, respectively.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T095550Z" creationid="michele" creationdate="20160525T095550Z">
+        <seg>Premendo &lt;f0&gt;Invio&lt;/f0&gt; o &lt;f1&gt;Maiusc+Invio&lt;/f1&gt; la selezione si sposta, rispettivamente, in basso o in alto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pressing &lt;f0&gt;Tab&lt;/f0&gt; or &lt;f1&gt;Shift+Tab&lt;/f1&gt; moves the focus to the right or to the left, respectively.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T095555Z" creationid="michele" creationdate="20160525T095555Z">
+        <seg>Premendo &lt;f0&gt;Tab&lt;/f0&gt; o &lt;f1&gt;Maiusc+Tab&lt;/f1&gt; la selezione si sposta, rispettivamente, a destra o a sinistra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pressing&lt;i0/&gt;&lt;i1/&gt; the arrow keys on the keyboard moves the focus in the direction of the arrows.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T095651Z" creationid="michele" creationdate="20160525T095651Z">
+        <seg>Premendo&lt;i0/&gt;&lt;i1/&gt; le frecce sulla tastiera, la selezione si sposta nella direzione indicata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18529,6 +18601,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This action changes the focus to the new cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T095514Z" creationid="michele" creationdate="20160525T095514Z">
+        <seg>Questo sposta la selezione sulla nuova cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This adds the extra cells to the print range.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T161704Z">
@@ -18861,6 +18941,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153240Z">
         <seg>Questo metodo può essere utile per modificare rapidamente l'intervallo di stampa senza evidenziare una grande area di celle ogni volta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This method is most useful when the two cells are a large distance apart.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T095517Z" creationid="michele" creationdate="20160525T095517Z">
+        <seg>Questo metodo è utile soprattutto quando le due celle sono molto distanti tra loro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19525,6 +19613,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164113Z" creationid="steevie" creationdate="20160428T164113Z">
         <seg>Per spostare i sottomenu (come &lt;f0&gt;File | Invia&lt;/f0&gt;), selezionate il menu principale (File) nell'elenco del Menu, quindi, nella sezione Contenuto del menu della finestra di dialogo, selezionate il sottomenu (Invia) nell'elenco delle Voci e utilizzate i tasti freccia per spostarlo verso l'alto o verso il basso nella sequenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To move the focus using the mouse, simply move the mouse pointer to the cell where you want the focus to be and click the left mouse button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T095505Z" creationid="michele" creationdate="20160525T095505Z">
+        <seg>Per spostare la selezione utilizzando il mouse, è sufficiente spostare il puntatore del mouse sulla cella da selezionare e fare clic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20385,6 +20481,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using Home, End, Page Up and Page Down</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T095654Z" creationid="michele" creationdate="20160525T095654Z">
+        <seg>Usare i tasti Inizio, Fine, Pag su e Pag giù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using LibreOffice on a Mac</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090520Z">
@@ -20549,6 +20653,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160330T085529Z" creationid="briga" creationdate="20160330T085211Z">
         <seg>Usando la finestra Stili e formattazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the Tab and Enter keys</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T095519Z" creationid="michele" creationdate="20160525T095519Z">
+        <seg>Usare i tasti Tab e Invio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the arrow keys</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T095557Z" creationid="michele" creationdate="20160525T095557Z">
+        <seg>Usare le frecce</seg>
       </tuv>
     </tu>
     <tu>
@@ -22845,6 +22965,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T144843Z" creationid="steevie" creationdate="20160427T144843Z">
         <seg>Riferimenti circolari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>keyboard</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T095609Z" creationid="michele" creationdate="20160525T095609Z">
+        <seg>Tastiera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>keyboard keys</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T095620Z" creationid="michele" creationdate="20160525T095620Z">
+        <seg>Tasti della tastiera</seg>
       </tuv>
     </tu>
     <tu>
