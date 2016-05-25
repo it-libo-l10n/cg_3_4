@@ -5798,6 +5798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc provides two levels of document protection: &lt;f0&gt;read-protect&lt;/f0&gt; (file cannot be viewed without a password) and &lt;f1&gt;write-protect&lt;/f1&gt; (file can be viewed in read-only mode but cannot be changed without a password).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T081355Z" creationid="michele" creationdate="20160525T081355Z">
+        <seg>Writer fornisce due livelli di protezione dei documenti: &lt;f0&gt;protezione in lettura &lt;/f0&gt;(il file non può essere visualizzato senza una password) e &lt;f1&gt;protezione in scrittura &lt;/f1&gt;(il file può essere visualizzato in sola lettura, ma non può essere modificato senza una password).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc steps through the changes one at a time.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160426T155537Z" creationid="luciano" creationdate="20160426T155537Z">
