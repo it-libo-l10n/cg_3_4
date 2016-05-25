@@ -3366,6 +3366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;LibreOffice&lt;/f0&gt; uses a very strong encryption mechanism that makes it almost impossible to recover the contents of a document if you lose the password.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T090509Z" creationid="michele" creationdate="20160525T090509Z">
+        <seg>&lt;f0&gt;LibreOffice&lt;/f0&gt; usa un meccanismo di cifratura molto sicuro che rende quasi impossibile recuperare il contenuto di un documento, nel caso venga smarrita la password.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;LibreOffice&lt;/f0&gt;&lt;f1&gt; by default saves documents in &lt;/f1&gt;&lt;is2/&gt;&lt;f3&gt;OpenDocument Format&lt;/f3&gt;&lt;ie4/&gt;&lt;f5&gt; (ODF) version 1.2 Extended.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T125743Z" creationid="steevie" creationdate="20160421T125743Z">
@@ -5950,6 +5958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changing an existing password</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T090526Z" creationid="michele" creationdate="20160525T090526Z">
+        <seg>Cambiare una password</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changing default colors for charts</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160206T090158Z">
@@ -6542,6 +6558,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T090427Z" creationid="michele" creationdate="20160525T090427Z">
+        <seg>Fate clic su &lt;f0&gt;OK&lt;/f0&gt; per salvare il file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163613Z" creationid="steevie" creationdate="20160428T163613Z">
@@ -6842,6 +6866,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T082257Z" creationid="michele" creationdate="20160524T082257Z">
         <seg>Facendo clic sul bottone &lt;f0&gt;Creazione Guidata delle Funzioni &lt;/f0&gt;si apre una dinestra di dialogo tramite la quale è possibile selezionare una lista di funzioni disponibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Close the message box to return to the Set Password dialog and enter the password again.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T090436Z" creationid="michele" creationdate="20160525T090436Z">
+        <seg>Chiudete la finestra del messaggio per tornare a quella del dialogo Imposta Password e immettete nuovamente la password.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8646,6 +8678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Two levels of password protection</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T090425Z" creationid="michele" creationdate="20160525T090425Z">
+        <seg>Figura &lt;seq0&gt;20&lt;/seq0&gt;: i due livelli di protezione password</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;248&lt;/seq0&gt;: Creating a new sheet</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T143056Z" creationid="antonio" creationdate="20160524T143056Z">
@@ -10338,6 +10378,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T161057Z" creationid="Luciano B." creationdate="20160329T161057Z">
         <seg>Se risultano uguali, il programma vi segnalerà che state visualizzando il documento originale, non modificato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If either pair of passwords do not match, you receive an error message.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T090434Z" creationid="michele" creationdate="20160525T090434Z">
+        <seg>Se le password non coincidono, riceverete un messaggio di errore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18945,6 +18993,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To change an existing &lt;is0/&gt;password&lt;ie1/&gt; while the document is open:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T090616Z" creationid="michele" creationdate="20160525T090616Z">
+        <seg>Per cambiare una &lt;is0/&gt;password&lt;ie1/&gt; esistente mentre il documento è aperto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To change the appearance of the header or footer, click the &lt;f0&gt;More &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;button in the dialog&lt;/f2&gt;&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T133135Z" creationid="Luciano B." creationdate="20160406T133135Z">
@@ -19385,6 +19441,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To read-protect the document, type a password in the two fields at the top of the dialog .</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T090025Z" creationid="michele" creationdate="20160525T090025Z">
+        <seg>Per proteggere il file in lettura, digita la password nei due campi nella parte superiore della finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To remove a page break:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T154158Z">
@@ -19613,6 +19677,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160424T134222Z" creationid="luciano" creationdate="20160424T134222Z">
         <seg>Per visualizzare il commento appena aggiunto, portate il cursore del mouse sulla cella con il commento; il commento apparirà, come mostrato sotto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To write-protect the document but allow selected people to edit it, select the &lt;f0&gt;Open file read-only&lt;/f0&gt; option and type a password in the two boxes at the bottom of the dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T090355Z" creationid="michele" creationdate="20160525T090355Z">
+        <seg>Per proteggere in scrittura il documento, permettendone però la modifica ad alcuni utenti, selezionate la casella &lt;f0&gt;Apri file in sola lettura&lt;/f0&gt; e digitate una password nei due campi nella parte bassa della finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To write-protect the document, click the &lt;f0&gt;More Options&lt;/f0&gt; button and select the &lt;f1&gt;Open file read-only&lt;/f1&gt; option.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T090157Z" creationid="michele" creationdate="20160525T090157Z">
+        <seg>Per abilitare la protezione in scrittura, fai clic sul pulsante&lt;f0&gt;+ Opzioni&lt;/f0&gt; e seleziona l'opzione &lt;f1&gt;Apri il file in sola lettura&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19869,6 +19949,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T104057Z" creationid="michele" creationdate="20160524T104057Z">
         <seg>Tramite &lt;f0&gt;File &gt; Nuovo &gt; Foglio elettronico&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;f0&gt;File &gt; Properties&lt;/f0&gt; to open the spreadsheet properties dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T090750Z" creationid="michele" creationdate="20160525T090750Z">
+        <seg>Usa &lt;f0&gt;File &gt; Proprietà&lt;/f0&gt; per aprire la finestra di dialogo proprietà.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22765,6 +22853,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T133924Z" creationid="steevie" creationdate="20160504T133924Z">
         <seg>intervallo con nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>navigating within spreadsheets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T090513Z" creationid="michele" creationdate="20160525T090513Z">
+        <seg>Navigare nei fogli elettronici</seg>
       </tuv>
     </tu>
     <tu>
