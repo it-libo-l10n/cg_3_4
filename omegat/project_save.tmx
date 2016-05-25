@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3094,6 +3094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Double-click&lt;/f0&gt; on a sheet tab to open the Rename Sheet dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T144638Z" creationid="michele" creationdate="20160525T144638Z">
+        <seg>&lt;f0&gt;Doppio-clic&lt;/f0&gt; su una scheda diversa per aprire la finestra di dialogo Rinomina Foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Each method opens &lt;/f0&gt;&lt;f1&gt;the Insert Sheet dia&lt;/f1&gt;&lt;f2&gt;log.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T144014Z" creationid="antonio" creationdate="20160524T144014Z">
@@ -3682,6 +3690,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T084039Z" creationid="michele" creationdate="20160524T083956Z">
         <seg>&lt;f0&gt;fare clic con il pulsante secondario del mouse&lt;/f0&gt; su una cella, immagine, o o altro oggetto per aprire il menù contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Right-click&lt;/f0&gt; on a sheet tab and choose &lt;f1&gt;Rename Sheet&lt;/f1&gt; from the &lt;f2&gt;context&lt;/f2&gt; menu; replace the existing name with a different one.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T144555Z" creationid="michele" creationdate="20160525T144555Z">
+        <seg>&lt;f0&gt;Clic-destro&lt;/f0&gt; su una scheda del foglio &lt;f1&gt;Rinomina foglio&lt;/f1&gt; dal menu &lt;f2&gt;contestuale&lt;/f2&gt;; sostituisci il nome esistente con un nome diverso.</seg>
       </tuv>
     </tu>
     <tu>
