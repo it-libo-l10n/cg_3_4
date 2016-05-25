@@ -3014,10 +3014,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Control+&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;←&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T103636Z" creationid="michele" creationdate="20160525T103636Z">
+        <seg>&lt;f0&gt;Ctrl+&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;←&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Control+&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;↑&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T104159Z" creationid="michele" creationdate="20160525T104159Z">
+        <seg>&lt;f0&gt;Ctrl+&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;↑&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Control+&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;→&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T101008Z" creationid="michele" creationdate="20160525T101008Z">
         <seg>&lt;f0&gt;Ctrl+&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;→&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Control+&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;↓&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T104352Z" creationid="michele" creationdate="20160525T104352Z">
+        <seg>&lt;f0&gt;Ctrl+&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;↓&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20205,6 +20229,30 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084725Z">
         <seg>Per cominciare, date uno sguardo alla pagina web: &lt;a0&gt;https://it.libreoffice.org/comunita/partecipa/&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To the next column to the left containing data in that row or to Column A</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T104143Z" creationid="michele" creationdate="20160525T104143Z">
+        <seg>Alla colonna successiva sulla sinistra che contiene dati nella stessa riga o alla Colonna A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To the next column to the right containing data in that row or to Column AMJ</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T104148Z" creationid="michele" creationdate="20160525T103627Z">
+        <seg>Alla colonna adiacente sulla destra che contiene dati nella stessa riga oppure alla Colonna AMJ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To the next row above containing data in that column or to Row 1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T104347Z" creationid="michele" creationdate="20160525T104347Z">
+        <seg>Alla riga soprastante che contenga dati nella stessa colonna o alla Riga 1</seg>
       </tuv>
     </tu>
     <tu>
