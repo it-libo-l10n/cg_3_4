@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3102,6 +3102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Double-click&lt;/f0&gt; on each split line.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T153614Z" creationid="michele" creationdate="20160525T153614Z">
+        <seg>Fate &lt;f0&gt;doppio clic&lt;/f0&gt; su ciascuna linea di divisione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Double-click&lt;/f0&gt; on the percentage figure in the Status bar at the bottom of the window.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T145638Z" creationid="michele" creationdate="20160525T145638Z">
@@ -4578,6 +4586,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T173315Z" creationid="steevie" creationdate="20160428T173315Z">
         <seg>Si aprirà una finestra di esplorazione file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A gray line appears, running across the page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T153150Z" creationid="michele" creationdate="20160525T153150Z">
+        <seg>Apparirà una linea grigia che attraversa la pagina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6830,6 +6846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Window &gt; Split&lt;/f0&gt; to remove all split lines at the same time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T153649Z" creationid="michele" creationdate="20160525T153649Z">
+        <seg>Scegliete &lt;f0&gt;Finestra &gt; Dividi&lt;/f0&gt; per rimuovere tutte le linee di divisione contemporaneamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f1&gt;Tools &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Options &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; Load/Save &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; General&lt;/f10&gt; and select the &lt;f11&gt;Load printer settings with the document&lt;/f11&gt; option.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160313T142216Z">
@@ -7086,6 +7110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click in a cell immediately below and to the right of where you wish the screen to be split, and choose &lt;/f0&gt;&lt;f1&gt;Window &gt; Split&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T153446Z" creationid="michele" creationdate="20160525T153446Z">
+        <seg>Fate clic nella cella che si trova subito sotto e alla destra del punto nel quale volete dividere lo schermo, e scegliete &lt;/f0&gt;&lt;f1&gt;Finestra &gt; Dividi&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click in a cell.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T123020Z" creationid="michele" creationdate="20160525T123020Z">
@@ -7138,6 +7170,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T142612Z" creationid="michele" creationdate="20160524T142612Z">
         <seg>Fate clic su &lt;i0/&gt;&lt;f1&gt;Salva informazioni di ripristino automatico ogni&lt;/f1&gt; e impostate l'intervallo di tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on and drag the split lines back to their places at the ends of the scroll bars.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T153620Z" creationid="michele" creationdate="20160525T153620Z">
+        <seg>Fate clic sulle linee di divisione e trascinatele al loro posto in fondo alle barre di scorrimento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8598,6 +8638,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Drag the mouse downwards and this line follows.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T153152Z" creationid="michele" creationdate="20160525T153152Z">
+        <seg>Muovete il mouse in basso per trascinare la linea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drag the mouse to the left and this line follows.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T153536Z" creationid="michele" creationdate="20160525T153536Z">
+        <seg>Muovete il mouse a sinistra per trascinare la linea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Drawing objects</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T164015Z">
@@ -9974,6 +10030,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;33&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T153059Z" creationid="michele" creationdate="20160525T153059Z">
+        <seg>Figura &lt;seq0&gt;33&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;340&lt;/seq0&gt;: Defining chart colors</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T160801Z" creationid="steevie" creationdate="20160428T160725Z">
@@ -10034,6 +10098,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172419Z" creationid="steevie" creationdate="20160428T172419Z">
         <seg>Figure &lt;seq0&gt;379&lt;/seq0&gt;: assegnare uno stile di cella ad una combinazione di tasti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;34&lt;/seq0&gt;: Split bar on horizontal scroll bar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T153513Z" creationid="michele" creationdate="20160525T153513Z">
+        <seg>Figura &lt;seq0&gt;34&lt;/seq0&gt;: barra di divisione dello schermo nella barra di scorrimento orizzontale</seg>
       </tuv>
     </tu>
     <tu>
@@ -11206,6 +11278,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hold down the left mouse button, and a gray line appears, running up the page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T153533Z" creationid="michele" creationdate="20160525T153533Z">
+        <seg>Tenendo premuto il pulsante sinistro del mouse apparirà una linea grigia che attraversa la pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hold down the left mouse button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T153148Z" creationid="michele" creationdate="20160525T153148Z">
+        <seg>Tenete premuto il pulsante sinistro del mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How can I contribute to LibreOffice?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084538Z">
@@ -12246,6 +12334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Immediately to the right of this button is a thick black line (&lt;t0&gt;Figure 34&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T153527Z" creationid="michele" creationdate="20160525T153527Z">
+        <seg>Subito a destra di questo pulsante è presente una spessa linea nera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Import and export of spreadsheets in multiple formats, including HTML, CSV, PDF, and PostScript.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T102424Z">
@@ -12402,6 +12498,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T144336Z" creationid="steevie" creationdate="20160418T144336Z">
         <seg>Oltre a selezionare opzioni tra quelle disponibili,in LibreOffice è possibile  personalizzare il contenuto dei menu, le barre degli strumenti e i tasti di scelta rapida, aggiungere nuovi menu e barre degli strumenti, e assegnare macro agli eventi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition to the cell reference boxes (labeled Column and Row), the Navigator provides several other ways to move quickly through a spreadsheet and find specific items.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T153954Z" creationid="michele" creationdate="20160525T153954Z">
+        <seg>Oltre a fornire riferimenti per le celle .</seg>
       </tuv>
     </tu>
     <tu>
@@ -14126,6 +14230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move the mouse pointer into the horizontal scroll bar at the bottom of the screen and place it over the small button on the right with the black triangle.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T153456Z" creationid="michele" creationdate="20160525T153456Z">
+        <seg>Portate il puntatore del mouse nella barra di scorrimento orizzontale in fondo allo schermo, sopra il pulsante con un piccolo triangolo che si trova a destra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move the mouse pointer into the vertical scroll bar, on the right-hand side of the screen, and place it over the small button at the top with the black triangle.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T152729Z" creationid="michele" creationdate="20160525T152729Z">
@@ -14146,6 +14258,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T125912Z" creationid="michele" creationdate="20160525T125912Z">
         <seg>Spostate il puntatore del mouse sopra la scheda del secondo foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move the mouse pointer over this line and it turns into a line with two arrows.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T153530Z" creationid="michele" creationdate="20160525T153530Z">
+        <seg>Portate il puntatore del mouse su questa linea, che diventerà una linea con due frecce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14683,6 +14803,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T144324Z" creationid="steevie" creationdate="20160427T143852Z">
         <seg>Notate che c'è un cursore tra la barra di scorrimento orizzontale e il divisorio dei fogliche può essere spostato a un estremo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notice in &lt;t0&gt;Figure 31&lt;/t0&gt;, the Beta and the A0 values are in the upper part of the window and other calculations are in the lower part.&lt;f1&gt; &lt;/f1&gt;Thus, you can make changes to the Beta and A0 values and watch their effects on the calculations in the lower half of the window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T153402Z" creationid="michele" creationdate="20160525T153402Z">
+        <seg>Notate che nella &lt;t0&gt;Figura 31&lt;/t0&gt;, i valori Beta e A0 si trovano nella parte superiore della finestra mentre gli altri calcoli sono nella parte inferiore.&lt;f1&gt; &lt;/f1&gt;In questo modo potete apportare modifiche ai valori Beta e A0 e osservarne le modifiche ai calcoli nella metà inferiore della finestra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16567,6 +16695,22 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Release the mouse button and the screen splits into two views, each with its own vertical scroll bar.&lt;f0&gt; &lt;/f0&gt;You can scroll the upper and lower parts independently.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T153318Z" creationid="michele" creationdate="20160525T153318Z">
+        <seg>Rilascia il pulsante del mouse e lo schermo si dividerà in due viste, ognuna con la sua barra di scorrimento verticale.&lt;f0&gt; &lt;/f0&gt;Puoi scorrere le due parti in maniera indipendente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Release the mouse button, and the screen is split into two views, each with its own horizontal scroll bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T153550Z" creationid="michele" creationdate="20160525T153550Z">
+        <seg>Rilasciate il pulsante e lo schermo si dividerà in due parti, ognuna con la propria barra di scorrimento orizzontale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remember to separate the cell references with a colon.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T103455Z">
@@ -16619,6 +16763,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T161844Z">
         <seg>Eliminare un'area di stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Removing split views</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T153554Z" creationid="michele" creationdate="20160525T153554Z">
+        <seg>Eliminare la vista divisa</seg>
       </tuv>
     </tu>
     <tu>
@@ -18631,6 +18783,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Split-screen bar on vertical scroll bar with cursor</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T153143Z" creationid="michele" creationdate="20160525T153143Z">
+        <seg>Barra di divisione dello schermo nella barra di scorrimento verticale con cursore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Splitting the screen</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T152315Z" creationid="michele" creationdate="20160525T152315Z">
@@ -18643,6 +18803,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T152725Z" creationid="michele" creationdate="20160525T152725Z">
         <seg>Dividere lo schermo orizzontalmente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Splitting the screen vertically</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T153449Z" creationid="michele" creationdate="20160525T153449Z">
+        <seg>Dividere lo schermo verticalmente</seg>
       </tuv>
     </tu>
     <tu>
@@ -21753,6 +21921,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To remove a split view, do any of the following:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T153557Z" creationid="michele" creationdate="20160525T153557Z">
+        <seg>Per rimuovere la divisione dello schermo, usate uno dei metodi seguenti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To remove personal and some other data from a file, go to &lt;f0&gt;File &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Properties&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T143149Z" creationid="Luciano B." creationdate="20160329T162518Z">
@@ -21997,6 +22173,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T152727Z" creationid="michele" creationdate="20160525T152727Z">
         <seg>Per dividere lo schermo orizzontalmente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To split the screen vertically:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T153452Z" creationid="michele" creationdate="20160525T153452Z">
+        <seg>Per dividere lo schermo verticalmente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22941,6 +23125,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160505T080059Z" creationid="briga" creationdate="20160505T075932Z">
         <seg>Usando l'elenco &lt;is0/&gt;Applica stile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the &lt;is0/&gt;Navigator</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T153659Z" creationid="michele" creationdate="20160525T153659Z">
+        <seg>Usare il &lt;is0/&gt;Navigatore</seg>
       </tuv>
     </tu>
     <tu>
@@ -24113,6 +24305,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also split the screen &lt;f0&gt;using a menu command.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T153405Z" creationid="michele" creationdate="20160525T153405Z">
+        <seg>Potete anche dividere lo schermo &lt;f0&gt;usando un comando del menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can apply a cell style to a cell and that cell will follow the formatting rules of the style.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160216T071116Z">
@@ -24429,6 +24629,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160422T154145Z" creationid="luciano" creationdate="20160422T154145Z">
         <seg>Potete salvare le versioni memorizzate come parte del file originali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can scroll the left and right parts of the window independently.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T153552Z" creationid="michele" creationdate="20160525T153552Z">
+        <seg>Potete scorrere la parte sinistra e destra della finestra in modo indipendente.</seg>
       </tuv>
     </tu>
     <tu>
