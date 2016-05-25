@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3688,8 +3688,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Right-click&lt;/f0&gt; on the tab of the sheet you want to delete and choose &lt;f1&gt;Delete Sheet&lt;/f1&gt; &lt;f2&gt;from the context menu, or choose &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Edit &gt; Sheet &gt; Delete&lt;/f4&gt;&lt;/f3&gt; from the Menu bar.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160525T135352Z" creationid="michele" creationdate="20160525T135352Z">
-        <seg>&lt;f0&gt;Fate clic con il tasto destro&lt;/f0&gt; on the tab of the sheet you want to delete and choose &lt;f1&gt;Delete Sheet&lt;/f1&gt; &lt;f2&gt;from the context menu, or choose &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Edit &gt; Sheet &gt; Delete&lt;/f4&gt;&lt;/f3&gt; from the Menu bar.</seg>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T140046Z" creationid="michele" creationdate="20160525T135352Z">
+        <seg>&lt;f0&gt;Fate clic con il tasto destro&lt;/f0&gt; sulla linguetta della scheda che desideri eliminare e seleziona &lt;f1&gt;Elimina Foglio&lt;/f1&gt; &lt;f2&gt;dal menù contestuale, oppure scegli &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Modifica &gt; Foglio &gt; Elimina&lt;/f4&gt;&lt;/f3&gt; dalla barra dei menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3938,6 +3938,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T151642Z">
         <seg>&lt;f0&gt;Per definire un intervallo di stampa, utilizzate la stessa procedura impiegata per etichettare un'area della tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;To delete multiple sheets, select them as described earlier, then either &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;right-click&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; over one of the tabs and choose&lt;/f3&gt; &lt;f4&gt;Delete Sheet&lt;/f4&gt; f&lt;f5&gt;rom the &lt;/f5&gt;&lt;f6&gt;context&lt;/f6&gt;&lt;f7&gt; menu, or choose &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Edit &gt; Sheet &gt; Delete&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; from the Menu bar.&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T140408Z" creationid="michele" creationdate="20160525T140408Z">
+        <seg>&lt;f0&gt;Per eliminare molteplici fogli, selezionarli come descritto in precedenza, poi alternativamente &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;clic destro&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;su una delle schede e scegliere &lt;/f3&gt; &lt;f4&gt;Elimina Foglio&lt;/f4&gt; d&lt;f5&gt;al &lt;/f5&gt;&lt;f6&gt;menu&lt;/f6&gt;&lt;f7&gt;contestuale, oppure scegliere&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Modifica &gt; Foglio &gt; Elimina&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; dalla barra dei menu.&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4258,6 +4266,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T144329Z" creationid="Luciano B." creationdate="20160411T155531Z">
         <seg>&lt;f5&gt;Modifica &gt; Foglio &gt; Sposta/Copia &lt;/f5&gt;&lt;f6&gt;&amp;&lt;/f6&gt;&lt;f7&gt; Elimina&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f5&gt;Either way, an alert will ask if you want to delete the sheet permanently.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T140126Z" creationid="michele" creationdate="20160525T140126Z">
+        <seg>&lt;f5&gt;In ogni caso, un avvertimento vi chiederà se desiderate eliminare il foglio in maniera permanente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6842,6 +6858,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T151854Z" creationid="antonio" creationdate="20160524T151854Z">
         <seg>Fate click su &lt;/f2&gt;&lt;f3&gt;Sfoglia&lt;/f3&gt;&lt;f4&gt; e selezionate il file; una lista dei fogli disponibili appare nella casella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Yes&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;.&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T140135Z" creationid="michele" creationdate="20160525T140135Z">
+        <seg>Fate clic su &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Si&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;.&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14203,6 +14227,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T125615Z" creationid="michele" creationdate="20160525T125615Z">
         <seg>Fogli multipli non contigui</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Multiple sheets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T140138Z" creationid="michele" creationdate="20160525T140138Z">
+        <seg>Fogli multipli</seg>
       </tuv>
     </tu>
     <tu>
@@ -25451,8 +25483,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>renaming</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="antonio" changedate="20160524T153820Z" creationid="antonio" creationdate="20160524T153820Z">
-        <seg>rinominare</seg>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T140411Z" creationid="antonio" creationdate="20160524T153820Z">
+        <seg>rinomina</seg>
       </tuv>
     </tu>
     <tu>
