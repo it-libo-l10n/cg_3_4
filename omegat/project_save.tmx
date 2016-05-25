@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(For example: &lt;/f5&gt;&lt;f6&gt;Alt+&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;→&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt; &lt;/f10&gt;&lt;/f9&gt;increases the width of a cell.&lt;f11&gt;)&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T100556Z" creationid="michele" creationdate="20160525T100556Z">
+        <seg>(Per esempio: &lt;/f5&gt;&lt;f6&gt;Alt+&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;→&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt; &lt;/f10&gt;&lt;/f9&gt;aumenta la larghezza di una cella.&lt;f11&gt;)&lt;/f11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(It will appear on the menu bar itself after you save your customizations.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163622Z" creationid="steevie" creationdate="20160428T163622Z">
@@ -3006,6 +3014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Control+&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;→&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T101008Z" creationid="michele" creationdate="20160525T101008Z">
+        <seg>&lt;f0&gt;Ctrl+&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;→&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Create hybrid file&lt;/f0&gt;: This setting enables you to export the document as a .pdf file containing two file formats: PDF and ODF.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T154837Z" creationid="Luciano B." creationdate="20160326T154837Z">
@@ -3834,6 +3850,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160423T145437Z" creationid="luciano" creationdate="20160423T145437Z">
         <seg>&lt;f0&gt;Scrivete il vostro commento e fate clic su &lt;/f0&gt;&lt;f1&gt;OK&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Use one of the two &lt;/f0&gt;&lt;f1&gt;Alt+Arrow key&lt;/f1&gt;&lt;f2&gt; combinations to &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;resize&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; the width of a cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T100532Z" creationid="michele" creationdate="20160525T100532Z">
+        <seg>&lt;f0&gt;Usa una delle due combinazioni &lt;/f0&gt;&lt;f1&gt;Alt+tasti freccia &lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;per ridimensionare &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;la larghezza di una cella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5502,6 +5526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Be careful!</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T101154Z" creationid="michele" creationdate="20160525T101154Z">
+        <seg>Fate però attenzione... </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Because a copy is returned, it is not possible to set the individual values directly.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160517T134523Z" creationid="steevie" creationdate="20160517T134414Z">
@@ -6326,6 +6358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choices may be limited to specific data types depending on the selection in the Type column; for example, if the Type selection is Date, the Value for that property is limited to a date.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T101336Z" creationid="michele" creationdate="20160525T101336Z">
+        <seg>Le scelte disponibili potrebbero essere limitate a specifici tipi di dati, a seconda della selezione nella colonna Tipo; ad esempio, se la selezione Tipo è Data, il Valore di tale proprietà è limitato alla data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;File &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Digital Signatures&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T161509Z" creationid="Luciano B." creationdate="20160329T161421Z">
@@ -6970,6 +7010,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153831Z">
         <seg>Interruzione di colonna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Combinations of &lt;f0&gt;Control&lt;/f0&gt; &lt;s1/&gt;(often represented on keyboards as &lt;f2&gt;Ctrl&lt;/f2&gt;) and &lt;f3&gt;Alt&lt;/f3&gt; with &lt;f4&gt;Home&lt;/f4&gt;, &lt;f5&gt;End&lt;/f5&gt;, &lt;f6&gt;Page Down (PgDn)&lt;/f6&gt;, &lt;f7&gt;Page Up (PgUp)&lt;/f7&gt;, and the arrow keys move the focus of the current cell in other ways.&lt;f8&gt; &lt;/f8&gt;&lt;t9&gt;Table 2&lt;/t9&gt; describes the keyboard shortcuts for moving about a spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T100410Z" creationid="michele" creationdate="20160525T100410Z">
+        <seg>La combinazione di &lt;f0&gt;Ctrl&lt;/f0&gt; &lt;s1/&gt;(spesso rappresntato sulla tastiera con la scritta &lt;f2&gt;Ctrl&lt;/f2&gt;) e &lt;f3&gt;Alt&lt;/f3&gt; con &lt;f4&gt;(Home)&lt;/f4&gt;, &lt;f5&gt;(End)&lt;/f5&gt;, &lt;f6&gt;Page Down (PgDn)&lt;/f6&gt;, &lt;f7&gt;Page Up (PgUp)&lt;/f7&gt;, e dei tasti freccia spostano la selezione dalla cella corrente in altre direzioni.&lt;f8&gt; &lt;/f8&gt;&lt;t9&gt;Tabella 2&lt;/t9&gt; descrive le scorciatoie da tastiera per spostarsi in un foglio di calcolo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7946,6 +7994,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T144621Z" creationid="luciano" creationdate="20160509T144621Z">
         <seg>Freccia giù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Down one cell</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T101002Z" creationid="michele" creationdate="20160525T101002Z">
+        <seg>Cella inferiore</seg>
       </tuv>
     </tu>
     <tu>
@@ -9254,6 +9310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;37&lt;/seq0&gt;: Custom Properties page, showing drop-down lists of names and types</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T101403Z" creationid="michele" creationdate="20160525T101403Z">
+        <seg>Figura &lt;seq0&gt;37&lt;/seq0&gt;: la scheda Proprietà personalizzate, con i menu a tendina per Nome e Tipo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Example of a tear-off toolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T133818Z" creationid="michele" creationdate="20160414T133818Z">
@@ -10542,6 +10606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If none of the choices meet your needs, you can type a new name into the box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T101346Z" creationid="michele" creationdate="20160525T101346Z">
+        <seg>Se nessuna delle voci presenti è adeguata alla vostra necessità, potete digitare nel riquadro una nuova voce appropriata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If only a single range is defined, then clicking anywhere in the text entry box shows the selected print range on the screen, bounded in blue, as shown in &lt;t0&gt;Figure 139&lt;/t0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T170001Z">
@@ -11542,6 +11614,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the &lt;f0&gt;Type&lt;/f0&gt; column, you can choose from text, date+time, date, number, duration, or yes/no for each field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T101343Z" creationid="michele" creationdate="20160525T101343Z">
+        <seg>Nella colonna &lt;f0&gt;Tipo&lt;/f0&gt; potete scegliere tra testo, dataora, data, numero, durata, oppure sì/no per ciascun campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the &lt;f0&gt;Value&lt;/f0&gt; column, type or select what you want to appear in the document where this field is used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T101339Z" creationid="michele" creationdate="20160525T101339Z">
+        <seg>Nella colonna &lt;f0&gt;Valore&lt;/f0&gt;, digitate o selezionate i dati che desiderate appaiano nel documento, nel punto in cui è usato il relativo comando di campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the &lt;is0/&gt;Formatting toolbar&lt;ie1/&gt;, &lt;f2&gt;the three boxes on the left are the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Apply Style&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;, &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;Font Name&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;, and &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Font Size&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; lists&lt;/f11&gt; (see &lt;t12&gt;Figure 9&lt;/t12&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T145142Z" creationid="michele" creationdate="20160414T145142Z">
@@ -11794,6 +11882,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T171135Z" creationid="steevie" creationdate="20160428T171135Z">
         <seg>In questo esempio si è scelto &lt;f3&gt;Ctrl+3&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this release of Calc, &lt;f0&gt;Alt+Up Arrow&lt;/f0&gt; and &lt;f1&gt;Alt+Down Arrow&lt;/f1&gt; as key combinations to alter row height, are not implemented in the Default key bindings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T100840Z" creationid="michele" creationdate="20160525T100840Z">
+        <seg>In questo rilascio di Calc, le scorciatoie per variare l'altezza &lt;f0&gt;Alt+Freccia in su&lt;/f0&gt; e &lt;f1&gt;Alt+Freccia in giù&lt;/f1&gt; non sono implementate per impostazione predefinita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12262,6 +12358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Key Combination</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T100915Z" creationid="michele" creationdate="20160525T100915Z">
+        <seg>Combinazioni di tasti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keyboard Shortcuts</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T095746Z">
@@ -12330,6 +12434,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T144626Z" creationid="luciano" creationdate="20160509T144626Z">
         <seg>Freccia sinistra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Left one cell</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T100945Z" creationid="michele" creationdate="20160525T100945Z">
+        <seg>A sinistra di una cella</seg>
       </tuv>
     </tu>
     <tu>
@@ -12894,6 +13006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Movement</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T100921Z" creationid="michele" creationdate="20160525T100921Z">
+        <seg>Movimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moves one sheet to the left.&lt;f0&gt; &lt;/f0&gt;In the page preview it moves to the previous print page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160504T161302Z" creationid="luciano" creationdate="20160504T161302Z">
@@ -13099,6 +13219,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T095050Z" creationid="michele" creationdate="20160525T095050Z">
         <seg>Spostarsi da una cella all'altra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moving from cell to cell using the keyboard</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T100907Z" creationid="michele" creationdate="20160525T100907Z">
+        <seg>Spostarsi da una cella all'altra usando la tastiera</seg>
       </tuv>
     </tu>
     <tu>
@@ -15183,6 +15311,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right one cell</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T100938Z" creationid="michele" creationdate="20160525T100938Z">
+        <seg>A destra di una cella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084218Z">
@@ -17120,6 +17256,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;2&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T100847Z" creationid="michele" creationdate="20160525T100847Z">
+        <seg>Tabella &lt;seq0&gt;2&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Table &lt;seq0&gt;30&lt;/seq0&gt;: Spreadsheet navigation shortcuts</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160504T141301Z" creationid="luciano" creationdate="20160504T141301Z">
@@ -17276,6 +17420,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160510T135445Z" creationid="steevie" creationdate="20160510T135445Z">
         <seg>Tuttavia, la casella di controllo &lt;f0&gt;Area destinazione risultato&lt;/f0&gt; non sposta i dati originali, ma copia i dati ordinati nella posizione indicata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Name&lt;/f0&gt; box includes a drop-down list of typical choices; scroll down to see all the choices.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T101348Z" creationid="michele" creationdate="20160525T101348Z">
+        <seg>Il riquadro &lt;f0&gt;Nome&lt;/f0&gt; include un menu a discesa che presenta delle scelte tipiche; scorrete verso il basso per vedere tutte le scelte disponibili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18721,6 +18873,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This change affects all open documents, not just the current one.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T101149Z" creationid="michele" creationdate="20160525T101149Z">
+        <seg>La modifica interessa tutti i documenti aperti, non solo quello attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This changes it from the default &lt;f10&gt;&lt;f11&gt;d&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;.&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164244Z" creationid="steevie" creationdate="20160428T164244Z">
@@ -19233,6 +19393,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To change the format of the Date value, go to &lt;f0&gt;Tools &gt; Options &gt; Languages&lt;/f0&gt; and change the Locale setting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T101326Z" creationid="michele" creationdate="20160525T101326Z">
+        <seg>Per cambiare il formato del valore Data, andate su &lt;f0&gt;Strumenti &gt; Opzioni &gt; Impostazioni della lingua &gt; Lingue&lt;/f0&gt; e cambiate l'Impostazione locale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To change the view magnification, drag the Zoom slider or click on the + and – signs.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T095702Z" creationid="michele" creationdate="20160524T095702Z">
@@ -19665,6 +19833,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To remove a custom property, click the button at the end of the row.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T101333Z" creationid="michele" creationdate="20160525T101333Z">
+        <seg>Per rimuovere una proprietà personalizzata fate clic sul pulsante alla fine della riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To remove a page break:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T154158Z">
@@ -20093,6 +20269,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T144616Z" creationid="luciano" creationdate="20160509T144616Z">
         <seg>Freccia su</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Up one cell</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T100954Z" creationid="michele" creationdate="20160525T100954Z">
+        <seg>Cella superiore</seg>
       </tuv>
     </tu>
     <tu>
@@ -22053,6 +22237,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160422T151702Z" creationid="luciano" creationdate="20160422T151416Z">
         <seg>Potete utilizzare diversi modi per registrare le modifiche che voi o altri utenti apportate a un documento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You cannot create new types.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T101341Z" creationid="michele" creationdate="20160525T101341Z">
+        <seg>Non è possibile creare nuovi tipi.</seg>
       </tuv>
     </tu>
     <tu>
