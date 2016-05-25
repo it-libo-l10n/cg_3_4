@@ -7518,6 +7518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the icon again to display all the categories.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T160625Z" creationid="michele" creationdate="20160525T160625Z">
+        <seg>Fate nuovamente clic sull'icona per visualizzare tutte le categorie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the last column or row in the group.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T124643Z" creationid="michele" creationdate="20160525T124643Z">
@@ -19584,6 +19592,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Navigator provides several convenient ways to move around a document and find items in it:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T160243Z" creationid="michele" creationdate="20160525T160243Z">
+        <seg>Spostarsi rapidamente all'interno di un documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The PDF Options dialog opens.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T164937Z" creationid="Luciano B." creationdate="20160325T164937Z">
@@ -21905,6 +21921,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To jump to a specific cell in the current sheet, type its cell reference in the Column and Row boxes at the top of the Navigator and press the &lt;f0&gt;Enter&lt;/f0&gt; key; for example, in &lt;t1&gt;Figure 35&lt;/t1&gt; the cell reference is A7.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T160510Z" creationid="michele" creationdate="20160525T160510Z">
+        <seg>Per saltare a una cella nello specifico nel foglio corrente, digita il riferimento di cella nelle caselle Colonna e Riga al vertice del Navigatore e premi il tasto &lt;f0&gt;Invio&lt;/f0&gt; ; per esempio, nella &lt;t1&gt;Figura 35&lt;/t1&gt; il riferimento di cella è A7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To lower right-hand corner of the rectangular area containing data</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T104904Z" creationid="michele" creationdate="20160525T104904Z">
@@ -22173,6 +22197,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T134046Z" creationid="steevie" creationdate="20160427T134039Z">
         <seg>Per vedere l'intervallo interessato, premete &lt;f0&gt;Ctrl+* &lt;/f0&gt;(segno di moltiplicazione del tastierino numerico).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To see the content in only one category, highlight that category and click the &lt;f0&gt;Toggle&lt;/f0&gt; icon.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T160622Z" creationid="michele" creationdate="20160525T160622Z">
+        <seg>Per visualizzare il contenuto di una sola categoria, evidenziate la categoria desiderata e fate clic sull'icona &lt;f0&gt;Commuta&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22937,6 +22969,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the &lt;f0&gt;Start&lt;/f0&gt; and &lt;f1&gt;End&lt;/f1&gt; icons to jump to the first or last cell in the selected data range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T160731Z" creationid="michele" creationdate="20160525T160731Z">
+        <seg>Usa le icone &lt;f0&gt;Inizio&lt;/f0&gt; e &lt;f1&gt;Fine&lt;/f1&gt;per spostarti tra la prima e l'ultima cella dell'area dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the &lt;is0/&gt;zoom&lt;ie1/&gt; function to change the view to show more or fewer cells in the window.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T145245Z" creationid="michele" creationdate="20160525T145245Z">
@@ -23645,6 +23685,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T163029Z">
         <seg>Quando Calc viene avviato, la &lt;i0/&gt;finestra principale appare come in &lt;t1&gt;Figura 2&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a category is showing the list of objects in it, &lt;f0&gt;double-click&lt;/f0&gt; on an object to jump directly to that object’s location in the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T160537Z" creationid="michele" creationdate="20160525T160537Z">
+        <seg>Se una categoria elenca tutti gli elementi in essa contenuti, è sufficiente un &lt;f0&gt;doppio clic&lt;/f0&gt; su un elemento qualsiasi per andare direttamente alla posizione in cui l'elemento si trova all'interno del documento.</seg>
       </tuv>
     </tu>
     <tu>
