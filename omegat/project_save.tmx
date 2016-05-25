@@ -6534,6 +6534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choosing a &lt;is0/&gt;drag mode</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T102647Z" creationid="michele" creationdate="20160525T102647Z">
+        <seg>Scegliere un &lt;is0/&gt;opzione trascinamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choosing icons for toolbar commands</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165759Z" creationid="steevie" creationdate="20160428T165750Z">
@@ -7322,6 +7330,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T141625Z" creationid="luciano" creationdate="20160509T141557Z">
         <seg>Crea un nuovo modello di documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creates a hyperlink when you drag and drop an item into the current document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T102456Z" creationid="michele" creationdate="20160525T102456Z">
+        <seg>Crea un collegamento ipertestuale quando trascinate un elemento nel documento corrente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12046,6 +12062,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert as Hyperlink</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T102458Z" creationid="michele" creationdate="20160525T102458Z">
+        <seg>Inserisci come collegamento ipertestuale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert as Link</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T102445Z" creationid="michele" creationdate="20160525T102445Z">
+        <seg>Inserisci come collegamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert mode (&lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T092845Z" creationid="michele" creationdate="20160524T092845Z">
@@ -12122,6 +12154,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T164444Z" creationid="Luciano B." creationdate="20160325T164444Z">
         <seg>Inserisce il numero di pagina corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inserts the selected item as a link where you drag and drop an object into the current document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T102439Z" creationid="michele" creationdate="20160525T102439Z">
+        <seg>Inserisce l'elemento selezionato come un collegamento nel punto in cui eseguite il trascinamento nel documento corrente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15143,6 +15183,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ranges, scenarios, pictures, and other objects are much easier to find if you have given them informative names when creating them, instead of keeping Calc’s default Graphics 1, Graphics 2, Object 1, and so on, which may not correspond to the position of the object in the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T103140Z" creationid="michele" creationdate="20160525T103140Z">
+        <seg>Intervalli, scenari, immagini, e altri oggetti sono più facili da trovare se gli si assegna dei nomi parlanti, nomi generici tipo immagini1, immagini2, Tabella1, Tabella2, ecc, assegnati in maniera predefinita da LibreOffice potrebbero non corrispondere alla posizione reale dell'oggetto nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ravi</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T151917Z" creationid="steevie" creationdate="20160503T151917Z">
@@ -16267,6 +16315,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145712Z" creationid="steevie" creationdate="20160427T145645Z">
         <seg>Imposta il 30 dicembre 1899 come giorno zero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sets the drag and drop options for inserting items into a document using the Navigator.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T102617Z" creationid="michele" creationdate="20160525T102617Z">
+        <seg>Imposta l'opzione trascinamento e rilascio per l'inserimento di oggetti in un documento usando il Navigatore.</seg>
       </tuv>
     </tu>
     <tu>
