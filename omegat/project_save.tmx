@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3614,6 +3614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Right-click &lt;/f0&gt;any one of the sheet tabs and choose &lt;f1&gt;Select All Sheets&lt;/f1&gt; from the &lt;f2&gt;context&lt;/f2&gt; menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T130046Z" creationid="michele" creationdate="20160525T130046Z">
+        <seg>&lt;f0&gt;Clic destro &lt;/f0&gt;qualsiasi delle schede dei fogli e seleziona &lt;f1&gt;Seleziona tutti i fogli &lt;/f1&gt;dal menu &lt;f2&gt;contestuale&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Right-click on the tab and select &lt;/f0&gt;&lt;f1&gt;Insert Sheet.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T142949Z" creationid="antonio" creationdate="20160524T142949Z">
@@ -4958,6 +4966,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All sheets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T125938Z" creationid="michele" creationdate="20160525T125938Z">
+        <seg>Tutti i fogli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All the tabs between these two sheets will turn white.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T125612Z" creationid="michele" creationdate="20160525T125612Z">
+        <seg>Tutte le schede comprese tra questi due fogli diventeranno bianche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All trademarks within this guide belong to their legitimate owners.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20160129T124840Z">
@@ -5266,6 +5290,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084434Z">
         <seg>Anthony Petrillo&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any actions that you perform will now affect all highlighted sheets.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T125614Z" creationid="michele" creationdate="20160525T125614Z">
+        <seg>Ogni azione compiuta d'ora in poi avrà effetto su tutti i fogli evidenziati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6922,6 +6954,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T091731Z" creationid="michele" creationdate="20160525T091731Z">
         <seg>Fate clic sul piccolo pulsante con un triangolo rovesciato posto sulla destra della Casella del nome&lt;f0&gt; (&lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figura 10&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on the sheet tab for the first desired sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T125607Z" creationid="michele" creationdate="20160525T125607Z">
+        <seg>Fate clic sulla scheda del primo foglio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10630,6 +10670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hold down the &lt;f0&gt;Control&lt;/f0&gt; key and click on the sheet tab.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T125916Z" creationid="michele" creationdate="20160525T125916Z">
+        <seg>Tenete premuto il tasto &lt;f0&gt;Ctrl&lt;/f0&gt; e fate clic sulla scheda del foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hold down the &lt;f0&gt;Control&lt;/f0&gt; key and click or click-and-drag to select another range of cells to add to the first range.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T123846Z" creationid="michele" creationdate="20160525T123846Z">
@@ -10650,6 +10698,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T123052Z" creationid="michele" creationdate="20160525T123052Z">
         <seg>Tenendo premuto il tasto &lt;f0&gt;Maiusc&lt;/f0&gt; fate &lt;f1&gt;clic&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hold down the &lt;f0&gt;Shift&lt;/f0&gt; key and click on the sheet tab.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T125610Z" creationid="michele" creationdate="20160525T125610Z">
+        <seg>Tenete premuto il tasto &lt;f0&gt;Maiusc&lt;/f0&gt; e fate clic sulla scheda del foglio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13486,6 +13542,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move the mouse pointer over the sheet tab for the last desired sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T125608Z" creationid="michele" creationdate="20160525T125608Z">
+        <seg>Spostate il puntatore del mouse sopra la scheda dell'ultimo foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move the mouse pointer over the sheet tab for the second desired sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T125912Z" creationid="michele" creationdate="20160525T125912Z">
+        <seg>Spostate il puntatore del mouse sopra la scheda del secondo foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move the mouse pointer to the start of the next range or single cell.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T123522Z" creationid="michele" creationdate="20160525T123522Z">
@@ -13767,10 +13839,26 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Multiple contiguous sheets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T125603Z" creationid="michele" creationdate="20160525T125603Z">
+        <seg>Fogli multipli contigui</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Multiple manual row and column breaks can exist on the same page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T154447Z">
         <seg>Nella stessa pagina possono esistere più interruzioni manuali, sia di riga che di colonna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Multiple non-contiguous sheets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T125615Z" creationid="michele" creationdate="20160525T125615Z">
+        <seg>Fogli multipli non contigui</seg>
       </tuv>
     </tu>
     <tu>
@@ -19233,6 +19321,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The selected tabs will turn white.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T125926Z" creationid="michele" creationdate="20160525T125926Z">
+        <seg>Le schede selezionate diventeranno bianche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The selections are self-explanatory.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T155022Z" creationid="Luciano B." creationdate="20160326T155022Z">
@@ -19301,6 +19397,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T151536Z" creationid="steevie" creationdate="20160503T151536Z">
         <seg>Le molte capacità di calcolo fornite con un foglio di lavoro, lo rendono una scelta eccellente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The tab for the selected sheet becomes white (see &lt;t0&gt;Figure 23&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T125601Z" creationid="michele" creationdate="20160525T125601Z">
+        <seg>La scheda del foglio selezionato diventano bianche quando selezionate (vedi &lt;t0&gt;Figura 23&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20853,6 +20957,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T124645Z" creationid="michele" creationdate="20160525T124645Z">
         <seg>Per selezionare più colonne o righe non contigue:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To select multiple contiguous sheets:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T125605Z" creationid="michele" creationdate="20160525T125605Z">
+        <seg>Per selezionare fogli multipli contigui:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To select multiple non-contiguous sheets:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T125617Z" creationid="michele" creationdate="20160525T125617Z">
+        <seg>Per selezionare fogli multipli non contigui:</seg>
       </tuv>
     </tu>
     <tu>
