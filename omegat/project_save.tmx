@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3326,6 +3326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;If you choose &lt;/f0&gt;&lt;f1&gt;-new document-&lt;/f1&gt;&lt;f2&gt; as the location, a new spreadsheet will be created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T135202Z" creationid="michele" creationdate="20160525T135202Z">
+        <seg>&lt;f0&gt;Se scegliete &lt;/f0&gt;&lt;f1&gt;-nuovo documento-&lt;/f1&gt;&lt;f2&gt; come posizione, verrà creato un nuovo foglio elettronico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If you prefer, select the &lt;/f0&gt;&lt;f1&gt;Link&lt;/f1&gt;&lt;f2&gt; option to insert the external sheet as a link instead as a copy.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T153053Z" creationid="antonio" creationdate="20160524T153053Z">
@@ -3386,6 +3394,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T160012Z" creationid="Luciano B." creationdate="20160411T160012Z">
         <seg>&lt;f0&gt;Inserisci &gt; Celle &gt; Sposta celle in basso&lt;/f0&gt; &amp; &lt;f1&gt;Sposta celle a  destra&lt;/f1&gt;&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Insert before&lt;/f0&gt;: select the position within the target document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T135033Z" creationid="michele" creationdate="20160525T135033Z">
+        <seg>&lt;f0&gt;Prima del foglio:&lt;/f0&gt; selezionate la posizione all'interno del documento di destinazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3498,6 +3514,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T135114Z" creationid="luciano" creationdate="20160429T135114Z">
         <seg>&lt;f0&gt;La maggior parte dei documenti passa attraverso molte bozze preliminari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;New name&lt;/f0&gt;: you can rename the sheet you are moving or assign a different name to the copied sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T135047Z" creationid="michele" creationdate="20160525T135047Z">
+        <seg>&lt;f0&gt;Nuovo nome:&lt;/f0&gt; potete rinominare il foglio che state spostando o assegnare un nome differente al foglio copiato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3658,6 +3682,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T084039Z" creationid="michele" creationdate="20160524T083956Z">
         <seg>&lt;f0&gt;fare clic con il pulsante secondario del mouse&lt;/f0&gt; su una cella, immagine, o o altro oggetto per aprire il menù contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Right-click&lt;/f0&gt; on the tab of the sheet you want to delete and choose &lt;f1&gt;Delete Sheet&lt;/f1&gt; &lt;f2&gt;from the context menu, or choose &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Edit &gt; Sheet &gt; Delete&lt;/f4&gt;&lt;/f3&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T135352Z" creationid="michele" creationdate="20160525T135352Z">
+        <seg>&lt;f0&gt;Fate clic con il tasto destro&lt;/f0&gt; on the tab of the sheet you want to delete and choose &lt;f1&gt;Delete Sheet&lt;/f1&gt; &lt;f2&gt;from the context menu, or choose &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Edit &gt; Sheet &gt; Delete&lt;/f4&gt;&lt;/f3&gt; from the Menu bar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3906,6 +3938,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T151642Z">
         <seg>&lt;f0&gt;Per definire un intervallo di stampa, utilizzate la stessa procedura impiegata per etichettare un'area della tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;To document&lt;/f0&gt;: select the document where you want to place the sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T134808Z" creationid="michele" creationdate="20160525T134808Z">
+        <seg>&lt;f0&gt;In documento&lt;/f0&gt;: selezionare il documento nel quale si desidera posizionare il foglio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5842,6 +5882,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160505T143625Z" creationid="luciano" creationdate="20160505T143625Z">
         <seg>Di default, sposta il cursore giù di una cella in intervallo selezionato.&lt;f0&gt; &lt;/f0&gt;Per specificare in quale direzione il cursore si sposta, scegliete &lt;f1&gt;&lt;f2&gt;Strumenti &gt; Opzioni &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;LibreOffice&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; Calc &gt; Generale&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, the field will show the current location.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T134952Z" creationid="michele" creationdate="20160525T134952Z">
+        <seg>Per impostazione predefinita, il campo mostra il documento corrente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8174,6 +8222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Deleting &lt;is0/&gt;sheets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T135314Z" creationid="michele" creationdate="20160525T135314Z">
+        <seg>Eliminare &lt;is0/&gt;fogli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Deleting a page break</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T154152Z">
@@ -9386,6 +9442,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160424T134248Z" creationid="luciano" creationdate="20160424T134248Z">
         <seg>Figura &lt;seq0&gt;289&lt;/seq0&gt;: Visualizzare un commento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;28&lt;/seq0&gt;: Move/Copy sheet dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T135304Z" creationid="michele" creationdate="20160525T135304Z">
+        <seg>Figura &lt;seq0&gt;28&lt;/seq0&gt;: finestra di dialogo Sposta/copia foglio</seg>
       </tuv>
     </tu>
     <tu>
@@ -11494,6 +11558,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you accidentally move a sheet, you can fix it by moving or copying the sheet back to the original location.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T135209Z" creationid="michele" creationdate="20160525T135209Z">
+        <seg>Se spostate un foglio accidentalmente, potete risolvere spostando o copiando il foglio alla sua posizione originale.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are importing a Microsoft Excel file containing VBA code, you can select the option &lt;f0&gt;Executable code&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T124919Z" creationid="steevie" creationdate="20160427T124919Z">
@@ -11566,6 +11638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you do not enter a name, Calc creates a default name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T135128Z" creationid="michele" creationdate="20160525T135128Z">
+        <seg>Se non inserite un nome, Calc crea un nome predefinito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you do not select &lt;f0&gt;Text CSV (*csv;*txt) &lt;/f0&gt;as the file type when opening the file, the document opens in Writer, not Calc.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T135251Z" creationid="michele" creationdate="20160524T135251Z">
@@ -11610,6 +11690,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T165452Z">
         <seg>Se avete già selezionato un intervallo di stampa, la finestra di dialogo Modifica aree di stampa assomiglierà a  qualcosa di simile alla &lt;t7&gt;Figura 138&lt;/t7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have another spreadsheet document open, its name will appear in the drop-down list along with -new document-.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T135020Z" creationid="michele" creationdate="20160525T135020Z">
+        <seg>Se avete un altro foglio elettronico aperto, il suo nome apparirà nel menu a tendina, insieme a -nuovo documento-.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14559,6 +14647,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the Move/Copy Sheet dialog (&lt;t0&gt;Figure 28&lt;/t0&gt;):</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T134710Z" creationid="michele" creationdate="20160525T134710Z">
+        <seg>Nella finestra di dialogo Sposta/copia foglio (&lt;t0&gt;Figura 28&lt;/t0&gt;):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the Name dialog, type the new toolbar's name and choose from the &lt;f1&gt;Save In&lt;/f1&gt; drop-down list where to save this new toolbar: for &lt;f2&gt;Calc&lt;/f2&gt; or for a selected document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165614Z" creationid="steevie" creationdate="20160428T165614Z">
@@ -16783,6 +16879,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Move/Copy Sheet&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T134652Z" creationid="michele" creationdate="20160525T134652Z">
+        <seg>Selezionate &lt;f0&gt;Sposta/Copia Foglio&lt;/f0&gt; dal menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select All box</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T124739Z" creationid="michele" creationdate="20160525T124739Z">
@@ -16867,6 +16971,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T125150Z" creationid="steevie" creationdate="20160427T125119Z">
         <seg>Selezionate l'opzione nella colonna [S] per convertire gli oggetti OLE &lt;f0&gt;LibreOffice&lt;/f0&gt; nei corrispondenti OLE Microsoft quando salvate un documento in formato Microsoft (ricordate: "S" sta per "salva").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the action: &lt;f0&gt;Move&lt;/f0&gt; or &lt;f1&gt;Copy&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T134712Z" creationid="michele" creationdate="20160525T134712Z">
+        <seg>Selezionate l'azione: &lt;f0&gt;Sposta&lt;/f0&gt; o &lt;f1&gt;Copia&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17459,6 +17571,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T084524Z" creationid="michele" creationdate="20160524T084524Z">
         <seg>Schede dei fogli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sheets can be deleted individually or in groups.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T135317Z" creationid="michele" creationdate="20160525T135317Z">
+        <seg>Potete eliminare i fogli singolarmente o in gruppi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20161,6 +20281,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This caution also applies for moving sheets to other existing documents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T135238Z" creationid="michele" creationdate="20160525T135238Z">
+        <seg>Tale operazione può essere effettuata anche in caso di spostamento verso altri documenti esistenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This change affects all open documents, not just the current one.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T101149Z" creationid="michele" creationdate="20160525T101149Z">
@@ -20389,6 +20517,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T151829Z">
         <seg>Questo può essere utile se ci sono differenti aree di un foglio di calcolo di grandi dimensioni che devono essere stampate per differenti rapporti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This may cause conflicts with formulas linked to other sheets in the previous location.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T135207Z" creationid="michele" creationdate="20160525T135207Z">
+        <seg>Ciò potrebbe causare conflitti con formule collegate ad altri fogli nella precedente posizione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22861,6 +22997,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165743Z" creationid="steevie" creationdate="20160428T165743Z">
         <seg>Una volta terminate le modifiche, fate clic su &lt;f0&gt;OK&lt;/f0&gt; per salvare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you are done, click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T135151Z" creationid="michele" creationdate="20160525T135151Z">
+        <seg>Ultimate le operazioni, fate clic su &lt;f0&gt;OK&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
