@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4400,8 +4400,8 @@
       <tuv lang="EN">
         <seg>&lt;t0&gt;Figure 30&lt;/t0&gt; shows some frozen rows and columns.&lt;f1&gt; &lt;/f1&gt;The heavier horizontal line between rows 3 and 14 and the heavier vertical line between columns C and H denote the frozen areas.&lt;f2&gt; &lt;/f2&gt;Rows 4 through 13 and columns D through G have been scrolled off the page.&lt;f3&gt; &lt;/f3&gt;The first three rows and columns remained because they are frozen into place.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160525T150740Z" creationid="michele" creationdate="20160525T150740Z">
-        <seg>&lt;t0&gt;Figura 30&lt;/t0&gt; shows some frozen rows and columns.&lt;f1&gt; &lt;/f1&gt;The heavier horizontal line between rows 3 and 14 and the heavier vertical line between columns C and H denote the frozen areas.&lt;f2&gt; &lt;/f2&gt;Rows 4 through 13 and columns D through G have been scrolled off the page.&lt;f3&gt; &lt;/f3&gt;The first three rows and columns remained because they are frozen into place.</seg>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T151736Z" creationid="michele" creationdate="20160525T150740Z">
+        <seg>&lt;t0&gt;Figura 30&lt;/t0&gt; mostra alcune righe e colonne fissate.&lt;f1&gt; &lt;/f1&gt;la riga più spessa orizzontale tra le righe 3 e 14 e la riga più spessa trea le colonne C e H denotano l'area fissata.&lt;f2&gt; &lt;/f2&gt;Dalla riga 4 alla 13 e le colonne dalla D fino alla G sono state fatte scorrere fuori dalla pagina.&lt;f3&gt; &lt;/f3&gt;Le prime tre righe e colonne sono rimaste perché sono fissate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6798,6 +6798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Window &gt; Freeze&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;.&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T151812Z" creationid="michele" creationdate="20160525T151812Z">
+        <seg>Selezionate &lt;f0&gt;Finestra &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Fissa&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f1&gt;Tools &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Options &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; Load/Save &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; General&lt;/f10&gt; and select the &lt;f11&gt;Load printer settings with the document&lt;/f11&gt; option.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160313T142216Z">
@@ -7146,6 +7154,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T124638Z" creationid="michele" creationdate="20160525T124638Z">
         <seg>Fate clic sulla prima colonna o riga del gruppo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on the header for the row below where you want the freeze or for the column to the right of where you want the freeze.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T151759Z" creationid="michele" creationdate="20160525T151759Z">
+        <seg>Fate clic sull'intestazione della riga (o della colonna) sopra cui (o alla cui sinistra) volete impostare il punto di fissaggio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10610,6 +10626,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T150630Z" creationid="michele" creationdate="20160525T150630Z">
         <seg>Potete fissare un certo numero di righe in cima al foglio o un certo numero di colonne all'estremo sinistro del foglio, o entrambe le cose.&lt;f0&gt; &lt;/f0&gt;In questo modo quando fate scorrere il foglio, le colonne e le righe fissate restano visibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Freezing single rows or columns</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T151755Z" creationid="michele" creationdate="20160525T151755Z">
+        <seg>Fissare singole righe e colonne</seg>
       </tuv>
     </tu>
     <tu>
@@ -24237,6 +24261,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T124840Z" creationid="steevie" creationdate="20160421T124840Z">
         <seg>Potete impostare le opzioni di salvataggio e caricamento secondo le vostre necessità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can set the freeze point at one row, one column, or both a row and a column as in &lt;t0&gt;Figure 30&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T151752Z" creationid="michele" creationdate="20160525T151752Z">
+        <seg>Potete impostare il punto di fissaggio su una riga, una colonna, o su entrambe, come mostrato nella &lt;t0&gt;Figura 30&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
