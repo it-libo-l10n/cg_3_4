@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -90,6 +90,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T150034Z" creationid="antonio" creationdate="20160524T150034Z">
         <seg>(Tre fogli sono disponibili in modo predefinito.) Dal momento che state inserendo più di un foglio, la &lt;/f6&gt;&lt;f7&gt;casella Nome&lt;/f7&gt;&lt;f8&gt; è non disponibile.&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(To dock or float the Navigator, hold down the &lt;f14&gt;Control&lt;/f14&gt; key and &lt;f15&gt;double-click&lt;/f15&gt; in an empty area near the icons at the top.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T154833Z" creationid="michele" creationdate="20160525T154833Z">
+        <seg>(Per ancorare o rendere mobile il Navigatore, tenete premuto il tasto &lt;f14&gt;Ctrl&lt;/f14&gt; e fate &lt;f15&gt;doppio clic&lt;/f15&gt; in un'area vuota vicino alle icone al vertice.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4430,6 +4438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t0&gt;Table 3&lt;/t0&gt; summarizes the functions of the icons at the top of the Navigator.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T154937Z" creationid="michele" creationdate="20160525T154937Z">
+        <seg>La &lt;t0&gt;Tabella 3&lt;/t0&gt; riassume le funzioni delle icone posizionate nella parte superiore del Navigatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t1&gt;Listing 1&lt;/t1&gt; shows the contents of the macro.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160524T152902Z" creationid="luciano" creationdate="20160524T152902Z">
@@ -7446,6 +7462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click this icon again to show the list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T154916Z" creationid="michele" creationdate="20160525T154916Z">
+        <seg>Fate clic sulla medesima icona per mostrare nuovamente l'elenco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click to toggle between &lt;f0&gt;INSRT&lt;/f0&gt; (&lt;f1&gt;Insert&lt;/f1&gt;) and &lt;f2&gt;OVER&lt;/f2&gt; (&lt;f3&gt;Overwrite&lt;/f3&gt;) modes when typing.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T093138Z" creationid="michele" creationdate="20160524T093138Z">
@@ -10110,6 +10134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;35&lt;/seq0&gt;: The Navigator in Calc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T155002Z" creationid="michele" creationdate="20160525T155002Z">
+        <seg>Figura &lt;seq0&gt;35&lt;/seq0&gt;: Il Navigatore in Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;36&lt;/seq0&gt;: The Description page of the document’s &lt;is1/&gt;Properties dialog</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T101421Z" creationid="michele" creationdate="20160525T101421Z">
@@ -11494,6 +11526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If an indicator (plus sign or arrow) appears next to a category, at least one object of this kind exists.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T154908Z" creationid="michele" creationdate="20160525T154908Z">
+        <seg>Se di fianco ad una categoria è presente un indicatore (segno più o freccia), esiste almeno un oggetto di quel tipo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If another user is trying to save the shared document and resolve conflicts, you see a message that the shared spreadsheet file is locked due to a merge-in in progress.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T163504Z" creationid="Luciano B." creationdate="20160411T163504Z">
@@ -12504,8 +12544,8 @@
       <tuv lang="EN">
         <seg>In addition to the cell reference boxes (labeled Column and Row), the Navigator provides several other ways to move quickly through a spreadsheet and find specific items.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160525T153954Z" creationid="michele" creationdate="20160525T153954Z">
-        <seg>Oltre a fornire riferimenti per le celle .</seg>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T154329Z" creationid="michele" creationdate="20160525T153954Z">
+        <seg>Oltre a fornire riferimenti per le celle (chiamati Colonna e Riga), il Navigatore fornisce diversi altri modi per spostarsi rapidamente all'interno di un foglio di calcolo per trovare specifici elementi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19120,6 +19160,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;3&lt;/seq0&gt;: Function of icons in the Navigator</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T155020Z" creationid="michele" creationdate="20160525T155020Z">
+        <seg>Tabella &lt;seq0&gt;3&lt;/seq0&gt;: Funzioni delle icone del Navigatore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tear-off toolbars are not listed in the View menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T132157Z" creationid="michele" creationdate="20160414T132157Z">
@@ -19428,6 +19476,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T133815Z" creationid="steevie" creationdate="20160504T133815Z">
         <seg>Il Navigatore permette di accedere velocemente agli intervalli associati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Navigator displays lists of all the objects in a spreadsheet document, grouped into categories.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T154859Z" creationid="michele" creationdate="20160525T154859Z">
+        <seg>Il Navigatore mostra un elenco di tutti gli oggetti contenuti in un documento, raggruppati per categoria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21713,6 +21769,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To hide the list of categories and show only the icons at the top, click the &lt;f0&gt;Contents&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T154914Z" creationid="michele" creationdate="20160525T154914Z">
+        <seg>Per nascondere l'elenco delle categorie e mostrare solamente le icone in alto, fate clic sull'icona &lt;f0&gt;Contenuti&lt;/f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To insert a page break:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153521Z">
@@ -21857,6 +21921,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To open a category and see the list of items, click on the indicator.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T154912Z" creationid="michele" creationdate="20160525T154912Z">
+        <seg>Per aprire una categoria e vedere l'elenco delle voci presenti, fate clic sull'indicatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To open the &lt;is0/&gt;Properties&lt;ie1/&gt; dialog for a document, choose &lt;f2&gt;&lt;f3&gt;File&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;Properties&lt;/f6&gt;&lt;/f5&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T101927Z" creationid="michele" creationdate="20160525T101927Z">
@@ -21869,6 +21941,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T161346Z" creationid="steevie" creationdate="20160428T161346Z">
         <seg>Per aprire la finestra di dialogo Correzione automatica, fate clic su &lt;f0&gt;Strumenti&gt; Opzioni di correzione automatica&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To open the Navigator, click its icon &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt; on the Standard&lt;f2&gt; &lt;/f2&gt;toolbar&lt;f3&gt;, or&lt;/f3&gt; press &lt;f4&gt;F5&lt;/f4&gt;, or choose &lt;f5&gt;View &gt; Navigator&lt;/f5&gt;&lt;f6&gt; on the Menu bar, or &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;double-click&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; on the Sheet Sequence Number &lt;/f9&gt;&lt;f10&gt;&lt;df11&gt;&lt;di12/&gt;&lt;/df11&gt;&lt;/f10&gt;&lt;f13&gt; in the Status Bar&lt;/f13&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T154703Z" creationid="michele" creationdate="20160525T154703Z">
+        <seg>Per aprire il Navigatore, fare clic sulla sua icona&lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt; nella barra deglio strumenti &lt;f2&gt; &lt;/f2&gt;standard&lt;f3&gt;, o&lt;/f3&gt; premere&lt;f4&gt;F5&lt;/f4&gt;, o selezionare  &lt;f5&gt;Vista &gt; Navigatore&lt;/f5&gt;&lt;f6&gt; nella barra dei menu, o &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;doppio-clic&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; nel numero di sequesnza del foglio&lt;/f9&gt;&lt;f10&gt;&lt;df11&gt;&lt;di12/&gt;&lt;/df11&gt;&lt;/f10&gt;&lt;f13&gt; nella barra di stato&lt;/f13&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24493,6 +24573,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T140832Z" creationid="luciano" creationdate="20160429T140832Z">
         <seg>Potere farlo salvando una copia del documento (con nome differente) dopo ogni revisione, oppure utilizzare la caratteristica di &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Calc&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Salva la versione nuova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can dock the Navigator to either side of the main Calc window or leave it floating.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T154712Z" creationid="michele" creationdate="20160525T154712Z">
+        <seg>È possibile ancorare il Navigatore su entrambi i lati della finestra principale di Calc o lasciarlo mobile.</seg>
       </tuv>
     </tu>
     <tu>
