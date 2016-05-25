@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3102,6 +3102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Each method will open th&lt;/f0&gt;e Insert Sheet d&lt;f1&gt;ialog (&lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;Figure 26&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T133909Z" creationid="michele" creationdate="20160525T133909Z">
+        <seg>&lt;f0&gt;Ogni metodo aprirà la finestra di dialogo &lt;/f0&gt;Inserisci foglio&lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;Figura 26&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Edit &gt; Changes&lt;/f0&gt;, except for &lt;f1&gt;Merge Document&lt;/f1&gt;&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T155818Z" creationid="Luciano B." creationdate="20160411T155543Z">
@@ -3618,6 +3626,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T130231Z" creationid="michele" creationdate="20160525T130046Z">
         <seg>&lt;f0&gt;Clic destro &lt;/f0&gt;su qualsiasi delle schede dei fogli e seleziona &lt;f1&gt;Seleziona tutti i fogli &lt;/f1&gt;dal menu &lt;f2&gt;contestuale&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Right-click on the sheet tab and choose&lt;/f0&gt; &lt;f1&gt;Insert Sheet&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T133805Z" creationid="michele" creationdate="20160525T133805Z">
+        <seg>&lt;f0&gt;Click destro sul foglio e selezione della voce&lt;/f0&gt; &lt;f1&gt;Inserisci Foglio&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6502,6 +6518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;&lt;f1&gt;Insert &gt; Sheet&lt;/f1&gt;&lt;/f0&gt; from the menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T133708Z" creationid="michele" creationdate="20160525T133708Z">
+        <seg>Scegliere &lt;f0&gt;&lt;f1&gt;Inserisci &gt; Foglio&lt;/f1&gt;&lt;/f0&gt; dalla barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;Delete Columns&lt;/f0&gt; or &lt;f1&gt;Delete Rows&lt;/f1&gt; from the &lt;f2&gt;context&lt;/f2&gt; menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T131653Z" creationid="michele" creationdate="20160525T131653Z">
@@ -7646,6 +7670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating a new sheet</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T133819Z" creationid="michele" creationdate="20160525T133819Z">
+        <seg>creare un nuovo foglio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating a new toolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165236Z" creationid="steevie" creationdate="20160428T165236Z">
@@ -8346,6 +8378,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T173228Z" creationid="steevie" creationdate="20160428T173228Z">
         <seg>Scaricate l'estensione e salvatela sul vostro computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drag and drop does not work if you wish to move or copy a sheet to a different spreadsheet; instead, you need to use the dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T134029Z" creationid="michele" creationdate="20160525T134029Z">
+        <seg>Il drag and drop non funziona se desiderate spostare o copiare un foglio su un diverso foglio elettronico; per questo dovrete invece fare uso della finestra di dialogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9246,6 +9286,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;25&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T133816Z" creationid="michele" creationdate="20160525T133816Z">
+        <seg>Figura &lt;seq0&gt;25&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;26&lt;/seq0&gt;: Insert Sheet dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T133945Z" creationid="michele" creationdate="20160525T133945Z">
+        <seg>Figura &lt;seq0&gt;26&lt;/seq0&gt;: Finestra di dialogo Inserisci foglio </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;27&lt;/seq0&gt;: Dragging a sheet to move it</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T134230Z" creationid="michele" creationdate="20160525T134230Z">
+        <seg>Figura &lt;seq0&gt;27&lt;/seq0&gt;: trascinare un foglio per effettuarne lo spostamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;280&lt;/seq0&gt;: Choosing to share a spreadsheet</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T153022Z" creationid="Luciano B." creationdate="20160411T153022Z">
@@ -9874,6 +9938,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T104647Z" creationid="michele" creationdate="20160524T104647Z">
         <seg>Seguire la procedura sopracitata, ma invece di selezionare &lt;f0&gt;Foglio elettronico&lt;/f0&gt;, scegliere l'icona &lt;f1&gt;Modelli&lt;/f1&gt;da Centro di Avvio oppure &lt;f2&gt;File &gt; Nuovo &gt; Modelli&lt;/f2&gt; dalla barra dei menu o dalla barra degli strumenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Follow these steps:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T134257Z" creationid="michele" creationdate="20160525T134257Z">
+        <seg>Seguite questi passaggi:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10570,6 +10642,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T144148Z" creationid="antonio" creationdate="20160524T144027Z">
         <seg>&lt;/f2&gt;&lt;f3&gt;Qui potete scegliere di inserire il nuovo foglio prima o dopo di quello selezionato e quanti inserirne.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>He&lt;/f4&gt;re you can select whether the new sheet is to go before or after the selected sheet and how many sheets you want to insert.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T133921Z" creationid="michele" creationdate="20160525T133921Z">
+        <seg>&lt;/f4&gt;Qui potete decidere se inserire il nuovo foglio prima o dopo quello selezionato e quanti fogli inserire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11418,6 +11498,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T124919Z" creationid="steevie" creationdate="20160427T124919Z">
         <seg>Se state importando un file di Microsoft Excel contenente codice VBA, potete selezionare l'opzione &lt;f0&gt;Codice eseguibile&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are inserting only one sheet, there is the opportunity to give the sheet a name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T133923Z" creationid="michele" creationdate="20160525T133923Z">
+        <seg>Se volete inserire un solo foglio, è possibile dare ad esso un nome.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12314,6 +12402,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160509T075656Z" creationid="briga" creationdate="20160509T075535Z">
         <seg>Nella finestra Stile e formattazione s&lt;f0&gt;&lt;f1&gt;cegliete gli Stili di pagina facendo clic sull'icona  &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&lt;df4&gt;&lt;di5/&gt;&lt;s6&gt;page_styles_button&lt;/s6&gt;&lt;/df4&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f7&gt;&lt;f8&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the current document, &lt;f0&gt;right-click&lt;/f0&gt; on the sheet tab you wish to move or copy.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T134318Z" creationid="michele" creationdate="20160525T134318Z">
+        <seg>Nel documento corrente, fate &lt;f0&gt;clic&lt;/f0&gt; con il pulsante destro sulla scheda del foglio che desiderate spostare o copiare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13927,6 +14023,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moving and &lt;i0/&gt;copying sheets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T134019Z" creationid="michele" creationdate="20160525T134019Z">
+        <seg>Spostare e &lt;i0/&gt;copiare fogli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moving from cell to cell</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T095050Z" creationid="michele" creationdate="20160525T095050Z">
@@ -13947,6 +14051,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T122327Z" creationid="michele" creationdate="20160525T122327Z">
         <seg>Spostarsi da un foglio all'altro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moving sheets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T133953Z" creationid="michele" creationdate="20160525T133953Z">
+        <seg>Sposta foglio</seg>
       </tuv>
     </tu>
     <tu>
@@ -18640,6 +18752,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Move/Copy dialog provides the opportunity to specify exactly where you want the sheet to go (in the same or a different document, and what its name will be, at the same time as moving or copying occurs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T134251Z" creationid="michele" creationdate="20160525T134251Z">
+        <seg>La finestra di dialogo Sposta/Copia offre la possibilità di specificare esattamente, durante lo spostamento o la copia, la posizione in cui desiderate inserire il foglio (nello stesso o in un altro documento) e il nuovo nome del foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The NamedRanges object supports the method addNewByname, which accepts four arguments; the name, content, position, and type.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T140227Z" creationid="steevie" creationdate="20160504T140227Z">
@@ -19107,8 +19227,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>The first step for all of the methods is to select the sheets that the new sheet will be inserted next to.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160525T133229Z" creationid="michele" creationdate="20160525T133229Z">
-        <seg>Il primo passo per questi metodi è selezionare i fogli al lato dei quali andrà inserito quello nuovo.</seg>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T133630Z" creationid="michele" creationdate="20160525T133229Z">
+        <seg>Il primo passo tutti questi metodi è selezionare i fogli al lato dei quali andrà inserito quello nuovo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19345,10 +19465,26 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The mouse pointer (not shown in the illustration) may change to include an indicator; the indicator symbol varies with your operating system.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T134205Z" creationid="michele" creationdate="20160525T134205Z">
+        <seg>Il puntatore del mouse (non mostrato nell'illustrazione) potrebbe cambiare per includere un indicatore; il simbolo dell'indicatore varia a seconda del sistema operativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The mouse pointer changes to this icon.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160505T075617Z" creationid="briga" creationdate="20160505T075617Z">
         <seg>Il cursore del mouse cambierà assomigliando a questa icona:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The mouse pointer may change to include a plus sign or other indicator; the symbol varies with your operating system.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T134248Z" creationid="michele" creationdate="20160525T134248Z">
+        <seg>Il puntatore del mouse potrebbe cambiare per includere un segno più o un altro indicatore; il simbolo varia a seconda del sistema operativo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19725,6 +19861,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T142735Z" creationid="antonio" creationdate="20160524T142735Z">
         <seg>Quindi fate uno qualsiasi dei seguenti modi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then use any of the following options.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T133643Z" creationid="michele" creationdate="20160525T133643Z">
+        <seg>Poi potete ricorrere a ognuna delle seguenti opzioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20417,6 +20561,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To &lt;f0&gt;copy&lt;/f0&gt; a sheet within the same spreadsheet, hold down the &lt;f1&gt;Control&lt;/f1&gt; key (&lt;f2&gt;Option&lt;/f2&gt; key on Mac) while you click on the sheet tab and drag it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T134245Z" creationid="michele" creationdate="20160525T134245Z">
+        <seg>Per &lt;f0&gt;copiare&lt;/f0&gt; un foglio, all'interno dello stesso foglio elettronico, tenete premuto il tasto &lt;f1&gt;Ctrl&lt;/f1&gt; (tasto &lt;f2&gt;Opzione&lt;/f2&gt; su Mac) mentre fate clic sulla scheda del foglio e la trascinate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To &lt;i0/&gt;install an extension, follow these steps:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T173223Z" creationid="steevie" creationdate="20160428T173223Z">
@@ -20957,6 +21109,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163940Z" creationid="steevie" creationdate="20160428T163940Z">
         <seg>Per spostare un menu (come &lt;f0&gt;File&lt;/f0&gt;), scegliete &lt;f1&gt;Menu &gt; Sposta&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To move a sheet to a different position within the same spreadsheet, click on the sheet tab and drag it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T134144Z" creationid="michele" creationdate="20160525T134144Z">
+        <seg>Per spostare un foglio in una posizione diversa all'interno della stesso foglio di lavoro, fate clic sul foglio e trascinatelo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21509,6 +21669,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T143848Z" creationid="luciano" creationdate="20160509T143848Z">
         <seg>Due cifre decimali, separatore delle migliaia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Two little triangles indicate where the sheet will be dropped (see &lt;t0&gt;Figure 27&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T134203Z" creationid="michele" creationdate="20160525T134203Z">
+        <seg>Due piccoli triangoli indicano dove verrà rilasciato il foglio (vedere &lt;t0&gt;Figura 27&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -22097,6 +22265,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using a dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T134249Z" creationid="michele" creationdate="20160525T134249Z">
+        <seg>Usare una finestra di dialogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using a grid helps you determine the exact position of any charts or other objects you may add to a spreadsheet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T155213Z" creationid="steevie" creationdate="20160428T155213Z">
@@ -22549,6 +22725,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T151202Z" creationid="luciano" creationdate="20160424T135428Z">
         <seg>Una volta terminato, fate clic fuori dal commento per deselezionarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When moving or copying sheets between different spreadsheets, be sure that both documents are open.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T134254Z" creationid="michele" creationdate="20160525T134254Z">
+        <seg>Quando spostate o copiate dei fogli tra differenti fogli elettronici, assicuratevi che entrambi i documenti siano aperti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23561,6 +23745,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can move or copy sheets within the same spreadsheet by using either the mouse (drag and drop) or a dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T134024Z" creationid="michele" creationdate="20160525T134024Z">
+        <seg>Potete spostare o copiare fogli all'interno del medesimo foglio elettronico sia usando il mouse (trascinare e rilasciare - drag and drop) sia tramite una finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can move, resize, or dock them to an edge.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T134105Z" creationid="michele" creationdate="20160414T134105Z">
@@ -24245,6 +24437,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160428T155435Z" creationid="luciano" creationdate="20160428T155420Z">
         <seg>confronto tra documenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>copying sheets</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160525T134000Z" creationid="michele" creationdate="20160525T134000Z">
+        <seg>Copia foglio</seg>
       </tuv>
     </tu>
     <tu>
