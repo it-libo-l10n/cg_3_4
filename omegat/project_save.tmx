@@ -4296,8 +4296,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;&lt;f2&gt;Copy results to&lt;/f2&gt;&lt;/f1&gt; takes only the first cell of the target range instead of the entire range as is the case for &lt;f3&gt;Source data range&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160526T154142Z" creationid="michele" creationdate="20160526T153700Z">
-        <seg>&lt;f1&gt;&lt;f2&gt;Risultato a partire da&lt;/f2&gt;&lt;/f1&gt; prende solo la prima cella dell'Area dati di sorgente invece dell'intera area come riferimento per &lt;f3&gt;Area dati di sorgente&lt;/f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160526T155050Z" creationid="michele" creationdate="20160526T153700Z">
+        <seg>&lt;f1&gt;&lt;f2&gt;Risultato a partire da&lt;/f2&gt;&lt;/f1&gt; necessita solo della prima cella dell'Area dati di sorgente invece che dell'intera area come riferimento per le &lt;f3&gt;Aree dati di sorgente&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20200,6 +20200,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The default setting is Sum, which adds the corresponding cell values of the Source data range and gives the result in the target range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160526T154901Z" creationid="michele" creationdate="20160526T154901Z">
+        <seg>L'impostazione predefinita è Somma, che aggiunge il corrispondente valore delle celle dell'Area dati di sorgente e visualizza il risultato nel .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The default value is 15 minutes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T142616Z" creationid="michele" creationdate="20160524T142616Z">
@@ -21661,6 +21669,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T171923Z" creationid="Luciano B." creationdate="20160325T171923Z">
         <seg>Questa impostazione consente di ignorare le proprietà URL del controllo che avete inserito nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This specifies how the values of the consolidation ranges will be calculated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160526T154359Z" creationid="michele" creationdate="20160526T154359Z">
+        <seg>Questo specifica come i valori delle aree consolidate saranno calcolate.</seg>
       </tuv>
     </tu>
     <tu>
