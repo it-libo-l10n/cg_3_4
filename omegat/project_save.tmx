@@ -4294,6 +4294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;&lt;f2&gt;Copy results to&lt;/f2&gt;&lt;/f1&gt; takes only the first cell of the target range instead of the entire range as is the case for &lt;f3&gt;Source data range&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160526T154142Z" creationid="michele" creationdate="20160526T153700Z">
+        <seg>&lt;f1&gt;&lt;f2&gt;Risultato a partire da&lt;/f2&gt;&lt;/f1&gt; prende solo la prima cella dell'Area dati di sorgente invece dell'intera area come riferimento per &lt;f3&gt;Area dati di sorgente&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;Double-click&lt;/f1&gt; a name to apply that scenario.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T155907Z" creationid="michele" creationdate="20160525T155907Z">
@@ -9726,6 +9734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;225&lt;/seq0&gt;: Defining the data to be consolidated</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160526T154200Z" creationid="michele" creationdate="20160526T154200Z">
+        <seg>Figura &lt;seq0&gt;225&lt;/seq0&gt;: Definire i dati da consolidare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;: Customizing the effect of the Enter key</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T122213Z" creationid="michele" creationdate="20160525T122143Z">
@@ -12050,6 +12066,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T135636Z" creationid="michele" creationdate="20160524T135636Z">
         <seg>Se il foglio di lavoro non è stato ancora salvato, ognuna di queste azioni aprirà la finestra Salva come.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the target range is not named, click in the field next to &lt;f0&gt;Copy results to&lt;/f0&gt; and enter the reference of the target range or select the range using the mouse or position the cursor in the top left cell of the target range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160526T153726Z" creationid="michele" creationdate="20160526T153431Z">
+        <seg>Se l'area dati di sorgente non ha un nome, fate clic nel campo a lato di &lt;f0&gt;Copia i risultati in&lt;/f0&gt; e inserisci i riferimenti all'area dati di sorgente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17715,6 +17739,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160428T153315Z" creationid="luciano" creationdate="20160428T153315Z">
         <seg>Selezionate un file che volete unire e fate clic su &lt;/f0&gt;&lt;f1&gt;OK&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select a function from the Function list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160526T154223Z" creationid="michele" creationdate="20160526T154223Z">
+        <seg>Selezionare una funzione dalla lista delle funzioni.</seg>
       </tuv>
     </tu>
     <tu>
