@@ -3526,6 +3526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;LibreOffice&lt;/f0&gt; behaves differently depending on how the cells became hidden and what operation is done.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160526T130045Z" creationid="steevie" creationdate="20160526T130045Z">
+        <seg>Il comportamento di &lt;f0&gt;LibreOffice&lt;/f0&gt; cambia a seconda di come le celle sono nascoste e quali operazioni vengono eseguite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;LibreOffice&lt;/f0&gt; can open and save files in the .xlsx format produced by Microsoft Office 2007 and 2010.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T130314Z" creationid="steevie" creationdate="20160421T130314Z">
@@ -6430,6 +6438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cells may be hidden using an outline, data filter, or the hide command.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160526T130141Z" creationid="steevie" creationdate="20160526T130141Z">
+        <seg>Le celle posso essere nascoste usando una struttura, un filtro dati o il comando nascondi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changes from different authors appear in different colors in the document, as shown in &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figure 293&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160428T153946Z" creationid="luciano" creationdate="20160428T153946Z">
@@ -8398,6 +8414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Data that is not copied, however, requires special attention because rows that do not match the filter criteria are simply hidden.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160526T130009Z" creationid="steevie" creationdate="20160526T130009Z">
+        <seg>Tuttavia, occorre prestare particolare attenzione ai dati che non copiati, poiché le righe che non corrispondono ai criteri sono semplicemente nascoste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Database functions</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T101157Z">
@@ -10354,6 +10378,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T150910Z" creationid="steevie" creationdate="20160418T150557Z">
         <seg>Compila il formulario in questa pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filtered data copied to a new location may be selected, modified, and deleted at will.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160526T125859Z" creationid="steevie" creationdate="20160526T125859Z">
+        <seg>I dati filtrati copiati in una nuova posizione possono essere selezionati, modificati e cancellati a piacere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14162,6 +14194,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160509T075944Z" creationid="briga" creationdate="20160509T075944Z">
         <seg>Apportate i cambiamenti nella finestra di dialogo Stile e fate clic su &lt;f1&gt;OK&lt;/f1&gt; per salvare le modifiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Manipulating filtered data</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160526T125824Z" creationid="steevie" creationdate="20160526T125824Z">
+        <seg>Utilizzare i dati filtrati</seg>
       </tuv>
     </tu>
     <tu>
@@ -23925,6 +23965,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160510T144026Z" creationid="steevie" creationdate="20160510T144026Z">
         <seg>Quando il filtro automatico viene rimosso, la casella combinata viene eliminata dalla cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When data is moved by dragging or using cut and paste, all of the cells are moved—including the hidden cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160526T130259Z" creationid="steevie" creationdate="20160526T130259Z">
+        <seg>Quando i dati vengono spostati, sia per trascinamento che per copia e incolla tutte le celle sono spostate—incluse quelle nascoste.</seg>
       </tuv>
     </tu>
     <tu>
