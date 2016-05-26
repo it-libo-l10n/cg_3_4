@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5346,6 +5346,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T150138Z" creationid="steevie" creationdate="20160509T150138Z">
         <seg>Nonostante un'area database possa venire usata come un normale intervallo con nome, un'area database definisce anche le celle di un foglio di calcolo che sono utilizzate come database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Although every Calc function can be used for &lt;i0/&gt;database manipulation, the functions in &lt;t1&gt;Table 18&lt;/t1&gt; are more commonly used as such.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160526T131350Z" creationid="steevie" creationdate="20160526T131350Z">
+        <seg>Nonostante ogni funzione di Calc possa essere usata per &lt;i0/&gt;manipolazione di database, ne funzioni elencate nella &lt;t1&gt;Tabella 18&lt;/t1&gt; sono le più usate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18703,6 +18711,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some functions’ names differ only by the letter appended at the end; AVERAGE and AVERAGEA, for example.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160526T131445Z" creationid="steevie" creationdate="20160526T131353Z">
+        <seg>I nomi di alcune funzioni si differenziano solo per la lettera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some keystrokes and menu items are different on a Mac from those used in Windows and Linux.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T151147Z">
@@ -23897,6 +23913,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When &lt;t0/&gt;copying data, however, filtered data includes only the visible cells and data hidden using an outline or the hide command copies all of the data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160526T131213Z" creationid="steevie" creationdate="20160526T131213Z">
+        <seg>Quando &lt;t0/&gt;si copiano i dati, tuttavia, quelli filtrati comprendono le sole celle visibili e quelli nascosti tramite una struttura o il comando nascondi copia tutti i dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When Calc is started, the &lt;i0/&gt;main window looks similar to &lt;t1&gt;Figure 2&lt;/t1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T163029Z">
@@ -26101,6 +26125,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160505T143641Z" creationid="luciano" creationdate="20160505T143641Z">
         <seg>tasti funzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>functions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160526T131228Z" creationid="steevie" creationdate="20160526T131228Z">
+        <seg>funzioni</seg>
       </tuv>
     </tu>
     <tu>
