@@ -21145,6 +21145,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are two ways to reference cells in other sheets: by entering the formula directly using the keyboard or by using the mouse.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160527T110251Z" creationid="antonio" creationdate="20160527T110251Z">
+        <seg>Ci sono due modi per fare riferimento celle in altri fogli: attraverso l'inserimento diretto della formula usando la tastiera o il mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There is only one common setting valid for the whole PDF document: PDF (sends the whole document), &lt;/f8&gt;&lt;is9/&gt;&lt;f10&gt;FDF&lt;/f10&gt;&lt;ie11/&gt;&lt;f12&gt; (sends the control contents), HTML, and XML.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T173546Z" creationid="Luciano B." creationdate="20160325T171943Z">
