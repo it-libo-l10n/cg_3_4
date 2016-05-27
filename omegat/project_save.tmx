@@ -3110,6 +3110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Data &gt; Subtotals&lt;/f0&gt; from the menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160527T151158Z" creationid="michele" creationdate="20160527T151158Z">
+        <seg>&lt;f0&gt;Dati &gt; Subtotali&lt;/f0&gt; dalla barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Data Range.&lt;/f0&gt; Specifies the current data range denoted by the position of the cell cursor.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T155353Z" creationid="michele" creationdate="20160525T155353Z">
@@ -17559,6 +17567,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SUBTOTAL is listed under the Mathematical category when you use the Function Wizard (&lt;f0&gt;Insert&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Function&lt;/f3&gt;&lt;f4&gt; or press &lt;/f4&gt;&lt;f5&gt;Ctrl+F2&lt;/f5&gt;&lt;f6&gt;)&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160527T151742Z" creationid="michele" creationdate="20160527T151216Z">
+        <seg>SUBTOTALE è elencato sotto la categoria Matematica della creazione guidata funzione (&lt;f0&gt;Inserisci&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Funzione&lt;/f3&gt;&lt;f4&gt; o premi&lt;/f4&gt;&lt;f5&gt;Ctrl+F2&lt;/f5&gt;&lt;f6&gt;)&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sal</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T151922Z" creationid="steevie" creationdate="20160503T151922Z">
@@ -20152,6 +20168,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The SUBTOTAL function</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160527T151043Z" creationid="michele" creationdate="20160527T151043Z">
+        <seg>La funzione SUBTOTALE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Set Password dialog (&lt;t0&gt;Figure 20&lt;/t0&gt;) opens.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T085901Z" creationid="michele" creationdate="20160525T085901Z">
@@ -21717,6 +21741,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T083519Z">
         <seg>Questo forum fornisce il supporto della comunità per LibreOffice e altri programmi: &lt;a2&gt;http://user.services.openoffice.org/en/forum/&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This function is a relatively limited method for generating a subtotal.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160527T151840Z" creationid="michele" creationdate="20160527T151840Z">
+        <seg>Questa funzione è un metodo relativamente limitato per la generazione di subtotali .</seg>
       </tuv>
     </tu>
     <tu>
@@ -23997,6 +24029,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T212218Z">
         <seg>Usare il Navigatore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the SUBTOTAL function</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160527T151210Z" creationid="michele" creationdate="20160527T151210Z">
+        <seg>Usare la funzione SUBTOTALE</seg>
       </tuv>
     </tu>
     <tu>
