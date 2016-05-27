@@ -2998,6 +2998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Click &lt;/f0&gt;&lt;f1&gt;OK&lt;/f1&gt;&lt;f2&gt; to return the summed values of Brigitte’s sales (&lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Figure 228&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;).&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160527T154953Z" creationid="michele" creationdate="20160527T154953Z">
+        <seg>&lt;f0&gt;Fare clic su  &lt;/f0&gt;&lt;f1&gt;OK&lt;/f1&gt;&lt;f2&gt; per tornare alla somma delle vendite di Brigitta (&lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Figura 228&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;).&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Click &lt;/f0&gt;&lt;f1&gt;OK&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T170032Z">
@@ -3242,6 +3250,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T151849Z">
         <seg>&lt;f0&gt;Assicurarsi che  &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Documento (Globale)&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; sia selezionato nel riquadro di Scopo.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Enter the required information into the two input boxes as shown in Figure &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;229&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160527T154141Z" creationid="michele" creationdate="20160527T154141Z">
+        <seg>&lt;f0&gt;Inserisci le informazioni richieste nei due campi come mostrato in Figura &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;229&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9846,6 +9862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;228&lt;/seq0&gt;: SUBTOTAL result for Brigitte's sales</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160527T155036Z" creationid="michele" creationdate="20160527T155008Z">
+        <seg>Figura &lt;seq0&gt;228&lt;/seq0&gt;: risultato del SUBTOTALE delle vendite di Brigitta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;: Customizing the effect of the Enter key</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T122213Z" creationid="michele" creationdate="20160525T122143Z">
@@ -13082,6 +13106,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T152223Z" creationid="steevie" creationdate="20160503T152223Z">
         <seg>In altre parole, difficilmente sentirete qualcuno riferirsi a una colonna di dati come ad un singolo record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In our example we select the sales figures (B5:B23) and we require the sum total (function index 9).&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160527T154853Z" creationid="michele" creationdate="20160527T154853Z">
+        <seg>Nel nostro esempio selezioniamo i dati delle vendite (B5:B23) ed effettuiamo la somma del totale (numero funzione 9).&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18007,6 +18039,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select SUBTOTAL from the function list in the Function Wizard dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160527T154059Z" creationid="michele" creationdate="20160527T154059Z">
+        <seg>Seleziona subtotale dalla lista delle funzioni nella finestra di dialogo Creazione Guidata delle funzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select a category and then the command, and click &lt;f1&gt;Add&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165719Z" creationid="steevie" creationdate="20160428T165719Z">
@@ -21085,6 +21125,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142921Z" creationid="steevie" creationdate="20160504T142921Z">
         <seg>L'intervallo contiene criteri filtro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The range is selected from the filtered data, and the function is selected from the list of available possible functions as shown in the Help file extract of Figure &lt;/f3&gt;&lt;f4&gt;&lt;t5&gt;230&lt;/t5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160527T154647Z" creationid="michele" creationdate="20160527T154543Z">
+        <seg>L'area dati è selezionata dai dati filtrati, e la funzione è selezionata dalla lista di possibili funzioni come mostrato in nell'estratto dell'Help in Figura &lt;/f3&gt;&lt;f4&gt;&lt;t5&gt;230&lt;/t5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
