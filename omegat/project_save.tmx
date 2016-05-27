@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* [ ] : and ' as the first or last character of the name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160527T101024Z" creationid="antonio" creationdate="20160527T101024Z">
+        <seg>* [ ] : e ' come primo e ultimo carattere del nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>.*win</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T152538Z" creationid="steevie" creationdate="20160427T152538Z">
@@ -8784,8 +8792,8 @@
       <tuv lang="EN">
         <seg>Double click on the sheet tab, or</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="antonio" changedate="20160527T100633Z" creationid="antonio" creationdate="20160527T100633Z">
-        <seg>Fate dobbio click sulla scheda del foglio, o</seg>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160527T100812Z" creationid="antonio" creationdate="20160527T100633Z">
+        <seg>Fate dobbio click sulla scheda foglio, o</seg>
       </tuv>
     </tu>
     <tu>
@@ -12546,6 +12554,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160505T074645Z" creationid="luciano" creationdate="20160428T153739Z">
         <seg>Se volete unire altri documenti, chiudete la finestra di dialogo e ripetete i punti 2 e 3.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want to save the spreadsheet to Microsoft Excel format, the following characters are not allowed in sheet names: \ / ?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160527T100951Z" creationid="antonio" creationdate="20160527T100951Z">
+        <seg>Se volete salvare il foglio di lavoro nel formato Microsoft Excel, i seguenti caratteri non sono ammessi nei nomi dei fogli: \ / ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -17267,6 +17283,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T084001Z" creationid="michele" creationdate="20160524T083924Z">
         <seg>fare clic con il pulsante secondario del mouse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click on a sheet tab, select &lt;f0&gt;Rename Sheet&lt;/f0&gt; from the &lt;f1&gt;context&lt;/f1&gt; menu and replace the existing name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160527T100806Z" creationid="antonio" creationdate="20160527T100806Z">
+        <seg>Fate tasto destro sulla scheda foglio, selezionate &lt;f0&gt;Rinomina foglio&lt;/f0&gt; dal &lt;f1&gt;menu contestuale&lt;/f1&gt; e sostituite il nome esistente.</seg>
       </tuv>
     </tu>
     <tu>
