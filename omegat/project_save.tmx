@@ -21601,6 +21601,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This ledger is set up in the sheet named &lt;f0&gt;Checking Account&lt;/f0&gt;&lt;f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160527T102657Z" creationid="antonio" creationdate="20160527T102657Z">
+        <seg>Questo registro è impostato nel foglio chiamato &lt;f0&gt;Conto corrente&lt;/f0&gt;&lt;f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This library is not created until the document is saved or the library is needed, so at this point your new document does not contain a library.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160524T145650Z" creationid="luciano" creationdate="20160524T145650Z">
