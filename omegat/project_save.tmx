@@ -4542,6 +4542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t1&gt;Figure 252&lt;/t1&gt; shows a summary sheet with a blank Balance column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160527T121522Z" creationid="antonio" creationdate="20160527T121522Z">
+        <seg>&lt;t1&gt;Figura 252&lt;/t1&gt; mostra un foglio di riepilogo con una colonna di saldo bianca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t1&gt;Listing 1&lt;/t1&gt; shows the contents of the macro.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160524T152902Z" creationid="luciano" creationdate="20160524T152902Z">
@@ -24053,6 +24061,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T145231Z" creationid="antonio" creationdate="20160524T145231Z">
         <seg>Abbiamo due possibilità: inserire 3 nuovi fogli e rinominare tutti i 6 fogli successivamente o rinominare i fogli esistenti, quindi inserire i 3 nuovi fogli uno alla volta, rinominando ogni nuovo foglio durante la fase di inserimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We want to place the reference for the checking account balance in cell B3.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160527T121653Z" creationid="antonio" creationdate="20160527T121653Z">
+        <seg>Vogliamo collocare il riferimento per il controllo del saldo di conto nella cella B3.</seg>
       </tuv>
     </tu>
     <tu>
