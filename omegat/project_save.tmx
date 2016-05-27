@@ -7238,6 +7238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to consolidate the ranges.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160527T141548Z" creationid="michele" creationdate="20160527T141548Z">
+        <seg>Fate clic su &lt;f0&gt;OK&lt;/f0&gt; per consolidare le aree dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to create a new module named Module1.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160524T152732Z" creationid="luciano" creationdate="20160524T150803Z">
@@ -12138,6 +12146,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160426T160024Z" creationid="luciano" creationdate="20160426T160024Z">
         <seg>Se il revisore ha aggiunto un commento alla modificha, questo sarà visualizzato, seguito dalla descrizione della modifica, come nella prima linea di &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Figura 291&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the row or column label of one source data range does not match any that exist in other source data ranges, it is added to the target range as a new row or column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160527T141513Z" creationid="michele" creationdate="20160527T141513Z">
+        <seg>Se le etichette delle righe o delle colonne di una sorgente dati non corrispondono esattamente quelle di altre sorgenti dati, viene aggiunto all'area di destinazione come nuova riga o colonna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21109,6 +21125,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084322Z">
         <seg>I termini utilizzati in LibreOffice per la maggior parte dell'&lt;i0/&gt;&lt;f1&gt;interfaccia utente&lt;/f1&gt; (la parte del programma che vedete e utilizzate, a differenza del codice dietro le quinte che lo rende funzionante) sono gli stessi come per molti altri programmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The text in the labels must be identical, so that rows or columns can be accurately matched.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160527T141202Z" creationid="michele" creationdate="20160527T141202Z">
+        <seg>Il testo delle etichette deve essere identico, quindi quelle righe o colonne devono essere attentamente accoppiate.</seg>
       </tuv>
     </tu>
     <tu>
