@@ -12510,6 +12510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you link the data, any values modified in the source range are automatically updated in the target range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160527T135021Z" creationid="michele" creationdate="20160527T135021Z">
+        <seg>Se colleghi i dati, ogni valore modificato nell'area di sorgente è automaticamente aggiornato nell'area di destinazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you load a palette in one component of &lt;f0&gt;LibreOffice&lt;/f0&gt;, it is only active in that component; the other components keep their own palettes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T160222Z" creationid="steevie" creationdate="20160418T160214Z">
@@ -15747,6 +15755,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T160724Z" creationid="Luciano B." creationdate="20160326T160724Z">
         <seg>In Calc è disponibile un solo livello di Segnalibri (nome dei fogli) , indipendentemente dalle opzioni scelte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only the final result, based on the selected function, is displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160527T135321Z" creationid="michele" creationdate="20160527T135321Z">
+        <seg>Viene visualizzato solo il risultato finale, in base alla funzione scelta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20316,6 +20332,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084421Z">
         <seg>I collaboratori di quella Guida sono:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The corresponding cell references in the target range are inserted in consecutive rows, which are automatically ordered and then hidden from view.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160527T135248Z" creationid="michele" creationdate="20160527T135248Z">
+        <seg>I riferimenti di cella corrispondenti nell'area di destinazione sono inseriti in righe consecutive, che sono automaticamente ordinate e poi rese invisibili.</seg>
       </tuv>
     </tu>
     <tu>
