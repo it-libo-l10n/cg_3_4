@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21541,6 +21541,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T162613Z">
         <seg>Questa funzione è particolarmente utile nel caso di un documento di grosse dimensioni; per esempio, controllare l'ordine di stampa può farvi risparmiare tempo se dovete ordinare il documento in un certo modo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is just a simple summary that includes the previous balance plus the amount of the current transaction.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160527T102039Z" creationid="antonio" creationdate="20160527T102039Z">
+        <seg>Questo è solo un semplice riepilogo che include il saldo precedente più l'importo della transazione corrente.</seg>
       </tuv>
     </tu>
     <tu>
