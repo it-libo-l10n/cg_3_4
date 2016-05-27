@@ -8102,6 +8102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating &lt;is0/&gt;&lt;is1/&gt;subtotals</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160527T150958Z" creationid="michele" creationdate="20160527T150958Z">
+        <seg>Creare &lt;is0/&gt;&lt;is1/&gt;subtotali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating Charts and Graphs</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T102345Z">
@@ -12302,6 +12310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are continually working with the same range, then you probably want to use &lt;f0&gt;Data&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Define Range&lt;/f3&gt; to give it a name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160527T150538Z" creationid="michele" creationdate="20160527T150538Z">
+        <seg>Se state continuativamente lavorando sulle stesse aree dati, potreste trovare utile usare &lt;f0&gt;Dati&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Definisci area&lt;/f3&gt; per dargli un nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are importing a Microsoft Excel file containing VBA code, you can select the option &lt;f0&gt;Executable code&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T124919Z" creationid="steevie" creationdate="20160427T124919Z">
@@ -12522,6 +12538,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T162002Z" creationid="Luciano B." creationdate="20160315T172725Z">
         <seg>Mantenendoli selezionati, invece di inserire i dati su un unico foglio li inserirete su tutti i fogli selezionati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you later open a document in which consolidation has been defined, this data is still available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160527T150948Z" creationid="michele" creationdate="20160527T150948Z">
+        <seg>Se aprite un documento in un momento successivo a quello nel quale sono state definite delle consolidazioni, queste resteranno disponibili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19599,6 +19623,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Subtotals are implemented in two ways:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160527T151028Z" creationid="michele" creationdate="20160527T151028Z">
+        <seg>I subtotali sono implementati in due modi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Switches to Edit mode and places the cursor at the end of the contents of the current cell.&lt;f0&gt; &lt;/f0&gt;If the cursor is in an input box in a dialog that has a minimize button, the dialog is hidden and the input box remains visible.&lt;f1&gt; &lt;/f1&gt;Press &lt;f2&gt;&lt;f3&gt;F2&lt;/f3&gt;&lt;/f2&gt; again to show the whole dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160505T144913Z" creationid="luciano" creationdate="20160505T144913Z">
@@ -20332,6 +20364,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163452Z" creationid="steevie" creationdate="20160428T163452Z">
         <seg>I comandi disponibili per il menu selezionato sono mostrati nella parte centrale della finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The consolidation ranges and target range are saved as part of the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160527T150644Z" creationid="michele" creationdate="20160527T150644Z">
+        <seg>Le aree da consolidare e le aree di destinazione sono salvate come una parte del documento.</seg>
       </tuv>
     </tu>
     <tu>
