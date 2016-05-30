@@ -6182,6 +6182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, matching items throughout your array will be gathered together as a single group above a subtotal.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160530T145823Z" creationid="michele" creationdate="20160530T145823Z">
+        <seg>Per impostazione predefinita, .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, moves the cursor down one cell in a selected range.&lt;f0&gt; &lt;/f0&gt;To specify the direction that the cursor moves, choose &lt;f1&gt;&lt;f2&gt;Tools &gt; Options &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;LibreOffice&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; Calc &gt; General&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160505T143625Z" creationid="luciano" creationdate="20160505T143625Z">
@@ -23947,8 +23955,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>Using Data &gt; Subtotals</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160530T143800Z" creationid="michele" creationdate="20160530T143800Z">
-        <seg>Dati &gt; Subtotals</seg>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160530T145837Z" creationid="michele" creationdate="20160530T143800Z">
+        <seg>Usare Dati &gt; Subtotals</seg>
       </tuv>
     </tu>
     <tu>
