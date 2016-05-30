@@ -24753,6 +24753,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you click &lt;f1&gt;OK&lt;/f1&gt;, Calc adds subtotal and grand total rows to the selected arrays, using the Result and Result2 cell styles to differentiate those entries.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160530T145651Z" creationid="michele" creationdate="20160530T145651Z">
+        <seg>Quando fai clic su &lt;f1&gt;OK&lt;/f1&gt;, Calc aggiunge subtotali e risultati complessivi ai gruppi selezionati, usando gli stili di celle Risultati e Risultati2 per differenziare gli esiti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you close the dialog after use (usually, clicking &lt;f0&gt;OK&lt;/f0&gt; or another button saves your changes and closes the dialog), then you can again work with your document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084339Z">
