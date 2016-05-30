@@ -4838,6 +4838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A partial view of the results using our example data is shown in &lt;t0&gt;Figure 232&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160530T153434Z" creationid="michele" creationdate="20160530T153434Z">
+        <seg>Una visione parziale dei risultati usando i nostri dati di esempio è mostrata in &lt;t0&gt;Figura 232&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A particular cell is identified by its row number and column letter.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T162517Z">
@@ -9934,6 +9942,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;231&lt;/seq0&gt;: Setting up subtotals</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160530T153347Z" creationid="michele" creationdate="20160530T153347Z">
+        <seg>Figura &lt;seq0&gt;231&lt;/seq0&gt;: Impostare subtotali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;232&lt;/seq0&gt;: Subtotals are calculated for each employee (partial view) using the &lt;f1&gt;1st Group &lt;/f1&gt;&lt;f2&gt;and&lt;/f2&gt;&lt;f3&gt; 2nd&lt;/f3&gt;&lt;f4&gt; Group&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160530T153720Z" creationid="michele" creationdate="20160530T153720Z">
+        <seg>Figura &lt;seq0&gt;232&lt;/seq0&gt;: Subtotali calcolati per ogni impiegato (vista parziale) usando il &lt;f1&gt;1° Grouppo &lt;/f1&gt;&lt;f2&gt;e il &lt;/f2&gt;&lt;f3&gt; 2°&lt;/f3&gt;&lt;f4&gt; Group&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;23&lt;/seq0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T122802Z" creationid="michele" creationdate="20160525T122802Z">
@@ -13282,6 +13306,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T101343Z" creationid="michele" creationdate="20160525T101343Z">
         <seg>Nella colonna &lt;f0&gt;Tipo&lt;/f0&gt; potete scegliere tra testo, dataora, data, numero, durata, oppure sì/no per ciascun campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the &lt;f0&gt;Use function&lt;/f0&gt; box, select the function that you want to use to calculate the subtotals.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160530T152948Z" creationid="michele" creationdate="20160530T152948Z">
+        <seg>Nel riquadro &lt;f0&gt;Funzione&lt;/f0&gt;, seleziona la funzione che desideri usare per calcolare i subtotali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19815,6 +19847,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Subtotals for Sales by Employee and Category were used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160530T153548Z" creationid="michele" creationdate="20160530T153548Z">
+        <seg>Sono utilizzati i Subtotali per le Vendite di ogni Dipendente e Categoria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Switches to Edit mode and places the cursor at the end of the contents of the current cell.&lt;f0&gt; &lt;/f0&gt;If the cursor is in an input box in a dialog that has a minimize button, the dialog is hidden and the input box remains visible.&lt;f1&gt; &lt;/f1&gt;Press &lt;f2&gt;&lt;f3&gt;F2&lt;/f3&gt;&lt;/f2&gt; again to show the whole dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160505T144913Z" creationid="luciano" creationdate="20160505T144913Z">
@@ -25565,6 +25605,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170957Z" creationid="steevie" creationdate="20160428T170957Z">
         <seg>È possibile configurare delle combinazioni di tasti per assegnare rapidamente gli stili in un documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can create a further two &lt;f0&gt;Group by&lt;/f0&gt; subtotals using the 2&lt;f1&gt;nd&lt;/f1&gt; Group and 3&lt;f2&gt;rd&lt;/f2&gt; Group tabs and repeating steps 3 to 5.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160530T153313Z" creationid="michele" creationdate="20160530T153313Z">
+        <seg>Puoi creare altri due subtotali &lt;f0&gt;Raggruppa per&lt;/f0&gt; usando le schede 2&lt;f1&gt;nd&lt;/f1&gt; Gruppo e 3&lt;f2&gt;rd&lt;/f2&gt; Gruppo ripetendo i passaggi da 3 a 5.</seg>
       </tuv>
     </tu>
     <tu>
