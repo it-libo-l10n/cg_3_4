@@ -15559,6 +15559,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Numbers 2 to 4 show reducing grouping levels, with number 4 showing individual entries.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160530T154944Z" creationid="michele" creationdate="20160530T154944Z">
+        <seg>I numri dal 2 al 4 mostrano livelli di raggruppamento inferiori, il numero 4 mostra le singole voci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ODF format version</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T125627Z" creationid="steevie" creationdate="20160421T125627Z">
@@ -21157,6 +21165,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T110627Z">
         <seg>L'area non stampabile ha uno sfondo grigio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The number of levels is dependent on the number of groupings in the subtotals.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160530T155709Z" creationid="michele" creationdate="20160530T155709Z">
+        <seg>Il numero dei livelli dipende dal numero di gruppi dei subtotali.</seg>
       </tuv>
     </tu>
     <tu>
