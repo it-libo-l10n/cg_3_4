@@ -4798,6 +4798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A more comprehensive solution is to create subtotals using &lt;f0&gt;Data &gt; Subtotals&lt;/f0&gt; from the Menu bar, which opens the Subtotals dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160530T143955Z" creationid="michele" creationdate="20160530T143955Z">
+        <seg>Una soluzione più comoda è creare subtotali usando &lt;f0&gt;Dati &gt; Subtotali&lt;/f0&gt; dalla barra dei menu, che apre la finestra di dialogo Subtotali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A name is usually associated with a range for one of three reasons:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T131719Z" creationid="steevie" creationdate="20160504T131632Z">
@@ -19735,6 +19743,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Subtotal creates totals for data arranged in an array—that is, a group of cells with labels for columns.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160530T144356Z" creationid="michele" creationdate="20160530T144356Z">
+        <seg>I subtotali generano dei totali per dati posizionati in vettori - che sono gruppi di celle con etichette per le colonne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Subtotals are implemented in two ways:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160527T151028Z" creationid="michele" creationdate="20160527T151028Z">
@@ -23929,6 +23945,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using Data &gt; Subtotals</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160530T143800Z" creationid="michele" creationdate="20160530T143800Z">
+        <seg>Dati &gt; Subtotals</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using Fill Format mode</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160330T085229Z" creationid="briga" creationdate="20160330T085229Z">
@@ -24165,6 +24189,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160330T085529Z" creationid="briga" creationdate="20160330T085211Z">
         <seg>Usando la finestra Stili e formattazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the Subtotals dialog, you can select up to three arrays, then choose a statistical function to apply to them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160530T144635Z" creationid="michele" creationdate="20160530T144635Z">
+        <seg>Usando la finestra Subtotali, puoi selezionare fino a tre gruppi di celle e selezionare una funzione da applicargli.</seg>
       </tuv>
     </tu>
     <tu>
