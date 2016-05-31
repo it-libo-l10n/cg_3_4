@@ -4870,6 +4870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A scenario is essentially a saved set of cell values for your calculations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T134405Z" creationid="michele" creationdate="20160531T134405Z">
+        <seg>Uno scenario è essenzialmente un insieme di valori delle celle salvato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A setting of 90% works well with photographs (small file size, little perceptible loss).&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165933Z" creationid="Luciano B." creationdate="20160325T165933Z">
@@ -9174,6 +9182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each scenario is named, and can be edited and formatted separately.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T134021Z" creationid="michele" creationdate="20160531T134021Z">
+        <seg>Ogni scenario ha un nome, e può essere modificato e formattato separatamente\.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Each sheet in a spreadsheet is independent of the others, though they can be linked with references from one sheet to another.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T122330Z" creationid="michele" creationdate="20160525T122330Z">
@@ -10946,6 +10962,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T155420Z">
         <seg>Ad esempio, se avete impostato l'interruzione di colonna dalla casella H15, non potrete rimuoverla dalla cella D15.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, if you wanted to calculate the effect of different interest rates on an investment, you could add a scenario for each interest rate, and quickly view the results.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T134741Z" creationid="michele" creationdate="20160531T134741Z">
+        <seg>Per esempio, se desideri calcolare l'effetto di diversi tassi di interesse su un investimento, potresti aggiungere uno scenario per ogni tasso di interesse, e rapidamente visualizzare il risultato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20560,6 +20584,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Scenario is a tool to test “what-if” questions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T133904Z" creationid="michele" creationdate="20160531T133904Z">
+        <seg>Gli scenari sono uno strumento per testare domande “cosa succede se”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Set Password dialog (&lt;t0&gt;Figure 20&lt;/t0&gt;) opens.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T085901Z" creationid="michele" creationdate="20160525T085901Z">
@@ -25169,6 +25201,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you print the spreadsheet, only the contents of the currently active scenario are printed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T134128Z" creationid="michele" creationdate="20160531T134128Z">
+        <seg>Quando stampate un foglio di calcolo, sono stampati solo i contenuti dello scenario attivo in quel momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you receive a document back with changes, the beauty of the recording changes system becomes evident.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160426T154534Z" creationid="luciano" creationdate="20160426T154534Z">
@@ -25909,6 +25949,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T161803Z" creationid="Luciano B." creationdate="20160329T161803Z">
         <seg>È possibile fare doppio clic sull'icona per visualizzare il certificato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can easily switch between these sets using the Navigator or &lt;s0/&gt;a drop-down list which can be shown beside the changing cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T134548Z" creationid="michele" creationdate="20160531T134548Z">
+        <seg>Puoi facilmente cambiare tra questi insiemi usando il Navigatore o &lt;s0/&gt;o un menu a tendina visualizzato al lato delle celle modificabili.</seg>
       </tuv>
     </tu>
     <tu>
