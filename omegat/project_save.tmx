@@ -4774,6 +4774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A fuller explanation of the effect this option has in different situations is given below.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T151032Z" creationid="michele" creationdate="20160531T151032Z">
+        <seg>Di seguito una descrizione esaustiva degli effetti che questa opzione ha nelle diverse situazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A gray line appears, running across the page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T153150Z" creationid="michele" creationdate="20160525T153150Z">
@@ -5142,6 +5150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adds to your document a sheet that permanently displays the new scenario in full.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T150329Z" creationid="michele" creationdate="20160531T150329Z">
+        <seg>Aggiunge al vostro documento un foglio che permanentemente mostra interamente il nuovo scenario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Advanced filter properties.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160517T132514Z" creationid="steevie" creationdate="20160517T132514Z">
@@ -5346,6 +5362,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20160129T124840Z">
         <seg>Tutti i marchi registrati citati in questo documento appartengono ai legittimi proprietari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Also prevents changes to the settings described in this section while the sheet is protected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T150840Z" creationid="michele" creationdate="20160531T150840Z">
+        <seg>Previene anche modifiche alle impostazioni descritte in questa sezione mentre il foglio è protetto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6642,6 +6666,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160206T090158Z">
         <seg>Cambiare i colori predefiniti per i diagrammi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changing scenarios</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T151044Z" creationid="michele" creationdate="20160531T151044Z">
+        <seg>Modifica scenari</seg>
       </tuv>
     </tu>
     <tu>
@@ -8122,6 +8154,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T144944Z" creationid="michele" creationdate="20160531T144944Z">
         <seg>Ricopiare all'indietro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy entire sheet</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T150224Z" creationid="michele" creationdate="20160531T150224Z">
+        <seg>Copiare intero foglio</seg>
       </tuv>
     </tu>
     <tu>
@@ -16951,6 +16991,22 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Prevent changes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T150622Z" creationid="michele" creationdate="20160531T150622Z">
+        <seg>Impedisci modifiche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Prevents changes to a scenario enabled as a &lt;f0&gt;Copy back&lt;/f0&gt;, when the sheet is protected but the cells are not.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T150740Z" creationid="michele" creationdate="20160531T150740Z">
+        <seg>Previene modifiche a uno scenario attivato come &lt;f0&gt;Ricopiare all'indietro&lt;/f0&gt;, quando il foglio e protetto ma le celle non lo sono.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Print</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T163755Z">
@@ -20834,8 +20890,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The actual behavior of the &lt;f0&gt;Copy back&lt;/f0&gt; setting depends on the cell protection, the sheet protection, and the &lt;f1&gt;Prevent changes&lt;/f1&gt; setting (see Table &lt;t2&gt;12&lt;/t2&gt; &lt;f3&gt;on page &lt;/f3&gt;&lt;f4&gt;&lt;t5&gt;233&lt;/t5&gt;&lt;/f4&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160531T145750Z" creationid="michele" creationdate="20160531T145750Z">
-        <seg>L'effettivo comportamento dell'impostazione &lt;f0&gt;Ricopiare all'indietro&lt;/f0&gt;dalla protezione delle celle, dalla protezione del foglio, e dall'impostazione &lt;f1&gt;impedire modifiche&lt;/f1&gt; (vedi tabella &lt;t2&gt;12&lt;/t2&gt; &lt;f3&gt;a pagina&lt;/f3&gt;&lt;f4&gt;&lt;t5&gt;233&lt;/t5&gt;&lt;/f4&gt;).</seg>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T150912Z" creationid="michele" creationdate="20160531T145750Z">
+        <seg>L'effettivo comportamento dell'impostazione &lt;f0&gt;Ricopiare all'indietro&lt;/f0&gt;dalla protezione delle celle, dalla protezione del foglio, e dall'impostazione &lt;f1&gt;Impedisci modifiche&lt;/f1&gt; (vedi tabella &lt;t2&gt;12&lt;/t2&gt; &lt;f3&gt;a pagina&lt;/f3&gt;&lt;f4&gt;&lt;t5&gt;233&lt;/t5&gt;&lt;/f4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -22441,6 +22497,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is easily avoided if you leave the current values alone, create a new scenario with &lt;f0&gt;Copy back&lt;/f0&gt;&lt;f1&gt; enabled, and then change the values only when you are viewing the new scenario.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T150200Z" creationid="michele" creationdate="20160531T150200Z">
+        <seg>Questo si può facilmente evitare lasciando i valori correnti separati, e andando a creare un nuovo scenario con &lt;f0&gt;Ricopiare all'indietro&lt;/f0&gt;&lt;f1&gt; attivato, e poi modificare i valori solo quando state vedendo il nuovo scenario.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is especially useful if you have a large spreadsheet and only want to review a part of it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T152053Z" creationid="luciano" creationdate="20160425T121020Z">
@@ -22461,6 +22525,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T162613Z">
         <seg>Questa funzione è particolarmente utile nel caso di un documento di grosse dimensioni; per esempio, controllare l'ordine di stampa può farvi risparmiare tempo se dovete ordinare il documento in un certo modo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is in addition to creating the scenario and making it selectable on the original sheet as normal.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T150604Z" creationid="michele" creationdate="20160531T150548Z">
+        <seg>Questa è un'aggiunta alla creazione dello scenario e al renderlo selezionabile nel foglio originale come da procedura normale.</seg>
       </tuv>
     </tu>
     <tu>
