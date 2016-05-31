@@ -5206,6 +5206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After &lt;i0/&gt;scenarios are added to a spreadsheet, you can jump to a particular scenario by selecting it from the list in the Navigator.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T155415Z" creationid="michele" creationdate="20160531T155415Z">
+        <seg>Dopo &lt;i0/&gt;aver aggiunto gli scenari ad un foglio di calcolo, puoi saltare ad uno scenario in particolare selezionandolo dal Navigatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After applying a filter, some rows are visible and some rows are not.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160510T141516Z" creationid="steevie" creationdate="20160510T141516Z">
@@ -7794,6 +7802,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T135511Z" creationid="michele" creationdate="20160524T135511Z">
         <seg>fai clic sul pulsante &lt;f0&gt;Salva &lt;/f0&gt;nella barra degli strumenti principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Scenarios&lt;/f0&gt; icon in the Navigator (see &lt;t1&gt;Figure 236&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T155451Z" creationid="michele" creationdate="20160531T155451Z">
+        <seg>Fate clic sull'icona &lt;f0&gt;Scenari&lt;/f0&gt;nel Navigatore (Vedi&lt;t1&gt;Figura 236&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15743,6 +15759,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Navigator</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T155223Z" creationid="michele" creationdate="20160531T155223Z">
+        <seg>Navigatore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>New spreadsheets created from this template will all have your company’s logo and address on the first page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160213T104717Z">
@@ -18345,8 +18369,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Scenario cell values can be changed and the scenario is updated or not, depending on the Copy back setting.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160531T154936Z" creationid="michele" creationdate="20160531T154936Z">
-        <seg>.</seg>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T155135Z" creationid="michele" creationdate="20160531T154936Z">
+        <seg>I valori delle celle degli scenari possono essere modificati e lo scenario viene aggiornato o meno, a seconda dell'impostazione ricopiare all'indietro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21380,6 +21404,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T142616Z" creationid="michele" creationdate="20160524T142616Z">
         <seg>Il valore predefinito è 15 minuti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The defined scenarios are listed, along with the comments that were entered when the scenarios were created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T160122Z" creationid="michele" creationdate="20160531T160122Z">
+        <seg>Vengono mostrati gli scenari definiti in precedenza, assieme ai commenti inseriti all'atto di creazione dello scenario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26017,6 +26049,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Working with scenarios using the Navigator</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T155213Z" creationid="michele" creationdate="20160531T155213Z">
+        <seg>Lavorare con gli scenari usando il Navigatore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Working with sheets</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T212211Z">
@@ -28365,6 +28405,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172430Z" creationid="steevie" creationdate="20160428T172430Z">
         <seg>salvare in un file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>scenarios</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T155219Z" creationid="michele" creationdate="20160531T155219Z">
+        <seg>scenari</seg>
       </tuv>
     </tu>
     <tu>
