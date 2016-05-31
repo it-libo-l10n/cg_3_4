@@ -7750,6 +7750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the arrow button to the right of the scenario name to open a drop-down list of all the scenarios that have been defined for the cells within the border.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T144904Z" creationid="michele" creationdate="20160531T144904Z">
+        <seg>Fate clic sul bottone a freccia sulla destra del nome dello scenario per aprire un menu a tendina che mostra tutti gli scenari definiti per le celle interne ai bordi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the down-arrow at the right-hand end of the Formatting toolbar (circled in &lt;t0&gt;Figure 108&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160505T080314Z" creationid="briga" creationdate="20160505T080314Z">
@@ -8098,6 +8106,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T150048Z" creationid="luciano" creationdate="20160509T150048Z">
         <seg>Copia o sposta il campo attivo nell'area "Riga".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy back</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T144944Z" creationid="michele" creationdate="20160531T144944Z">
+        <seg>Ricopiare all'indietro</seg>
       </tuv>
     </tu>
     <tu>
@@ -8858,6 +8874,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095217Z">
         <seg>Firma digitale dei documenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display border</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T144433Z" creationid="michele" creationdate="20160531T144345Z">
+        <seg>Visualizza bordo</seg>
       </tuv>
     </tu>
     <tu>
@@ -16735,6 +16759,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Places a border around the range of cells that your scenario alters.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T144516Z" creationid="michele" creationdate="20160531T144516Z">
+        <seg>Posiziona un bordo attorno all'area delle celle alterate dal vostro scenario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Placing the mouse pointer over any of the icons displays a small box, called a &lt;is0/&gt;tooltip&lt;ie1/&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160323T164739Z">
@@ -20792,6 +20824,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The border has a title bar displaying the name of the active scenario.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T144634Z" creationid="michele" creationdate="20160531T144634Z">
+        <seg>Il bordo ha un titolo che visualizza il nome dello scenario attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The break is now removed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T154437Z">
@@ -22829,6 +22869,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165808Z" creationid="steevie" creationdate="20160428T165808Z">
         <seg>Per scegliere un'icona per un comando, selezionate il comando e fate clic su &lt;f0&gt;Modifica &gt; Cambia icona&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To choose the color of the border, use the field to the right of this option.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T144605Z" creationid="michele" creationdate="20160531T144605Z">
+        <seg>Per scegliere il colore del bordo, usa il campo sulla destra di questa opzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25981,6 +26029,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T160148Z">
         <seg>Potete controllare l'area di stampa usando &lt;f0&gt;File &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Anteprima di stampa&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can choose any of the scenarios from this list at any time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T144929Z" creationid="michele" creationdate="20160531T144929Z">
+        <seg>Potete scegliere uno degli scenari da questa lista in ogni momento.</seg>
       </tuv>
     </tu>
     <tu>
