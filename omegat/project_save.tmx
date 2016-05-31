@@ -13390,6 +13390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the &lt;f0&gt;Sort&lt;/f0&gt; section:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T132706Z" creationid="michele" creationdate="20160531T132706Z">
+        <seg>Nella sezione &lt;f0&gt;Ordina&lt;/f0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the &lt;f0&gt;Type&lt;/f0&gt; column, you can choose from text, date+time, date, number, duration, or yes/no for each field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T101343Z" creationid="michele" creationdate="20160525T101343Z">
@@ -18639,6 +18647,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selecting &lt;f0&gt;Ascending&lt;/f0&gt; or &lt;f1&gt;Descending&lt;/f1&gt;&lt;f2&gt;,&lt;/f2&gt; sorts beginning with the lowest or the highest value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T132809Z" creationid="michele" creationdate="20160531T132809Z">
+        <seg>Selezionando &lt;f0&gt;Crescente&lt;/f0&gt; o &lt;f1&gt;Decrescente&lt;/f1&gt;&lt;f2&gt;,&lt;/f2&gt; ordina a partire dal valore più alto o più basso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Selecting &lt;f0&gt;Case sensitive&lt;/f0&gt; recalculates subtotals when you change the case of a data label.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T131202Z" creationid="michele" creationdate="20160531T131202Z">
@@ -18715,6 +18731,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160315T165950Z">
         <seg>Selezione dei fogli da stampare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selecting the Pre-sort area according to groups option sorts the area that you selected in the &lt;f0&gt;Group by&lt;/f0&gt; box of the Group tabs according to the columns that you selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T132639Z" creationid="michele" creationdate="20160531T132639Z">
+        <seg>Selezionando la casella Ordinare prima l'area a gruppi ordina l'area che avete selezionato nel menu a tendina &lt;f0&gt;Raggruppa per&lt;/f0&gt; d'accordo con le colonne selezionate.</seg>
       </tuv>
     </tu>
     <tu>
