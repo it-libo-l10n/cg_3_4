@@ -13326,6 +13326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the &lt;f0&gt;Groups&lt;/f0&gt; section:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T130837Z" creationid="michele" creationdate="20160531T130837Z">
+        <seg>Nella sezione &lt;f0&gt;Gruppi&lt;/f0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the &lt;f0&gt;Layout&lt;/f0&gt; section, select from the drop-down list the number of pages to print per sheet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160314T141154Z">
@@ -18631,10 +18639,26 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selecting &lt;f0&gt;Case sensitive&lt;/f0&gt; recalculates subtotals when you change the case of a data label.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T131202Z" creationid="michele" creationdate="20160531T131202Z">
+        <seg>Selezionando &lt;f0&gt;Maiuscole/Minuscole&lt;/f0&gt; si ricalcolano i subtotali quando si varia il carattere maiuscolo o minuscolo di un etichetta dei dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Selecting &lt;f0&gt;Column Break&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;creates a page break to the left of the selected cell.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153926Z">
         <seg>Selezionando &lt;f0&gt;Interruzione di colonna&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;sarà creata un'interruzione di pagina alla sinistra della cella selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selecting &lt;f0&gt;Page break between groups&lt;/f0&gt; inserts a new page after each group of subtotaled data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T131034Z" creationid="michele" creationdate="20160531T131034Z">
+        <seg>Selezionando &lt;f0&gt;Interruzione di pagina per ogni cambio di gruppo&lt;/f0&gt; si inserisce una nuova pagina dopo ogni gruppo di subtotali.</seg>
       </tuv>
     </tu>
     <tu>
