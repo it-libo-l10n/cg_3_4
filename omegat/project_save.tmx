@@ -2422,6 +2422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Tools&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Scenarios&lt;/f5&gt;&lt;/f4&gt; opens a dialog with options for creating a scenario.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T135205Z" creationid="michele" creationdate="20160531T135205Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Strumenti&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Scenari&lt;/f5&gt;&lt;/f4&gt; apre una finestra di dialogo con le opzioni per creare scenari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Use&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Tools &gt; Options &gt; Charts &gt; Default Colors&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; to change the default colors used for charts or to add new data series to the list provided.&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T160738Z" creationid="steevie" creationdate="20160428T160719Z">
@@ -7102,6 +7110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Tools&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Scenarios&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T135418Z" creationid="michele" creationdate="20160531T135418Z">
+        <seg>Scegliere &lt;f0&gt;Strumenti&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Scenari&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;View &gt; Zoom&lt;/f0&gt; from the Menu bar, or</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T145546Z" creationid="michele" creationdate="20160525T145546Z">
@@ -8282,6 +8298,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T102810Z">
         <seg>Creare stili personalizzati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating scenarios</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T135132Z" creationid="michele" creationdate="20160531T135132Z">
+        <seg>Creare gli scenari</seg>
       </tuv>
     </tu>
     <tu>
@@ -15911,6 +15935,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the Create Scenario dialog (&lt;t0&gt;Figure 235&lt;/t0&gt;), enter a name for the new scenario.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T135457Z" creationid="michele" creationdate="20160531T135457Z">
+        <seg>Nella finestra di dialogo Crea Scenario (&lt;t0&gt;Figura 235&lt;/t0&gt;), inserire un nome per il nuovo scenario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the Customize dialog, select the menu in the Menu list and click the &lt;f1&gt;Add&lt;/f1&gt; button in the Menu Content section of the dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164400Z" creationid="steevie" creationdate="20160428T164400Z">
@@ -18491,6 +18523,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T130927Z" creationid="michele" creationdate="20160525T130927Z">
         <seg>Selezionate la cella, colonna o riga dove volete venga inserita la nuova colonna o riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the cells that contain the values that will change between scenarios.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T135302Z" creationid="michele" creationdate="20160531T135302Z">
+        <seg>Selezionare le celle che contengono valori che cambiano da uno scenario all'altro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22713,6 +22753,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To create a new scenario:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T135216Z" creationid="michele" creationdate="20160531T135216Z">
+        <seg>Per creare un nuovo scenario:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To create a new toolbar:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165239Z" creationid="steevie" creationdate="20160428T165239Z">
@@ -23397,6 +23445,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T125617Z" creationid="michele" creationdate="20160525T125617Z">
         <seg>Per selezionare fogli multipli non contigui:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To select multiple ranges, hold down the &lt;f0&gt;Ctrl&lt;/f0&gt; key as you click.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T135352Z" creationid="michele" creationdate="20160531T135352Z">
+        <seg>Per selezionare molteplici intervalli, tenere premuto il tasto &lt;f0&gt;Ctrl&lt;/f0&gt; e fare clic sulle celle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26437,6 +26493,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T144436Z" creationid="Luciano B." creationdate="20160411T162958Z">
         <seg>Per ogni conflitto dovrete decidere quale versione da mantenere, la vostra o quella dell'altro utente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You must select at least two cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T135404Z" creationid="michele" creationdate="20160531T135404Z">
+        <seg>Almeno due celle devono essere selezionate.</seg>
       </tuv>
     </tu>
     <tu>
