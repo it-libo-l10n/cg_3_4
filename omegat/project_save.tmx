@@ -10830,6 +10830,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For column 1, this changes the minus button in the column to one with a plus symbol, indicating that it is expandable.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T084248Z" creationid="michele" creationdate="20160531T084107Z">
+        <seg>Per la colonna 1, cambia il pulsante meno diventando un pulsante con il simbolo più, che sta ad indicare che la colonna è espandibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For column 2 and others with content, each element of the column shrinks, and each button changes to a plus.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T084418Z" creationid="michele" creationdate="20160531T084418Z">
+        <seg>Per la colonna 2 e ma anche per le altre, ogni elemento nella colonna si contrae, ed ogni bottone cambia assumendo il segno più.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For details, see Chapter 10, Printing, Exporting, and E-mailing, in the &lt;f0&gt;Getting Started&lt;/f0&gt; guide.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T160634Z" creationid="Luciano B." creationdate="20160329T160634Z">
@@ -11042,6 +11058,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T164929Z" creationid="Luciano B." creationdate="20160325T164929Z">
         <seg>Per un maggior controllo sul contenuto e sulla qualità del PDF risultante, utilizzate &lt;f0&gt;File &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Esporta nel formato PDF&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For our example subtotal displayed in Figure &lt;t0&gt;232&lt;/t0&gt;, the structure which is displayed is Column 1 is the &lt;f1&gt;Grand Total&lt;/f1&gt;, column 2 is the &lt;f2&gt;Employee&lt;/f2&gt; subtotal, and column 3 is the &lt;f3&gt;Category&lt;/f3&gt; subtotal.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T084646Z" creationid="michele" creationdate="20160531T084646Z">
+        <seg>Nel nostro esempio i subtotali mostrati nella Figura 2&lt;t0&gt;232&lt;/t0&gt;, la struttura mostrata dalla colonna 1 è il &lt;f1&gt;Gran Totale&lt;/f1&gt;, nella colonna 2 è subtotale &lt;f2&gt;Impiegati&lt;/f2&gt;, e nella colonna 3 è la &lt;f3&gt;categoria&lt;/f3&gt; subtotale.</seg>
       </tuv>
     </tu>
     <tu>
