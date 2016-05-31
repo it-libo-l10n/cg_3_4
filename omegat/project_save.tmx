@@ -3438,6 +3438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;If the sheet is not protected, then &lt;/f0&gt;&lt;f1&gt;Prevent changes &lt;/f1&gt;&lt;f2&gt;does not have any effect, and all scenario properties can be changed.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T153224Z" creationid="michele" creationdate="20160531T153224Z">
+        <seg>&lt;f0&gt;Se il foglio non è protetto, all'ora&lt;/f0&gt;&lt;f1&gt;Impedisci modifiche&lt;/f1&gt;&lt;f2&gt;non avrà alcun effetto, e tutte le proprietà dello scenario potranno essere cambiate.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If the sheet is protected, and &lt;/f0&gt;&lt;f1&gt;Prevent changes &lt;/f1&gt;&lt;f2&gt;is not selected, then all scenario properties can be changed except &lt;/f2&gt;&lt;f3&gt;Prevent changes&lt;/f3&gt;&lt;f4&gt; and &lt;/f4&gt;&lt;f5&gt;Copy entire sheet&lt;/f5&gt;&lt;f6&gt;, which are disabled.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T153118Z" creationid="michele" creationdate="20160531T153118Z">
@@ -3986,6 +3994,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160517T132501Z" creationid="steevie" creationdate="20160517T132501Z">
         <seg>&lt;f0&gt;Tabella &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;17&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Table &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;12&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt; summarizes the interaction of various settings in preventing or allowing changes in scenario cell values.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T153524Z" creationid="michele" creationdate="20160531T153524Z">
+        <seg>&lt;f0&gt;La tabella &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;12&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt; riassume l'interazione di varie impostazioni per l'abilitazione o disabilitazione di modifiche ai valori delle celle di uno scenario.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6622,6 +6638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change allowed</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T154013Z" creationid="michele" creationdate="20160531T154013Z">
+        <seg>Modifiche consentite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changes from different authors appear in different colors in the document, as shown in &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figure 293&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160428T153946Z" creationid="luciano" creationdate="20160428T153946Z">
@@ -6674,6 +6698,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160206T090158Z">
         <seg>Cambiare i colori predefiniti per i diagrammi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changing scenario cell values</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T153251Z" creationid="michele" creationdate="20160531T153251Z">
+        <seg>Modificare i valori delle celle di uno scenario</seg>
       </tuv>
     </tu>
     <tu>
@@ -8170,6 +8202,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T144944Z" creationid="michele" creationdate="20160531T144944Z">
         <seg>Ricopiare all'indietro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy back ON</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T154115Z" creationid="michele" creationdate="20160531T154115Z">
+        <seg>Ricopiare all'indietro ON</seg>
       </tuv>
     </tu>
     <tu>
@@ -17023,6 +17063,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Prevent changes ON</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T154055Z" creationid="michele" creationdate="20160531T154055Z">
+        <seg>Impedisci modifiche ON</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Prevents changes to a scenario enabled as a &lt;f0&gt;Copy back&lt;/f0&gt;, when the sheet is protected but the cells are not.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T150740Z" creationid="michele" creationdate="20160531T150740Z">
@@ -18223,6 +18271,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scenario cell protection OFF</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T154039Z" creationid="michele" creationdate="20160531T154039Z">
+        <seg>Protezione celle scenario OFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scenario cell values (the entries within the scenario border)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T151236Z" creationid="michele" creationdate="20160531T151236Z">
@@ -19319,6 +19375,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sheet protection ON</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T154027Z" creationid="michele" creationdate="20160531T154027Z">
+        <seg>Protezione foglio ON</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sheet sequence number (&lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T092418Z" creationid="michele" creationdate="20160524T092418Z">
@@ -20364,6 +20428,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T105256Z" creationid="michele" creationdate="20160525T105256Z">
         <seg>Scheda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;12&lt;/seq0&gt;: Prevent changes behavior for scenario cell value changes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160531T153948Z" creationid="michele" creationdate="20160531T153948Z">
+        <seg>La tabella &lt;seq0&gt;12&lt;/seq0&gt;: Impedisce modifiche al comportamento per i valori delle celle di uno scenario</seg>
       </tuv>
     </tu>
     <tu>
