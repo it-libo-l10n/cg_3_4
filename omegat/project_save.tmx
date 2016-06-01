@@ -5878,6 +5878,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Arrows point to the cells that are directly dependent on the current cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160601T130159Z" creationid="michele" creationdate="20160601T130159Z">
+        <seg>Le frecce puntano alle celle direttamente dipendenti dalle celle attive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As many as you like.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084525Z">
@@ -23625,6 +23633,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To learn which values in the scenario affect other values, choose &lt;f0&gt;Tools&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Detective&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Trace Dependents&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160601T130100Z" creationid="michele" creationdate="20160601T130100Z">
+        <seg>Per scoprire quali valori in un dato scenario influenzano altri valori, seleziona &lt;f0&gt;Strumenti&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Detective&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;individua dipendenti&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To lower right-hand corner of the rectangular area containing data</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T104904Z" creationid="michele" creationdate="20160525T104904Z">
@@ -24339,8 +24355,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>Tracking values in scenarios</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160601T124840Z" creationid="michele" creationdate="20160601T124840Z">
-        <seg>Tracciare i valori in uno scenario</seg>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160601T125926Z" creationid="michele" creationdate="20160601T124840Z">
+        <seg>Tracciare valori in uno scenario</seg>
       </tuv>
     </tu>
     <tu>
