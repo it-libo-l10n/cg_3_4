@@ -13974,6 +13974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In these situations, &lt;f0&gt;Tools&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Detective&lt;/f3&gt; can help to clarify the relations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160601T145240Z" creationid="michele" creationdate="20160601T145214Z">
+        <seg>in queste situazioni, &lt;f0&gt;Strumenti&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Detective&lt;/f3&gt; può aiutare a chiarire la situazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this case, it may be quicker to review all of these changes at once, rather than one review at a time.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T152437Z" creationid="luciano" creationdate="20160428T152835Z">
@@ -15887,6 +15895,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not every pair of variables is useful to add to the same formula array.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160601T145023Z" creationid="michele" creationdate="20160601T145023Z">
+        <seg>Non tutte le coppie di variabili sono utili per essere aggiunte alla stessa formula di matrice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160308T083108Z">
@@ -16987,6 +17003,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T091658Z" creationid="michele" creationdate="20160525T091658Z">
         <seg>Posizionate il puntatore del mouse sopra la cella e fate clic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Place the original and the formula array close together on the same sheet, and use labels for the rows and columns in both.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160601T145503Z" creationid="michele" creationdate="20160601T145503Z">
+        <seg>Posiziona la matrice originale e quella delle formule vicine sullo stesso foglio, e usa etichette per righe e colonne in ambedue le matrici.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26297,6 +26321,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Yet, even when working with a single variable, a new user can easily make mistakes or forget the relationships between cells in the original array and cells in the formula array.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160601T145204Z" creationid="michele" creationdate="20160601T145204Z">
+        <seg>Ciononostante,anche lavorando con una singola variabile, un utente principiante può facilmente fare degli errori o dimenticare la relazione tra celle nella matrice originale e celle nella matrice delle formule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You are asked to enter the file name and location for the PDF file, but you do not get a chance to choose a page range, the image compression, or other options.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T164844Z" creationid="Luciano B." creationdate="20160325T164844Z">
@@ -26429,6 +26461,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165557Z" creationid="Luciano B." creationdate="20160325T165557Z">
         <seg>Potete anche esportare una combinazione di un intervallo di pagine e pagine singole, utilizzando un formato come &lt;f3&gt;3-6;8;10;12&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also make formula arrays easier to work with if you apply some simple design logic.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160601T145349Z" creationid="michele" creationdate="20160601T145349Z">
+        <seg>Puoi rendere più semplice l'uso delle formule di matrice applicando una logica fin dalla progettazione.</seg>
       </tuv>
     </tu>
     <tu>
