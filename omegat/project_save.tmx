@@ -12942,6 +12942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you export a spreadsheet containing multiple operations to Microsoft Excel, the location of the cells containing the formula must be fully defined relative to the data range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160601T153129Z" creationid="michele" creationdate="20160601T153129Z">
+        <seg>Se esportate dei fogli di calcolo che contengono operazioni multiple in Microsoft Excel, il posizionamento delle celle contenenti le formule devono essere definite in relazione all'intervallo dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have a lot of sheets, then some of the sheet tabs may be hidden behind the horizontal scroll bar at the bottom of the screen.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T122343Z" creationid="michele" creationdate="20160525T122343Z">
@@ -15731,6 +15739,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T125615Z" creationid="michele" creationdate="20160525T125615Z">
         <seg>Fogli multipli non contigui</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Multiple operations in columns or rows</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160601T153158Z" creationid="michele" creationdate="20160601T153158Z">
+        <seg>Operazioni multiple in colonne o righe</seg>
       </tuv>
     </tu>
     <tu>
