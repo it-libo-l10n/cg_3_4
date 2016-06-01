@@ -21673,6 +21673,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The formulas must be in a range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160601T133355Z" creationid="michele" creationdate="20160601T133355Z">
+        <seg>Le formule devono essere in un intervallo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The fourth argument to the method addNewByName() is a combination of flags that specify how the named range will be used (see &lt;t0&gt;Table 14&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142701Z" creationid="steevie" creationdate="20160504T142701Z">
@@ -22085,6 +22093,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T122919Z" creationid="michele" creationdate="20160525T122919Z">
         <seg>Il risultato sarà simile a quello mostrato nella parte sinistra della &lt;t0&gt;Figura 21&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The second array is the formula array.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160601T133509Z" creationid="michele" creationdate="20160601T133509Z">
+        <seg>La seconda matrice è la formula matriciale.</seg>
       </tuv>
     </tu>
     <tu>
