@@ -5566,6 +5566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although this tool is not listed among the functions, it is really a function that acts on other functions, allowing you to calculate different results without having to enter and run them separately.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160601T132604Z" creationid="michele" creationdate="20160601T132604Z">
+        <seg>Anche se questo strumento non è elencato tra le funzioni, è effettivamente una funzione che agisce su altre funzioni, permettendoti di calcolare diversi risultati senza aver bisogno di reinserirli separatamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Although you can create a filter descriptor using any sheet cell range, the filter applies to the entire &lt;s2/&gt;sheet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T140625Z" creationid="steevie" creationdate="20160511T140625Z">
@@ -14262,6 +14270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Instead, the Multiple Operations tool creates a formula array: a separate set of cells showing the results of applying the formula to a list of alternative values for the variables used by the formula.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160601T132427Z" creationid="michele" creationdate="20160601T132427Z">
+        <seg>Al contrario, lo strumento Operazioni Multiple crea una formula matriciale: un insieme di celle separato che mostra il risultato dell'applicazione delle formule ad una lista di valori alternativi per le variabili usate dalla formula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>International Support</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084038Z">
@@ -21568,6 +21584,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The first array contains the original or default values and the formulas applied to them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160601T132852Z" creationid="michele" creationdate="20160601T132852Z">
+        <seg>La prima matrice contiene i valori originali o predefiniti e le formule applicate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first button on the top left of the window, &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;, is for cell styles and the second, &lt;df2&gt;&lt;di3/&gt;&lt;s4&gt;page_styles_button&lt;/s4&gt;&lt;/df2&gt;, is for page styles.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160330T085111Z" creationid="briga" creationdate="20160330T085002Z">
@@ -24249,6 +24273,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use the Multiple Operations tool, you need two arrays of cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160601T132730Z" creationid="michele" creationdate="20160601T132730Z">
+        <seg>Per usare lo strumento operazioni multiple, hai bisogno di due matrici di celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To use this option, you must first highlight a range of cells.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T150143Z" creationid="michele" creationdate="20160525T150143Z">
@@ -24485,6 +24517,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T141732Z" creationid="luciano" creationdate="20160509T141732Z">
         <seg>Separa l'area dati selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unlike a scenario, the &lt;is4/&gt;&lt;is5/&gt;Multiple Operations tool&lt;ie6/&gt;&lt;ie7/&gt; does not present the alternate versions in the same cells or with a drop-down list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160601T132138Z" creationid="michele" creationdate="20160601T132138Z">
+        <seg>A differenza di uno scenario, lo &lt;is4/&gt;&lt;is5/&gt;strumento Operazioni Multiple&lt;ie6/&gt;&lt;ie7/&gt; non presenta le versioni alternative nelle stesse celle o righe tramite un menu a tendina.</seg>
       </tuv>
     </tu>
     <tu>
