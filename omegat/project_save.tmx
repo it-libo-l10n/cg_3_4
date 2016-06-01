@@ -6158,6 +6158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Before you choose the &lt;f0&gt;Data&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Multiple Operations&lt;/f3&gt; option, be sure to select not only your list of alternative values but also the adjacent cells into which the results should be placed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160601T155320Z" creationid="michele" creationdate="20160601T155320Z">
+        <seg>Prima di selezionare &lt;f0&gt;Dati&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Operazioni Multiple&lt;/f3&gt;, assicurati di aver selezionato non solo la lista dei valori alternativi ma anche le celle adiacenti nelle quali andrà posizionato il risultato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Begin editing the document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T145747Z" creationid="luciano" creationdate="20160423T123633Z">
@@ -20900,6 +20908,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T102214Z" creationid="michele" creationdate="20160525T102214Z">
         <seg>La scheda &lt;f0&gt;Internet&lt;/f0&gt; è solo attinente ai documenti HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Multiple Operations&lt;/f0&gt; command produces a list of results adjacent to your alternative values by running the formula against each of these alternatives.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160601T155132Z" creationid="michele" creationdate="20160601T155132Z">
+        <seg>Il comando &lt;f0&gt;Operazioni Multiple&lt;/f0&gt; genera una lista di risultati a lato dei tuoi valori alternativi eseguendo la formula con ognuna delle possibili alternative.</seg>
       </tuv>
     </tu>
     <tu>
