@@ -9638,6 +9638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter the cell reference to the formula in the &lt;f4&gt;Formulas&lt;/f4&gt; field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T100138Z" creationid="michele" creationdate="20160608T100138Z">
+        <seg>Inserire i riferimenti di cella alla formula nel campo &lt;f4&gt;Formule&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter the filter criteria underneath the column headings (see &lt;t0&gt;Table 16&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T141816Z" creationid="steevie" creationdate="20160511T141816Z">
@@ -19335,6 +19343,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the range defined by both data ranges (thus including all of the blank cells that are to contain the results) and choose &lt;f0&gt;Data&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Multiple operations&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T100105Z" creationid="michele" creationdate="20160608T100055Z">
+        <seg>Seleziona l'intervallo definito dalle due aree dati (incluso tutte le celle vuote che conterranno i risultati) e seleziona &lt;f0&gt;Dati&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Oprazioni multiple&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the right border.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T144947Z" creationid="steevie" creationdate="20160509T144947Z">
@@ -22891,8 +22907,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>These two sets of alternative values will form column and row headings for the results table produced by the Multiple Operations procedure.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160608T094358Z" creationid="michele" creationdate="20160608T094358Z">
-        <seg>Questi due insiemi di valori alternativi formeranno intestazioni di colonne e righe .</seg>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T095917Z" creationid="michele" creationdate="20160608T094358Z">
+        <seg>Questi due insiemi di valori alternativi formeranno intestazioni di colonne e righe per la tabella risultante a seguito dell'operazione Multipla.</seg>
       </tuv>
     </tu>
     <tu>
