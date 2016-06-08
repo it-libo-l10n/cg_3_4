@@ -9110,6 +9110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Depending on the complexity of the task, this may take some time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T133348Z" creationid="michele" creationdate="20160608T133348Z">
+        <seg>A seconda della complessità del compito, potrebbe richiedere del tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Depending on the file being used or on the type of data being entered, setting a different direction can be useful.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T122139Z" creationid="michele" creationdate="20160525T122139Z">
@@ -11358,6 +11366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For arguments that you would like to change, you need to add two rules to define a range of possible values: the limiting conditions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T132757Z" creationid="michele" creationdate="20160608T132757Z">
+        <seg>Per i valori che desideri modificare, devi aggiungere due regole che definiscano un insieme di possibili valori: le Condizioni limitative .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For column 1, this changes the minus button in the column to one with a plus symbol, indicating that it is expandable.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T084248Z" creationid="michele" creationdate="20160531T084107Z">
@@ -11554,6 +11570,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T150636Z" creationid="steevie" creationdate="20160509T150636Z">
         <seg>Per esempio, potete contrassegnare la prima riga come intestazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, you can set the constraint that one of the variables or cells must not be bigger than another variable, or not bigger than a given value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T132911Z" creationid="michele" creationdate="20160608T132911Z">
+        <seg>Per esempio, potreste inserire la limitazione che una variabile o cella non possa essere maggiore di un'altra variabile, o non maggiore di un determinato valore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16871,6 +16895,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once you have finished setting up the rules, click the &lt;f0&gt;Solve&lt;/f0&gt; button to begin the automatic process of adjusting values and calculating results.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T133320Z" creationid="michele" creationdate="20160608T133320Z">
+        <seg>Una volta ultimata l'impostazione delle regole, fate clic sul pulsante &lt;f0&gt;Risolvi&lt;/f0&gt;per avviare il procedimento automatico di aggiustamento dei valori e calcolo del risultato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One function tool not mentioned here is Pivot Table, but it is a topic that is sufficiently complex that it requires a separate chapter: see Chapter 8 in this book.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160526T081712Z" creationid="michele" creationdate="20160526T081712Z">
@@ -20483,6 +20515,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T171648Z">
         <seg>Quindi, se la distanza è impostata a 1 cm, ci sarà un centimetro di distanza tra l'intestazione o il piè di pagina e la pagina stessa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Solver example</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T133402Z" creationid="michele" creationdate="20160608T133402Z">
+        <seg>Esempio risolutore</seg>
       </tuv>
     </tu>
     <tu>
@@ -27245,6 +27285,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160216T071838Z">
         <seg>Inoltre potete creare tanti stili di pagina quanti ne volete.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also define the constraint that one or more variables must be integers (values without decimals), or binary values (where only 0 and 1 are allowed).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T133047Z" creationid="michele" creationdate="20160608T133047Z">
+        <seg>Puoi anche definire una limitazione che uno o più variabili debbano essere integrali (valori senza decimali), o valori binari (dove sono usati solo 0 e 1).</seg>
       </tuv>
     </tu>
     <tu>
