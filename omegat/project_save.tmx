@@ -4646,6 +4646,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t2&gt;Figure 243&lt;/t2&gt; shows the cells and fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T131354Z" creationid="michele" creationdate="20160608T131354Z">
+        <seg>&lt;t2&gt;Figura 243&lt;/t2&gt; mostra celle e campi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t4&gt;Figure 225&lt;/t4&gt; shows this dialog after making the changes described below.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160526T084800Z" creationid="michele" creationdate="20160526T084800Z">
@@ -4762,6 +4770,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160423T124235Z" creationid="luciano" creationdate="20160423T124235Z">
         <seg>Una colonna o una riga cancellate saranno evidenziate da una barra spessa colorata.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A dialog appears informing you that the Goal Seek was successful.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T131514Z" creationid="michele" creationdate="20160608T131514Z">
+        <seg>Apparirà una finestra di dialogo che ti informerà che la Ricerca valore di destinazione si è conclusa con successo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7622,6 +7638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f1&gt;Yes&lt;/f1&gt; to enter the goal value into the variable cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T131558Z" creationid="michele" creationdate="20160608T131558Z">
+        <seg>Fate clic su &lt;f1&gt;Si&lt;/f1&gt; per inserire il valore di destinazione nella cella della variabile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click in a cell immediately below and to the right of where you wish the screen to be split, and choose &lt;/f0&gt;&lt;f1&gt;Window &gt; Split&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T153446Z" creationid="michele" creationdate="20160525T153446Z">
@@ -9686,6 +9710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter the desired result of the formula in the &lt;f0&gt;Target value&lt;/f0&gt; field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T131320Z" creationid="michele" creationdate="20160608T131320Z">
+        <seg>Inserisci il risultato desiderato nel campo &lt;f0&gt;Valore di destinazione&lt;/f0&gt; field.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter the filter criteria underneath the column headings (see &lt;t0&gt;Table 16&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T141816Z" creationid="steevie" creationdate="20160511T141816Z">
@@ -9698,6 +9730,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T092755Z" creationid="michele" creationdate="20160608T092755Z">
         <seg>Inserisci la seguente formula in C5: &lt;f0&gt;=B5/B4&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter the formula to calculate the interest, I, in another cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T130630Z" creationid="michele" creationdate="20160608T130630Z">
+        <seg>Inserisci la formula per il calcolo dell'interesse, I, in un'altra cella..</seg>
       </tuv>
     </tu>
     <tu>
@@ -10434,6 +10474,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T104559Z" creationid="michele" creationdate="20160608T104559Z">
         <seg>Figura &lt;seq0&gt;242&lt;/seq0&gt;: Risultato di molteplici operazioni di calcolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;243&lt;/seq0&gt;: Example setup for goal seek</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T131413Z" creationid="michele" creationdate="20160608T131413Z">
+        <seg>Figura &lt;seq0&gt;243&lt;/seq0&gt;: Esempio di configurazione per Ricerca valore di destinazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -13854,6 +13902,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In our example (Figure &lt;t0&gt;243&lt;/t0&gt;), this would be =B1*B2*B3.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T130725Z" creationid="michele" creationdate="20160608T130725Z">
+        <seg>Nel nostro esempio (Figura &lt;t0&gt;243&lt;/t0&gt;), sarebbe =B1*B2*B3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In our example we select the sales figures (B5:B23) and we require the sum total (function index 9).&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160527T154853Z" creationid="michele" creationdate="20160527T154853Z">
@@ -14026,6 +14082,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T173309Z" creationid="steevie" creationdate="20160428T173309Z">
         <seg>Nella finestra di dialogo Gestione estensioni, fate clic su &lt;f3&gt;Aggiungi&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Goal Seek dialog, the correct cell is already entered in the &lt;f0&gt;Formula cell&lt;/f0&gt; field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T131125Z" creationid="michele" creationdate="20160608T131125Z">
+        <seg>Nella finestra di dialogo Ricerca valore di destinazione, la cella corretta è già inserita nel campo&lt;f0&gt;Cella formula&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14222,6 +14286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the sheet, click in the cell that contains the value to be changed, in this example it is B1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T131232Z" creationid="michele" creationdate="20160608T131232Z">
+        <seg>Nel foglio, fai clic nella cella che contiene il valore da cambiare, in questo esempio è B1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the spreadsheet, click on the sheet tab to select the sheet you want to print.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T095929Z">
@@ -14274,6 +14346,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160428T154051Z" creationid="luciano" creationdate="20160428T154051Z">
         <seg>In questo esempio, tutte le modifiche di Robert sono in blu e quelle di Mia sono in rosso.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this example, the value is &lt;f1&gt;15000&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T131337Z" creationid="michele" creationdate="20160608T131337Z">
+        <seg>In questo esempio, il valore è &lt;f1&gt;15000&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14562,6 +14642,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T173202Z" creationid="steevie" creationdate="20160428T173202Z">
         <seg>Installazione delle estensioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instead of C, n, and i, use the reference to the cell with the corresponding value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T130705Z" creationid="michele" creationdate="20160608T130705Z">
+        <seg>Invece di C, n, e i, usa i riferimenti alla cella con il valore corrispondente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17339,6 +17427,22 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T095858Z">
         <seg>Scorciatoie per tabella pivot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Place the cursor in the &lt;f0&gt;Variable cell&lt;/f0&gt; field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T131152Z" creationid="michele" creationdate="20160608T131152Z">
+        <seg>Posiziona il cursore nel campo &lt;f0&gt;Cella variabile&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Place the cursor in the formula cell (B4), and choose &lt;f0&gt;Tools&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Goal See&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;k&lt;/f5&gt;&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T130822Z" creationid="michele" creationdate="20160608T130822Z">
+        <seg>Posiziona il cursore nella cella della della formula (B4), e seleziona &lt;f0&gt;Strumenti&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Ricerca valore di destinazion&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;e&lt;/f5&gt;&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
