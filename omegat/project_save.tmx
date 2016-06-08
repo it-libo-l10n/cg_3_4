@@ -4158,6 +4158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Tools&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Solver&lt;/f3&gt; amounts to a more elaborate form of Goal Seek.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T131903Z" creationid="michele" creationdate="20160608T131903Z">
+        <seg>&lt;f0&gt;Strumenti&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Risolutore&lt;/f3&gt; è simile allo strumento di Ricerca valore destinazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Two page styles are supplied with Calc: Default and &lt;/f0&gt;&lt;f1&gt;Report.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160216T071724Z">
@@ -9486,6 +9494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each of these rules defines whether an argument in the formula should be greater than, less than, or equal to the figure you enter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T132409Z" creationid="michele" creationdate="20160608T132409Z">
+        <seg>Ognuna di queste regole definisce se un elemento della formula debba essere maggiore, minore, o uguale dei dati inseriti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Each record in a table has the same structure.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T150816Z" creationid="steevie" creationdate="20160503T150816Z">
@@ -10482,6 +10498,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T131413Z" creationid="michele" creationdate="20160608T131413Z">
         <seg>Figura &lt;seq0&gt;243&lt;/seq0&gt;: Esempio di configurazione per Ricerca valore di destinazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;244&lt;/seq0&gt;: Result of goal seek operation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T131734Z" creationid="michele" creationdate="20160608T131734Z">
+        <seg>Figura &lt;seq0&gt;244&lt;/seq0&gt;: Risultato della Ricerca valore di destinazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -13454,6 +13478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want the argument to remain unchanged, you must enter a rule that specifically states that the cell should be equal to its current entry.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T132626Z" creationid="michele" creationdate="20160608T132626Z">
+        <seg>Se non desiderate modificare gli elementi, dovete inserire una regola che stabilisca specificamente che la cella sia uguale al suo valore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want the macro to run automatically when the HTML document is opened, choose &lt;f0&gt;Tools &gt; Customize &gt; Events&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T125632Z" creationid="steevie" creationdate="20160427T125632Z">
@@ -14810,6 +14842,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T145350Z" creationid="steevie" creationdate="20160509T145124Z">
         <seg>Esiste la possibilità di creare intervalli con nome multipli con lo stesso nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is specifically designed to minimize or maximize the result according to a set of rules that you define.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T132036Z" creationid="michele" creationdate="20160608T132036Z">
+        <seg>È progettato specificatamente per minimizzare o massimizzare il risultato d'accordo con un insieme di regole da te definite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22128,6 +22168,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The difference is that the Solver deals with equations with multiple unknown variables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T131937Z" creationid="michele" creationdate="20160608T131937Z">
+        <seg>La differenza è che il risolutore lavora con equazioni con molteplici variabili sconosciute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The effect is that copies of the identified ranges are stacked with their top left corners at the specified result position, and the selected operation is used in each cell to calculate the result value.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160526T084557Z" creationid="michele" creationdate="20160526T084557Z">
@@ -22765,6 +22813,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T143327Z" creationid="steevie" creationdate="20160504T143327Z">
         <seg>il comportamento relativo è illustrato nel &lt;t0&gt;Listato 11&lt;/t0&gt;, che mostra anche un altro uso di un intervallo con nome—la definizione di un'equazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The result is shown below indicating a capital requirement of $200,000 is needed to achieve $15,000 annual return.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T131716Z" creationid="michele" creationdate="20160608T131716Z">
+        <seg>Il risultato viene mostrato e indica che un capitale di 200.000€ è necessario per raggiungere un ritorno annuale di 15.000€.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25933,6 +25989,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160524T102108Z" creationid="luciano" creationdate="20160524T102108Z">
         <seg>Utilizzo del &lt;i0/&gt;&lt;is1/&gt;Registratore di macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the &lt;is0/&gt;&lt;is1/&gt;Solver</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T131758Z" creationid="michele" creationdate="20160608T131758Z">
+        <seg>Usando il &lt;is0/&gt;&lt;is1/&gt;Risolutore</seg>
       </tuv>
     </tu>
     <tu>
