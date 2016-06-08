@@ -7654,6 +7654,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f1&gt;Keep Result&lt;/f1&gt; to enter the result in the cell with the variable value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T145700Z" creationid="michele" creationdate="20160608T145604Z">
+        <seg>Fate clic su &lt;f1&gt;Mantieni Risultato&lt;/f1&gt; per inserire il risultato nella cella con il valore della variabile .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f1&gt;Yes&lt;/f1&gt; to continue.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T153545Z" creationid="Luciano B." creationdate="20160411T153545Z">
@@ -10594,6 +10602,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T140537Z" creationid="michele" creationdate="20160608T140537Z">
         <seg>Figura &lt;seq0&gt;245&lt;/seq0&gt;: Impostazioni di esempio per il risolutore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;246&lt;/seq0&gt;: The Solver dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T145729Z" creationid="michele" creationdate="20160608T145729Z">
+        <seg>Figura &lt;seq0&gt;246&lt;/seq0&gt;: Finestra di dialogo Risolutore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;247&lt;/seq0&gt;: Result of Solver operation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T145757Z" creationid="michele" creationdate="20160608T145757Z">
+        <seg>Figura &lt;seq0&gt;247&lt;/seq0&gt;: Risultato dell'operazione Risolutore</seg>
       </tuv>
     </tu>
     <tu>
@@ -23069,6 +23093,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T131716Z" creationid="michele" creationdate="20160608T131716Z">
         <seg>Il risultato viene mostrato e indica che un capitale di 200.000€ è necessario per raggiungere un ritorno annuale di 15.000€.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The result is shown in &lt;t2&gt;Figure 247&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T145713Z" creationid="michele" creationdate="20160608T145713Z">
+        <seg>Il risultato viene visualizzato in &lt;t2&gt;Figura 247&lt;/t2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
