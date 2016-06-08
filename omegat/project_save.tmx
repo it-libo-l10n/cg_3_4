@@ -7102,6 +7102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Data&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Multiple Operations&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T084239Z" creationid="michele" creationdate="20160608T084239Z">
+        <seg>Selezionate &lt;f0&gt;Dati&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Operazioni Multiple&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;Delete Columns&lt;/f0&gt; or &lt;f1&gt;Delete Rows&lt;/f1&gt; from the &lt;f2&gt;context&lt;/f2&gt; menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T131653Z" creationid="michele" creationdate="20160525T131653Z">
@@ -13606,6 +13614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In column D enter a variety of alternative annual sales figures, one below the other; for example, 500 to 5000, in steps of 500.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T083921Z" creationid="michele" creationdate="20160608T083921Z">
+        <seg>Nella colonna D inserisci una serie si possibili scenari di vendita annuali, uno sotto l'altro; per esempio, da 500 a 5000, in intervalli di 500.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In each case, the Open dialog box appears.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T123745Z" creationid="michele" creationdate="20160524T123745Z">
@@ -19195,6 +19211,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160524T131836Z" creationid="luciano" creationdate="20160524T131836Z">
         <seg>Selezionate l'area A1:C3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the range D2:E11, and thus the values in column D and the empty cells (which will receive the results of the calculations) alongside in column E.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T084223Z" creationid="michele" creationdate="20160608T084223Z">
+        <seg>Seleziona l'intervallo D2:E11, i valori in colonna D e le celle vuote (nel quale verrà posizionato il risultato del calcolo) assieme alla colonna E.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26397,6 +26421,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160601T144543Z" creationid="michele" creationdate="20160601T144543Z">
         <seg>Con una variabile, la matrice dei valori alternativi perle variabili sarà in una singola colonna o riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With the cursor in the &lt;f0&gt;Formulas&lt;/f0&gt; field of the Multiple operations dialog, click cell B5.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T084351Z" creationid="michele" creationdate="20160608T084351Z">
+        <seg>Posizionando il cursore nel campo &lt;f0&gt;Formule&lt;/f0&gt; della finestra di dialogo operazioni Multiple, fare clic sulla cella B5.</seg>
       </tuv>
     </tu>
     <tu>
