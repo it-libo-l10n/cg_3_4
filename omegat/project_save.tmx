@@ -6206,6 +6206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Beware of entering the cell reference of a variable into the wrong field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T100748Z" creationid="michele" creationdate="20160608T100748Z">
+        <seg>Stai attento ad inserire i riferimenti di cella di una variabile nel campo corretto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bob</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T151753Z" creationid="steevie" creationdate="20160503T151753Z">
@@ -21196,6 +21204,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160524T101753Z" creationid="luciano" creationdate="20160524T101753Z">
         <seg>Il linguaggio delle macro di &lt;f1&gt;LibreOffice&lt;/f1&gt; è molto flessibile, permettendo l'automazione sia di attività sia semplici che di atività complesse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f5&gt;Row input cell&lt;/f5&gt; and the &lt;f6&gt;Column input cell&lt;/f6&gt; fields are used to enter the reference to the corresponding cells of the formula.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T100700Z" creationid="michele" creationdate="20160608T100700Z">
+        <seg>Il &lt;f5&gt;campo di digitazione Righe&lt;/f5&gt; e quello &lt;f6&gt;Colonne&lt;/f6&gt; sono usati per inserire i riferimenti alle corrispondenti celle della formula.</seg>
       </tuv>
     </tu>
     <tu>
