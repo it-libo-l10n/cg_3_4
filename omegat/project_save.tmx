@@ -6622,6 +6622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calculating with two variables</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T103309Z" creationid="michele" creationdate="20160608T103309Z">
+        <seg>Calcolare con due variabili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc Guide</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20160129T123544Z">
@@ -21432,6 +21440,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Row input cell field should contain not the cell reference of the variable which changes down the rows of your results table, but that of the variable whose alternative values have been entered along a single row.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T103257Z" creationid="michele" creationdate="20160608T103257Z">
+        <seg>La cella di digitazione Riga non deve contenere i riferimenti di cella della variabile che cambia le righe della tua tabella dei risultati, ma quelli della variabile i cui valori alternativi sono stati inseriti nella riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The SUBTOTAL function</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160527T151043Z" creationid="michele" creationdate="20160527T151043Z">
@@ -27685,6 +27701,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T135404Z" creationid="michele" creationdate="20160531T135404Z">
         <seg>Almeno due celle devono essere selezionate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You now want to vary not just the quantity produced annually, but also the selling price, and you are interested in the profit in each case.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T103520Z" creationid="michele" creationdate="20160608T103520Z">
+        <seg>Adesso vuoi variare non solo la quantità prodotta annualmente, ma anche il prezzo di vendita, e siete interessati al profitto in ogni caso.</seg>
       </tuv>
     </tu>
     <tu>
