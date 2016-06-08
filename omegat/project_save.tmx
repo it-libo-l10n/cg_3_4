@@ -4622,6 +4622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t1&gt;Figure 239&lt;/t1&gt; shows the worksheet and the Multiple operations dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T093038Z" creationid="michele" creationdate="20160608T093038Z">
+        <seg>&lt;t1&gt;Figura 239&lt;/t1&gt; mostra il foglio di lavoro e la finestra di dialogo Operazioni multiple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t1&gt;Figure 252&lt;/t1&gt; shows a summary sheet with a blank Balance column.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160527T121522Z" creationid="antonio" creationdate="20160527T121522Z">
@@ -6594,6 +6602,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T082159Z" creationid="michele" creationdate="20160608T082159Z">
         <seg>Calcolarlo con una formula e una variabile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculating with several formulas simultaneously</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T092621Z" creationid="michele" creationdate="20160608T092621Z">
+        <seg>Calcolare con svariate formule simultaneamente</seg>
       </tuv>
     </tu>
     <tu>
@@ -9630,6 +9646,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter the following formula in C5: &lt;f0&gt;=B5/B4&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T092755Z" creationid="michele" creationdate="20160608T092755Z">
+        <seg>Inserisci la seguente formula in C5: &lt;f0&gt;=B5/B4&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter the name in the Name box when you create the sheet, or</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T140637Z" creationid="michele" creationdate="20160525T140637Z">
@@ -10304,8 +10328,24 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;237&lt;/seq0&gt;: Sheet and Multiple operations dialog showing input</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160608T092240Z" creationid="michele" creationdate="20160608T092231Z">
-        <seg>Figura &lt;seq0&gt;237&lt;/seq0&gt;: Foglio e finestra di dialogo Operazioni multiple mostrano i campi di digitazione</seg>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T093203Z" creationid="michele" creationdate="20160608T092231Z">
+        <seg>Figura &lt;seq0&gt;237&lt;/seq0&gt;: Foglio, finestra di dialogo Operazioni multiple e campi di digitazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;238&lt;/seq0&gt;: Sheet showing results of multiple operations calculations</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T092558Z" creationid="michele" creationdate="20160608T092558Z">
+        <seg>Figura &lt;seq0&gt;238&lt;/seq0&gt;: Foglio che mostra i risultati di molteplici operazioni di calcolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;239&lt;/seq0&gt;: Sheet and dialog showing input</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T093222Z" creationid="michele" creationdate="20160608T093122Z">
+        <seg>Figura &lt;seq0&gt;239&lt;/seq0&gt;: Foglio, finestra di dialogo e campi di digitazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -14058,6 +14098,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T070053Z" creationid="steevie" creationdate="20160428T165211Z">
         <seg>Nella sezione&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Barre degli strumenti LibreOffice Calc&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;, &lt;f4&gt;&lt;/f4&gt;&lt;/f3&gt;selezionate dall'elenco a tendina &lt;f5&gt;Barra degli strumenti&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;&lt;/f10&gt;&lt;/f9&gt; la barra che volete personalizzare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the sheet from the previous example, delete the contents of column E.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T092649Z" creationid="michele" creationdate="20160608T092649Z">
+        <seg>Nel foglio dell'esempio precedente, elimina il contenuto della colonna E.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19235,6 +19283,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T084223Z" creationid="michele" creationdate="20160608T084223Z">
         <seg>Seleziona l'intervallo D2:E11, i valori in colonna D e le celle vuote (nel quale verrà posizionato il risultato del calcolo) assieme alla colonna E.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the range D2:F11, thus three columns.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T092912Z" creationid="michele" creationdate="20160608T092912Z">
+        <seg>Seleziona l'intervallo D2:F11, che sono tre colonne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26481,6 +26537,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With the cursor in the &lt;f0&gt;Formulas&lt;/f0&gt; field of the Multiple operations dialog, select cells B5 and C5.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T093000Z" creationid="michele" creationdate="20160608T093000Z">
+        <seg>Con il cursore nel campo &lt;f0&gt;Formule&lt;/f0&gt; nella finestra di dialogo Operazioni multiple, selezionare le celle B5 e C5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With the spreadsheet document open, choose &lt;f0&gt;Tools &gt; Share Document&lt;/f0&gt; to activate the collaboration features for this document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T152803Z" creationid="Luciano B." creationdate="20160411T152803Z">
@@ -26589,6 +26653,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160423T121802Z" creationid="luciano" creationdate="20160423T121802Z">
         <seg>Vi preoccupa il fatto che l'allenatore non sia in grado di notare le modifiche che voi avete apportato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are now calculating the annual profit per item sold.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T092822Z" creationid="michele" creationdate="20160608T092822Z">
+        <seg>State calcolando il profitto annuale per oggetto venduto.</seg>
       </tuv>
     </tu>
     <tu>
