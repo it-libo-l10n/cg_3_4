@@ -6334,6 +6334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By contrast, using &lt;f0&gt;Tools&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Goal Seek&lt;/f3&gt; you can discover what values will produce the result that you want.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T104908Z" creationid="michele" creationdate="20160608T104908Z">
+        <seg>Al contrario, usando &lt;f0&gt;Strumenti&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Ricerca valore destinazione&lt;/f3&gt; puoi scoprire quale valore produrrà il risultato che desideri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, matching items throughout your array will be gathered together as a single group above a subtotal.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160530T150959Z" creationid="michele" creationdate="20160530T145823Z">
@@ -10414,6 +10422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;242&lt;/seq0&gt;: Results of multiple operations calculations</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T104559Z" creationid="michele" creationdate="20160608T104559Z">
+        <seg>Figura &lt;seq0&gt;242&lt;/seq0&gt;: Risultato di molteplici operazioni di calcolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;248&lt;/seq0&gt;: Creating a new sheet</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T143056Z" creationid="antonio" creationdate="20160524T143056Z">
@@ -11522,6 +11538,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T084646Z" creationid="michele" creationdate="20160531T084646Z">
         <seg>Nel nostro esempio i subtotali mostrati nella Figura 2&lt;t0&gt;232&lt;/t0&gt;, la struttura mostrata dalla colonna 1 è il &lt;f1&gt;Gran Totale&lt;/f1&gt;, nella colonna 2 è subtotale &lt;f2&gt;Impiegati&lt;/f2&gt;, e nella colonna 3 è la &lt;f3&gt;categoria&lt;/f3&gt; subtotale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the fourth quarter, however, no definite income is available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T105446Z" creationid="michele" creationdate="20160608T105446Z">
+        <seg>Per il qu, however, no definite income is available.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19887,6 +19911,22 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>She also has a good idea of the company’s income in the first three quarters, because of the contracts that are already signed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T105435Z" creationid="michele" creationdate="20160608T105435Z">
+        <seg>Lei conosce anche l'ammontare delle entrate nei trimestri precedenti, grazie ai contratti già firmati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>She knows what the company’s total income must be for the year to satisfy stockholders.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T105322Z" creationid="michele" creationdate="20160608T105322Z">
+        <seg>Lei conosce quale debba essere l'ammontare totale delle entrate per l'anno in corso perché vengano soddisfatti gli azionisti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sheet grid—prints the borders of the cells as a grid</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T163903Z">
@@ -24721,6 +24761,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To take a simple example, imagine that the Chief Financial Officer of a company is developing sales projections for each quarter of the forthcoming year.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T105039Z" creationid="michele" creationdate="20160608T105039Z">
+        <seg>Per fare un esempio semplice, immaginiamo che il Direttore commerciale di una azienda stia sviluppando le proiezioni delle vendite per trimestri dell'anno successivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To the next cell on the left</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T105337Z" creationid="michele" creationdate="20160525T105337Z">
@@ -25865,6 +25913,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Usually, you create a formula to calculate a result based upon existing values.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T104811Z" creationid="michele" creationdate="20160608T104811Z">
+        <seg>Di solito, create una formula per calcolare un risultato sulla base di valori esistenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>VBA Properties Load/Save options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T130333Z" creationid="steevie" creationdate="20160421T130333Z">
@@ -26725,6 +26781,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160601T144752Z" creationid="michele" creationdate="20160601T144752Z">
         <seg>Con due variabili, dovrai evidenziare una tabella di celle in maniera tale che i valori alternativi per una variabile siano posizionati come intestazioni di colonna, e i valori alternativi  per le altre variabili fungono da intestazioni di righe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Working backwards using &lt;is0/&gt;&lt;is1/&gt;Goal Seek</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T104726Z" creationid="michele" creationdate="20160608T104726Z">
+        <seg>Lavorare all'indietro usando&lt;is0/&gt;&lt;is1/&gt;Ricerca valore destinazione</seg>
       </tuv>
     </tu>
     <tu>
