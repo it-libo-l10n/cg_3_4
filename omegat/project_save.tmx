@@ -7342,6 +7342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Tools&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Solver&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T140553Z" creationid="michele" creationdate="20160608T140553Z">
+        <seg>Selezionare &lt;f0&gt;Strumenti&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Risolutore&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;View &gt; Zoom&lt;/f0&gt; from the Menu bar, or</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T145546Z" creationid="michele" creationdate="20160525T145546Z">
@@ -7674,6 +7682,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T143015Z" creationid="antonio" creationdate="20160524T143015Z">
         <seg>Fate clic in un punto vuoto in fondo alla linea delle schede dei fogli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click in the &lt;f0&gt;Target cell&lt;/f0&gt; field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T140727Z" creationid="michele" creationdate="20160608T140727Z">
+        <seg>Fare clic nel campo &lt;f0&gt;Celle di destinazione&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10546,6 +10562,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T131734Z" creationid="michele" creationdate="20160608T131734Z">
         <seg>Figura &lt;seq0&gt;244&lt;/seq0&gt;: Risultato della Ricerca valore di destinazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;245&lt;/seq0&gt;: Example setup for Solver</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T140537Z" creationid="michele" creationdate="20160608T140537Z">
+        <seg>Figura &lt;seq0&gt;245&lt;/seq0&gt;: Impostazioni di esempio per il risolutore</seg>
       </tuv>
     </tu>
     <tu>
@@ -13934,10 +13958,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In cell B4, enter the formula &lt;f0&gt;B2+B3&lt;/f0&gt; as the total interest earned.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T140513Z" creationid="michele" creationdate="20160608T140513Z">
+        <seg>Nella cella B4, inserire la formula &lt;f0&gt;B2+B3&lt;/f0&gt; come l'interesse totale guadagnato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In cell C3, enter the formula &lt;f0&gt;C4–C2&lt;/f0&gt; (total amount – amount invested in Fund X) as the amount invested in Fund Y.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T140411Z" creationid="michele" creationdate="20160608T140411Z">
         <seg>Nelle celle C3, inserire la formula &lt;f0&gt;C4–C2&lt;/f0&gt; (ammontare totale – ammontare totale investito nel Fondo X) come totale investito nel Fondo Y.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In cells B2 and B3, enter the formula for calculating the interest earned (see &lt;t0&gt;Figure 245&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T140451Z" creationid="michele" creationdate="20160608T140451Z">
+        <seg>Nelle celle B2 e B3, inserire la formula per calcolare l'interesse guadagnato (vedi &lt;t0&gt;Figura 245&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14398,6 +14438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the sheet, click in the cell that contains the target value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T140754Z" creationid="michele" creationdate="20160608T140754Z">
+        <seg>Nel foglio, fare clic nella cella che contiene il valore di destinazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the sheet, click in the cell that contains the value to be changed, in this example it is B1.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T131232Z" creationid="michele" creationdate="20160608T131232Z">
@@ -14450,6 +14498,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T152437Z" creationid="luciano" creationdate="20160428T152835Z">
         <seg>In questo caso, può essere più veloce verificare tutte le modifiche contemporaneamente, piuttosto che una per volta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this example it is cell B4 containing total interest value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T141048Z" creationid="michele" creationdate="20160608T140857Z">
+        <seg>In questo esempio la cella B4 contiene il valore totale degli interessi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19391,6 +19447,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Value of&lt;/f0&gt; and enter &lt;f1&gt;1000&lt;/f1&gt; in the field next to it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T141143Z" creationid="michele" creationdate="20160608T140936Z">
+        <seg>Selziona &lt;f0&gt;Valore di &lt;/f0&gt; e inserisci &lt;f1&gt;1000&lt;/f1&gt; nel campo a lato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;s0/&gt;&lt;f1&gt;Insert&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt; &gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;Function&lt;/f4&gt;&lt;f5&gt; from the Menu bar, or press &lt;/f5&gt;&lt;f6&gt;Ctrl+F2&lt;/f6&gt;&lt;f7&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160527T154014Z" creationid="michele" creationdate="20160527T154014Z">
@@ -21892,6 +21956,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T162328Z">
         <seg>La scheda Foglio della finestra di dialogo Stile di pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Solver dialog (&lt;t4&gt;Figure 246&lt;/t4&gt;) opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T140634Z" creationid="michele" creationdate="20160608T140634Z">
+        <seg>Apertura finestra di dialogo Risolutore (&lt;t4&gt;Figura 246&lt;/t4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
