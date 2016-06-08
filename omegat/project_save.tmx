@@ -4614,6 +4614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t1&gt;Figure 237&lt;/t1&gt; shows the worksheet and the Multiple operations dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T084800Z" creationid="michele" creationdate="20160608T084800Z">
+        <seg>&lt;t1&gt;Immagine 237&lt;/t1&gt; mostra il foglio di lavoro e la finestra di dialogo Operazioni multiple.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t1&gt;Figure 252&lt;/t1&gt; shows a summary sheet with a blank Balance column.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160527T121522Z" creationid="antonio" creationdate="20160527T121522Z">
@@ -12776,8 +12784,8 @@
       <tuv lang="EN">
         <seg>If they are along a single row, complete the &lt;f1&gt;Row input cell&lt;/f1&gt; field.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160608T081258Z" creationid="michele" creationdate="20160608T081258Z">
-        <seg>Se sono sulla stessa riga, completa &lt;f1&gt;il campo di inserimento Riga&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T084532Z" creationid="michele" creationdate="20160608T081258Z">
+        <seg>Se sono sulla stessa riga, completa &lt;f1&gt;il campo di digitazione Riga&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13088,8 +13096,8 @@
       <tuv lang="EN">
         <seg>If you have listed them in a single column, you should complete the field for &lt;f0&gt;Column input cell&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160608T081222Z" creationid="michele" creationdate="20160608T081222Z">
-        <seg>Se li avete elencati in una singola colonna, dovete completare il campo per &lt;f0&gt;campo di inserimento Colonna&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T084607Z" creationid="michele" creationdate="20160608T081222Z">
+        <seg>Se li avete elencati in una singola colonna, dovete completare il campo per &lt;f0&gt;campo di digitazione Colonna&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19503,6 +19511,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set the cursor in the &lt;f0&gt;Column input cell&lt;/f0&gt; field and click cell B4.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T084523Z" creationid="michele" creationdate="20160608T084523Z">
+        <seg>Posizionare il cursore nel &lt;f0&gt;campo di digitazione Colonna&lt;/f0&gt; e fare clic sulla cella B4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set the operation to &lt;f0&gt;Multiply&lt;/f0&gt; and click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160524T142737Z" creationid="luciano" creationdate="20160524T142737Z">
@@ -21921,6 +21937,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The icon then changes to the Maximize icon; click it to restore the dialog to its original size.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T085236Z" creationid="michele" creationdate="20160608T085236Z">
+        <seg>Nell'icona cambia il senso della freccia e diventa Zoom avanti; fare clic sull'icona per far tornare la finestra di dialogo alla sua dimensione originale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The icons (buttons) on these toolbars provide a wide range of common commands and functions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160323T164341Z">
@@ -22269,6 +22293,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T082935Z" creationid="michele" creationdate="20160608T082935Z">
         <seg>Il profitto si può calcolare tramite la formula &lt;f0&gt;Profitto=Quantità* (Prezzo di vendita – Costi diretti) – Costi fissi&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The profits for the different quantities are now shown in column E. See &lt;t1&gt;Figure 238&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T084839Z" creationid="michele" creationdate="20160608T084839Z">
+        <seg>I profitti per le diverse quantità sono mostrati nella colonna E. Vedi &lt;t1&gt;Figura 238&lt;/t1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23197,6 +23229,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T135207Z" creationid="michele" creationdate="20160525T135207Z">
         <seg>Ciò potrebbe causare conflitti con formule collegate ad altri fogli nella precedente posizione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This means that B4, the quantity, is the variable in the formula, which is to be replaced by the column of alternative values.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T084718Z" creationid="michele" creationdate="20160608T084718Z">
+        <seg>Questo significa che B4, la quantità, è la variabile nella formula, che andrà rimpiazzata con i valori alternativi nella colonna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27405,6 +27445,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20160129T124304Z">
         <seg>È possibile distribuire e/o modificare il documento rispettando i termini della GNU General Public License (&lt;a1&gt;http://www.gnu.org/licenses/gpl.html&lt;/a1&gt;), versione 3 o successiva o della Creative Commons Attribution License (&lt;a2&gt;http://creativecommons.org/licenses/by/3.0/&lt;/a2&gt;), versione 3.0 o successiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may find it easier to mark the required reference in the sheet if you click the Shrink icon to reduce the Multiple operations dialog to the size of the input field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T085111Z" creationid="michele" creationdate="20160608T085111Z">
+        <seg>Potresti trovare più semplice segnare i riferimenti nel foglio facendo clic sull'icona Zoom indietro per minimizzare la finestra di dialogo le Operazioni multiple a misura di campo di digitazione.</seg>
       </tuv>
     </tu>
     <tu>
