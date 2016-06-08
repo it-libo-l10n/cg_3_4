@@ -8102,6 +8102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Column labels: &lt;f0&gt;interest earned&lt;/f0&gt;, &lt;f1&gt;amount invested&lt;/f1&gt;, &lt;f2&gt;interest rate&lt;/f2&gt;, and &lt;f3&gt;time period&lt;/f3&gt;, in cells B1 thru E1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T140136Z" creationid="michele" creationdate="20160608T140136Z">
+        <seg>Etichette colonne: &lt;f0&gt;interesse accumulato&lt;/f0&gt;, &lt;f1&gt;quantità investita&lt;/f1&gt;, &lt;f2&gt;tasso di interesse&lt;/f2&gt;, e &lt;f3&gt;arco temporale&lt;/f3&gt;, nelle celle da B1 fino a E1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Columns and rows can be deleted individually or in groups.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T131443Z" creationid="michele" creationdate="20160525T131443Z">
@@ -9702,6 +9710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter an arbitrary value (0 or leave blank) in cell C2 as amount invested in Fund X.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T140302Z" creationid="michele" creationdate="20160608T140302Z">
+        <seg>Inserimento valore arbitrario (0 o lasciare in bianco) nelle celle C2 come totale investito nel fondo X.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter each of the values mentioned above into adjacent cells (for Capital, C, an arbitrary value like $100,000 or it can be left blank; for number of years, n, 1; for interest rate, i, 7.5%).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T130602Z" creationid="michele" creationdate="20160608T130602Z">
@@ -9710,10 +9726,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter formulas:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T140310Z" creationid="michele" creationdate="20160608T140310Z">
+        <seg>Inserimento Formule:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter key</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T105525Z" creationid="michele" creationdate="20160525T105525Z">
         <seg>Tasto Invio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter labels and data:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T140001Z" creationid="michele" creationdate="20160608T140001Z">
+        <seg>Inserire etichette e dati:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11950,6 +11982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fund X is a low risk fund with 8% interest rate and Fund Y is a higher risk fund with 12% interest rate.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T135844Z" creationid="michele" creationdate="20160608T135844Z">
+        <seg>Il fondo X è un fondo a basso rischio con l'8% di interesse mentre il fondo Y è un fondo a rischio più alto che paga un interesse del 12%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Further choices are available in the Options page of the Subtotals dialog as follows.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T130811Z" creationid="michele" creationdate="20160531T130811Z">
@@ -12434,6 +12474,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084524Z">
         <seg>Su quanti computer è possibile installarlo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How much money should be invested in each fund to earn a total interest of $1000?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T135926Z" creationid="michele" creationdate="20160608T135926Z">
+        <seg>Quanto deve essere investito in ogni fondo per ottenere un interesse totale di 1000€?</seg>
       </tuv>
     </tu>
     <tu>
@@ -13886,6 +13934,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In cell C3, enter the formula &lt;f0&gt;C4–C2&lt;/f0&gt; (total amount – amount invested in Fund X) as the amount invested in Fund Y.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T140411Z" creationid="michele" creationdate="20160608T140411Z">
+        <seg>Nelle celle C3, inserire la formula &lt;f0&gt;C4–C2&lt;/f0&gt; (ammontare totale – ammontare totale investito nel Fondo X) come totale investito nel Fondo Y.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In column D enter a variety of alternative annual sales figures, one below the other; for example, 500 to 5000, in steps of 500.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T083921Z" creationid="michele" creationdate="20160608T083921Z">
@@ -14726,6 +14782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Interest rates: &lt;f0&gt;8&lt;/f0&gt; and &lt;f1&gt;12&lt;/f1&gt;, in cells D2 and D3.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T140156Z" creationid="michele" creationdate="20160608T140156Z">
+        <seg>Tassi di interesse: &lt;f0&gt;8&lt;/f0&gt; e &lt;f1&gt;12&lt;/f1&gt;, nelle celle D2 e D3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>International Support</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084038Z">
@@ -15162,6 +15226,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T125716Z" creationid="michele" creationdate="20160608T125716Z">
         <seg>Immaginiamo che il tasso di interesse i sia del 7.5% e il numero degli anni  n.(1) rimanga costante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Let’s say you have $10,000 that you want to invest in two mutual funds for one year.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T135726Z" creationid="michele" creationdate="20160608T135726Z">
+        <seg>Immaginiamo che possiedi 10.000€ che vuoi investire in due fondi per un anno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18803,6 +18875,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153735Z">
         <seg>Interruzione di riga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Row labels: &lt;f0&gt;Fund X&lt;/f0&gt;, &lt;f1&gt;Fund Y&lt;/f1&gt;, and &lt;f2&gt;total&lt;/f2&gt;, in cells A2 thru A4.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T140036Z" creationid="michele" creationdate="20160608T140036Z">
+        <seg>Etichette per le righe: &lt;f0&gt;Fondo X&lt;/f0&gt;, &lt;f1&gt;Fondo Y&lt;/f1&gt;, e &lt;f2&gt;totale&lt;/f2&gt;, nelle celle A2 fino ad A4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23937,6 +24017,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Time period: &lt;f0&gt;1&lt;/f0&gt;, in cells E2 and E3.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T140210Z" creationid="michele" creationdate="20160608T140210Z">
+        <seg>Arco temporale: &lt;f0&gt;1&lt;/f0&gt;, nelle celle E2 e E3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Times New Roman after you have created a 15-page spreadsheet; you can change all of the subtotals in the document by simply changing the properties for the subtotal style.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160215T071343Z">
@@ -24429,6 +24517,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160509T075800Z" creationid="briga" creationdate="20160509T075800Z">
         <seg>Per sapere lo stile che è applicato alla pagina per un determinato foglio fate riferimento alla barra di stato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To find the answer using Solver:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T135948Z" creationid="michele" creationdate="20160608T135948Z">
+        <seg>Per trovare la soluzione si può usare il Risolutore:</seg>
       </tuv>
     </tu>
     <tu>
@@ -25253,6 +25349,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T160950Z" creationid="Luciano B." creationdate="20160411T160950Z">
         <seg>Strumenti &gt; Proteggi documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total amount invested: &lt;f0&gt;10000&lt;/f0&gt;, in cell C4.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T140222Z" creationid="michele" creationdate="20160608T140222Z">
+        <seg>Totale investito: &lt;f0&gt;10000&lt;/f0&gt;, nelle celle C4.</seg>
       </tuv>
     </tu>
     <tu>
