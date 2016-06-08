@@ -8854,6 +8854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>D2 thru D11 already contain the numbers 500, 1000 and so on, up to 5000.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T103723Z" creationid="michele" creationdate="20160608T103723Z">
+        <seg>Da D2 fino D11 già ci sono i numeri 500, 1000 ecc. fino a 5000.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>D&lt;i0/&gt;ocking/floating windows and toolbars</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T134039Z" creationid="michele" creationdate="20160414T134039Z">
@@ -9830,6 +9838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Expand the table shown in Figure &lt;t0&gt;239&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T103610Z" creationid="michele" creationdate="20160608T103610Z">
+        <seg>Espandi la tabella visualizzata in Figura &lt;t0&gt;239&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Expand/collapse list</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160524T144844Z" creationid="luciano" creationdate="20160524T144844Z">
@@ -10386,6 +10402,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T093614Z" creationid="michele" creationdate="20160608T093614Z">
         <seg>Figura &lt;seq0&gt;240&lt;/seq0&gt;: Risultati di molteplici operazioni di calcolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;241&lt;/seq0&gt;: Sheet and dialog showing input</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T104043Z" creationid="michele" creationdate="20160608T104002Z">
+        <seg>Figura &lt;seq0&gt;241&lt;/seq0&gt;: Fogli, finestre di dialogo e campi di digitazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -13558,6 +13582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In E1 through H1 enter the numbers 8, 10, 15 and 20.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T103747Z" creationid="michele" creationdate="20160608T103747Z">
+        <seg>Da E1 fino a H1 inserire i numeri 8, 10, 15 e 20.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In Figure &lt;t1&gt;233&lt;/t1&gt; Individual entries are hidden by shrinking the Category subtotals for Brigitte.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T130101Z" creationid="michele" creationdate="20160531T130101Z">
@@ -15953,8 +15985,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Multiple operations across rows and columns</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160608T093632Z" creationid="michele" creationdate="20160608T093632Z">
-        <seg>Molteplici operazioni tra tra righe e colonne</seg>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T104009Z" creationid="michele" creationdate="20160608T093632Z">
+        <seg>Molteplici operazioni tra righe e colonne</seg>
       </tuv>
     </tu>
     <tu>
@@ -16201,8 +16233,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Now the profits are listed in column E and the annual profit per item in column F.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160608T093537Z" creationid="michele" creationdate="20160608T093537Z">
-        <seg>Ora i profitti sono elencati nella colonna E e il profitto annuo per oggetto nella colonna F.</seg>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T104026Z" creationid="michele" creationdate="20160608T093537Z">
+        <seg>Ora i profitti sono elencati nella colonna E mentre il profitto annuo per oggetto nella colonna F.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19327,6 +19359,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the range D1:H11.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T103756Z" creationid="michele" creationdate="20160608T103756Z">
+        <seg>Seleziona l'intervallo D1:H11.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the range D2:E11, and thus the values in column D and the empty cells (which will receive the results of the calculations) alongside in column E.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T084223Z" creationid="michele" creationdate="20160608T084223Z">
@@ -19635,6 +19675,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T084523Z" creationid="michele" creationdate="20160608T084523Z">
         <seg>Posizionare il cursore nel &lt;f0&gt;campo di digitazione Colonna&lt;/f0&gt; e fare clic sulla cella B4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set the cursor in the &lt;f0&gt;Row input cell&lt;/f0&gt; field and click cell B1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T104230Z" creationid="michele" creationdate="20160608T104230Z">
+        <seg>Posizionare il cursore nel campo &lt;f0&gt;Righe&lt;/f0&gt; e fare clic su B1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22449,6 +22497,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The profits for the different selling prices are now shown in the range E2:H11 (See &lt;t1&gt;Figure 242&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T104531Z" creationid="michele" creationdate="20160608T104531Z">
+        <seg>Il profitto per i diversi prezzi di vendita è ora visualizzato nell'intervallo E2:H11(Vedi&lt;t1&gt;Figura 242&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The range can be used as a print range.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142942Z" creationid="steevie" creationdate="20160504T142942Z">
@@ -23385,10 +23441,26 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This means that B1, the selling price, is the horizontally entered variable (with the values 8, 10, 15 and 20).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T104359Z" creationid="michele" creationdate="20160608T104359Z">
+        <seg>Questo significa che B1, il prezzo di vendita, è la variabile orizzontale (con valori 8, 10, 15 e 20).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This means that B4, the quantity, is the variable in the formula, which is to be replaced by the column of alternative values.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T084718Z" creationid="michele" creationdate="20160608T084718Z">
         <seg>Questo significa che B4, la quantità, è la variabile nella formula, che andrà rimpiazzata con i valori alternativi nella colonna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This means that B4, the quantity, is the vertically entered variable.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T104431Z" creationid="michele" creationdate="20160608T104431Z">
+        <seg>Questo significa che B4, la quantità, è la variabile verticale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26613,6 +26685,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160601T144543Z" creationid="michele" creationdate="20160601T144543Z">
         <seg>Con una variabile, la matrice dei valori alternativi perle variabili sarà in una singola colonna o riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With the cursor in the &lt;f0&gt;Formulas&lt;/f0&gt; field of the Multiple operations dialog, click cell B5 (profit).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T104150Z" creationid="michele" creationdate="20160608T104150Z">
+        <seg>Posizionando il cursore nel campo &lt;f0&gt;Formule&lt;/f0&gt; nella finestra di dialogo operazioni multiple, fare clic in B5 (profitto).</seg>
       </tuv>
     </tu>
     <tu>
