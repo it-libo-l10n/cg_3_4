@@ -11934,6 +11934,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Goal Seek example</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T125517Z" creationid="michele" creationdate="20160608T125517Z">
+        <seg>Esempio di ricerca valore di destinazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Going to a particular cell</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T091651Z" creationid="michele" creationdate="20160525T091651Z">
@@ -16759,6 +16767,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only one argument can be altered in a single goal seek.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T125510Z" creationid="michele" creationdate="20160608T125510Z">
+        <seg>Solo un elemento può essere variato in una singola operazione di ricerca valore di destinazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only one bookmark level (sheet names) is available in Calc, regardless of the setting selected here.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T160724Z" creationid="Luciano B." creationdate="20160326T160724Z">
@@ -17091,6 +17107,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160423T124052Z" creationid="luciano" creationdate="20160423T124052Z">
         <seg>Gli altri revisori sapranno velocemente quali celle sono state modificate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other uses of goal seek may be more complicated, but the method remains the same.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T125420Z" creationid="michele" creationdate="20160608T125420Z">
+        <seg>Altri unsi di ricerca valore di destinazione possono essere più complessi, ma il metodo resta lo stesso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21360,6 +21384,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The CFO can enter the projected earnings for each of the other three quarters along with a formula that totals all four quarters.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T125256Z" creationid="michele" creationdate="20160608T125256Z">
+        <seg>Il direttore commerciale può inserire i guadagni stimati per ognuno dei trimestri assieme a una formula che somma i quattro trimestri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Calc &lt;is0/&gt;status bar&lt;ie1/&gt; provides information about the spreadsheet and convenient ways to quickly change some of its features.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T092158Z" creationid="michele" creationdate="20160524T092158Z">
@@ -22145,6 +22177,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The formula is &lt;f0&gt;I = C*n*i&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T125609Z" creationid="michele" creationdate="20160608T125609Z">
+        <seg>La formula è &lt;f0&gt;I = C*n*i&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The formula must use at least two variables, the alternative values for which &lt;f0&gt;&lt;f1&gt;should&lt;/f1&gt;&lt;/f0&gt; be arranged so that one set is along a single row and the other set appears in a single column.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T094458Z" creationid="michele" creationdate="20160608T094148Z">
@@ -22845,6 +22885,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T142735Z" creationid="antonio" creationdate="20160524T142735Z">
         <seg>Quindi fate uno qualsiasi dei seguenti modi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then she runs a goal seek on the empty cell for Q4 sales, and receives her answer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T125348Z" creationid="michele" creationdate="20160608T125348Z">
+        <seg>Quindi basta effettuare una ricerca valore di destinazione per il quarto trimestre, e si riceve una risposta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23821,6 +23869,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164520Z" creationid="steevie" creationdate="20160428T164520Z">
         <seg>Per iniziare, selezionate il menu o sottomenu dall'elenco Menu nella parte alta della pagina Personalizza, quindi selezionate la voce nell'elenco delle Voci nell'area Contenuto menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To calculate annual interest (I), create a table with the values for the capital (C), number of years (n), and interest rate (i).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="michele" changedate="20160608T125603Z" creationid="michele" creationdate="20160608T125603Z">
+        <seg>Per calcolare l'interesse annuale(I), creare una tabella con i valori del capitale (C), numero di anni(n), e tasso di interesse (i).</seg>
       </tuv>
     </tu>
     <tu>
