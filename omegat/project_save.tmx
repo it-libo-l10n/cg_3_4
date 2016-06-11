@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11746,6 +11746,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T084646Z" creationid="michele" creationdate="20160531T084646Z">
         <seg>Nel nostro esempio i subtotali mostrati nella Figura 2&lt;t0&gt;232&lt;/t0&gt;, la struttura mostrata dalla colonna 1 è il &lt;f1&gt;Gran Totale&lt;/f1&gt;, nella colonna 2 è subtotale &lt;f2&gt;Impiegati&lt;/f2&gt;, e nella colonna 3 è la &lt;f3&gt;categoria&lt;/f3&gt; subtotale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For readers who are interested in effective ways to present information graphically, two excellent introductions to the topic are William S. Cleveland’s &lt;f0&gt;The elements of graphing data&lt;/f0&gt;, 2nd edition, Hobart Press (1994) and Edward R. Tufte&lt;bk1/&gt;’s &lt;f2&gt;The Visual Display of Quantitative Information&lt;/f2&gt;, 2nd edition, Graphics Press (2001).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T081941Z" creationid="emanuelegiusti" creationdate="20160611T081941Z">
+        <seg>Per i lettori che sono interessati a modi efficaci per presentare le informazioni graficamente, due eccellenti introduzioni al tema sono quelle di William S. Cleveland &lt;f0&gt;The elements of graphing data&lt;/f0&gt;, 2nd edition, Hobart Press (1994) and Edward R. Tufte&lt;bk1/&gt;’s &lt;f2&gt;The Visual Display of Quantitative Information&lt;/f2&gt;, 2nd edition, Graphics Press (2001).</seg>
       </tuv>
     </tu>
     <tu>
@@ -24521,6 +24529,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To demonstrate the process of making charts and graphs in Calc, we will use the small table of data in &lt;t0&gt;Figure 73&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T082031Z" creationid="emanuelegiusti" creationdate="20160611T082031Z">
+        <seg>Per dimostrare il processo di creazione di tabelle e diagrammi in Calc, useremo la piccola tabella di dati in &lt;t0&gt;Figura 73&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To directly add new cells to the print range:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T170037Z">
@@ -28701,6 +28717,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160422T160729Z" creationid="luciano" creationdate="20160422T160729Z">
         <seg>modifiche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>chart</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T081949Z" creationid="emanuelegiusti" creationdate="20160611T081949Z">
+        <seg>diagramma</seg>
       </tuv>
     </tu>
     <tu>
