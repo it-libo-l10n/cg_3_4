@@ -16775,6 +16775,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No other library is automatically loaded.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T162216Z" creationid="luciano" creationdate="20160614T162216Z">
+        <seg>Nessuna altra libreria viene caricata automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Normally, sorting the data causes the existing data to be replaced by the newly sorted data.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160510T135229Z" creationid="steevie" creationdate="20160510T135229Z">
@@ -22352,6 +22360,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Standard library is automatically loaded when the document is opened.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T162140Z" creationid="luciano" creationdate="20160614T162140Z">
+        <seg>La libreria Standard viene caricata automaticamente quando il documento è aperto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Status bar shows that Sheet7 is in position three of the eight sheets in the book.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T122605Z" creationid="michele" creationdate="20160525T122605Z">
@@ -27061,6 +27077,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160510T140058Z" creationid="steevie" creationdate="20160510T140058Z">
         <seg>Quando una cella è spostata durante un'operazione di ordinamento, i riferimenti esterni a quella cella non vengono aggiornati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a document is created and saved, it automatically contains a library named Standard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T162031Z" creationid="luciano" creationdate="20160614T162031Z">
+        <seg>Quando un documento è creato e salvato, automaticamente contieneuna libreria chiamata Standard.</seg>
       </tuv>
     </tu>
     <tu>
