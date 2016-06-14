@@ -12790,6 +12790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If Option Explicit is omitted, variables are automatically defined at first use as type Variant.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T155722Z" creationid="luciano" creationdate="20160614T155722Z">
+        <seg>Se Option Explicit è omessa, le variabili sono automaticamente definite come Varianti al primo utilizzo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If Tips are enabled, place the mouse pointer over any of the icons to see a small box (“tooltip”) with a brief explanation of the icon’s function.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T082025Z">
@@ -15682,6 +15690,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160524T153054Z" creationid="luciano" creationdate="20160524T153054Z">
         <seg>Elenco &lt;seq0&gt;1&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Listing &lt;seq0&gt;2&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T155803Z" creationid="luciano" creationdate="20160614T155803Z">
+        <seg>Elenco &lt;seq0&gt;2&lt;/seq0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19203,6 +19219,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084439Z">
         <seg>Sandeep Samuel Medikonda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save the modified Module1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T155749Z" creationid="luciano" creationdate="20160614T155749Z">
+        <seg>Salvate il Modulo1 modificato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26437,6 +26461,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T155213Z" creationid="steevie" creationdate="20160428T155213Z">
         <seg>L'uso di una griglia vi aiuta a determinare l'esatta posizione di qualsiasi diagramma od oggetto aggiunto al foglio di calcolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using a macro as a function</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T155838Z" creationid="luciano" creationdate="20160614T155838Z">
+        <seg>Usare una macro come una funzione</seg>
       </tuv>
     </tu>
     <tu>
