@@ -6550,6 +6550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc does not contain a function named NumberFive(), so it checks all opened and visible macro libraries for the function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T162514Z" creationid="luciano" creationdate="20160614T162514Z">
+        <seg>Calc non contiene una funzione chiamata NumberFive(), così controlla tutte le librerie della macro aperte e visibili per la  funzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc finds and marks the changes as follows:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T134002Z" creationid="luciano" creationdate="20160429T134002Z">
