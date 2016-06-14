@@ -22264,6 +22264,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The NumberFive() function is stored in the AuthorsCalcMacros library, which is not automatically loaded when the document is opened.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T163000Z" creationid="luciano" creationdate="20160614T163000Z">
+        <seg>La funzione NumberFive() è memorizzata nella libreria AuthorsCalcMacros, che non è caricata automaticamente quando il documento viene aperto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The PDF Options dialog opens.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T164937Z" creationid="Luciano B." creationdate="20160325T164937Z">
