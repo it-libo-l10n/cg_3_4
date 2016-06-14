@@ -7582,6 +7582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;New&lt;/f0&gt; to open the New Library dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T145012Z" creationid="luciano" creationdate="20160614T145012Z">
+        <seg>Fate click su &lt;f0&gt;Nuovo&lt;/f0&gt; per aprire la finestra di dialogo Nuova libreria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;New&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165532Z" creationid="steevie" creationdate="20160428T165532Z">
@@ -10946,6 +10954,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160614T143405Z" creationid="luciano" creationdate="20160614T143405Z">
         <seg>Figura&lt;seq0&gt;303&lt;/seq0&gt;: componenti della finestra di dialogo Basic Macros di &lt;f1&gt;LibreOffice&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;304&lt;/seq0&gt;: &lt;f1&gt;LibreOffice&lt;/f1&gt; Basic Macro Organizer</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T144917Z" creationid="luciano" creationdate="20160614T144917Z">
+        <seg>Figura &lt;seq0&gt;304&lt;/seq0&gt;: &lt;f1&gt;LibreOffice&lt;/f1&gt; Gestione macro Basic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;305&lt;/seq0&gt;: New Library dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T145046Z" creationid="luciano" creationdate="20160614T145023Z">
+        <seg>Figura &lt;seq0&gt;305&lt;/seq0&gt;: Finestra di dialogo Nuova libreria</seg>
       </tuv>
     </tu>
     <tu>
@@ -17017,8 +17041,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>On the Libraries tab, select the document to contain the macro.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T144706Z" creationid="luciano" creationdate="20160614T144706Z">
-        <seg>Nella scheda Librarie, scegliete il documento che contiene le macro.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T144853Z" creationid="luciano" creationdate="20160614T144706Z">
+        <seg>Nella scheda Librerie, scegliete il documento che contiene le macro.</seg>
       </tuv>
     </tu>
     <tu>
