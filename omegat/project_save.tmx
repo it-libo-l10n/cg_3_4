@@ -8502,6 +8502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create a new Calc document named &lt;f0&gt;CalcTestMacros.ods&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T141323Z" creationid="luciano" creationdate="20160614T141323Z">
+        <seg>Create un nuovo documento di Calc chamato &lt;f0&gt;CalcTestMacros.ods&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create a simple sheet filter.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135011Z" creationid="steevie" creationdate="20160511T135011Z">
@@ -25969,6 +25977,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the following steps to create a simple macro:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T141253Z" creationid="luciano" creationdate="20160614T141253Z">
+        <seg>Utilizzate questi passaggi per creare una semplice macro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the methods hasByName(name) and getByName(name) to verify and retrieve a named range.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T140016Z" creationid="steevie" creationdate="20160504T140016Z">
@@ -29548,6 +29564,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
         <seg>organizer</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160509T080155Z" creationid="briga" creationdate="20160509T080155Z">
+        <seg>gestione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>organizing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T141154Z" creationid="luciano" creationdate="20160614T141154Z">
         <seg>gestione</seg>
       </tuv>
     </tu>
