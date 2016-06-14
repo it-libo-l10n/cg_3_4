@@ -10070,6 +10070,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Expand CalcTestMacros and find AuthorsCalcMacros.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T163249Z" creationid="luciano" creationdate="20160614T163249Z">
+        <seg>Espandete CalcTestMacros per trovare AuthorsCalcMacros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Expand formatting</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T132629Z" creationid="steevie" creationdate="20160427T132629Z">
@@ -15584,8 +15592,8 @@
       <tuv lang="EN">
         <seg>Libraries in &lt;f0&gt;&lt;f1&gt;LibreOffice&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; Macros&lt;/f2&gt;, &lt;f3&gt;My Macros&lt;/f3&gt;, and the Calc document are checked for an appropriately named function (see &lt;t4&gt;Figure 303&lt;/t4&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T162814Z" creationid="luciano" creationdate="20160614T162814Z">
-        <seg>Le Librerie in &lt;f0&gt;&lt;f1&gt;LibreOffice&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; Macro&lt;/f2&gt;, &lt;f3&gt;Le Mie macros&lt;/f3&gt;, e i documenti Calc vengono controllati per un appropriato nome di funzione (vedere &lt;t4&gt;Figura 303&lt;/t4&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T163224Z" creationid="luciano" creationdate="20160614T162814Z">
+        <seg>Le Librerie in &lt;f0&gt;&lt;f1&gt;LibreOffice&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; Macro&lt;/f2&gt;, &lt;f3&gt;Le Mie macro&lt;/f3&gt;, e i documenti Calc vengono controllati per un appropriato nome di funzione (vedere &lt;t4&gt;Figura 303&lt;/t4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -22993,6 +23001,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The icon for a loaded library is a different color from the icon for a library that is not loaded.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T163447Z" creationid="luciano" creationdate="20160614T163447Z">
+        <seg>L'icona di una libreria caricata è di colore diverso dall'icona per una libreria non caricata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The icon then changes to the Maximize icon; click it to restore the dialog to its original size.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T085236Z" creationid="michele" creationdate="20160608T085236Z">
@@ -26141,6 +26157,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T085338Z" creationid="michele" creationdate="20160525T085338Z">
         <seg>Usate &lt;f0&gt;File &gt; Salva con nome&lt;/f0&gt; quando salvate il documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;LibreOffice&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Basic&lt;/f3&gt; to open the &lt;f4&gt;LibreOffice&lt;/f4&gt; Basic Macros dialog (see &lt;t5&gt;Figure 312&lt;/t5&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T163205Z" creationid="luciano" creationdate="20160614T163205Z">
+        <seg>Usate &lt;f0&gt;Strumenti &gt; Macro &gt; Organizza macro &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;LibreOffice&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Basic&lt;/f3&gt; per aprire la finestra di dialogo &lt;f4&gt;LibreOffice&lt;/f4&gt; Basic Macros (vedere &lt;t5&gt;Figura 312&lt;/t5&gt;).</seg>
       </tuv>
     </tu>
     <tu>
