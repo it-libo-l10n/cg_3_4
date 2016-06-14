@@ -6478,6 +6478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc can call &lt;i0/&gt;macros &lt;i1/&gt;&lt;is2/&gt;as Calc functions&lt;ie3/&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T141944Z" creationid="luciano" creationdate="20160614T141944Z">
+        <seg>Calc può chiamare &lt;i0/&gt;macro &lt;i1/&gt;&lt;is2/&gt;allo stesso modo di una funzione di Calc&lt;ie3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc can export spreadsheets to XHTML, if the appropriate filter is installed (standard on Mac and Linux; optional on Windows).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T151404Z" creationid="Luciano B." creationdate="20160329T151404Z">
@@ -25845,6 +25853,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T085338Z" creationid="michele" creationdate="20160525T085338Z">
         <seg>Usate &lt;f0&gt;File &gt; Salva con nome&lt;/f0&gt; quando salvate il documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;LibreOffice&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Basic&lt;/f3&gt; to open the &lt;f4&gt;LibreOffice&lt;/f4&gt; Basic Macros dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T142216Z" creationid="luciano" creationdate="20160614T142216Z">
+        <seg>Usate &lt;f0&gt;Strumenti &gt; Macro &gt; Organizza Macro &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;LibreOffice&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Basic&lt;/f3&gt; per aprire la finestra di dialogo &lt;f4&gt;LibreOffice&lt;/f4&gt; Basic Macros.</seg>
       </tuv>
     </tu>
     <tu>
