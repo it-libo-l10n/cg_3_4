@@ -11030,10 +11030,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;309&lt;/seq0&gt;: &lt;f1&gt;LibreOffice&lt;/f1&gt; warns you that a document contains macros</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T161503Z" creationid="luciano" creationdate="20160614T161503Z">
+        <seg>Figura &lt;seq0&gt;309&lt;/seq0&gt;: &lt;f1&gt;LibreOffice&lt;/f1&gt; vi avverte che un documento contiene macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;30&lt;/seq0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T152125Z" creationid="michele" creationdate="20160525T152125Z">
         <seg>Figura &lt;seq0&gt;30&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;310&lt;/seq0&gt;: Warning if macros are disabled</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T161549Z" creationid="luciano" creationdate="20160614T161549Z">
+        <seg>Figura &lt;seq0&gt;310&lt;/seq0&gt;: Avvertimento se le macro sono disabilitate</seg>
       </tuv>
     </tu>
     <tu>
@@ -13506,6 +13522,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T135128Z" creationid="michele" creationdate="20160525T135128Z">
         <seg>Se non inserite un nome, Calc crea un nome predefinito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you do not expect a document to contain a macro, it is safer to click &lt;f9&gt;Disable Macros&lt;/f9&gt; in case the macro is a virus.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T161431Z" creationid="luciano" creationdate="20160614T161431Z">
+        <seg>Se non vi aspettate un documento che contenga una macro, è più sicuro fare clic su &lt;F9&gt; Disattiva macro &lt;/ F9&gt; nel caso in cui la macro sia un virus.</seg>
       </tuv>
     </tu>
     <tu>
