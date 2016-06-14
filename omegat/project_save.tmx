@@ -7654,6 +7654,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Organizer&lt;/f0&gt; to open the &lt;f1&gt;LibreOffice&lt;/f1&gt; Basic Macro Organizer dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T144548Z" creationid="luciano" creationdate="20160614T144548Z">
+        <seg>Fate click su &lt;f0&gt;Gestione&lt;/f0&gt; per aprire la finestra di dialogo &lt;f1&gt;LibreOffice&lt;/f1&gt; Gestione macro Basic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Save&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172525Z" creationid="steevie" creationdate="20160428T172525Z">
@@ -17003,6 +17011,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160428T151513Z" creationid="luciano" creationdate="20160428T151513Z">
         <seg>Nella scheda Filtro di questa finestra di dialogo (non mostrata qui), potete scegliere come filtrare l'elenco delle modifiche: per data, autore, intervallo di celle, o commenti contenenti termini specifici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Libraries tab, select the document to contain the macro.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T144706Z" creationid="luciano" creationdate="20160614T144706Z">
+        <seg>Nella scheda Librarie, scegliete il documento che contiene le macro.</seg>
       </tuv>
     </tu>
     <tu>
