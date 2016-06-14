@@ -2462,6 +2462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;document&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;ThisComponent&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;.&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;CurrentController&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;.&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;Frame&lt;/f16&gt;&lt;/f15&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T133855Z" creationid="luciano" creationdate="20160614T133855Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;documento&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Questo Componente&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;.&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;ControllerCorrente&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;.&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;Frame&lt;/f16&gt;&lt;/f15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;oAddr&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oRange&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;getRangeAddress&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;()&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T152048Z" creationid="steevie" creationdate="20160509T152048Z">
@@ -29701,6 +29709,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T145638Z" creationid="steevie" creationdate="20160428T145618Z">
         <seg>espressioni regolari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rem get access to the document</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T133744Z" creationid="luciano" creationdate="20160614T133744Z">
+        <seg>rem ottieni l'accesso al documento</seg>
       </tuv>
     </tu>
     <tu>
