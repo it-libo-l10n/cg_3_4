@@ -15911,6 +15911,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Listing &lt;seq0&gt;4&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T150908Z" creationid="luciano" creationdate="20160615T150908Z">
+        <seg>Elenco &lt;seq0&gt;4&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Loading a saved keyboard configuration</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172530Z" creationid="steevie" creationdate="20160428T172530Z">
@@ -19452,6 +19460,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160614T155749Z" creationid="luciano" creationdate="20160614T155749Z">
         <seg>Salvate il Modulo1 modificato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save, close, and reopen the Calc document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T150725Z" creationid="luciano" creationdate="20160615T150725Z">
+        <seg>Salvate, chiuidere e riaprite il documento Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23354,6 +23370,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The new macro loads the AuthorsCalcMacros library if it is not already loaded, and then calls the implementation function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T150653Z" creationid="luciano" creationdate="20160615T150653Z">
+        <seg>LA nuova macro carica la libreria AuthorsCalcMacros se non è stata caricata, e chiama le funzioni di implementazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The new menu now appears on the list of menus in the Customize dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163616Z" creationid="steevie" creationdate="20160428T163616Z">
@@ -24654,6 +24678,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160526T154359Z" creationid="michele" creationdate="20160526T154359Z">
         <seg>Questo specifica come i valori delle aree consolidate saranno calcolate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This time, the NumberFive() function works.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T150859Z" creationid="luciano" creationdate="20160615T150859Z">
+        <seg>Questa volta NumberFive() funziona.</seg>
       </tuv>
     </tu>
     <tu>
