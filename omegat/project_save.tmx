@@ -11950,6 +11950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, the macro in &lt;t1&gt;Listing 7&lt;/t1&gt; adds the values in cell A2 from every sheet in the current document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T161109Z" creationid="luciano" creationdate="20160615T161109Z">
+        <seg>Per esempio, la macro nel &lt;t1&gt;Listato 7&lt;/t1&gt; aggiunge il valore nella cella A2 da ogni foglio presente nel documento corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, to select the &lt;f0&gt;Send&lt;/f0&gt; submenu command by pressing &lt;f1&gt;&lt;f2&gt;S&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt; (after opening the File menu using &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;Alt+F&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;)&lt;/f7&gt;&lt;/f6&gt;, enter &lt;f8&gt;&lt;f9&gt;~Send&lt;/f9&gt;&lt;/f8&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164233Z" creationid="steevie" creationdate="20160428T164233Z">
@@ -28342,6 +28350,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164259Z" creationid="steevie" creationdate="20160428T164259Z">
         <seg>Potete &lt;i0/&gt;aggiungere comandi ai menu forniti e ai menu da voi creati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can access the &lt;f0&gt;LibreOffice&lt;/f0&gt; internal objects directly to manipulate a Calc document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T160925Z" creationid="luciano" creationdate="20160615T160925Z">
+        <seg>Potete accedere direttamente agli oggetti interni di &lt;f0&gt;LibreOffice&lt;/f0&gt; per manipolare un documento di Calc.</seg>
       </tuv>
     </tu>
     <tu>
