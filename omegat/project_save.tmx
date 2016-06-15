@@ -12950,6 +12950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If Calc calls the function many times, then the error is displayed many times.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T153007Z" creationid="luciano" creationdate="20160615T153007Z">
+        <seg>Se Calc chiama la funzione numerose volte, l'errore sarà visualizzato numerose volte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If Option Explicit is omitted, variables are automatically defined at first use as type Variant.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160614T155722Z" creationid="luciano" creationdate="20160614T155722Z">
@@ -27406,6 +27414,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164250Z" creationid="steevie" creationdate="20160428T164250Z">
         <seg>Quando assegnate una scorciatoia ai menu personalizzati, assicuratevi di non utilizzare una lettera già utilizzata per un'altra scorciatoia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When an argument is not optional and the function is called without it, &lt;f1&gt;LibreOffice&lt;/f1&gt; prints a warning message every time the macro is called.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T152915Z" creationid="luciano" creationdate="20160615T152915Z">
+        <seg>Quando un argomento non è opzionale e la funzione viene chiamata senza di esso, &lt;f1&gt;LibreOffice&lt;/f1&gt; stampa un messaggio di avviso ad ogni chiamata della macro.</seg>
       </tuv>
     </tu>
     <tu>
