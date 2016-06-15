@@ -6862,6 +6862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change the name of NumberFive to NumberFive_Implementation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T150958Z" creationid="luciano" creationdate="20160615T150958Z">
+        <seg>Modificare il nome da NumberFive in NumberFive_Implementation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changes from different authors appear in different colors in the document, as shown in &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figure 293&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160428T153946Z" creationid="luciano" creationdate="20160428T153946Z">
@@ -9896,8 +9904,8 @@
       <tuv lang="EN">
         <seg>Enter a meaningful name such as CalcFunctions and click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T150318Z" creationid="luciano" creationdate="20160615T150318Z">
-        <seg>Inserite un mone significativo come CalcFunctions e fate clic su &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T150930Z" creationid="luciano" creationdate="20160615T150318Z">
+        <seg>Inserite un nome significativo come CalcFunctions e fate clic su &lt;f1&gt;OK&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15897,24 +15905,24 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>Listing &lt;seq0&gt;2&lt;/seq0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T155803Z" creationid="luciano" creationdate="20160614T155803Z">
-        <seg>Elenco &lt;seq0&gt;2&lt;/seq0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T151124Z" creationid="luciano" creationdate="20160614T155803Z">
+        <seg>Listato &lt;seq0&gt;2&lt;/seq0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Listing &lt;seq0&gt;3&lt;/seq0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T145313Z" creationid="luciano" creationdate="20160615T145313Z">
-        <seg>Elenco &lt;seq0&gt;3&lt;/seq0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T151213Z" creationid="luciano" creationdate="20160615T145313Z">
+        <seg>Listato &lt;seq0&gt;3&lt;/seq0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Listing &lt;seq0&gt;4&lt;/seq0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T150908Z" creationid="luciano" creationdate="20160615T150908Z">
-        <seg>Elenco &lt;seq0&gt;4&lt;/seq0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T151228Z" creationid="luciano" creationdate="20160615T150908Z">
+        <seg>Listato &lt;seq0&gt;4&lt;/seq0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16233,8 +16241,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>Modify the code so that it is the same as that shown in &lt;t0&gt;Listing 2&lt;/t0&gt;.The important addition is the creation of the &lt;f1&gt;NumberFive&lt;/f1&gt; function, which returns the number five.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T151032Z" creationid="luciano" creationdate="20160614T151032Z">
-        <seg>Modificate il codice in modo che sia lo stesso mostrato nell' &lt;t0&gt;Elenco 2&lt;/t0&gt;. L'aggiunta importante è la creazione della funzione &lt;f1&gt;NumberFive&lt;/f1&gt;, che restituisce il numero cinque.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T151159Z" creationid="luciano" creationdate="20160614T151032Z">
+        <seg>Modificate il codice in modo che sia lo stesso mostrato nell' &lt;t0&gt;Listato 2&lt;/t0&gt;. L'aggiunta importante è la creazione della funzione &lt;f1&gt;NumberFive&lt;/f1&gt;, che restituisce il numero cinque.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23372,8 +23380,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>The new macro loads the AuthorsCalcMacros library if it is not already loaded, and then calls the implementation function.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T150653Z" creationid="luciano" creationdate="20160615T150653Z">
-        <seg>LA nuova macro carica la libreria AuthorsCalcMacros se non è stata caricata, e chiama le funzioni di implementazione.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T151220Z" creationid="luciano" creationdate="20160615T150653Z">
+        <seg>La nuova macro carica la libreria AuthorsCalcMacros se non è stata caricata, e chiama le funzioni di implementazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29158,6 +29166,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160330T085132Z" creationid="briga" creationdate="20160330T085132Z">
         <seg>applicando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>arguments</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T151006Z" creationid="luciano" creationdate="20160615T151006Z">
+        <seg>argumenti</seg>
       </tuv>
     </tu>
     <tu>
