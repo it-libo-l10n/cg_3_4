@@ -3550,6 +3550,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;IsArray&lt;/f0&gt; checks to see if the argument is a single value, or an array.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T153218Z" creationid="luciano" creationdate="20160615T153218Z">
+        <seg>&lt;f0&gt;IsArray&lt;/f0&gt; controlla per vedere se l'argomento è un valore singolo, o un array..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;IsMissing&lt;/f0&gt; checks that an argument was passed before the argument is used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T153127Z" creationid="luciano" creationdate="20160615T153127Z">
+        <seg>&lt;f0&gt;IsMissing&lt;/f0&gt; controlla che un argomento sia stato passato prima di utilizzare l'argomento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;It may become necessary to remove a defined print range, for example if the whole sheet needs to be printed later, or you no longer wish to print some of the added ranges&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T164744Z">
@@ -11762,6 +11778,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T160634Z" creationid="Luciano B." creationdate="20160329T160634Z">
         <seg>Per ulteriori dettagli si veda il Capitolo 10 (Stampa, Esportazione e Invio di e-mail) della &lt;f0&gt;Guida Rapida&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, &lt;f1&gt;=PositiveSum(7)&lt;/f1&gt; or &lt;f2&gt;=PositiveSum(A4)&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T153245Z" creationid="luciano" creationdate="20160615T153245Z">
+        <seg>Per esempio, &lt;f1&gt;=PositiveSum(7)&lt;/f1&gt; o &lt;f2&gt;=PositiveSum(A4)&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
