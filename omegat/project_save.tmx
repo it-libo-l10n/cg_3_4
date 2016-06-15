@@ -5646,6 +5646,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although the lower bound is one, it is considered safer to use &lt;f2&gt;LBound&lt;/f2&gt; in case it changes in the future.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T154430Z" creationid="luciano" creationdate="20160615T154430Z">
+        <seg>Sebbene il limite inferiore sia uno, è considerato sicuro da usare &lt;f2&gt;LBound&lt;/f2&gt; nel caso esso cambi in futuro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Although this document was initially created for macro programmers, the content should be accessible to all users.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T150050Z" creationid="steevie" creationdate="20160503T150050Z">
@@ -13054,6 +13062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a range is passed to the function, it is passed as a two-dimensional array of values; for example, &lt;f0&gt;=PositiveSum(A2:B5).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T154224Z" creationid="luciano" creationdate="20160615T154224Z">
+        <seg>Se un intervallo viene passato alla funzione, vine passato come un array bidimensionale di valory; per esempio, &lt;f0&gt;=PositiveSum(A2:B5).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a range is referenced by name in multiple locations, you can point the name to another location and all references point to the new location.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T132855Z" creationid="steevie" creationdate="20160504T132855Z">
@@ -15659,6 +15675,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084424Z">
         <seg>Krishna Aradhi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LBound&lt;/f0&gt; and &lt;f1&gt;UBound&lt;/f1&gt; are used to determine the array bounds that are used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T154315Z" creationid="luciano" creationdate="20160615T154315Z">
+        <seg>LBound&lt;/f0&gt; e &lt;f1&gt;UBound&lt;/f1&gt; sono utilizzati per determinare i confini degli array che vengono usati.</seg>
       </tuv>
     </tu>
     <tu>
