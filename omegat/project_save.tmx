@@ -5958,6 +5958,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Arguments are passed as values</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T155637Z" creationid="luciano" creationdate="20160615T155637Z">
+        <seg>Gli argumenti vengono passati come valori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Arguments passed to a macro from Calc are always values.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T155714Z" creationid="luciano" creationdate="20160615T155714Z">
+        <seg>Gli argumenti passati a una macro da Calc sono sempre dei valori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Arial &lt;s0/&gt;instead of 8 pt.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160215T071245Z">
@@ -15419,6 +15435,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T144950Z" creationid="luciano" creationdate="20160422T155548Z">
         <seg>Non è necessario proteggere con password il documento mentre viene preparato per la verifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is not possible to know what cells, if any, are used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T155847Z" creationid="luciano" creationdate="20160615T155847Z">
+        <seg>Non è possibile sapere quali celle, se ce ne sono, sono utilizzate.</seg>
       </tuv>
     </tu>
     <tu>
