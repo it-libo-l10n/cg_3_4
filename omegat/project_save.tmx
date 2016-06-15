@@ -23298,6 +23298,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The macro does not verify that each value is numeric.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T154726Z" creationid="luciano" creationdate="20160615T154726Z">
+        <seg>La macro non verifica che ogni valore sia un valore numerico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The macro in &lt;t0&gt;Listing 10&lt;/t0&gt; creates a named range, if it does not exist, that references a range of cells.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T140658Z" creationid="steevie" creationdate="20160504T140425Z">
@@ -23342,6 +23350,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160615T152634Z" creationid="luciano" creationdate="20160615T152634Z">
         <seg>La macro nel &lt;t0&gt;Listato 5&lt;/t0&gt; illustra alcune importanti tecniche:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The macro in &lt;t0&gt;Listing 5&lt;/t0&gt; is careful and checks to see if the argument is an array or a single argument.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T154654Z" creationid="luciano" creationdate="20160615T154654Z">
+        <seg>La macro nel &lt;t0&gt;Listato 5&lt;/t0&gt; è precisa e controlla per vedere se l'argomento è una array o un singolo argomento.</seg>
       </tuv>
     </tu>
     <tu>
