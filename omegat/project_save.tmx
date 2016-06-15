@@ -15927,6 +15927,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Listing &lt;seq0&gt;5&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T151234Z" creationid="luciano" creationdate="20160615T151234Z">
+        <seg>Listato &lt;seq0&gt;5&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Loading a saved keyboard configuration</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172530Z" creationid="steevie" creationdate="20160428T172530Z">
@@ -18052,6 +18060,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T211829Z">
         <seg>Componenti della finestra principale di Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Passing &lt;i0/&gt;arguments to a macro</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T151529Z" creationid="luciano" creationdate="20160615T151529Z">
+        <seg>Trasferire &lt;i0/&gt;argumenti ad una macro</seg>
       </tuv>
     </tu>
     <tu>
@@ -25286,6 +25302,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T154914Z" creationid="michele" creationdate="20160525T154914Z">
         <seg>Per nascondere l'elenco delle categorie e mostrare solamente le icone in alto, fate clic sull'icona &lt;f0&gt;Contenuti&lt;/f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To illustrate a function that accepts arguments, we will write a macro that calculates the sum of its arguments that are positive &lt;f0&gt;—&lt;/f0&gt;it will ignore arguments that are less than zero (see &lt;t1&gt;Listing 5&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T151501Z" creationid="luciano" creationdate="20160615T151501Z">
+        <seg>Per illustrare una funzione che accetta gli argomenti, scriveremo una macro che calcola la somma dei propri argomenti positivi &lt;f0&gt;—&lt;/f0&gt;questa ingnorerà gli argomenti che sono inferiori allo zero (vedere &lt;t1&gt;Listato 5&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
