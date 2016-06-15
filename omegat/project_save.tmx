@@ -6558,6 +6558,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc does not recalculate cells in error unless you edit them or somehow change them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T144301Z" creationid="luciano" creationdate="20160615T144301Z">
+        <seg>Calc non ripete il calcolo delle celle in errore fino a che non vengono modificate o cambiate in qualche modo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc finds and marks the changes as follows:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T134002Z" creationid="luciano" creationdate="20160429T134002Z">
@@ -23693,6 +23701,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T155958Z" creationid="steevie" creationdate="20160418T155958Z">
         <seg>La finestra del colore in alto a destra è collegata direttamente con i campi di inserimento del colore nell'area in basso; quando scegliete un colore nella finestra superiore, i numeri cambiano di conseguenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The usual solution is to store macros used as functions in the Standard library.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T144448Z" creationid="luciano" creationdate="20160615T144448Z">
+        <seg>La soluzione più comune è quella di salvare le macro come funzioni della libreria Standard.</seg>
       </tuv>
     </tu>
     <tu>
