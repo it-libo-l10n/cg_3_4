@@ -15999,6 +15999,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Listing &lt;seq0&gt;6&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T155458Z" creationid="luciano" creationdate="20160615T155458Z">
+        <seg>Listato &lt;seq0&gt;6&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Loading a saved keyboard configuration</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172530Z" creationid="steevie" creationdate="20160428T172530Z">
@@ -22169,6 +22177,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TestMax accepts two arguments and returns the larger of the two.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T155537Z" creationid="luciano" creationdate="20160615T155537Z">
+        <seg>TestMax accetta due argomenti e restituisce il maggiore dei due.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text functions</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T101242Z">
@@ -27522,6 +27538,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When calling a function with two arguments, separate the arguments with a semicolon; for example, &lt;f1&gt;=TestMax(3&lt;/f1&gt;&lt;f2&gt;;&lt;/f2&gt;&lt;f3&gt; -4)&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T155444Z" creationid="luciano" creationdate="20160615T155444Z">
+        <seg>Quando chiamate una funzione con due argomenti, separateli con un punto e virgola; per esempio, &lt;f1&gt;=TestMax(3&lt;/f1&gt;&lt;f2&gt;;&lt;/f2&gt;&lt;f3&gt; -4)&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When data is moved by dragging or using cut and paste, all of the cells are moved—including the hidden cells.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160526T130259Z" creationid="steevie" creationdate="20160526T130259Z">
@@ -29324,8 +29348,16 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>arguments</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T151006Z" creationid="luciano" creationdate="20160615T151006Z">
-        <seg>argumenti</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T155545Z" creationid="luciano" creationdate="20160615T151006Z">
+        <seg>argomenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>arguments in functions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T155607Z" creationid="luciano" creationdate="20160615T155607Z">
+        <seg>argomenti nelle funzioni</seg>
       </tuv>
     </tu>
     <tu>
