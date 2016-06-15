@@ -18066,8 +18066,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Passing &lt;i0/&gt;arguments to a macro</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T151529Z" creationid="luciano" creationdate="20160615T151529Z">
-        <seg>Trasferire &lt;i0/&gt;argumenti ad una macro</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T152525Z" creationid="luciano" creationdate="20160615T151529Z">
+        <seg>Trasferire &lt;i0/&gt;argomenti ad una macro</seg>
       </tuv>
     </tu>
     <tu>
@@ -22625,6 +22625,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The argument &lt;f0&gt;x&lt;/f0&gt; is optional.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T152703Z" creationid="luciano" creationdate="20160615T152703Z">
+        <seg>L'argomento &lt;f0&gt;x&lt;/f0&gt; è opzionale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The arrangement of your alternative values dictates how you should complete the rest of the dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160601T155816Z" creationid="michele" creationdate="20160601T155816Z">
@@ -23262,6 +23270,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T134939Z" creationid="steevie" creationdate="20160511T134939Z">
         <seg>La macro nel &lt;t0&gt;Listato 14&lt;/t0&gt; crea un semplice filtra per il primo foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The macro in &lt;t0&gt;Listing 5&lt;/t0&gt; demonstrates some important techniques:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T152634Z" creationid="luciano" creationdate="20160615T152634Z">
+        <seg>La macro nel &lt;t0&gt;Listato 5&lt;/t0&gt; illustra alcune importanti tecniche:</seg>
       </tuv>
     </tu>
     <tu>
