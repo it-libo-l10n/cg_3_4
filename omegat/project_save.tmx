@@ -11806,6 +11806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, &lt;f0&gt;=PositiveSum(A3)&lt;/f0&gt; passes the value of cell A3, and PositiveSum has no way of knowing that cell A3 was used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T160020Z" creationid="luciano" creationdate="20160615T160020Z">
+        <seg>Per esempio, &lt;f0&gt;=PositiveSum(A3)&lt;/f0&gt; passa il valore della cella A3, e PositiveSum non ha modo di sapere che la cella A3 è stata utilizzata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, &lt;f1&gt;=PositiveSum(7)&lt;/f1&gt; or &lt;f2&gt;=PositiveSum(A4)&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160615T153245Z" creationid="luciano" creationdate="20160615T153245Z">
@@ -13906,6 +13914,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T160222Z" creationid="steevie" creationdate="20160418T160214Z">
         <seg>Se caricate una tavolozza in uno dei componenti di &lt;f0&gt;LibreOffice&lt;/f0&gt;, questa sarà attiva solo per quel componente; gli altri componenti manterranno le proprie tavolozze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you must know which cells are referenced rather than the values in the cells, pass the range as a string, parse the string, and obtain the values in the referenced cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T160248Z" creationid="luciano" creationdate="20160615T160248Z">
+        <seg>Se dovete sapere a quali le celle si fa riferimento, piuttosto che ai valori nelle celle, passate l'intervallo campo come una stringa, analizzate la stringa, e ottenete i valori nelle celle di riferimento.</seg>
       </tuv>
     </tu>
     <tu>
