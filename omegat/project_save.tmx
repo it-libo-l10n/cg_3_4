@@ -8088,8 +8088,8 @@
       <tuv lang="EN">
         <seg>Click the &lt;f1&gt;Select Macro&lt;/f1&gt; button to open the &lt;f2&gt;LibreOffice&lt;/f2&gt; Basic Macros dialog (see &lt;t3&gt;Figure 312&lt;/t3&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T145642Z" creationid="luciano" creationdate="20160615T145642Z">
-        <seg>Fate clic sul pulsante  &lt;f1&gt;Select Macro&lt;/f1&gt; button to open the &lt;f2&gt;LibreOffice&lt;/f2&gt; Basic Macros dialog (see &lt;t3&gt;Figure 312&lt;/t3&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T150106Z" creationid="luciano" creationdate="20160615T145642Z">
+        <seg>Fate clic sul pulsante  &lt;f1&gt;Seleziona Macro&lt;/f1&gt; per aprire la finestra di dialogo &lt;f2&gt;LibreOffice&lt;/f2&gt; Basic Macros (vedere &lt;t3&gt;Figura 312&lt;/t3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -20028,6 +20028,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160615T145011Z" creationid="luciano" creationdate="20160615T145011Z">
         <seg>Selezionate la macro NumberFivee fate clic su &lt;f5&gt;Modifica&lt;/f5&gt; per aprire la macro e modificarla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the Standard library in the CalcTestMacros document and click &lt;f0&gt;New&lt;/f0&gt; to create a new module.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T150220Z" creationid="luciano" creationdate="20160615T150220Z">
+        <seg>Selezionate la libreria Standard nel documento CalcTestMacros e fate clic su &lt;f0&gt;Nuovo&lt;/f0&gt; per creare un nuovo modulo.</seg>
       </tuv>
     </tu>
     <tu>
