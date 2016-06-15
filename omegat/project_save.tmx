@@ -13278,6 +13278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the macro is large or if there are many macros, a stub with the desired name is stored in the Standard library.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T144743Z" creationid="luciano" creationdate="20160615T144725Z">
+        <seg>Se la macro è grande o se ci sono molte macro, una porzione con il nome desiderato è memorizzata nella libreria Standard..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the range A1:B1 is referenced and a new row is inserted under row 1, the reference is not expanded, since there is only a single cell in the vertical direction.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T135016Z" creationid="steevie" creationdate="20160427T134856Z">
