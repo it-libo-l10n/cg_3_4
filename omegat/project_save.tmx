@@ -7590,6 +7590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Close&lt;/f0&gt; to close the dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T143915Z" creationid="luciano" creationdate="20160615T143915Z">
+        <seg>Fate clic su &lt;f0&gt;OK&lt;/f0&gt; per chiudere la finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Keep Current Format&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T152821Z" creationid="michele" creationdate="20160524T152821Z">
@@ -26021,6 +26029,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095311Z">
         <seg>Comprendere le funzioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unfortunately, the cells containing =NumberFive() are in error.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T144017Z" creationid="luciano" creationdate="20160615T144017Z">
+        <seg>Sfortunatamente le celle contenenti =NumberFive() sono in errore.</seg>
       </tuv>
     </tu>
     <tu>
