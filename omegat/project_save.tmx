@@ -4414,6 +4414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;LibreOffice&lt;/f2&gt; automatically creates a macro named Main and opens the module for editing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T150418Z" creationid="luciano" creationdate="20160615T150418Z">
+        <seg>&lt;f2&gt;LibreOffice&lt;/f2&gt; automaticamente crea una macro chiamata Main e apre i moduli per le modifiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f3&gt;Edit &gt; Compare Document&lt;/f3&gt;&lt;br4/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T155527Z" creationid="Luciano B." creationdate="20160411T155527Z">
@@ -8598,6 +8606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create a macro in the Standard library that calls the implementation function (see &lt;t0&gt;Listing 4&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T150545Z" creationid="luciano" creationdate="20160615T150545Z">
+        <seg>Create una macro nella libreria Standard che chiama le funzioni di implementazione (vedere &lt;t0&gt;Elenco 4&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create a named range</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T145843Z" creationid="steevie" creationdate="20160504T145843Z">
@@ -9874,6 +9890,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160614T145221Z" creationid="luciano" creationdate="20160614T145221Z">
         <seg>Inserire un nome descrittivo della libreria (per esempio AuthorsCalcMacros) e fate clic su &lt;f0&gt;OK&lt;/f0&gt; per create la libreria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter a meaningful name such as CalcFunctions and click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T150318Z" creationid="luciano" creationdate="20160615T150318Z">
+        <seg>Inserite un mone significativo come CalcFunctions e fate clic su &lt;f1&gt;OK&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
