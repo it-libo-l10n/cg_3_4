@@ -19008,6 +19008,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>REM Sort column B (column 1) descending.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T100218Z" creationid="luciano" creationdate="20160616T100218Z">
+        <seg>REM Ordinare colonna B (colunna 1) verso il basso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>REM StringValue property would be used.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135824Z" creationid="steevie" creationdate="20160511T135824Z">
@@ -19028,6 +19036,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135726Z" creationid="steevie" creationdate="20160511T135726Z">
         <seg>REM La proprietà NumericValue è usata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>REM The columns are numbered starting with 0, so</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T100114Z" creationid="luciano" creationdate="20160616T100114Z">
+        <seg>REM Le colonne sono numerate iniziando da 0, così</seg>
       </tuv>
     </tu>
     <tu>
@@ -19068,6 +19084,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142340Z" creationid="steevie" creationdate="20160504T142340Z">
         <seg>REM Il quarto argomento usa valori presi dalle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>REM The only purpose would be to emphasize the sorted data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T100040Z" creationid="luciano" creationdate="20160616T100040Z">
+        <seg>REM Il solo scopo sarebbe quello di evidenziare i dati ordinati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19180,6 +19204,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135647Z" creationid="steevie" creationdate="20160511T135647Z">
         <seg>REM può usare.Field = oCell.CellAddress.Column.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>REM column A is 0, column B is 1, etc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T100140Z" creationid="luciano" creationdate="20160616T100140Z">
+        <seg>REM colunna A è 0, colunna B is 1, ecc.</seg>
       </tuv>
     </tu>
     <tu>
