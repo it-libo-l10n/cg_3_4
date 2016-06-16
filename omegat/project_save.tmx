@@ -19176,6 +19176,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>REM getData() returns data data as type Double, so only</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T095239Z" creationid="luciano" creationdate="20160616T095239Z">
+        <seg>REM getData() restituisce i dati dei dati come tipo Double, in modo da</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>REM getDataArray() returns the data as variant so strings</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160616T095106Z" creationid="luciano" creationdate="20160616T095014Z">
@@ -19204,6 +19212,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135623Z" creationid="steevie" creationdate="20160511T135611Z">
         <seg>REM filtrare con base 0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>REM numbers are returned.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T095304Z" creationid="luciano" creationdate="20160616T095304Z">
+        <seg>REM restituire solo numeri.</seg>
       </tuv>
     </tu>
     <tu>
