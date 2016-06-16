@@ -18896,6 +18896,22 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>REM Get the cell range to sort</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T095837Z" creationid="luciano" creationdate="20160616T095837Z">
+        <seg>REM Prende l'intervallo di celle da ordinare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>REM Get the sheet named "Sheet1"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T095804Z" creationid="luciano" creationdate="20160616T095804Z">
+        <seg>REM Prende il nome del foglio "Foglio1"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>REM If IsNumeric was False, then the</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135806Z" creationid="steevie" creationdate="20160511T135806Z">
@@ -18964,6 +18980,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T140012Z" creationid="steevie" creationdate="20160511T140012Z">
         <seg>REM SaveOutputPosition, Orientation, ContainsHeader,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>REM Select the range to sort.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T095907Z" creationid="luciano" creationdate="20160616T095907Z">
+        <seg>REM Seleziona l'intervallo di celle da ordinare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19048,6 +19072,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>REM The primary property contains the sort fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T095706Z" creationid="luciano" creationdate="20160616T095706Z">
+        <seg>REM La proprietà primaria contiene i campi ordinati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>REM The second argument is the formula or expression to use.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T141515Z" creationid="steevie" creationdate="20160504T141515Z">
@@ -19060,6 +19092,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T141539Z" creationid="steevie" creationdate="20160504T141539Z">
         <seg>REM Il secondo argomento è di solito una stringa che</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>REM The sort descriptor is an array of properties.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T095634Z" creationid="luciano" creationdate="20160616T095634Z">
+        <seg>REM Il descrittore dell'ordinamento è un array delle proprietà.</seg>
       </tuv>
     </tu>
     <tu>
