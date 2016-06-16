@@ -13174,6 +13174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a single cell is referenced, then a cell object is returned.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T093323Z" creationid="luciano" creationdate="20160616T093323Z">
+        <seg>Se si fa riferimento a singola cella, viene quindi restituito un oggetto della cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a spreadsheet file contains more than one sheet, the different sheets can have different page styles applied to them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160216T071549Z">
@@ -26654,6 +26662,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160524T142124Z" creationid="luciano" creationdate="20160524T130635Z">
         <seg>(Per abilitare la registrazione delle macro, utilizzate &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice &gt; Generale&lt;/f0&gt; e selezionate l'opzione &lt;f1&gt;Abilita le funzioni sperimentali&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;f0&gt;oSheet.getCellRangeByName("A2")&lt;/f0&gt; to return a range of cells by name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T093207Z" creationid="luciano" creationdate="20160616T093207Z">
+        <seg>Utilizzate &lt;f0&gt;oSheet.getCellRangeByName("A2")&lt;/f0&gt; per ottenere un intervallo di celle per nome.</seg>
       </tuv>
     </tu>
     <tu>
