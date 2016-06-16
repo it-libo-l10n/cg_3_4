@@ -18832,6 +18832,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>REM An array of sort fields determines the columns that are</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T095437Z" creationid="luciano" creationdate="20160616T095419Z">
+        <seg>REM Un array di campi ordinati determina le colonne che vengono</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>REM BOTTOM_VALUES, and BOTTOM_PERCENT</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135905Z" creationid="steevie" creationdate="20160511T135905Z">
@@ -19064,6 +19072,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>REM To sort on only one column, use:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T095543Z" creationid="luciano" creationdate="20160616T095543Z">
+        <seg>REM Per ordinare solamente in una colonna, utilizzate:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>REM UseRegularExpressions,</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T140011Z" creationid="steevie" creationdate="20160511T140011Z">
@@ -19260,6 +19276,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T141645Z" creationid="steevie" creationdate="20160504T141645Z">
         <seg>REM riferimenti relativi alla cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>REM sorted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T095429Z" creationid="luciano" creationdate="20160616T095429Z">
+        <seg>REM ordinate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24790,6 +24814,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135442Z" creationid="steevie" creationdate="20160511T135442Z">
         <seg>Questo è</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is an array with two elements, 0 and 1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T095511Z" creationid="luciano" creationdate="20160616T095511Z">
+        <seg>Questo è un array con due elementi, 0 e 1.</seg>
       </tuv>
     </tu>
     <tu>
