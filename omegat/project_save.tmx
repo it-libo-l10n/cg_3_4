@@ -5198,6 +5198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add cell A2:C5 in every sheet</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T093947Z" creationid="luciano" creationdate="20160616T093947Z">
+        <seg>Aggiungere la cella A2:C5 in ogni foglio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add-in functions</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T101252Z">
@@ -13102,6 +13110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a cell range is given, then an entire range of cells is returned (see &lt;t1&gt;Listing 8&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T093517Z" creationid="luciano" creationdate="20160616T093517Z">
+        <seg>Se viene dato un intervallo di celle, un intero intervallo di celle viene quindi restituito (vedere &lt;t1&gt; Listato 8 &lt;/ T1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a cell that contains a relative reference to another cell is moved, the reference is relative to the new position when sorting is finished.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160510T140204Z" creationid="steevie" creationdate="20160510T140204Z">
@@ -16135,6 +16151,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Listing &lt;seq0&gt;8&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T093852Z" creationid="luciano" creationdate="20160616T093852Z">
+        <seg>Listato &lt;seq0&gt;8&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Loading a saved keyboard configuration</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172530Z" creationid="steevie" creationdate="20160428T172530Z">
@@ -17212,6 +17236,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T153402Z" creationid="michele" creationdate="20160525T153402Z">
         <seg>Notate che nella &lt;t0&gt;Figura 31&lt;/t0&gt;, i valori Beta e A0 si trovano nella parte superiore della finestra mentre gli altri calcoli sono nella parte inferiore.&lt;f1&gt; &lt;/f1&gt;In questo modo potete apportare modifiche ai valori Beta e A0 e osservarne le modifiche ai calcoli nella metà inferiore della finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notice that a cell range returns data as an array of arrays, which is more cumbersome than treating it as an array with two dimensions as is done in &lt;t2&gt;Listing 5&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T093844Z" creationid="luciano" creationdate="20160616T093844Z">
+        <seg>Da notare che un intervallo di celle restituisce i dati come array di array, che è più ingombrante di trattarlo come un array con due dimensioni, come fatto &lt;t2&gt;Listato 5&lt;/t2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
