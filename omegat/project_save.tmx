@@ -19016,10 +19016,26 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>REM Setup the sort descriptor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T100436Z" creationid="luciano" creationdate="20160616T100436Z">
+        <seg>REM Setup del descrittore dell'ordinamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>REM Sort column B (column 1) descending.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160616T100218Z" creationid="luciano" creationdate="20160616T100218Z">
         <seg>REM Ordinare colonna B (colunna 1) verso il basso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>REM Sort the range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T100457Z" creationid="luciano" creationdate="20160616T100457Z">
+        <seg>REM Ordinare l'intervallo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24798,6 +24814,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T145522Z" creationid="steevie" creationdate="20160503T145522Z">
         <seg>Questo capitolo introduce le funzionalità di un documento Calc che lo rendono adatto all'uso come database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This chapter provides a brief overview on how to create libraries and modules, using the macro recorder, using macros as Calc functions, and writing your own macros without the macro recorder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T100641Z" creationid="luciano" creationdate="20160616T100641Z">
+        <seg>Questo capitolo fornisce una breve panoramica su come creare librerie e moduli, utilizzando il registratore di macro, utilizzando le macro come funzioni di Calc, e scrivere le proprie macro senza il registratore di macro.</seg>
       </tuv>
     </tu>
     <tu>
