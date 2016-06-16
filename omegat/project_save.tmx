@@ -4438,6 +4438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;ThisComponent&lt;/f2&gt; is set by StarBasic when the macro starts to reference the current document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T092506Z" creationid="luciano" creationdate="20160616T092506Z">
+        <seg>&lt;f2&gt;ThisComponent&lt;/f2&gt; viene impostato da StarBasic quando la macro inizia a consultare il documento corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f3&gt;Edit &gt; Compare Document&lt;/f3&gt;&lt;br4/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T155527Z" creationid="Luciano B." creationdate="20160411T155527Z">
