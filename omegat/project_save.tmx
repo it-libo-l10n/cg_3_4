@@ -4782,6 +4782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A Calc document contains sheets: &lt;f3&gt;ThisComponent.getSheets()&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T092558Z" creationid="luciano" creationdate="20160616T092558Z">
+        <seg>Un documento di Calc contiene fogli: &lt;f3&gt;ThisComponent.getSheets()&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A Calc document is a very capable database, providing sufficient functionality to satisfy the needs of many users.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T145420Z" creationid="steevie" creationdate="20160503T145420Z">
@@ -5170,6 +5178,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164229Z" creationid="steevie" creationdate="20160428T164229Z">
         <seg>Aggiungete una tilde (~) davanti alla lettera che volete usare come acceleratore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add cell A2 in every sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T092736Z" creationid="luciano" creationdate="20160616T092736Z">
+        <seg>Aggiungere la cella A2 in ogni foglio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16095,6 +16111,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Listing &lt;seq0&gt;7&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T092656Z" creationid="luciano" creationdate="20160616T092656Z">
+        <seg>Listato &lt;seq0&gt;7&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Loading a saved keyboard configuration</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172530Z" creationid="steevie" creationdate="20160428T172530Z">
@@ -26646,6 +26670,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T135523Z" creationid="steevie" creationdate="20160504T135523Z">
         <seg>Usate &lt;f4&gt;Inserisci &gt; Nomi &gt; Definisci&lt;/f4&gt; per aprire la finestra di dialogo Definisci nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;f4&gt;getCellByPosition(col, row)&lt;/f4&gt; to return a cell at a specific row and column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T092647Z" creationid="luciano" creationdate="20160616T092647Z">
+        <seg>Utilizzate &lt;f4&gt;getCellByPosition(col, row)&lt;/f4&gt; per restituire una cella ad una determinata riga e colonna.</seg>
       </tuv>
     </tu>
     <tu>
