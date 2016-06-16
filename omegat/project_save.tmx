@@ -18936,6 +18936,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>REM If column B has two cells with the same value,</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T100251Z" creationid="luciano" creationdate="20160616T100251Z">
+        <seg>REM Se la colonna B ha due celle con lo stesso valore,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>REM LESS_EQUAL, TOP_VALUES, TOP_PERCENT,</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135904Z" creationid="steevie" creationdate="20160511T135904Z">
@@ -19372,6 +19380,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135454Z" creationid="steevie" creationdate="20160511T135454Z">
         <seg>REM il primo campo, quindi non richiesto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>REM then use column A ascending to decide the order.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T100334Z" creationid="luciano" creationdate="20160616T100334Z">
+        <seg>REM allora utilizza la colonna A verso l'alto per decidere l'ordina.</seg>
       </tuv>
     </tu>
     <tu>
