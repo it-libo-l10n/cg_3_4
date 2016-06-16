@@ -16183,6 +16183,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Listing &lt;seq0&gt;9&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T094856Z" creationid="luciano" creationdate="20160616T094856Z">
+        <seg>Listato &lt;seq0&gt;9&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Loading a saved keyboard configuration</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172530Z" creationid="steevie" creationdate="20160428T172530Z">
@@ -19096,6 +19104,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>REM are also returned.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T095137Z" creationid="luciano" creationdate="20160616T095137Z">
+        <seg>REM sono restituite allo stesso modo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>REM because .IsNumeric = True from above.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135743Z" creationid="steevie" creationdate="20160511T135743Z">
@@ -19156,6 +19172,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125652Z" creationid="steevie" creationdate="20160517T125638Z">
         <seg>REM criteri filtro da un intervallo con nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>REM getDataArray() returns the data as variant so strings</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T095106Z" creationid="luciano" creationdate="20160616T095014Z">
+        <seg>REM getDataArray() restituisce i dati come variante così le stringhe</seg>
       </tuv>
     </tu>
     <tu>
@@ -21612,6 +21636,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T152731Z" creationid="steevie" creationdate="20160509T152731Z">
         <seg>Ordinare per nome di colonna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort cells A1:C5 on Sheet 1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T094941Z" creationid="luciano" creationdate="20160616T094941Z">
+        <seg>Ordinare le celle A1:C5 nel Foglio 1.</seg>
       </tuv>
     </tu>
     <tu>
