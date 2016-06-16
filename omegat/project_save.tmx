@@ -12094,6 +12094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, you can make a new style called &lt;f0&gt;red&lt;/f0&gt;, in which the only change you want to make is for the cell text to be red.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160616T192442Z" creationid="briga" creationdate="20160616T192442Z">
+        <seg>Ad esempio, potete creare un nuovo stile chiamato &lt;f0&gt;rosso&lt;/f0&gt;, nel quale l'unica modifica che volete applicare è che il testo della cella sia rosso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, you can mark the first row as headings.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T150636Z" creationid="steevie" creationdate="20160509T150636Z">
@@ -14038,6 +14046,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you link cell styles, then when you change the base style (for example, by changing the font from Times to Helvetica), all the linked styles will change as well.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160616T192321Z" creationid="briga" creationdate="20160616T192321Z">
+        <seg>Se uno stile di cella è basato su un altro, quando cambiate lo stile di base (ad esempio modificando il tipo di carattere da Times a Helvetica), tutti gli stili basati su di esso cambieranno di conseguenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you link the data, any values modified in the source range are automatically updated in the target range.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160527T135021Z" creationid="michele" creationdate="20160527T135021Z">
@@ -15643,6 +15659,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160527T105040Z" creationid="antonio" creationdate="20160527T105040Z">
         <seg>Questo è il riepilogo dell'apertura di conto, cella C3, e tutte le operazioni successive.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It pays to plan ahead.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160616T192355Z" creationid="briga" creationdate="20160616T192355Z">
+        <seg>Conviene pianificarlo prima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21792,6 +21816,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sometimes this is exactly what you want; other times you do not want the changes to apply to all the linked styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160616T192333Z" creationid="briga" creationdate="20160616T192333Z">
+        <seg>Alcune volte questo è esattamente quello che si desidera, ma è possibile che questo tipo di modifica non corrisponda sempre alle vostre intenzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sometimes when sharing documents, reviewers may forget to record the changes they make.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160428T155635Z" creationid="luciano" creationdate="20160428T155635Z">
@@ -25214,6 +25246,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T141521Z" creationid="Luciano B." creationdate="20160325T171836Z">
         <seg>Questa opzione può far aumentare in modo significativo le dimensioni del file.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This option is only available for cell styles; page styles cannot be linked.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160616T192224Z" creationid="briga" creationdate="20160616T192224Z">
+        <seg>Questa opzione è disponibile solo per gli stili di cella: gli stili di pagina non possono essere basati su altri.</seg>
       </tuv>
     </tu>
     <tu>
