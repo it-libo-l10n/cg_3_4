@@ -2214,6 +2214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Function&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;SumCellsAllSheets&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T152223Z" creationid="steevie" creationdate="20160620T152223Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Function&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;SumCellsAllSheets&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;If&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;NOT&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oDoc&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;DatabaseRanges&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;.&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;hasByName&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;(&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;"MyName"&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;)&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt; &lt;/f22&gt;&lt;f23&gt;&lt;f24&gt;Then&lt;/f24&gt;&lt;/f23&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T152040Z" creationid="steevie" creationdate="20160509T152040Z">
@@ -4662,6 +4670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t0&gt;Table 19&lt;/t0&gt; illustrates different search criteria using the COUNTIF function referencing the data shown in &lt;t1&gt;Table 13&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T152625Z" creationid="steevie" creationdate="20160620T152625Z">
+        <seg>La &lt;t0&gt;Tabella 19&lt;/t0&gt; mostra differenti criteri di ricerca usando la funzione CONTA.SE in riferimento ai dati che appaiono in &lt;t1&gt;Tabella 13&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t0&gt;Table 3&lt;/t0&gt; summarizes the functions of the icons at the top of the Navigator.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T154937Z" creationid="michele" creationdate="20160525T154937Z">
@@ -6830,6 +6846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc uses eight colors for outlining referenced cells, starting with blue for the first cell, and continuing with red, magenta, green, dark blue, brown, purple and yellow before cycling through the sequence again.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T152202Z" creationid="steevie" creationdate="20160620T152202Z">
+        <seg>Calc uses eight colors for outlining referenced cells, starting with blue for the first cell, and continuing with red, magenta, green, dark blue, brown, purple and yellow before cycling through the sequence again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc uses the first and last name stored in the &lt;f0&gt;&lt;f1&gt;LibreOffice&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; – User Data&lt;/f2&gt; page to fill in the &lt;f3&gt;Created&lt;/f3&gt; and &lt;f4&gt;Modified&lt;/f4&gt; fields in the document properties, and the optional &lt;f5&gt;Author&lt;/f5&gt; field often used in the footer of a printed spreadsheet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T150849Z" creationid="steevie" creationdate="20160418T150554Z">
@@ -8794,6 +8818,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T085649Z">
         <seg>Copyright</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Count and sum cells that match conditions: &lt;is0/&gt;COUNTIF&lt;ie1/&gt; and &lt;is2/&gt;SUMIF</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151957Z" creationid="steevie" creationdate="20160620T151957Z">
+        <seg>Conta e somma celle in base a determinate condizioni&lt;is0/&gt;COUNTA.SE&lt;ie1/&gt; e &lt;is2/&gt;SOMMA.SE</seg>
       </tuv>
     </tu>
     <tu>
@@ -13750,6 +13782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the numbers found in the referenced cells are accurately represented, the answer TRUE is returned, otherwise FALSE is returned.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T152158Z" creationid="steevie" creationdate="20160620T152158Z">
+        <seg>If the numbers found in the referenced cells are accurately represented, the answer TRUE is returned, otherwise FALSE is returned.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the range A1:B1 is referenced and a new row is inserted under row 1, the reference is not expanded, since there is only a single cell in the vertical direction.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T135016Z" creationid="steevie" creationdate="20160427T134856Z">
@@ -16947,6 +16987,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T153805Z" creationid="steevie" creationdate="20160428T153805Z">
         <seg>Molti dei valori predefiniti sono identici, con alcune differenze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most of the functions in &lt;t0&gt;Table 18&lt;/t0&gt; require no explanation, either because they are well understood (SUM, for example) or because if you need to use them then you know what they are (STDEV, for example).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151830Z" creationid="steevie" creationdate="20160620T151830Z">
+        <seg>La maggior parte delle funzioni in &lt;t0&gt;Tabella 18&lt;/t0&gt; non richiede spiegazioni, o perché sono ben conosciute (ad esempio SOMMA) o perché se le dovete usare, sapete a cosa servono. (ad esempio DEV.ST).</seg>
       </tuv>
     </tu>
     <tu>
@@ -23337,6 +23385,22 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The COUNTIF and SUMIF functions calculate their values based on search criteria.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T152040Z" creationid="steevie" creationdate="20160620T152040Z">
+        <seg>Le funzioni CONTA.SE e SOMMA.SE calcolano un valore in base ad un criterio di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The COUNTIF function counts the number of cells in a range that match specified criteria.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T152401Z" creationid="steevie" creationdate="20160620T152401Z">
+        <seg>La funzione CONTA.SE conta il numero di celle in un intervallo che corrisponde a determinati criteri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Calc &lt;is0/&gt;status bar&lt;ie1/&gt; provides information about the spreadsheet and convenient ways to quickly change some of its features.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T092158Z" creationid="michele" creationdate="20160524T092158Z">
@@ -23801,6 +23865,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The column, row, or sheet for the referenced cell is missing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T152201Z" creationid="steevie" creationdate="20160620T152201Z">
+        <seg>The column, row, or sheet for the referenced cell is missing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The columns represent the grades received on homework, labs, and tests (see &lt;t0&gt;Table 13&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T151428Z" creationid="steevie" creationdate="20160503T151330Z">
@@ -24105,6 +24177,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The first argument to COUNTIF specifies the range to search and second argument is the search criteria.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T152519Z" creationid="steevie" creationdate="20160620T152431Z">
+        <seg>Il primo argomento di CERCA.SE induca l'intervallo di ricerca e il secondo il criterio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first array contains the original or default values and the formulas applied to them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160601T132852Z" creationid="michele" creationdate="20160601T132852Z">
@@ -24158,6 +24238,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T152335Z" creationid="steevie" creationdate="20160509T152335Z">
         <seg>Il primo passo per l'ordinamento dei dati è quello di selezionare quelli che si vogliono ordinare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first two arguments for SUMIF serve the same purpose as the arguments for COUNTIF; the range that contains the cells to search and the search criteria.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T152449Z" creationid="steevie" creationdate="20160620T152449Z">
+        <seg>The first two arguments for SUMIF serve the same purpose as the arguments for COUNTIF; the range that contains the cells to search and the search criteria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24742,6 +24830,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T122919Z" creationid="michele" creationdate="20160525T122919Z">
         <seg>Il risultato sarà simile a quello mostrato nella parte sinistra della &lt;t0&gt;Figura 21&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The search criteria can be a number, expression, text string, or even a regular expression.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T152124Z" creationid="steevie" creationdate="20160620T152114Z">
+        <seg>Il criterio di ricerca può essere un numero, un'espressione, una stringa di testo o anche una espressione regolare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The search criteria can be contained in a referenced cell or it can be included directly in the function call.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T152329Z" creationid="steevie" creationdate="20160620T152120Z">
+        <seg>Il criterio di ricerca può essere contenuto in una cella di riferimento o incluso direttamente nella chiamata di funzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27374,6 +27478,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095311Z">
         <seg>Comprendere le funzioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unfortunately, some of the more useful functions are infrequently used because they are not well understood.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151907Z" creationid="steevie" creationdate="20160620T151907Z">
+        <seg>Purtroppo, molte delle funzioni più utili sono poco usate perché non ben conosciute.</seg>
       </tuv>
     </tu>
     <tu>
