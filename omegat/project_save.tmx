@@ -12774,6 +12774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HLOOKUP</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T144800Z" creationid="steevie" creationdate="20160620T144800Z">
+        <seg>CERCA.ORIZZ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HTML compatibility&lt;ie0/&gt; Load/Save options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T125219Z" creationid="steevie" creationdate="20160427T125158Z">
@@ -13202,6 +13210,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160206T082844Z">
         <seg>Collegamenti ipertestuali (Hyperlink) e URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>INDEX</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T144940Z" creationid="steevie" creationdate="20160620T144940Z">
+        <seg>INDICE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>INDIRECT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T145352Z" creationid="steevie" creationdate="20160620T145352Z">
+        <seg>INDIRETTO</seg>
       </tuv>
     </tu>
     <tu>
@@ -16043,6 +16067,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T144947Z" creationid="steevie" creationdate="20160509T144947Z">
         <seg>LEFT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LOOKUP</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T145459Z" creationid="steevie" creationdate="20160620T145459Z">
+        <seg>CERCA</seg>
       </tuv>
     </tu>
     <tu>
@@ -19928,10 +19960,50 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Return the content of a cell, specified by row and column number or an optional range name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T145341Z" creationid="steevie" creationdate="20160620T145005Z">
+        <seg>Mostra il contenuto di una cella, specificato come numero di riga e colonna o un intervallo con nome facoltativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Return the contents of a cell either from a one-row or one-column range or from an array.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T145657Z" creationid="steevie" creationdate="20160620T145657Z">
+        <seg>Restituisce il contenuto di una cella o da un intervallo di una riga o colonna, o da una matrice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Return the number of cells that meet the search criteria.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T144743Z" creationid="steevie" creationdate="20160620T144743Z">
+        <seg>Calcola il numero di celle che soddisfano i criteri di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Return the number of empty cells.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T144306Z" creationid="steevie" creationdate="20160620T144306Z">
         <seg>Conta il numero delle celle vuote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Return the reference specified by a text string.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T145449Z" creationid="steevie" creationdate="20160620T145449Z">
+        <seg>Restituisce il riferimento indicato da una stringa di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Return the value from a different row in the same column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T144930Z" creationid="steevie" creationdate="20160620T144930Z">
+        <seg>Calcola il valore da una riga differente nella stessa colonna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20332,6 +20404,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T151015Z" creationid="steevie" creationdate="20160427T151015Z">
         <seg>Criteri di ricerca = and &lt;&gt; devono riferirsi a celle intere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search for a specific value across the columns in the first row of an array.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T144904Z" creationid="steevie" creationdate="20160620T144904Z">
+        <seg>Ricerca un determinato valore tra le colonne nella prima riga di una matrice.</seg>
       </tuv>
     </tu>
     <tu>
