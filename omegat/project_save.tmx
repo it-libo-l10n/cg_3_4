@@ -6550,6 +6550,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>COUNTA</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T144218Z" creationid="steevie" creationdate="20160620T144218Z">
+        <seg>CONTA.VALORI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>COUNTBLANK</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T144256Z" creationid="steevie" creationdate="20160620T144256Z">
+        <seg>CONTA.VUOTE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>COUNTIF</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T144328Z" creationid="steevie" creationdate="20160620T144328Z">
+        <seg>CONTA.SE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>CSV files</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T123801Z" creationid="michele" creationdate="20160524T123801Z">
@@ -8738,6 +8762,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T085649Z">
         <seg>Copyright</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Count the number of non-empty entries.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T144239Z" creationid="steevie" creationdate="20160620T144239Z">
+        <seg>Conta il numero delle voci non vuote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Count the number of numeric entries; text entries are ignored.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T144210Z" creationid="steevie" creationdate="20160620T144210Z">
+        <seg>Conta il numero delle voci numeriche, quelle di teso sono ignorate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12552,8 +12592,8 @@
       <tuv lang="EN">
         <seg>Functions that do not end with the letter A operate only on numeric values and cells that contain text or are empty are ignored.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T143037Z" creationid="steevie" creationdate="20160620T143037Z">
-        <seg>Funzioni senza il suffisso .VALOR operano solo sui valori numerici; celle vuote o contenenti testo sono ignorate.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T144146Z" creationid="steevie" creationdate="20160620T143037Z">
+        <seg>Funzioni senza il suffisso .VALORI -o con il suffisso .NUMERI- operano solo sui valori numerici; celle vuote o contenenti testo sono ignorate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19884,6 +19924,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T143421Z" creationid="steevie" creationdate="20160620T143421Z">
         <seg>Calcola la media.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Return the number of empty cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T144306Z" creationid="steevie" creationdate="20160620T144306Z">
+        <seg>Conta il numero delle celle vuote.</seg>
       </tuv>
     </tu>
     <tu>
