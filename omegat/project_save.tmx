@@ -670,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>227</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T154012Z" creationid="steevie" creationdate="20160620T154012Z">
+        <seg>227</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>231</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095704Z">
@@ -4742,6 +4750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>=COUNTIF(B1:C16; "9.*")</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153839Z" creationid="steevie" creationdate="20160620T153839Z">
+        <seg>=COUNTIF(B1:C16; "9.*")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>=COUNTIF(B1:C16; "95")</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153716Z" creationid="steevie" creationdate="20160620T153716Z">
@@ -4750,10 +4766,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>=COUNTIF(B1:C16; "&gt;95")</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153744Z" creationid="steevie" creationdate="20160620T153744Z">
+        <seg>=COUNTIF(B1:C16; "&gt;95")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>=COUNTIF(B1:C16; 2*45+5)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153809Z" creationid="steevie" creationdate="20160620T153809Z">
+        <seg>=COUNTIF(B1:C16; 2*45+5)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>=COUNTIF(B1:C16; 95)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153625Z" creationid="steevie" creationdate="20160620T153625Z">
         <seg>=COUNTIF(B1:C16; 95)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>=COUNTIF(B1:C16; B3)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153922Z" creationid="steevie" creationdate="20160620T153922Z">
+        <seg>=COUNTIF(B1:C16; B3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>=SUMIF(A1:A16; "B.*"; B1:B16)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T154010Z" creationid="steevie" creationdate="20160620T154010Z">
+        <seg>=SUMIF(A1:A16; "B.*"; B1:B16)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4810,6 +4858,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T123014Z" creationid="michele" creationdate="20160525T123014Z">
         <seg>Potete selezionare &lt;is0/&gt;un intervallo&lt;ie1/&gt; di celle usando la tastiera o il mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A &lt;s0/&gt;starting with the letter B.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T154055Z" creationid="steevie" creationdate="20160620T154055Z">
+        <seg>A &lt;s0/&gt;Che iniziano con la lettera B.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10550,6 +10606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Expression</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153742Z" creationid="steevie" creationdate="20160620T153742Z">
+        <seg>Espressione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>F</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T151604Z" creationid="steevie" creationdate="20160503T151604Z">
@@ -11974,6 +12038,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finds a number or number and text depending on the data type in cell B3.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T154009Z" creationid="steevie" creationdate="20160620T154009Z">
+        <seg>Trova un valore numerico o numerico e testuale, a seconda del tipo di dato in B3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Finds numbers or text that start with 9.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153859Z" creationid="steevie" creationdate="20160620T153846Z">
+        <seg>Trova valori numerici o testuali di che iniziano per 9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finds numeric or text values of 95.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153733Z" creationid="steevie" creationdate="20160620T153733Z">
@@ -11982,10 +12062,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finds numeric values greater than 95.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153805Z" creationid="steevie" creationdate="20160620T153805Z">
+        <seg>Trova valori numerici maggiori di 95.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finds numeric values of 95.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153708Z" creationid="steevie" creationdate="20160620T153708Z">
         <seg>Trova i valori numerici di 95.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Finds only numeric values of 95.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153826Z" creationid="steevie" creationdate="20160620T153815Z">
+        <seg>Trova solo i valori numerici di 95.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14562,6 +14658,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T143433Z" creationid="steevie" creationdate="20160620T143433Z">
         <seg>Ignora celle vuote e contenenti testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ignore filtered cells using &lt;is0/&gt;SUBTOTAL</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T154121Z" creationid="steevie" creationdate="20160620T154121Z">
+        <seg>Ignora le celle filtrate usando &lt;is0/&gt;SUBTOTAL</seg>
       </tuv>
     </tu>
     <tu>
@@ -20008,6 +20112,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reference a cell</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153921Z" creationid="steevie" creationdate="20160620T153849Z">
+        <seg>Cella di riferimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Referencing &lt;i0/&gt;other sheets</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160527T105157Z" creationid="antonio" creationdate="20160527T105157Z">
@@ -20044,6 +20156,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084431Z">
         <seg>Regina Henschel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regular expression</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153838Z" creationid="steevie" creationdate="20160620T153821Z">
+        <seg>Espressione regolare</seg>
       </tuv>
     </tu>
     <tu>
@@ -23032,6 +23152,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sum Column B for names in Col.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T154041Z" creationid="steevie" creationdate="20160620T154041Z">
+        <seg>Somma la colonna B per nomi in Col.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Switches to Edit mode and places the cursor at the end of the contents of the current cell.&lt;f0&gt; &lt;/f0&gt;If the cursor is in an input box in a dialog that has a minimize button, the dialog is hidden and the input box remains visible.&lt;f1&gt; &lt;/f1&gt;Press &lt;f2&gt;&lt;f3&gt;F2&lt;/f3&gt;&lt;/f2&gt; again to show the whole dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160505T144913Z" creationid="luciano" creationdate="20160505T144913Z">
@@ -23701,6 +23829,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160527T151043Z" creationid="michele" creationdate="20160527T151043Z">
         <seg>La funzione SUBTOTALE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The SUBTOTAL function applies a function (see &lt;t0&gt;Table 20&lt;/t0&gt;) to a range of data, but it ignores cells hidden by a filter and cells that already contain a SUBTOTAL.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T154126Z" creationid="steevie" creationdate="20160620T154126Z">
+        <seg>The SUBTOTAL function applies a function (see &lt;t0&gt;Table 20&lt;/t0&gt;) to a range of data, but it ignores cells hidden by a filter and cells that already contain a SUBTOTAL.</seg>
       </tuv>
     </tu>
     <tu>
