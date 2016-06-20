@@ -4742,6 +4742,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>=COUNTIF(B1:C16; "95")</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153716Z" creationid="steevie" creationdate="20160620T153716Z">
+        <seg>=COUNTIF(B1:C16; "95")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>=COUNTIF(B1:C16; 95)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153625Z" creationid="steevie" creationdate="20160620T153625Z">
+        <seg>=COUNTIF(B1:C16; 95)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&gt;80</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T142256Z" creationid="steevie" creationdate="20160511T142256Z">
@@ -9070,6 +9086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Criteria Type</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153558Z" creationid="steevie" creationdate="20160620T153558Z">
+        <seg>Tipo di criterio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cross-document links</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T150339Z" creationid="Luciano B." creationdate="20160329T150339Z">
@@ -10410,6 +10434,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095344Z">
         <seg>Esempi di funzioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Examples of search criteria for the COUNTIF and SUMIF functions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153544Z" creationid="steevie" creationdate="20160620T153544Z">
+        <seg>Esempi di criteri di ricerca per le funzioni CONTA.SE e SOMMA.SE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11942,6 +11974,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finds numeric or text values of 95.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153733Z" creationid="steevie" creationdate="20160620T153733Z">
+        <seg>Trova valori numerici o testuali di 95.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Finds numeric values of 95.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153708Z" creationid="steevie" creationdate="20160620T153708Z">
+        <seg>Trova i valori numerici di 95.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>First, sort on column B descending and then column A ascending.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160616T094633Z" creationid="luciano" creationdate="20160616T094633Z">
@@ -12066,6 +12114,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T160634Z" creationid="Luciano B." creationdate="20160329T160634Z">
         <seg>Per ulteriori dettagli si veda il Capitolo 10 (Stampa, Esportazione e Invio di e-mail) della &lt;f0&gt;Guida Rapida&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For each cell in the search range that matches the search criteria, the corresponding cell in the sum range is added into the sum.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153518Z" creationid="steevie" creationdate="20160620T153518Z">
+        <seg>Per ogni cella nell'intervallo di ricerca che corrisponde ai criteri, viene aggiunta alla somma la corrispondente cella nell''intervallo somma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17744,6 +17800,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Number</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153614Z" creationid="steevie" creationdate="20160620T153614Z">
+        <seg>Numero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Number 1 represents the highest level of grouping, the Grand Total.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160530T154654Z" creationid="michele" creationdate="20160530T154654Z">
@@ -20132,6 +20196,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T160114Z" creationid="steevie" creationdate="20160428T160114Z">
         <seg>Sezione Risoluzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Result</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153606Z" creationid="steevie" creationdate="20160620T153606Z">
+        <seg>Risultato</seg>
       </tuv>
     </tu>
     <tu>
@@ -23049,6 +23121,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;19&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153524Z" creationid="steevie" creationdate="20160620T153524Z">
+        <seg>Tabella &lt;seq0&gt;19&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Table &lt;seq0&gt;1&lt;/seq0&gt;: Free support for LibreOffice users</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T083728Z">
@@ -23173,6 +23253,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160615T155537Z" creationid="luciano" creationdate="20160615T155537Z">
         <seg>TestMax accetta due argomenti e restituisce il maggiore dei due.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153712Z" creationid="steevie" creationdate="20160620T153712Z">
+        <seg>Testo</seg>
       </tuv>
     </tu>
     <tu>
@@ -24244,8 +24332,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>The first two arguments for SUMIF serve the same purpose as the arguments for COUNTIF; the range that contains the cells to search and the search criteria.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T152449Z" creationid="steevie" creationdate="20160620T152449Z">
-        <seg>The first two arguments for SUMIF serve the same purpose as the arguments for COUNTIF; the range that contains the cells to search and the search criteria.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T152736Z" creationid="steevie" creationdate="20160620T152449Z">
+        <seg>I primi due argomenti per SOMMA.SE hanno lo stesso scopo di quelli di CONTA.SE: l'intervallo e il criterio di ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25014,6 +25102,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T142600Z" creationid="steevie" creationdate="20160427T142600Z">
         <seg>Il testo del commento è mostrato quando il cursore è portato sopra la cella &lt;f0&gt;se&lt;/f0&gt; i suggerimenti sono abilitati sotto &lt;f1&gt;Strumenti&gt; Opzioni &gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;LibreOffice &gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;Generale&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The third and final argument for SUMIF specifies the range to sum.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T152812Z" creationid="steevie" creationdate="20160620T152812Z">
+        <seg>IL terzo ed ultimo argomento di SOMMA.SE indica l'intervallo da sommare.</seg>
       </tuv>
     </tu>
     <tu>
