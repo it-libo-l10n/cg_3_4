@@ -5798,6 +5798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurs when a value doesn’t appear twice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T150928Z" creationid="steevie" creationdate="20160620T150928Z">
+        <seg>Si incontra un errore in caso nessun valore appaia due o più volte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An example is shown here without the explanations in the &lt;f2&gt;Getting Started&lt;/f2&gt; guide.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160524T103150Z" creationid="luciano" creationdate="20160524T103102Z">
@@ -6838,10 +6846,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calculate a specified function based on a subset created using AutoFilters.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151404Z" creationid="steevie" creationdate="20160620T151404Z">
+        <seg>Calcola i subtotali di una funzione in base a sottoinsiemi creati con un filtro automatico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calculate options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T144644Z" creationid="steevie" creationdate="20160427T144644Z">
         <seg>Opzioni Calcola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculate the standard deviation based on the entire population.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151220Z" creationid="steevie" creationdate="20160620T151220Z">
+        <seg>Calcola la deviazione standard di un'intera popolazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculate the sum for the cells that meet the search criteria.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151451Z" creationid="steevie" creationdate="20160620T151451Z">
+        <seg>Calcola la somma delle celle che soddisfano i criteri di ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10282,6 +10314,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T101341Z">
         <seg>Codici di errore visualizzati all'interno delle celle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Estimate the standard deviation based on a sample.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151130Z" creationid="steevie" creationdate="20160620T151130Z">
+        <seg>Calcola la deviazione standard di un campione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Estimate the variance based on a sample.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151513Z" creationid="steevie" creationdate="20160620T151513Z">
+        <seg>Calcola la varianza di un campione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Estimate the variance based on the entire population.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151537Z" creationid="steevie" creationdate="20160620T151537Z">
+        <seg>Calcola la varianza di un'intera popolazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13770,6 +13826,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T082715Z" creationid="michele" creationdate="20160524T082715Z">
         <seg>Se non ci fossero numeri sopra la cella selezionata, le celle sulla sinistra di quella selezionata saranno prese in considerazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If there are several values with the same frequency, it returns the smallest value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T150809Z" creationid="steevie" creationdate="20160620T150809Z">
+        <seg>In caso di più valori con la stessa frequenza, viene mostrato quello con il valore minore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17656,6 +17720,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OFFSET</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T150935Z" creationid="steevie" creationdate="20160620T150935Z">
+        <seg>SCARTO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OXT files</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T121918Z" creationid="michele" creationdate="20160524T121918Z">
@@ -18508,6 +18580,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142922Z" creationid="steevie" creationdate="20160504T142922Z">
         <seg>PRINT_AREA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PRODUCT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151041Z" creationid="steevie" creationdate="20160620T151041Z">
+        <seg>PRODOTTO</seg>
       </tuv>
     </tu>
     <tu>
@@ -20080,6 +20160,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Return the product of the cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151103Z" creationid="steevie" creationdate="20160620T151103Z">
+        <seg>Calcola il prodotto delle celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Return the reference specified by a text string.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T145449Z" creationid="steevie" creationdate="20160620T145449Z">
@@ -20088,10 +20176,34 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Return the sum of the cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151432Z" creationid="steevie" creationdate="20160620T151432Z">
+        <seg>Calcola la somma delle celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Return the value from a different row in the same column.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T144930Z" creationid="steevie" creationdate="20160620T144930Z">
         <seg>Calcola il valore da una riga differente nella stessa colonna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Return the value of a cell offset by a certain number of rows and columns from a given reference point.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151030Z" creationid="steevie" creationdate="20160620T151030Z">
+        <seg>Restituisce il valore di una cella che è spostato di un certo numero di righe e colonne da un punto di riferimento dato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the value from a different column in the same row.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151641Z" creationid="steevie" creationdate="20160620T151641Z">
+        <seg>Calcola il valore da una colonna differente nella stessa riga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20256,10 +20368,66 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>STDEV</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151111Z" creationid="steevie" creationdate="20160620T151111Z">
+        <seg>DEV.ST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>STDEVA</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151142Z" creationid="steevie" creationdate="20160620T151142Z">
+        <seg>DEV.ST.VALORI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>STDEVP</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151159Z" creationid="steevie" creationdate="20160620T151159Z">
+        <seg>DEV.ST.POP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>STDEVPA</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151237Z" creationid="steevie" creationdate="20160620T151237Z">
+        <seg>DEV.ST.POP.VALORI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SUBTOTAL</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151250Z" creationid="steevie" creationdate="20160620T151250Z">
+        <seg>SUBTOTALE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SUBTOTAL is listed under the Mathematical category when you use the Function Wizard (&lt;f0&gt;Insert&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Function&lt;/f3&gt;&lt;f4&gt; or press &lt;/f4&gt;&lt;f5&gt;Ctrl+F2&lt;/f5&gt;&lt;f6&gt;)&lt;/f6&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160527T151742Z" creationid="michele" creationdate="20160527T151216Z">
         <seg>SUBTOTALE è elencato sotto la categoria Matematica della creazione guidata funzione (&lt;f0&gt;Inserisci&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Funzione&lt;/f3&gt;&lt;f4&gt; o premi&lt;/f4&gt;&lt;f5&gt;Ctrl+F2&lt;/f5&gt;&lt;f6&gt;)&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SUM</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151413Z" creationid="steevie" creationdate="20160620T151413Z">
+        <seg>SOMMA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SUMIF</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151439Z" creationid="steevie" creationdate="20160620T151439Z">
+        <seg>SOMMA.SE</seg>
       </tuv>
     </tu>
     <tu>
@@ -20508,6 +20676,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T144904Z" creationid="steevie" creationdate="20160620T144904Z">
         <seg>Ricerca un determinato valore tra le colonne nella prima riga di una matrice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search for a specific value across the rows in the first column of an array.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151618Z" creationid="steevie" creationdate="20160620T151618Z">
+        <seg>Ricerca un determinato valore tra le righe nella prima colonna di una matrice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28106,6 +28282,38 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>VAR</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151459Z" creationid="steevie" creationdate="20160620T151459Z">
+        <seg>VAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VARA</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151517Z" creationid="steevie" creationdate="20160620T151517Z">
+        <seg>VAR.VALORI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VARP</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151524Z" creationid="steevie" creationdate="20160620T151524Z">
+        <seg>VAR.POP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VARPA</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151549Z" creationid="steevie" creationdate="20160620T151549Z">
+        <seg>VAR.POP.VALORI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>VBA Properties Load/Save options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T130333Z" creationid="steevie" creationdate="20160421T130333Z">
@@ -28118,6 +28326,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T130326Z" creationid="steevie" creationdate="20160421T130326Z">
         <seg>proprietà VBA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VLOOKUP</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151602Z" creationid="steevie" creationdate="20160620T151602Z">
+        <seg>CERCA.VERT</seg>
       </tuv>
     </tu>
     <tu>
