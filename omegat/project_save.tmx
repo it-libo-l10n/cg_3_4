@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5110,6 +5110,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>AVERAGE</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T143232Z" creationid="steevie" creationdate="20160620T143232Z">
+        <seg>MEDIA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>AVERAGEA</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T143443Z" creationid="steevie" creationdate="20160620T143443Z">
+        <seg>MEDIA.VALORI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ability to open, edit, and save Microsoft Excel spreadsheets.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T102417Z">
@@ -6522,6 +6538,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142943Z" creationid="steevie" creationdate="20160504T142943Z">
         <seg>COLUMN_HEADER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>COUNT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T143648Z" creationid="steevie" creationdate="20160620T143648Z">
+        <seg>CONTA.NUMERI</seg>
       </tuv>
     </tu>
     <tu>
@@ -12486,6 +12510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Function</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T143217Z" creationid="steevie" creationdate="20160620T143217Z">
+        <seg>Funzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Function key shortcuts</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T095806Z">
@@ -12506,6 +12538,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T100026Z">
         <seg>Funzioni disponibili in Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Functions frequently used as database functions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T143209Z" creationid="steevie" creationdate="20160620T143209Z">
+        <seg>Funzioni usate di frequente come funzioni database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Functions that do not end with the letter A operate only on numeric values and cells that contain text or are empty are ignored.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T143037Z" creationid="steevie" creationdate="20160620T143037Z">
+        <seg>Funzioni senza il suffisso .VALOR operano solo sui valori numerici; celle vuote o contenenti testo sono ignorate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14282,6 +14330,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T152755Z" creationid="michele" creationdate="20160531T152755Z">
         <seg>Se&lt;f0&gt; il foglio è protetto (&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Strumenti&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt; &gt; &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Proteggi Documento&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt; &gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;Foglio&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;), e &lt;/f11&gt; &lt;f12&gt;Impedisci modifiche &lt;/f12&gt;&lt;f13&gt;è selezionato all'ora le proprietà dello scenario non possono essere modificate.&lt;/f13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ignore empty cells and cells that contain text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T143433Z" creationid="steevie" creationdate="20160620T143433Z">
+        <seg>Ignora celle vuote e contenenti testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19824,6 +19880,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Return the average.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T143421Z" creationid="steevie" creationdate="20160620T143421Z">
+        <seg>Calcola la media.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Review the comments – Select a version and click the &lt;f0&gt;Show&lt;/f0&gt; button to display the full comments made by yourself or other reviewers.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T142944Z" creationid="luciano" creationdate="20160429T142944Z">
@@ -21778,8 +21842,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Some functions’ names differ only by the letter appended at the end; AVERAGE and AVERAGEA, for example.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160526T134011Z" creationid="steevie" creationdate="20160526T134011Z">
-        <seg>Some functions’ names differ only by the letter appended at the end; AVERAGE and AVERAGEA, for example.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T142940Z" creationid="steevie" creationdate="20160526T134011Z">
+        <seg>Il nome di alcune funzioni cambia solo per il suffisso .VALORI; ad esempio MEDIA e MEDIA.VALORI.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22525,6 +22589,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T142223Z" creationid="steevie" creationdate="20160511T142223Z">
         <seg>Tabella &lt;seq0&gt;16&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;18&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T143154Z" creationid="steevie" creationdate="20160620T143154Z">
+        <seg>Tabella &lt;seq0&gt;18&lt;/seq0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23397,6 +23469,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160527T135248Z" creationid="michele" creationdate="20160527T135248Z">
         <seg>I riferimenti di cella corrispondenti nell'area di destinazione sono inseriti in righe consecutive, che sono automaticamente ordinate e poi rese invisibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The corresponding function whose name ends with the letter A, treats text values as a number with the value of zero; blank cells are still ignored.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T143149Z" creationid="steevie" creationdate="20160620T143149Z">
+        <seg>Le funzioni corrispondenti con il suffisso .VALORI trattano il testo come un numero di valore zero; le celle vuote sono comunque ignorate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24486,6 +24566,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160615T144448Z" creationid="luciano" creationdate="20160615T144448Z">
         <seg>La soluzione più comune è quella di salvare le macro come funzioni della libreria Standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The value of text is 0 and empty cells are ignored.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T143515Z" creationid="steevie" creationdate="20160620T143515Z">
+        <seg>Il valore del testo è 0 e le celle vuote sono ignorate.</seg>
       </tuv>
     </tu>
     <tu>
