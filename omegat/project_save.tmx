@@ -16455,6 +16455,62 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>MATCH</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T145729Z" creationid="steevie" creationdate="20160620T145729Z">
+        <seg>CONFRONTA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MAX</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T150429Z" creationid="steevie" creationdate="20160620T150429Z">
+        <seg>MAX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MAXA</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T150525Z" creationid="steevie" creationdate="20160620T150457Z">
+        <seg>MAX.VALORI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MEDIAN</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T150613Z" creationid="steevie" creationdate="20160620T150613Z">
+        <seg>MEDIANA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MIN</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T150548Z" creationid="steevie" creationdate="20160620T150548Z">
+        <seg>MIN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MINA</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T150606Z" creationid="steevie" creationdate="20160620T150606Z">
+        <seg>MIN.VALORI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MODE</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T150638Z" creationid="steevie" creationdate="20160620T150638Z">
+        <seg>MODA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mac equivalent</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084142Z">
@@ -19976,6 +20032,38 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Return the maximum numeric value in a list of arguments.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T150509Z" creationid="steevie" creationdate="20160620T150451Z">
+        <seg>Restituisce il valore massimo in una lista di argomenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Return the median of a set of numbers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T150632Z" creationid="steevie" creationdate="20160620T150632Z">
+        <seg>Restituisce la mediana di un campione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Return the minimum numeric value in a list of arguments.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T150558Z" creationid="steevie" creationdate="20160620T150558Z">
+        <seg>Restituisce il valore minimo in una lista di argomenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Return the most common value in a data set.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T150707Z" creationid="steevie" creationdate="20160620T150707Z">
+        <seg>Restituisce il valore più comune in un insieme di dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Return the number of cells that meet the search criteria.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T144743Z" creationid="steevie" creationdate="20160620T144743Z">
@@ -20396,6 +20484,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T124256Z" creationid="steevie" creationdate="20160421T124256Z">
         <seg>Scorrere di una pagina verso il basso fino a trovare&lt;f0&gt;foglio elettronico&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search an array and return the relative position of the found item.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T150417Z" creationid="steevie" creationdate="20160620T150417Z">
+        <seg>Ricerca in una matrice e restituisce la posizione dell'elemento trovato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24702,6 +24798,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T143515Z" creationid="steevie" creationdate="20160620T143515Z">
         <seg>Il valore del testo è 0 e le celle vuote sono ignorate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The value of text is 0.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T150545Z" creationid="steevie" creationdate="20160620T150545Z">
+        <seg>Il testo viene considerato con valore 0.</seg>
       </tuv>
     </tu>
     <tu>
