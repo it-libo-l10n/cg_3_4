@@ -3750,6 +3750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Number_1; number_2;... number_&lt;/f0&gt;&lt;f1&gt;30&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T075301Z" creationid="Marco Marega" creationdate="20160625T075301Z">
+        <seg>&lt;f0&gt;Numero_1; numero_2;... numero_&lt;/f0&gt;&lt;f1&gt;30&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;On the Define Names dialog (&lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figure 143&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;), type a name for the range in the text box with the blinking cursor.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T152206Z">
@@ -17960,6 +17968,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Number 1 to 30</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T075315Z" creationid="Marco Marega" creationdate="20160625T075315Z">
+        <seg>Numero da 1 a 30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Numbers 2 to 4 show reducing grouping levels, with number 4 showing individual entries.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160530T154944Z" creationid="michele" creationdate="20160530T154944Z">
@@ -22716,6 +22732,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T171632Z">
         <seg>La spaziatura influisce sullo spazio che intercorre tra la pagina e l'intestazione o il piè di pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specifically, functions that refer to the following arguments may lead to confusion:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T075238Z" creationid="Marco Marega" creationdate="20160625T075238Z">
+        <seg>In particolare, le funzioni che fanno riferimento ai seguenti parametri possono creare confusione:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30822,6 +30846,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T065010Z" creationid="steevie" creationdate="20160427T144408Z">
         <seg>&lt;ie0/&gt;Sezione Zoom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>a list of up to 30 numbers</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T075350Z" creationid="Marco Marega" creationdate="20160625T075350Z">
+        <seg>una lista fino a 30 numeri</seg>
       </tuv>
     </tu>
     <tu>
