@@ -3422,6 +3422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Functions whose names end with &lt;/f0&gt;&lt;f1&gt;_ADD&lt;/f1&gt;&lt;f2&gt; are provided for compatibility with &lt;/f2&gt;&lt;f3&gt;Microsoft Excel functions.&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;They &lt;/f5&gt;&lt;f6&gt;return&lt;/f6&gt;&lt;f7&gt; the same results as the corresponding functions in Excel (without the suffix), which though they may be correct, are not based on international standards.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T072245Z" creationid="Marco Marega" creationdate="20160625T072245Z">
+        <seg>&lt;f0&gt;Functions whose names end with &lt;/f0&gt;&lt;f1&gt;_ADD&lt;/f1&gt;&lt;f2&gt; are provided for compatibility with &lt;/f2&gt;&lt;f3&gt;Microsoft Excel functions.&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;They &lt;/f5&gt;&lt;f6&gt;return&lt;/f6&gt;&lt;f7&gt; the same results as the corresponding functions in Excel (without the suffix), which though they may be correct, are not based on international standards.&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Help&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;contains links to the Help file bundled with the software, &lt;/f2&gt;&lt;f3&gt;What's This?, Help&lt;/f3&gt;&lt;f4&gt;, and &lt;/f4&gt;&lt;f5&gt;License Information.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160323T163933Z">
@@ -3762,6 +3770,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T160339Z" creationid="Luciano B." creationdate="20160326T160339Z">
         <seg>&lt;f0&gt;Apri in modalità schermo intero:&lt;/f0&gt; Fa sì che il visualizzatore di PDF apra a pieno schermo invece che in una finestra più piccola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Over 300 standard functions &lt;/f0&gt;are&lt;f1&gt; available in Calc.&lt;/f1&gt;&lt;bs2/&gt;&lt;f3&gt; &lt;/f3&gt;&lt;be4/&gt;&lt;f5&gt;More can be added through extensions to Calc (see Chapter 14).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T071927Z" creationid="Marco Marega" creationdate="20160625T071927Z">
+        <seg>&lt;f0&gt;In Calc sono disponibili oltre &lt;/f0&gt;300&lt;f1&gt; funzioni standard. &lt;/f1&gt;&lt;bs2/&gt;&lt;f3&gt; &lt;/f3&gt;&lt;be4/&gt;&lt;f5&gt;Altre possono essere aggiunte tramite delle estensioni a Calc (vedete il Capitolo 14).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18306,8 +18322,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>On the wiki, start with &lt;/f5&gt;&lt;a6&gt;http://help.libreoffice.org/Calc/Functions_by_Category&lt;/a6&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="akurery" changedate="20160625T071121Z" creationid="akurery" creationdate="20160625T071121Z">
-        <seg>On the wiki, start with &lt;/f5&gt;&lt;a6&gt;http://help.libreoffice.org/Calc/Functions_by_Category&lt;/a6&gt;</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T072254Z" creationid="akurery" creationdate="20160625T071121Z">
+        <seg>Sul wiki, iniziate da &lt;/f5&gt;&lt;a6&gt;https://help.libreoffice.org/Calc/Functions_by_Category/it&lt;/a6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24534,6 +24550,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160524T142947Z" creationid="luciano" creationdate="20160524T120857Z">
         <seg>La seguente procedura crea una macro che esegue incolla speciale con multiplicazione.a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following tables list Calc’s functions organized into eleven categories.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T072022Z" creationid="Marco Marega" creationdate="20160625T072022Z">
+        <seg>Le tabelle seguenti elencano le funzioni di Calc organizzate in undici categorie.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
