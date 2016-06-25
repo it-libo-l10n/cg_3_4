@@ -2870,6 +2870,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;ASINH&lt;/f0&gt;(number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T145501Z" creationid="Marco Marega" creationdate="20160625T145501Z">
+        <seg>&lt;f0&gt;ARCSENH&lt;/f0&gt;(numero)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;ATAN&lt;/f0&gt;(number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T145619Z" creationid="Marco Marega" creationdate="20160625T145619Z">
+        <seg>&lt;f0&gt;ARCTAN&lt;/f0&gt;(numero)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;After the documents merge, the Accept or Reject Changes dialog opens, as in &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figure 292&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;, showing changes by more than one reviewer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T152451Z" creationid="luciano" creationdate="20160428T153441Z">
@@ -5290,6 +5306,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T081501Z" creationid="Marco Marega" creationdate="20160625T081501Z">
         <seg>ASS(numero)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ATAN2(number_x; number_y)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T145730Z" creationid="Marco Marega" creationdate="20160625T145730Z">
+        <seg>ARCTAN.2(numero_x; numero_y)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20624,10 +20648,26 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the inverse hyperbolic sine of the given &lt;f0&gt;number&lt;/f0&gt; in radians.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T145545Z" creationid="Marco Marega" creationdate="20160625T145545Z">
+        <seg>Restituisce l'inverso del seno iperbolico del &lt;f0&gt;numero&lt;/f0&gt; dato espresso in radianti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the inverse sine of the given &lt;f0&gt;number&lt;/f0&gt; in radians.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T145436Z" creationid="Marco Marega" creationdate="20160625T145359Z">
         <seg>Restituisce l'inverso del seno del &lt;f0&gt;numero&lt;/f0&gt; dato espresso in radianti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the inverse tangent of the given &lt;f0&gt;number&lt;/f0&gt; in radians.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T145639Z" creationid="Marco Marega" creationdate="20160625T145639Z">
+        <seg>Restituisce l'inverso della tangente del &lt;f0&gt;numero&lt;/f0&gt; dato espresso in radianti.</seg>
       </tuv>
     </tu>
     <tu>
