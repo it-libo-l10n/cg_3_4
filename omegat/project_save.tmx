@@ -25562,6 +25562,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Therefore one argument can refer to several values, and a function that limits input to 30 arguments may in fact accept more then 30 separate numerical values.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T080529Z" creationid="Marco Marega" creationdate="20160625T080529Z">
+        <seg>Perciò, un parametro può riferirsi a diversi valori ed una funzione che ha un limite di 30 parametri, di fatto può accettare più di 30 distinti valori numerici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These actions are described below.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165226Z" creationid="steevie" creationdate="20160428T165226Z">
