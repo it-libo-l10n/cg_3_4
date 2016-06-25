@@ -20720,6 +20720,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the number of combinations for a given number of objects.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Count_1&lt;/f1&gt; is the total number of elements.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Count_2&lt;/f3&gt; is the selected count from the elements.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T153636Z" creationid="Marco Marega" creationdate="20160625T153636Z">
+        <seg>Restituisce il numero di combinazini per un dato numero di oggetti.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1&lt;/f1&gt; è il numero totale degli elementi.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Numero_2&lt;/f3&gt; è il numero degli elementi in ciascuna combinazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the value from a different column in the same row.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151641Z" creationid="steevie" creationdate="20160620T151641Z">
