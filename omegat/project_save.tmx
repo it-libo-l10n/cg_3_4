@@ -6174,6 +6174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Arguments are values separated by semi-colons, and can include ranges which often refer to multiple values.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T080236Z" creationid="Marco Marega" creationdate="20160625T080236Z">
+        <seg>I parametri sono valori separati dai due punti, e possono comprendere intervalli che spesso si riferiscono a molteplici valori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Arguments passed to a macro from Calc are always values.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160615T155714Z" creationid="luciano" creationdate="20160615T155714Z">
