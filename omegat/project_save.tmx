@@ -20840,6 +20840,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rounds the given &lt;f0&gt;number&lt;/f0&gt; to the nearest integer or multiple of significance.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Significance&lt;/f2&gt; is the value to whose multiple of ten the value is to be rounded up (.01, .1, 1, 10, etc.).&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Mode&lt;/f4&gt; is an optional value.&lt;f5&gt; &lt;/f5&gt;If it is indicated and non-zero and if the number and significance are negative, rounding up is carried out based on that value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T151619Z" creationid="Marco Marega" creationdate="20160625T151619Z">
+        <seg>Arrotonda il &lt;f0&gt;numero&lt;/f0&gt; dato all'intero o al multiplo di peso più vicino.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Peso&lt;/f2&gt; è il valore al cui multiplo di dieci il valore deve essere arrotondato (.01, .1, 1, 10, ecc.).&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Modo&lt;/f4&gt; è un valore opzionale.&lt;f5&gt; &lt;/f5&gt;Se viene indicato e non è uno zero e se il numero ed il peso sono negativi, l'arrotondamento viene eseguito sullla base di questo valore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Row and column headers</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T163822Z">
