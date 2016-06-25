@@ -2974,6 +2974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;COMBINA&lt;/f0&gt;(count_1; count_2)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T153934Z" creationid="Marco Marega" creationdate="20160625T153934Z">
+        <seg>&lt;f0&gt;COMBINAZIONE.VALORI&lt;/f0&gt;(Numero_1; Numero_2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Calc automatically adds to any recorded change a comment that describes what was changed (for example, &lt;/f0&gt;&lt;f1&gt;Cell B4 changed from ‘9’ to ‘4’&lt;/f1&gt;&lt;f2&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T150031Z" creationid="luciano" creationdate="20160423T144737Z">
@@ -20720,6 +20728,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the number of combinations for a given number of objects (repetition included).&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Count_1&lt;/f1&gt; is the total number of elements.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Count_2&lt;/f3&gt; is the selected count from the elements.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T154021Z" creationid="Marco Marega" creationdate="20160625T154021Z">
+        <seg>Restituisce il numero di combinazini per un dato numero di oggetti (ripetizioni incluse).&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1&lt;/f1&gt; è il numero totale degli elementi.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Numero_2&lt;/f3&gt; è il numero degli elementi in ciascuna combinazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the number of combinations for a given number of objects.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Count_1&lt;/f1&gt; is the total number of elements.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Count_2&lt;/f3&gt; is the selected count from the elements.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T153636Z" creationid="Marco Marega" creationdate="20160625T153636Z">
@@ -26334,6 +26350,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T134525Z" creationid="steevie" creationdate="20160427T134404Z">
         <seg>Questo è possibile solo se l'intervallo di riferimento, in cui le colonne o righe sono inserite, in origine abbraccia almeno due celle nella direzione desiderata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the same as the &lt;f4&gt;nCr&lt;/f4&gt; function on a calculator.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T153911Z" creationid="Marco Marega" creationdate="20160625T153911Z">
+        <seg>Questa è la stessa funzione del tasto &lt;f4&gt;nCr&lt;/f4&gt; di una calcolatrice scientifica.</seg>
       </tuv>
     </tu>
     <tu>
