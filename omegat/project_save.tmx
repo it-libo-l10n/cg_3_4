@@ -2846,6 +2846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;ACOT&lt;/f0&gt;(number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T144745Z" creationid="Marco Marega" creationdate="20160625T144745Z">
+        <seg>&lt;f0&gt;ARCCOT&lt;/f0&gt;(number)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;After the documents merge, the Accept or Reject Changes dialog opens, as in &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figure 292&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;, showing changes by more than one reviewer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T152451Z" creationid="luciano" creationdate="20160428T153441Z">
@@ -20572,6 +20580,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T144330Z" creationid="Marco Marega" creationdate="20160625T144330Z">
         <seg>Restituisce l'inverso del coseno del &lt;f0&gt;numero &lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;dato in radianti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the inverse hyperbolic cosine of the given &lt;f0&gt;number &lt;/f0&gt;in radians.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T144629Z" creationid="Marco Marega" creationdate="20160625T144629Z">
+        <seg>Restituisce l'inverso del coseno iperbolico del &lt;f0&gt;numero &lt;/f0&gt;dato in radianti.</seg>
       </tuv>
     </tu>
     <tu>
