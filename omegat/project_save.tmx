@@ -12614,6 +12614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For, example the &lt;f2&gt;SUM&lt;/f2&gt; function will only accept a maximum of 30 arguments.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T075812Z" creationid="Marco Marega" creationdate="20160625T075812Z">
+        <seg>Ad esempio, la funzione &lt;f2&gt;SOMMA&lt;/f2&gt; può accettare un massimo di 30 parametri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Formatting 3D charts</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T102502Z">
@@ -26118,6 +26126,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160524T145650Z" creationid="luciano" creationdate="20160524T145650Z">
         <seg>Questa libreria non viene creata fino a quando il documento viene salvato o è necessaria la libreria, quindi a questo punto il nuovo documento non contiene una libreria..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This limit does NOT mean that you can only sum 30 numbers, but that you can only pass 30 &lt;f3&gt;separate&lt;/f3&gt; arguments to the function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T075939Z" creationid="Marco Marega" creationdate="20160625T075939Z">
+        <seg>Questo limite NON significa che potete sommare solo 30 numeri, ma che potete passare solo 30 &lt;f3&gt;distinti&lt;/f3&gt; parametri alla funzione.</seg>
       </tuv>
     </tu>
     <tu>
