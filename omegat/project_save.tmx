@@ -20544,6 +20544,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the absolute value of the given &lt;f0&gt;number&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T081536Z" creationid="Marco Marega" creationdate="20160625T081536Z">
+        <seg>Restituisce il valore assoluto del &lt;f0&gt;numero&lt;/f0&gt; dato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the value from a different column in the same row.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151641Z" creationid="steevie" creationdate="20160620T151641Z">
