@@ -2832,24 +2832,32 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;ACOS&lt;/f0&gt;(number)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T144206Z" creationid="Marco Marega" creationdate="20160625T144206Z">
-        <seg>&lt;f0&gt;ARCCOS&lt;/f0&gt;(number)</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T144929Z" creationid="Marco Marega" creationdate="20160625T144206Z">
+        <seg>&lt;f0&gt;ARCCOS&lt;/f0&gt;(numero)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;ACOSH&lt;/f0&gt;(number)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T144402Z" creationid="Marco Marega" creationdate="20160625T144335Z">
-        <seg>&lt;f0&gt;ARCCOSH&lt;/f0&gt;(number)</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T144939Z" creationid="Marco Marega" creationdate="20160625T144335Z">
+        <seg>&lt;f0&gt;ARCCOSH&lt;/f0&gt;(numero)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;ACOT&lt;/f0&gt;(number)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T144745Z" creationid="Marco Marega" creationdate="20160625T144745Z">
-        <seg>&lt;f0&gt;ARCCOT&lt;/f0&gt;(number)</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T144949Z" creationid="Marco Marega" creationdate="20160625T144745Z">
+        <seg>&lt;f0&gt;ARCCOT&lt;/f0&gt;(numero)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;ACOTH&lt;/f0&gt;(number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T145012Z" creationid="Marco Marega" creationdate="20160625T145012Z">
+        <seg>&lt;f0&gt;ARCCOTH&lt;/f0&gt;(numero)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20584,10 +20592,26 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the inverse cotangent of the given &lt;f0&gt;number&lt;/f0&gt; in radians.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T145042Z" creationid="Marco Marega" creationdate="20160625T144923Z">
+        <seg>Restituisce l'inverso della cotangente del &lt;f0&gt;numero&lt;/f0&gt; dato in radianti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the inverse hyperbolic cosine of the given &lt;f0&gt;number &lt;/f0&gt;in radians.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T144629Z" creationid="Marco Marega" creationdate="20160625T144629Z">
         <seg>Restituisce l'inverso del coseno iperbolico del &lt;f0&gt;numero &lt;/f0&gt;dato in radianti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the inverse hyperbolic cotangent of the given &lt;f0&gt;number&lt;/f0&gt; in radians.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T145117Z" creationid="Marco Marega" creationdate="20160625T145026Z">
+        <seg>Restituisce l'inverso della cotangente iperbolica del &lt;f0&gt;numero&lt;/f0&gt; dato in radianti.</seg>
       </tuv>
     </tu>
     <tu>
