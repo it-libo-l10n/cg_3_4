@@ -16951,6 +16951,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LOG10(number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T131133Z" creationid="Marco Marega" creationdate="20160626T131133Z">
+        <seg>LOG10(numero)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LOOKUP</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T145459Z" creationid="steevie" creationdate="20160620T145459Z">
@@ -17387,6 +17395,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T150606Z" creationid="steevie" creationdate="20160620T150606Z">
         <seg>MIN.VALORI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MOD(dividend; divisor)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T131413Z" creationid="Marco Marega" creationdate="20160626T131413Z">
+        <seg>RESTO(dividendo; divisore)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21184,6 +21200,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the base-10 logarithm of the given &lt;f0&gt;number&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T131207Z" creationid="Marco Marega" creationdate="20160626T131207Z">
+        <seg>Restituisce il logaritmo in base 10 del &lt;f0&gt;numero&lt;/f0&gt; dato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the cosine of the given &lt;f0&gt;number&lt;/f0&gt; (angle in radians).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T095313Z" creationid="Marco Marega" creationdate="20160626T095313Z">
@@ -21308,6 +21332,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T112528Z" creationid="Marco Marega" creationdate="20160626T112528Z">
         <seg>Restituisce il minimo comune multiplo di uno o più interi.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Intero_1; intero_2;... intero_&lt;/f1&gt;&lt;f2&gt;30&lt;/f2&gt; sono gli interi di cui deve essere calcolato il minimo comune multiplo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the logarithm of the given &lt;f0&gt;number&lt;/f0&gt; to the specified base.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Base&lt;/f2&gt; is the base for the logarithm calculation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T131121Z" creationid="Marco Marega" creationdate="20160626T131121Z">
+        <seg>Restituisce il logaritmo del &lt;f0&gt;numero&lt;/f0&gt; dato nella base specificata.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Base&lt;/f2&gt; è la base per il calcolo del logaritmo.</seg>
       </tuv>
     </tu>
     <tu>
