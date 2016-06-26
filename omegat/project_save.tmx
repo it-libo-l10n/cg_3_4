@@ -4054,6 +4054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;RANDBETWEEN &lt;/f0&gt;(bottom; top)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T134638Z" creationid="Marco Marega" creationdate="20160626T134638Z">
+        <seg>&lt;f0&gt;CASUALE.TRA &lt;/f0&gt;(minore; maggiore)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Reduce/Enlarge printout&lt;/f0&gt;—scales the data in the printout either larger or smaller.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T164148Z">
@@ -21308,6 +21316,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T134401Z" creationid="Marco Marega" creationdate="20160626T134401Z">
         <seg>Restituisce un numero casuale compreso tra 0 ed 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns an integer random number between &lt;f0&gt;bottom&lt;/f0&gt; and &lt;f1&gt;top&lt;/f1&gt; (inclusive).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T134758Z" creationid="Marco Marega" creationdate="20160626T134758Z">
+        <seg>Restituisce un numero intero casuale compreso tra &lt;f0&gt;minore&lt;/f0&gt; e &lt;f1&gt;maggiore&lt;/f1&gt; (incluso).</seg>
       </tuv>
     </tu>
     <tu>
