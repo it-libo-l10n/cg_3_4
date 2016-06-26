@@ -4062,6 +4062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;ROUNDDOWN&lt;/f0&gt;(number; count)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T140325Z" creationid="Marco Marega" creationdate="20160626T140325Z">
+        <seg>ARROTONDA.DIFETTO(numero; numero_decimali)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Reduce/Enlarge printout&lt;/f0&gt;—scales the data in the printout either larger or smaller.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T164148Z">
@@ -16699,6 +16707,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160615T160625Z" creationid="luciano" creationdate="20160615T160625Z">
         <seg>Si può scrivere funzioni che si comportano come funzioni regolari tramite la scrittura di un Add-In.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is rounded to the place indicated by the count.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T140250Z" creationid="Marco Marega" creationdate="20160626T140250Z">
+        <seg>Questa viene arrotondata nella posizione indicata dal numero_decimali.</seg>
       </tuv>
     </tu>
     <tu>
