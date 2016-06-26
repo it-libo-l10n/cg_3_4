@@ -1742,6 +1742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f1&gt;&lt;f2&gt;Denominator&lt;/f2&gt;&lt;f3&gt; is the number the numerator will be divided by.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T134142Z" creationid="Marco Marega" creationdate="20160626T134142Z">
+        <seg>&lt;/f1&gt;&lt;f2&gt;Denominatore&lt;/f2&gt;&lt;f3&gt; è il numero per cui viene diviso il numeratore.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f1&gt;&lt;f2&gt;The contributors to that book are listed on page &lt;/f2&gt;&lt;f3&gt;&lt;bf4&gt;13&lt;/bf4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090437Z">
@@ -3954,6 +3962,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T103452Z" creationid="Marco Marega" creationdate="20160626T103257Z">
         <seg>&lt;f0&gt;Numeri&lt;/f0&gt; è una lista, al massimo di 30 numeri, separati da punti e virgola, di cui deve essere calcolato il massimo comune divisore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Numerator&lt;/f0&gt;&lt;f1&gt; is the number that will be divided.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T134109Z" creationid="Marco Marega" creationdate="20160626T134109Z">
+        <seg>&lt;f0&gt;Numeratore&lt;/f0&gt;&lt;f1&gt; è il numero da dividere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9226,6 +9242,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T094551Z" creationid="Marco Marega" creationdate="20160626T094551Z">
         <seg>Converte un valore monetario espresso in una valuta Europea in &lt;f0&gt;Euro.&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Valore&lt;/f2&gt; è la somma espressa nella valuta da convertire.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Testo&lt;/f4&gt; è l'abbreviazione ufficiale della valuta in questione (ad esempio, "EUR").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converts the given &lt;f0&gt;number&lt;/f0&gt; in degrees to radians.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T134251Z" creationid="Marco Marega" creationdate="20160626T134251Z">
+        <seg>Converte in radianti il &lt;f0&gt;numero&lt;/f0&gt; dato espresso in gradi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20152,6 +20176,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>QUOTIENT(numerator; denominator)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T134005Z" creationid="Marco Marega" creationdate="20160626T134005Z">
+        <seg>QUOZIENTE(numeratore; denominatore)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Quick export to PDF</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T164714Z" creationid="Luciano B." creationdate="20160325T164714Z">
@@ -20188,6 +20220,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T151613Z" creationid="steevie" creationdate="20160503T151613Z">
         <seg>Quiz 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>RADIANS(number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T134156Z" creationid="Marco Marega" creationdate="20160626T134156Z">
+        <seg>RADIANTI(numero)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21324,6 +21364,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T095505Z" creationid="Marco Marega" creationdate="20160626T095505Z">
         <seg>Restituisce la cotangente iperbolica del &lt;f0&gt;numero&lt;/f0&gt; dato (angolo in radianti).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the integer result of a division operation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T134052Z" creationid="Marco Marega" creationdate="20160626T134052Z">
+        <seg>Restituisce il risultato intero di un'operazione di divisione.</seg>
       </tuv>
     </tu>
     <tu>
