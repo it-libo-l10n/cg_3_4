@@ -1726,6 +1726,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Numbers&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; is&lt;/f4&gt;&lt;/f3&gt; a list of up to 30 numbers separated by semi-colons.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T103436Z" creationid="Marco Marega" creationdate="20160626T103436Z">
+        <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Numeri&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; è&lt;/f4&gt;&lt;/f3&gt; una lista, al massimo di 30 numeri, separati da punti e virgola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f1&gt;&lt;f2&gt;The contributors to that book are listed on page &lt;/f2&gt;&lt;f3&gt;&lt;bf4&gt;13&lt;/bf4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090437Z">
@@ -2330,6 +2338,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T173106Z" creationid="Luciano B." creationdate="20160325T170002Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Riduci risoluzione immagine&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;: Le immagini con un numero inferiore di DPI (dots per inch - punti per pollice) sono di qualità inferiore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Returns the greatest common divisor of a list of numbers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T103335Z" creationid="Marco Marega" creationdate="20160626T103335Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Restituisce il massimo comune divisore di una lista di numeri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3880,8 +3896,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Numbers&lt;/f0&gt; is a list of up to 30 numbers whose greatest common divisor is to be calculated, separated by semi-colons.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T103257Z" creationid="Marco Marega" creationdate="20160626T103257Z">
-        <seg>&lt;f0&gt;Numeri&lt;/f0&gt; è una lista, al massimo di 30 numeri separati da punti e virgola, di cui deve essere calcolato il massimo comune divisore.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T103452Z" creationid="Marco Marega" creationdate="20160626T103257Z">
+        <seg>&lt;f0&gt;Numeri&lt;/f0&gt; è una lista, al massimo di 30 numeri, separati da punti e virgola, di cui deve essere calcolato il massimo comune divisore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13794,6 +13810,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T145352Z" creationid="steevie" creationdate="20160620T145352Z">
         <seg>INDIRETTO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>INT(number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T103626Z" creationid="Marco Marega" creationdate="20160626T103626Z">
+        <seg>INT(numero)</seg>
       </tuv>
     </tu>
     <tu>
