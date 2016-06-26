@@ -4166,6 +4166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;SERIESSUM&lt;/f0&gt;(x; n; m; coefficients)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T142928Z" creationid="Marco Marega" creationdate="20160626T142928Z">
+        <seg>&lt;f0&gt;SOMMA.SERIE&lt;/f0&gt;(x; n; m; coefficienti)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Scenarios.&lt;/f0&gt; Displays all available scenarios.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T155841Z" creationid="michele" creationdate="20160525T155841Z">
@@ -21364,6 +21372,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T134401Z" creationid="Marco Marega" creationdate="20160626T134401Z">
         <seg>Restituisce un numero casuale compreso tra 0 ed 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns a sum of powers of the number x in accordance with the following formula:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T143048Z" creationid="Marco Marega" creationdate="20160626T143048Z">
+        <seg>Restituisce la somma delle potenze dei numeri x ottenuta applicando la seguente formula:</seg>
       </tuv>
     </tu>
     <tu>
