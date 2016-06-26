@@ -3790,6 +3790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;LN&lt;/f0&gt;(number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T130919Z" creationid="Marco Marega" creationdate="20160626T130919Z">
+        <seg>&lt;f0&gt;LN&lt;/f0&gt;(numero)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;LibreOffice is distributed under &lt;/f0&gt;the &lt;is1/&gt;Open Source Initiative (OSI)&lt;ie2/&gt; approved Lesser General Public License (LGPL).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084510Z">
@@ -3922,6 +3930,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T075301Z" creationid="Marco Marega" creationdate="20160625T075301Z">
         <seg>&lt;f0&gt;Numero_1; numero_2;... numero_&lt;/f0&gt;&lt;f1&gt;30&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Numbers&lt;/f0&gt; is a list of up to 30 numbers separated by semi-colons.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T130807Z" creationid="Marco Marega" creationdate="20160626T130807Z">
+        <seg>&lt;f0&gt;Numeri&lt;/f0&gt; è una lista, al  massimo di 30 numeri, separati da punti e virgola.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16927,6 +16943,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LOG(number; base)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T131016Z" creationid="Marco Marega" creationdate="20160626T131016Z">
+        <seg>LOG(numero; dato)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LOOKUP</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T145459Z" creationid="steevie" creationdate="20160620T145459Z">
@@ -21284,6 +21308,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T112528Z" creationid="Marco Marega" creationdate="20160626T112528Z">
         <seg>Restituisce il minimo comune multiplo di uno o più interi.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Intero_1; intero_2;... intero_&lt;/f1&gt;&lt;f2&gt;30&lt;/f2&gt; sono gli interi di cui deve essere calcolato il minimo comune multiplo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the natural logarithm based on the constant &lt;f0&gt;e&lt;/f0&gt; of the given &lt;f1&gt;number&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T131004Z" creationid="Marco Marega" creationdate="20160626T131004Z">
+        <seg>Restituisce il logaritmo naturale basato sulla costante &lt;f0&gt;e&lt;/f0&gt; del &lt;f1&gt;numero&lt;/f1&gt; dato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26102,6 +26134,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T145713Z" creationid="michele" creationdate="20160608T145713Z">
         <seg>Il risultato viene visualizzato in &lt;t2&gt;Figura 247&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The result is the lowest common multiple of a list of numbers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T130836Z" creationid="Marco Marega" creationdate="20160626T130836Z">
+        <seg>Il risultato è il minimo comune multiplo di una lista di numeri.</seg>
       </tuv>
     </tu>
     <tu>
