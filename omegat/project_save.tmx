@@ -4958,6 +4958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s3/&gt;If the &lt;f4&gt;count&lt;/f4&gt; parameter is negative, only the whole number portion is rounded.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T140956Z" creationid="Marco Marega" creationdate="20160626T140956Z">
+        <seg>&lt;s3/&gt;Se il parametro &lt;f4&gt;numero_decimali&lt;/f4&gt; è negativo, viene arrotondata solo la porzione intera del numero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t0&gt;Figure 153&lt;/t0&gt; shows the dialog displayed when you click the &lt;f1&gt;Set passwords&lt;/f1&gt; button on the Security page of the PDF Options dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T151231Z" creationid="Luciano B." creationdate="20160329T151231Z">
@@ -21786,8 +21794,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Rounds the given &lt;f0&gt;number&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Count&lt;/f2&gt; (optional) is the number of digits to be rounded down to.&lt;f3&gt; &lt;/f3&gt;If the &lt;f4&gt;count&lt;/f4&gt; parameter is negative, only the whole number portion is rounded.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T140841Z" creationid="Marco Marega" creationdate="20160626T140602Z">
-        <seg>Arrotonda per difetto il &lt;f0&gt;numero&lt;/f0&gt; dato.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Numero_decimali&lt;/f2&gt; (opzionale) è il numero di decimali a cui il valore dev'essere arrotondato per difetto.&lt;f3&gt; &lt;/f3&gt;Se il parametro&lt;f4&gt;numero_decimali&lt;/f4&gt; è negativo, viene arrotondata solo la porzione intera del numero intero.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T141004Z" creationid="Marco Marega" creationdate="20160626T140602Z">
+        <seg>Arrotonda per difetto il &lt;f0&gt;numero&lt;/f0&gt; dato.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Numero_decimali&lt;/f2&gt; (opzionale) è il numero di decimali a cui il valore dev'essere arrotondato per difetto.&lt;f3&gt; &lt;/f3&gt;Se il parametro&lt;f4&gt;numero_decimali&lt;/f4&gt; è negativo, viene arrotondata solo la porzione intera del numero.</seg>
       </tuv>
     </tu>
     <tu>
