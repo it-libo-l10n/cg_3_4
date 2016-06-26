@@ -3006,6 +3006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;COUNTIF&lt;/f0&gt;(range; criteria)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T095922Z" creationid="Marco Marega" creationdate="20160626T095922Z">
+        <seg>&lt;f0&gt;CONTA.SE&lt;/f0&gt;(Area; criteri)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Calc automatically adds to any recorded change a comment that describes what was changed (for example, &lt;/f0&gt;&lt;f1&gt;Cell B4 changed from ‘9’ to ‘4’&lt;/f1&gt;&lt;f2&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T150031Z" creationid="luciano" creationdate="20160423T144737Z">
@@ -20836,6 +20844,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T153636Z" creationid="Marco Marega" creationdate="20160625T153636Z">
         <seg>Restituisce il numero di combinazini per un dato numero di oggetti.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1&lt;/f1&gt; è il numero totale degli elementi.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Numero_2&lt;/f3&gt; è il numero degli elementi in ciascuna combinazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the number of empty cells.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Range&lt;/f1&gt; is the cell range in which the empty cells are counted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T095843Z" creationid="Marco Marega" creationdate="20160626T095843Z">
+        <seg>Restituisce il numero di celle vuote.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Area&lt;/f1&gt; è l'intervallo di celle all'interno del quale vengono contate le celle vuote.</seg>
       </tuv>
     </tu>
     <tu>
