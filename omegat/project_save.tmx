@@ -6814,6 +6814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>CONVERT(value; "text"; "text")</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T094249Z" creationid="Marco Marega" creationdate="20160626T094249Z">
+        <seg>CONVERTI(valore; "testo"; "testo")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>COUNT</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T143648Z" creationid="steevie" creationdate="20160620T143648Z">
