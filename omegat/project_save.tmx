@@ -14014,6 +14014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If it is indicated and non-zero and if the number and significance are negative, rounding down is carried out based on that value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T102222Z" creationid="Marco Marega" creationdate="20160626T102222Z">
+        <seg>Se viene indicato ed è diverso da zero e se il numero ed il peso sono negativi, l'arrotondamento per difetto viene eseguito rispetto al valore assoluto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If it were not, and you wanted to reassign a shortcut key combination that is already in use, you must first &lt;/f6&gt;delete&lt;f7&gt; the existing k&lt;/f7&gt;ey&lt;f8&gt;.&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170924Z" creationid="steevie" creationdate="20160428T170924Z">
@@ -21052,6 +21060,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084435Z">
         <seg>Rob Scott</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rounds the given &lt;f0&gt;number&lt;/f0&gt; down to the nearest multiple of &lt;f1&gt;significance&lt;/f1&gt;.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Significance&lt;/f3&gt; is the value to whose multiple of ten the number is to be rounded down (.01, .1, 1, 10, etc.).&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Mode&lt;/f5&gt; is an optional value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T102130Z" creationid="Marco Marega" creationdate="20160626T102130Z">
+        <seg>Arrotonda per difetto il &lt;f0&gt;numero&lt;/f0&gt; dato all'intero o al multiplo di peso più vicino.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Peso&lt;/f2&gt; è il valore al cui multiplo di dieci il valore deve essere arrotondato (.01, .1, 1, 10, ecc.).&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Modo&lt;/f4&gt; è un valore opzionale.</seg>
       </tuv>
     </tu>
     <tu>
