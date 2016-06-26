@@ -1262,6 +1262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>3D chart</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T084438Z" creationid="emanuelegiusti" creationdate="20160611T084438Z">
+        <seg>diagramma 3D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>4</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T151650Z" creationid="steevie" creationdate="20160503T151650Z">
@@ -6462,6 +6470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At any time you can go back to a previous step and change selections.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T084326Z" creationid="emanuelegiusti" creationdate="20160611T084326Z">
+        <seg>In qualsiasi momento è possibile tornare a un passo precedente e cambiare le selezioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At any time, you can directly edit the print range, for example to add to, remove or resize part of the print range.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T101106Z">
@@ -6682,6 +6698,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160425T115756Z" creationid="luciano" creationdate="20160425T115756Z">
         <seg>Dato che lo sponsor ha registrato le variazioni con Calc, potete facilmente vedere quali modifiche sono state fatte e decidere come agire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Before choosing the Chart Wizard, place the cursor anywhere in the area of the data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T083117Z" creationid="emanuelegiusti" creationdate="20160611T082959Z">
+        <seg>Prima di chiudere la Creazione guidata diagramma, posizionate il cursore dovunque nell'area dei dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7166,6 +7190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc offers a choice of 10 basic chart types, with a few options for each type of chart.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T084357Z" creationid="emanuelegiusti" creationdate="20160611T084357Z">
+        <seg>Calc offre una scelta di 10 tipi di diagramma di base, con alcune opzioni per ogni tipo di diagramma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T130631Z" creationid="steevie" creationdate="20160427T130631Z">
@@ -7482,6 +7514,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T065506Z" creationid="steevie" creationdate="20160428T152429Z">
         <seg>&lt;i0/&gt;Opzioni Modifiche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changing &lt;is0/&gt;data ranges&lt;ie1/&gt; and &lt;is2/&gt;axes labels</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160626T121414Z" creationid="emanuelegiusti" creationdate="20160626T121414Z">
+        <seg>Cambiare &lt;is0/&gt;aree dati&lt;ie1/&gt; e &lt;is2/&gt;etichette assi</seg>
       </tuv>
     </tu>
     <tu>
@@ -7974,6 +8014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Insert &lt;/f0&gt;&lt;f1&gt;&gt; Chart&lt;/f1&gt; from the menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T082743Z" creationid="emanuelegiusti" creationdate="20160611T082743Z">
+        <seg>Scegliete &lt;f0&gt;Inserisci &lt;/f0&gt;&lt;f1&gt;&gt; Diagramma&lt;/f1&gt; dalla barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;Insert Rows &lt;/f0&gt;or &lt;f1&gt;Insert Columns&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T131359Z" creationid="michele" creationdate="20160525T131359Z">
@@ -8098,6 +8146,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T130756Z" creationid="steevie" creationdate="20160427T130756Z">
         <seg>Selezione quando &lt;i0/&gt;aggiornare i collegamenti all'apertura del documento: Sempre, su richiesta o mai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choosing a &lt;is0/&gt;chart type</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T083443Z" creationid="emanuelegiusti" creationdate="20160611T083443Z">
+        <seg>Scegliere un tipo di diagramma &lt;is0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10510,6 +10566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Either method inserts a sample chart on the worksheet, opens the Formatting toolbar, and opens the Chart Wizard, as shown in &lt;t0&gt;Figure 76&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T083001Z" creationid="emanuelegiusti" creationdate="20160611T082937Z">
+        <seg>Entrambi i metodi inseriscono un diagramma di esempio nel foglio di lavoro, aprono la barra degli strumenti Formattazione, e aprono la Creazione guidata diagramma, come mostrato in &lt;t0&gt;Figura 76&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Embedding spreadsheets</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095933Z">
@@ -12262,6 +12326,38 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;73&lt;/seq0&gt;: Table of data for charting examples</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T082219Z" creationid="emanuelegiusti" creationdate="20160611T082219Z">
+        <seg>Figura &lt;seq0&gt;73&lt;/seq0&gt;: Tabelle di dati per esempi grafici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;74&lt;/seq0&gt;: Selecting data for plotting</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T082525Z" creationid="emanuelegiusti" creationdate="20160611T082525Z">
+        <seg>Figura &lt;seq0&gt;74&lt;/seq0&gt;: Selezionare dati per la stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;75&lt;/seq0&gt;: Insert chart from main toolbar</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T082830Z" creationid="emanuelegiusti" creationdate="20160611T082830Z">
+        <seg>Figura &lt;seq0&gt;75&lt;/seq0&gt;: Inserisci diagramma dalla barra degli strumenti principale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;76&lt;/seq0&gt;: Chart Wizard, Step 1—Choose a chart type</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T083415Z" creationid="emanuelegiusti" creationdate="20160611T083415Z">
+        <seg>Figura &lt;seq0&gt;76&lt;/seq0&gt;: Creazione guidata diagramma, Passo 1—Scegliere un tipo di diagramma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Drag and drop to dock a window</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T135530Z" creationid="michele" creationdate="20160414T135530Z">
@@ -12866,6 +12962,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T105554Z" creationid="michele" creationdate="20160608T105446Z">
         <seg>Per il quarto trimestre, al contrario, non è disponibile alcuna documentazione delle entrate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the moment, we will stick to the Column chart and click on &lt;f1&gt;Next&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T085616Z" creationid="emanuelegiusti" creationdate="20160611T085616Z">
+        <seg>Per il momento, attenetevi al diagramma a colonna e fate clic su &lt;f1&gt;Successivo&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16631,6 +16735,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Just be careful that you have not included the title of your chart.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T083333Z" creationid="emanuelegiusti" creationdate="20160611T083333Z">
+        <seg>Basta che stiate attenti a non aver inserito il titolo del vostro diagramma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Just keep the basic purpose of each tool in mind, and you should have little trouble with Calc’s function tools.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160526T081007Z" creationid="michele" creationdate="20160526T081007Z">
@@ -18128,6 +18240,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Next, open the &lt;is0/&gt;Chart Wizard&lt;ie1/&gt; dialog using one of two methods.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T082716Z" creationid="emanuelegiusti" creationdate="20160611T082716Z">
+        <seg>Successivo, aprite la finestra di dialogo &lt;is0/&gt;Creazione guidata diagramma&lt;ie1/&gt; usando uno dei due metodi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nicole Cairns&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084426Z">
@@ -18452,6 +18572,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T130357Z" creationid="steevie" creationdate="20160421T130357Z">
         <seg>Nella pagina &lt;f0&gt;&lt;f1&gt;Carica/Salva – Proprietà VBA&lt;/f1&gt;&lt;/f0&gt;, potete stabilire se mantenere le macro nei documenti Microsoft Office aperti da &lt;f2&gt;LibreOffice&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the &lt;f0&gt;Choose a chart type&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; page &lt;/f2&gt;&lt;/f1&gt;(&lt;t3&gt;Figure 76&lt;/t3&gt;), select a type by clicking on its icon.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T085213Z" creationid="emanuelegiusti" creationdate="20160611T085213Z">
+        <seg>Nella pagina &lt;f0&gt;Seleziona un tipo di diagramma&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;  &lt;/f2&gt;&lt;/f1&gt;(&lt;t3&gt;Figura 76&lt;/t3&gt;), selezionate un tipi facendo clic sulla sua icona.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18832,6 +18960,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only those types which are suitable for &lt;i0/&gt;3D (Column, Bar, Pie, and Area) give you an option to select a 3D look.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T085032Z" creationid="emanuelegiusti" creationdate="20160611T085032Z">
+        <seg>Solo i tipi che sono adatti per il&lt;i0/&gt;3D (colonne, barre, torta, e Area) vi danno la possibilità di selezionare un aspetto 3D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open a context menu</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084221Z">
@@ -19084,6 +19220,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T131613Z" creationid="michele" creationdate="20160525T131613Z">
         <seg>O,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Or, click the &lt;f0&gt;Chart&lt;/f0&gt; icon on the main toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T082811Z" creationid="emanuelegiusti" creationdate="20160611T082811Z">
+        <seg>O, fate clic sull'icona &lt;f0&gt;Diagramma&lt;/f0&gt; nella barra degli strumenti principale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21636,6 +21780,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T102755Z" creationid="michele" creationdate="20160524T102625Z">
         <seg>vedi Capitolo 1, Introduzione a &lt;f0&gt;LibreOffice&lt;/f0&gt; nella guida &lt;f1&gt;Getting Started&lt;/f1&gt; per ulteriori informazioni sul Quickstart.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See Chapter 1, Introducing Calc, for more about selecting cells and ranges of cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T082457Z" creationid="emanuelegiusti" creationdate="20160611T082457Z">
+        <seg>Vedete il Capitolo 1, Introduzione a Calc, per informazioni sulla selezione delle celle e intervalli di celle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24313,6 +24465,30 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Chart Wizard has three main parts: a list of steps involved in setting up the chart, a list of chart types, and the options for each chart type.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T084300Z" creationid="emanuelegiusti" creationdate="20160611T084300Z">
+        <seg>La Creazione guidata diagramma ha tre parti principali: un elenco di passaggi coinvolti nella creazione del diagramma, un elenco dei tipi di diagramma, e le opzioni per ogni tipo di diagramma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Chart Wizard includes a sample chart with your data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T083518Z" creationid="emanuelegiusti" creationdate="20160611T083518Z">
+        <seg>La Creazione guidata diagramma include un esempio di diagramma con i vostri dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Chart Wizard will then do a fairly good job of guessing the range of the data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T083215Z" creationid="emanuelegiusti" creationdate="20160611T083215Z">
+        <seg>La Creazione guidata diagramma farà poi un lavoro abbastanza buono per indovinare l'intervallo dei dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The DataPilot dialog</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095457Z">
@@ -24737,6 +24913,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The chart’s name is shown just below the icons.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T085453Z" creationid="emanuelegiusti" creationdate="20160611T085453Z">
+        <seg>Il nome del diagramma è mostrato appena sotto le icone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The check mark by &lt;f1&gt;Freeze&lt;/f1&gt; will vanish.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T152309Z" creationid="michele" creationdate="20160525T152309Z">
@@ -24893,6 +25077,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T142148Z" creationid="steevie" creationdate="20160511T142148Z">
         <seg>All'interno di una riga, i criteri di ogni colonna sono collegati da un AND.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The current selection is highlighted (shown with a surrounding box) on the &lt;f0&gt;Choose a chart type&lt;/f0&gt; page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T085437Z" creationid="emanuelegiusti" creationdate="20160611T085437Z">
+        <seg>La selezione corrente è evidenziata (indicata con una cornice che la circonda) nella pagina &lt;f0&gt;Seleziona un tipo di diagramma&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25158,6 +25350,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T152335Z" creationid="steevie" creationdate="20160509T152335Z">
         <seg>Il primo passo per l'ordinamento dei dati è quello di selezionare quelli che si vogliono ordinare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first tier of choice is for two-dimensional (2D) charts.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T084513Z" creationid="emanuelegiusti" creationdate="20160611T084513Z">
+        <seg>Il primo livello di scelta è per diagrammi bidimensionali (2D).</seg>
       </tuv>
     </tu>
     <tu>
@@ -25594,6 +25794,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The options vary according to the type of chart you pick.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T084428Z" creationid="emanuelegiusti" creationdate="20160611T084428Z">
+        <seg>Le opzioni variano a seconda del tipo di diagramma che si sceglie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The other options on this dialog should be self-explanatory.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T122720Z" creationid="steevie" creationdate="20160421T122706Z">
@@ -25646,6 +25854,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160314T141351Z">
         <seg>Il pannello di anteprima sulla sinistra della finestra di dialogo Stampa mostra come verrà stampato il documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The preview updates every time you select a different type of chart, and provides a good idea of what the finished chart will look like.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T085325Z" creationid="emanuelegiusti" creationdate="20160611T085234Z">
+        <seg>L'anteprima si aggiorna ogni volta che si seleziona un diverso tipo di diagramma, e fornisce una buona idea dell'aspetto che avrà il diagramma finito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25806,6 +26022,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T125926Z" creationid="michele" creationdate="20160525T125926Z">
         <seg>Le schede selezionate diventeranno bianche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The selection does not need to be in a single block, as shown in &lt;t0&gt;Figure 74&lt;/t0&gt;; you can also choose individual cells or groups of cells (columns or rows).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T082425Z" creationid="emanuelegiusti" creationdate="20160611T082425Z">
+        <seg>La selezione non deve essere in un unico blocco, come mostrato in &lt;t0&gt;Figura 74&lt;/t0&gt;; potete anche scegliere le singole celle o gruppi di celle (colonne o righe).</seg>
       </tuv>
     </tu>
     <tu>
@@ -26898,6 +27122,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This sample chart updates to reflect the changes you make in the Chart Wizard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T083900Z" creationid="emanuelegiusti" creationdate="20160611T083900Z">
+        <seg>Questo esempio di diagramma si aggiorna per riflettere le modifiche apportate nella Creazione guidata diagramma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This search:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T151252Z" creationid="steevie" creationdate="20160427T151252Z">
@@ -27222,6 +27454,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160527T140910Z" creationid="michele" creationdate="20160527T140852Z">
         <seg>Per consolidare in base all'etichetta di riga o colonna, l'etichetta deve essere inclusa nella area dati di sorgente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To create a chart, first highlight (select) the data to be included in the chart.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T082309Z" creationid="emanuelegiusti" creationdate="20160611T082309Z">
+        <seg>Per creare un diagramma, prima evidenziare (selezionare) i dati da inserire nel grafico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33126,6 +33366,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160422T151225Z" creationid="luciano" creationdate="20160422T151225Z">
         <seg>memorizzare le modifiche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>types</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T084432Z" creationid="emanuelegiusti" creationdate="20160611T084432Z">
+        <seg>tipi</seg>
       </tuv>
     </tu>
     <tu>
