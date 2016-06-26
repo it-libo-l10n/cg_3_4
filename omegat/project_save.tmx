@@ -3622,6 +3622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;ISODD&lt;/f0&gt;(value)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T104126Z" creationid="Marco Marega" creationdate="20160626T104126Z">
+        <seg>&lt;f0&gt;VAL.DISPARI&lt;/f0&gt;(valore)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If the sheet is not protected, then &lt;/f0&gt;&lt;f1&gt;Prevent changes &lt;/f1&gt;&lt;f2&gt;does not have any effect, and all scenario properties can be changed.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T153224Z" creationid="michele" creationdate="20160531T153224Z">
@@ -4642,6 +4650,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T161110Z" creationid="Luciano B." creationdate="20160411T161017Z">
         <seg>&lt;f2&gt;Dati &gt; Ordina&lt;/f2&gt;&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;If the &lt;/f2&gt;&lt;f3&gt;value&lt;/f3&gt;&lt;f4&gt; is not an integer, the function evaluates only the integer part of the &lt;/f4&gt;&lt;f5&gt;value&lt;/f5&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T104114Z" creationid="Marco Marega" creationdate="20160626T104114Z">
+        <seg>&lt;f2&gt;Se il &lt;/f2&gt;&lt;f3&gt;valore&lt;/f3&gt;&lt;f4&gt; non è un intero, la funzione considera solo la parte intera del &lt;/f4&gt;&lt;f5&gt;valore&lt;/f5&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20844,6 +20860,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T103937Z" creationid="Marco Marega" creationdate="20160626T103937Z">
         <seg>Restituisce VERO se il &lt;f0&gt;valore&lt;/f0&gt; dato è un numero intero pari, oppure FALSO se il &lt;f1&gt;valore&lt;/f1&gt; è dispari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns TRUE if the given &lt;f0&gt;value&lt;/f0&gt; is an odd integer, or FALSE if the &lt;f1&gt;value&lt;/f1&gt; is even.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T104222Z" creationid="Marco Marega" creationdate="20160626T104222Z">
+        <seg>Restituisce VERO se il &lt;f0&gt;valore&lt;/f0&gt; dato è un numero intero dispari, oppure FALSO se il &lt;f1&gt;valore&lt;/f1&gt; è pari.</seg>
       </tuv>
     </tu>
     <tu>
