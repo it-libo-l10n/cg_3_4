@@ -7446,6 +7446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calculates subtotals.&lt;f0&gt; &lt;/f0&gt;If a range already contains subtotals, these are not used for further calculations.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Function&lt;/f2&gt; is a value that stands for another function such as&lt;f3&gt; &lt;/f3&gt;Average, Count, Min, Sum, Var.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Range&lt;/f5&gt; is the range whose cells are included.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T144736Z" creationid="Marco Marega" creationdate="20160626T144736Z">
+        <seg>Calcola subtotali.&lt;f0&gt; &lt;/f0&gt;Se un intervallo contiene già subtotali, questi non vengono utilizzati per ulteriori calcoli.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Funzione&lt;/f2&gt; che indica un'altra funzione come:&lt;f3&gt; &lt;/f3&gt;Media, Count, Min, Sum, Var.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Range&lt;/f5&gt; is the range whose cells are included.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calculating with one formula and one variable</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T082159Z" creationid="michele" creationdate="20160608T082159Z">
@@ -21672,6 +21680,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the square root of the product of the given &lt;f0&gt;number&lt;/f0&gt; and PI.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T144500Z" creationid="Marco Marega" creationdate="20160626T144500Z">
+        <seg>Restituisce la radice quadrata del &lt;f0&gt;numero&lt;/f0&gt; moltiplicato per PI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the value from a different column in the same row.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151641Z" creationid="steevie" creationdate="20160620T151641Z">
@@ -21988,6 +22004,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160527T151742Z" creationid="michele" creationdate="20160527T151216Z">
         <seg>SUBTOTALE è elencato sotto la categoria Matematica della creazione guidata funzione (&lt;f0&gt;Inserisci&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Funzione&lt;/f3&gt;&lt;f4&gt; o premi&lt;/f4&gt;&lt;f5&gt;Ctrl+F2&lt;/f5&gt;&lt;f6&gt;)&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SUBTOTAL(function; range)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T144516Z" creationid="Marco Marega" creationdate="20160626T144516Z">
+        <seg>SUBTOTALE(funzione; intervallo)</seg>
       </tuv>
     </tu>
     <tu>
