@@ -19536,6 +19536,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PI()</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T133207Z" creationid="Marco Marega" creationdate="20160626T133207Z">
+        <seg>PI.GRECO()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PRINT_AREA</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142922Z" creationid="steevie" creationdate="20160504T142922Z">
@@ -21588,6 +21596,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T101535Z" creationid="Marco Marega" creationdate="20160626T101535Z">
         <seg>Arrotonda per eccesso il &lt;f0&gt;numero&lt;/f0&gt;dato al più vicino numero pari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rounds the given &lt;f0&gt;number&lt;/f0&gt; up to the nearest odd integer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T133047Z" creationid="Marco Marega" creationdate="20160626T133047Z">
+        <seg>Arrotonda per eccesso il &lt;f0&gt;numero&lt;/f0&gt;dato al più vicino numero dispari.</seg>
       </tuv>
     </tu>
     <tu>
