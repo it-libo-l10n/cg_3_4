@@ -16711,6 +16711,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LCM(integer_1; integer_2; ... integer_30)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T111958Z" creationid="Marco Marega" creationdate="20160626T111958Z">
+        <seg>LCM(integer_1; integer_2; ... integer_30)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LEFT</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T144947Z" creationid="steevie" creationdate="20160509T144947Z">
@@ -21010,8 +21018,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Returns the number of combinations for a given number of objects.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Count_1&lt;/f1&gt; is the total number of elements.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Count_2&lt;/f3&gt; is the selected count from the elements.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T153636Z" creationid="Marco Marega" creationdate="20160625T153636Z">
-        <seg>Restituisce il numero di combinazini per un dato numero di oggetti.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1&lt;/f1&gt; è il numero totale degli elementi.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Numero_2&lt;/f3&gt; è il numero degli elementi in ciascuna combinazione.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T112016Z" creationid="Marco Marega" creationdate="20160625T153636Z">
+        <seg>Restituisce il numero di combinazioni per un dato numero di oggetti.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1&lt;/f1&gt; è il numero totale degli elementi.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Numero_2&lt;/f3&gt; è il numero degli elementi in ciascuna combinazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21178,8 +21186,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Rounds the given &lt;f0&gt;number&lt;/f0&gt; to the nearest integer or multiple of significance.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Significance&lt;/f2&gt; is the value to whose multiple of ten the value is to be rounded up (.01, .1, 1, 10, etc.).&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Mode&lt;/f4&gt; is an optional value.&lt;f5&gt; &lt;/f5&gt;If it is indicated and non-zero and if the number and significance are negative, rounding up is carried out based on that value.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T102734Z" creationid="Marco Marega" creationdate="20160625T151619Z">
-        <seg>Arrotonda per ecesso il &lt;f0&gt;numero&lt;/f0&gt; dato all'intero o al multiplo di peso più vicino.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Peso&lt;/f2&gt; è il valore al cui multiplo di dieci il numero deve essere arrotondato (.01, .1, 1, 10, ecc.).&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Modo&lt;/f4&gt; è un valore opzionale.&lt;f5&gt; &lt;/f5&gt;Se viene indicato ed è diverso da zero e se il numero ed il peso sono negativi, l'arrotondamento viene eseguito rispetto al valore assoluto.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T112024Z" creationid="Marco Marega" creationdate="20160625T151619Z">
+        <seg>Arrotonda per eccesso il &lt;f0&gt;numero&lt;/f0&gt; dato all'intero o al multiplo di peso più vicino.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Peso&lt;/f2&gt; è il valore al cui multiplo di dieci il numero deve essere arrotondato (.01, .1, 1, 10, ecc.).&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Modo&lt;/f4&gt; è un valore opzionale.&lt;f5&gt; &lt;/f5&gt;Se viene indicato ed è diverso da zero e se il numero ed il peso sono negativi, l'arrotondamento viene eseguito rispetto al valore assoluto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23811,8 +23819,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Syntax</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T081037Z" creationid="Marco Marega" creationdate="20160625T081037Z">
-        <seg>Sinstassi</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T112211Z" creationid="Marco Marega" creationdate="20160625T081037Z">
+        <seg>Sintassi</seg>
       </tuv>
     </tu>
     <tu>
