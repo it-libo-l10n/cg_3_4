@@ -5518,6 +5518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A note about &lt;i0/&gt;dates</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T150905Z" creationid="Marco Marega" creationdate="20160626T150905Z">
+        <seg>Una nota riguardo alle &lt;i0/&gt;date</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A partial view of the results using our example data is shown in &lt;t0&gt;Figure 232&lt;/t0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160530T153434Z" creationid="michele" creationdate="20160530T153434Z">
@@ -29386,6 +29394,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Truncates a number to an integer&lt;f0&gt; &lt;/f0&gt;by removing the fractional part of the number according to the precision specified in &lt;f1&gt;Tools &gt; Options &gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;LibreOffice&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Calc &gt; Calculate&lt;/f4&gt;.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Number&lt;/f6&gt; is the number whose decimal places are to be cut off.&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;Count&lt;/f8&gt; is the number of decimal places which are not cut off.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T150719Z" creationid="Marco Marega" creationdate="20160626T150719Z">
+        <seg>Tronca un numero ad un intero &lt;f0&gt; &lt;/f0&gt;rimuovendo la parte decimale del numero in conformità alla precisione specificata in &lt;f1&gt;Strumenti &gt; Opzioni &gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;LibreOffice&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Calc &gt; Calcola&lt;/f4&gt;.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Numero&lt;/f6&gt; è il numero al quale dev'essere rimossa la parte decimale.&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;Numero_decimali&lt;/f8&gt; è il numero di posizioni decimali da non tagliare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Turns additional selection mode on or off.&lt;f0&gt; &lt;/f0&gt;In this mode, you can use the arrow keys to extend the selection.&lt;f1&gt; &lt;/f1&gt;You can also click in another cell to extend the selection.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160505T163134Z" creationid="luciano" creationdate="20160505T162615Z">
@@ -32962,6 +32978,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>date formats</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T150828Z" creationid="Marco Marega" creationdate="20160626T150828Z">
+        <seg>formati data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>dates</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145530Z" creationid="steevie" creationdate="20160427T145530Z">
@@ -33150,6 +33174,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T134602Z" creationid="steevie" creationdate="20160511T134602Z">
         <seg>filtro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>financial analysis</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T150745Z" creationid="Marco Marega" creationdate="20160626T150745Z">
+        <seg>analisi finanziaria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>financial analysis functions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T150731Z" creationid="Marco Marega" creationdate="20160626T150731Z">
+        <seg>Funzioni di analisi finanziaria</seg>
       </tuv>
     </tu>
     <tu>
