@@ -11198,6 +11198,38 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>European method, 12 months of 30 days each.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T153801Z" creationid="Marco Marega" creationdate="20160626T153801Z">
+        <seg>Metodo Europeo, 12 mesi di 30 giorni ciascuno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exact number of days in month, year has 360 days.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T153705Z" creationid="Marco Marega" creationdate="20160626T153705Z">
+        <seg>Numero esatto dei giorni nel mese, l'anno ha 360 giorni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exact number of days in month, year has 365 days.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T153721Z" creationid="Marco Marega" creationdate="20160626T153721Z">
+        <seg>Numero esatto dei giorni nel mese, l'anno ha 365 giorni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exact number of days in months, exact number of days in year.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T153631Z" creationid="Marco Marega" creationdate="20160626T153631Z">
+        <seg>Numero esatto dei giorni nel mese, numero esatto dei giorni nell'anno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Example advanced filter criteria</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T142234Z" creationid="steevie" creationdate="20160511T142234Z">
@@ -24969,6 +25001,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;37&lt;/seq0&gt;: Financial analysis functions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T153822Z" creationid="Marco Marega" creationdate="20160626T153822Z">
+        <seg>Tabella &lt;seq0&gt;37&lt;/seq0&gt;: Funzioni di analisi finanziaria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Table &lt;seq0&gt;3&lt;/seq0&gt;: Function of icons in the Navigator</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T155020Z" creationid="michele" creationdate="20160525T155020Z">
@@ -29630,6 +29670,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T102716Z">
         <seg>Tipi di stile in Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>US method (&lt;f0&gt;NASD&lt;/f0&gt;), 12 months of 30 days each.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T153554Z" creationid="Marco Marega" creationdate="20160626T153554Z">
+        <seg>Metodo americano (&lt;f0&gt;NASD&lt;/f0&gt;), 12 mesi di 30 giorni ciascuno.</seg>
       </tuv>
     </tu>
     <tu>
