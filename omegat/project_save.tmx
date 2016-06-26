@@ -16713,8 +16713,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>LCM(integer_1; integer_2; ... integer_30)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T111958Z" creationid="Marco Marega" creationdate="20160626T111958Z">
-        <seg>LCM(integer_1; integer_2; ... integer_30)</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T112342Z" creationid="Marco Marega" creationdate="20160626T111958Z">
+        <seg>MCM(intero_1; intero_2; ... intero_30)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21008,10 +21008,18 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the least common multiple of one or more integers.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Integer_1; integer_2;... integer_&lt;/f1&gt;&lt;f2&gt;30&lt;/f2&gt; are integers whose lowest common multiple is to be calculated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T112528Z" creationid="Marco Marega" creationdate="20160626T112528Z">
+        <seg>Restituisce il minimo comune multiplo di uno o più interi.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Intero_1; intero_2;... intero_&lt;/f1&gt;&lt;f2&gt;30&lt;/f2&gt; sono gli interi di cui deve essere calcolato il minimo comune multiplo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the number of combinations for a given number of objects (repetition included).&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Count_1&lt;/f1&gt; is the total number of elements.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Count_2&lt;/f3&gt; is the selected count from the elements.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T154021Z" creationid="Marco Marega" creationdate="20160625T154021Z">
-        <seg>Restituisce il numero di combinazini per un dato numero di oggetti (ripetizioni incluse).&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1&lt;/f1&gt; è il numero totale degli elementi.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Numero_2&lt;/f3&gt; è il numero degli elementi in ciascuna combinazione.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T112238Z" creationid="Marco Marega" creationdate="20160625T154021Z">
+        <seg>Restituisce il numero di combinazioni per un dato numero di oggetti (ripetizioni incluse).&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1&lt;/f1&gt; è il numero totale degli elementi.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Numero_2&lt;/f3&gt; è il numero degli elementi in ciascuna combinazione.</seg>
       </tuv>
     </tu>
     <tu>
