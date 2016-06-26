@@ -2982,6 +2982,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;COSH&lt;/f0&gt;(number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T095343Z" creationid="Marco Marega" creationdate="20160626T095343Z">
+        <seg>&lt;f0&gt;COSH&lt;/f0&gt;(numero)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;COTH&lt;/f0&gt;(number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T095446Z" creationid="Marco Marega" creationdate="20160626T095446Z">
+        <seg>&lt;f0&gt;COTH&lt;/f0&gt;(number)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Calc automatically adds to any recorded change a comment that describes what was changed (for example, &lt;/f0&gt;&lt;f1&gt;Cell B4 changed from ‘9’ to ‘4’&lt;/f1&gt;&lt;f2&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T150031Z" creationid="luciano" creationdate="20160423T144737Z">
@@ -6826,6 +6842,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T094249Z" creationid="Marco Marega" creationdate="20160626T094249Z">
         <seg>CONVERTI(valore; "testo"; "testo")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>COS(number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T095219Z" creationid="Marco Marega" creationdate="20160626T095219Z">
+        <seg>COS(numero)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>COT(number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T095418Z" creationid="Marco Marega" creationdate="20160626T095418Z">
+        <seg>COT(numero)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20676,6 +20708,38 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T081536Z" creationid="Marco Marega" creationdate="20160625T081536Z">
         <seg>Restituisce il valore assoluto del &lt;f0&gt;numero&lt;/f0&gt; dato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the cosine of the given &lt;f0&gt;number&lt;/f0&gt; (angle in radians).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T095313Z" creationid="Marco Marega" creationdate="20160626T095313Z">
+        <seg>Restituisce il coseno del &lt;f0&gt;numero&lt;/f0&gt; dato (angolo in radianti).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the cotangent of the given &lt;f0&gt;number&lt;/f0&gt; (angle in radians).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T095442Z" creationid="Marco Marega" creationdate="20160626T095442Z">
+        <seg>Restituisce la cotangente del &lt;f0&gt;numero&lt;/f0&gt; dato (angolo in radianti).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the hyperbolic cosine of the given &lt;f0&gt;number&lt;/f0&gt; (angle in radians).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T095407Z" creationid="Marco Marega" creationdate="20160626T095407Z">
+        <seg>Restituisce il coseno iperbolico del &lt;f0&gt;numero&lt;/f0&gt; dato (angolo in radianti).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the hyperbolic cotangent of the given &lt;f0&gt;number&lt;/f0&gt; (angle in radians).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T095505Z" creationid="Marco Marega" creationdate="20160626T095505Z">
+        <seg>Restituisce la cotangente iperbolica del &lt;f0&gt;numero&lt;/f0&gt; dato (angolo in radianti).</seg>
       </tuv>
     </tu>
     <tu>
