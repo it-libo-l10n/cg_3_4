@@ -18608,6 +18608,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ODD(number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T132915Z" creationid="Marco Marega" creationdate="20160626T132915Z">
+        <seg>DISPARI(numero)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ODF format version</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T125627Z" creationid="steevie" creationdate="20160421T125627Z">
@@ -21252,6 +21260,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T101750Z" creationid="Marco Marega" creationdate="20160626T101750Z">
         <seg>Restituisce il fattoriale del &lt;f0&gt;numero&lt;/f0&gt; dato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the factorial of the sum of the arguments divided by the product of the factorials of the arguments.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number(s)&lt;/f1&gt; is a list of up to 30 numbers separated by semi-colons.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T132856Z" creationid="Marco Marega" creationdate="20160626T132856Z">
+        <seg>Restituisce il fattoriale della somma dei parametri diviso per il prodotto dei fattoriali dei parametri.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero/i&lt;/f1&gt; è una lista, al massimo di 30 numeri, separati da punti e virgola.</seg>
       </tuv>
     </tu>
     <tu>
