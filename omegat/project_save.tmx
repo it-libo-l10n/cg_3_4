@@ -14414,6 +14414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the &lt;f3&gt;count&lt;/f3&gt; parameter is negative, only the whole number portion is rounded.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T140206Z" creationid="Marco Marega" creationdate="20160626T140206Z">
+        <seg>Se il parametro &lt;f3&gt;numero_decimali&lt;/f3&gt; è negativo, viene arrotondata solo la porzione intera del numero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the &lt;f5&gt;Display warning&lt;/f5&gt; option is selected, then when exporting to HTML a warning is shown that &lt;f6&gt;LibreOffice&lt;/f6&gt; Basic macros will be lost.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T130135Z" creationid="steevie" creationdate="20160427T130135Z">
