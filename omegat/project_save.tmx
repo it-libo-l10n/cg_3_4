@@ -4174,6 +4174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;SINH&lt;/f0&gt;(number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T143909Z" creationid="Marco Marega" creationdate="20160626T143909Z">
+        <seg>&lt;f0&gt;SENH&lt;/f0&gt;(numero)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Scenarios.&lt;/f0&gt; Displays all available scenarios.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T155841Z" creationid="michele" creationdate="20160525T155841Z">
@@ -21472,6 +21480,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the hyperbolic sine of the given &lt;f0&gt;number &lt;/f0&gt;(angle in radians).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T143930Z" creationid="Marco Marega" creationdate="20160626T143930Z">
+        <seg>Restituisce il seno iperbolico del &lt;f0&gt;numero&lt;/f0&gt; dato (angolo in radianti).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the integer result of a division operation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T134052Z" creationid="Marco Marega" creationdate="20160626T134052Z">
@@ -21608,6 +21624,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the positive square root of the given &lt;f0&gt;number&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;The value of the &lt;f2&gt;number&lt;/f2&gt; must be positive.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T144101Z" creationid="Marco Marega" creationdate="20160626T144101Z">
+        <seg>Restituisce la radice quadrata positiva del &lt;f0&gt;numero&lt;/f0&gt; dato.&lt;f1&gt; &lt;/f1&gt;Il valore del &lt;f2&gt;numero&lt;/f2&gt; deve essere positivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the remainder after a number is divided by a divisor.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dividend&lt;/f1&gt; is the number which will be divided by the divisor.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T131542Z" creationid="Marco Marega" creationdate="20160626T131542Z">
@@ -21628,6 +21652,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T143704Z" creationid="Marco Marega" creationdate="20160626T143704Z">
         <seg>Restituisce il segno del &lt;f0&gt;numero&lt;/f0&gt; dato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the sine of the given &lt;f0&gt;number&lt;/f0&gt; (angle in radians).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T143833Z" creationid="Marco Marega" creationdate="20160626T143833Z">
+        <seg>Restituisce il seno del &lt;f0&gt;numero&lt;/f0&gt; dato (angolo in radianti).</seg>
       </tuv>
     </tu>
     <tu>
@@ -21884,6 +21916,22 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T143643Z" creationid="Marco Marega" creationdate="20160626T143643Z">
         <seg>SEGNO(numero)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SIN(number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T143912Z" creationid="Marco Marega" creationdate="20160626T143816Z">
+        <seg>SEN(numero)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SQRT(number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T144004Z" creationid="Marco Marega" creationdate="20160626T144004Z">
+        <seg>RADQ(numero)</seg>
       </tuv>
     </tu>
     <tu>
