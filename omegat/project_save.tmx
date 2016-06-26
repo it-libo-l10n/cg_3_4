@@ -5526,6 +5526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A note about &lt;is0/&gt;interest rates</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T152057Z" creationid="Marco Marega" creationdate="20160626T152057Z">
+        <seg>Una nota riguardo i &lt;is0/&gt;tassi d'interesse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A partial view of the results using our example data is shown in &lt;t0&gt;Figure 232&lt;/t0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160530T153434Z" creationid="michele" creationdate="20160530T153434Z">
@@ -6658,6 +6666,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160601T130159Z" creationid="michele" creationdate="20160601T130159Z">
         <seg>Le frecce puntano alle celle direttamente dipendenti dalle celle attive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As a decimal.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T152219Z" creationid="Marco Marega" creationdate="20160626T152138Z">
+        <seg>Come un numero decimale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As a percentage.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T152252Z" creationid="Marco Marega" creationdate="20160626T152252Z">
+        <seg>As a percentage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10126,6 +10150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Date formats are locale specific; check the Help for the acceptable formatting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T152014Z" creationid="Marco Marega" creationdate="20160626T152014Z">
+        <seg>I formati delle date sono specifici per l'area geografica; controllate l'Aiuto per verificare i formati ammessi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Date section</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145519Z" creationid="steevie" creationdate="20160427T145519Z">
@@ -13106,6 +13138,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160615T161109Z" creationid="luciano" creationdate="20160615T161109Z">
         <seg>Per esempio, la macro nel &lt;t1&gt;Listato 7&lt;/t1&gt; aggiunge il valore nella cella A2 da ogni foglio presente nel documento corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, to compute a loan with a 3.25% interest rate, enter &lt;f0&gt;.0325&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; into the function&lt;/f2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T152248Z" creationid="Marco Marega" creationdate="20160626T152248Z">
+        <seg>For example, to compute a loan with a 3.25% interest rate, enter &lt;f0&gt;.0325&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; into the function&lt;/f2&gt;&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28514,6 +28554,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To enter an interest rate as a decimal, divide it by 100 before entering it into a function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T152246Z" creationid="Marco Marega" creationdate="20160626T152215Z">
+        <seg>Per inserire un tasso d'interesse come numero decimale, dividetelo per 100 prima di inserirlo in una funzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To exit the Page Break Preview screen, select &lt;f0&gt;View &gt; Normal&lt;/f0&gt; from the menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T110834Z">
@@ -32014,6 +32062,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T102027Z">
         <seg>Potete inserire dei dati (normalmente numerici) in un foglio elettronico e poi manipolarli per ottenere determinati risultati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can enter interest rates in either of two ways:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T152126Z" creationid="Marco Marega" creationdate="20160626T152126Z">
+        <seg>Potete inserire i tassi d'interesse in due modi:</seg>
       </tuv>
     </tu>
     <tu>
