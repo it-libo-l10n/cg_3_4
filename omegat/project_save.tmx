@@ -8974,6 +8974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Converts a currency value of a European currency into &lt;f0&gt;Euros.&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Value&lt;/f2&gt; is the amount in the currency to be converted.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Text&lt;/f4&gt; is the official abbreviation for the currency in question (for example, "EUR").</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T094551Z" creationid="Marco Marega" creationdate="20160626T094551Z">
+        <seg>Converte un valore monetario espresso in una valuta Europea in &lt;f0&gt;Euro.&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Valore&lt;/f2&gt; è la somma espressa nella valuta da convertire.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Testo&lt;/f4&gt; è l'abbreviazione ufficiale della valuta in questione (ad esempio, "EUR").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copies any changes you make to the values of scenario cells back into the active scenario.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T145147Z" creationid="michele" creationdate="20160531T145147Z">
@@ -24757,6 +24765,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160517T132456Z" creationid="steevie" creationdate="20160517T132456Z">
         <seg>Bisogna modificare il descrittore di filtro prima di poterlo applicare.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first &lt;f5&gt;Text&lt;/f5&gt; parameter gives the source value to be converted; the second &lt;f6&gt;Text&lt;/f6&gt; parameter gives the destination value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T094708Z" creationid="Marco Marega" creationdate="20160626T094708Z">
+        <seg>Il primo parametro &lt;f5&gt;Testo&lt;/f5&gt; indica la valuta di partenza da convertire; il secondo parametro &lt;f6&gt;Testo&lt;/f6&gt; indica la valuta di destinazione.</seg>
       </tuv>
     </tu>
     <tu>
