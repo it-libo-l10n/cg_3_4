@@ -20232,6 +20232,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>RAND()</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T134322Z" creationid="Marco Marega" creationdate="20160626T134322Z">
+        <seg>CASUALE()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>REM .StringValue = "what ever"</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135837Z" creationid="steevie" creationdate="20160511T135837Z">
@@ -21292,6 +21300,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T104222Z" creationid="Marco Marega" creationdate="20160626T104222Z">
         <seg>Restituisce VERO se il &lt;f0&gt;valore&lt;/f0&gt; dato è un numero intero dispari, oppure FALSO se il &lt;f1&gt;valore&lt;/f1&gt; è pari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns a random number between 0 and 1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T134401Z" creationid="Marco Marega" creationdate="20160626T134401Z">
+        <seg>Restituisce un numero casuale compreso tra 0 ed 1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27462,6 +27478,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T142608Z" creationid="michele" creationdate="20160531T142608Z">
         <seg>Questo nome è visualizzato nel Navigatore o nella barra del titoli nel bordo attorno allo scenario nel foglio stesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This number will recalculate every time data is entered or &lt;f0&gt;F9&lt;/f0&gt;&lt;f1&gt; is pressed.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T134557Z" creationid="Marco Marega" creationdate="20160626T134557Z">
+        <seg>Questo numero viene ricalcolato ogni volta che vengono inseriti dei dati, oppure quanto viene premuto il tasto &lt;f0&gt;F9&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
