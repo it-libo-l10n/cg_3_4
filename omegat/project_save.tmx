@@ -4630,6 +4630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;x&lt;/f0&gt; is the number as an independent variable.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;n&lt;/f2&gt; is the starting power.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;m&lt;/f4&gt; is the increment.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Coefficients&lt;/f6&gt; is a series of coefficients.&lt;f7&gt; &lt;/f7&gt;For each coefficient the series sum is extended by one section.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T143533Z" creationid="Marco Marega" creationdate="20160626T143533Z">
+        <seg>&lt;f0&gt;x&lt;/f0&gt; è una variabile numerica indipendente.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;n&lt;/f2&gt; è la potenza iniziale.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;m&lt;/f4&gt; è l'incremento.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Coefficienti&lt;/f6&gt; è una serie di coefficienti.&lt;f7&gt; &lt;/f7&gt;Per ogni coefficiente la somma della serie viene estesa di una sezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;z&lt;/f0&gt; &lt;f1&gt;(Command)&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084247Z">
@@ -21616,6 +21624,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the sign of the given &lt;f0&gt;number&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T143704Z" creationid="Marco Marega" creationdate="20160626T143704Z">
+        <seg>Restituisce il segno del &lt;f0&gt;numero&lt;/f0&gt; dato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the value from a different column in the same row.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151641Z" creationid="steevie" creationdate="20160620T151641Z">
@@ -21852,6 +21868,22 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T091807Z" creationid="michele" creationdate="20160524T091807Z">
         <seg>B&lt;bk0/&gt;arra di stato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SERIESSUM(x;n;m;coefficients) = coefficient_1*x^n + coefficient_2*x^(n+m) + coefficient_3*x^(n+2m) +...+ coefficient_i*x^(n+(i-1)m).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T143158Z" creationid="Marco Marega" creationdate="20160626T143158Z">
+        <seg>SOMMA.SERIE(x;n;m;coefficienti) = coefficiente_1*x^n + coefficiente_2*x^(n+m) + coefficiente_3*x^(n+2m) +...+ coefficiente_i*x^(n+(i-1)m).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SIGN(number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T143643Z" creationid="Marco Marega" creationdate="20160626T143643Z">
+        <seg>SEGNO(numero)</seg>
       </tuv>
     </tu>
     <tu>
@@ -25910,6 +25942,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142701Z" creationid="steevie" creationdate="20160504T142701Z">
         <seg>Il quarto argomento del metodo addNewByName() è una combinazione di opzioni che indicano come l'intervallo con nome verrà usato (vedi &lt;t0&gt;Tabella 14&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The function returns the result 1 for a positive sign, –1 for a negative sign, and 0 for zero.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T143803Z" creationid="Marco Marega" creationdate="20160626T143803Z">
+        <seg>La funzione restituisce il risultato 1 per il segno positivo, –1 per il segno negativo, e 0 per lo zero.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31774,6 +31814,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T134105Z" creationid="michele" creationdate="20160414T134105Z">
         <seg>È possibile spostarle, ridimensionarle o ancorarle ad un lato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can only enter &lt;f8&gt;coefficients&lt;/f8&gt; using cell references.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T143634Z" creationid="Marco Marega" creationdate="20160626T143634Z">
+        <seg>E' possibile inserire i &lt;f8&gt;coefficienti&lt;/f8&gt; solamente usando riferimenti a celle.</seg>
       </tuv>
     </tu>
     <tu>
