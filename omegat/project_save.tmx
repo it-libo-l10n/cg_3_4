@@ -3870,6 +3870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;MROUND&lt;/f0&gt;(number; multiple)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T131723Z" creationid="Marco Marega" creationdate="20160626T131723Z">
+        <seg>&lt;f0&gt;ARROTONDA.MULTIPLO&lt;/f0&gt;(numero; multiplo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Martin J Fox&lt;/f0&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090305Z">
@@ -4706,6 +4714,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T161110Z" creationid="Luciano B." creationdate="20160411T161017Z">
         <seg>&lt;f2&gt;Dati &gt; Ordina&lt;/f2&gt;&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;Divisor&lt;/f2&gt; is the number by which to divide the dividend.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T131609Z" creationid="Marco Marega" creationdate="20160626T131609Z">
+        <seg>&lt;f2&gt;Divisore&lt;/f2&gt; è il numero per il quale viene diviso il dividendo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21380,6 +21396,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T095843Z" creationid="Marco Marega" creationdate="20160626T095843Z">
         <seg>Restituisce il numero di celle vuote.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Area&lt;/f1&gt; è l'intervallo di celle all'interno del quale vengono contate le celle vuote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the remainder after a number is divided by a divisor.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dividend&lt;/f1&gt; is the number which will be divided by the divisor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T131542Z" creationid="Marco Marega" creationdate="20160626T131542Z">
+        <seg>Restituisce il resto di una divisione di un numero per un divisore.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dividendo&lt;/f1&gt; è il numero da dividere per il divisore.</seg>
       </tuv>
     </tu>
     <tu>
