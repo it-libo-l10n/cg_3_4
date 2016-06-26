@@ -10918,6 +10918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>FACT(number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T101720Z" creationid="Marco Marega" creationdate="20160626T101720Z">
+        <seg>FATTORIALE(numero)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>FAQs</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T083736Z">
@@ -10930,6 +10938,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142904Z" creationid="steevie" creationdate="20160504T142904Z">
         <seg>FILTER_CRITERIA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>FLOOR(number; significance; mode)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T101916Z" creationid="Marco Marega" creationdate="20160626T101916Z">
+        <seg>ARROTONDA.DIFETTO(numero; peso; modo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20780,6 +20796,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T095442Z" creationid="Marco Marega" creationdate="20160626T095442Z">
         <seg>Restituisce la cotangente del &lt;f0&gt;numero&lt;/f0&gt; dato (angolo in radianti).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the factorial of the given &lt;f0&gt;number&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T101750Z" creationid="Marco Marega" creationdate="20160626T101750Z">
+        <seg>Restituisce il fattoriale del &lt;f0&gt;numero&lt;/f0&gt; dato.</seg>
       </tuv>
     </tu>
     <tu>
