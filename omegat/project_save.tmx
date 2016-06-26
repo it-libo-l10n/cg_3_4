@@ -19544,6 +19544,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>POWER(base; power)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T133541Z" creationid="Marco Marega" creationdate="20160626T133541Z">
+        <seg>POTENZA(base; potenza)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PRINT_AREA</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142922Z" creationid="steevie" creationdate="20160504T142922Z">
@@ -21444,6 +21452,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151641Z" creationid="steevie" creationdate="20160620T151641Z">
         <seg>Calcola il valore da una colonna differente nella stessa riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the value of PI to fourteen decimal places.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T133513Z" creationid="Marco Marega" creationdate="20160626T133513Z">
+        <seg>Restituisce il valore del "Pi greco" con quattordici decimali.</seg>
       </tuv>
     </tu>
     <tu>
