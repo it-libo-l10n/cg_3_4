@@ -20848,6 +20848,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ROUND(number; count)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T135540Z" creationid="Marco Marega" creationdate="20160626T135340Z">
+        <seg>ARROTONDA(numero; numero_decimali)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ROW_HEADER</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T143017Z" creationid="steevie" creationdate="20160504T143017Z">
