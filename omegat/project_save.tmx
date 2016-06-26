@@ -4078,6 +4078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Range&lt;/f0&gt; is the range to which the criteria are to be applied.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T145417Z" creationid="Marco Marega" creationdate="20160626T145417Z">
+        <seg>&lt;f0&gt;Area&lt;/f0&gt; è l'intervallo di celle a cui applicare la condizione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Reduce/Enlarge printout&lt;/f0&gt;—scales the data in the printout either larger or smaller.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T164148Z">
@@ -4762,6 +4770,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160526T155050Z" creationid="michele" creationdate="20160526T153700Z">
         <seg>&lt;f1&gt;&lt;f2&gt;Risultato a partire da&lt;/f2&gt;&lt;/f1&gt; necessita solo della prima cella dell'Area dati di sorgente invece che dell'intera area come riferimento per le &lt;f3&gt;Aree dati di sorgente&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;Criteria&lt;/f1&gt; is the cell in which the search criterion is shown, or the search criterion itself.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T145548Z" creationid="Marco Marega" creationdate="20160626T145548Z">
+        <seg>&lt;f1&gt;Criteri&lt;/f1&gt; è il riferimento alla cella in cui è inserita la condizione per la ricerca, oppure la condizione stessa.</seg>
       </tuv>
     </tu>
     <tu>
