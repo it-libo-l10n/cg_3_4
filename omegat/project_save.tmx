@@ -1790,6 +1790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f3&gt;&lt;f4&gt;Each named data series has its ranges and its individual Y-values listed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160626T123110Z" creationid="emanuelegiusti" creationdate="20160626T123110Z">
+        <seg>&lt;/f3&gt;&lt;f4&gt;Ogni serie di dati nominata ha le sue aree ed i suoi singoli valori Y elencati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f3&gt;&lt;f4&gt;The name of the range cannot contain any spaces.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T152732Z">
@@ -14282,6 +14290,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T170001Z">
         <seg>Se è definito solo un singolo intervallo, facendo clic in un qualsiasi punto della casella di testo viene visualizzata l'area di stampa selezionata sullo schermo, delimitato in blu, come mostrato in &lt;t0&gt;Figura 139&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If so, select &lt;f0&gt;Canoes&lt;/f0&gt; in the &lt;f1&gt;Data series&lt;/f1&gt; box and click on &lt;f2&gt;Remove&lt;/f2&gt;&lt;f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160626T123009Z" creationid="emanuelegiusti" creationdate="20160626T123009Z">
+        <seg>Se così, selezionate &lt;f0&gt;Canoe&lt;/f0&gt; nella finestra di dialogo &lt;f1&gt;Serie di dati&lt;/f1&gt; e fate clic su &lt;f2&gt;Rimuovi&lt;/f2&gt;&lt;f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27014,6 +27030,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160616T191840Z" creationid="briga" creationdate="20160616T191840Z">
         <seg>Questo è il nome dello stile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is useful if you have very specific requirements for data in your chart, as you can include or leave out these ranges.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160626T123153Z" creationid="emanuelegiusti" creationdate="20160626T123153Z">
+        <seg>Questo è utile se avete esigenze molto specifiche per i dati nel vostro grafico, visto che potete includere o lasciare fuori questi intervalli.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
