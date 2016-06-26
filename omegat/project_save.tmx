@@ -17431,6 +17431,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>MULTINOMIAL (number(s))</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T132654Z" creationid="Marco Marega" creationdate="20160626T132654Z">
+        <seg>MULTINOMINALE (numero/i)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mac equivalent</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084142Z">
@@ -26198,6 +26206,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T130836Z" creationid="Marco Marega" creationdate="20160626T130836Z">
         <seg>Il risultato è il minimo comune multiplo di una lista di numeri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The result is the nearest integer &lt;f0&gt;multiple&lt;/f0&gt; of the &lt;f1&gt;number&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T132606Z" creationid="Marco Marega" creationdate="20160626T132606Z">
+        <seg>Il risultato è l'intero multiplo di &lt;f0&gt;multiplo&lt;/f0&gt; più vicino al &lt;f1&gt;numero&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
