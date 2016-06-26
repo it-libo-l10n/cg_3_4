@@ -3614,6 +3614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;ISEVEN&lt;/f0&gt;(value)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T103842Z" creationid="Marco Marega" creationdate="20160626T103842Z">
+        <seg>&lt;f0&gt;VAL.PARI&lt;/f0&gt;(valore)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If the sheet is not protected, then &lt;/f0&gt;&lt;f1&gt;Prevent changes &lt;/f1&gt;&lt;f2&gt;does not have any effect, and all scenario properties can be changed.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T153224Z" creationid="michele" creationdate="20160531T153224Z">
@@ -20832,6 +20840,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns TRUE if the given &lt;f0&gt;value&lt;/f0&gt; is an even integer, or FALSE if the &lt;f1&gt;value&lt;/f1&gt; is odd.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T103937Z" creationid="Marco Marega" creationdate="20160626T103937Z">
+        <seg>Restituisce VERO se il &lt;f0&gt;valore&lt;/f0&gt; dato è un numero intero pari, oppure FALSO se il &lt;f1&gt;valore&lt;/f1&gt; è dispari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the absolute value of the given &lt;f0&gt;number&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T081536Z" creationid="Marco Marega" creationdate="20160625T081536Z">
@@ -21116,6 +21132,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084435Z">
         <seg>Rob Scott</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rounds the given &lt;f0&gt;number&lt;/f0&gt; down to the nearest integer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T103805Z" creationid="Marco Marega" creationdate="20160626T103805Z">
+        <seg>Arrotonda per difetto il &lt;f0&gt;numero&lt;/f0&gt; dato all'intero più vicino.</seg>
       </tuv>
     </tu>
     <tu>
