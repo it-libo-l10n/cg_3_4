@@ -4478,6 +4478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;We will click &lt;/f0&gt;&lt;f1&gt;Next&lt;/f1&gt;&lt;f2&gt; to see what we can do to our chart using the other pages of the Wizard.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160626T122453Z" creationid="emanuelegiusti" creationdate="20160626T122453Z">
+        <seg>&lt;f0&gt;Faremo clic &lt;/f0&gt;&lt;f1&gt;Successivo&lt;/f1&gt;&lt;f2&gt; per vedere cosa possiamo fare al nostro diagramma usando le altre pagine della Procedura guidata.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Where a sheet prints to more than one page of paper, it can be printed either by column, where the&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;first column of pages prints, and then the second column and so on, or by row as shown in the graphic on the top right of the dialog in &lt;/f3&gt;&lt;f4&gt;&lt;t5&gt;Figure 144&lt;/t5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T132521Z">
@@ -12370,6 +12378,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T083415Z" creationid="emanuelegiusti" creationdate="20160611T083415Z">
         <seg>Figura &lt;seq0&gt;76&lt;/seq0&gt;: Creazione guidata diagramma, Passo 1—Scegliere un tipo di diagramma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;77&lt;/seq0&gt;: Changing data ranges and axes labels</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160626T122520Z" creationid="emanuelegiusti" creationdate="20160626T122520Z">
+        <seg>Figura &lt;seq0&gt;77&lt;/seq0&gt;: Cambiare aree dati ed etichette assi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;78&lt;/seq0&gt;: Amending data series and ranges</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160626T122625Z" creationid="emanuelegiusti" creationdate="20160626T122625Z">
+        <seg>Figura &lt;seq0&gt;78&lt;/seq0&gt;: Correggere la serie e gli intervalli di dati</seg>
       </tuv>
     </tu>
     <tu>
@@ -22580,6 +22604,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T124501Z" creationid="michele" creationdate="20160525T124501Z">
         <seg>Selezionare&lt;is0/&gt; colonne e &lt;i1/&gt;righe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selecting &lt;is0/&gt;data series</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160626T122534Z" creationid="emanuelegiusti" creationdate="20160626T122534Z">
+        <seg>Selezionare &lt;is0/&gt;serie di dati</seg>
       </tuv>
     </tu>
     <tu>
