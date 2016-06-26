@@ -10134,6 +10134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Date values used as parameters for Calc’s financial functions must be entered in a specific manner.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T151022Z" creationid="Marco Marega" creationdate="20160626T151022Z">
+        <seg>I valori delle date utilizzare come parametri nelle funzioni finanziarie di Calc devono essere inserite in una maniera specifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Date – Only changes made in a certain time range are displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160425T120646Z" creationid="luciano" creationdate="20160425T120555Z">
@@ -12978,6 +12986,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163936Z" creationid="steevie" creationdate="20160428T163936Z">
         <seg>Ad esempio, &lt;f5&gt;Rinomina&lt;/f5&gt; ed &lt;f6&gt;Elimina&lt;/f6&gt; non sono disponibili per i menu forniti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, a date (entered in the US form) must be surrounded by quotes and with periods separating each value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T151254Z" creationid="Marco Marega" creationdate="20160626T151254Z">
+        <seg>Ad esempio, una data (inserita nel formato americano - US) deve essere tra virgolette e con dei punti per separare ciascun valore.</seg>
       </tuv>
     </tu>
     <tu>
