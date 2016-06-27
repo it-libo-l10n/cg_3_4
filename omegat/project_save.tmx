@@ -6006,6 +6006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After entering data, you can format and display it in various ways.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T160646Z" creationid="Elisabetta" creationdate="20160627T160646Z">
+        <seg>I dati inseriti possono essere formattati e visualizzati in vari modi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After making your keyboard shortcut assignments, click the &lt;f0&gt;Save&lt;/f0&gt; button on the Customize dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172449Z" creationid="steevie" creationdate="20160428T172449Z">
@@ -8806,6 +8814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click in the cell and type in the number using the number keys on either the main keyboard or the numeric keypad.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T161106Z" creationid="Elisabetta" creationdate="20160627T161106Z">
+        <seg>Selezionate la cella e digitate il numero servendovi dei tasti numerici situati nella parte superiore della tastiera o utilizzando il tastierino numerico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click in the cell which is to be one corner of the range of cells.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T123029Z" creationid="michele" creationdate="20160525T123029Z">
@@ -11138,6 +11154,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T083037Z" creationid="michele" creationdate="20160608T083037Z">
         <seg>Inserisci questa formula in B5: &lt;f1&gt;=B4*(B1-B2)-B3&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Entering &lt;i0/&gt;numbers</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T161027Z" creationid="Elisabetta" creationdate="20160627T161027Z">
+        <seg>Inserire &lt;i0/&gt;numeri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Entering data using the &lt;i0/&gt;&lt;is1/&gt;keyboard</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T160837Z" creationid="Elisabetta" creationdate="20160627T160837Z">
+        <seg>Inserire dati mediante &lt;i0/&gt;&lt;is1/&gt;tastiera</seg>
       </tuv>
     </tu>
     <tu>
@@ -18131,6 +18163,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160614T141540Z" creationid="luciano" creationdate="20160614T141540Z">
         <seg>Maggiori dettagli su registrazione delle macro sono fornite nel Capitolo 13, Introduzione a macro, nella &lt;f0&gt; Guida introduttiva &lt;/ f0&gt;; vi consigliamo di leggerle, se non l'avete già fatto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most data entry in Calc can be accomplished using the keyboard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T160858Z" creationid="Elisabetta" creationdate="20160627T160858Z">
+        <seg>La maggior parte dei dati può essere inserita in Calc tramite la tastiera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28666,6 +28706,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To enter a negative number, either type a minus (–) sign in front of it or enclose it in parentheses (brackets), like this: &lt;f0&gt;(1234)&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T161150Z" creationid="Elisabetta" creationdate="20160627T161150Z">
+        <seg>Per inserire un numero negativo, anteponete il segno meno (–) al numero oppure racchiudetelo tra parentesi come segue: &lt;f0&gt;(1234)&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To enter an interest rate as a decimal, divide it by 100 before entering it into a function.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T152246Z" creationid="Marco Marega" creationdate="20160626T152215Z">
@@ -33338,6 +33386,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>entering in spreadsheet cell</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T160957Z" creationid="Elisabetta" creationdate="20160627T160957Z">
+        <seg>inserire dati nelle celle del foglio elettronico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>export directly as PDF</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T140434Z" creationid="Luciano B." creationdate="20160325T164720Z">
@@ -33642,6 +33698,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>keyboard data entry</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T160742Z" creationid="Elisabetta" creationdate="20160627T160742Z">
+        <seg>inserire dati mediante tastiera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>keyboard keys</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T095620Z" creationid="michele" creationdate="20160525T095620Z">
@@ -33862,6 +33926,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160504T140959Z" creationid="luciano" creationdate="20160504T140959Z">
         <seg>navigazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>numbers</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T161004Z" creationid="Elisabetta" creationdate="20160627T161004Z">
+        <seg>numeri</seg>
       </tuv>
     </tu>
     <tu>
