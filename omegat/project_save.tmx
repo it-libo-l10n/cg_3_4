@@ -1846,6 +1846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;The selection of the apostrophe type affects both Calc and Writer.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T162631Z" creationid="Elisabetta" creationdate="20160627T162631Z">
+        <seg>&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;La scelta del tipo di virgolette interesserà Calc e Writer.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f8&gt;&lt;/f7&gt;Double-click on the required page style.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160509T075721Z" creationid="briga" creationdate="20160509T075721Z">
@@ -4518,6 +4526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;To choose this type of apostrophe, use &lt;/f0&gt;&lt;f1&gt;Tools &gt; AutoCorrect Options &gt; Localized Options&lt;/f1&gt;&lt;f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T162439Z" creationid="Elisabetta" creationdate="20160627T162439Z">
+        <seg>&lt;f0&gt;Per selezionare il tipo di virgolette, scegliete la voce &lt;/f0&gt;&lt;f1&gt;Strumenti &gt; Opzioni di correzione automatica &gt; Opzioni localizzate&lt;/f1&gt;&lt;f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;To define a print range, use the same procedure as labeling an area of the sheet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T151642Z">
@@ -4642,6 +4658,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160626T122453Z" creationid="emanuelegiusti" creationdate="20160626T122453Z">
         <seg>&lt;f0&gt;Faremo clic &lt;/f0&gt;&lt;f1&gt;Successivo&lt;/f1&gt;&lt;f2&gt; per vedere cosa possiamo fare al nostro diagramma usando le altre pagine della Procedura guidata.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;When a plain apostrophe is used to allow a leading 0 to be displayed, it is not visible in the cell after the &lt;/f0&gt;&lt;f1&gt;Enter&lt;/f1&gt;&lt;f2&gt; key is pressed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T162234Z" creationid="Elisabetta" creationdate="20160627T162234Z">
+        <seg>&lt;f0&gt;L'apostrofo anteposto per consentire la visualizzazione dello zero iniziale non sarà visibile nella cella, dopo aver premuto il tasto &lt;/f0&gt;&lt;f1&gt;Invio&lt;/f1&gt;&lt;f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15654,6 +15678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If “smart quotes” are used for apostrophes, the apostrophe remains visible in the cell.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T162330Z" creationid="Elisabetta" creationdate="20160627T162330Z">
+        <seg>Utilizzando le “virgolette curve” invece degli apici, l'apostrofo iniziale resterà visibile, all'interno della cella.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If, after you select the file, no sheets appear, you probably selected an invalid file type (not a spreadsheet, for example).&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T152111Z" creationid="antonio" creationdate="20160524T152111Z">
@@ -23052,6 +23084,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160524T131759Z" creationid="luciano" creationdate="20160524T131759Z">
         <seg>Selezionate la cella A3, che contiene il numero 3, e copiate il valore negli appunti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the &lt;/f2&gt;&lt;f3&gt;Replace&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; option for apostrophes to activate this function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T162537Z" creationid="Elisabetta" creationdate="20160627T162537Z">
+        <seg>Selezionate l'opzione &lt;/f2&gt;&lt;f3&gt;Sostituisci&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; per attivare la funzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31086,6 +31126,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160616T094219Z" creationid="luciano" creationdate="20160616T094219Z">
         <seg>Quando una macro viene chiamata come una funzione di Calc, la macro non può modificare qualsiasi valore nel foglio da cui la macro è stata chiamata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a number is formatted as text, take care that the cell containing the number is not used in a formula because Calc will ignore the value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T162705Z" creationid="Elisabetta" creationdate="20160627T162705Z">
+        <seg>Durante la formattazione di un numero come testo, verificate che la cella contenente il numero non sia utilizzata in una formula, nel qual caso il valore verrà ignorato.</seg>
       </tuv>
     </tu>
     <tu>
