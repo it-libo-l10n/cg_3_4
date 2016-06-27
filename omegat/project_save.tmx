@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Exception: see Tip below.)&lt;f1&gt; &lt;/f1&gt;To preserve the leading zero, for example for telephone area codes, type an apostrophe before the number, like this: &lt;f2&gt;'01481&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T161628Z" creationid="Elisabetta" creationdate="20160627T161628Z">
+        <seg>(Eccezione: vd. suggerimento seguente.)&lt;f1&gt; &lt;/f1&gt;Per mantenere lo zero iniziale, come nei prefissi telefonici, ad esempio, anteponete un apostrofo al numero come indicato: &lt;f2&gt;'01481&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(For example: &lt;/f5&gt;&lt;f6&gt;Alt+&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;→&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt; &lt;/f10&gt;&lt;/f9&gt;increases the width of a cell.&lt;f11&gt;)&lt;/f11&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T100556Z" creationid="michele" creationdate="20160525T100556Z">
@@ -7198,6 +7206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, numbers are right-aligned and negative numbers have a leading minus symbol.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T161219Z" creationid="Elisabetta" creationdate="20160627T161219Z">
+        <seg>Per impostazione predefinita, i numeri sono allineati a destra e quelli negativi sono preceduti dal segno meno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, the field will show the current location.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T134952Z" creationid="michele" creationdate="20160525T134952Z">
@@ -8818,6 +8834,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T161106Z" creationid="Elisabetta" creationdate="20160627T161106Z">
         <seg>Selezionate la cella e digitate il numero servendovi dei tasti numerici situati nella parte superiore della tastiera o utilizzando il tastierino numerico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click in the cell and type the text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T161334Z" creationid="Elisabetta" creationdate="20160627T161334Z">
+        <seg>Selezionate la cella e digitate il testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11162,6 +11186,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T161027Z" creationid="Elisabetta" creationdate="20160627T161027Z">
         <seg>Inserire &lt;i0/&gt;numeri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Entering &lt;i0/&gt;numbers as text</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T161424Z" creationid="Elisabetta" creationdate="20160627T161424Z">
+        <seg>Inserire &lt;i0/&gt;numeri come testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Entering &lt;i0/&gt;text</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T161318Z" creationid="Elisabetta" creationdate="20160627T161318Z">
+        <seg>Inserire &lt;i0/&gt;testo</seg>
       </tuv>
     </tu>
     <tu>
@@ -14522,6 +14562,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T095430Z" creationid="michele" creationdate="20160525T095430Z">
         <seg>Se un gruppo di celle viene selezionato, vengono generalmente evidenziate con un colore (di solito il grigio), con la cella selezionata che ha il bordo più scuro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a number is entered in the format &lt;f0&gt;01481&lt;/f0&gt;, Calc will drop the leading 0.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T161500Z" creationid="Elisabetta" creationdate="20160627T161500Z">
+        <seg>Inserendo un numero preceduto da 0, come, per es., &lt;f0&gt;01481&lt;/f0&gt;, lo zero verrà automaticamente eliminato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25169,6 +25217,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text is left-aligned by default.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T161348Z" creationid="Elisabetta" creationdate="20160627T161348Z">
+        <seg>Per impostazione predefinita il testo è allineato a sinistra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text overflow</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143121Z" creationid="steevie" creationdate="20160427T143121Z">
@@ -26013,6 +26069,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160424T135323Z" creationid="luciano" creationdate="20160424T135323Z">
         <seg>Il cursore si trasforma nel cursore lampeggiante di immissione testo, e le Barra di formattazione cambia per mostrare gli attributi di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The data is now treated as text and displayed exactly as entered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T161653Z" creationid="Elisabetta" creationdate="20160627T161653Z">
+        <seg>I dati verranno considerati come testo da Calc e visualizzati esattamente come inseriti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33938,6 +34002,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>numbers, data entry</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T161255Z" creationid="Elisabetta" creationdate="20160627T161255Z">
+        <seg>numeri, inserire dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>of sheets&lt;/f3&gt;&lt;f4&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T150659Z" creationid="antonio" creationdate="20160524T150659Z">
@@ -34502,6 +34574,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143116Z" creationid="steevie" creationdate="20160427T143116Z">
         <seg>Overflow di testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>text, data entry</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T161355Z" creationid="Elisabetta" creationdate="20160627T161355Z">
+        <seg>testo, inserire dati</seg>
       </tuv>
     </tu>
     <tu>
