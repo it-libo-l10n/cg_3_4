@@ -5926,6 +5926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adjust the &lt;/f1&gt;&lt;f2&gt;Leading zeros&lt;/f2&gt;&lt;f3&gt; setting to add leading zeros to numbers.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T162123Z" creationid="Elisabetta" creationdate="20160627T162123Z">
+        <seg>Modificate l'impostazione &lt;/f1&gt;&lt;f2&gt;Zero non significativo&lt;/f2&gt;&lt;f3&gt; per anteporre uno zero ai numeri.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Advanced filter properties.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160517T132514Z" creationid="steevie" creationdate="20160517T132514Z">
@@ -19056,6 +19064,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Numbers can have leading zeros and still be regarded as numbers (as opposed to text) if the cell is formatted appropriately.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T161907Z" creationid="Elisabetta" creationdate="20160627T161907Z">
+        <seg>I numeri possono, in ogni caso, presentare uno zero iniziale ed essere comunque considerati tali (e non come testo) con un'adeguata formattazione della cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ODD(number)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T132915Z" creationid="Marco Marega" creationdate="20160626T132915Z">
@@ -22148,6 +22164,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T085835Z" creationid="michele" creationdate="20160524T085835Z">
         <seg>Facendo clic con il tasto destro su una linguetta e selezionando &lt;/f0&gt;&lt;f1&gt;Colore scheda&lt;/f1&gt;&lt;f2&gt; dal menu&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;contestuale&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; apre una tavolozza di colori (vedi &lt;/f5&gt;&lt;f6&gt;&lt;t7&gt;Figura 11&lt;/t7&gt;&lt;/f6&gt;&lt;f8&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click on the cell and chose &lt;f0&gt;Format Cells &gt; Numbers&lt;/f0&gt;&lt;f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T162013Z" creationid="Elisabetta" creationdate="20160627T161955Z">
+        <seg>Fate clic con il pulsante secondario del mouse nella cella e scegliete &lt;f0&gt;Formatta celle &gt; Numeri&lt;/f0&gt;&lt;f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26075,8 +26099,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The data is now treated as text and displayed exactly as entered.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T161653Z" creationid="Elisabetta" creationdate="20160627T161653Z">
-        <seg>I dati verranno considerati come testo da Calc e visualizzati esattamente come inseriti.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T161736Z" creationid="Elisabetta" creationdate="20160627T161653Z">
+        <seg>I dati saranno formattati come testo e visualizzati esattamente come inseriti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28772,8 +28796,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>To enter a negative number, either type a minus (–) sign in front of it or enclose it in parentheses (brackets), like this: &lt;f0&gt;(1234)&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T161150Z" creationid="Elisabetta" creationdate="20160627T161150Z">
-        <seg>Per inserire un numero negativo, anteponete il segno meno (–) al numero oppure racchiudetelo tra parentesi come segue: &lt;f0&gt;(1234)&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T161706Z" creationid="Elisabetta" creationdate="20160627T161150Z">
+        <seg>Per inserire un numero negativo, anteponete il segno meno (–) al numero oppure racchiudetelo tra parentesi come indicato: &lt;f0&gt;(1234)&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29790,6 +29814,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T102716Z">
         <seg>Tipi di stile in Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Typically, formulas will treat the entry as a zero and functions will &lt;s0/&gt;ignore it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T161831Z" creationid="Elisabetta" creationdate="20160627T161831Z">
+        <seg>Generalmente la voce verrà interpretata come zero dalle formule e &lt;s0/&gt;ignorata dalle funzioni.</seg>
       </tuv>
     </tu>
     <tu>
