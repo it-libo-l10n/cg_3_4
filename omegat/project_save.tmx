@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_0_r8270:8272" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5318,6 +5318,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A - B (A, space, hyphen, space, B)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T171320Z" creationid="Elisabetta" creationdate="20160628T171320Z">
+        <seg>A - B (A, spazio, trattino, spazio, B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A -- B (A, space, hyphen, hyphen, space, B)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T171448Z" creationid="Elisabetta" creationdate="20160628T171448Z">
+        <seg>A -- B (A, spazio, trattino, trattino, spazio, B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A &lt;f0&gt;dialog&lt;/f0&gt; is a special type of window.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084325Z">
@@ -5698,6 +5714,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T150759Z" creationid="steevie" creationdate="20160503T150734Z">
         <seg>Una tabella è composta da uno o più record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A – B (A, space, en-dash, space, B)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T171421Z" creationid="Elisabetta" creationdate="20160628T171421Z">
+        <seg>A – B (A, spazio, lineetta enne, spazio, B)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16607,6 +16631,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the following table, the A and B represent text consisting of letters A to Z or digits 0 to 9.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T171215Z" creationid="Elisabetta" creationdate="20160628T171215Z">
+        <seg>Nella tabella seguente le lettere A e B rappresentano testo costituito da caratteri alfanumerici compresi negli intervalli: A-Z o 0-9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the page preview it moves to the next print page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160504T161430Z" creationid="luciano" creationdate="20160504T161430Z">
@@ -21762,8 +21794,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Result</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153606Z" creationid="steevie" creationdate="20160620T153606Z">
-        <seg>Risultato</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T171237Z" creationid="steevie" creationdate="20160620T153606Z">
+        <seg>Risultato:</seg>
       </tuv>
     </tu>
     <tu>
@@ -25425,6 +25457,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text that you type:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T171230Z" creationid="Elisabetta" creationdate="20160628T171230Z">
+        <seg>Testo inserito:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;/f2&gt;&lt;f3&gt;Keyboard&lt;/f3&gt;&lt;f4&gt; page of the Customize dialog opens.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170648Z" creationid="steevie" creationdate="20160428T170648Z">
@@ -28362,6 +28402,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This option replaces two hyphens, under certain conditions, with the corresponding dash.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T171119Z" creationid="Elisabetta" creationdate="20160628T171119Z">
+        <seg>Questa opzione, in determinate condizioni, sostituisce due trattini con la corrispondente lineetta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This option will only reduce a printout; it will not enlarge it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T164652Z">
@@ -28972,8 +29020,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>To enter &lt;i0/&gt;en and em &lt;i1/&gt;dashes, you can use the &lt;f2&gt;Replace dashes&lt;/f2&gt; option under &lt;f3&gt;Tools &gt; AutoCorrect Options &gt; Options&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;tab&lt;/f7&gt;&lt;/f6&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T165010Z" creationid="Elisabetta" creationdate="20160627T165010Z">
-        <seg>Per inserire &lt;i0/&gt;lineette enne ed emme&lt;i1/&gt;, selezionate l'opzione &lt;f2&gt;Sostituisci trattini&lt;/f2&gt; scegliendo la voce &lt;f3&gt;Strumenti &gt; Opzioni di correzione automatica &gt; scheda Opzioni.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T171025Z" creationid="Elisabetta" creationdate="20160627T165010Z">
+        <seg>Per inserire &lt;i0/&gt;lineette enne ed emme&lt;i1/&gt;, selezionate l'opzione &lt;f2&gt;Sostituisci trattini&lt;/f2&gt; scegliendo la voce &lt;f3&gt;Strumenti &gt; Opzioni di correzione automatica&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &gt; scheda Opzioni&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;. </seg>
       </tuv>
     </tu>
     <tu>
