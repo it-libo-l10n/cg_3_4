@@ -8912,8 +8912,8 @@
       <tuv lang="EN">
         <seg>Click &lt;f0&gt;New&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165532Z" creationid="steevie" creationdate="20160428T165532Z">
-        <seg>Fate clic su &lt;f0&gt;Nuovo&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T175537Z" creationid="steevie" creationdate="20160428T165532Z">
+        <seg>Fate clic sul pulsante &lt;f0&gt;Nuovo&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13098,6 +13098,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T174529Z" creationid="Elisabetta" creationdate="20160628T174529Z">
         <seg>Figura &lt;seq0&gt;117&lt;/seq0&gt;: il risultato della selezione relativo alla serie di riempimento visibile nella figura &lt;t1&gt;40&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;42&lt;/seq0&gt;: Predefined fill series</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T175451Z" creationid="Elisabetta" creationdate="20160628T175451Z">
+        <seg>Figura &lt;seq0&gt;42&lt;/seq0&gt;: serie di riempimento predefinite</seg>
       </tuv>
     </tu>
     <tu>
@@ -25833,6 +25841,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f1&gt;Entries&lt;/f1&gt; box is cleared.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T175605Z" creationid="Elisabetta" creationdate="20160628T175605Z">
+        <seg>Il contenuto della casella &lt;f1&gt;Voci&lt;/f1&gt; viene eliminato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f1&gt;LibreOffice&lt;/f1&gt; Basic Macros dialog opens.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160524T144120Z" creationid="luciano" creationdate="20160524T144120Z">
@@ -28362,6 +28378,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This dialog shows the previously-defined series in the &lt;f13&gt;Lists&lt;/f13&gt; box on the left, and the contents of the highlighted list in the &lt;f14&gt;Entries&lt;/f14&gt; box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T175425Z" creationid="Elisabetta" creationdate="20160628T175425Z">
+        <seg>Questa finestra di dialogo visualizza le serie definite in precedenza all'interno della casella &lt;f13&gt;Elenchi&lt;/f13&gt; sulla sinistra e il contenuto dell'elenco selezionato all'interno della casella &lt;f14&gt;Voci&lt;/f14&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This document is Copyright &lt;f0&gt;©&lt;/f0&gt; 2012 by its contributors as listed below.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20160129T124230Z">
@@ -29182,6 +29206,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160315T172838Z">
         <seg>Per definire una nuova area di stampa o modificarne una esistente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To define your own fill series, go to &lt;f0&gt;Tools &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Options &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;LibreOffice&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; Calc &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; Sort Lists&lt;/f12&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T175311Z" creationid="Elisabetta" creationdate="20160628T175311Z">
+        <seg>Per definire una serie di riempimento personalizzata, scegliere la voce &lt;f0&gt;Strumenti &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Opzioni &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;LibreOffice&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; Calc &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; Ordina elenchi&lt;/f12&gt;.</seg>
       </tuv>
     </tu>
     <tu>
