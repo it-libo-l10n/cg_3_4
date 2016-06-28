@@ -7006,10 +7006,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>AutoInput</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T172510Z" creationid="Elisabetta" creationdate="20160628T172510Z">
+        <seg>Digitazione automatica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Autoformatting cells and sheets</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T101326Z">
         <seg>Formattazione automatica di celle e fogli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Automatic correction of &lt;i0/&gt;typing errors, replacement of straight quotation marks by curly (custom) quotes, and starting cell content with an uppercase (capital) letter are controlled by &lt;f1&gt;Tools &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; AutoCorrect Options&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T172310Z" creationid="Elisabetta" creationdate="20160628T172310Z">
+        <seg>La correzione automatica degli &lt;i0/&gt;errori di digitazione, la sostituzione delle virgolette semplici con le virgolette tipografiche e le maiuscole iniziali del testo contenuto della cella sono controllati tramite la voce &lt;f1&gt;Strumenti &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Opzioni di correzione automatica&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14150,6 +14166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to the &lt;f5&gt;Options&lt;/f5&gt; or &lt;f6&gt;Replace&lt;/f6&gt; tabs to deactivate any of the features that you do not want.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T172416Z" creationid="Elisabetta" creationdate="20160628T172416Z">
+        <seg>Scegliete le schede &lt;f5&gt;Opzioni&lt;/f5&gt; o &lt;f6&gt;Sostituisci&lt;/f6&gt; per disattivare le caratteristiche non richieste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Goal Seek example</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T125517Z" creationid="michele" creationdate="20160608T125517Z">
@@ -19532,6 +19556,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T162723Z" creationid="Luciano B." creationdate="20160329T162723Z">
         <seg>Nella scheda &lt;f4&gt;General&lt;/f4&gt;, deselezionate &lt;f5&gt;Usa i dati utente&lt;/f5&gt; e quindi fate clicsul pulsante &lt;f6&gt;Ripristina&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the &lt;f7&gt;Replace&lt;/f7&gt; tab, you can also delete unwanted word pairs and add new ones as required.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T172504Z" creationid="Elisabetta" creationdate="20160628T172504Z">
+        <seg>Nella scheda &lt;f7&gt;Sostituisci&lt;/f7&gt; potete anche eliminare coppie di parole e aggiungerne di nuove secondo la vostra necessità.</seg>
       </tuv>
     </tu>
     <tu>
