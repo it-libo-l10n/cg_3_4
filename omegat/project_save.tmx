@@ -5334,6 +5334,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A --B (A, space, hyphen, hyphen, B)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T171711Z" creationid="Elisabetta" creationdate="20160628T171711Z">
+        <seg>A --B (A, spazio, trattino, trattino, B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A -B (A, space, hyphen, B)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T171644Z" creationid="Elisabetta" creationdate="20160628T171644Z">
+        <seg>A -B (A, spazio, trattino, B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A -B (unchanged)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T171652Z" creationid="Elisabetta" creationdate="20160628T171652Z">
+        <seg>A -B (invariato)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A &lt;f0&gt;dialog&lt;/f0&gt; is a special type of window.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084325Z">
@@ -5726,10 +5750,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A –B (A, space, en-dash, B)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T171730Z" creationid="Elisabetta" creationdate="20160628T171730Z">
+        <seg>A –B (A, spazio, lineetta enne, B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A “special” character is one not found on a standard English keyboard.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T163152Z" creationid="Elisabetta" creationdate="20160627T163152Z">
         <seg>Un carattere assente dalla tastiera standard italiana rappresenta un carattere “speciale”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A--B (A, hyphen, hyphen, B)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T171525Z" creationid="Elisabetta" creationdate="20160628T171525Z">
+        <seg>A--B (A, trattino, trattino, B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A-B (A, hyphen, B)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T171603Z" creationid="Elisabetta" creationdate="20160628T171603Z">
+        <seg>A-B (A, trattino, B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A-B (unchanged)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T171626Z" creationid="Elisabetta" creationdate="20160628T171626Z">
+        <seg>A-B (invariato)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6942,6 +6998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>AutoCorrect changes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T171920Z" creationid="Elisabetta" creationdate="20160628T171920Z">
+        <seg>Modifiche di correzione automatica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Autoformatting cells and sheets</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T101326Z">
@@ -6970,6 +7034,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T151617Z" creationid="steevie" creationdate="20160503T151617Z">
         <seg>Media</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A—B (A, em-dash, B)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T171545Z" creationid="Elisabetta" creationdate="20160628T171545Z">
+        <seg>A—B (A, lineetta emme, B)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7442,6 +7514,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160206T083059Z">
         <seg>Usare Calc come un semplice database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calc automatically applies many changes during data input, unless you deactivate those changes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T171836Z" creationid="Elisabetta" creationdate="20160628T171836Z">
+        <seg>Vengono applicate automaticamente diverse modifiche durante l'inserimento dei dati, a meno che non decidiate di disattivarle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10378,6 +10458,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160425T120646Z" creationid="luciano" creationdate="20160425T120555Z">
         <seg>Data - Sono visualizzate solo le modifiche apportate in un certo intervallo di tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Deactivating &lt;i0/&gt;automatic changes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T171759Z" creationid="Elisabetta" creationdate="20160628T171759Z">
+        <seg>Disattivare le &lt;i0/&gt;modifiche automatiche</seg>
       </tuv>
     </tu>
     <tu>
@@ -32210,6 +32298,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also immediately undo any automatic changes with &lt;f0&gt;Ctrl+Z&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T171901Z" creationid="Elisabetta" creationdate="20160628T171901Z">
+        <seg>Potete anche annullare immediatamente qualsiasi modifica automatica premendo i tasti &lt;f0&gt;Ctrl+Z&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also make formula arrays easier to work with if you apply some simple design logic.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160601T145349Z" creationid="michele" creationdate="20160601T145349Z">
@@ -33342,6 +33438,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160510T141947Z" creationid="steevie" creationdate="20160510T141947Z">
         <seg>filtri automatici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>automatic changes, deactivating</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T171745Z" creationid="Elisabetta" creationdate="20160628T171745Z">
+        <seg>modifiche automatiche, disattivare</seg>
       </tuv>
     </tu>
     <tu>
