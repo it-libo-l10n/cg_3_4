@@ -7030,6 +7030,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatic date conversion</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T172728Z" creationid="Elisabetta" creationdate="20160628T172728Z">
+        <seg>Conversione automatica della data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automatically find column and row labels</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T150737Z" creationid="steevie" creationdate="20160428T150737Z">
@@ -7538,6 +7546,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T171836Z" creationid="Elisabetta" creationdate="20160628T171836Z">
         <seg>Vengono applicate automaticamente diverse modifiche durante l'inserimento dei dati, a meno che non decidiate di disattivarle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calc automatically converts certain entries to dates.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T172747Z" creationid="Elisabetta" creationdate="20160628T172747Z">
+        <seg>Alcune voci vengono automaticamente convertite in date.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11442,6 +11458,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T161318Z" creationid="Elisabetta" creationdate="20160627T161318Z">
         <seg>Inserire &lt;i0/&gt;testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Entering data into a spreadsheet can be very labor-intensive, but Calc provides several tools for removing some of the drudgery from input.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T172942Z" creationid="Elisabetta" creationdate="20160628T172942Z">
+        <seg>L'inserimento dei dati in un foglio elettronico si può rivelare un procedimento impegnativo, ma vengono forniti diversi strumenti per semplificarne la gestione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18267,6 +18291,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160429T150540Z" creationid="emanuelegiusti" creationdate="20160429T150540Z">
         <seg>Molte di queste opzioni consentono di presentare le informazioni nella maniera migliore più chiara.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Many people also find AutoInput helpful.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T173027Z" creationid="Elisabetta" creationdate="20160628T173027Z">
+        <seg>Molti utenti trovano utile la funzione di Digitazione automatica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26145,6 +26177,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The apostrophe is not displayed in the cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T172840Z" creationid="Elisabetta" creationdate="20160628T172840Z">
+        <seg>L'apostrofo non sarà visibile nella cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The argument &lt;f0&gt;x&lt;/f0&gt; is optional.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160615T152703Z" creationid="luciano" creationdate="20160615T152703Z">
@@ -26998,6 +27038,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160615T155124Z" creationid="luciano" creationdate="20160615T155124Z">
         <seg>Più cose controllate, più solida è la macro, e più lentamente viene eseguita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The most basic ability is to drop and drag the contents of one cell to another with a mouse.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T173009Z" creationid="Elisabetta" creationdate="20160628T173009Z">
+        <seg>La soluzione più semplice è quella di trascinare dati da una cella all'altra con il mouse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29138,6 +29186,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To ensure that an entry that looks like a date is interpreted as text, type an apostrophe at the beginning of the entry.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T172820Z" creationid="Elisabetta" creationdate="20160628T172820Z">
+        <seg>Per essere certi che una voce simile a una data venga interpretata come testo, anteponete un apostrofo alla voce inserita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To enter &lt;i0/&gt;en and em &lt;i1/&gt;dashes, you can use the &lt;f2&gt;Replace dashes&lt;/f2&gt; option under &lt;f3&gt;Tools &gt; AutoCorrect Options &gt; Options&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;tab&lt;/f7&gt;&lt;/f6&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T171025Z" creationid="Elisabetta" creationdate="20160627T165010Z">
@@ -29910,6 +29966,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T130605Z" creationid="michele" creationdate="20160531T130605Z">
         <seg>per rimuovere la struttura, seleziona &lt;f0&gt;Dati &gt; Raggruppa e struttura &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Rimuovi&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt; dalla barra dei Menu&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt; Seleziona &lt;f6&gt;Struttura Automatica&lt;/f6&gt; per ristabilire la struttura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To turn the AutoInput on and off, set or remove the check mark in front of &lt;f0&gt;Tools &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Cell Contents &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; AutoInput&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T172706Z" creationid="Elisabetta" creationdate="20160628T172706Z">
+        <seg>Per attivare e disattivare la Digitazione automatica, inserite o eliminate il segno di spunta dalla voce &lt;f0&gt;Strumenti &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Contenuti Celle &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Digitazione automatica&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31654,6 +31718,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T135151Z" creationid="michele" creationdate="20160525T135151Z">
         <seg>Ultimate le operazioni, fate clic su &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you are typing in a cell, Calc automatically suggests matching input found in the same column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T172604Z" creationid="Elisabetta" creationdate="20160628T172604Z">
+        <seg>Quando digitate in una cella, viene automaticamente suggerita l'occorrenza corrispondente riscontrata nella medesima colonna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33714,6 +33786,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>data entry</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T172901Z" creationid="Elisabetta" creationdate="20160628T172901Z">
+        <seg>inserimento dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>data select</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T154457Z" creationid="steevie" creationdate="20160428T154457Z">
@@ -33742,6 +33822,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T145945Z" creationid="steevie" creationdate="20160509T145929Z">
         <seg>area database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>date conversion, automatic</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T172723Z" creationid="Elisabetta" creationdate="20160628T172723Z">
+        <seg>conversione data, automatica</seg>
       </tuv>
     </tu>
     <tu>
@@ -34942,6 +35030,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T163051Z" creationid="Elisabetta" creationdate="20160627T163051Z">
         <seg>caratteri speciali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>speeding up</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T172843Z" creationid="Elisabetta" creationdate="20160628T172843Z">
+        <seg>velocizzare</seg>
       </tuv>
     </tu>
     <tu>
