@@ -10622,6 +10622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Defining a fill series</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T174915Z" creationid="Elisabetta" creationdate="20160628T174915Z">
+        <seg>Definire una serie di riempimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Defining a print range</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160315T172826Z">
@@ -13566,6 +13574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if you entered start and end values of 1 and 7 with an increment of 2, you would get the sequence of 1, 3, 5, 7.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T174729Z" creationid="Elisabetta" creationdate="20160628T174729Z">
+        <seg>Ad esempio, inserendo 1 come valore iniziale e 7 come valore finale con un incremento di 2, si otterrà la sequenza 1, 3, 5, 7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if you set the column break while you are in H15, you can not remove it if you are in cell D15.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T155420Z">
@@ -16362,6 +16378,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T080509Z">
         <seg>Inoltre, è possibile scegliere di attivare l'identificazione degli strumenti, i suggerimenti attivi e l'Assistente di aiuto (da &lt;f2&gt;Strumenti &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; Opzioni &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; LibreOffice &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; Generale&lt;/f11&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In all these cases, the Fill tool creates only a momentary connection between the cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T174758Z" creationid="Elisabetta" creationdate="20160628T174758Z">
+        <seg>In tutti questi casi lo strumento Riempimento crea un collegamento soltanto temporaneo tra le celle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19908,6 +19932,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T123025Z" creationid="michele" creationdate="20160525T123025Z">
         <seg>Dopo aver evidenziato il blocco di celle desiderato, rilasciate il pulsante sinistro del mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once they are filled, the cells have no further connection with one another.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T174838Z" creationid="Elisabetta" creationdate="20160628T174838Z">
+        <seg>Una volta compilate, le celle non presenteranno più collegamenti tra loro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32642,6 +32674,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also use &lt;f0&gt;Edit &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Fill &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Series&lt;/f6&gt; to create a one-time fill series for numbers by entering the start and end values and the increment.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T174707Z" creationid="Elisabetta" creationdate="20160628T174707Z">
+        <seg>Alternativamente potete scegliere la voce &lt;f0&gt;Modifica &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Compila &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Serie&lt;/f6&gt; anche per creare rapidamente una serie di numeri inserendo il valore iniziale, quello finale e l'incremento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can always enter the cells or range manually, but in many cases it is easier to select the cells with the mouse.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160526T075601Z" creationid="michele" creationdate="20160526T075601Z">
@@ -33998,6 +34038,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T162745Z" creationid="Elisabetta" creationdate="20160627T162745Z">
         <seg>data e ora, inserire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>defining</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T174846Z" creationid="Elisabetta" creationdate="20160628T174846Z">
+        <seg>definire</seg>
       </tuv>
     </tu>
     <tu>
