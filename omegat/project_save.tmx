@@ -6934,6 +6934,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At its simplest, the Fill tool is a way to duplicate existing content.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T173225Z" creationid="Elisabetta" creationdate="20160628T173225Z">
+        <seg>Essenzialmente, lo strumento Riempimento è un mezzo per duplicare contenuti esistenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At the bottom of the grid of cells are the &lt;is0/&gt;sheet tabs&lt;ie1/&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T084550Z" creationid="michele" creationdate="20160524T084550Z">
@@ -7522,6 +7530,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T154133Z" creationid="Luciano B." creationdate="20160329T154133Z">
         <seg>Calc permette inoltre l'inserimento di collegamenti direttamente nel foglio elettronico usando la finestra di dialogo Collegamento ipertestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calc also includes several other tools for automating input, especially of repetitive material.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T173059Z" creationid="Elisabetta" creationdate="20160628T173059Z">
+        <seg>Diversi altri strumenti consentono di automatizzare il processo di inserimento, con riferimento particolare alla gestione di dati ripetitivi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8434,6 +8450,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T101336Z" creationid="michele" creationdate="20160525T101336Z">
         <seg>Le scelte disponibili potrebbero essere limitate a specifici tipi di dati, a seconda della selezione nella colonna Tipo; ad esempio, se la selezione Tipo è Data, il Valore di tale proprietà è limitato alla data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choices that are not available are grayed out, but you can still choose the opposite direction from what you intend, which could cause you to overwrite cells accidentally.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T173531Z" creationid="Elisabetta" creationdate="20160628T173531Z">
+        <seg>Le scelte non disponibili compaiono in grigio, ma è comunque possibile scegliere la direzione opposta a quella desiderata, e questo può causare la sovrascrittura accidentale di alcune celle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25160,6 +25184,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Start by selecting the cell to copy, then drag the mouse in any direction (or hold down the Shift key and click in the last cell you want to fill), and then choose &lt;f0&gt;Edit &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Fill&lt;/f3&gt; and the direction in which you want to copy: Up, Down, Left or Right.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T173450Z" creationid="Elisabetta" creationdate="20160628T173450Z">
+        <seg>Selezionate la cella da copiare, poi trascinatela nella direzione desiderata tenendo premuto il pulsante del mouse (oppure fate clic sull'ultima cella da compilare tenendo premuto il tasto Maiusc), quindi selezionate la voce &lt;f0&gt;Modifica &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Compila&lt;/f3&gt; e la direzione nella quale copiarla: verso l'alto, il basso, a sinistra oppure a destra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Starting a new document from a template</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T104419Z" creationid="michele" creationdate="20160524T104419Z">
@@ -27966,6 +27998,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160213T105131Z">
         <seg>Questi utenti sono abituati a redigere documenti considerandone le caratteristiche &lt;f0&gt;fisiche&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They include the Fill tool, selection lists, and the ability to input information into multiple sheets of the same document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T173115Z" creationid="Elisabetta" creationdate="20160628T173115Z">
+        <seg>Tra questi figurano lo strumento Riempimento, le liste di selezione, e la possibilità di inserire dati in più fogli dello stesso documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31006,6 +31046,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160505T080059Z" creationid="briga" creationdate="20160505T075932Z">
         <seg>Usando l'elenco &lt;is0/&gt;Applica stile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the &lt;is0/&gt;Fill tool&lt;ie1/&gt; on cells</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T173202Z" creationid="Elisabetta" creationdate="20160628T173202Z">
+        <seg>Utilizzare lo &lt;is0/&gt;strumento Riempimento&lt;ie1/&gt; sulle celle</seg>
       </tuv>
     </tu>
     <tu>
