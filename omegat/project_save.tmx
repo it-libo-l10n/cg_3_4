@@ -5582,6 +5582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A more complex use of the Fill tool is to use a fill series.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T173909Z" creationid="Elisabetta" creationdate="20160628T173909Z">
+        <seg>Un uso più complesso dello strumento Riempimento consiste nella serie di riempimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A more comprehensive solution is to create subtotals using &lt;f0&gt;Data &gt; Subtotals&lt;/f0&gt; from the Menu bar, which opens the Subtotals dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160530T143955Z" creationid="michele" creationdate="20160530T143955Z">
@@ -5682,6 +5690,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165933Z" creationid="Luciano B." creationdate="20160325T165933Z">
         <seg>L'impostazione del 90% è adatta a fotografie (file di piccole dimensioni, perdita di qualità appena percettibile).&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A shortcut way to fill cells is to grab the “handle” in the lower right-hand corner of the cell and drag it in the direction you want to fill.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T173647Z" creationid="Elisabetta" creationdate="20160628T173647Z">
+        <seg>Un metodo più rapido per compilare le celle consiste nel posizionare il puntatore sulla "maniglia di riempimento" (quadratino) nell'angolo inferiore destro della cella e trascinarla nella direzione delle celle da compilare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13054,6 +13070,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;39&lt;/seq0&gt;: Using the Fill tool</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T173804Z" creationid="Elisabetta" creationdate="20160628T173804Z">
+        <seg>Figura &lt;seq0&gt;39&lt;/seq0&gt;: utilizzare lo strumento Riempimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Example of a tear-off toolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T133818Z" creationid="michele" creationdate="20160414T133818Z">
@@ -15138,6 +15162,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T125216Z" creationid="steevie" creationdate="20160421T125216Z">
         <seg>Se la finestra Opzioni non è aperta, fate clic su &lt;f0&gt;Strumenti &gt; Opzioni&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the cell contains a number, the number will fill in series.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T173703Z" creationid="Elisabetta" creationdate="20160628T173703Z">
+        <seg>Se la cella contiene un numero verrà creata una serie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the cell contains text, the same text will fill in the direction you chose.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T173746Z" creationid="Elisabetta" creationdate="20160628T173746Z">
+        <seg>Se la cella contiene testo verrà copiato nella direzione prescelta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26513,6 +26553,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The default lists are for the full and abbreviated days of the week and the months of the year, but you can create your own lists as well.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T174009Z" creationid="Elisabetta" creationdate="20160628T174009Z">
+        <seg>Gli elenchi predefiniti comprendono i giorni della settimana e i mesi in forma estesa e abbreviata, ma si possono anche creare elenchi personalizzati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The default name for the a new sheet is &lt;f0&gt;Sheet&lt;/f0&gt;&lt;f1&gt;X&lt;/f1&gt;&lt;f2&gt;,&lt;/f2&gt; where &lt;f3&gt;X&lt;/f3&gt; is a number.&lt;f4&gt; &lt;/f4&gt;While this works for a small spreadsheet with only a few sheets, it becomes awkward when there are many sheets.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T140631Z" creationid="michele" creationdate="20160525T140631Z">
@@ -30938,6 +30986,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using a &lt;i0/&gt;fill series</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T173842Z" creationid="Elisabetta" creationdate="20160628T173842Z">
+        <seg>Utilizzare una &lt;i0/&gt;serie di riempimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using a cell reference</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T091701Z" creationid="michele" creationdate="20160525T091701Z">
@@ -34086,6 +34142,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T154903Z" creationid="steevie" creationdate="20160428T154757Z">
         <seg>compila verso il basso – completa il contenuto delle celle in basso all'interno della selezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>fill series</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T173828Z" creationid="Elisabetta" creationdate="20160628T173828Z">
+        <seg>serie di riempimento</seg>
       </tuv>
     </tu>
     <tu>
