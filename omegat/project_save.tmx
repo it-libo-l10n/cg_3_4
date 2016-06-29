@@ -4494,6 +4494,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The data alone can be removed from a cell without removing any of the formatting of the cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T100110Z" creationid="Elisabetta" creationdate="20160629T100110Z">
+        <seg>&lt;f0&gt; È possibile eliminare esclusivamente i dati da una cella conservandone la formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The data and the formatting can be removed from a cell at the same time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T100334Z" creationid="Elisabetta" creationdate="20160629T100334Z">
+        <seg>&lt;f0&gt;È possibile eliminare simultaneamente i dati e la formattazione di una cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The filter created in &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Listing 17&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt; filters the data in place.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125935Z" creationid="steevie" creationdate="20160517T125935Z">
@@ -9142,6 +9158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click in the cell to select it, and then press the &lt;/f0&gt;&lt;f1&gt;Delete&lt;/f1&gt;&lt;f2&gt; key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T100137Z" creationid="Elisabetta" creationdate="20160629T100137Z">
+        <seg>Fate clic nella cella per selezionarla, quindi premete il tasto &lt;/f0&gt;&lt;f1&gt;Canc&lt;/f1&gt;&lt;f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click in the cell which is to be one corner of the range of cells.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T123029Z" creationid="michele" creationdate="20160525T123029Z">
@@ -10490,6 +10514,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095625Z">
         <seg>Analisi dei dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Data can be removed (deleted) from a cell in several ways.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T100014Z" creationid="Elisabetta" creationdate="20160629T100014Z">
+        <seg>I dati possono essere eliminati da una cella in diversi modi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16306,6 +16338,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095441Z">
         <seg>Nota importante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In &lt;/f2&gt;&lt;f3&gt;OpenOffice.org legacy&lt;/f3&gt;&lt;f4&gt; mode, press the &lt;/f4&gt;&lt;f5&gt;Backspace&lt;/f5&gt;&lt;f6&gt; key.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T100239Z" creationid="Elisabetta" creationdate="20160629T100239Z">
+        <seg>Nella modalità &lt;/f2&gt;&lt;f3&gt;Retrocompatibilità OpenOffice.org&lt;/f3&gt;&lt;f4&gt; premete il tasto &lt;/f4&gt;&lt;f5&gt;Backspace.&lt;/f5&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22164,6 +22204,30 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T150654Z" creationid="luciano" creationdate="20160509T150634Z">
         <seg>Rimuove il campo attivo dall'area.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Removing data and formatting</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T100259Z" creationid="Elisabetta" creationdate="20160629T100259Z">
+        <seg>Eliminare dati e formattazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Removing data from a cell</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T095955Z" creationid="Elisabetta" creationdate="20160629T095955Z">
+        <seg>Eliminare i dati da una cella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Removing data only</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T100034Z" creationid="Elisabetta" creationdate="20160629T100034Z">
+        <seg>Eliminare solo i dati</seg>
       </tuv>
     </tu>
     <tu>
