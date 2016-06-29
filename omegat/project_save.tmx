@@ -7206,6 +7206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Be sure to write something helpful, explaining what a valid entry should contain—not just “Invalid data—try again” or something similar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T095626Z" creationid="Elisabetta" creationdate="20160629T095626Z">
+        <seg>Assicuratevi che il testo del messaggio sia realmente informativo riguardo a ciò che una voce dovrebbe contenere per essere considerata valida e che non si limiti a una sbrigativa indicazione di non validità dei dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Because a copy is returned, it is not possible to set the individual values directly.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160517T134523Z" creationid="steevie" creationdate="20160517T134414Z">
@@ -11272,8 +11280,16 @@
       <tuv lang="EN">
         <seg>Editing data</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160130T212258Z">
-        <seg>Modifica dei dati</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T095818Z">
+        <seg>Modificare i dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editing data is done is in much the same way as entering it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T095840Z" creationid="Elisabetta" creationdate="20160629T095840Z">
+        <seg>La modifica dei dati è praticamente simile alla procedura del loro inserimento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13170,6 +13186,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T091740Z" creationid="Elisabetta" creationdate="20160629T091740Z">
         <seg>Figura &lt;seq0&gt;45&lt;/seq0&gt;: criteri di validità per un intervallo di celle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;46&lt;/seq0&gt;: Defining input help for a cell</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T095729Z" creationid="Elisabetta" creationdate="20160629T095729Z">
+        <seg>Figura &lt;seq0&gt;46&lt;/seq0&gt;: definire un suggerimento per la digitazione in una cella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;47&lt;/seq0&gt;: Defining an error message for a cell with invalid data</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T095806Z" creationid="Elisabetta" creationdate="20160629T095806Z">
+        <seg>Figura &lt;seq0&gt;47&lt;/seq0&gt;: definire un messaggio di errore per una cella contenente dati non validi</seg>
       </tuv>
     </tu>
     <tu>
@@ -27050,6 +27082,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The first step is to select the cell containing the data to be edited.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T095859Z" creationid="Elisabetta" creationdate="20160629T095859Z">
+        <seg>Il primo passo consiste nel selezionare la cella contenente i dati da modificare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first tier of choice is for two-dimensional (2D) charts.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T084513Z" creationid="emanuelegiusti" creationdate="20160611T084513Z">
@@ -30222,6 +30262,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160510T135856Z" creationid="steevie" creationdate="20160510T135856Z">
         <seg>Per indicare le vostre liste predefinite, potete usare &lt;f1&gt;Strumenti &gt; Opzioni &gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;LibreOffice&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Calc &gt; Ordina elenchi&lt;/f4&gt;, quindi indicare le vostre liste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To show an error message when an invalid value is entered, use the Error Alert page (Figure &lt;t2&gt;47&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T095602Z" creationid="Elisabetta" creationdate="20160629T095602Z">
+        <seg>Per visualizzare un messaggio di errore all'inserimento di un valore non valido, scegliete la scheda Messaggio di errore (Figura &lt;t2&gt;47&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -34466,6 +34514,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>editing data</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T095919Z" creationid="Elisabetta" creationdate="20160629T095919Z">
+        <seg>modifica dei dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>embed standard fonts</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T154356Z" creationid="Luciano B." creationdate="20160326T154356Z">
@@ -35294,6 +35350,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T122228Z" creationid="steevie" creationdate="20160421T122216Z">
         <seg>rimuovi le informazioni personali al salvataggio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>removing data from a cell</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T095915Z" creationid="Elisabetta" creationdate="20160629T095915Z">
+        <seg>eliminare dati da una cella</seg>
       </tuv>
     </tu>
     <tu>
