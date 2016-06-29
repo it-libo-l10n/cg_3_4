@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(&lt;f0&gt;Ctrl+click&lt;/f0&gt; on a sheet tab to select or deselect the sheet.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T085839Z" creationid="Elisabetta" creationdate="20160629T085839Z">
+        <seg>(fate &lt;f0&gt;Ctrl+clic&lt;/f0&gt; sulla scheda di un foglio per selezionarlo o deselezionarlo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Exception: see Tip below.)&lt;f1&gt; &lt;/f1&gt;To preserve the leading zero, for example for telephone area codes, type an apostrophe before the number, like this: &lt;f2&gt;'01481&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T161628Z" creationid="Elisabetta" creationdate="20160627T161628Z">
@@ -13882,6 +13890,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160428T152849Z" creationid="luciano" creationdate="20160428T152849Z">
         <seg>A questo scopo, potete unire i documenti in Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For this reason, when you are finished, be sure to deselect all the sheets except the one you want to edit.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T085734Z" creationid="Elisabetta" creationdate="20160629T085734Z">
+        <seg>Per questa ragione, una volta terminato, accertatevi di deselezionare tutti i fogli tranne quello da modificare</seg>
       </tuv>
     </tu>
     <tu>
@@ -28890,6 +28906,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This technique overwrites any information that is already in the cells on the other sheets—without any warning.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T085527Z" creationid="Elisabetta" creationdate="20160629T085527Z">
+        <seg>Questo sistema sovrascrive senza alcun preavviso ogni dato presente nelle celle di destinazione degli altri fogli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This time, the NumberFive() function works.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160615T150859Z" creationid="luciano" creationdate="20160615T150859Z">
@@ -31540,8 +31564,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>Validating cell contents</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160130T212254Z">
-        <seg>Validare il contenuto di una cella</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T085914Z">
+        <seg>Convalidare i contenuti di una cella</seg>
       </tuv>
     </tu>
     <tu>
@@ -35582,6 +35606,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160616T094256Z" creationid="luciano" creationdate="20160616T094256Z">
         <seg>utilizzare le macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>validating cell contents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T085955Z" creationid="Elisabetta" creationdate="20160629T085955Z">
+        <seg>Convalidare i contenuti di una cella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>validating contents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T085930Z" creationid="Elisabetta" creationdate="20160629T085906Z">
+        <seg>Convalidare contenuti</seg>
       </tuv>
     </tu>
     <tu>
