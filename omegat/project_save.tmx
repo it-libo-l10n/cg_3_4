@@ -2958,6 +2958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;AMORDEGRC&lt;/f0&gt;(cost; date&lt;f1&gt;_&lt;/f1&gt;purchased; first_period; salvage; period; rate; basis)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160629T195332Z" creationid="Marco Marega" creationdate="20160629T195235Z">
+        <seg>&lt;f0&gt;AMORT.DEGR&lt;/f0&gt;(costo; data&lt;f1&gt;&lt;/f1&gt;; primo periodo; valore residuo; periodo; tasso interesse; base)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;ASIN&lt;/f0&gt;&lt;f1&gt;(&lt;/f1&gt;number)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T145239Z" creationid="Marco Marega" creationdate="20160625T145239Z">
@@ -7946,6 +7954,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160628T123621Z" creationid="Marco Marega" creationdate="20160628T121517Z">
         <seg>Calcola gli interessi maturati da un titolo a pagamenti periodici.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Emissione&lt;/f1&gt;&lt;f2&gt; è &lt;/f2&gt;la data di emissione del titolo.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Primo interesse&lt;/f4&gt;&lt;f5&gt; è&lt;/f5&gt; la data di maturazione della prima cedola.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Liquidazione&lt;/f7&gt;&lt;f8&gt; è&lt;/f8&gt; la data di liquidazione del titolo.&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Tasso interesse&lt;/f10&gt;&lt;f11&gt; è&lt;/f11&gt; il tasso di interesse nominale annuo (tasso cedolare).&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;Valore nominale&lt;/f13&gt;&lt;f14&gt; è&lt;/f14&gt; il valore nominale del titolo.&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Frequenza&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt; è il numero&lt;/f18&gt; di pagamenti di interessi per anno (1, 2 o 4).&lt;f19&gt; &lt;/f19&gt;&lt;f20&gt;Base&lt;/f20&gt;&lt;f21&gt; &lt;/f21&gt;indica il modo in cui viene calcolato l'anno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculates the amount of depreciation for a settlement period as degressive amortization.&lt;f0&gt; &lt;/f0&gt;Unlike &lt;f1&gt;AMORLINC&lt;/f1&gt;, a depreciation coefficient that is independent of the depreciable life is used here.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Cost&lt;/f3&gt;&lt;f4&gt; is&lt;/f4&gt; the acquisition cost.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Date_purchased&lt;/f6&gt;&lt;f7&gt; is&lt;/f7&gt; the date of acquisition.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;First_period&lt;/f9&gt;&lt;f10&gt; is&lt;/f10&gt; the end date of the first settlement period.&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;Salvage&lt;/f12&gt;&lt;f13&gt; is&lt;/f13&gt; the salvage value of the capital asset at the end of the depreciable life.&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;Period&lt;/f15&gt;&lt;f16&gt; is&lt;/f16&gt; the settlement period to be considered.&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;Rate&lt;/f18&gt;&lt;f19&gt; is&lt;/f19&gt; the rate of depreciation.&lt;f20&gt; &lt;/f20&gt;&lt;f21&gt;Basis&lt;/f21&gt; indicates how the year is to be calculated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160629T195239Z" creationid="Marco Marega" creationdate="20160629T195239Z">
+        <seg>Calculates the amount of depreciation for a settlement period as degressive amortization.&lt;f0&gt; &lt;/f0&gt;Unlike &lt;f1&gt;AMORLINC&lt;/f1&gt;, a depreciation coefficient that is independent of the depreciable life is used here.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Cost&lt;/f3&gt;&lt;f4&gt; is&lt;/f4&gt; the acquisition cost.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Date_purchased&lt;/f6&gt;&lt;f7&gt; is&lt;/f7&gt; the date of acquisition.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;First_period&lt;/f9&gt;&lt;f10&gt; is&lt;/f10&gt; the end date of the first settlement period.&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;Salvage&lt;/f12&gt;&lt;f13&gt; is&lt;/f13&gt; the salvage value of the capital asset at the end of the depreciable life.&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;Period&lt;/f15&gt;&lt;f16&gt; is&lt;/f16&gt; the settlement period to be considered.&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;Rate&lt;/f18&gt;&lt;f19&gt; is&lt;/f19&gt; the rate of depreciation.&lt;f20&gt; &lt;/f20&gt;&lt;f21&gt;Basis&lt;/f21&gt; indicates how the year is to be calculated.</seg>
       </tuv>
     </tu>
     <tu>
