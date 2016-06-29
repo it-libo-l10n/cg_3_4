@@ -15118,6 +15118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If cells are set to accept invalid content with a warning, rather than refusing it, you can use &lt;f0&gt;Tools &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Detective &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Mark Invalid Data&lt;/f6&gt; to find the cells with invalid data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T090648Z" creationid="Elisabetta" creationdate="20160629T090648Z">
+        <seg>Se le celle sono state configurate per accettare contenuti non validi con un messaggio di errore, e non per rifiutarli, si può ricorrere alla voce &lt;f0&gt;Strumenti &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Detective &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Evidenzia i dati non validi&lt;/f6&gt; per individuare le celle contenenti dati non validi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If either pair of passwords do not match, you receive an error message.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T090434Z" creationid="michele" creationdate="20160525T090434Z">
@@ -15986,6 +15994,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T130205Z" creationid="steevie" creationdate="20160421T130205Z">
         <seg>Se condividete abitualmente documenti con utenti di Microsoft Excel, potreste voler modificare l'attributo per documenti di testo &lt;f0&gt;Salva sempre come&lt;/f0&gt; con uno dei formati di Microsoft Excel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you select &lt;f0&gt;Format&lt;/f0&gt; or &lt;f1&gt;Delete All&lt;/f1&gt; from the Delete Contents window, then it is removed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T090800Z" creationid="Elisabetta" creationdate="20160629T090800Z">
+        <seg>Per rimuoverla selezionate le opzioni &lt;f0&gt;Formati&lt;/f0&gt; o &lt;f1&gt;Cancella tutto&lt;/f1&gt; all'interno della finestra Elimina contenuti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19460,6 +19476,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T084734Z">
         <seg>Note that Chapter 8, &lt;f3&gt;Using the DataPilot&lt;/f3&gt;, is licensed under the &lt;a4&gt;Creative Commons Attribution-Share Alike License&lt;/a4&gt;, version 3.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that a validity rule is considered part of a cell’s format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T090714Z" creationid="Elisabetta" creationdate="20160629T090714Z">
+        <seg>Una regola di validità è considerata parte integrante del formato di una cella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26077,6 +26101,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095457Z">
         <seg>La finestra di dialogo DataPilot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Detective function marks any cells containing invalid data with a circle.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T090655Z" creationid="Elisabetta" creationdate="20160629T090655Z">
+        <seg>La funzione Detective contrassegna con un cerchio ogni cella contenente dati non validi.</seg>
       </tuv>
     </tu>
     <tu>
