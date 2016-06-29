@@ -15782,6 +15782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have changed the compatibility setting from &lt;f0&gt;Default&lt;/f0&gt; to &lt;f1&gt;OpenOffice.org legacy&lt;/f1&gt; in &lt;f2&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; Compatibility&lt;/f2&gt;, then clicking in an empty cell and pressing &lt;f3&gt;Ctrl+D&lt;/f3&gt; opens the selection list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T085001Z" creationid="Elisabetta" creationdate="20160629T085001Z">
+        <seg>Alternativamente potete aprire una lista di scelta modificando le impostazioni di compatibilità da modalità &lt;f0&gt;Predefinita&lt;/f0&gt; a &lt;f1&gt;Retrocompatibilità OpenOffice.org&lt;/f1&gt; nel menu &lt;f2&gt;Strumenti &gt; Opzioni &gt; LibreOffice Calc &gt; Compatibilità&lt;/f2&gt;, quindi facendo clic in una cella vuota e premendo la combinazione &lt;f3&gt;Ctrl+D&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have defined Writer bookmarks, Impress or Draw slide names, or Calc sheet names, this option exports them as “named destinations” to which Web pages and PDF documents can link.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T145815Z" creationid="Luciano B." creationdate="20160329T145815Z">
@@ -17371,6 +17379,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T132716Z" creationid="michele" creationdate="20160525T132716Z">
         <seg>Invece di eliminare una riga o una colonna, potresti voler eliminare il contenuto delle celle ma mantenere la riga o colonna vuota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instead of entering the list on each sheet individually, you can enter it in all the sheets at once.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T085256Z" creationid="Elisabetta" creationdate="20160629T085152Z">
+        <seg>Invece di inserire l'elenco in ogni singolo foglio, è possibile inserirlo in tutti i fogli simultaneamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24298,8 +24314,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Sharing content between sheets</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160130T212252Z">
-        <seg>Condivisione di contenuti tra fogli</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T085202Z">
+        <seg>Condividere contenuti tra fogli</seg>
       </tuv>
     </tu>
     <tu>
@@ -29322,6 +29338,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To do this, select all the sheets (&lt;f0&gt;&lt;f1&gt;Edit &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; Sheet &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; Select&lt;/f9&gt;&lt;/f8&gt;), then enter the information in the current one.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T085449Z" creationid="Elisabetta" creationdate="20160629T085212Z">
+        <seg>A questo scopo selezionate tutti i fogli (tramite la voce &lt;f0&gt;&lt;f1&gt;Modifica &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; Foglio &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; Seleziona&lt;/f9&gt;&lt;/f8&gt;), dopodiché inserite i dati in quello attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To do this, you can use Calc’s merge document feature.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160428T152442Z" creationid="luciano" creationdate="20160428T152359Z">
@@ -33554,6 +33578,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You might want to enter the same information in the same cell on multiple sheets, for example to set up standard listings for a group of individuals or organizations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T085137Z" creationid="Elisabetta" creationdate="20160629T085137Z">
+        <seg>Potrebbe essere necessario inserire gli stessi dati nella medesima cella in più fogli, ad esempio per preparare elenchi standard per un gruppo di individui od organizzazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You must activate this option &lt;f1&gt;before&lt;/f1&gt; you create the &lt;f2&gt;LibreOffice&lt;/f2&gt; Basic macro; otherwise the script will not be inserted.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T125604Z" creationid="steevie" creationdate="20160427T125604Z">
@@ -35278,6 +35310,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T150034Z" creationid="Luciano B." creationdate="20160411T150034Z">
         <seg>condivisione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sharing content</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T085008Z" creationid="Elisabetta" creationdate="20160629T085008Z">
+        <seg>condividere contenuti</seg>
       </tuv>
     </tu>
     <tu>
