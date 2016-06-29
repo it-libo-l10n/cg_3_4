@@ -10702,6 +10702,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Depending on how validation is set up, the tool can also define the range of values that can be entered and provide help messages that explain the content rules you have set up for the cell and what users should do when they enter invalid content.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T090340Z" creationid="Elisabetta" creationdate="20160629T090340Z">
+        <seg>A seconda delle impostazioni di convalida, lo strumento permette anche di definire l'intervallo di valori da inserire, inoltre fornisce messaggi di aiuto che specificano le regole di contenuto impostate per la cella e le operazioni che gli utenti dovrebbero eseguire nel caso in cui inserissero contenuti non validi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Depending on the complexity of the task, this may take some time.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T133348Z" creationid="michele" creationdate="20160608T133348Z">
@@ -13246,6 +13254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fill series and selection lists can handle some types of data, but they are limited to predefined information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T090126Z" creationid="Elisabetta" creationdate="20160629T090126Z">
+        <seg>Le serie di riempimento e le liste di scelta possono gestire alcuni tipi di dati, ma si limitano a informazioni predefinite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Filtered data copied to a new location may be selected, modified, and deleted at will.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160526T125859Z" creationid="steevie" creationdate="20160526T125859Z">
@@ -13554,6 +13570,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163936Z" creationid="steevie" creationdate="20160428T163936Z">
         <seg>Ad esempio, &lt;f5&gt;Rinomina&lt;/f5&gt; ed &lt;f6&gt;Elimina&lt;/f6&gt; non sono disponibili per i menu forniti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, a cell might require a date or a whole number, with no alphabetic characters or decimal points; or a cell may not be left empty.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T090303Z" creationid="Elisabetta" creationdate="20160629T090303Z">
+        <seg>Ad esempio, una cella potrebbe richiedere una data o un numero intero, senza caratteri alfabetici o punti decimali, oppure l'inserimento obbligatorio di dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30322,6 +30346,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To validate new data entered by a user, select a cell and use &lt;f0&gt;Data &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Validity&lt;/f3&gt; to define the type of contents that can be entered in that cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T090222Z" creationid="Elisabetta" creationdate="20160629T090222Z">
+        <seg>Per convalidare nuovi dati inseriti da un utente, selezionate una cella e scegliete la voce &lt;f0&gt;Dati &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Validità&lt;/f3&gt; per definire il tipo di contenuti da inserire nella cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To view the comment you just added, hover the mouse pointer over the cell that has a comment; the comment appears, as shown below.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160424T134222Z" creationid="luciano" creationdate="20160424T134222Z">
@@ -31570,6 +31602,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Validation is most useful for cells containing functions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T090440Z" creationid="Elisabetta" creationdate="20160629T090440Z">
+        <seg>Il procedimento di convalida si dimostra utile soprattutto per le celle che contengono funzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Value</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142857Z" creationid="steevie" creationdate="20160504T142857Z">
@@ -31878,6 +31918,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160615T155444Z" creationid="luciano" creationdate="20160615T155444Z">
         <seg>Quando chiamate una funzione con due argomenti, separateli con un punto e virgola; per esempio, &lt;f1&gt;=TestMax(3&lt;/f1&gt;&lt;f2&gt;;&lt;/f2&gt;&lt;f3&gt; -4)&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When creating spreadsheets for other people to use, you may want to make sure they enter data that is valid or appropriate for the cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T090027Z" creationid="Elisabetta" creationdate="20160629T090027Z">
+        <seg>Se si creano fogli elettronici per un uso condiviso con altri utenti, potrebbe essere necessario assicurarsi che i dati inseriti siano validi o appropriati per la cella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32802,6 +32850,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also set the cell to refuse invalid content, accept it with a warning, or—if you are especially well-organized—start a macro when an error is entered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T090408Z" creationid="Elisabetta" creationdate="20160629T090408Z">
+        <seg>Le celle possono anche essere configurate per rifiutare i contenuti non validi, per accettarli con un messaggio di errore, oppure per eseguire una macro all'inserimento di un errore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also set this grid in line with the snap grid.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T155319Z" creationid="steevie" creationdate="20160428T155319Z">
@@ -32822,6 +32878,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T174707Z" creationid="Elisabetta" creationdate="20160628T174707Z">
         <seg>Alternativamente potete scegliere la voce &lt;f0&gt;Modifica &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Compila &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Serie&lt;/f6&gt; anche per creare rapidamente una serie di numeri inserendo il valore iniziale, quello finale e l'incremento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also use &lt;i0/&gt;validation in your own work as a guide to entering data that is either complex or rarely used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T090100Z" creationid="Elisabetta" creationdate="20160629T090100Z">
+        <seg>Inoltre il procedimento di &lt;i0/&gt;convalida del lavoro è utile come guida per l'inserimento di dati complessi o usati di rado.</seg>
       </tuv>
     </tu>
     <tu>
