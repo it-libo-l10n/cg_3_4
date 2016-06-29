@@ -3118,6 +3118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;COUPDAYBS&lt;/f0&gt;(settlement; maturity;&lt;f1&gt; f&lt;/f1&gt;requency; basis)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160629T204719Z" creationid="Marco Marega" creationdate="20160629T204719Z">
+        <seg>&lt;f0&gt;GIORNI.CED.INIZ.LIQ&lt;/f0&gt;(liquidazione; maturazione;&lt;f1&gt; f&lt;/f1&gt;requenza; base)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Calc automatically adds to any recorded change a comment that describes what was changed (for example, &lt;/f0&gt;&lt;f1&gt;Cell B4 changed from ‘9’ to ‘4’&lt;/f1&gt;&lt;f2&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T150031Z" creationid="luciano" creationdate="20160423T144737Z">
