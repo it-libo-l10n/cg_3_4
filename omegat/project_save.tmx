@@ -13158,6 +13158,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;44&lt;/seq0&gt;: Typical validity test choices</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T091606Z" creationid="Elisabetta" creationdate="20160629T091606Z">
+        <seg>Figura &lt;seq0&gt;44&lt;/seq0&gt;: criteri di un tipico test di validità</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;45&lt;/seq0&gt;: Validity choices for a cell range</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T091740Z" creationid="Elisabetta" creationdate="20160629T091740Z">
+        <seg>Figura &lt;seq0&gt;45&lt;/seq0&gt;: criteri di validità per un intervallo di celle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Example of a tear-off toolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T133818Z" creationid="michele" creationdate="20160414T133818Z">
@@ -13586,6 +13602,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163936Z" creationid="steevie" creationdate="20160428T163936Z">
         <seg>Ad esempio, &lt;f5&gt;Rinomina&lt;/f5&gt; ed &lt;f6&gt;Elimina&lt;/f6&gt; non sono disponibili per i menu forniti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, Figure &lt;t1&gt;45&lt;/t1&gt; shows the choices when a cell must contain a cell range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T091703Z" creationid="Elisabetta" creationdate="20160629T091703Z">
+        <seg>Per esempio, la figura &lt;t1&gt;45&lt;/t1&gt; presenta i criteri appropriati per una cella che contiene un intervallo di celle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27986,6 +28010,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The validity test options vary with the type of data selected from the &lt;f0&gt;Allow&lt;/f0&gt; list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T091638Z" creationid="Elisabetta" creationdate="20160629T091638Z">
+        <seg>Le opzioni del test di validità variano in base al tipo di dati selezionati nell'elenco della casella di riepilogo &lt;f0&gt;Permetti&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The value of text is 0 and empty cells are ignored.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T143515Z" creationid="steevie" creationdate="20160620T143515Z">
@@ -29910,6 +29942,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T152842Z">
         <seg>Per stampare questo intervallo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To provide input help for a cell, use the Input Help page of the &lt;f0&gt;Validity&lt;/f0&gt; dialog (Figure &lt;t1&gt;46&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T091849Z" creationid="Elisabetta" creationdate="20160629T091849Z">
+        <seg>Per fornire indicazioni per la digitazione in una cella, scegliete la scheda Aiuto per la digitazione, all'interno della finestra di dialogo &lt;f0&gt;Validità&lt;/f0&gt; (Figura &lt;t1&gt;46&lt;/t1&gt;). </seg>
       </tuv>
     </tu>
     <tu>
