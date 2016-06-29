@@ -3120,8 +3120,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;COUPDAYBS&lt;/f0&gt;(settlement; maturity;&lt;f1&gt; f&lt;/f1&gt;requency; basis)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160629T204719Z" creationid="Marco Marega" creationdate="20160629T204719Z">
-        <seg>&lt;f0&gt;GIORNI.CED.INIZ.LIQ&lt;/f0&gt;(liquidazione; maturazione;&lt;f1&gt; f&lt;/f1&gt;requenza; base)</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160629T205222Z" creationid="Marco Marega" creationdate="20160629T204719Z">
+        <seg>&lt;f0&gt;GIORNI.CED.INIZ.LIQ&lt;/f0&gt;(liquidazione; scadenza;&lt;f1&gt; f&lt;/f1&gt;requenza; base)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22796,6 +22796,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T112016Z" creationid="Marco Marega" creationdate="20160625T153636Z">
         <seg>Restituisce il numero di combinazioni per un dato numero di oggetti.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1&lt;/f1&gt; è il numero totale degli elementi.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Numero_2&lt;/f3&gt; è il numero degli elementi in ciascuna combinazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the number of days from the first day of interest payment on a security until the settlement date.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Settlement&lt;/f1&gt;&lt;f2&gt; is&lt;/f2&gt; the date of purchase of the security.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Maturity&lt;/f4&gt;&lt;f5&gt; is&lt;/f5&gt; the date on which the security matures (expires).&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Frequency&lt;/f7&gt;&lt;f8&gt; is&lt;/f8&gt; the number of interest payments per year (1, 2 or 4).&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Basis&lt;/f10&gt; indicates how the year is to be calculated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160629T205215Z" creationid="Marco Marega" creationdate="20160629T205215Z">
+        <seg>Restituisce il numero di giorni che vanno dal primo giorno di maturazione degli interessi sulla cedola fino alla data di liquidazione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Liquidazione&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; la data di acquisto del titolo.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Scadenza&lt;/f4&gt;&lt;f5&gt; is&lt;/f5&gt; the date on which the security matures (expires).&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Frequency&lt;/f7&gt;&lt;f8&gt; is&lt;/f8&gt; the number of interest payments per year (1, 2 or 4).&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Basis&lt;/f10&gt; indicates how the year is to be calculated.</seg>
       </tuv>
     </tu>
     <tu>
