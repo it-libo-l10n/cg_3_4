@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Repeating the Detective’s &lt;f2&gt;Mark Invalid Data&lt;/f2&gt; command &lt;s3/&gt;removes the invalid data circle, because the data is no longer invalid.) If you want to &lt;t4/&gt;copy a validity rule with the rest of the cell, use &lt;f5&gt;Edit &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; Paste Special &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; Paste Formats&lt;/f11&gt; or &lt;f12&gt;Paste All&lt;/f12&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T091351Z" creationid="Elisabetta" creationdate="20160629T091240Z">
+        <seg>(la ripetizione del comando &lt;f2&gt;Evidenzia i dati non validi&lt;/f2&gt; nel sottomenu Detective &lt;s3/&gt;eliminerà il cerchio che racchiude i dati non validi proprio perché non sono più tali). Per &lt;t4/&gt;estendere una regola di validità alle altre celle, scegliete la voce &lt;f5&gt;Modifica &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; Incolla speciale &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; Incolla formato&lt;/f11&gt; o &lt;f12&gt;Incolla tutto&lt;/f12&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(See also “&lt;/f2&gt;&lt;f3&gt;&lt;bf4&gt;Linking to external data&lt;/bf4&gt;&lt;/f3&gt;&lt;f5&gt;” on page &lt;/f5&gt;&lt;f6&gt;&lt;bf7&gt;253&lt;/bf7&gt;&lt;/f6&gt;&lt;f8&gt;.) The links can be updated manually to show the current contents of the external file; or, depending on the options you have selected in &lt;/f8&gt;&lt;f9&gt;Tools&lt;/f9&gt;&lt;f10&gt;&lt;f11&gt; &gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;Options&lt;/f12&gt;&lt;f13&gt;&lt;f14&gt; &gt; LibreOffice&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; Calc&lt;/f15&gt;&lt;f16&gt;&lt;f17&gt; &gt; &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;General&lt;/f18&gt;&lt;f19&gt;&lt;f20&gt; &gt; &lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;Updating&lt;/f21&gt;, &lt;f22&gt;whenever the file is opened.&lt;/f22&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T153810Z" creationid="antonio" creationdate="20160524T153521Z">
@@ -13246,6 +13254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;t0&gt;44&lt;/t0&gt; shows the choices for a typical validity test.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T091435Z" creationid="Elisabetta" creationdate="20160629T091435Z">
+        <seg>La figura &lt;t0&gt;44&lt;/t0&gt; visualizza i criteri relativi a un tipico test di validità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fill in the form on this page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T150910Z" creationid="steevie" creationdate="20160418T150557Z">
@@ -16000,8 +16016,8 @@
       <tuv lang="EN">
         <seg>If you select &lt;f0&gt;Format&lt;/f0&gt; or &lt;f1&gt;Delete All&lt;/f1&gt; from the Delete Contents window, then it is removed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T090800Z" creationid="Elisabetta" creationdate="20160629T090800Z">
-        <seg>Per rimuoverla selezionate le opzioni &lt;f0&gt;Formati&lt;/f0&gt; o &lt;f1&gt;Cancella tutto&lt;/f1&gt; all'interno della finestra Elimina contenuti.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T091332Z" creationid="Elisabetta" creationdate="20160629T090800Z">
+        <seg>Per rimuoverla selezionate le opzioni &lt;f0&gt;Formati&lt;/f0&gt; o &lt;f1&gt;Cancella tutto&lt;/f1&gt; all'interno della finestra Elimina contenuti</seg>
       </tuv>
     </tu>
     <tu>
@@ -19492,6 +19508,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T144324Z" creationid="steevie" creationdate="20160427T143852Z">
         <seg>Notate che c'è un cursore tra la barra di scorrimento orizzontale e il divisorio dei fogliche può essere spostato a un estremo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note the &lt;f1&gt;Allow blank cells&lt;/f1&gt; option under the &lt;f2&gt;Allow&lt;/f2&gt; list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T091525Z" creationid="Elisabetta" creationdate="20160629T091525Z">
+        <seg>È visibile l'opzione &lt;f1&gt;Accetta celle vuote&lt;/f1&gt; sotto la casella di riepilogo &lt;f2&gt;Permetti&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
