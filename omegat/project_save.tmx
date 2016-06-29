@@ -13238,6 +13238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;48&lt;/seq0&gt;: Delete Contents dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T101745Z" creationid="Elisabetta" creationdate="20160629T101745Z">
+        <seg>Figura &lt;seq0&gt;48&lt;/seq0&gt;: finestra di dialogo Elimina contenuti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Example of a tear-off toolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T133818Z" creationid="michele" creationdate="20160414T133818Z">
@@ -14258,6 +14266,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T152632Z">
         <seg>Da questa finestra di dialogo potete impostare lo sfondo e lo stile del bordo dell'intestazione e del piè di pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From this dialog, different aspects of the cell can be deleted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T101635Z" creationid="Elisabetta" creationdate="20160629T101550Z">
+        <seg>All'interno di questa finestra si possono eliminare diversi tipi di contenuto della cella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21060,6 +21076,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T123022Z" creationid="michele" creationdate="20160525T123022Z">
         <seg>Tenete premuto il pulsante sinistro del mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press the &lt;/f0&gt;&lt;f1&gt;Backspace&lt;/f1&gt;&lt;f2&gt; key, or if in legacy mode press the &lt;/f2&gt;&lt;f3&gt;Delete&lt;/f3&gt;&lt;f4&gt; key (or right-click and choose &lt;/f4&gt;&lt;f5&gt;Delete Contents&lt;/f5&gt;&lt;f6&gt;, or use &lt;/f6&gt;&lt;f7&gt;Edit &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; Delete Contents&lt;/f10&gt;&lt;f11&gt;) to open the &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;Delete Contents&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; dialog (&lt;/f14&gt;&lt;f15&gt;&lt;t16&gt;Figure 48&lt;/t16&gt;&lt;/f15&gt;&lt;f17&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T101615Z" creationid="Elisabetta" creationdate="20160629T101527Z">
+        <seg>Premete il tasto &lt;/f0&gt;&lt;f1&gt;Backspace&lt;/f1&gt;&lt;f2&gt; o, se è attiva la modalità di retrocompatibilità, premete il tasto &lt;/f2&gt;&lt;f3&gt;Canc&lt;/f3&gt;&lt;f4&gt; (in alternativa fate clic con il pulsante secondario del mouse e scegliete la voce &lt;/f4&gt;&lt;f5&gt;Elimina contenuti&lt;/f5&gt;&lt;f6&gt; dal menu contestuale, o il sottomenu &lt;/f6&gt;&lt;f7&gt;Modifica &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; Elimina contenuti&lt;/f10&gt;&lt;f11&gt;) per aprire la finestra di dialogo &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;Elimina contenuti&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; (&lt;/f14&gt;&lt;f15&gt;Figura &lt;t16&gt;48&lt;/t16&gt;&lt;/f15&gt;&lt;f17&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -29526,6 +29550,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T131507Z" creationid="michele" creationdate="20160525T131507Z">
         <seg>Per eliminare una singola colonna o riga:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To delete everything in a cell (contents and format), check &lt;/f17&gt;&lt;f18&gt;Delete all&lt;/f18&gt;&lt;f19&gt;.&lt;/f19&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T101727Z" creationid="Elisabetta" creationdate="20160629T101727Z">
+        <seg>Per eliminare tutto, contenuti e formattazione della cella, selezionate l'opzione &lt;/f17&gt;&lt;f18&gt;Cancella tutto&lt;/f18&gt;&lt;f19&gt;.&lt;/f19&gt;</seg>
       </tuv>
     </tu>
     <tu>
