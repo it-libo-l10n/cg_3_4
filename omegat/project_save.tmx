@@ -5558,6 +5558,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A list box containing all the text, or entries formatted as text, found in the current column is displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T084748Z" creationid="Elisabetta" creationdate="20160629T084748Z">
+        <seg>Comparirà una casella di riepilogo contenente il testo o le voci in formato testo visibili nella colonna attiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A list of subsections drops down.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T145200Z" creationid="steevie" creationdate="20160418T145139Z">
@@ -9186,6 +9194,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160425T113242Z" creationid="luciano" creationdate="20160425T113242Z">
         <seg>Fate clic sul commento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on the entry you require.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T084810Z" creationid="Elisabetta" creationdate="20160629T084810Z">
+        <seg>Fate clic sulla voce desiderata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24042,8 +24058,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Selection lists are available only for text, and are limited to using only text that has already been entered in the same column.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T182533Z" creationid="Elisabetta" creationdate="20160628T182533Z">
-        <seg>Gli elenchi di selezione sono disponibili solo per il testo, ed è possibile usare solo il testo che è già stato inserito nella stessa colonna.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T084633Z" creationid="Elisabetta" creationdate="20160628T182533Z">
+        <seg>Le liste di scelta sono disponibili solo per il formato testo e solo per i contenuti testuali precedentemente inseriti nella stessa colonna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27762,6 +27778,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The text is sorted alphabetically and multiple entries are listed only once.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T084805Z" creationid="Elisabetta" creationdate="20160629T084805Z">
+        <seg>Il testo viene disposto in ordine alfabetico e le varie voci vengono accorpate in un unico elenco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The text must consist of at least one word and must not contain any operators.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T150948Z" creationid="steevie" creationdate="20160428T150948Z">
@@ -30218,6 +30242,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use a selection list, &lt;f0&gt;right-click&lt;/f0&gt; a blank cell and select &lt;f1&gt;Selection List&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T084731Z" creationid="Elisabetta" creationdate="20160629T084731Z">
+        <seg>Per creare una lista di scelta fate &lt;f0&gt;clic con il pulsante secondario del mouse&lt;/f0&gt; su una cella vuota e scegliete la voce &lt;f1&gt;Lista di scelta&lt;/f1&gt; dal menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To use the Multiple Operations tool, you need two arrays of cells.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160601T132730Z" creationid="michele" creationdate="20160601T132730Z">
@@ -31004,8 +31036,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>Using &lt;is0/&gt;selection list&lt;ie1/&gt;s</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T182529Z" creationid="Elisabetta" creationdate="20160628T182506Z">
-        <seg>Usare gli &lt;is0/&gt;elenchi di selezione&lt;ie1/&gt;</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T084604Z" creationid="Elisabetta" creationdate="20160628T182506Z">
+        <seg>&lt;is0/&gt;Liste di scelta&lt;ie1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
