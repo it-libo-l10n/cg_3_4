@@ -2542,6 +2542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Using automatic &lt;/f1&gt;&lt;/f0&gt;&lt;is2/&gt;&lt;f3&gt;&lt;f4&gt;wrapping&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160701T095605Z" creationid="Elisabetta" creationdate="20160701T095605Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Ritorno a capo&lt;/f1&gt;&lt;/f0&gt;&lt;is2/&gt;&lt;f3&gt;&lt;f4&gt;automatico&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;With&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oFields&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;0&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;)&lt;/f10&gt;&lt;/f9&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135321Z" creationid="steevie" creationdate="20160511T135321Z">
@@ -3978,6 +3986,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T135114Z" creationid="luciano" creationdate="20160429T135114Z">
         <seg>&lt;f0&gt;La maggior parte dei documenti passa attraverso molte bozze preliminari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Multiple lines of text can be entered into a single cell&lt;/f0&gt;&lt;f1&gt; using automatic wrapping or manual line breaks.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160701T095417Z" creationid="Elisabetta" creationdate="20160701T095417Z">
+        <seg>&lt;f0&gt;Si possono inserire più righe in una singola cella&lt;/f0&gt;&lt;f1&gt; mediante l'opzione di ritorno a capo automatico oppure le interruzioni manuali di riga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11274,6 +11290,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T124045Z" creationid="michele" creationdate="20160524T124045Z">
         <seg>Ogni riga in un file CSV rappresenta una riga in un foglio di calcolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each method is useful for different situations.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160701T095422Z" creationid="Elisabetta" creationdate="20160701T095422Z">
+        <seg>Ognuno di questi metodi è utile in situazioni diverse.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
