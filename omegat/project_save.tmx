@@ -22872,6 +22872,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the depreciation of an asset for a specified period using the double-declining balance method.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Cost&lt;/f1&gt; is the initial cost of an asset.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Salvage&lt;/f3&gt; is the value of an asset at the end of the depreciation.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Life&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;defines the period over which an asset is depreciated.&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;Period&lt;/f8&gt; is the length of each period.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160702T140336Z" creationid="Marco Marega" creationdate="20160702T140336Z">
+        <seg>Restituisce il deprezzamento di un bene in un determinato periodo utilizzando il metodo dell'ammortamento degressivo geometrico.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Costo&lt;/f1&gt; è il costo iniziale del bene.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Valore residuo&lt;/f3&gt; è il valore del bene al termine dell'ammortamento.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Vita utile&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt; definisce il periodo di durata dell'ammortamento.&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;Periodi&lt;/f8&gt; è la durata di ogni singolo periodo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the factorial of the given &lt;f0&gt;number&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T101750Z" creationid="Marco Marega" creationdate="20160626T101750Z">
