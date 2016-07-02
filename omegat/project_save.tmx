@@ -7718,6 +7718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>CUMIPMT_ADD(rate; NPER; PV; start_period; end_period; type)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160702T085356Z" creationid="Marco Marega" creationdate="20160702T085356Z">
+        <seg>&lt;f0&gt;INT.CUMUL_ADD&lt;/f0&gt;(tasso interesse; &lt;f1&gt;numero rate&lt;/f1&gt;; &lt;f2&gt;valore attuale&lt;/f2&gt;; periodo iniziale; periodo finale; tipo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc Error Codes</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T101311Z">
@@ -26493,6 +26501,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T100700Z" creationid="michele" creationdate="20160608T100700Z">
         <seg>Il &lt;f5&gt;campo di digitazione Righe&lt;/f5&gt; e quello &lt;f6&gt;Colonne&lt;/f6&gt; sono usati per inserire i riferimenti alle corrispondenti celle della formula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f6&gt;rate&lt;/f6&gt; and &lt;f7&gt;NPER&lt;/f7&gt; must refer to the same unit, and thus both must be calculated annually or monthly.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;PV&lt;/f9&gt;&lt;f10&gt; is&lt;/f10&gt; the current value in the sequence of payments.&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;S&lt;/f12&gt;&lt;f13&gt; is&lt;/f13&gt; the first period.&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;E&lt;/f15&gt;&lt;f16&gt; is&lt;/f16&gt; the last period.&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;Type&lt;/f18&gt;&lt;f19&gt; is&lt;/f19&gt; the due date of the payment at the beginning (1) or end (0) of each period.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160702T085304Z" creationid="Marco Marega" creationdate="20160702T085304Z">
+        <seg>Il&lt;f6&gt;tasso interesse&lt;/f6&gt; ed il &lt;f7&gt;numero rate&lt;/f7&gt; devono riferirsi alla stessa unità di misura, e quindi dovranno essere calcolati entrambi su base annuale o mensile.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Valore attuale&lt;/f9&gt;&lt;f10&gt; è&lt;/f10&gt; il valore corrente nella sequenza dei pagamenti.&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;Periodo iniziale&lt;/f12&gt;&lt;f13&gt; è&lt;/f13&gt; il primo periodo.&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;Periodo finale&lt;/f15&gt;&lt;f16&gt; è&lt;/f16&gt; l'ultimo periodo.&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;Tipo&lt;/f18&gt;&lt;f19&gt; è&lt;/f19&gt; indica se il pagamento degli interessi per ciascun periodo è anticipato (1) o posticipato (0).</seg>
       </tuv>
     </tu>
     <tu>
