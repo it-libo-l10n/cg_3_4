@@ -10734,6 +10734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DB(cost; salvage; life;&lt;f0&gt; &lt;/f0&gt;period; month)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160702T134652Z" creationid="Marco Marega" creationdate="20160702T134652Z">
+        <seg>AMMORT.FISSO(costo; valore residuo; vita utile;&lt;f0&gt; &lt;/f0&gt;periodi; mese)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DEGREES(number)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T100632Z" creationid="Marco Marega" creationdate="20160626T100335Z">
