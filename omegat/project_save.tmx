@@ -7734,6 +7734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>CUMPRINC_ADD(rate; NPER; PV; start_period; end_period; type)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160702T090522Z" creationid="Marco Marega" creationdate="20160702T090522Z">
+        <seg>&lt;f0&gt;CAP.CUM_ADD&lt;/f0&gt;(tasso interesse; &lt;f1&gt;numero rate&lt;/f1&gt;; &lt;f2&gt;valore attuale&lt;/f2&gt;; periodo iniziale; periodo finale; tipo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc Error Codes</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T101311Z">
