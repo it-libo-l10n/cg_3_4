@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_0_r8270:8272" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3138,6 +3138,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160629T205222Z" creationid="Marco Marega" creationdate="20160629T204719Z">
         <seg>&lt;f0&gt;GIORNI.CED.INIZ.LIQ&lt;/f0&gt;(liquidazione; scadenza;&lt;f1&gt; f&lt;/f1&gt;requenza; base)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;COUPDAYS&lt;/f0&gt;(settlement; maturity; frequency; basis)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160702T074809Z" creationid="Marco Marega" creationdate="20160702T074809Z">
+        <seg>&lt;f0&gt;GIORNI.CED&lt;/f0&gt;(liquidazione; scadenza; frequenza; base)</seg>
       </tuv>
     </tu>
     <tu>
