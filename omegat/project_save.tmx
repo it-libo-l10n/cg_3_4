@@ -10128,8 +10128,16 @@
       <tuv lang="EN">
         <seg>Converts a quotation that has been given as a decimal fraction into a decimal number.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Fractional_dollar&lt;/f1&gt;&lt;f2&gt; is&lt;/f2&gt; a number given as a decimal fraction.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T094753Z" creationid="Marco Marega" creationdate="20160703T093503Z">
-        <seg>Converte in numero decimale una quotazione espressa come frazione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; numero in cui la parte decimale viene espressa come frazione.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T100408Z" creationid="Marco Marega" creationdate="20160703T093503Z">
+        <seg>Converte in numero decimale una quotazione espressa come frazione mista.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; il numero in cui la parte decimale è espressa come frazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converts a quotation that has been given as a decimal number into a mixed decimal fraction.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T100315Z" creationid="Marco Marega" creationdate="20160703T100315Z">
+        <seg>Converte in frazione mista una quotazione espressa come numero decimale.</seg>
       </tuv>
     </tu>
     <tu>
