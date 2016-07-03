@@ -3462,6 +3462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;DOLLARDE&lt;/f0&gt;(fractional _dollar; fraction)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T093347Z" creationid="Marco Marega" creationdate="20160703T093347Z">
+        <seg>&lt;f0&gt;VALUTA.DEC&lt;/f0&gt;(Numero; divisore)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Data &gt; Define Range&lt;/f0&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T161012Z" creationid="Luciano B." creationdate="20160411T161012Z">
@@ -10098,6 +10106,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T094551Z" creationid="Marco Marega" creationdate="20160626T094551Z">
         <seg>Converte un valore monetario espresso in una valuta Europea in &lt;f0&gt;Euro.&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Valore&lt;/f2&gt; è la somma espressa nella valuta da convertire.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Testo&lt;/f4&gt; è l'abbreviazione ufficiale della valuta in questione (ad esempio, "EUR").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converts a quotation that has been given as a decimal fraction into a decimal number.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Fractional_dollar&lt;/f1&gt;&lt;f2&gt; is&lt;/f2&gt; a number given as a decimal fraction.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T093503Z" creationid="Marco Marega" creationdate="20160703T093503Z">
+        <seg>Converte in numero decimale una quotazione espressa come frazione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; numero espresso come frazione.</seg>
       </tuv>
     </tu>
     <tu>
