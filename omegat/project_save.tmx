@@ -5086,6 +5086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;Nominal_rate&lt;/f1&gt;&lt;f2&gt; is&lt;/f2&gt; the annual nominal rate of interest.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Npery&lt;/f4&gt;&lt;f5&gt; is&lt;/f5&gt; the number of interest payments per year.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T130922Z" creationid="Marco Marega" creationdate="20160703T130922Z">
+        <seg>&lt;f1&gt;Interesse nominale&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; il tasso di interesse nominale annuo.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;P&lt;/f4&gt;&lt;f5&gt; è&lt;/f5&gt; il numero di pagamenti di interessi in un anno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;You can create, or download and install, as many templates as you wish.&lt;/f1&gt; If you do not specify a template when you start a new a new spreadsheet, the new spreadsheet is based on the default template for spreadsheets.&lt;f2&gt; &lt;/f2&gt;If you have not specified a default template, &lt;f3&gt;LibreOffice&lt;/f3&gt; uses the blank spreadsheet template that is installed with the program.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160213T105010Z">
@@ -8218,6 +8226,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T130033Z" creationid="Marco Marega" creationdate="20160703T130033Z">
         <seg>Calcola la durata in anni di un titolo a tasso fisso.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Liquidazione&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;la data di acquisto del titolo.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Scadenza&lt;/f5&gt;&lt;f6&gt; è&lt;/f6&gt; la data di scadenza del titolo.&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;Tasso interesse nominale&lt;/f8&gt;&lt;f9&gt; è&lt;/f9&gt; il tasso di interesse annuale della cedola (tasso di interesse nominale).&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;Rendimento&lt;/f11&gt;&lt;f12&gt; è&lt;/f12&gt; il rendimento annuale del titolo.&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;Frequenza&lt;/f14&gt;&lt;f15&gt; è il&lt;/f15&gt; numero di pagamenti di interessi in un anno (1, 2 o 4).&lt;f16&gt; &lt;/f16&gt;&lt;f17&gt;Base&lt;/f17&gt; indica il modo in cui viene calcolato l'anno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculates the effective annual rate of interest on the basis of the nominal interest rate and the number of interest payments per annum.&lt;f0&gt; &lt;/f0&gt;Nominal interest refers to the amount of interest due at the end of a calculation period.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T130825Z" creationid="Marco Marega" creationdate="20160703T130825Z">
+        <seg>Calcola il tasso di interesse effettivo annuo sulla base del tasso di interesse nominale e del numero di pagamenti di interessi per anno.&lt;f0&gt; &lt;/f0&gt;Il tasso di interessi nominale è riferito all'ammontare degli interessi dovuti alla fine di un periodo.</seg>
       </tuv>
     </tu>
     <tu>
