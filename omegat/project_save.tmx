@@ -10854,6 +10854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DURATION_ADD (settlement; maturity; coupon; yield; frequency; basis)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T125610Z" creationid="Marco Marega" creationdate="20160703T125610Z">
+        <seg>DURATA_ADD (liquidazione; scadenza; tasso interesse nominale; rendimento; frequenza; base)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Data Analysis</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095625Z">
