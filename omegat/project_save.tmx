@@ -8190,6 +8190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calculates the accumulated value of the starting capital for a series of periodically varying interest rates.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Principal&lt;/f1&gt;&lt;f2&gt; is&lt;/f2&gt; the starting capital.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Schedule&lt;/f4&gt;&lt;f5&gt; is&lt;/f5&gt; a series of interest rates.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T142818Z" creationid="Marco Marega" creationdate="20160703T142818Z">
+        <seg>Calcola il montate di un capitale iniziale su cui viene calcolata una serie di interessi periodici in base ad un tasso variabile.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Capitale&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; il capitale iniziale.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Interessi&lt;/f4&gt;&lt;f5&gt; è&lt;/f5&gt; una serie di tassi di interesse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calculates the allowance (discount) of a security as a percentage.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Settlement&lt;/f1&gt;&lt;f2&gt; is&lt;/f2&gt; the date of purchase of the security.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Maturity&lt;/f4&gt;&lt;f5&gt; is&lt;/f5&gt; the date on which the security matures (expires).&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Price&lt;/f7&gt;&lt;f8&gt; is&lt;/f8&gt; the price of the security per 100 currency units of par value.&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Redemption&lt;/f10&gt;&lt;f11&gt; is&lt;/f11&gt; the redemption value of the security per 100 currency units of par value.&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;Basis&lt;/f13&gt; indicates how the year is to be calculated.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T093228Z" creationid="Marco Marega" creationdate="20160703T093228Z">
@@ -23098,8 +23106,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Returns the future value of an investment based on periodic, constant payments and a constant interest rate.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Rate&lt;/f1&gt; is the periodic interest rate.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;NPER&lt;/f3&gt; is the total number of periods.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;PMT&lt;/f5&gt; is the annuity paid regularly per period.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;PV&lt;/f7&gt; (optional) is the present cash value of an investment.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Type&lt;/f9&gt; (optional) defines whether the payment is due at the beginning (1) or the end (0) of a period.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T141626Z" creationid="Marco Marega" creationdate="20160703T141626Z">
-        <seg>Restituisce il valore futuro di un investimento con pagamenti periodici e tasso di interesse fisso.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Tasso interesse&lt;/f1&gt; è il tasso di interesse periodico.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Numero rate&lt;/f3&gt; è il numero totale di periodi.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Rata&lt;/f5&gt; è l'importo dell'annualità da pagare in ciascun periodo.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Valore attuale&lt;/f7&gt; (facoltativo) è il valore attuale dell'investimento.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Tipo&lt;/f9&gt; (facoltativo) indica se il pagamento degli interessi per ciascun periodo è anticipato (1) o posticipato (0).</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T142842Z" creationid="Marco Marega" creationdate="20160703T141626Z">
+        <seg>Restituisce il montante di un investimento con pagamenti periodici e tasso di interesse fisso.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Tasso interesse&lt;/f1&gt; è il tasso di interesse periodico.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Numero rate&lt;/f3&gt; è il numero totale di periodi.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Rata&lt;/f5&gt; è l'importo dell'annualità da pagare in ciascun periodo.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Valore attuale&lt;/f7&gt; (facoltativo) è il valore attuale dell'investimento.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Tipo&lt;/f9&gt; (facoltativo) indica se il pagamento degli interessi per ciascun periodo è anticipato (1) o posticipato (0).</seg>
       </tuv>
     </tu>
     <tu>
