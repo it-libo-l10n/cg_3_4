@@ -12342,6 +12342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>FV(rate; NPER; &lt;f0&gt;PMT&lt;/f0&gt;; PV; type)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T140847Z" creationid="Marco Marega" creationdate="20160703T140847Z">
+        <seg>VAL.FUT(tasso interesse; numero rate; &lt;f0&gt;rata&lt;/f0&gt;; valore attuale; tipo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Feedback</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090314Z">
