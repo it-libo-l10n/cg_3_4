@@ -3840,8 +3840,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;IPMT&lt;/f0&gt;(rate; period; NPER; PV; FV; type)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T145708Z" creationid="Marco Marega" creationdate="20160703T145708Z">
-        <seg>&lt;f0&gt;IPMT&lt;/f0&gt;(rate; period; NPER; PV; FV; type)</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T150156Z" creationid="Marco Marega" creationdate="20160703T145708Z">
+        <seg>&lt;f0&gt;INTERESSI&lt;/f0&gt;(tasso interesse; periodi; numero rate; valore attuale; valore futuro; tipo)</seg>
       </tuv>
     </tu>
     <tu>
