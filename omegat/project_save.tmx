@@ -10766,6 +10766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DISC(settlement; maturity; price; redemption; basis)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T092826Z" creationid="Marco Marega" creationdate="20160703T092826Z">
+        <seg>TASSO.SCONTO(Liquidazione; scadenza; prezzo; rimborso; base)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Data Analysis</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095625Z">
@@ -28142,6 +28150,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160215T071738Z">
         <seg>Le dimensioni della pagina, l'orientamento, ed altri attributi dello stile di pagina si applicano solo quando il foglio di lavoro viene stampato; non sono visualizzati sullo schermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The period must be entered in the same time unit as the life.&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;Factor&lt;/f8&gt; (optional) is the factor by which depreciation decreases.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T092716Z" creationid="Marco Marega" creationdate="20160703T092716Z">
+        <seg>I periodi devono essere inseriti nella stessa unità i misura della vita utile.&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;Fattore&lt;/f8&gt; (facoltativo) è il fattore in base al quale l'ammortamento decresce.</seg>
       </tuv>
     </tu>
     <tu>
