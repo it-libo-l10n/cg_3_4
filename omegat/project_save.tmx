@@ -3446,6 +3446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;DDB&lt;/f0&gt;(cost; salvage; life; period; factor)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T091425Z" creationid="Marco Marega" creationdate="20160703T091425Z">
+        <seg>&lt;f0&gt;AMMORT&lt;/f0&gt;(costo; valore residuo; vita utile; periodi; fattore)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Data &gt; Define Range&lt;/f0&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T161012Z" creationid="Luciano B." creationdate="20160411T161012Z">
@@ -19912,6 +19920,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that the book value will never reach zero under this calculation type.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T091837Z" creationid="Marco Marega" creationdate="20160703T091837Z">
+        <seg>Da notare che, utilizzando questo tipo di calcolo, il valore contabile non raggiungerà mai lo zero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that there is a slider between the horizontal scrollbar and the sheet tabs that may be set to one end.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T144324Z" creationid="steevie" creationdate="20160427T143852Z">
@@ -22868,6 +22884,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160702T082120Z" creationid="Marco Marega" creationdate="20160702T082120Z">
         <seg>Restituisce la data di pagamento della prima cedola di interessi precedente alla data di liquidazione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Liquidazione&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; la data di acquisto del titolo.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Scadenza&lt;/f4&gt;&lt;f5&gt; è&lt;/f5&gt; la data di scadenza del titolo.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Frequenza&lt;/f7&gt;&lt;f8&gt; è il&lt;/f8&gt; numero di pagamenti di interessi in un anno (1, 2 o 4).&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Base&lt;/f10&gt; indica il modo in cui viene calcolato l'anno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the depreciation of an asset for a specified period using the arithmetic-declining method.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T091734Z" creationid="Marco Marega" creationdate="20160703T091734Z">
+        <seg>Restituisce il deprezzamento di un bene in un determinato periodo usando il metodo dell'ammortamento degressivo aritmetico.</seg>
       </tuv>
     </tu>
     <tu>
