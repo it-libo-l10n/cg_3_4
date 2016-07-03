@@ -10838,6 +10838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DURATION(rate; PV; &lt;f0&gt;FV&lt;/f0&gt;)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T101107Z" creationid="Marco Marega" creationdate="20160703T101107Z">
+        <seg>DURATA(Tasso; Valore attuale; &lt;f0&gt;Valore futuro&lt;/f0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Data Analysis</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095625Z">
