@@ -3478,6 +3478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;DOLLARFR&lt;/f0&gt;(decimal _dollar; fraction)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T095301Z" creationid="Marco Marega" creationdate="20160703T095301Z">
+        <seg>&lt;f0&gt;VALUTA.FRAZ&lt;/f0&gt;(Numero; divisore)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Data &gt; Define Range&lt;/f0&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T161012Z" creationid="Luciano B." creationdate="20160411T161012Z">
