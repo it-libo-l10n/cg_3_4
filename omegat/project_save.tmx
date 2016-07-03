@@ -11470,6 +11470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>EFFECTIVE(&lt;f0&gt;NOM&lt;/f0&gt;; P)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T132336Z" creationid="Marco Marega" creationdate="20160703T132336Z">
+        <seg>EFFETTIVO(&lt;f0&gt;interesse nominale&lt;/f0&gt;; P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>EFFECT_ADD(nominal _rate; &lt;f0&gt;Npery&lt;/f0&gt;)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T130533Z" creationid="Marco Marega" creationdate="20160703T130533Z">
