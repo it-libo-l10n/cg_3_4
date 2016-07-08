@@ -4118,6 +4118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;MIRR&lt;/f0&gt;(values; investment; reinvest_rate)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160708T171945Z" creationid="Marco Marega" creationdate="20160708T171945Z">
+        <seg>&lt;f0&gt;TIR.VAR&lt;/f0&gt;(valori; investimento; reinvestimenti)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;MROUND&lt;/f0&gt;(number; multiple)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T131723Z" creationid="Marco Marega" creationdate="20160626T131723Z">
