@@ -21424,6 +21424,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PPMT(rate; period; NPER; PV; FV; type)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160711T203510Z" creationid="Marco Marega" creationdate="20160711T203510Z">
+        <seg>P.RATA(tasso interesse; periodi; numero rate; valore attuale; valore futuro; tipo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PRINT_AREA</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142922Z" creationid="steevie" creationdate="20160504T142922Z">
