@@ -4254,6 +4254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;ODDFYIELD&lt;/f0&gt;(settlement; maturity; issue; first_coupon; rate; price; redemption; frequency; basis)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160711T195607Z" creationid="Marco Marega" creationdate="20160711T195607Z">
+        <seg>&lt;f0&gt;REND.PRIMO.IRR&lt;/f0&gt;(liquidazione; scadenza; emissione; primo interesse; tasso interesse; prezzo; rimborso; frequenza; base)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;On the Define Names dialog (&lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figure 143&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;), type a name for the range in the text box with the blinking cursor.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T152206Z">
