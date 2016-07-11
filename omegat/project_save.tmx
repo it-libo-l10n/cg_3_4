@@ -20432,6 +20432,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ODDLPRICE(settlement;&lt;f0&gt; m&lt;/f0&gt;aturity; last_interest;&lt;f1&gt; r&lt;/f1&gt;ate; yield; redemption; frequency; basis)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160711T195826Z" creationid="Marco Marega" creationdate="20160711T195826Z">
+        <seg>PREZZO.ULTIMO.IRR(liquidazione;&lt;f0&gt; s&lt;/f0&gt;cadenza; ultimo interesse;&lt;f1&gt; t&lt;/f1&gt;asso interesse; rendimento; rimborso; frequenza; base)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ODF format version</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T125627Z" creationid="steevie" creationdate="20160421T125627Z">
