@@ -20448,6 +20448,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ODDLYIELD(settlement; maturity; last_interest; rate; price; redemption; frequency; basis)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160711T200923Z" creationid="Marco Marega" creationdate="20160711T200923Z">
+        <seg>REND.ULTIMO.IRR(liquidazione; maturity; last_interest; rate; price; redemption; frequency; basis)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ODF format version</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T125627Z" creationid="steevie" creationdate="20160421T125627Z">
