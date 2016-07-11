@@ -20040,6 +20040,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>NPER(rate; PMT; PV; FV; type)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160711T121332Z" creationid="Marco Marega" creationdate="20160711T121332Z">
+        <seg>NUM.RATE(tasso interesse; rata; valore attuale; valore futuro; tipo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Name</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T151610Z" creationid="steevie" creationdate="20160503T151610Z">
