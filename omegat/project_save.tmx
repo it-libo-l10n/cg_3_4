@@ -4158,6 +4158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;NPV&lt;/f0&gt;(Rate; value_1; value_2; ... value_30)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160711T122403Z" creationid="Marco Marega" creationdate="20160711T122403Z">
+        <seg>&lt;f0&gt;VAN&lt;/f0&gt;(Tasso; valore_1; valore_2; ... valore_30)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;New name&lt;/f0&gt;: you can rename the sheet you are moving or assign a different name to the copied sheet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T135047Z" creationid="michele" creationdate="20160525T135047Z">
