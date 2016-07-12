@@ -21432,6 +21432,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PRICE(settlement; maturity; rate; yield;&lt;f0&gt; r&lt;/f0&gt;edemption; frequency; basis)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160712T173745Z" creationid="Marco Marega" creationdate="20160712T173745Z">
+        <seg>PREZZO(liquidazione; scadenza; tasso interesse; rendimento;&lt;f0&gt; r&lt;/f0&gt;imborso; frequenza; base)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PRINT_AREA</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142922Z" creationid="steevie" creationdate="20160504T142922Z">
