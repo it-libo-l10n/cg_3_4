@@ -21506,8 +21506,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>PV(rate; NPER; PMT; FV; type)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160716T091023Z" creationid="Marco Marega" creationdate="20160716T091023Z">
-        <seg>PV(rate; NPER; PMT; FV; type)</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160716T091206Z" creationid="Marco Marega" creationdate="20160716T091023Z">
+        <seg>VA(tasso interesse; numero rate; rata; valore futuro; tipo)</seg>
       </tuv>
     </tu>
     <tu>
