@@ -4502,6 +4502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;SLN&lt;/f0&gt;(cost; salvage; life)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160716T123020Z" creationid="Marco Marega" creationdate="20160716T123020Z">
+        <seg>&lt;f0&gt;AMMORT.COST&lt;/f0&gt;(costo; valore residuo; vita utile)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;SQRTPI&lt;/f0&gt;(number)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T144128Z" creationid="Marco Marega" creationdate="20160626T144128Z">
@@ -5304,8 +5312,8 @@
       <tuv lang="EN">
         <seg>&lt;f4&gt;&lt;s5/&gt;&lt;/f4&gt;&lt;f6&gt;FV&lt;/f6&gt; is determines what is desired as the cash value of the deposit.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160716T122849Z" creationid="Marco Marega" creationdate="20160716T122849Z">
-        <seg>&lt;f4&gt;&lt;s5/&gt;&lt;/f4&gt;&lt;f6&gt;Valore futuro&lt;/f6&gt; indica il valore in contanti che si desidera ricavare dal depositos.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160716T122905Z" creationid="Marco Marega" creationdate="20160716T122849Z">
+        <seg>&lt;f4&gt;&lt;s5/&gt;&lt;/f4&gt;&lt;f6&gt;Valore futuro&lt;/f6&gt; indica il valore in contanti che si desidera ricavare dal deposito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23740,6 +23748,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T144500Z" creationid="Marco Marega" creationdate="20160626T144500Z">
         <seg>Restituisce la radice quadrata del &lt;f0&gt;numero&lt;/f0&gt; moltiplicato per PI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the straight-line depreciation of an asset for one period.&lt;f0&gt; &lt;/f0&gt;The amount of the depreciation is constant during the depreciation period.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Cost&lt;/f2&gt; is the initial cost of an asset.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Salvage&lt;/f4&gt; is the value of an asset at the end of the depreciation.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Life&lt;/f6&gt; is the depreciation period determining the number of periods in the depreciation of the asset.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160716T123538Z" creationid="Marco Marega" creationdate="20160716T123538Z">
+        <seg>Restituisce l'ammortamento a quote costanti di un bene per un periodo.&lt;f0&gt; &lt;/f0&gt;L'importo dell'ammortamento è costante durante il periodo di ammortamento.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Costo&lt;/f2&gt; è il costo iniziale del bene.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Valore residuo&lt;/f4&gt; è il valore del bene alla fine dell'ammortamento.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Vita utile&lt;/f6&gt; è il periodo di ammortamento che determina il numero di rate di ammortamento del bene.</seg>
       </tuv>
     </tu>
     <tu>
