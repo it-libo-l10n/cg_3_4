@@ -4374,6 +4374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;RRI&lt;/f0&gt;(P; PV; FV)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160716T122530Z" creationid="Marco Marega" creationdate="20160716T122530Z">
+        <seg>&lt;f0&gt;INT.RENDIMENTO&lt;/f0&gt;(P; valore attuale; valore futuro)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Range&lt;/f0&gt; is the range to which the criteria are to be applied.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T145417Z" creationid="Marco Marega" creationdate="20160626T145417Z">
@@ -5290,6 +5298,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T125616Z" creationid="steevie" creationdate="20160427T125616Z">
         <seg>Le macro di &lt;f3&gt;LibreOffice&lt;/f3&gt; Basic devono essere situate nell'intestazione del documento HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f4&gt;&lt;s5/&gt;&lt;/f4&gt;&lt;f6&gt;FV&lt;/f6&gt; is determines what is desired as the cash value of the deposit.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160716T122849Z" creationid="Marco Marega" creationdate="20160716T122849Z">
+        <seg>&lt;f4&gt;&lt;s5/&gt;&lt;/f4&gt;&lt;f6&gt;Valore futuro&lt;/f6&gt; indica il valore in contanti che si desidera ricavare dal depositos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8318,6 +8334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calculates the amount received that is paid for a fixed-interest security at a given point in time.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Settlement&lt;/f1&gt;&lt;f2&gt; is&lt;/f2&gt; the date of purchase of the security.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Maturity&lt;/f4&gt;&lt;f5&gt; is &lt;/f5&gt;the date on which the security matures.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Investment&lt;/f7&gt;&lt;f8&gt; is &lt;/f8&gt;the purchase sum.&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Discount&lt;/f10&gt;&lt;f11&gt; is&lt;/f11&gt; the percentage discount on acquisition of the security.&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;Basis&lt;/f13&gt; indicates how the year is to be calculated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160716T122426Z" creationid="Marco Marega" creationdate="20160716T122426Z">
+        <seg>Calcola l'importo che si ricava in un determinato momento da un titolo con interessi a tasso fisso.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Liquidazione&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; la data di acquisto del titolo.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Scadenza&lt;/f4&gt;&lt;f5&gt; è &lt;/f5&gt;la data di scadenza del titolo.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Investimento&lt;/f7&gt;&lt;f8&gt; è &lt;/f8&gt;l'importo investito.&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Sconto&lt;/f10&gt;&lt;f11&gt; è&lt;/f11&gt; la percentuale di sconto al momento dell'acquisto del titolo.&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;Base&lt;/f13&gt; indica il modo in cui viene calcolato l'anno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calculates the annual interest rate that results when a security (or other item) is purchased at an investment value and sold at a redemption value with no interest being paid.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Settlement&lt;/f1&gt;&lt;f2&gt; is&lt;/f2&gt; the date of purchase of the security.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Maturity&lt;/f4&gt;&lt;f5&gt; is&lt;/f5&gt; the date on which the security is sold.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Investment&lt;/f7&gt;&lt;f8&gt; is&lt;/f8&gt; the purchase price.&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Redemption&lt;/f10&gt;&lt;f11&gt; is&lt;/f11&gt; the selling price.&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;Basis&lt;/f13&gt; indicates how the year is to be calculated.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T145704Z" creationid="Marco Marega" creationdate="20160703T145704Z">
@@ -8362,6 +8386,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T132448Z" creationid="Marco Marega" creationdate="20160703T132448Z">
         <seg>Calcola il tasso di interesse effettivo annuo sulla base del tasso di interesse nominale e del numero di pagamenti di interessi per anno.&lt;f0&gt; &lt;/f0&gt;Il tasso di interessi nominale è riferito all'ammontare degli interessi dovuti alla fine di un periodo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculates the interest rate resulting from the profit (return) of an investment.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;P&lt;/f1&gt; is the number of periods needed for calculating the interest rate.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;PV&lt;/f3&gt; is the present value (must be &gt;0).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160716T122733Z" creationid="Marco Marega" creationdate="20160716T122733Z">
+        <seg>Calcola il tasso di interesse derivante dal guadagno (utile) ottenuto da u investimento.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;P&lt;/f1&gt; è il numero di periodi necessario per calcolare il tasso di interesse.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Valore attuale&lt;/f3&gt; è il valore attuale  (deve essere &gt;0).</seg>
       </tuv>
     </tu>
     <tu>
@@ -22170,8 +22202,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>RECEIVED(settlement; maturity; investment;&lt;f0&gt; d&lt;/f0&gt;iscount; basis)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160716T092752Z" creationid="Marco Marega" creationdate="20160716T092752Z">
-        <seg>RECEIVED(settlement; maturity; investment;&lt;f0&gt; d&lt;/f0&gt;iscount; basis)</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160716T122024Z" creationid="Marco Marega" creationdate="20160716T092752Z">
+        <seg>RICEV.SCAD(liquidazione; scadenza; investimento;&lt;f0&gt; s&lt;/f0&gt;conto; base)</seg>
       </tuv>
     </tu>
     <tu>
