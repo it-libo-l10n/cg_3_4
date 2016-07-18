@@ -1774,6 +1774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figure 51&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt; shows the results of using two manual line breaks after the first line of text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160718T155939Z" creationid="Elisabetta" creationdate="20160718T155939Z">
+        <seg>&lt;/f0&gt;La &lt;f1&gt;Figura &lt;t2&gt;51&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt; presenta il risultato di due interruzioni di riga manuali dopo la prima riga di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;Service contracts can be purchased from a vendor or consulting firm specializing in LibreOffice&lt;f1&gt;.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T083725Z">
@@ -1834,6 +1842,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="akurery" changedate="20160625T070544Z" creationid="akurery" creationdate="20160625T070544Z">
         <seg>&lt;/f2&gt;Dato che molte delle funzioni di Calc richiedono l'inserimento di argomenti specifici ed accuratamente calcolati&lt;f3&gt;, la descrizione presente in quest'appendice non va considerata come un riferimento esaustivo di ogni funzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160718T155944Z" creationid="Elisabetta" creationdate="20160718T155944Z">
+        <seg>&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13998,6 +14014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;51&lt;/seq0&gt;: Cell with manual line breaks</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160718T160011Z" creationid="Elisabetta" creationdate="20160718T160011Z">
+        <seg>Figura &lt;seq0&gt;51&lt;/seq0&gt;: cella con interruzioni di riga manuali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Moving a docked toolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T133923Z" creationid="michele" creationdate="20160414T133923Z">
@@ -25896,6 +25920,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shrinking text to fit the cell</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160718T160101Z" creationid="Elisabetta" creationdate="20160718T160101Z">
+        <seg>Ridurre il testo per adattarlo alla cella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sigrid Kronenberger</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084433Z">
@@ -28326,6 +28358,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T072022Z" creationid="Marco Marega" creationdate="20160625T072022Z">
         <seg>Le tabelle seguenti elencano le funzioni di Calc organizzate in undici categorie.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The font size of the data in a cell can automatically adjust to fit in a cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160718T160153Z" creationid="Elisabetta" creationdate="20160718T160153Z">
+        <seg>Le dimensioni carattere dei dati si possono regolare automaticamente per adattarsi alla cella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36886,6 +36926,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T161219Z">
         <seg>fogli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>shrinking data to fit cell</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160718T160045Z" creationid="Elisabetta" creationdate="20160718T160045Z">
+        <seg>ridurre il testo per adattarlo alla cella</seg>
       </tuv>
     </tu>
     <tu>
