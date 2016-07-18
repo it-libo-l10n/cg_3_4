@@ -2334,6 +2334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Formatting &lt;/f1&gt;&lt;/f0&gt;&lt;is2/&gt;&lt;f3&gt;&lt;f4&gt;numbers&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160718T165834Z" creationid="Elisabetta" creationdate="20160718T165834Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Formattazione dei &lt;/f1&gt;&lt;/f0&gt;&lt;is2/&gt;&lt;f3&gt;&lt;f4&gt;numeri&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Function&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;SumCellsAllSheets&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T152223Z" creationid="steevie" creationdate="20160620T152223Z">
@@ -14026,6 +14034,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160718T160011Z" creationid="Elisabetta" creationdate="20160718T160011Z">
         <seg>Figura &lt;seq0&gt;51&lt;/seq0&gt;: cella con interruzioni di riga manuali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;52&lt;/seq0&gt;: Shrinking font size to fit cells</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160718T165617Z" creationid="Elisabetta" creationdate="20160718T165617Z">
+        <seg>Figura &lt;seq0&gt;52&lt;/seq0&gt;: ridurre il testo per adattarlo alle celle</seg>
       </tuv>
     </tu>
     <tu>
