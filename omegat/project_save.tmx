@@ -2336,8 +2336,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Formatting &lt;/f1&gt;&lt;/f0&gt;&lt;is2/&gt;&lt;f3&gt;&lt;f4&gt;numbers&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160718T165834Z" creationid="Elisabetta" creationdate="20160718T165834Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Formattazione dei &lt;/f1&gt;&lt;/f0&gt;&lt;is2/&gt;&lt;f3&gt;&lt;f4&gt;numeri&lt;/f4&gt;&lt;/f3&gt;</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160718T165958Z" creationid="Elisabetta" creationdate="20160718T165834Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Formattare i &lt;/f1&gt;&lt;/f0&gt;&lt;is2/&gt;&lt;f3&gt;&lt;f4&gt;numeri&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14046,6 +14046,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;53&lt;/seq0&gt;: Number format icons.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160718T170150Z" creationid="Elisabetta" creationdate="20160718T170150Z">
+        <seg>Figura &lt;seq0&gt;53&lt;/seq0&gt;: icone di formato numero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Moving a docked toolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T133923Z" creationid="michele" creationdate="20160414T133923Z">
@@ -25032,6 +25040,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the cell, then click the relevant icon.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160718T170044Z" creationid="Elisabetta" creationdate="20160718T170044Z">
+        <seg>Selezionate la cella, quindi fate clic sull'icona appropriata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the cells that contain the values that will change between scenarios.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T135302Z" creationid="michele" creationdate="20160531T135302Z">
@@ -25608,6 +25624,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Several different number formats can be applied to cells by using icons on the Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160718T170025Z" creationid="Elisabetta" creationdate="20160718T165933Z">
+        <seg>Mediante le icone presenti nella barra degli strumenti Formattazione si possono applicare diversi formati ai dati numerici contenuti nelle celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Several different print ranges can be defined to meet this need.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T151657Z">
@@ -26100,6 +26124,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T142940Z" creationid="steevie" creationdate="20160526T134011Z">
         <seg>Il nome di alcune funzioni cambia solo per il suffisso .VALORI; ad esempio MEDIA e MEDIA.VALORI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some icons may not be visible in a default setup; click the down-arrow at the end of the Formatting bar and select other icons to display.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160718T170119Z" creationid="Elisabetta" creationdate="20160718T170119Z">
+        <seg>Alcune icone potrebbero non essere visibili per impostazione predefinita, perciò fate clic sulla freccia in basso alla fine della barra degli strumenti Formattazione e selezionate altre icone da visualizzare.</seg>
       </tuv>
     </tu>
     <tu>
