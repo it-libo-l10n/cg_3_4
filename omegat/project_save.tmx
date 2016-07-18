@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -30114,6 +30114,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This method does not work with the cursor in the input line.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160718T155335Z" creationid="Elisabetta" creationdate="20160718T155335Z">
+        <seg>Questo metodo non funziona con il cursore posizionato nella riga di digitazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This method is most useful when the two cells are a large distance apart.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T095517Z" creationid="michele" creationdate="20160525T095517Z">
@@ -33334,6 +33342,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T151202Z" creationid="luciano" creationdate="20160424T135428Z">
         <seg>Una volta terminato, fate clic fuori dal commento per deselezionarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When editing text, first double-click the cell, then single-click at the position where you want the line break.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160718T155511Z" creationid="Elisabetta" creationdate="20160718T155511Z">
+        <seg>In fase di modifica del testo, per prima cosa fate doppio clic nella cella, quindi un clic singolo nella posizione in cui desiderate interrompere la riga.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
