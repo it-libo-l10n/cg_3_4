@@ -5022,6 +5022,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;VDB&lt;/f0&gt;(cost; salvage; life; start; end; factor; type)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160719T123110Z" creationid="Marco Marega" creationdate="20160719T123110Z">
+        <seg>&lt;f0&gt;AMMORT.VAR&lt;/f0&gt;(costo; valore residuo; vita utile; periodo iniziale; periodo finale; fattore; tipo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;View&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;contains commands for modifying how the Calc user interface looks such as &lt;/f2&gt;&lt;f3&gt;Toolbars, Full Screen&lt;/f3&gt;&lt;f4&gt;, and &lt;/f4&gt;&lt;f5&gt;Zoom&lt;/f5&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T165143Z">
