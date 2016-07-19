@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4734,6 +4734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;TBILLPRICE&lt;/f0&gt;(settlement; maturity; discount)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160719T122428Z" creationid="Marco Marega" creationdate="20160719T122428Z">
+        <seg>&lt;f0&gt;BOT.PREZZO&lt;/f0&gt;(liquidazione; scadenza; sconto)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;TRUNC&lt;/f0&gt;(number; count)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T150207Z" creationid="Marco Marega" creationdate="20160626T150207Z">
@@ -8424,8 +8432,8 @@
       <tuv lang="EN">
         <seg>Calculates the annual return on a treasury bill.&lt;f0&gt; &lt;/f0&gt;&lt;s1/&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;Settlement&lt;/f4&gt; is the date of purchase of the security.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Maturity&lt;/f6&gt; is the date on which the security matures (expires).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160716T130039Z" creationid="Marco Marega" creationdate="20160716T130039Z">
-        <seg>Calcola il rendimento annuale di un buono del tesoro.&lt;f0&gt; &lt;/f0&gt;&lt;s1/&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;Liquidazione&lt;/f4&gt; la data di acquisto del titolo.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Scadenza&lt;/f6&gt; è la data di scadenza del titolo..</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160719T122544Z" creationid="Marco Marega" creationdate="20160716T130039Z">
+        <seg>Calcola il rendimento annuale di un buono del tesoro.&lt;f0&gt; &lt;/f0&gt;&lt;s1/&gt;&lt;f2&gt;&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;Liquidazione&lt;/f4&gt; è la data di acquisto del titolo.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Scadenza&lt;/f6&gt; è la data di scadenza del titolo..</seg>
       </tuv>
     </tu>
     <tu>
@@ -8530,6 +8538,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T151301Z" creationid="Marco Marega" creationdate="20160703T151233Z">
         <seg>Calcola la rata di &lt;f0&gt;ammortamento&lt;/f0&gt; periodica per un investimento con pagamenti costanti e tasso di interesse fisso.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Tasso interesse&lt;/f2&gt; è il tasso di interesse periodico.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Periodi&lt;/f4&gt; è il periodo per il quale viene calcolato l'interesse composto.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Numero rate&lt;/f6&gt; è il numero totale dei periodi durante i quali viene pagata l'annualità.&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;Periodi=Numero rate&lt;/f8&gt;&lt;f9&gt;,&lt;/f9&gt; se si sta conteggiando l'interesse composto per l'ultimo periodo.&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;Valore attuale&lt;/f11&gt; è il valore attuale di una serie di pagamenti.&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;Valore futuro&lt;/f13&gt; (facoltativo) è il valore che si desidera ottenere al termine dei periodi (montante).&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;Tipo&lt;/f15&gt; (facoltativo) indica se il pagamento degli interessi per ciascun periodo è anticipato (1) o posticipato (0).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculates the price of a treasury bill per 100 currency units.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Settlement&lt;/f1&gt; is the date of purchase of the security.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Maturity&lt;/f3&gt; is the date on which the security matures (expires).&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Discount&lt;/f5&gt; is the percentage discount upon acquisition of the security.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160719T122533Z" creationid="Marco Marega" creationdate="20160719T122533Z">
+        <seg>Calcola il prezzo di un buono del tesoro del valore nominale di 100 unità monetarie.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Liquidazione&lt;/f1&gt; è la data di acquisto del titolo.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Maturity&lt;/f3&gt; is the date on which the security matures (expires).&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Discount&lt;/f5&gt; is the percentage discount upon acquisition of the security.</seg>
       </tuv>
     </tu>
     <tu>
