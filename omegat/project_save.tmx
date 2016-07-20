@@ -8566,6 +8566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calculates the capital value (net present value) for a list of payments which take place on different dates.&lt;f0&gt; &lt;/f0&gt;The calculation is based on a 365 days per year basis, ignoring leap years.&lt;f1&gt; &lt;/f1&gt;If the payments take place at regular intervals, use the NPV function.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Rate&lt;/f3&gt; is the internal rate of return for the payments.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Values&lt;/f5&gt; and &lt;f6&gt;dates&lt;/f6&gt; are a series of payments and the series of associated date values entered as cell references.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160720T204133Z" creationid="Marco Marega" creationdate="20160720T204133Z">
+        <seg>Calcola il valore del capitale (valore attuale netto) per una serie di pagamenti effettuati in date diverse.&lt;f0&gt; &lt;/f0&gt;Il calcolo è basato sull'anno di 365 giorni, ignorando gli anni bisestili.&lt;f1&gt; &lt;/f1&gt;Se i pagamenti vengono effettuati a scadenze regolari, utilizzate la funzione VAN.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Tasso interesse&lt;/f3&gt; è il tasso di rendimento interno dei pagamenti.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Valori&lt;/f5&gt; e &lt;f6&gt;date&lt;/f6&gt; sono una serie di pagamenti ed una serie di date associate inserite come riferimenti di celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calculates the cumulative interest payments (the total interest) for an investment based on a constant interest rate.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Rate&lt;/f1&gt;&lt;f2&gt; is&lt;/f2&gt; the periodic interest rate.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;NPER&lt;/f4&gt;&lt;f5&gt; is&lt;/f5&gt; the payment period with the total number of periods.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160702T090338Z" creationid="Marco Marega" creationdate="20160702T084105Z">
@@ -34390,6 +34398,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T083730Z" creationid="michele" creationdate="20160524T083730Z">
         <seg>P&lt;/f5&gt;uoi alternativamente modificare il contenuto della cella nella barra delle formule, o nella cella corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>YIELD(settlement; maturity; rate; price; redemption; frequency; basis)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160720T204234Z" creationid="Marco Marega" creationdate="20160720T204234Z">
+        <seg>REND(liquidazione; scadenza; tasso interesse; prezzo; rimborso; frequenza; base)</seg>
       </tuv>
     </tu>
     <tu>
