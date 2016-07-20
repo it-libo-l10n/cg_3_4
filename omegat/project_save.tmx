@@ -21840,6 +21840,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Page</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160720T163425Z" creationid="briga" creationdate="20160720T163425Z">
+        <seg>Pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Page Down</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160505T142835Z" creationid="luciano" creationdate="20160504T161725Z">
@@ -21884,6 +21892,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T092644Z" creationid="michele" creationdate="20160524T092644Z">
         <seg>Stile della pagina(&lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Page style options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160720T163218Z" creationid="briga" creationdate="20160720T163218Z">
+        <seg>Opzioni stili di pagina</seg>
       </tuv>
     </tu>
     <tu>
@@ -25836,6 +25852,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T151657Z">
         <seg>Numerose differenti aree di stampa possono essere definite per soddisfare questa esigenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Several of the page style options are described in more detail in Chapter 6, Printing, Exporting, and E-mailing, because manually formatting a sheet at print time (using &lt;f0&gt;Format &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Page&lt;/f3&gt;) actually modifies the page style.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160720T163422Z" creationid="briga" creationdate="20160720T163422Z">
+        <seg>Diverse opzioni degli stili di pagina sono descritti in maggiore dettaglio all'interno del Capitolo 6 (Stampa, Esportazione ed eMail), poiché modificare la formattazione manualmente al momento di stampare (usando &lt;f0&gt;Formato &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; pagina&lt;/f3&gt;) in realtà modifica lo stile della pagina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32622,6 +32646,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T123727Z" creationid="michele" creationdate="20160524T123351Z">
         <seg>Usa la sezione &lt;f0&gt;Apri Documento&lt;/f0&gt; nel Quickstart.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the &lt;f0&gt;Page&lt;/f0&gt; tab to edit the overall appearance of the page and its layout.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160720T163508Z" creationid="briga" creationdate="20160720T163508Z">
+        <seg>Usate la scheda &lt;f0&gt;Pagina&lt;/f0&gt; per modificare l'aspetto generale della pagina ed il suo layout .</seg>
       </tuv>
     </tu>
     <tu>
