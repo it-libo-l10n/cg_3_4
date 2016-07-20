@@ -4806,6 +4806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;Font Effects &lt;/f1&gt;tab&lt;f2&gt; offers more font options including underlining, strikethrough, and color.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160720T162704Z" creationid="briga" creationdate="20160720T162704Z">
+        <seg>&lt;f0&gt;La scheda &lt;/f0&gt;&lt;f1&gt;Effetti carattere&lt;/f1&gt; &lt;f2&gt; offre ulteriori opzioni comprese sottolineato, barrato e colori.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The automatic page break lines are then displayed&lt;/f0&gt;&lt;f1&gt; on the screen.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T161006Z">
@@ -5018,6 +5026,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T100532Z" creationid="michele" creationdate="20160525T100532Z">
         <seg>&lt;f0&gt;Usa una delle due combinazioni &lt;/f0&gt;&lt;f1&gt;Alt+tasti freccia &lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;per ridimensionare &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;la larghezza di una cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Use the &lt;/f0&gt;&lt;f1&gt;Alignment&lt;/f1&gt;&lt;f2&gt; tab to set the horizontal and vertical alignment for the data in the cells, and rotate the text.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160720T162835Z" creationid="briga" creationdate="20160720T162835Z">
+        <seg>&lt;f0&gt;Usate la scheda &lt;/f0&gt;&lt;f1&gt;Allineamento&lt;/f1&gt;&lt;f2&gt; per impostare gli allineamenti orizzontale e verticale del contenuto delle celle, e per ruotare il testo.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6742,6 +6758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alignment</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160720T162734Z" creationid="briga" creationdate="20160720T162734Z">
+        <seg>Allineamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All data that is changed, is marked as changed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T134652Z" creationid="luciano" creationdate="20160429T134652Z">
@@ -7842,6 +7866,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133131Z" creationid="steevie" creationdate="20160517T133131Z">
         <seg>Valore booleano che indica se i dati filtrati devono essere copiati in un'altra posizione nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Borders</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160720T162849Z" creationid="briga" creationdate="20160720T162849Z">
+        <seg>Bordi</seg>
       </tuv>
     </tu>
     <tu>
@@ -35514,6 +35546,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>alignment options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160720T162711Z" creationid="briga" creationdate="20160720T162711Z">
+        <seg>opzioni di allineamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>anchor, visible</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143003Z" creationid="steevie" creationdate="20160427T143003Z">
@@ -35638,6 +35678,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T141844Z" creationid="Luciano B." creationdate="20160326T154151Z">
         <seg>esportare pagine vuote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>border options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160720T162842Z" creationid="briga" creationdate="20160720T162842Z">
+        <seg>opzioni bordi</seg>
       </tuv>
     </tu>
     <tu>
