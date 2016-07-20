@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5146,6 +5146,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160323T163440Z">
         <seg>&lt;f0&gt;Finestra&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;contiene comandi per le finestre visualizzate &lt;/f2&gt;&lt;f3&gt;Nuova finestra&lt;/f3&gt;&lt;f4&gt;, e &lt;/f4&gt;&lt;f5&gt;Chiudi finestra.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;XIRR&lt;/f0&gt;(values; dates; guess)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160720T202601Z" creationid="Marco Marega" creationdate="20160720T202601Z">
+        <seg>&lt;f0&gt;TIR.X&lt;/f0&gt;(valori; date; ipotesi)</seg>
       </tuv>
     </tu>
     <tu>
