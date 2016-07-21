@@ -2470,6 +2470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Setting&lt;/f1&gt;&lt;/f0&gt; &lt;i2/&gt;cell alignment &lt;f3&gt;&lt;f4&gt;and orientation&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160721T154733Z" creationid="Elisabetta" creationdate="20160721T154733Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Impostare&lt;/f1&gt;&lt;/f0&gt; &lt;i2/&gt;allineamento &lt;f3&gt;&lt;f4&gt;e orientamento&lt;/f4&gt;&lt;/f3&gt; della cella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;AddManyNamedRanges&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T144323Z" creationid="steevie" creationdate="20160509T144250Z">
@@ -14354,6 +14362,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160721T154156Z" creationid="Elisabetta" creationdate="20160721T154156Z">
         <seg>Figura &lt;seq0&gt;55&lt;/seq0&gt;: scheda Effetti carattere nella &lt;f1&gt;finestra di dialogo&lt;/f1&gt; Formatta celle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;56&lt;/seq0&gt;: Cell alignment and orientation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160721T154837Z" creationid="Elisabetta" creationdate="20160721T154837Z">
+        <seg>Figura &lt;seq0&gt;56&lt;/seq0&gt;: allineamento e orientamento della cella</seg>
       </tuv>
     </tu>
     <tu>
@@ -26592,6 +26608,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some of the cell alignment and orientation icons are not shown by default on the Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160721T154801Z" creationid="Elisabetta" creationdate="20160721T154801Z">
+        <seg>Alcune delle icone di allineamento e orientamento della cella non vengono visualizzate per impostazione predefinita nella barra degli strumenti Formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some of the descriptions in this appendix define limitations on the number of values or arguments that can be passed to the function.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T075048Z" creationid="Marco Marega" creationdate="20160625T074902Z">
@@ -32158,6 +32182,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T140052Z" creationid="michele" creationdate="20160414T140052Z">
         <seg>Per visualizzare o nascondere le icone definite per la barra degli strumenti selezionata, seleziona &lt;f0&gt;Bottoni Visibili&lt;/f0&gt; dal menu a discesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To show them, click on the small arrow at the right-hand end of the toolbar and select them from the list of icons.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160721T154815Z" creationid="Elisabetta" creationdate="20160721T154815Z">
+        <seg>Per renderle visibili fate clic sulla piccola freccia all'estremità destra della barra strumenti, quindi selezionatele dall'elenco delle icone presenti.</seg>
       </tuv>
     </tu>
     <tu>
