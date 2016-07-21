@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7358,6 +7358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Apply any of the data types in the Category list to the data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160721T150415Z" creationid="Elisabetta" creationdate="20160721T150415Z">
+        <seg>Assegnare ai dati una delle tipologie presenti nell'elenco Categoria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Applying &lt;i0/&gt;page styles</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160509T075440Z" creationid="briga" creationdate="20160509T075440Z">
@@ -10654,6 +10662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Control the number of decimal places and leading zeros.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160721T150452Z" creationid="Elisabetta" creationdate="20160721T150452Z">
+        <seg>Verificare il numero di cifre decimali e di zeri iniziali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Control+End</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T104815Z" creationid="michele" creationdate="20160525T104815Z">
@@ -12354,6 +12370,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T105341Z" creationid="michele" creationdate="20160525T105341Z">
         <seg>Invio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter a custom format code.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160721T150516Z" creationid="Elisabetta" creationdate="20160721T150516Z">
+        <seg>Inserire un codice di formato personalizzato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14286,6 +14310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;54&lt;/seq0&gt;: &lt;s1/&gt;Format Cells &lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt; Numbers</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160721T150342Z" creationid="Elisabetta" creationdate="20160721T150342Z">
+        <seg>Figura &lt;seq0&gt;54&lt;/seq0&gt;: &lt;s1/&gt;Formatta Celle &lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt; Numeri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Moving a docked toolbar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T133923Z" creationid="michele" creationdate="20160414T133923Z">
@@ -15016,8 +15048,8 @@
       <tuv lang="EN">
         <seg>For more control or to select other number formats, use the &lt;f0&gt;Numbers&lt;/f0&gt; tab (&lt;t1&gt;Figure 54&lt;/t1&gt;) of the Format Cells dialog.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160718T170352Z" creationid="Elisabetta" creationdate="20160718T170352Z">
-        <seg>[fuzzy]Per un maggiore controllo o per selezionare altri formati numerici, potete usare la scheda &lt;f0&gt;Numeri&lt;/f0&gt; (&lt;t1&gt;Figura 128&lt;/t1&gt;) della finestra di dialogo Formatta celle per:</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160721T150247Z" creationid="Elisabetta" creationdate="20160718T170352Z">
+        <seg>Per disporre di un livello di controllo più elevato o per selezionare altri formati numerici, scegliete la scheda &lt;f0&gt;Numeri&lt;/f0&gt; (Figura &lt;t1&gt;54&lt;/t1&gt;) della finestra di dialogo Formatta celle per:</seg>
       </tuv>
     </tu>
     <tu>
