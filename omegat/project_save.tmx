@@ -23512,6 +23512,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Relief</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160721T154454Z" creationid="Elisabetta" creationdate="20160721T154454Z">
+        <seg>Effetto Rilievo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remember to separate the cell references with a colon.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T103455Z">
@@ -27208,6 +27216,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Strikethrough</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160721T154351Z" creationid="Elisabetta" creationdate="20160721T154351Z">
+        <seg>Effetto barrato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Style organizer</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160509T080404Z" creationid="briga" creationdate="20160509T080404Z">
@@ -27789,6 +27805,22 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T164000Z">
         <seg>La &lt;i0/&gt;Barra del titolo, nella parte superiore della finestra, mostra il nome del foglio elettronico attualmente in uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;is0/&gt;relief options&lt;ie1/&gt; are embossed (raised text), engraved (sunken text), outline, and shadow.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160721T154549Z" creationid="Elisabetta" creationdate="20160721T154549Z">
+        <seg>Le &lt;is0/&gt;opzioni rilievo&lt;ie1/&gt; sono In rilievo (testo sollevato), Inciso (testo incassato), Contorno e Ombra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;is0/&gt;strikethrough&lt;ie1/&gt; options include lines, slashes, and Xs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160721T154433Z" creationid="Elisabetta" creationdate="20160721T154433Z">
+        <seg>Le opzioni relative all'effetto &lt;is0/&gt;barrato&lt;ie1/&gt; contemplano testo con linee, barre e X.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36086,6 +36118,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160215T071746Z">
         <seg>cella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cell alignment and orientation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160721T154618Z" creationid="Elisabetta" creationdate="20160721T154618Z">
+        <seg>allineamento e orientamento della cella</seg>
       </tuv>
     </tu>
     <tu>
