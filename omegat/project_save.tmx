@@ -9678,6 +9678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Tools &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Cell Contents &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; AutoCalculate&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T173812Z" creationid="Elisabetta" creationdate="20160722T173812Z">
+        <seg>Scegliete la voce &lt;f0&gt;Strumenti &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Contenuti celle &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Calcolo automatico&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;Tools &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Options &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;LibreOffice&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; Appearance&lt;/f12&gt; and scroll down to the Spreadsheet section.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T154141Z">
@@ -10746,6 +10754,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160206T083045Z">
         <seg>Conclusione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conditional formatting requires the use of styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T173827Z" creationid="Elisabetta" creationdate="20160722T173827Z">
+        <seg>La formattazione condizionata richiede l'uso degli stili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15054,6 +15070,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, in a table of numbers, you can show all the values above the average in green and all those below the average in red.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T173650Z" creationid="Elisabetta" creationdate="20160722T173650Z">
+        <seg>Ad esempio, in una tabella contenente numeri, potete evidenziare in verde tutti i valori superiori a un valore medio e in rosso tutti quelli inferiori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, in addition to &lt;f11&gt;File&lt;/f11&gt;, &lt;f12&gt;Edit&lt;/f12&gt;, &lt;f13&gt;View&lt;/f13&gt;, and so on, there is &lt;f14&gt;File &lt;/f14&gt;|&lt;f15&gt; Send&lt;/f15&gt; and &lt;f16&gt;File &lt;/f16&gt;|&lt;f17&gt;Templates&lt;/f17&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163246Z" creationid="steevie" creationdate="20160428T163246Z">
@@ -17122,6 +17146,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T133923Z" creationid="michele" creationdate="20160525T133923Z">
         <seg>Se volete inserire un solo foglio, è possibile dare ad esso un nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are not familiar with styles, please refer to Chapter 4.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T173844Z" creationid="Elisabetta" creationdate="20160722T173844Z">
+        <seg>Se non avete dimestichezza con gli stili, fate riferimento al capitolo 4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31510,6 +31542,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T171532Z" creationid="Elisabetta" creationdate="20160722T171532Z">
         <seg>Per assegnare un tema a un foglio elettronico:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To apply conditional formatting, AutoCalculate must be enabled.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T173725Z" creationid="Elisabetta" creationdate="20160722T173725Z">
+        <seg>Per applicare la formattazione condizionata, dovete attivare il Calcolo automatico.</seg>
       </tuv>
     </tu>
     <tu>
