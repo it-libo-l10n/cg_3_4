@@ -9606,6 +9606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Format &gt; AutoFormat&lt;/f0&gt;&lt;f1&gt; from the Menu bar.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T165635Z" creationid="Elisabetta" creationdate="20160722T165635Z">
+        <seg>Scegliete la voce &lt;f0&gt;Formato&gt; Formattazione automatica&lt;/f0&gt;&lt;f1&gt; dalla barra dei menu.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;Insert &lt;/f0&gt;&lt;f1&gt;&gt; Chart&lt;/f1&gt; from the menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T082743Z" creationid="emanuelegiusti" creationdate="20160611T082743Z">
@@ -25616,6 +25624,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the cells that you want to format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T165553Z" creationid="Elisabetta" creationdate="20160722T165553Z">
+        <seg>Selezionate le celle da formattare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the color to modify from the list or the color table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T151847Z" creationid="steevie" creationdate="20160418T151847Z">
@@ -32314,6 +32330,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To select which properties (number format, font, alignment, borders, pattern, autofit width and height) to include in an AutoFormat, click &lt;f0&gt;More&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T165740Z" creationid="Elisabetta" creationdate="20160722T165740Z">
+        <seg>Per selezionare le proprietà (formato numero, tipo di carattere, allineamento, bordo, modello, adatta larghezza/altezza) da includere nella Formattazione automatica, fate clic su &lt;f0&gt;Più&lt;/f0&gt;,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To set a header or footer:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T165515Z">
@@ -35798,6 +35822,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160422T151702Z" creationid="luciano" creationdate="20160422T151416Z">
         <seg>Potete utilizzare diversi modi per registrare le modifiche che voi o altri utenti apportate a un documento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use the AutoFormat feature to quickly apply a set of cell formats to a sheet or a selected cell range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T165533Z" creationid="Elisabetta" creationdate="20160722T165533Z">
+        <seg>Scegliete la funzione Formattazione automatica per applicare rapidamente una serie di formati di cella a un foglio oppure a un intervallo di celle selezionato.</seg>
       </tuv>
     </tu>
     <tu>
