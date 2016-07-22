@@ -9014,6 +9014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cell style</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T174918Z" creationid="Elisabetta" creationdate="20160722T174918Z">
+        <seg>Stile di cella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cell style options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160616T192725Z" creationid="briga" creationdate="20160616T192725Z">
@@ -12606,6 +12614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter a reference, value, or formula in the parameter field, or in both parameter fields if you have selected a condition that requires two parameters.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T174804Z" creationid="Elisabetta" creationdate="20160722T174804Z">
+        <seg>Inserite un riferimento, un valore o una formula nel campo parametro, oppure in entrambi, nel caso abbiate selezionato una condizione che richieda due parametri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter a zoom percentage of your choice.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T150609Z" creationid="michele" creationdate="20160525T150609Z">
@@ -14574,6 +14590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;60&lt;/seq0&gt;: Conditional formatting dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T174901Z" creationid="Elisabetta" creationdate="20160722T174901Z">
+        <seg>Figura &lt;seq0&gt;60&lt;/seq0&gt;: finestra di dialogo Formattazione condizionata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Control+double-click to dock or undock</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T134401Z" creationid="michele" creationdate="20160414T134401Z">
@@ -16090,6 +16114,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T135249Z" creationid="antonio" creationdate="20160524T135249Z">
         <seg>Ecco un breve riassunto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here you can choose from conditions including &lt;f4&gt;less than&lt;/f4&gt;, &lt;f5&gt;greater than&lt;/f5&gt;, &lt;f6&gt;between&lt;/f6&gt;, and others.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T174644Z" creationid="Elisabetta" creationdate="20160722T174644Z">
+        <seg>A questo punto potete scegliere tra alcune condizioni, per es., &lt;f4&gt;minore di&lt;/f4&gt;, &lt;f5&gt;maggiore di&lt;/f5&gt;, &lt;f6&gt;compreso tra&lt;/f6&gt; e altri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22508,6 +22540,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160720T163559Z" creationid="briga" creationdate="20160720T163559Z">
         <seg>Formato foglio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Parameter field</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T174729Z" creationid="Elisabetta" creationdate="20160722T174729Z">
+        <seg>Campo parametro</seg>
       </tuv>
     </tu>
     <tu>
@@ -35486,6 +35526,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T145141Z" creationid="Marco Marega" creationdate="20160626T145141Z">
         <seg>E' possibile inserire un intervallo anche usando riferimenti a celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also enter formulas containing relative references.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T174831Z" creationid="Elisabetta" creationdate="20160722T174831Z">
+        <seg>Alternativamente potete inserire formule contenenti riferimenti relativi.</seg>
       </tuv>
     </tu>
     <tu>
