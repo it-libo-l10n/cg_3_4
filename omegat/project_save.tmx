@@ -2350,6 +2350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Formatting the &lt;/f1&gt;&lt;/f0&gt;&lt;is2/&gt;&lt;f3&gt;&lt;f4&gt;cell background&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T163825Z" creationid="Elisabetta" creationdate="20160722T163825Z">
+        <seg>[fuzzy]Formattazione dello sfondo della cella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Formatting the &lt;/f1&gt;&lt;/f0&gt;&lt;is2/&gt;&lt;f3&gt;&lt;f4&gt;cell borders&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T161938Z" creationid="Elisabetta" creationdate="20160722T161938Z">
@@ -14886,6 +14894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if cell C3 has a top border (which would be equivalent visually to a bottom border on C2), that border can only be removed by selecting C3.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T163810Z" creationid="Elisabetta" creationdate="20160722T163810Z">
+        <seg>Ad esempio, se la cella C3 presenta un bordo superiore che visivamente corrisponde al bordo inferiore della cella C2, esso può essere rimosso solo selezionando C3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if the active cell is H15, then the break is created between columns G and H.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153939Z">
@@ -18907,6 +18923,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T122002Z" creationid="michele" creationdate="20160525T122002Z">
         <seg>Può spostare la selezione giù, a destra, su, o a sinistra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It cannot be removed in C2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T163831Z" creationid="Elisabetta" creationdate="20160722T163821Z">
+        <seg>Non può essere rimosso in C2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28429,6 +28453,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T102855Z">
         <seg>Ora l'interruzione è impostata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The cell border properties apply to a cell, and can only be changed if you are editing that cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T163652Z" creationid="Elisabetta" creationdate="20160722T163652Z">
+        <seg>Le proprietà del bordo possono essere cambiate solo durante la modifica della cella.</seg>
       </tuv>
     </tu>
     <tu>
