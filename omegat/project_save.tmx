@@ -26128,6 +26128,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selecting here will apply Value Highlighting each time you open Calc, which you may not want.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T173442Z" creationid="Elisabetta" creationdate="20160722T173442Z">
+        <seg>La selezione di questa opzione applica la funzione di Evidenziazione valori a ogni apertura del programma e questo potrebbe non corrispondere a quanto desiderate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Selecting items in a sheet or spreadsheet</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T212050Z">
@@ -29310,6 +29318,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142701Z" creationid="steevie" creationdate="20160504T142701Z">
         <seg>Il quarto argomento del metodo addNewByName() è una combinazione di opzioni che indicano come l'intervallo con nome verrà usato (vedi &lt;t0&gt;Tabella 14&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The function may be turned on by selecting &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; View&lt;/f0&gt; and selecting &lt;f1&gt;Value Highlighting&lt;/f1&gt; in the &lt;f2&gt;Display&lt;/f2&gt; section.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T173410Z" creationid="Elisabetta" creationdate="20160722T173410Z">
+        <seg>La funzione si attiva selezionando la voce &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice Calc &gt; Vista&lt;/f0&gt;, quindi &lt;f1&gt;Evidenzia valori&lt;/f1&gt; nell'area &lt;f2&gt;Mostra&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33642,6 +33658,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using &lt;i0/&gt;conditional formatting</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T173538Z" creationid="Elisabetta" creationdate="20160722T173538Z">
+        <seg>Utilizzare la &lt;i0/&gt;formattazione condizionata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using &lt;is0/&gt;&lt;is1/&gt;Fill Format mode</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160505T074416Z" creationid="briga" creationdate="20160505T074339Z">
@@ -35994,6 +36018,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can set up cell formats to change depending on conditions that you specify.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T173615Z" creationid="Elisabetta" creationdate="20160722T173539Z">
+        <seg>Consente di configurare la modifica del formato delle celle in base a condizioni specificate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can share your insight in two ways: by adding comments to the changes you made, or by adding general comments to the spreadsheet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160423T144253Z" creationid="luciano" creationdate="20160423T144253Z">
@@ -36814,6 +36846,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160428T155435Z" creationid="luciano" creationdate="20160428T155420Z">
         <seg>confronto tra documenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>conditional</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T173545Z" creationid="Elisabetta" creationdate="20160722T173501Z">
+        <seg>condizionata</seg>
       </tuv>
     </tu>
     <tu>
