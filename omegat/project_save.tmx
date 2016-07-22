@@ -29418,6 +29418,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The newly formatted borders may not be visible on all edges, and may not print either.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T163248Z" creationid="Elisabetta" creationdate="20160722T163248Z">
+        <seg>I bordi appena formattati potrebbero risultare non completamente visibili né stampabili. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The nonprinting area has a gray background.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T110627Z">
@@ -31610,6 +31618,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To ensure that all the newly formatted borders are visible and will print, you may have to increase the border width by trial and error to a size sufficiently large to override adjacent cell border settings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T163357Z" creationid="Elisabetta" creationdate="20160722T163357Z">
+        <seg>Per garantire che tutti i bordi appena formattati risultino visibili e stampabili potrebbe essere necessario procedere per tentativi ed errori nell'incrementare la larghezza del bordo, fino al punto di sostituire le impostazioni relative al bordo della cella adiacente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To ensure that an entry that looks like a date is interpreted as text, type an apostrophe at the beginning of the entry.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T172820Z" creationid="Elisabetta" creationdate="20160628T172820Z">
@@ -33126,6 +33142,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T135616Z" creationid="steevie" creationdate="20160504T135616Z">
         <seg>Usate la finestra di dialogo Definisci nome per aggiungere o modificare un intervallo con nome per volta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the Print Preview control to ensure that borders are visible for printing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T163415Z" creationid="Elisabetta" creationdate="20160722T163415Z">
+        <seg>Scegliete il campo di controllo Anteprima di stampa per assicurarvi che i bordi siano visibili in fase di stampa.</seg>
       </tuv>
     </tu>
     <tu>
