@@ -7894,6 +7894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Before you format a sheet with a theme, you have to apply at least one custom cell style to the cells on the sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T171232Z" creationid="Elisabetta" creationdate="20160722T171232Z">
+        <seg>Prima di formattare un foglio con l'assegnazione di un tema, dovete applicare almeno uno stile di cella personalizzato alle celle del foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Begin editing the document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T145747Z" creationid="luciano" creationdate="20160423T123633Z">
@@ -16246,6 +16254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, you can modify their styles after you apply them to a spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T171142Z" creationid="Elisabetta" creationdate="20160722T171142Z">
+        <seg>Potete comunque modificarne gli stili dopo averli applicati a un foglio elettronico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, you can remove it from any cell in column H.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T155433Z">
@@ -19081,8 +19097,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>It is not possible to add themes to Calc, and they cannot be modified.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T171020Z" creationid="Elisabetta" creationdate="20160722T171020Z">
-        <seg>[fuzzy]Non è possibile aggiungere dei temi, e non è possibile modificarli.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T171121Z" creationid="Elisabetta" creationdate="20160722T171020Z">
+        <seg>e non modificabili neppure con l'aggiunta di altri temi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35886,6 +35902,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T101743Z" creationid="michele" creationdate="20160525T101743Z">
         <seg>Potete memorizzare dei dati da usare nei comandi di campo nel documento; ad esempio, il titolo del documento, le informazioni di contatto per un partecipante al progetto, o magari il nome di un prodotto che potrebbe cambiare nel corso di un progetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can then change the cell formatting by selecting and applying a theme in the Theme Selection dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T171305Z" creationid="Elisabetta" creationdate="20160722T171305Z">
+        <seg>Si può quindi modificare la formattazione della cella selezionando e assegnando un tema tra quelli disponibili nella finestra di dialogo Scelta tema.</seg>
       </tuv>
     </tu>
     <tu>
