@@ -6830,6 +6830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After the styles are set up, here is how to use them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T174004Z" creationid="Elisabetta" creationdate="20160722T174004Z">
+        <seg>Una volta definiti gli stili, di seguito viene illustrato il loro uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After you enter your comment and click &lt;f0&gt;OK&lt;/f0&gt;, the new version is included in the version list.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T152740Z" creationid="luciano" creationdate="20160429T141811Z">
@@ -7202,6 +7210,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160510T142941Z" creationid="steevie" creationdate="20160510T142941Z">
         <seg>Una voce per il filtro automatico viene creata per ogni voce unica nella colonna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An easy way to set up the required styles is to format a cell the way you want it and click the &lt;f0&gt;New Style from Selection&lt;/f0&gt; icon in the Styles and Formatting window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T173945Z" creationid="Elisabetta" creationdate="20160722T173945Z">
+        <seg>Un metodo semplice per definire gli stili richiesti è assegnare il formato desiderato a una cella, quindi fare clic sull'icona &lt;f0&gt;Nuovo stile dalla selezione&lt;/f0&gt; all'interno della finestra Stile e formattazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9614,6 +9630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Format &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Conditional Formatting&lt;/f3&gt; from the menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T174117Z" creationid="Elisabetta" creationdate="20160722T174117Z">
+        <seg>Scegliete la voce &lt;f0&gt;Formato &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Formattazione condizionata&lt;/f3&gt; dalla barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;Format &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Print Ranges &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Add&lt;/f6&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T161625Z">
@@ -10090,6 +10114,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T145700Z" creationid="michele" creationdate="20160608T145604Z">
         <seg>Fate clic su &lt;f1&gt;Mantieni Risultato&lt;/f1&gt; per inserire il risultato nella cella con il valore della variabile .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f1&gt;OK&lt;/f1&gt; to save.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T174213Z" creationid="Elisabetta" creationdate="20160722T174213Z">
+        <seg>Fate clic su &lt;f1&gt;OK&lt;/f1&gt; per salvare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18759,6 +18791,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In your spreadsheet, select the cells to which you want to apply conditional formatting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T174025Z" creationid="Elisabetta" creationdate="20160722T174025Z">
+        <seg>All'interno del foglio elettronico, selezionate le celle alle quali applicare la formattazione condizionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Increases the height of current row.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T142210Z" creationid="luciano" creationdate="20160509T142210Z">
@@ -21540,6 +21580,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165821Z" creationid="steevie" creationdate="20160428T165821Z">
         <seg>Nella finestra di dialogo Cambia icona potete scorrere le icone disponibili, selezionarne una e fare clic su &lt;f1&gt;OK&lt;/f1&gt; per assegnarla al comando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Conditional Formatting dialog (&lt;t0&gt;Figure 60&lt;/t0&gt;), enter the conditions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T174159Z" creationid="Elisabetta" creationdate="20160722T174159Z">
+        <seg>All'apertura della finestra di dialogo Formattazione condizionata (Figura &lt;t0&gt;60&lt;/t0&gt;), inserite le condizioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30022,6 +30070,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160601T144345Z" creationid="michele" creationdate="20160601T144345Z">
         <seg>La seconda matrice viene cosi riempita con i risultati usando ogni valore alternativo al posto del valore originale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The selected cells are now set to apply result-dependent formatting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T174227Z" creationid="Elisabetta" creationdate="20160722T174227Z">
+        <seg>Le celle selezionate sono ora configurate per applicare una formattazione subordinata al risultato.</seg>
       </tuv>
     </tu>
     <tu>
