@@ -6150,6 +6150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A list of the existing custom defined cell styles will be displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T171452Z" creationid="Elisabetta" creationdate="20160722T171452Z">
+        <seg>Viene visualizzato l'elenco degli stili di cella personalizzati disponibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A manual break helps to ensure that your data prints properly.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153433Z">
@@ -10350,6 +10358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Choose Themes&lt;/f0&gt; icon in the Tools toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T171609Z" creationid="Elisabetta" creationdate="20160722T171609Z">
+        <seg>Fate clic sull'icona &lt;f0&gt;Selezione tema&lt;/f0&gt; nella barra Strumenti. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Fill Format mode&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160505T075307Z" creationid="briga" creationdate="20160505T075307Z">
@@ -12018,6 +12034,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T154620Z" creationid="Luciano B." creationdate="20160329T154620Z">
         <seg>I documenti possono essere inviati utilizzando il menu di &lt;f0&gt;LibreOffice&lt;/f0&gt; soltanto se è stato impostato un profilo di posta elettronica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Double click a name from the Styles and Formatting window to apply this style to the selected cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T171513Z" creationid="Elisabetta" creationdate="20160722T171513Z">
+        <seg>Fate doppio clic sul nome di uno stile di formato nella finestra Stili e formattazione per applicarlo alle celle selezionate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31362,10 +31386,26 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To apply a custom cell style to a cell, you can open the Styles and Formatting window and, in its lower list box, set the Custom Styles view.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T171433Z" creationid="Elisabetta" creationdate="20160722T171433Z">
+        <seg>Per assegnare uno stile personalizzato a una cella, aprite la finestra Stili e formattazione e selezionate la vista Stili utente dalla casella di riepilogo in fondo alla finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To apply a scenario to the current sheet, double-click the scenario name in the Navigator.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160601T123758Z" creationid="michele" creationdate="20160601T123758Z">
         <seg>per applicare uno scenario al foglio corrente, fate doppio clic sul nome dello scenario nel Navigatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To apply a theme to a spreadsheet:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T171532Z" creationid="Elisabetta" creationdate="20160722T171532Z">
+        <seg>Per assegnare un tema a un foglio elettronico:</seg>
       </tuv>
     </tu>
     <tu>
