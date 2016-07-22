@@ -9038,6 +9038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cell value is / Formula is</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T174307Z" creationid="Elisabetta" creationdate="20160722T174307Z">
+        <seg>Il valore della cella è /Formula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cells can be selected using a number of methods and in a variety of combinations and quantities.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T122903Z" creationid="michele" creationdate="20160525T122903Z">
@@ -17570,6 +17578,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T091332Z" creationid="Elisabetta" creationdate="20160629T090800Z">
         <seg>Per rimuoverla selezionate le opzioni &lt;f0&gt;Formati&lt;/f0&gt; o &lt;f1&gt;Cancella tutto&lt;/f1&gt; all'interno della finestra Elimina contenuti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you select &lt;f2&gt;cell value is&lt;/f2&gt;, the &lt;f3&gt;Cell Value Condition&lt;/f3&gt; box is displayed, as shown in the example.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T174541Z" creationid="Elisabetta" creationdate="20160722T174541Z">
+        <seg>Selezionando la voce &lt;f2&gt;Il valore della cella è&lt;/f2&gt;, compare la casella &lt;f3&gt;Condizione valore della cella&lt;/f3&gt;, come evidenziato nell'esempio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27284,6 +27300,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145439Z" creationid="steevie" creationdate="20160427T145439Z">
         <seg>Indica la differenza tra i risultati di due iterazioni consecutive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specifies whether conditional formatting is dependent on a &lt;f0&gt;cell value&lt;/f0&gt; or on a &lt;f1&gt;formula&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T174451Z" creationid="Elisabetta" creationdate="20160722T174451Z">
+        <seg>Indica se la formattazione condizionata dipende da un &lt;f0&gt;valore cella&lt;/f0&gt; o da una &lt;f1&gt;formula&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
