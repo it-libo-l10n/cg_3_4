@@ -15160,8 +15160,8 @@
       <tuv lang="EN">
         <seg>For more control, including the spacing between the cell borders and the text, use the &lt;f0&gt;Borders&lt;/f0&gt; tab of the Format Cells dialog.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T162630Z" creationid="Elisabetta" creationdate="20160722T162630Z">
-        <seg>[fuzzy]Per avere un maggiore controllo, includendo la spaziatura tra il bordo cella ed il testo, usate la scheda &lt;f0&gt;Bordo&lt;/f0&gt; della finestra di dialogo Formatta celle.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T163115Z" creationid="Elisabetta" creationdate="20160722T162630Z">
+        <seg>Per disporre di un livello di controllo più elevato, per esempio sulla distanza tra il bordo della cella e il testo, scegliete la scheda &lt;f0&gt;Bordo&lt;/f0&gt; nella finestra di dialogo Formatta celle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16576,8 +16576,8 @@
       <tuv lang="EN">
         <seg>If the &lt;f3&gt;Line Style&lt;/f3&gt; and &lt;f4&gt;Line Color&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;icons are not displayed &lt;f6&gt;in the &lt;/f6&gt;&lt;f7&gt;F&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;ormatting&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; toolbar, select the down arrow on the right side of the &lt;/f10&gt;bar, then select &lt;f11&gt;Visible Buttons&lt;/f11&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T162557Z" creationid="Elisabetta" creationdate="20160722T162557Z">
-        <seg>Se le icone &lt;f3&gt;Stile linea&lt;/f3&gt; e &lt;f4&gt;Colore linea cornice&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;non fossero visibili &lt;f6&gt;nella barra strumenti &lt;/f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Formattazione&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;, selezionate la freccia in basso presente sul lato destro della &lt;/f10&gt;barra, quindi &lt;f11&gt;Pulsanti visibili&lt;/f11&gt;. </seg>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T163010Z" creationid="Elisabetta" creationdate="20160722T162557Z">
+        <seg>Se le icone &lt;f3&gt;Stile linea&lt;/f3&gt; e &lt;f4&gt;Colore linea cornice&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;non fossero visibili &lt;f6&gt;nella barra strumenti &lt;/f6&gt;&lt;f7&gt;F&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;ormattazione&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;, selezionate la freccia in basso presente sul lato destro della &lt;/f10&gt;barra, quindi &lt;f11&gt;Pulsanti visibili&lt;/f11&gt;. </seg>
       </tuv>
     </tu>
     <tu>
@@ -25128,6 +25128,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See Chapter 4 for details.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T163204Z" creationid="Elisabetta" creationdate="20160722T163204Z">
+        <seg>Consultate il Capitolo 4 per ulteriori informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See Chapter 4 for more information.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160721T153836Z" creationid="Elisabetta" creationdate="20160721T153836Z">
@@ -30106,6 +30114,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There you can also define a shadow.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T163150Z" creationid="Elisabetta" creationdate="20160722T163150Z">
+        <seg>Qui potete inoltre impostare un'ombreggiatura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There you can specify the spreadsheet name and the location in which to save it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T140603Z" creationid="michele" creationdate="20160524T135734Z">
@@ -32758,6 +32774,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095311Z">
         <seg>Comprendere le funzioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unexpected results can occur when formatting cell borders within a range of cells that already have borders formatted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T163226Z" creationid="Elisabetta" creationdate="20160722T163226Z">
+        <seg>Possono verificarsi risultati imprevisti nella formattazione dei bordi all'interno di un intervallo di celle provviste di bordi già formattati.</seg>
       </tuv>
     </tu>
     <tu>
