@@ -9566,6 +9566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Edit &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Paste Special&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T175231Z" creationid="Elisabetta" creationdate="20160722T175231Z">
+        <seg>Scegliete &lt;f0&gt;Modifica &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Incolla speciale&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;Edit &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Select All&lt;/f3&gt;&lt;f4&gt;, or press &lt;/f4&gt;&lt;f5&gt;Ctrl+A&lt;/f5&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T170216Z" creationid="Elisabetta" creationdate="20160722T170216Z">
@@ -9834,6 +9842,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T171242Z" creationid="steevie" creationdate="20160428T171242Z">
         <seg>Scegliete la categoria di stile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose the cell style to be applied if the specified condition matches.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T174955Z" creationid="Elisabetta" creationdate="20160722T174955Z">
+        <seg>Scegliete lo stile di cella da applicare nel caso in cui corrisponda la condizione specificata</seg>
       </tuv>
     </tu>
     <tu>
@@ -11058,6 +11074,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133820Z" creationid="steevie" creationdate="20160517T133820Z">
         <seg>Copiare risultati filtrati in una diversa posizione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy the cell to the clipboard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T175113Z" creationid="Elisabetta" creationdate="20160722T175113Z">
+        <seg>Copiate la cella negli Appunti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25568,6 +25592,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See the Help for more information and examples of use.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T175016Z" creationid="Elisabetta" creationdate="20160722T175016Z">
+        <seg>Fate riferimento alla Guida per ulteriori informazioni ed esempi applicativi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See “&lt;bf1&gt;Choosing a drag mode&lt;/bf1&gt;” for details.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T160053Z" creationid="michele" creationdate="20160525T160053Z">
@@ -25752,6 +25784,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select one of the cells that has been assigned conditional formatting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T175058Z" creationid="Elisabetta" creationdate="20160722T175058Z">
+        <seg>Selezionate una delle celle alle quali deve essere applicata la formattazione condizionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select or deselect the required options.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T165759Z" creationid="Elisabetta" creationdate="20160722T165759Z">
@@ -25916,6 +25956,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160718T170044Z" creationid="Elisabetta" creationdate="20160718T170044Z">
         <seg>Selezionate la cella, quindi fate clic sull'icona appropriata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the cells that are to receive this same formatting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T175138Z" creationid="Elisabetta" creationdate="20160722T175138Z">
+        <seg>Selezionate le celle che devono presentare la stessa formattazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30266,6 +30314,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The style must have been defined previously.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T175003Z" creationid="Elisabetta" creationdate="20160722T175003Z">
+        <seg>e che dovrebbe essere già stato definito precedentemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The tab for the selected sheet becomes white (see &lt;t0&gt;Figure 23&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T125601Z" creationid="michele" creationdate="20160525T125601Z">
@@ -31670,6 +31726,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T173725Z" creationid="Elisabetta" creationdate="20160722T173725Z">
         <seg>Per applicare la formattazione condizionata, dovete attivare il Calcolo automatico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To apply the same conditional formatting later to other cells:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T175034Z" creationid="Elisabetta" creationdate="20160722T175034Z">
+        <seg>Per assegnare in un secondo momento la formattazione condizionata anche ad altre celle procedete come segue:</seg>
       </tuv>
     </tu>
     <tu>
