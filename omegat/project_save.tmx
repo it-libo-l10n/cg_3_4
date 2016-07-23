@@ -14678,6 +14678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;62&lt;/seq0&gt;: Outline group controls</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160723T163438Z" creationid="Elisabetta" creationdate="20160723T163438Z">
+        <seg>Figura &lt;seq0&gt;62&lt;/seq0&gt;: controlli di definizione dei gruppi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Control+double-click to dock or undock</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T134401Z" creationid="michele" creationdate="20160414T134401Z">
@@ -14786,6 +14794,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160526T125859Z" creationid="steevie" creationdate="20160526T125859Z">
         <seg>I dati filtrati copiati in una nuova posizione possono essere selezionati, modificati e cancellati a piacere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filtering which cells are visible</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160723T163515Z" creationid="Elisabetta" creationdate="20160723T163515Z">
+        <seg>Filtrare le celle visibili</seg>
       </tuv>
     </tu>
     <tu>
@@ -17738,6 +17754,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172522Z" creationid="steevie" creationdate="20160428T172522Z">
         <seg>Se necessario, sfogliate per trovare un file in un'altra posizione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you no longer need a group, place the mouse cursor in any cell in it and select &lt;f0&gt;Data &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Group and Outline &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Ungroup&lt;/f6&gt;&lt;f7&gt; or press &lt;/f7&gt;&lt;f8&gt;Ctrl+F12&lt;/f8&gt;&lt;f9&gt;.&lt;/f9&gt; To remove all groups on a sheet, select &lt;f10&gt;Data &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;&gt;&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; Group and Outline &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;&gt;&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt; Remove&lt;/f16&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160723T163413Z" creationid="Elisabetta" creationdate="20160723T163413Z">
+        <seg>Se non è più necessario visualizzare un gruppo, posizionatevi il cursore del mouse e selezionate la voce &lt;f0&gt;Dati &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Raggruppa e struttura &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Separa&lt;/f6&gt;&lt;f7&gt; oppure premete la combinazione di tasti &lt;/f7&gt;&lt;f8&gt;Ctrl+F12&lt;/f8&gt;&lt;f9&gt;.&lt;/f9&gt; Per rimuovere tutti i gruppi di un foglio, selezionate la voce &lt;f10&gt;Dati &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;&gt;&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; Raggruppa e struttura &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;&gt;&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt; Rimuovi&lt;/f16&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37804,8 +37828,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>filtering</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T141227Z" creationid="steevie" creationdate="20160510T140724Z">
-        <seg>Filtrare</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160723T163445Z" creationid="steevie" creationdate="20160510T140724Z">
+        <seg>filtrare</seg>
       </tuv>
     </tu>
     <tu>
