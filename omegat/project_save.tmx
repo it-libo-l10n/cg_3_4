@@ -4238,6 +4238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Mirrored &lt;/f0&gt;&lt;f1&gt;formats the pages as if you want to bind the printed pages like a book.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160723T125521Z" creationid="briga" creationdate="20160723T125521Z">
+        <seg>&lt;f0&gt;Rispecchiato &lt;/f0&gt;&lt;f1&gt;formatta le pagine come in un libro rilegato.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Most documents go through many drafts.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T135114Z" creationid="luciano" creationdate="20160429T135114Z">
@@ -19735,6 +19743,22 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Layout settings: &lt;i0/&gt;Table alignment</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160723T125650Z" creationid="briga" creationdate="20160723T125650Z">
+        <seg>Impostazioni layout: &lt;i0/&gt;Allineamento tabella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Layout settings: Format</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160723T125608Z" creationid="briga" creationdate="20160723T125608Z">
+        <seg>Impostazioni layout: Formato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Left arrow</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T144626Z" creationid="luciano" creationdate="20160509T144626Z">
@@ -29442,6 +29466,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The first page of a document is assumed to be an odd page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160723T125541Z" creationid="briga" creationdate="20160723T125541Z">
+        <seg>La prima pagina di un documento si assume sia dispari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first step for all of the methods is to select the sheets that the new sheet will be inserted next to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T133630Z" creationid="michele" creationdate="20160525T133229Z">
@@ -30894,6 +30926,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T161536Z">
         <seg>Questo permette di stampare più aree separate dello stesso foglio, invece di stampare l'intero foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This area specifies the page numbering style for this page style.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160723T125631Z" creationid="briga" creationdate="20160723T125631Z">
+        <seg>Qui potete specificare lo stile di numerazione pagina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37578,6 +37618,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>format</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160723T125554Z" creationid="briga" creationdate="20160723T125554Z">
+        <seg>formato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>formatting</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160424T135604Z" creationid="luciano" creationdate="20160424T135604Z">
@@ -38694,6 +38742,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T160219Z" creationid="steevie" creationdate="20160428T160219Z">
         <seg>Sincronizza assi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>table alignment</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160723T125639Z" creationid="briga" creationdate="20160723T125639Z">
+        <seg>Allineamento tabella</seg>
       </tuv>
     </tu>
     <tu>
