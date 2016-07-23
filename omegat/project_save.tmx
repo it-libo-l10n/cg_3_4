@@ -15158,6 +15158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if column B is hidden, it is copied when you select columns A and C. When you need a hidden element again, you can reverse the process, and show the element.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160723T160656Z" creationid="Elisabetta" creationdate="20160723T160656Z">
+        <seg>Ad esempio, se la colonna B è nascosta, viene copiata anch'essa selezionando le colonne A e C. Se desiderate visualizzare nuovamente un elemento nascosto, potete comunque invertire la procedura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if the active cell is H15, then the break is created between columns G and H.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153939Z">
@@ -34970,6 +34978,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When elements are hidden, they are neither visible nor printed, but can still be selected for copying if you select the elements around them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160723T160547Z" creationid="Elisabetta" creationdate="20160723T160547Z">
+        <seg>Quando vengono nascosti elementi, non possono essere stampati, non essendo visibili, ma possono comunque essere inseriti nell'insieme degli elementi circostanti selezionabili per la copia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When moving or copying sheets between different spreadsheets, be sure that both documents are open.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T134254Z" creationid="michele" creationdate="20160525T134254Z">
@@ -37844,8 +37860,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>hiding and showing</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T175432Z" creationid="Elisabetta" creationdate="20160722T175432Z">
-        <seg>nascondi/visualizza</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160723T160705Z" creationid="Elisabetta" creationdate="20160722T175432Z">
+        <seg>nascondi e visualizza</seg>
       </tuv>
     </tu>
     <tu>
