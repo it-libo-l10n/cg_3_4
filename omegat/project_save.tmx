@@ -15286,6 +15286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, to hide a row, first select the row, and then choose &lt;f3&gt;Format &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Row &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; Hide&lt;/f9&gt; (or &lt;f10&gt;right-click&lt;/f10&gt; and choose &lt;f11&gt;Hide&lt;/f11&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160723T161026Z" creationid="Elisabetta" creationdate="20160723T161026Z">
+        <seg>Ad esempio, per nascondere una riga, selezionatela e poi scegliete &lt;f3&gt;Formato &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Riga &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; Nascondi&lt;/f9&gt; (oppure &lt;f10&gt;fate clic con il pulsante secondario del mouse sulla sua intestazione&lt;/f10&gt; e scegliete &lt;f11&gt;Nascondi&lt;/f11&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, to select the &lt;f0&gt;Send&lt;/f0&gt; submenu command by pressing &lt;f1&gt;&lt;f2&gt;S&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt; (after opening the File menu using &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;Alt+F&lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;)&lt;/f7&gt;&lt;/f6&gt;, enter &lt;f8&gt;&lt;f9&gt;~Send&lt;/f9&gt;&lt;/f8&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164233Z" creationid="steevie" creationdate="20160428T164233Z">
@@ -32470,6 +32478,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T152222Z" creationid="michele" creationdate="20160524T144426Z">
         <seg>&lt;f0&gt;Strumenti &gt; Opzioni &gt; Carica/Salva &gt; Generale&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To hide or show &lt;i0/&gt;sheets, &lt;i1/&gt;rows, and &lt;i2/&gt;columns, use the options on the Format menu or the right-click (context) menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160723T160827Z" creationid="Elisabetta" creationdate="20160723T160827Z">
+        <seg>Per nascondere o visualizzare &lt;i0/&gt;fogli, &lt;i1/&gt;righe e &lt;i2/&gt;colonne, scegliete le voci del menu Formato o del menu contestuale che si apre facendo clic con il pulsante secondario del mouse. </seg>
       </tuv>
     </tu>
     <tu>
