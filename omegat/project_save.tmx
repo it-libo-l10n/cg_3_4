@@ -3878,6 +3878,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Here you can specify whether to apply the formatting to right (odd) pages only, left (even) pages only, or both right and left &lt;/f0&gt;&lt;f1&gt;pages that use the current page style.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160723T125406Z" creationid="briga" creationdate="20160723T125406Z">
+        <seg>&lt;f0&gt;Qui potete specificare se volete applicare la formattazione solo alle pagine sinistre (pari), solo a quelle destre (dispari), o entrambe le &lt;/f0&gt;&lt;f1&gt;pagine che usano lo stile di pagina corrente.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Hide menubar:&lt;/f0&gt; Causes the PDF viewer to hide the menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T160423Z" creationid="Luciano B." creationdate="20160326T160423Z">
@@ -16174,6 +16182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here you can set the margins for the page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160723T125221Z" creationid="briga" creationdate="20160723T125212Z">
+        <seg>Qui potete impostare i margini della pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here you can set the unit of distance for the spacing between horizontal and vertical grid points and subdivisions (intermediate points) of the grid.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T160210Z" creationid="steevie" creationdate="20160428T160210Z">
@@ -19711,6 +19727,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Layout settings: &lt;i0/&gt;Page layout</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160723T125246Z" creationid="briga" creationdate="20160723T125246Z">
+        <seg>Impostazioni layout: &lt;i0/&gt;Layout di pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Left arrow</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T144626Z" creationid="luciano" creationdate="20160509T144626Z">
@@ -19747,6 +19771,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T125716Z" creationid="michele" creationdate="20160608T125716Z">
         <seg>Immaginiamo che il tasso di interesse i sia del 7.5% e il numero degli anni  n.(1) rimanga costante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Letter or A4 are most common, but you can also use legal, tabloid, envelope sizes, or user&lt;/f0&gt;&lt;f1&gt;-defined paper types.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160723T125057Z" creationid="briga" creationdate="20160723T125057Z">
+        <seg>Il formato lettera o A4 sono i più comuni, ma potete usare anche legal, tabloid, buste, o personalizzato&lt;/f0&gt;&lt;f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20291,6 +20323,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T171456Z">
         <seg>Margine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Margins</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160723T125154Z" creationid="briga" creationdate="20160723T125154Z">
+        <seg>Margini</seg>
       </tuv>
     </tu>
     <tu>
@@ -35602,6 +35642,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also define the orientation of the page and which print tray for the paper to come from (if your printer has more than one tray).&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160723T125148Z" creationid="briga" creationdate="20160723T125148Z">
+        <seg>Potete scegliere anche l'orientamento della pagina e da quale cassetto di alimentazione della stampante caricare la carta (se più di uno è disponibile).&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also define your own filters.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160510T141454Z" creationid="steevie" creationdate="20160510T141454Z">
@@ -37786,6 +37834,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>layout settings</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160723T125255Z" creationid="briga" creationdate="20160723T125231Z">
+        <seg>impostazioni layout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>legend of chart</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160626T123925Z" creationid="emanuelegiusti" creationdate="20160626T123925Z">
@@ -37854,6 +37910,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T162932Z">
         <seg>finestra principale, descrizione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>margins</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160723T125151Z" creationid="briga" creationdate="20160723T125151Z">
+        <seg>margini</seg>
       </tuv>
     </tu>
     <tu>
@@ -38094,6 +38158,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T140502Z" creationid="steevie" creationdate="20160427T140502Z">
         <seg>Interruzioni di pagina, visibili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>page layout</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160723T125224Z" creationid="briga" creationdate="20160723T125224Z">
+        <seg>layout di pagina</seg>
       </tuv>
     </tu>
     <tu>
