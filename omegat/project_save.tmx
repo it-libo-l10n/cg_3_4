@@ -17030,6 +17030,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the contents of cells fall into a regular pattern, such as four cells followed by a total, then you can use &lt;f0&gt;Data &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Group and Outline &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; AutoOutline&lt;/f6&gt; to have Calc add outline controls based on the pattern.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160723T161604Z" creationid="Elisabetta" creationdate="20160723T161604Z">
+        <seg>Se i contenuti delle celle seguono uno schema regolare, come ad esempio quattro celle seguite da un totale, potete scegliere la voce &lt;f0&gt;Dati &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Raggruppa e struttura &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Struttura automatica&lt;/f6&gt; per aggiungere controlli di struttura basati su tale schema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the contents of the selected columns change later, the subtotals are automatically recalculated.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160530T152416Z" creationid="michele" creationdate="20160530T152416Z">
@@ -17322,6 +17330,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160527T072350Z" creationid="michele" creationdate="20160526T075317Z">
         <seg>Se sei nuovo ai fogli di calcolo, questi strumenti potrebbero in un primo momento confonderti le idee.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are continually hiding and showing the same cells, you can simplify the process by creating &lt;f0&gt;outline groups&lt;/f0&gt;, which add a set of controls for hiding and showing the cells in the group, that are quick to use and always available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160723T161436Z" creationid="Elisabetta" creationdate="20160723T161436Z">
+        <seg>Se dovete nascondere e visualizzare più volte le stesse celle, potete semplificare il procedimento creando dei &lt;f0&gt;gruppi&lt;/f0&gt;, i quali aggiungono una serie di controlli per nascondere e visualizzare le celle del gruppo, agevolandone così l'uso e la disponibilità.</seg>
       </tuv>
     </tu>
     <tu>
