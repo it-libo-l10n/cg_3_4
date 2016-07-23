@@ -8086,6 +8086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Both tabs are illustrated with helpful diagrams.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160723T130152Z" creationid="briga" creationdate="20160723T130152Z">
+        <seg>Entrambe le schede sono illustrate da diagrammi esemplificativi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Brandy</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T151802Z" creationid="steevie" creationdate="20160503T151802Z">
@@ -27024,6 +27032,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Similar to formatting a cell style, use the Borders tab to choose whether the page should have borders, how large the borders should be, and how far the text will be from the borders.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160723T130315Z" creationid="briga" creationdate="20160723T130315Z">
+        <seg>Allo stesso modo in cui potete formattare uno stile di cella, usate la scheda Bordi per stabilire se la pagina debba avere dei bordi, quanto larghi essi debbano essere, e quanto distante debba risultare il testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Similar to paragraph styles in &lt;f0&gt;LibreOffice&lt;/f0&gt; Writer, cell styles are the most basic type of style in Calc.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160216T071017Z">
@@ -28485,6 +28501,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160510T142524Z" creationid="steevie" creationdate="20160510T142524Z">
         <seg>Il filtro automatico Tutto rende visibili tutte le righe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Border and Background tabs for pages duplicate the tabs of the same name on cell styles, and are over-ridden by the cell style or manual settings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160723T130102Z" creationid="briga" creationdate="20160723T130102Z">
+        <seg>Le schede Bordi e Sfondo per le pagine, sono il duplicato delle omonime negli stili di cella, e vengono scavalcate dalle impostazioni di cella o manuali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33946,6 +33970,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use this tab to design and apply the header for this page style.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160723T130433Z" creationid="briga" creationdate="20160723T130433Z">
+        <seg>Utilizzare questa scheda per definire ed applicare l'intestazione a questo stile di pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use this tab to specify the background for this page style.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160723T130337Z" creationid="briga" creationdate="20160723T130337Z">
+        <seg>Utilizzare questa scheda per definire lo sfondo per questo stile di pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>UseRegularExpressions</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133721Z" creationid="steevie" creationdate="20160517T133721Z">
@@ -35882,6 +35922,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can apply either a solid color or a picture as a background.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160723T130400Z" creationid="briga" creationdate="20160723T130400Z">
+        <seg>Potete scegliere un colore pieno o un'immagine come sfondo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can assign shortcuts to standard &lt;f3&gt;LibreOffice&lt;/f3&gt; functions or your own macros and save them for use with the entire &lt;f4&gt;LibreOffice&lt;/f4&gt; suite or only for Calc.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170139Z" creationid="steevie" creationdate="20160428T170106Z">
@@ -36622,6 +36670,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T101928Z">
         <seg>Sia che siate principianti, sia che abbiate familiarità con altre suite per ufficio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may choose to ignore the Border and Background tabs altogether in page styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160723T130131Z" creationid="briga" creationdate="20160723T130131Z">
+        <seg>Potete decidere di non considerare del tutto le schede Bordi e Sfondo negli stili di pagina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37726,6 +37782,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T140635Z" creationid="steevie" creationdate="20160427T140635Z">
         <seg>Linee guida durante lo spostamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>headers and footers</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160723T130408Z" creationid="briga" creationdate="20160723T130408Z">
+        <seg>Intestazioni e piè di pagina</seg>
       </tuv>
     </tu>
     <tu>
