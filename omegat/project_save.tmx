@@ -15910,6 +15910,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From the Menu bar select &lt;f0&gt;Data &gt; &lt;/f0&gt;&lt;f1&gt;Filter &gt; Remove Filter&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T154530Z" creationid="Elisabetta" creationdate="20160725T154530Z">
+        <seg>Dalla barra dei menu, selezionate la voce &lt;f0&gt;Dati &gt; &lt;/f0&gt;&lt;f1&gt;Filtro &gt; Rimuovi filtro&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>From this dialog you can set the background and border style of the header or footer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T152632Z">
@@ -29529,6 +29537,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The data then returns to its unfiltered state.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T154546Z" creationid="Elisabetta" creationdate="20160725T154546Z">
+        <seg>I dati verranno ripristinati alla condizione precedente, priva di filtro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The decimal of the result is the numerator of the fraction that would have &lt;f0&gt;Fraction&lt;/f0&gt; as the denominator.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T100551Z" creationid="Marco Marega" creationdate="20160703T100551Z">
@@ -33126,6 +33142,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T143149Z" creationid="Luciano B." creationdate="20160329T162518Z">
         <seg>Per rimuovere i dati personali e di altro tipo, andate su &lt;f0&gt;File &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Propietà&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To remove the filtering from any column: click the arrow of the column to be unfiltered and select &lt;f0&gt;All&lt;/f0&gt; from the list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T154624Z" creationid="Elisabetta" creationdate="20160725T154624Z">
+        <seg>Per rimuovere i filtri da una colonna selezionate il pulsante a freccia dell'intestazione, quindi la voce &lt;f0&gt;Tutti&lt;/f0&gt; dall'elenco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To remove the filtering in one go, select the data range:A1:F14.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T154429Z" creationid="Elisabetta" creationdate="20160725T154429Z">
+        <seg>Per rimuovere tutti i filtri contemporaneamente, selezionate l'area dati :A1:F14.</seg>
       </tuv>
     </tu>
     <tu>
