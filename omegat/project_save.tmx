@@ -12270,6 +12270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Does not include the column heading in the sort.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T165926Z" creationid="Elisabetta" creationdate="20160725T165926Z">
+        <seg>Non include l'intestazione della colonna nel riordino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Double click a name from the Styles and Formatting window to apply this style to the selected cells.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T171513Z" creationid="Elisabetta" creationdate="20160722T171513Z">
@@ -17046,6 +17054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If formatting is used to distinguish different types of cells, then use this option.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T170013Z" creationid="Elisabetta" creationdate="20160725T170013Z">
+        <seg>Se la formattazione serve a distinguere diversi tipi di celle, includete questa opzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If if CopyOutputData is True , specifies the position where filtered data are to be copied.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133626Z" creationid="steevie" creationdate="20160517T133626Z">
@@ -17530,6 +17546,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T171811Z" creationid="Elisabetta" creationdate="20160722T171811Z">
         <seg>Se la barra non è visibile, scegliete la voce &lt;f1&gt;Visualizza &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Barre degli strumenti &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; Strumenti&lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If two entries are otherwise identical, one with an upper case letter is placed before one with a lower case letter in the same position if the sort is descending; if the sort is ascending, then the entry with an upper case letter is placed after one with a lower case letter in the same position.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T165844Z" creationid="Elisabetta" creationdate="20160725T165844Z">
+        <seg>Nel caso di due voci, per il resto identiche, che compaiono nella medesima posizione, quella con l'iniziale maiuscola sarà posizionata prima della voce con l'iniziale minuscola, se l'ordinamento è decrescente. Se invece l'ordinamento è in senso crescente, la voce con l'iniziale maiuscola comparirà dopo quella con l'iniziale minuscola.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19267,6 +19291,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T174025Z" creationid="Elisabetta" creationdate="20160722T174025Z">
         <seg>All'interno del foglio elettronico, selezionate le celle alle quali applicare la formattazione condizionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Include formats</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T165937Z" creationid="Elisabetta" creationdate="20160725T165937Z">
+        <seg>Includi i formati</seg>
       </tuv>
     </tu>
     <tu>
@@ -24292,6 +24324,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T143017Z" creationid="steevie" creationdate="20160504T143017Z">
         <seg>ROW_HEADER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Range contains column labels</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T165757Z" creationid="Elisabetta" creationdate="20160725T165757Z">
+        <seg>Area contenente intestazioni di colonne</seg>
       </tuv>
     </tu>
     <tu>
@@ -30190,6 +30230,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T134122Z" creationid="steevie" creationdate="20160427T134042Z">
         <seg>Il formato verrà applicato a tutti i nuovi valori inseriti in questo intervallo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The formatting of a cell is moved with its contents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T165954Z" creationid="Elisabetta" creationdate="20160725T165954Z">
+        <seg>La formattazione di una cella viene spostata insieme al suo contenuto.</seg>
       </tuv>
     </tu>
     <tu>
