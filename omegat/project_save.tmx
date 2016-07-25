@@ -22576,6 +22576,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other &lt;f1&gt;Conditions&lt;/f1&gt; could have been used, for example &lt;f2&gt;Contains&lt;/f2&gt;, in the argument for the filter, to return the same results.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T161401Z" creationid="Elisabetta" creationdate="20160725T161401Z">
+        <seg>ma con diversi criteri nel campo &lt;f1&gt;Condizioni&lt;/f1&gt;, per esempio sostituendo il precedente con il criterio &lt;f2&gt;Contiene&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other &lt;is0/&gt;features&lt;ie1/&gt; provided by Calc include:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T102302Z">
@@ -33022,6 +33030,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160527T153501Z" creationid="michele" creationdate="20160527T153501Z">
         <seg>Per ottenere un subtotale per le informazioni di vendita, parzialmente visualizzato nell'immagine &lt;t7&gt;226&lt;/t7&gt;, per l'impiegata Brigitta dobbiamo prima implementare un filtro automatico sui dati, successivamente selezionando Brigitta nel campo Impiegati come mostrato in Figura &lt;t8&gt;227&lt;/t8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To obtain the same results as for our AutoFilter exercise, the Standard Filter could use the settings in &lt;t0&gt;Figure 67&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T161249Z" creationid="Elisabetta" creationdate="20160725T161249Z">
+        <seg>Per ottenere gli stessi risultati dell'esempio relativo al filtro automatico, il filtro standard potrebbe essere impostato con i parametri della figura &lt;t0&gt;67&lt;/t0&gt;,</seg>
       </tuv>
     </tu>
     <tu>
