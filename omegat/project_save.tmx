@@ -11206,6 +11206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copy sort results to</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T170728Z" creationid="Elisabetta" creationdate="20160725T170728Z">
+        <seg>Copia risultati ordinamento in</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copy the cell to the clipboard.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T175113Z" creationid="Elisabetta" creationdate="20160722T175113Z">
@@ -11686,6 +11694,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Custom sort order</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T171039Z" creationid="Elisabetta" creationdate="20160725T171039Z">
+        <seg>Ordinamento personalizzato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Customizations to menus and toolbars can be saved in a template.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T144409Z" creationid="steevie" creationdate="20160418T144409Z">
@@ -12146,6 +12162,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095217Z">
         <seg>Firma digitale dei documenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Direction</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T171306Z" creationid="Elisabetta" creationdate="20160725T171306Z">
+        <seg>Direzione</seg>
       </tuv>
     </tu>
     <tu>
@@ -12722,6 +12746,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084433Z">
         <seg>Emma Kirsopp&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enable Natural Sort</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T170439Z" creationid="Elisabetta" creationdate="20160725T170439Z">
+        <seg>Attiva ordinamento naturale</seg>
       </tuv>
     </tu>
     <tu>
@@ -14862,6 +14894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;71&lt;/seq0&gt;: &lt;i1/&gt;Options for sorting</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T170424Z" creationid="Elisabetta" creationdate="20160725T170424Z">
+        <seg>Figura &lt;seq0&gt;71&lt;/seq0&gt;: &lt;i1/&gt;Opzioni di ordinamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;73&lt;/seq0&gt;: Table of data for charting examples</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T082219Z" creationid="emanuelegiusti" creationdate="20160611T082219Z">
@@ -15594,6 +15634,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160504T134857Z" creationid="luciano" creationdate="20160504T134606Z">
         <seg>Per avere informazioni sui tasti di scelta rapida di &lt;f0&gt;LibreOffice&lt;/f0&gt; o sull'utilizzo di LibreOffice solo con la tastiera, potete ricercare nell'Help di LibreOffice (disponibile anche online all'indirizzo &lt;a1&gt;http://help.libreoffice.org&lt;/a1&gt;) le parole chiave“scorciatoia” oppure “&lt;f2&gt;accessibilita.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For instance, let us assume you have a series of values such as, A1, A2, A3, A4, A5, A6, ..., A19, A20, A21.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T170555Z" creationid="Elisabetta" creationdate="20160725T170555Z">
+        <seg>Per esempio, poniamo di disporre di una serie di valori come A1, A2, A3, A4, A5, A6, ..., A19, A20, A21.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16934,6 +16982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a range contains cells that already have content, then the sort fails.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T171001Z" creationid="Elisabetta" creationdate="20160725T171001Z">
+        <seg>Se l'intervallo contiene celle non vuote, l'operazione di ordinamento si interrompe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a range is passed to the function, it is passed as a two-dimensional array of values; for example, &lt;f0&gt;=PositiveSum(A2:B5).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160615T154224Z" creationid="luciano" creationdate="20160615T154224Z">
@@ -16946,6 +17002,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T132855Z" creationid="steevie" creationdate="20160504T132855Z">
         <seg>Se un intervallo è richiamato per nome in posizioni multiple, modificando l'intervallo tutte le referenze sono automaticamente aggiornate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a range is specified that does not have the necessary number of cells, then cells are added.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T170904Z" creationid="Elisabetta" creationdate="20160725T170904Z">
+        <seg>Nel caso venga specificato un intervallo con un numero insufficiente di celle libere, verranno aggiunte nuove celle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21564,6 +21628,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T133930Z" creationid="steevie" creationdate="20160504T133930Z">
         <seg>Intervallo con nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Natural sort is a sort algorithm that sorts string-prefixed numbers based on the value of the numerical element in each sorted number, instead of the traditional (lexical) way of sorting them as ordinary strings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T170533Z" creationid="Elisabetta" creationdate="20160725T170533Z">
+        <seg>L'ordinamento naturale consiste in un algoritmo di ordinamento che opera su numeri prefissi da stringhe e basato sull'elemento numerico presente in ogni valore ordinato, piuttosto che sul tradizionale metodo lessicale di ordinamento basato sulle normali stringhe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26496,6 +26568,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the box, then choose from the drop-down list one of the sort orders defined in &lt;f0&gt;Tools &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Options &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;LibreOffice&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; Calc &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; Sort Lists&lt;/f12&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T171257Z" creationid="Elisabetta" creationdate="20160725T171257Z">
+        <seg>Selezionate la casella, dopodiché scegliete dall'elenco a discesa uno degli ordinamenti definiti nel menu &lt;f0&gt;Strumenti &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Opzioni &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; LibreOffice&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; Calc &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; Ordina elenchi&lt;/f12&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the cell and type the date or time.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T162853Z" creationid="Elisabetta" creationdate="20160627T162853Z">
@@ -27096,6 +27176,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sets a spreadsheet address to which to copy the sort results.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T170746Z" creationid="Elisabetta" creationdate="20160725T170746Z">
+        <seg>Imposta un indirizzo nel foglio elettronico in cui copiare i risultati del riordino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sets the drag and drop options for inserting items into a document using the Navigator.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T102617Z" creationid="michele" creationdate="20160525T102617Z">
@@ -27108,6 +27196,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145313Z" creationid="steevie" creationdate="20160427T145313Z">
         <seg>Imposta il numero massimo di passaggi di iterazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sets whether rows or columns are sorted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T171315Z" creationid="Elisabetta" creationdate="20160725T171315Z">
+        <seg>Stabilisce se vengono ordinate le righe oppure le colonne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29869,6 +29965,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T122557Z" creationid="steevie" creationdate="20160421T122557Z">
         <seg>Il comportamento predefinito di molti componenti di LibreOffice richiede il &lt;f0&gt;Ctrl+clic&lt;/f0&gt; su un collegamento ipertestuale per aprire il documento collegato ma è possibile scegliere di aprire collegamenti ipertestuali facendo un solo click.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The default is to sort by columns unless the selected cells are in a single column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T171351Z" creationid="Elisabetta" creationdate="20160725T171351Z">
+        <seg>L'impostazione predefinita è l'ordinamento per colonne, a meno che le celle selezionate non siano disposte in una sola colonna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36034,6 +36138,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you put these values into a range of cells and run the sort, it will become A1, A11, A12, A13, ..., A19, A2, A20, A21, A3, A4, A5, ..., A9.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T170615Z" creationid="Elisabetta" creationdate="20160725T170615Z">
+        <seg>Inserendo questi valori in un intervallo di celle e applicando l'ordinamento, otterremo un elenco così ordinato A1, A11, A12, A13, ..., A19, A2, A20, A21, A3, A4, A5, ..., A9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you receive a document back with changes, the beauty of the recording changes system becomes evident.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160426T154534Z" creationid="luciano" creationdate="20160426T154534Z">
@@ -36178,6 +36290,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>While this sorting behavior may make sense to those who understand the underlying sorting mechanism, to the rest of the population it seems completely bizarre, if not outright inconvenient.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T170637Z" creationid="Elisabetta" creationdate="20160725T170637Z">
+        <seg>Se questo metodo di ordinamento può essere comprensibile a chi è in grado di coglierne il meccanismo alla base, al resto delle persone, in genere, appare totalmente stravagante, se non assolutamente scomodo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>While you are resolving the conflicts, no other user can save the shared document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T163204Z" creationid="Luciano B." creationdate="20160411T163204Z">
@@ -36294,6 +36414,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T093000Z" creationid="michele" creationdate="20160608T093000Z">
         <seg>Con il cursore nel campo &lt;f0&gt;Formule&lt;/f0&gt; nella finestra di dialogo Operazioni multiple, selezionare le celle B5 e C5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With the natural sort feature enabled, values such as the ones in the above example get sorted "properly", which improves the convenience of sorting operations in general.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T170713Z" creationid="Elisabetta" creationdate="20160725T170713Z">
+        <seg>Attivando l'opzione di ordinamento naturale, l'elenco dei valori presentato nell'esempio precedente verrebbe ordinato "in modo appropriato", fatto che accrescerebbe la consapevolezza riguardo all'utilità delle operazioni di ordinamento in genere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38166,6 +38294,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T095943Z" creationid="michele" creationdate="20160524T095943Z">
         <seg>creare un nuovo foglio di lavoro </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>custom sort order</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T171037Z" creationid="Elisabetta" creationdate="20160725T171037Z">
+        <seg>ordinamento personalizzato</seg>
       </tuv>
     </tu>
     <tu>
