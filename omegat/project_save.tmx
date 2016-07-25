@@ -6918,6 +6918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Again the drop-down list arrow displays the indicators to show it has been used as a filter (&lt;t0&gt;Figure 66&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T154257Z" creationid="Elisabetta" creationdate="20160725T154257Z">
+        <seg>La freccia dell'elenco a discesa visualizzerà nuovamente un indicatore per segnalare l'uso di un filtro (Figura &lt;t0&gt;Figure 66&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alexandre Martins</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084434Z">
@@ -14734,6 +14742,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;65&lt;/seq0&gt;: Row numbers of filtered data and altered arrow</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T154125Z" creationid="Elisabetta" creationdate="20160725T154125Z">
+        <seg>Figura &lt;seq0&gt;65&lt;/seq0&gt;: numeri di riga corrispondenti ai dati filtrati e pulsante a freccia di diverso colore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;66&lt;/seq0&gt;: Results of selecting the Town</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T154333Z" creationid="Elisabetta" creationdate="20160725T154333Z">
+        <seg>Figura &lt;seq0&gt;66&lt;/seq0&gt;: risultati della selezione tramite filtro Città</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Control+double-click to dock or undock</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T134401Z" creationid="michele" creationdate="20160414T134401Z">
@@ -14858,6 +14882,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160206T083653Z">
         <seg>Filtri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filters can be removed individually or all at once.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T154356Z" creationid="Elisabetta" creationdate="20160725T154356Z">
+        <seg>I filtri si possono rimuovere singolarmente o in blocco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34974,6 +35006,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T144936Z" creationid="antonio" creationdate="20160524T144651Z">
         <seg>Vogliamo anche chiamare ognuno di &lt;/f0&gt;&lt;f1&gt;questi fogli per il conto corrente che rappresentano: Riepilogo, Conto corrente, Conto di risparmio, Carta di credito 1, Carta di credito 2, e Finanziamento Auto.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We can now filter the data by Town, to display only those living in Turpington, by using the method above.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T154206Z" creationid="Elisabetta" creationdate="20160725T154206Z">
+        <seg>A questo punto, con il metodo precedente, si possono filtrare i dati per Città allo scopo di visualizzare solo coloro che vivono a Roma.</seg>
       </tuv>
     </tu>
     <tu>
