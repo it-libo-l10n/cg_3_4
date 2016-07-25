@@ -6238,6 +6238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A maximum of eight rows can be used for the query, &lt;f0&gt;including&lt;/f0&gt; the header row.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T164731Z" creationid="Elisabetta" creationdate="20160725T164731Z">
+        <seg>Sono concesse otto righe al massimo per effettuare la ricerca, &lt;f0&gt;compresa&lt;/f0&gt; quella dell'intestazione,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A message appears stating that you must save the document to activate shared mode.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T153511Z" creationid="Luciano B." creationdate="20160411T153511Z">
@@ -10138,6 +10146,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160626T123907Z" creationid="emanuelegiusti" creationdate="20160626T123907Z">
         <seg>Fate clic &lt;f0&gt;Successivo&lt;/f0&gt; per avere a che fare con i titoli, la legenda e le griglie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;OK.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T164637Z" creationid="Elisabetta" creationdate="20160725T164637Z">
+        <seg>Infine fate clic su &lt;f0&gt;OK.&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14806,6 +14822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;69&lt;/seq0&gt;: Filter query argument range</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T164617Z" creationid="Elisabetta" creationdate="20160725T164617Z">
+        <seg>Figura &lt;seq0&gt;69&lt;/seq0&gt;: filtro dell'intervallo criteri di ricerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Control+double-click to dock or undock</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T134401Z" creationid="michele" creationdate="20160414T134401Z">
@@ -18590,6 +18614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In our example that entry would be; &lt;f1&gt;A25:F26&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T164554Z" creationid="Elisabetta" creationdate="20160725T164554Z">
+        <seg>Nell'esempio la voce è rappresentata da &lt;f1&gt;A25:F26&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In our example we select the sales figures (B5:B23) and we require the sum total (function index 9).&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160527T154853Z" creationid="michele" creationdate="20160527T154853Z">
@@ -21860,6 +21892,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T161300Z" creationid="Luciano B." creationdate="20160329T161300Z">
         <seg>Sui sistemi operativi Windows vengono utilizzate le funzionalità di convalida della firma digitale fornite da Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On completion, the selected range is indicated by a blue border around the cells and the Advanced Filter dialog shows the range in absolute terms, indicated by dollar signs ($) in the references (&lt;t0&gt;Figure 69&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T164506Z" creationid="Elisabetta" creationdate="20160725T164506Z">
+        <seg>Al termine dell'operazione l'area selezionata compare evidenziata da un bordo blu intorno alle celle e la finestra di dialogo Filtro speciale indica l'area in termini assoluti tramite il simbolo del dollaro ($), nei riferimenti (Figura &lt;t0&gt;69&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -29641,6 +29681,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The data is filtered, returning the same results as the previous filters.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T164652Z" creationid="Elisabetta" creationdate="20160725T164652Z">
+        <seg>I dati verranno filtrati ottenendo gli stessi risultati dei filtri precedenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The data is now treated as text and displayed exactly as entered.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T161736Z" creationid="Elisabetta" creationdate="20160627T161653Z">
@@ -31654,6 +31702,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20160129T124230Z">
         <seg>Il presente documento è rilasciato sotto Copyright &lt;f0&gt;©&lt;/f0&gt; 2012 dei collaboratori di seguito elencati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This equates to the eight arguments of the Standard Filter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T164739Z" creationid="Elisabetta" creationdate="20160725T164739Z">
+        <seg>che equivalgono agli otto criteri del Filtro standard.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36354,6 +36410,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also enter the range directly into the text box by cell reference.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T164532Z" creationid="Elisabetta" creationdate="20160725T164532Z">
+        <seg>Alternativamente potete inserire l'intervallo di celle direttamente nella casella di testo accanto al riferimento della cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also export a combination of page ranges and single pages, by using a format like &lt;f3&gt;3-6;8;10;12&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165557Z" creationid="Luciano B." creationdate="20160325T165557Z">
@@ -38686,6 +38750,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160428T151831Z" creationid="luciano" creationdate="20160428T151831Z">
         <seg>unire documenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>method</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T164805Z" creationid="Elisabetta" creationdate="20160725T164805Z">
+        <seg>metodo</seg>
       </tuv>
     </tu>
     <tu>
