@@ -3102,6 +3102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Advanced Filter&lt;/f0&gt;&lt;f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T162900Z" creationid="Elisabetta" creationdate="20160725T162900Z">
+        <seg>Il &lt;f0&gt;Filtro speciale&lt;/f0&gt;&lt;f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;After the documents merge, the Accept or Reject Changes dialog opens, as in &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figure 292&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;, showing changes by more than one reviewer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T152451Z" creationid="luciano" creationdate="20160428T153441Z">
@@ -11170,6 +11178,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T175113Z" creationid="Elisabetta" creationdate="20160722T175113Z">
         <seg>Copiate la cella negli Appunti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy the data headings to a blank area of the worksheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T163142Z" creationid="Elisabetta" creationdate="20160725T163142Z">
+        <seg>Copiate l'intestazione dei dati in un'area vuoto del foglio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19403,6 +19419,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T085256Z" creationid="Elisabetta" creationdate="20160629T085152Z">
         <seg>Invece di inserire l'elenco in ogni singolo foglio, è possibile inserirlo in tutti i fogli simultaneamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instead, filters are entered in a blank area of a sheet, then referenced by the filter dialog in order to apply them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T163110Z" creationid="Elisabetta" creationdate="20160725T163110Z">
+        <seg>ma direttamente nell'area vuota di un foglio, per essere successivamente integrati nella finestra di dialogo Filtro speciale e quindi essere applicati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29673,6 +29697,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The difference is that the &lt;s2/&gt;Advanced Filter arguments are not entered in a dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T163017Z" creationid="Elisabetta" creationdate="20160725T163017Z">
+        <seg>La differenza consiste nel fatto che i &lt;s2/&gt;criteri del  Filtro speciale non vengono inseriti in una finestra di dialogo, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The difference is that the Solver deals with equations with multiple unknown variables.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T131937Z" creationid="michele" creationdate="20160608T131937Z">
@@ -31594,6 +31626,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This has a &lt;/f1&gt;structure similar to the Standard Filter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T162920Z" creationid="Elisabetta" creationdate="20160725T162920Z">
+        <seg>presenta una &lt;/f1&gt;struttura simile a quella del Filtro standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This icon replaces the standard icon &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt; if changes to the spreadsheet have not been saved.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T093647Z" creationid="michele" creationdate="20160524T093647Z">
@@ -32750,6 +32790,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165537Z" creationid="Luciano B." creationdate="20160325T165537Z">
         <seg>Per esportare pagine singole, usate il formato &lt;f2&gt;7;9;11&lt;/f2&gt; (pagine 7, 9 e 11).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To filter our data to obtain the same results as our previous examples:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T163123Z" creationid="Elisabetta" creationdate="20160725T163123Z">
+        <seg>Per ottenere gli stessi risultati degli esempi precedenti:</seg>
       </tuv>
     </tu>
     <tu>
