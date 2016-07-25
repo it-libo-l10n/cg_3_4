@@ -4782,6 +4782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Standard Filter&lt;/f0&gt;&lt;f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T160850Z" creationid="Elisabetta" creationdate="20160725T160850Z">
+        <seg>Il  &lt;f0&gt;Fitro Standard&lt;/f0&gt;&lt;f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Start/End.&lt;/f0&gt; Moves to the cell at the beginning or end of the current data range, which you can highlight using the &lt;f1&gt;Data Range&lt;/f1&gt; button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T155615Z" creationid="michele" creationdate="20160525T155615Z">
@@ -30582,6 +30590,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T132606Z" creationid="Marco Marega" creationdate="20160626T132606Z">
         <seg>Il risultato è l'intero multiplo di &lt;f0&gt;multiplo&lt;/f0&gt; più vicino al &lt;f1&gt;numero&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The result will depend on where in the sequence of applying the filters, the filter removed was applied.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T160814Z" creationid="Elisabetta" creationdate="20160725T160814Z">
+        <seg>Il risultato dipende dalla posizione del filtro rimosso nella sequenza di applicazione dei filtri.</seg>
       </tuv>
     </tu>
     <tu>
