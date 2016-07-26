@@ -7934,6 +7934,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>B(trials; SP; T_1; T_2)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T201202Z" creationid="Marco Marega" creationdate="20160726T201202Z">
+        <seg>B(Tentativi; Probabilità; Tentativo_1; Tentativo_2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>BOTTOM</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T144927Z" creationid="steevie" creationdate="20160509T144927Z">
@@ -25640,6 +25648,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the probability of a sample with binomial distribution.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T201319Z" creationid="Marco Marega" creationdate="20160726T201319Z">
+        <seg>Restituisce la probabilità di un campione utilizzando la distribuzione binomiale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the remainder after a number is divided by a divisor.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dividend&lt;/f1&gt; is the number which will be divided by the divisor.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T131542Z" creationid="Marco Marega" creationdate="20160626T131542Z">
@@ -31782,6 +31798,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T150545Z" creationid="steevie" creationdate="20160620T150545Z">
         <seg>Il testo viene considerato con valore 0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The value of text is 0.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Value_1; value_2; ... value_30&lt;/f1&gt; are values or ranges.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T201035Z" creationid="Marco Marega" creationdate="20160726T201035Z">
+        <seg>Il valore del testo è uguale a 0.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Valore_1; valore_2; ... valore_30&lt;/f1&gt; sono valori o intervalli.</seg>
       </tuv>
     </tu>
     <tu>
