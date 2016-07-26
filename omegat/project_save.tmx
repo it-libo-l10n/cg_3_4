@@ -3206,6 +3206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;BETAINV&lt;/f0&gt;(number; alpha; beta; start; end)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T203206Z" creationid="Marco Marega" creationdate="20160726T203206Z">
+        <seg>&lt;f0&gt;INV.BETA&lt;/f0&gt;(numero; alfa; beta; inizio; fine)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Be careful when reassigning your operating system’s or &lt;/f0&gt;&lt;f1&gt;LibreOffice&lt;/f1&gt;&lt;f2&gt;’s predefined shortcut keys.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170153Z" creationid="steevie" creationdate="20160428T170123Z">
@@ -25356,6 +25364,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T095442Z" creationid="Marco Marega" creationdate="20160626T095442Z">
         <seg>Restituisce la cotangente del &lt;f0&gt;numero&lt;/f0&gt; dato (angolo in radianti).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the cumulative beta probability density function.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number&lt;/f1&gt; is the value between &lt;f2&gt;Start&lt;/f2&gt; and &lt;f3&gt;End&lt;/f3&gt; at which to evaluate the function.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Alpha&lt;/f5&gt; is a parameter to the distribution.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Beta&lt;/f7&gt; is a parameter to the distribution.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Start&lt;/f9&gt; (optional) is the lower bound for &lt;f10&gt;number&lt;/f10&gt;.&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;End&lt;/f12&gt; (optional) is the upper bound for &lt;f13&gt;number&lt;/f13&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T203103Z" creationid="Marco Marega" creationdate="20160726T203103Z">
+        <seg>Restituisce la funzione di densità di probabilità cumulativa beta.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; è il valore compreso tra &lt;f2&gt;inizio&lt;/f2&gt; e &lt;f3&gt;fine&lt;/f3&gt; al quale elevare la funzione.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Alfa&lt;/f5&gt; è un parametro della distribuzione.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Beta&lt;/f7&gt; è un parametro della distribuzione.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Inizio&lt;/f9&gt; (facoltativo) è il limite inferiore per il &lt;f10&gt;numero&lt;/f10&gt;.&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;Fine&lt;/f12&gt; (facoltativo) è il limite superiore per il &lt;f13&gt;numero&lt;/f13&gt;.</seg>
       </tuv>
     </tu>
     <tu>
