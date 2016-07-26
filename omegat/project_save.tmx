@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3114,6 +3114,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T150008Z" creationid="Marco Marega" creationdate="20160625T150008Z">
         <seg>&lt;f0&gt;ARCTANH&lt;/f0&gt;(numero)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;AVEDEV&lt;/f0&gt;(number1; number2; ... number_30)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T190621Z" creationid="Marco Marega" creationdate="20160726T190621Z">
+        <seg>&lt;f0&gt;MEDIA.DEV&lt;/f0&gt;(numero 1; numero 2; ... numero_30)</seg>
       </tuv>
     </tu>
     <tu>
