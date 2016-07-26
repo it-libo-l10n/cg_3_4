@@ -5134,6 +5134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Trials&lt;/f0&gt; is the number of independent trials.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T201423Z" creationid="Marco Marega" creationdate="20160726T201423Z">
+        <seg>&lt;f0&gt;Tentativi&lt;/f0&gt; è il numero di tentativi indipendenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Two page styles are supplied with Calc: Default and &lt;/f0&gt;&lt;f1&gt;Report.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160216T071724Z">
@@ -5506,6 +5514,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T130922Z" creationid="Marco Marega" creationdate="20160703T130922Z">
         <seg>&lt;f1&gt;Interesse nominale&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; il tasso di interesse nominale annuo.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;P&lt;/f4&gt;&lt;f5&gt; è&lt;/f5&gt; il numero di pagamenti di interessi in un anno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;SP&lt;/f1&gt; is the probability of success on each trial.&lt;f2&gt; T_1&lt;/f2&gt; defines the lower limit for the number of trials.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T201628Z" creationid="Marco Marega" creationdate="20160726T201628Z">
+        <seg>&lt;f1&gt;Probabilità&lt;/f1&gt; è la probabilità di successo di ciascun tentativo.&lt;f2&gt; Tentativo_1&lt;/f2&gt; definisce il limite inferiore del numero di tentativi.</seg>
       </tuv>
     </tu>
     <tu>
