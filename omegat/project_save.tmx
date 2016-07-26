@@ -3246,6 +3246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;CHIDIST&lt;/f0&gt;(number;&lt;f1&gt; &lt;/f1&gt;degrees_freedom)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T204447Z" creationid="Marco Marega" creationdate="20160726T204447Z">
+        <seg>&lt;f0&gt;DISTRIB.CHI&lt;/f0&gt;(numero;&lt;f1&gt; &lt;/f1&gt;gradi libertà)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;COMBIN&lt;/f0&gt;(count_1; count_2)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T153024Z" creationid="Marco Marega" creationdate="20160625T151734Z">
@@ -25724,6 +25732,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T201319Z" creationid="Marco Marega" creationdate="20160726T201319Z">
         <seg>Restituisce la probabilità di un campione utilizzando la distribuzione binomiale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the probability value that a hypothesis will be confirmed from the indicated chi square.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T204841Z" creationid="Marco Marega" creationdate="20160726T204841Z">
+        <seg>Restituisce il valore della probabilità che un ipotesi sia confermata dalla distribuzione chi quadrato indicata.</seg>
       </tuv>
     </tu>
     <tu>
