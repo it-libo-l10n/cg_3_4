@@ -5630,6 +5630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f3&gt;T_2&lt;/f3&gt; (optional) defines the upper limit for the number of trials.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T201701Z" creationid="Marco Marega" creationdate="20160726T201701Z">
+        <seg>&lt;f3&gt;Tentativo_2&lt;/f3&gt; (facoltativo) definisce il limite superiore del numero di tentativi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f4&gt;&lt;s5/&gt;&lt;/f4&gt;&lt;f6&gt;FV&lt;/f6&gt; is determines what is desired as the cash value of the deposit.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160716T122905Z" creationid="Marco Marega" creationdate="20160716T122849Z">
