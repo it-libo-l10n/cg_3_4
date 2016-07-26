@@ -31394,6 +31394,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The probability determined by CHIDIST can also be determined by &lt;f0&gt;CHITEST.&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Number&lt;/f2&gt; is the chi-square value of the random sample used to determine the error probability.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Degrees_freedom&lt;/f4&gt; is the degrees of freedom of the experiment.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T205202Z" creationid="Marco Marega" creationdate="20160726T205202Z">
+        <seg>La probabilità calcolata dalla funzione DISTRIB.CHI può essere calcolata anche con la funzione &lt;f0&gt;TEST.CHI.&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Numero&lt;/f2&gt; è il valore chi-quadrato del campione casuale utilizzato per determinare la probabilità di errore.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Gradi libertà&lt;/f4&gt; sono i gradi di libertà dell'esperimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The process is the similar to the one described above, but you need to place the cursor inside the cell.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T104105Z" creationid="Elisabetta" creationdate="20160629T104105Z">
