@@ -15526,6 +15526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if a cell contains &lt;f2&gt;red [hard line break] clay&lt;/f2&gt; then searching for &lt;f3&gt;d\nc&lt;/f3&gt; and entering nothing in the &lt;f4&gt;Replace with&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;box&lt;/f6&gt; leaves the cell containing &lt;f7&gt;relay&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T170956Z" creationid="Elisabetta" creationdate="20160726T170956Z">
+        <seg>Per esempio, se una cella contiene i termini &lt;f2&gt;terra [interruzione riga] rosa&lt;/f2&gt; la ricerca mediante &lt;f3&gt;a\nr&lt;/f3&gt;, eseguita lasciando vuoto il campo della casella &lt;f4&gt;Sostituisci con&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;, restituirà il risultato di una cella contenente il testo &lt;f7&gt;terrosa&lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if a sheet would normally print out as four pages (two high and two wide), a scaling of 50% would print as one page (both width and height are halved).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T164230Z">
@@ -15642,6 +15650,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T170359Z" creationid="Elisabetta" creationdate="20160726T170359Z">
         <seg>Per esempio, la ricerca della parola &lt;f0&gt;mattone&lt;/f0&gt; otterrà il risultato di evidenziare una cella contenente il testo &lt;f1&gt;argilla rosso mattone&lt;/f1&gt;, ma, lasciando vuoto il campo della casella &lt;f2&gt;Sostituisci con&lt;/f2&gt;, all'interno della cella resterà il testo &lt;f3&gt;argilla rosso&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, searching for &lt;f3&gt;joh?n&lt;/f3&gt;, then activating &lt;f4&gt;Current selection only&lt;/f4&gt; and searching for &lt;f5&gt;sm.th&lt;/f5&gt; will find cells containing &lt;f6&gt;Jon Smith&lt;/f6&gt; and &lt;f7&gt;Smythers, Johnathon&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T170714Z" creationid="Elisabetta" creationdate="20160726T170714Z">
+        <seg>Per esempio, la ricerca di &lt;f3&gt;sapere?&lt;/f3&gt; e la successiva attivazione dell'opzione &lt;f4&gt;Solo nella selezione&lt;/f4&gt;, quindi la ricerca di &lt;f5&gt;c.ntare&lt;/f5&gt;, restituiranno occorrenze come &lt;f6&gt;saper cantare&lt;/f6&gt; e &lt;f7&gt;sapere contare&lt;/f7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17066,6 +17082,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T082025Z">
         <seg>Quando l'identificazione degli strumenti è attivata, posizionando il cursore del mouse sull'icona di un qualsiasi strumento verrà visualizzata una breve descrizione della sua funzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a cell contains a hard line break (entered by &lt;f0&gt;Ctrl+Enter&lt;/f0&gt;), it may be found by using the regular expression &lt;f1&gt;\n&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T170754Z" creationid="Elisabetta" creationdate="20160726T170754Z">
+        <seg>Se una cella contiene un'interruzione di riga (inserita con la combinazione di tasti &lt;f0&gt;Ctrl+Invio&lt;/f0&gt;), essa può essere trovata mediante l'espressione regolare &lt;f1&gt;\n&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
