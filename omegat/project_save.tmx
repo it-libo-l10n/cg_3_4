@@ -6254,6 +6254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A mistake with &lt;f1&gt;Replace All&lt;/f1&gt; might require a manual, word-by-word search to fix, if it is not discovered in time to undo it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T160526Z" creationid="Elisabetta" creationdate="20160726T160526Z">
+        <seg>Un errore commesso con l'opzione &lt;f1&gt;Sostituisci tutto&lt;/f1&gt; e non rilevato tempestivamente, può comportare un'estenuante ricerca manuale, da eseguire parola per parola, per eliminarlo. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A more complex use of the Fill tool is to use a fill series.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T173909Z" creationid="Elisabetta" creationdate="20160628T173909Z">
@@ -15098,6 +15106,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095335Z">
         <seg>Ricerca e risoluzione degli errori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Finding and replacing &lt;is0/&gt;formulas or values</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T160545Z" creationid="Elisabetta" creationdate="20160726T160545Z">
+        <seg>Cercare e sostituire &lt;is0/&gt;formule o valori</seg>
       </tuv>
     </tu>
     <tu>
@@ -37686,6 +37702,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T165533Z" creationid="Elisabetta" creationdate="20160722T165533Z">
         <seg>Scegliete la funzione Formattazione automatica per applicare rapidamente una serie di formati di cella a un foglio oppure a un intervallo di celle selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use the Find &amp; Replace dialog to search in formulas or in the displayed values that result from a calculation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T160616Z" creationid="Elisabetta" creationdate="20160726T160616Z">
+        <seg>Potete effettuare una ricerca all'interno di formule, o di valori risultato di calcolo grazie alla finestra di dialogo Cerca e sostituisci.</seg>
       </tuv>
     </tu>
     <tu>
