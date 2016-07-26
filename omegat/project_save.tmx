@@ -10150,6 +10150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Find, Find All&lt;/f0&gt;, &lt;f1&gt;Replace&lt;/f1&gt;, or &lt;f2&gt;&lt;f3&gt;Replace All&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;(not recommended).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T165844Z" creationid="Elisabetta" creationdate="20160726T165844Z">
+        <seg>Fate clic sui pulsanti &lt;f0&gt;Cerca, Cerca tutto&lt;/f0&gt;, &lt;f1&gt;Sostituisci&lt;/f1&gt;, o &lt;f2&gt;&lt;f3&gt;Sostituisci tutto&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;(non consigliabile).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Find, Find All&lt;/f0&gt;, &lt;f1&gt;Replace&lt;/f1&gt;, or &lt;f2&gt;Replace All&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T164215Z" creationid="Elisabetta" creationdate="20160726T164215Z">
@@ -18546,6 +18554,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T151243Z" creationid="Luciano B." creationdate="20160411T151243Z">
         <seg>In Calc, molti utenti possono aprire lo stesso foglio elettronico per scrivere allo stesso tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In Calc, regular expressions are applied separately to each cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T165936Z" creationid="Elisabetta" creationdate="20160726T165936Z">
+        <seg>In Calc le espressioni regolari vengono applicate a ogni cella separatamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30522,6 +30538,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following points may be of interest to Calc users:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T165916Z" creationid="Elisabetta" creationdate="20160726T165916Z">
+        <seg>Gli argomenti seguenti possono interessare gli utenti di Calc:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following steps create a macro that performs paste special with multiply.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160524T142947Z" creationid="luciano" creationdate="20160524T120857Z">
@@ -30622,6 +30646,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T163610Z" creationid="Luciano B." creationdate="20160325T163610Z">
         <seg>L'intestazione o il piè di pagina di un foglio elettronico di Calc ha tre colonne per il testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The help file describes many of the regular expressions and their uses.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T165904Z" creationid="Elisabetta" creationdate="20160726T165904Z">
+        <seg>Il file della Guida illustra diverse espressioni regolari e i relativi usi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34622,6 +34654,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T153711Z" creationid="Elisabetta" creationdate="20160726T153711Z">
         <seg>Digitate un termine di ricerca nella casella Cerca, quindi fate clic sul pulsante &lt;f0&gt;Trova successivo &lt;/f0&gt;(Freccia in basso) oppure su &lt;f1&gt;Trova precedente&lt;/f1&gt; (Freccia in alto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type the search text, including the wildcards, in the &lt;f0&gt;&lt;f1&gt;Search for&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; box &lt;/f2&gt;and the replacement text (if any) in the &lt;f3&gt;&lt;f4&gt;Replace with&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T165801Z" creationid="Elisabetta" creationdate="20160726T165801Z">
+        <seg>Digitate il testo da ricercare, inclusi i caratteri jolly, nella casella &lt;f0&gt;&lt;f1&gt;Cerca&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;/f2&gt;e l'eventuale testo con il quale sostituirlo all'interno della casella &lt;f3&gt;&lt;f4&gt;Sostituisci con&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;.	</seg>
       </tuv>
     </tu>
     <tu>
