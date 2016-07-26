@@ -3214,6 +3214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;BINOMDIST&lt;/f0&gt;(X; trials; SP; C)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T203710Z" creationid="Marco Marega" creationdate="20160726T203710Z">
+        <seg>&lt;f0&gt;DISTRIB.BINOM&lt;/f0&gt;(X; tentativi; probabilità; C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Be careful when reassigning your operating system’s or &lt;/f0&gt;&lt;f1&gt;LibreOffice&lt;/f1&gt;&lt;f2&gt;’s predefined shortcut keys.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170153Z" creationid="steevie" creationdate="20160428T170123Z">
