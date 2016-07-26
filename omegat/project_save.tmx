@@ -5246,6 +5246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Wildcards&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;(also known as &lt;is2/&gt;&lt;i3/&gt;&lt;f4&gt;regular expressions&lt;/f4&gt;&lt;ie5/&gt;) are combinations of characters that instruct &lt;f6&gt;LibreOffice&lt;/f6&gt; how to search for something.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T164437Z" creationid="Elisabetta" creationdate="20160726T164437Z">
+        <seg>I &lt;f0&gt;caratteri jolly&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;(noti anche come &lt;is2/&gt;&lt;i3/&gt;&lt;f4&gt;espressioni regolari&lt;/f4&gt;&lt;ie5/&gt;) consistono in combinazioni di caratteri che indicano a &lt;f6&gt;LibreOffice&lt;/f6&gt; come effettuare la ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Window&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;contains commands for the display window such as &lt;/f2&gt;&lt;f3&gt;New Window&lt;/f3&gt;&lt;f4&gt;, and &lt;/f4&gt;&lt;f5&gt;Close Window.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160323T163440Z">
@@ -24724,6 +24732,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153838Z" creationid="steevie" creationdate="20160620T153821Z">
         <seg>Espressione regolare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regular expressions are very powerful but not very intuitive.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T164507Z" creationid="Elisabetta" creationdate="20160726T164507Z">
+        <seg>Le espressioni regolari sono alquanto efficaci, ma non molto intuitive.</seg>
       </tuv>
     </tu>
     <tu>
