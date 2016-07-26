@@ -17854,6 +17854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you closed the dialog, you can press &lt;f2&gt;Ctrl+Shift+F&lt;/f2&gt; to find the next cell without opening the dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T163528Z" creationid="Elisabetta" creationdate="20160726T163528Z">
+        <seg>A finestra di dialogo chiusa, potete premere la combinazione di tasti &lt;f2&gt;Ctrl+Maisc+F&lt;/f2&gt; per cercare la cella successiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you copy the example in &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;&lt;t6&gt;Figure 251&lt;/t6&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f7&gt;&lt;f8&gt; onto each account, the current balances will be in cell &lt;/f8&gt;&lt;/f7&gt;F3&lt;f9&gt;&lt;f10&gt; of each sheet.&lt;/f10&gt;&lt;/f9&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160527T105957Z" creationid="antonio" creationdate="20160527T105957Z">
@@ -22012,6 +22020,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T141922Z" creationid="luciano" creationdate="20160429T141922Z">
         <seg>Ora, quando si salvate il file, le due versioni sono salvate nello stesso file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now you can, for example, apply a cell style to all of them at once.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T163709Z" creationid="Elisabetta" creationdate="20160726T163709Z">
+        <seg>Potete, per esempio, applicare simultaneamente uno stile a tutte le celle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36258,6 +36274,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you click &lt;f0&gt;Find All&lt;/f0&gt;, Calc selects all cells that contain your entry.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T163620Z" creationid="Elisabetta" creationdate="20160726T163620Z">
+        <seg>Facendo clic sul pulsante &lt;f0&gt;Cerca tutto&lt;/f0&gt;, il programma seleziona tutte le celle contenenti il testo da cercare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you click &lt;f0&gt;Find&lt;/f0&gt;, Calc selects the next cell that contains your text.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T163230Z" creationid="Elisabetta" creationdate="20160726T163230Z">
@@ -37446,6 +37470,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160424T134803Z" creationid="luciano" creationdate="20160424T134803Z">
         <seg>È possibile modificare e formattare il testo di un commento, proprio come per qualsiasi altro testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can edit the text, then click &lt;f1&gt;Find&lt;/f1&gt; again to advance to the next found cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T163458Z" creationid="Elisabetta" creationdate="20160726T163458Z">
+        <seg>Potete modificare il testo, quindi fare clic nuovamente su &lt;f1&gt;Cerca&lt;/f1&gt; per spostarvi alla cella selezionata successiva.</seg>
       </tuv>
     </tu>
     <tu>
