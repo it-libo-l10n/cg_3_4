@@ -3126,6 +3126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;AVERAGEA&lt;/f0&gt;(value_1; value_2; ... value_30)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T200829Z" creationid="Marco Marega" creationdate="20160726T200829Z">
+        <seg>&lt;f0&gt;MEDIA.VALORI&lt;/f0&gt;(valore_1; valore_2; ... valore_30)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Advanced Filter&lt;/f0&gt;&lt;f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T162900Z" creationid="Elisabetta" creationdate="20160725T162900Z">
@@ -25264,6 +25272,22 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the average of the arguments.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T200949Z" creationid="Marco Marega" creationdate="20160726T200949Z">
+        <seg>Restituisce la media dei parametri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the average of the arguments.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number_1; number_2; ... number_30&lt;/f1&gt; are numerical values or ranges.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T200720Z" creationid="Marco Marega" creationdate="20160726T200720Z">
+        <seg>Restituisce la media dei parametri.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1; numero_2; ... numero_30&lt;/f1&gt; sono valori numerici o intervalli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the base-10 logarithm of the given &lt;f0&gt;number&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T131207Z" creationid="Marco Marega" creationdate="20160626T131207Z">
@@ -29245,6 +29269,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T142908Z" creationid="steevie" creationdate="20160427T142908Z">
         <seg>Il testo viene evidenziato in nero; i numeri in blu; formule, valori logici, date eccetera in verde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text is ignored.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T200740Z" creationid="Marco Marega" creationdate="20160726T200740Z">
+        <seg>Il testo viene ignorato.</seg>
       </tuv>
     </tu>
     <tu>
