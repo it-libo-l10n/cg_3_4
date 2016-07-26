@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(The regular expression &lt;f5&gt;r.d&lt;/f5&gt; means the system will try to match &lt;f6&gt;r&lt;/f6&gt; followed by any other character followed by &lt;f7&gt;d&lt;/f7&gt;.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T170205Z" creationid="Elisabetta" creationdate="20160726T170205Z">
+        <seg>(L'espressione regolare &lt;f5&gt;r.sso&lt;/f5&gt; indica che il sistema cercherà di trovare una corrispondenza del carattere &lt;f6&gt;r&lt;/f6&gt; seguito da tutti i possibili caratteri che precedono &lt;f7&gt;sso&lt;/f7&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(The settlement and maturity date must be in the same year.)&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;Discount&lt;/f8&gt; is the percentage discount on acquisition of the security.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160716T131152Z" creationid="Marco Marega" creationdate="20160716T131152Z">
@@ -32546,6 +32554,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This means that a search for &lt;f0&gt;r.d&lt;/f0&gt; will match &lt;f1&gt;red&lt;/f1&gt; in cell A1 but will not match &lt;f2&gt;r&lt;/f2&gt; in cell A2 and &lt;f3&gt;d&lt;/f3&gt; (or &lt;f4&gt;ed&lt;/f4&gt;) in cell A3.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T170109Z" creationid="Elisabetta" creationdate="20160726T170109Z">
+        <seg>Ciò significa che la ricerca di &lt;f0&gt;r.sso&lt;/f0&gt; troverà una corrispondenza della parola &lt;f1&gt;rosso&lt;/f1&gt; nella cella A1, ma non del carattere &lt;f2&gt;r&lt;/f2&gt; nella cella A2, né di &lt;f3&gt;o&lt;/f3&gt; (oppure di &lt;f4&gt;sso&lt;/f4&gt;) nella cella A3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This method can be useful to quickly change the print range without highlighting a large area of cells every time.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153240Z">
@@ -36158,6 +36174,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160616T094219Z" creationid="luciano" creationdate="20160616T094219Z">
         <seg>Quando una macro viene chiamata come una funzione di Calc, la macro non può modificare qualsiasi valore nel foglio da cui la macro è stata chiamata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a match is found, the entire cell is highlighted but only the text found will be replaced.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T170240Z" creationid="Elisabetta" creationdate="20160726T170240Z">
+        <seg>Se verrà trovata una corrispondenza, sarà evidenziata l'intera cella ma verrà sostituito soltanto il testo cercato.</seg>
       </tuv>
     </tu>
     <tu>
