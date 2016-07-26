@@ -8222,6 +8222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, Calc searches the current sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T154941Z" creationid="Elisabetta" creationdate="20160726T154941Z">
+        <seg>Per impostazione predefinita Calc effettua ricerche all'interno del foglio attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, matching items throughout your array will be gathered together as a single group above a subtotal.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160530T150959Z" creationid="michele" creationdate="20160530T145823Z">
@@ -37466,6 +37474,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can see the currency symbol in the cell, but you cannot search for it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T154914Z" creationid="Elisabetta" creationdate="20160726T154914Z">
+        <seg>visualizzabile all'interno della cella, ma non ricercabile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can see the equation for it in the formula bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160527T104811Z" creationid="antonio" creationdate="20160527T104811Z">
@@ -39734,6 +39750,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T155219Z" creationid="michele" creationdate="20160531T155219Z">
         <seg>scenari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>searching</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T154920Z" creationid="Elisabetta" creationdate="20160726T154920Z">
+        <seg>ricerca</seg>
       </tuv>
     </tu>
     <tu>
