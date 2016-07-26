@@ -25232,6 +25232,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the average of the absolute deviations of data points from their mean.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T200242Z" creationid="Marco Marega" creationdate="20160726T200242Z">
+        <seg>Restituisce la deviazione media assoluta di una serie di dati dalla loro media.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the base-10 logarithm of the given &lt;f0&gt;number&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T131207Z" creationid="Marco Marega" creationdate="20160626T131207Z">
