@@ -3198,6 +3198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;BETADIST&lt;/f0&gt;(number;&lt;f1&gt; a&lt;/f1&gt;lpha; beta; start; end)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T202210Z" creationid="Marco Marega" creationdate="20160726T202210Z">
+        <seg>&lt;f0&gt;DISTRIB.BETA&lt;/f0&gt;(numero;&lt;f1&gt; a&lt;/f1&gt;lfa; beta; inizio; fine)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Be careful when reassigning your operating system’s or &lt;/f0&gt;&lt;f1&gt;LibreOffice&lt;/f1&gt;&lt;f2&gt;’s predefined shortcut keys.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170153Z" creationid="steevie" creationdate="20160428T170123Z">
