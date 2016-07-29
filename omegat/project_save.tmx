@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -29745,6 +29745,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Find &amp; Replace dialog has an option to search within formulas, values, or notes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160729T143332Z" creationid="Elisabetta" creationdate="20160729T143332Z">
+        <seg>La finestra di dialogo Cerca e sostituisci offre l'opzione di ricerca tra formule, valori o note.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Find toolbar is docked by default in the lower left-hand end of the Calc window.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T173239Z" creationid="Elisabetta" creationdate="20160725T173239Z">
@@ -32898,6 +32906,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This option applies to any search, not just one using regular expressions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160729T143350Z" creationid="Elisabetta" creationdate="20160729T143350Z">
+        <seg>L'opzione può essere estesa a ogni ricerca, non soltanto a quelle effettuate mediante espressioni regolari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This option can increase file sizes significantly.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T141521Z" creationid="Luciano B." creationdate="20160325T171836Z">
@@ -35582,6 +35598,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T083506Z">
         <seg>Gli utenti possono ottenere un &lt;is0/&gt;supporto&lt;ie1/&gt; completo in linea da parte dei membri della comunità attraverso le mailing list.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using &lt;f0&gt;\n&lt;/f0&gt; in the &lt;f1&gt;Replace with&lt;/f1&gt; box will replace with the literal characters &lt;f2&gt;\n&lt;/f2&gt;, not a hard line break.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160729T143309Z" creationid="Elisabetta" creationdate="20160729T143309Z">
+        <seg>L'inserimento del carattere speciale &lt;f0&gt;\n&lt;/f0&gt; nel campo della casella &lt;f1&gt;Sostituisci con&lt;/f1&gt; restituirà il risultato di un carattere normale &lt;f2&gt;\n&lt;/f2&gt;, non inserirà un'interruzione di riga.</seg>
       </tuv>
     </tu>
     <tu>
