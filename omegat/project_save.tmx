@@ -15814,6 +15814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, to convert text strings consisting of digits into actual numbers, first format the cells as numbers and then perform the search and replace.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160729T144435Z" creationid="Elisabetta" creationdate="20160729T144435Z">
+        <seg>Per esempio, per convertire stringhe di testo costituito da cifre in numeri reali, è utile prima formattare le celle come numeri, quindi eseguirne la ricerca e la sostituzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, to hide a row, first select the row, and then choose &lt;f3&gt;Format &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Row &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; Hide&lt;/f9&gt; (or &lt;f10&gt;right-click&lt;/f10&gt; and choose &lt;f11&gt;Hide&lt;/f11&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160723T161026Z" creationid="Elisabetta" creationdate="20160723T161026Z">
@@ -26660,6 +26668,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T082526Z" creationid="michele" creationdate="20160524T082526Z">
         <seg>Vedi Capitolo 7, Usare Formule e Funzioni, per maggiori dettagli.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See Chapter 7, Using Formulas and Functions, for the use of regular expressions within formulas.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160729T144517Z" creationid="Elisabetta" creationdate="20160729T144517Z">
+        <seg>Consultate il Capitolo 7, Usare formule e funzioni, per la ricerca all'interno delle formule tramite le espressioni regolari.</seg>
       </tuv>
     </tu>
     <tu>
