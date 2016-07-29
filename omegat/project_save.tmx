@@ -15294,6 +15294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finding cell contents using the regular expression &lt;f0&gt;.+&lt;/f0&gt; (or similar) and replacing them with &lt;f1&gt;&amp;&lt;/f1&gt; effectively re-enters the cell contents without any formatting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160729T144040Z" creationid="Elisabetta" creationdate="20160729T144040Z">
+        <seg>La ricerca di contenuti di celle tramite espressione regolare &lt;f0&gt;.+&lt;/f0&gt; (o simili) e la loro relativa sostituzione con il carattere &lt;f1&gt;&amp;&lt;/f1&gt; ha come effetto il reinserimento dei contenuti cella privi di formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finding comments using the Navigator</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160425T113901Z" creationid="luciano" creationdate="20160425T113901Z">
@@ -22144,6 +22152,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that empty cells will not be found even if you are only searching a selection.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160729T143945Z" creationid="Elisabetta" creationdate="20160729T143945Z">
+        <seg>Non verranno trovate celle vuote neppure nella sola ricerca all’interno di una selezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that the book value will never reach zero under this calculation type.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T091837Z" creationid="Marco Marega" creationdate="20160703T091837Z">
@@ -26420,6 +26436,22 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151618Z" creationid="steevie" creationdate="20160620T151618Z">
         <seg>Ricerca un determinato valore tra le righe nella prima colonna di una matrice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Searching for the regular expression &lt;f0&gt;^$&lt;/f0&gt; will not find empty cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160729T143859Z" creationid="Elisabetta" creationdate="20160729T143859Z">
+        <seg>La ricerca tramite espressione regolare &lt;f0&gt;^$&lt;/f0&gt; non restituirà il risultato di trovare celle vuote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Searching with the &lt;t0/&gt;&lt;f1&gt;Formulas&lt;/f1&gt; option for&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;SUM&lt;/f3&gt; would find a cell containing the formula &lt;f4&gt;=SUM(A1:A6)&lt;/f4&gt; as well as a cell containing the simple text &lt;f5&gt;SUMMARY&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160729T143834Z" creationid="Elisabetta" creationdate="20160729T143834Z">
+        <seg>La ricerca tramite opzione  &lt;t0/&gt;&lt;f1&gt;Formule&lt;/f1&gt; di&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;SOMMA&lt;/f3&gt; restituirà il risultato di una cella contenente la formula &lt;f4&gt;=SOMMA(A1:A6)&lt;/f4&gt;, come pure quello di una cella con testo normale &lt;f5&gt;SOMMARIO&lt;/f5&gt;. </seg>
       </tuv>
     </tu>
     <tu>
@@ -32670,6 +32702,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T150604Z" creationid="michele" creationdate="20160531T150548Z">
         <seg>Questa è un'aggiunta alla creazione dello scenario e al renderlo selezionabile nel foglio originale come da procedura normale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is intentional, to avoid performance issues when selecting a huge number of cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160729T143926Z" creationid="Elisabetta" creationdate="20160729T143926Z">
+        <seg>E lo scopo, assolutamente intenzionale, è quello di evitare problemi di prestazioni nel caso venga selezionato un consistente intervallo di celle.</seg>
       </tuv>
     </tu>
     <tu>
