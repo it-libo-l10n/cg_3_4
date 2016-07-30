@@ -16678,6 +16678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>GAUSS(number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T130137Z" creationid="Marco Marega" creationdate="20160730T130137Z">
+        <seg>GAUSS(numero)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>GCD_ADD(numbers)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T103307Z" creationid="Marco Marega" creationdate="20160626T103307Z">
@@ -25928,6 +25936,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the natural logarithm of the Gamma function, G(x), for the given &lt;f0&gt;number&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T130128Z" creationid="Marco Marega" creationdate="20160730T130128Z">
+        <seg>Restituisce il logaritmo naturale della funzione Gamma, G(x), per il &lt;f0&gt;numero&lt;/f0&gt; dato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the net present value of an investment based on a series of periodic cash flows and a discount rate.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Rate&lt;/f1&gt;&lt;f2&gt; is&lt;/f2&gt; the discount rate for a period.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Value_1; value_2;... value&lt;/f4&gt;&lt;f5&gt;_30&lt;/f5&gt; are values representing deposits or withdrawals.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160711T122656Z" creationid="Marco Marega" creationdate="20160711T122656Z">
@@ -26100,6 +26116,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T144500Z" creationid="Marco Marega" creationdate="20160626T144500Z">
         <seg>Restituisce la radice quadrata del &lt;f0&gt;numero&lt;/f0&gt; moltiplicato per PI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the standard normal cumulative distribution for the given &lt;f0&gt;number&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T130241Z" creationid="Marco Marega" creationdate="20160730T130241Z">
+        <seg>Restituisce la distribuzione cumulativa standard per il &lt;f0&gt;numero&lt;/f0&gt; dato.</seg>
       </tuv>
     </tu>
     <tu>
