@@ -3254,6 +3254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;CHIINV&lt;/f0&gt;(number;&lt;f1&gt; &lt;/f1&gt;degrees_freedom)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T085850Z" creationid="Marco Marega" creationdate="20160730T085850Z">
+        <seg>&lt;f0&gt;INV.CHI&lt;/f0&gt;(numero;&lt;f1&gt; &lt;/f1&gt;gradi di libertà)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;COMBIN&lt;/f0&gt;(count_1; count_2)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T153024Z" creationid="Marco Marega" creationdate="20160625T151734Z">
