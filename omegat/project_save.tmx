@@ -17382,6 +17382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>INTERCEPT(data_Y; data_X)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T135113Z" creationid="Marco Marega" creationdate="20160730T135113Z">
+        <seg>INTERCETTA(dati Y; dati X)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Iain Roberts</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084435Z">
@@ -25572,6 +25580,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T092635Z" creationid="Marco Marega" creationdate="20160730T092635Z">
         <seg>Restituisce l'intervallo di confidenza (1-alpha) di una distribuzione normale.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Alfa&lt;/f1&gt; è il livello dell'intervallo di confidenza.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;DEV.ST&lt;/f3&gt; è la deviazione standard nella popolazione totale.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Dimensione&lt;/f5&gt; sono le dimensioni totali della popolazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the &lt;f0&gt;hypergeometric&lt;/f0&gt; distribution.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;X&lt;/f2&gt; is the number of results achieved in the random sample.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;N_sample&lt;/f4&gt; is the size of the random sample.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Successes&lt;/f6&gt; is the number of possible results in the total population.&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;N_population &lt;/f8&gt;is the size of the total population.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T135037Z" creationid="Marco Marega" creationdate="20160730T135037Z">
+        <seg>Restituisce la distribuzione &lt;f0&gt;ipergeometrica&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;X&lt;/f2&gt; è il numero di risultati ottenuti nel campione casuale.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Numero campione&lt;/f4&gt; è la dimensione del campione casuale.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Successi popolazione&lt;/f6&gt; è il numero dei risultati possibili sul totale della popolazione.&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;Numero popolazione &lt;/f8&gt;è la dimensione della popolazione totale.</seg>
       </tuv>
     </tu>
     <tu>
