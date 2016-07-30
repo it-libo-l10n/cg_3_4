@@ -3902,6 +3902,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;FTEST&lt;/f0&gt;(data_1; data_2)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T124718Z" creationid="Marco Marega" creationdate="20160730T124718Z">
+        <seg>&lt;f0&gt;TEST.F&lt;/f0&gt;(dati 1; dati 2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;FVSCHEDULE&lt;/f0&gt;(principal; schedule)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T141926Z" creationid="Marco Marega" creationdate="20160703T141926Z">
