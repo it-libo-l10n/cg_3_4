@@ -3878,6 +3878,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;FDIST&lt;/f0&gt;(number; degrees_freedom_1; degrees_freedom_2)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T122014Z" creationid="Marco Marega" creationdate="20160730T122014Z">
+        <seg>&lt;f0&gt;DISTRIB.F&lt;/f0&gt;(numero; gradi libertà 1; gradi libertà 2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;FVSCHEDULE&lt;/f0&gt;(principal; schedule)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T141926Z" creationid="Marco Marega" creationdate="20160703T141926Z">
