@@ -3894,6 +3894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;FISHERINV&lt;/f0&gt;(number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T123759Z" creationid="Marco Marega" creationdate="20160730T123759Z">
+        <seg>&lt;f0&gt;INV.FISHER&lt;/f0&gt;(numero)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;FVSCHEDULE&lt;/f0&gt;(principal; schedule)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T141926Z" creationid="Marco Marega" creationdate="20160703T141926Z">
@@ -25772,6 +25780,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T123427Z" creationid="Marco Marega" creationdate="20160730T123147Z">
         <seg>Restituisce l'inverso della distribuzione di probabilità F.&lt;f0&gt; &lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Numero&lt;/f2&gt; è il valore della probabilità di cui calcolare l'inverso della distribuzione F.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Gradi libertà 1&lt;/f4&gt; è il numero di gradi di libertà al numeratore della distribuzione F.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Gradi libertà 2&lt;/f6&gt; è il numero di gradi di libertà al denominatore della distribuzione F.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the inverse of the Fisher transformation for the given &lt;f0&gt;number&lt;/f0&gt; and creates a function close to a normal distribution.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T123901Z" creationid="Marco Marega" creationdate="20160730T123901Z">
+        <seg>Restituisce l'inverso della trasformazione di Fisher per il &lt;f0&gt;numero&lt;/f0&gt; dato e crea una funzione vicina ad una distribuzione normale.</seg>
       </tuv>
     </tu>
     <tu>
