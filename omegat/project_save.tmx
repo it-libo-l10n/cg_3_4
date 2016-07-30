@@ -4038,6 +4038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;GAMMAINV&lt;/f0&gt;(number; alpha; beta)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T125456Z" creationid="Marco Marega" creationdate="20160730T125456Z">
+        <seg>&lt;f0&gt;INV.GAMMA&lt;/f0&gt;(numero; alfa; beta)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;GCD&lt;/f0&gt;(numbers)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T103001Z" creationid="Marco Marega" creationdate="20160626T102902Z">
@@ -4490,6 +4498,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T150401Z" creationid="luciano" creationdate="20160424T133432Z">
         <seg>&lt;f0&gt;Ora la cella alla quale si è aggiunto il commento ha un punto colorato nell'angolo superiore destro, come mostrato in &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figura 288&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Number&lt;/f0&gt; is the probability value for which the inverse Gamma distribution is to be calculated.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Alpha&lt;/f2&gt; is the parameter Alpha of the Gamma distribution.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Beta&lt;/f4&gt; is the parameter Beta of the Gamma distribution.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T125731Z" creationid="Marco Marega" creationdate="20160730T125731Z">
+        <seg>&lt;f0&gt;Numero&lt;/f0&gt; è il valore di probabilità del quale calcolare l'inverso della distribuzione Gamma distribution is to be calculated.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Alpha&lt;/f2&gt; is the parameter Alpha of the Gamma distribution.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Beta&lt;/f4&gt; is the parameter Beta of the Gamma distribution.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25832,6 +25848,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the inverse of the Gamma cumulative distribution.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T125527Z" creationid="Marco Marega" creationdate="20160730T125527Z">
+        <seg>Restituisce l'inverso della distribuzione Gamma cumulativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the inverse of the cumulative beta probability density function.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number&lt;/f1&gt; is the value between &lt;f2&gt;Start&lt;/f2&gt; and &lt;f3&gt;End&lt;/f3&gt; at which to evaluate the function.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Alpha&lt;/f5&gt; is a parameter to the distribution.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Beta&lt;/f7&gt; is a parameter to the distribution.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Start&lt;/f9&gt; (optional) is the lower bound for &lt;f10&gt;number&lt;/f10&gt;.&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;End&lt;/f12&gt; (optional) is the upper bound for&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;number.&lt;/f14&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T203514Z" creationid="Marco Marega" creationdate="20160726T203514Z">
@@ -32870,6 +32894,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T083519Z">
         <seg>Questo forum fornisce il supporto della comunità per LibreOffice e altri programmi: &lt;a2&gt;http://user.services.openoffice.org/en/forum/&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This function allows you to search for variables with different distribution.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T125640Z" creationid="Marco Marega" creationdate="20160730T125640Z">
+        <seg>Questa funzione permette di cercare variabili con differente distribuzione.</seg>
       </tuv>
     </tu>
     <tu>
