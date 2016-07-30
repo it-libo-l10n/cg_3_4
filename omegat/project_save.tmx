@@ -20639,6 +20639,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>KURT(number_1; number_2; ... number_30)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T135748Z" creationid="Marco Marega" creationdate="20160730T135748Z">
+        <seg>CURTOSI(numero 1; numero 2; ... numero 30)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Kashmira Patel</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084434Z">
@@ -25988,6 +25996,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T145958Z" creationid="Marco Marega" creationdate="20160625T145958Z">
         <seg>Restituisce l'inverso della tangente delle coordinate x ed y specificate.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Il Numero_x&lt;/f1&gt; è il valore per la coordinata delle x.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Il Numero_y&lt;/f3&gt; è il valore per la coordinata delle y.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the kurtosis of a data set (at least 4 values required).&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number_1; number_2; ... number_30&lt;/f1&gt; are numerical arguments or ranges representing a random sample of distribution.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T135950Z" creationid="Marco Marega" creationdate="20160730T135950Z">
+        <seg>Restituisce la curtosi d un insieme di dati (sono richiesti almeno 4 valori).&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero 1; numero 2; ... numero 30&lt;/f1&gt; sono dei parametri numerici o intervali che rappresentano un campione di distribuzione casuale.</seg>
       </tuv>
     </tu>
     <tu>
