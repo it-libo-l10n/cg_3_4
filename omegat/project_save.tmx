@@ -13678,6 +13678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>FORECAST(value; data_Y; data_X)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T124046Z" creationid="Marco Marega" creationdate="20160730T124046Z">
+        <seg>PREVISIONE(valore; dati Y; dati X)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>FV(rate; NPER; &lt;f0&gt;PMT&lt;/f0&gt;; PV; type)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T140847Z" creationid="Marco Marega" creationdate="20160703T140847Z">
