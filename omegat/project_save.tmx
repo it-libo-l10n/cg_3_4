@@ -8462,6 +8462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>COUNT(value_1; value_2; ... value_30)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T093002Z" creationid="Marco Marega" creationdate="20160730T093002Z">
+        <seg>CONTA.NUMERI(valore 1; valore 2; ... valore 30)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>COUNTA</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T144218Z" creationid="steevie" creationdate="20160620T144218Z">
@@ -25436,6 +25444,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160716T092748Z" creationid="Marco Marega" creationdate="20160716T092748Z">
         <seg>Restituisce il tasso di interesse periodico di una rendita a tasso fisso.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero rate&lt;/f1&gt; è il numero complessivo di periodi nei quali vengono effettuati i pagamenti (periodo di pagamento).&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Rata&lt;/f3&gt; è l'importo del pagamento costante (rendita) versato in ciascun periodo.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Valore attuale&lt;/f5&gt; è il valore attuale in contanti in una sequenza di pagamenti.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Valore futuro&lt;/f7&gt; (facoltativo) è il valore finale, che verrà raggiunto al termine dei pagamenti periodici.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Tipo&lt;/f9&gt; (facoltativo) indica se il pagamento degli interessi per ciascun periodo è anticipato (1) o posticipato (0).&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;Ipotesi&lt;/f11&gt; (facoltativo) indica il valore degli interessi stimato con il calcolo iterativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the correlation coefficient between two data sets.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Data_1&lt;/f1&gt; is the first data set.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Data_2&lt;/f3&gt; is the second data set.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T092902Z" creationid="Marco Marega" creationdate="20160730T092902Z">
+        <seg>Restituisce il coefficiente di correlazione tra due insiemi di dati.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati 1&lt;/f1&gt; è il primo insieme di dati.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Dati 2&lt;/f3&gt; è il secondo insieme di dati.</seg>
       </tuv>
     </tu>
     <tu>
