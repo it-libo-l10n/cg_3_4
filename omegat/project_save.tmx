@@ -25776,6 +25776,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the harmonic mean of a data set.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number_1; number_2; ... number_30&lt;/f1&gt; are values or ranges that can be used to calculate the harmonic mean.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T134523Z" creationid="Marco Marega" creationdate="20160730T134523Z">
+        <seg>Restituisce la media armonica di un insieme di dati.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero 1; numero 2; ... numero 30&lt;/f1&gt; sono i valori o gli intervali che vengono utilizzati per calcolare la media armonica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the hyperbolic cosine of the given &lt;f0&gt;number&lt;/f0&gt; (angle in radians).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T095407Z" creationid="Marco Marega" creationdate="20160626T095407Z">
