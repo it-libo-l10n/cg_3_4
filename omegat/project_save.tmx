@@ -9286,6 +9286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calculates the y-value at which a line will intersect the y-axis by using known x-values and y-values.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Data_Y&lt;/f1&gt; is the dependent set of observations or data.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Data_X&lt;/f3&gt; is the independent set of observations or data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T135512Z" creationid="Marco Marega" creationdate="20160730T135512Z">
+        <seg>Calcola il valore della y nel quale una linea interseca l'asse delle y usando dei valori noti di x ed y.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati Y&lt;/f1&gt; è l'insieme dipendente dei dati di osservazione.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Dati X&lt;/f3&gt; è l'insieme indipendente dei dati di osservazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calculates the yearly nominal interest rate, given the effective rate and the number of compounding periods per year.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Effective_rate&lt;/f1&gt; is the effective interest rate&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Npery&lt;/f3&gt; is the number of periodic interest payments per year.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160711T121103Z" creationid="Marco Marega" creationdate="20160711T121103Z">
@@ -22208,6 +22216,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Names, arrays or references containing numbers must be used here.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T135602Z" creationid="Marco Marega" creationdate="20160730T135602Z">
+        <seg>In questa funzione si devono usare nomi, matrici o riferimenti contenenti numeri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Natural sort is a sort algorithm that sorts string-prefixed numbers based on the value of the numerical element in each sorted number, instead of the traditional (lexical) way of sorting them as ordinary strings.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T170533Z" creationid="Elisabetta" creationdate="20160725T170533Z">
@@ -22564,6 +22580,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160530T154944Z" creationid="michele" creationdate="20160530T154944Z">
         <seg>I numri dal 2 al 4 mostrano livelli di raggruppamento inferiori, il numero 4 mostra le singole voci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Numbers can also be entered directly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T135651Z" creationid="Marco Marega" creationdate="20160730T135651Z">
+        <seg>I numeri si possono inserire anche direttamente.</seg>
       </tuv>
     </tu>
     <tu>
