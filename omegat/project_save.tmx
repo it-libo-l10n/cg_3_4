@@ -3886,6 +3886,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;FINV&lt;/f0&gt;(number; degrees_freedom_1; degrees_freedom_2)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T123106Z" creationid="Marco Marega" creationdate="20160730T123106Z">
+        <seg>&lt;f0&gt;INVF&lt;/f0&gt;(numero; gradi libertà 1; gradi libertà 2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;FVSCHEDULE&lt;/f0&gt;(principal; schedule)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T141926Z" creationid="Marco Marega" creationdate="20160703T141926Z">
@@ -9200,8 +9208,8 @@
       <tuv lang="EN">
         <seg>Calculates the values of an F probability distribution.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number&lt;/f1&gt; is the value for which the F distribution is to be calculated.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Degrees_freedom_1&lt;/f3&gt; is the degrees of freedom in the numerator in the F distribution.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Degrees_freedom_2&lt;/f5&gt; is the degrees of freedom in the denominator in the F distribution.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T123024Z" creationid="Marco Marega" creationdate="20160730T123024Z">
-        <seg>Calcola il valore della distribuzione F di probabilità.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; è il valore di cui calcolare la distribuzione F.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Gradi libertà 1&lt;/f3&gt; sono i gradi di libertà al numeratore nella distribuzione F.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Gradi libertà 2&lt;/f5&gt; sono i gradi di libertà al denominatore nella distribuzione F.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T123200Z" creationid="Marco Marega" creationdate="20160730T123024Z">
+        <seg>Calcola il valore della distribuzione di probabilità F.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; è il valore di cui calcolare la distribuzione F.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Gradi libertà 1&lt;/f3&gt; sono i gradi di libertà al numeratore nella distribuzione F.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Gradi libertà 2&lt;/f5&gt; sono i gradi di libertà al denominatore nella distribuzione F.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25740,6 +25748,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T150058Z" creationid="Marco Marega" creationdate="20160625T150058Z">
         <seg>Restituisce l'inverso della tangente iperbolica del &lt;f0&gt;numero&lt;/f0&gt; dato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the inverse of the F probability distribution.&lt;f0&gt; &lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Number&lt;/f2&gt; is probability value for which the inverse F distribution is to be calculated.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Degrees_freedom_1&lt;/f4&gt; is the number of degrees of freedom in the numerator of the F distribution.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Degrees_freedom_2&lt;/f6&gt; is the number of degrees of freedom in the denominator of the F distribution.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T123147Z" creationid="Marco Marega" creationdate="20160730T123147Z">
+        <seg>Restituisce l'inverso della distribuzione di F probabilità F.&lt;f0&gt; &lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Number&lt;/f2&gt; is probability value for which the inverse F distribution is to be calculated.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Degrees_freedom_1&lt;/f4&gt; is the number of degrees of freedom in the numerator of the F distribution.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Degrees_freedom_2&lt;/f6&gt; is the number of degrees of freedom in the denominator of the F distribution.</seg>
       </tuv>
     </tu>
     <tu>
