@@ -25504,6 +25504,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the covariance of the product of paired deviations.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Data_1&lt;/f1&gt; is the first data set.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Data_2&lt;/f3&gt; is the second data set.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T094518Z" creationid="Marco Marega" creationdate="20160730T094518Z">
+        <seg>Restituisce la covarianza del prodotto di due deviazioni accoppiate.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati 1&lt;/f1&gt; è il primo insieme di dati.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Dati 2&lt;/f3&gt; è il secondo insieme di dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the cumulative beta probability density function.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number&lt;/f1&gt; is the value between &lt;f2&gt;Start&lt;/f2&gt; and &lt;f3&gt;End&lt;/f3&gt; at which to evaluate the function.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Alpha&lt;/f5&gt; is a parameter to the distribution.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Beta&lt;/f7&gt; is a parameter to the distribution.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Start&lt;/f9&gt; (optional) is the lower bound for &lt;f10&gt;number&lt;/f10&gt;.&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;End&lt;/f12&gt; (optional) is the upper bound for &lt;f13&gt;number&lt;/f13&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T203103Z" creationid="Marco Marega" creationdate="20160726T203103Z">
