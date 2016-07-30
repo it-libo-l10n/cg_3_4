@@ -25608,6 +25608,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the inverse of the one-tailed probability of the chi-squared distribution.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number&lt;/f1&gt; is the value of the error probability.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Degrees_freedom&lt;/f3&gt; is the degrees of freedom of the experiment.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T090025Z" creationid="Marco Marega" creationdate="20160730T090025Z">
+        <seg>Returns the inverse of the one-tailed probability of the chi-squared distribution.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number&lt;/f1&gt; is the value of the error probability.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Degrees_freedom&lt;/f3&gt; is the degrees of freedom of the experiment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the inverse sine of the given &lt;f0&gt;number&lt;/f0&gt; in radians.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T145436Z" creationid="Marco Marega" creationdate="20160625T145359Z">
@@ -25770,8 +25778,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Returns the probability value that a hypothesis will be confirmed from the indicated chi square.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T204841Z" creationid="Marco Marega" creationdate="20160726T204841Z">
-        <seg>Restituisce il valore della probabilità che un ipotesi sia confermata dalla distribuzione chi quadrato indicata.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T090036Z" creationid="Marco Marega" creationdate="20160726T204841Z">
+        <seg>Restituisce il valore della probabilità che un ipotesi sia confermata usando la distribuzione chi quadrato indicata.</seg>
       </tuv>
     </tu>
     <tu>
