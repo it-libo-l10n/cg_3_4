@@ -25952,6 +25952,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the sum of squares of deviations based on a sample mean.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number_1; number_2; ... number_30&lt;/f1&gt; are numerical values or ranges representing a sample.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T101354Z" creationid="Marco Marega" creationdate="20160730T101354Z">
+        <seg>Restituisce la somma dei quadrati delle deviazioni calcolate su una media campione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero 1; numero 2; ... numero 30&lt;/f1&gt; sono valori numerici o intervalli che rappresentano un campione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the tangent of the given &lt;f0&gt;number&lt;/f0&gt; (angle in radians).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T150049Z" creationid="Marco Marega" creationdate="20160626T150049Z">
