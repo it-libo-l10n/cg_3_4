@@ -4078,6 +4078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;HYPGEOMDIST&lt;/f0&gt;(X; n_sample; successes; n_population)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T134737Z" creationid="Marco Marega" creationdate="20160730T134737Z">
+        <seg>&lt;f0&gt;DISTRIB.IPERGEOM&lt;/f0&gt;(X; numero campione; successi popolazione; numero popolazione)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Help&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;contains links to the Help file bundled with the software, &lt;/f2&gt;&lt;f3&gt;What's This?, Help&lt;/f3&gt;&lt;f4&gt;, and &lt;/f4&gt;&lt;f5&gt;License Information.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160323T163933Z">
