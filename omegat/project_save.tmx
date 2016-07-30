@@ -11502,6 +11502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Counts how many values are in the list of arguments.&lt;f0&gt; &lt;/f0&gt;Text entries are also counted, even when they contain an empty string of length 0.&lt;f1&gt; &lt;/f1&gt;If an argument is an array or reference, empty cells within the array or reference are ignored.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;value_1; value_2; ...&lt;/f3&gt;&lt;f4&gt; value_30&lt;/f4&gt; are up to 30 arguments representing the values to be counted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T093709Z" creationid="Marco Marega" creationdate="20160730T093709Z">
+        <seg>Conta quanti valori sono presenti nella lista dei parametri.&lt;f0&gt; &lt;/f0&gt;Vengono conteggiati anche i valori di testo, anche se contengono una stringa vuota di lunghezza 0.&lt;f1&gt; &lt;/f1&gt;Se un parametro è una matrice o un riferimento, le celle vuote all'interno della matrice o del riferimento vengono ignorate.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Valore 1; valore 2; ...&lt;/f3&gt;&lt;f4&gt; valore 30&lt;/f4&gt; sono un massimo di 30 parametri contenenti i valori da contare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cover art:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090306Z">
