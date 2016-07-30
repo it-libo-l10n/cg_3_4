@@ -4030,6 +4030,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;GAMMADIST&lt;/f0&gt;(number; alpha; beta; C)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T125116Z" creationid="Marco Marega" creationdate="20160730T125116Z">
+        <seg>&lt;f0&gt;DISTRIB.GAMMA&lt;/f0&gt;(numero; alfa; beta; cumulativo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;GCD&lt;/f0&gt;(numbers)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T103001Z" creationid="Marco Marega" creationdate="20160626T102902Z">
@@ -26020,6 +26028,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T133659Z" creationid="Marco Marega" creationdate="20160626T133659Z">
         <seg>Restituisce il risultato di un numero elevato a potenza.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Base&lt;/f1&gt; è il numero da elevare a potenza.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Potenza&lt;/f3&gt; è l'esponente per cui la base va elevata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the result of an F test.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Data_1&lt;/f1&gt; is the first record array.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Data_2&lt;/f3&gt; is the second record array.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T124949Z" creationid="Marco Marega" creationdate="20160730T124949Z">
+        <seg>Restituisce il risultato di un test F.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati 1&lt;/f1&gt; è la matrice del primo record di dati.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Dati 2&lt;/f3&gt; è la matrice del secondo record di dati.</seg>
       </tuv>
     </tu>
     <tu>
