@@ -25640,6 +25640,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the Rank_c-th largest value in a data set.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Data&lt;/f1&gt; is the cell range of data.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Rank_c&lt;/f3&gt; is the ranking of the value (2nd largest, 3rd largest, etc.) written as an integer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T140409Z" creationid="Marco Marega" creationdate="20160730T140409Z">
+        <seg>Restituisce il k-esimo valore più grande in un insieme di dati.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati&lt;/f1&gt; è l'intervallo di celle contenenti i dati.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;K&lt;/f3&gt; è la posizione del valore (II più grande, III più grande, ecc.) inserita come numero intero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the absolute value of the given &lt;f0&gt;number&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T081536Z" creationid="Marco Marega" creationdate="20160625T081536Z">
