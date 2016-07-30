@@ -29761,6 +29761,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;39&lt;/seq0&gt;: Data and time functions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T141833Z" creationid="Marco Marega" creationdate="20160730T141833Z">
+        <seg>Tabella &lt;seq0&gt;39&lt;/seq0&gt;: Funzioni di Data ed Orario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Table &lt;seq0&gt;3&lt;/seq0&gt;: Function of icons in the Navigator</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T155020Z" creationid="michele" creationdate="20160525T155020Z">
@@ -34470,6 +34478,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T160510Z" creationid="michele" creationdate="20160525T160510Z">
         <seg>Per saltare a una cella nello specifico nel foglio corrente, digita il riferimento di cella nelle caselle Colonna e Riga al vertice del Navigatore e premi il tasto &lt;f0&gt;Invio&lt;/f0&gt; ; per esempio, nella &lt;t1&gt;Figura 35&lt;/t1&gt; il riferimento di cella è A7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To keep dates from being interpreted as parts of formulas, and thus returning erroneous results, always place them in quotation marks, for example, "12/08/52".</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T141757Z" creationid="Marco Marega" creationdate="20160730T141757Z">
+        <seg>Per evitare che le date siano interpretate come parti di formule, generando quindi risultati errati, inseritele sempre tra virgolette, ad esempio: "12/08/52".</seg>
       </tuv>
     </tu>
     <tu>
