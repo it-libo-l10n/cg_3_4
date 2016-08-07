@@ -4518,6 +4518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;NEGBINOMDIST&lt;/f0&gt;(X; R; SP)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T191912Z" creationid="Marco Marega" creationdate="20160807T191912Z">
+        <seg>&lt;f0&gt;NEGBINOMDIST&lt;/f0&gt;(X; R; SP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;NPV&lt;/f0&gt;(Rate; value_1; value_2; ... value_30)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160711T122403Z" creationid="Marco Marega" creationdate="20160711T122403Z">
@@ -6002,6 +6010,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T143136Z" creationid="michele" creationdate="20160531T143136Z">
         <seg>&lt;s1/&gt;Vedi sotto per ulteriori informazioni su queste opzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s2/&gt;If several values have the same frequency, it returns the smallest value.&lt;f3&gt; &lt;/f3&gt;An error occurs when a value does not appear twice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T191841Z" creationid="Marco Marega" creationdate="20160807T191841Z">
+        <seg>&lt;s2/&gt;Se più valori hanno la stessa frequenza, viene restituito il valore più basso.&lt;f3&gt; &lt;/f3&gt;Se nessun valore appare almeno due volte, viene generato un errore.</seg>
       </tuv>
     </tu>
     <tu>
