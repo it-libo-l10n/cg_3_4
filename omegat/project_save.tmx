@@ -4534,6 +4534,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;NORMINV&lt;/f0&gt;(number; mean; STDEV)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T193053Z" creationid="Marco Marega" creationdate="20160807T193053Z">
+        <seg>&lt;f0&gt;INV.NORM&lt;/f0&gt;(numero; valore medio; DEV.ST)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;NORMSDIST&lt;/f0&gt;(number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T193227Z" creationid="Marco Marega" creationdate="20160807T193227Z">
+        <seg>&lt;f0&gt;NORMSDIST&lt;/f0&gt;(number)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;NPV&lt;/f0&gt;(Rate; value_1; value_2; ... value_30)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160711T122403Z" creationid="Marco Marega" creationdate="20160711T122403Z">
@@ -26104,6 +26120,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the inverse of the normal distribution for the given&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number&lt;/f1&gt; in the distribution.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Mean&lt;/f3&gt; is the mean value in the normal distribution.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;STDEV&lt;/f5&gt; is the standard deviation of the normal distribution.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T193223Z" creationid="Marco Marega" creationdate="20160807T193223Z">
+        <seg>Restituisce l'inverso della distribuzione normale di un dato&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; nella distribuzione.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Valore medio&lt;/f3&gt; è il valore .&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;STDEV&lt;/f5&gt; is the standard deviation of the normal distribution.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the inverse of the one-tailed probability of the chi-squared distribution.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number&lt;/f1&gt; is the value of the error probability.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Degrees_freedom&lt;/f3&gt; is the degrees of freedom of the experiment.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T090539Z" creationid="Marco Marega" creationdate="20160730T090025Z">
@@ -26236,6 +26260,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160711T122656Z" creationid="Marco Marega" creationdate="20160711T122656Z">
         <seg>Restituisce il valore attuale netto di un investimento basato su di una serie di pagamenti periodici ed un tasso di sconto.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Tasso&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; il tasso di sconto per un periodo.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Valore_1; valore_2;... valore&lt;/f4&gt;&lt;f5&gt;_30&lt;/f5&gt; sono dei valori che rappresentano dei depositi o dei prelievi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the normal distribution for the given&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number&lt;/f1&gt; in the distribution.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Mean&lt;/f3&gt; is the mean value of the distribution.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;STDEV&lt;/f5&gt; is the standard deviation of the distribution.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;C&lt;/f7&gt; = 0 calculates the density function, and &lt;f8&gt;C&lt;/f8&gt; = 1 calculates the distribution.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T192943Z" creationid="Marco Marega" creationdate="20160807T192943Z">
+        <seg>Restituisce la distribuzione normale di un dato&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; nella distribuzione.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Valore medio&lt;/f3&gt; è il valore medio della distribuzione.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;DEV.ST&lt;/f5&gt; è la deviazione standard della distribuzione.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;C&lt;/f7&gt; = 0 calcola la densità, e &lt;f8&gt;C&lt;/f8&gt; = 1 calcola la distribuzione.</seg>
       </tuv>
     </tu>
     <tu>
