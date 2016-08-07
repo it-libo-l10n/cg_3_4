@@ -21247,6 +21247,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>MAX(number_1; number_2; ... number_30)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T190214Z" creationid="Marco Marega" creationdate="20160807T190214Z">
+        <seg>MAX(numero_1; numero_2; ... numero_30)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>MAXA</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T150525Z" creationid="steevie" creationdate="20160620T150457Z">
@@ -25792,6 +25800,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the cumulative lognormal distribution for the given&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number&lt;/f1&gt;&lt;f2&gt;, a&lt;/f2&gt; probability value.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Mean&lt;/f4&gt; is the mean value of the standard logarithmic distribution.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;STDEV&lt;/f6&gt; is the standard deviation of the standard logarithmic distribution.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T190154Z" creationid="Marco Marega" creationdate="20160807T190045Z">
+        <seg>Restituisce la distribuzione log-normale per un dato &lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt;&lt;f2&gt;, (un&lt;/f2&gt; valore di probabilità).&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Valore medio&lt;/f4&gt; è il valore medio della distribuzione logaritmica standard.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;DEV.ST&lt;/f6&gt; è la deviazione standard della distribuzione logaritmica standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the date of the first interest date after the settlement date, and formats the result as a date.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Settlement&lt;/f1&gt;&lt;f2&gt; is&lt;/f2&gt; the date of purchase of the security.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Maturity&lt;/f4&gt;&lt;f5&gt; is&lt;/f5&gt; the date on which the security matures (expires).&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Frequency&lt;/f7&gt;&lt;f8&gt; is the&lt;/f8&gt; number of interest payments per year (1, 2 or 4).&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Basis&lt;/f10&gt; indicates how the year is to be calculated.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160702T081422Z" creationid="Marco Marega" creationdate="20160702T075505Z">
@@ -25986,8 +26002,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Returns the inverse of the &lt;f0&gt;lognormal&lt;/f0&gt; distribution for the given &lt;f1&gt;Number&lt;/f1&gt;, a probability value.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Mean&lt;/f3&gt; is the arithmetic mean of the standard logarithmic distribution.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;STDEV&lt;/f5&gt; is the standard deviation of the standard logarithmic distribution.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T185855Z" creationid="Marco Marega" creationdate="20160807T184934Z">
-        <seg>Restituisce l'inverso della distribuzione &lt;f0&gt;log-normale&lt;/f0&gt; per un dato &lt;f1&gt;Numero&lt;/f1&gt; (un valore della probabilità).&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Valore medio&lt;/f3&gt; è la media aritmetica della distribuzione logaritmica standard.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;DEV.ST&lt;/f5&gt; è la deviazione standard della distribuzione logaritmica standard.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T190051Z" creationid="Marco Marega" creationdate="20160807T184934Z">
+        <seg>Restituisce l'inverso della distribuzione &lt;f0&gt;log-normale&lt;/f0&gt; per un dato &lt;f1&gt;Numero&lt;/f1&gt; (un valore di probabilità).&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Valore medio&lt;/f3&gt; è la media aritmetica della distribuzione logaritmica standard.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;DEV.ST&lt;/f5&gt; è la deviazione standard della distribuzione logaritmica standard.</seg>
       </tuv>
     </tu>
     <tu>
