@@ -26450,8 +26450,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Returns the standard normal cumulative distribution for the given&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T193440Z" creationid="Marco Marega" creationdate="20160807T193440Z">
-        <seg>Returns the standard normal cumulative distribution for the given&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T193722Z" creationid="Marco Marega" creationdate="20160807T193440Z">
+        <seg>Restituisce la distribuzione normale standard cumulata di un dato&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39954,6 +39954,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>date and time</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T193823Z" creationid="Marco Marega" creationdate="20160807T193759Z">
+        <seg>data e ora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>date conversion, automatic</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T172723Z" creationid="Elisabetta" creationdate="20160628T172723Z">
@@ -39966,6 +39974,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T150828Z" creationid="Marco Marega" creationdate="20160626T150828Z">
         <seg>formati data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>date functions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T193809Z" creationid="Marco Marega" creationdate="20160807T193732Z">
+        <seg>funzioni per data</seg>
       </tuv>
     </tu>
     <tu>
@@ -41494,6 +41510,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T161355Z" creationid="Elisabetta" creationdate="20160627T161355Z">
         <seg>testo, inserire dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>time functions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T193746Z" creationid="Marco Marega" creationdate="20160807T193746Z">
+        <seg>funzioni per orario</seg>
       </tuv>
     </tu>
     <tu>
