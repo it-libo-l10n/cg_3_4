@@ -21335,6 +21335,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>MODE(number_1; number_2; ... number_30)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T191205Z" creationid="Marco Marega" creationdate="20160807T191205Z">
+        <seg>MODA(numero_1; numero_2; ... numero_30)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>MULTINOMIAL (number(s))</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T132654Z" creationid="Marco Marega" creationdate="20160626T132654Z">
@@ -26156,6 +26164,22 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T190938Z" creationid="Marco Marega" creationdate="20160807T190938Z">
         <seg>Restituisce il valore minimo di una lista di parametri.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1; numero_2; ... numero_30&lt;/f1&gt; sono valori numerici o intervalli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the minimum value in a list of arguments.&lt;f0&gt; &lt;/f0&gt;Here text can also be entered.&lt;f1&gt; &lt;/f1&gt;The value of the text is 0.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Value_1; value_2; ... value_30&lt;/f3&gt; are values or ranges.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T191147Z" creationid="Marco Marega" creationdate="20160807T191147Z">
+        <seg>Restituisce il valore massimo di una lista di parametri.&lt;f0&gt; &lt;/f0&gt;Qui è possibile inserire anche del testo.&lt;f1&gt; &lt;/f1&gt;I valori di testo equivalgono a 0.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Valore_1; valore_2; ... valore_30&lt;/f3&gt; sono valori o intervalli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the most common value in a data set.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number_1; number_2; ... number_30&lt;/f1&gt; are numerical values or ranges.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T191315Z" creationid="Marco Marega" creationdate="20160807T191315Z">
+        <seg>Restituisce il valore più presente in un insieme di dati.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1; numero_2; ... numero_30&lt;/f1&gt; sono valori numerici o intervalli.</seg>
       </tuv>
     </tu>
     <tu>
