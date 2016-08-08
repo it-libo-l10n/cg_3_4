@@ -16382,6 +16382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For processing data in lists, the program needs to know where in the spreadsheet the table is.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20160808T095520Z" creationid="Andrea" creationdate="20160808T095520Z">
+        <seg>Per elaborare dati all'interno di elenchi, il programma ha bisogno di sapere dove si trova la tabella all'interno del foglio di calcolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For readers who are interested in effective ways to present information graphically, two excellent introductions to the topic are William S. Cleveland’s &lt;f0&gt;The elements of graphing data&lt;/f0&gt;, 2nd edition, Hobart Press (1994) and Edward R. Tufte&lt;bk1/&gt;’s &lt;f2&gt;The Visual Display of Quantitative Information&lt;/f2&gt;, 2nd edition, Graphics Press (2001).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T081941Z" creationid="emanuelegiusti" creationdate="20160611T081941Z">
@@ -16402,6 +16410,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T085616Z" creationid="emanuelegiusti" creationdate="20160611T085616Z">
         <seg>Per il momento, attenetevi al diagramma a colonna e fate clic su &lt;f1&gt;Successivo&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the simplest case, where data is contained in a Calc spreadsheet, Calc offers sorting functions that do not require the &lt;f0&gt;Pivot Table&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20160808T095350Z" creationid="Andrea" creationdate="20160808T095350Z">
+        <seg>Per i casi piu' semplici, nei quali i dati si trovano in un foglio di calcolo Calc, Calc stesso offre funzioni di ordinamento che non richiedono una &lt;f0&gt;Tabella Pivot&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31181,6 +31197,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T161736Z" creationid="Elisabetta" creationdate="20160627T161653Z">
         <seg>I dati saranno formattati come testo e visualizzati esattamente come inseriti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The data source could be an external file or database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20160808T095123Z" creationid="Andrea" creationdate="20160808T095123Z">
+        <seg>I dati di origine possono essere un file esterno o un database.</seg>
       </tuv>
     </tu>
     <tu>
