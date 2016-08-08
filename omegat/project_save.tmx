@@ -33674,6 +33674,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This means that the described functions can only work correctly if there are no empty rows or columns in your list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20160808T111254Z" creationid="Andrea" creationdate="20160808T111254Z">
+        <seg>Questo significa che le funzioni descritte funzionano correttamente solo se non ci sono righe o colonne vuote nei vostri elenchi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This method can be useful to quickly change the print range without highlighting a large area of cells every time.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153240Z">
