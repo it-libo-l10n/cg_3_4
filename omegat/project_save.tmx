@@ -20623,6 +20623,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It uses the following logic: Starting from the cell you have selected (which must be within your list), Calc checks the surrounding cells in all 4 directions (left, right, above, below).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20160808T100145Z" creationid="Andrea" creationdate="20160808T100145Z">
+        <seg>Usa la logica seguente: partendo dalla cella che avete selezionato (che deve essere contenuta all'interno del vostro elenco), Calc controlla le celle circostanti in tutte le quattro direzioni (sinistra, destra, sopra, sotto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Iterations</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145037Z" creationid="steevie" creationdate="20160427T145037Z">
@@ -30933,6 +30941,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T144634Z" creationid="michele" creationdate="20160531T144634Z">
         <seg>Il bordo ha un titolo che visualizza il nome dello scenario attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The border is recognized if the program discovers an empty row or column, or if it hits the left or upper border of the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20160808T100410Z" creationid="Andrea" creationdate="20160808T100410Z">
+        <seg>Il confine dell'elenco e' riconosciuto come la prima riga o colonna incontrata, oppure come il limite sinistro o superiore del foglio di calcolo.</seg>
       </tuv>
     </tu>
     <tu>
