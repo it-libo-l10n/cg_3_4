@@ -5262,6 +5262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The&lt;/f0&gt; first thing needed to work with the &lt;f1&gt;Pivot Table&lt;/f1&gt; is a list of raw data, similar to a database table, consisting of rows (data sets) and columns (data fields).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20160808T094909Z" creationid="Andrea" creationdate="20160808T094909Z">
+        <seg>&lt;f0&gt;La&lt;/f0&gt;prima cosa da fare per lavorare con una &lt;f1&gt;Tabella Pivot&lt;/f1&gt; e' una lista di dati grezzi, simile ad una tabella di database, composta da righe (insiemi di dati) e colonne (campi dati).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;This appendix attempts to clarify this situation by using the term &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;arguments&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, rather than any of the other phrases.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T080904Z" creationid="Marco Marega" creationdate="20160625T080904Z">
@@ -31389,6 +31397,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T141036Z" creationid="antonio" creationdate="20160524T141036Z">
         <seg>Il metodo più veloce è di fare click sul pulsante Aggiungi Foglio &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The field names are in the first row above the list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20160808T095034Z" creationid="Andrea" creationdate="20160808T095034Z">
+        <seg>I nomi dei campi si trovano nella prima riga, all'inizio della lista.</seg>
       </tuv>
     </tu>
     <tu>
