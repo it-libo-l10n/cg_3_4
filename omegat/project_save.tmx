@@ -8214,6 +8214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Avoid empty lines (for example for formatting).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20160808T111344Z" creationid="Andrea" creationdate="20160808T111344Z">
+        <seg>Evitate righe vuote (per esempio dovute alla formattazione).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A—B (A, em-dash, B)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T171545Z" creationid="Elisabetta" creationdate="20160628T171545Z">
@@ -22536,6 +22544,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No empty rows or empty columns are allowed within lists.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20160808T111616Z" creationid="Andrea" creationdate="20160808T111616Z">
+        <seg>Non potete usare righe o colonne vuote all'interno dei vostri elenchi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No other library is automatically loaded.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160614T162216Z" creationid="luciano" creationdate="20160614T162216Z">
@@ -26788,6 +26804,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T140036Z" creationid="michele" creationdate="20160608T140036Z">
         <seg>Etichette per le righe: &lt;f0&gt;Fondo X&lt;/f0&gt;, &lt;f1&gt;Fondo Y&lt;/f1&gt;, e &lt;f2&gt;totale&lt;/f2&gt;, nelle celle A2 fino ad A4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rule</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20160808T111517Z" creationid="Andrea" creationdate="20160808T111517Z">
+        <seg>Regola</seg>
       </tuv>
     </tu>
     <tu>
@@ -38886,6 +38910,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160425T120513Z" creationid="luciano" creationdate="20160425T120513Z">
         <seg>Potete filtrare in base a:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can format your list by using cell formats.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20160808T111508Z" creationid="Andrea" creationdate="20160808T111508Z">
+        <seg>Potete formattare i vostri elenchi usando le formattazioni per le celle.</seg>
       </tuv>
     </tu>
     <tu>
