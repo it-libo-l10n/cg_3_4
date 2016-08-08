@@ -9006,6 +9006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc lists must have the &lt;f0&gt;normal form&lt;/f0&gt;; that is, they must have a simple linear structure.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20160808T140156Z" creationid="Andrea" creationdate="20160808T140156Z">
+        <seg>Gli elenchi di Calc devono essere in &lt;f0&gt;forma normale&lt;/f0&gt;; devono cioe' avere una semplice struttura lineare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc offers a choice of 10 basic chart types, with a few options for each type of chart.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T084357Z" creationid="emanuelegiusti" creationdate="20160611T084357Z">
@@ -18838,6 +18846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you select multiple cells (for example, a whole column) then the sorting mixes up the data that should be together in one row.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20160808T135846Z" creationid="Andrea" creationdate="20160808T135846Z">
+        <seg>Se eseguite una selezione di celle multipla (per esempio una colonna intera), l'ordinamento mescola i dati che dovrebbero restare insieme in una riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you select multiple rows in one operation, you will also select the invisible rows contained between the selected visible rows.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160510T141613Z" creationid="steevie" creationdate="20160510T141613Z">
@@ -19306,6 +19322,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T152120Z" creationid="steevie" creationdate="20160428T152120Z">
         <seg>In addition to the supplied lists, you can define and edit your own lists, as described in “Defining a fill series” in Chapter 2, Entering, Editing, and Formatting Data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition to these formal aspects, the logical structure of your table is very important when using the &lt;f0&gt;Pivot Table&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20160808T140033Z" creationid="Andrea" creationdate="20160808T140033Z">
+        <seg>Oltre a questi aspetti formali, la struttura logica delle vostre tabelle e' molto importante quando utilizzate le &lt;f0&gt;Tabelle Pivot&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
