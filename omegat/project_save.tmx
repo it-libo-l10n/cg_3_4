@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(0 = Min, 1 = 25%, 2 = 50% (Median), 3 = 75% and 4 = Max.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160813T141926Z" creationid="Marco Marega" creationdate="20160813T141926Z">
+        <seg>(0 = Min, 1 = 25%, 2 = 50% (Mediana), 3 = 75% e 4 = Max.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(&lt;f0&gt;Ctrl+click&lt;/f0&gt; on a sheet tab to select or deselect the sheet.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T085839Z" creationid="Elisabetta" creationdate="20160629T085839Z">
@@ -24900,6 +24908,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T134322Z" creationid="Marco Marega" creationdate="20160626T134322Z">
         <seg>CASUALE()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>RANK(value; data; type)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160813T141940Z" creationid="Marco Marega" creationdate="20160813T141940Z">
+        <seg>RANGO(valore; dati; tipo)</seg>
       </tuv>
     </tu>
     <tu>
