@@ -4838,6 +4838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;RSQ&lt;/f0&gt;(data_Y; data_X)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160813T142351Z" creationid="Marco Marega" creationdate="20160813T142351Z">
+        <seg>&lt;f0&gt;RQ&lt;/f0&gt;(dati Y; dati X)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Range&lt;/f0&gt; is the range to which the criteria are to be applied.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T145417Z" creationid="Marco Marega" creationdate="20160626T145417Z">
@@ -26884,6 +26892,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T100809Z" creationid="Marco Marega" creationdate="20160730T100809Z">
         <seg>Rstituisce il valore più piccolo per il quale la distribuzione cumulativa binomiale è minore o uguale ad un valore di riferimento.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Tentativi&lt;/f1&gt; è il numero totale di tentativi.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Probabilità&lt;/f3&gt; è la probabilità di successo di un tentativo.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Alfa&lt;/f5&gt; è la soglia di probabilità da raggiungere o superare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the square of the Pearson correlation coefficient based on the given values.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Data_Y&lt;/f1&gt; is an array or range of data points.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Data_X&lt;/f3&gt; is an array or range of data points.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160813T142545Z" creationid="Marco Marega" creationdate="20160813T142545Z">
+        <seg>Restituisce il quadrato dell'indice di correlazione di Pearson in base ai valori dati.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati Y&lt;/f1&gt; è una matrice o un intervallo di dati.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Dati X&lt;/f3&gt;  è una matrice o un intervallo di dati.</seg>
       </tuv>
     </tu>
     <tu>
