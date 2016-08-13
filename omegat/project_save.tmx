@@ -24080,6 +24080,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PERCENTILE(data; alpha)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160813T132440Z" creationid="Marco Marega" creationdate="20160813T132440Z">
+        <seg>PERCENTILE(dati; alfa)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PI()</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T133207Z" creationid="Marco Marega" creationdate="20160626T133207Z">
@@ -26048,6 +26056,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the Pearson product moment correlation coefficient r.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Data_1&lt;/f1&gt; is the array of the first data set.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Data_2&lt;/f3&gt; is the array of the second data set.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160813T132431Z" creationid="Marco Marega" creationdate="20160813T132431Z">
+        <seg>Restituisce l'indice r di correlazione prodotto-momento di Pearson.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati 1&lt;/f1&gt; è la matrice del primo insieme di dati.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Dati 2&lt;/f3&gt; è la matrice del secondo insieme di dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the Rank_c-th largest value in a data set.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Data&lt;/f1&gt; is the cell range of data.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Rank_c&lt;/f3&gt; is the ranking of the value (2nd largest, 3rd largest, etc.) written as an integer.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T140409Z" creationid="Marco Marega" creationdate="20160730T140409Z">
@@ -26060,6 +26076,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T081536Z" creationid="Marco Marega" creationdate="20160625T081536Z">
         <seg>Restituisce il valore assoluto del &lt;f0&gt;numero&lt;/f0&gt; dato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the alpha-percentile of data values in an array.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160813T132604Z" creationid="Marco Marega" creationdate="20160813T132604Z">
+        <seg>Restituisce il percentile alfa dei valori presenti in una matrice.</seg>
       </tuv>
     </tu>
     <tu>
