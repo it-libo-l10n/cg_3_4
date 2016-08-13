@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24832,6 +24832,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>QUARTILE(data; type)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160813T141726Z" creationid="Marco Marega" creationdate="20160813T141726Z">
+        <seg>QUARTILE(dati; tipo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>QUOTIENT(numerator; denominator)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T134005Z" creationid="Marco Marega" creationdate="20160626T134005Z">
@@ -26796,6 +26804,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T090036Z" creationid="Marco Marega" creationdate="20160726T204841Z">
         <seg>Restituisce il valore della probabilità che un ipotesi sia confermata usando la distribuzione chi quadrato indicata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the quartile of a data set.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Data&lt;/f1&gt; is the array of data in the sample.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Type&lt;/f3&gt; is the type of quartile.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160813T141818Z" creationid="Marco Marega" creationdate="20160813T141818Z">
+        <seg>Restituisce il quartile di un insieme di dati.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati&lt;/f1&gt; è la matrice dei dati nel campione.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Tipo&lt;/f3&gt; è il tipo del quartile.</seg>
       </tuv>
     </tu>
     <tu>
