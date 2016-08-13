@@ -24120,6 +24120,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PHI(number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160813T133636Z" creationid="Marco Marega" creationdate="20160813T133636Z">
+        <seg>FI(numero)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PI()</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T133207Z" creationid="Marco Marega" creationdate="20160626T133207Z">
@@ -26696,10 +26704,18 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the number of permutations for a given number of objects (repetition allowed).&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Count_1&lt;/f1&gt; is the total number of objects.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Count_2&lt;/f3&gt; is the number of objects in each permutation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160813T133535Z" creationid="Marco Marega" creationdate="20160813T133535Z">
+        <seg>Restituisce il numero di permutazioni per un determinato numero di oggetti (ripetizioni comprese).&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero 1&lt;/f1&gt; è il numero complessivo di oggetti.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Numero 2&lt;/f3&gt; è il numero di oggetti in ciascuna permutazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the number of permutations for a given number of objects.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Count_1&lt;/f1&gt; is the total number of objects.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Count_2&lt;/f3&gt; is the number of objects in each permutation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160813T133136Z" creationid="Marco Marega" creationdate="20160813T133136Z">
-        <seg>Restituisce il numero di permutazioni per un determinato numero di oggetti.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero 1&lt;/f1&gt; èè il numero complessivo di oggetti.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Numero 2&lt;/f3&gt; è il numero di oggetti in ciascuna permutazione.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160813T133539Z" creationid="Marco Marega" creationdate="20160813T133136Z">
+        <seg>Restituisce il numero di permutazioni per un determinato numero di oggetti.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero 1&lt;/f1&gt; è il numero complessivo di oggetti.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Numero 2&lt;/f3&gt; è il numero di oggetti in ciascuna permutazione.</seg>
       </tuv>
     </tu>
     <tu>
