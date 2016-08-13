@@ -26832,6 +26832,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the rank of the given &lt;f0&gt;Value&lt;/f0&gt; in a sample.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Data&lt;/f2&gt; is the array or range of data in the sample.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Type&lt;/f4&gt; (optional) is the sequence order, either ascending (0) or descending (1).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160813T142254Z" creationid="Marco Marega" creationdate="20160813T142254Z">
+        <seg>Restituisce il rango di un dato &lt;f0&gt;Valore&lt;/f0&gt; in un campione.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Dati&lt;/f2&gt; è la matrice o l'intervallo di dati nel campione.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Tipo&lt;/f4&gt; (facoltativo) è l'ordine della sequenza, sia ascendente (0) o discendente (1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the remainder after a number is divided by a divisor.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dividend&lt;/f1&gt; is the number which will be divided by the divisor.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T131542Z" creationid="Marco Marega" creationdate="20160626T131542Z">
