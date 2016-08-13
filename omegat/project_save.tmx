@@ -6694,6 +6694,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A registered data source in &lt;f0&gt;LibreOffice&lt;/f0&gt; is a connection to data held in a database outside Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20160813T111200Z" creationid="Andrea" creationdate="20160813T111200Z">
+        <seg>Una fonte di dati registrata in &lt;f0&gt;LibreOffice&lt;/f0&gt; e' una connessione a dati contenuti in un database esterno a Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A relatively common source of errors is to inadvertently declare a list by mistake and then sort the list.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20160808T135602Z" creationid="Andrea" creationdate="20160808T135602Z">
@@ -25616,6 +25624,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Registered data source</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20160813T111041Z" creationid="Andrea" creationdate="20160813T111041Z">
+        <seg>Fonti di dati registrate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regular expression</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153838Z" creationid="steevie" creationdate="20160620T153821Z">
@@ -38286,6 +38302,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T150718Z" creationid="Luciano B." creationdate="20160329T150718Z">
         <seg>Con &lt;f0&gt;entrambe&lt;/f0&gt; le &lt;f1&gt;password di apertura&lt;/f1&gt; e &lt;f2&gt;password di autorizzazione&lt;/f2&gt; impostate, il file PDF può essere aperto solo con la password corretta e le operazioni su esso possono essere limitate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With a Calc file you were previously limited to 65,535 rows but this has been expanded to 1,048,576 rows.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20160813T111009Z" creationid="Andrea" creationdate="20160813T111009Z">
+        <seg>Nelle versioni precedenti un file di Calc aveva un limite di 65,535 righe. Ora il limite e' stato portato a 1,048,576 righe.</seg>
       </tuv>
     </tu>
     <tu>
