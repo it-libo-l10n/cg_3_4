@@ -8918,6 +8918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc can import data from a huge number of foreign data formats, for example from other spreadsheets (Excel, Lotus 1, 2, 3), from databases (like dBase), and from simple text files including CSV formats.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20160813T110450Z" creationid="Andrea" creationdate="20160813T110450Z">
+        <seg>Calc puo' importare dati da un numero sterminato di formati dati non nativi (Excel, Lotus 1, 2, 3, ecc.), da database (come dBase), e da file semplicemente in formato testo compreso il formato CSV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc can save files as HTML documents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T151524Z" creationid="Luciano B." creationdate="20160329T151524Z">
@@ -17538,6 +17546,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160723T163121Z" creationid="Elisabetta" creationdate="20160723T163121Z">
         <seg>Tuttavia, se i gruppi vengono annidati, i controlli presentano pulsanti numerati per nascondere i differenti livelli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, if the data is in plain text, the Text Import dialog (&lt;t0&gt;Figure 180&lt;/t0&gt;) appears after you select the file containing the data; see Chapter 1, Introducing Calc, for more more information about this dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20160813T110107Z" creationid="Andrea" creationdate="20160813T110107Z">
+        <seg>Se pero' i dati sono in formato testo semplice, la finestra di dialogo Importazione Testo (&lt;t0&gt;Figura 180&lt;/t0&gt;) compare dopo che avete selezionato il file che contiene i dati; vedi Capitolo 1, Introduzione a Calc, per maggiori.informazioni riguardo questa finestra di dialogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31581,6 +31597,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T131937Z" creationid="michele" creationdate="20160608T131937Z">
         <seg>La differenza è che il risolutore lavora con equazioni con molteplici variabili sconosciute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The drawback of copying or importing foreign data is that it will not update automatically if there are changes in the source file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20160813T110713Z" creationid="Andrea" creationdate="20160813T110713Z">
+        <seg>Lo svantaggio nell'importazione o copia di dati in formato non nativo e' che i dati non verranno aggiornati automaticamente in occasione di modifiche nel file di origine.</seg>
       </tuv>
     </tu>
     <tu>
