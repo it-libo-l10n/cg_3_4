@@ -27312,6 +27312,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>STANDARDIZE(number; mean; STDEV)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160815T130405Z" creationid="Marco Marega" creationdate="20160815T130405Z">
+        <seg>NORMALIZZA(numero; valore medio; DEV.ST)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>STDEV</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151111Z" creationid="steevie" creationdate="20160620T151111Z">
