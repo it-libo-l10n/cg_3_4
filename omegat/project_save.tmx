@@ -8912,8 +8912,8 @@
       <tuv lang="EN">
         <seg>Calc Error Codes</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160208T101311Z">
-        <seg>Codici di errore di Calc</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T192238Z">
+        <seg>Codici di errore in Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -9194,6 +9194,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T150341Z" creationid="luciano" creationdate="20160424T132142Z">
         <seg>Calc fornisce un altro tipo di commenti (precedentemente chiamato "note"), che gli autori e revisori spesso usano per scambiare idee, chiedere suggerimenti, o per far emergere delle idee nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calc provides feedback for errors of miscalculation, incorrect use of functions, invalid cell references and values, and other user &lt;f0&gt;initiated&lt;/f0&gt; mistakes.&lt;f1&gt; &lt;/f1&gt;The feedback may be displayed within the cell that contains the error (&lt;t2&gt;Figure 348&lt;/t2&gt;) or on the status bar (&lt;t3&gt;Figure 349&lt;/t3&gt;) or in both, depending on the type of error.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T192522Z" creationid="Elisabetta" creationdate="20160815T192522Z">
+        <seg>Il programma fornisce un riscontro agli errori di calcolo, all'utilizzo non corretto di funzioni, di riferimenti di cella e di valori non validi, oltre ad altri errori innescati dall'utente. Questo riscontro può comparire all'interno della cella contenente l'errore (Figura 1), nella barra di stato (Figura 2), o in entrambe, in base al tipo di errore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20761,8 +20769,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>Introduction to Calc error codes</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160208T101326Z">
-        <seg>Introduzione ai codici di errore di Calc</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T192349Z">
+        <seg>Introduzione ai codici di errore in Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -40950,6 +40958,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T160957Z" creationid="Elisabetta" creationdate="20160627T160957Z">
         <seg>inserire dati nelle celle del foglio elettronico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>error codes</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T192324Z" creationid="Elisabetta" creationdate="20160815T192324Z">
+        <seg>codici di errore</seg>
       </tuv>
     </tu>
     <tu>
