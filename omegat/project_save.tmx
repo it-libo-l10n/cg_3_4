@@ -22,10 +22,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>#REF!</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T195028Z" creationid="Elisabetta" creationdate="20160815T195028Z">
+        <seg>#REF!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>#VALUE</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T194733Z" creationid="Elisabetta" creationdate="20160815T194733Z">
-        <seg>Valore</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T194934Z" creationid="Elisabetta" creationdate="20160815T194733Z">
+        <seg>#VALUE</seg>
       </tuv>
     </tu>
     <tu>
@@ -1470,10 +1478,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>519</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T194937Z" creationid="Elisabetta" creationdate="20160815T194937Z">
+        <seg>519</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>52</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T212250Z">
         <seg>52</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>524</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T195031Z" creationid="Elisabetta" creationdate="20160815T195031Z">
+        <seg>524</seg>
       </tuv>
     </tu>
     <tu>
@@ -5370,6 +5394,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125935Z" creationid="steevie" creationdate="20160517T125935Z">
         <seg>&lt;f0&gt;Il filtro creato nel &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Listato 17&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt; filtra i dati nel proprio posto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The formula within the cell uses a reference that does not exist.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T195050Z" creationid="Elisabetta" creationdate="20160815T195050Z">
+        <seg>&lt;f0&gt;La formula all'interno della cella utilizza un riferimento che non esiste.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32450,6 +32482,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The formula within the cell returns a value that does not correspond to the definition of the formula or functions used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T195004Z" creationid="Elisabetta" creationdate="20160815T195004Z">
+        <seg>La formula all'interno della cella restituisce un valore che non corrisponde alla definizione della formula o delle funzioni utilizzate,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The formulas must be in a range.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160601T133355Z" creationid="michele" creationdate="20160601T133355Z">
@@ -34158,6 +34198,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T164739Z" creationid="Elisabetta" creationdate="20160725T164739Z">
         <seg>che equivalgono agli otto criteri del Filtro standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This error could also mean that the cell referenced by the formula contains text instead of a number.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T195025Z" creationid="Elisabetta" creationdate="20160815T195025Z">
+        <seg>oppure potrebbe anche indicare che la cella a cui fa riferimento la formula contiene testo anziché numeri.</seg>
       </tuv>
     </tu>
     <tu>
