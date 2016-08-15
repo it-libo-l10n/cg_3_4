@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>100000) or a calculation stack overflow.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T202431Z" creationid="Elisabetta" creationdate="20160815T202431Z">
+        <seg> 100000) oppure si è verificato un overflow dello stack.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>105</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T102654Z">
@@ -1578,6 +1586,38 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T202325Z" creationid="Elisabetta" creationdate="20160815T202325Z">
         <seg>514</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>515</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T202434Z" creationid="Elisabetta" creationdate="20160815T202434Z">
+        <seg>515</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>516</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T202445Z" creationid="Elisabetta" creationdate="20160815T202445Z">
+        <seg>516</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>517</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T202642Z" creationid="Elisabetta" creationdate="20160815T202642Z">
+        <seg>517</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>518</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T202709Z" creationid="Elisabetta" creationdate="20160815T202709Z">
+        <seg>518</seg>
       </tuv>
     </tu>
     <tu>
@@ -22431,6 +22471,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Matrix is expected on the calculation stack, but is not available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T202639Z" creationid="Elisabetta" creationdate="20160815T202639Z">
+        <seg>Sullo stack di calcolo è prevista una matrice che non risulta disponibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>May I distribute LibreOffice to anyone?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084516Z">
@@ -30368,6 +30416,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sort operation attempted on too much numerical data (max.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T202404Z" creationid="Elisabetta" creationdate="20160815T202404Z">
+        <seg>È stata tentata un'operazione di ordinamento su troppi dati numerici (massimo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sorting</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160206T083040Z">
@@ -37230,6 +37286,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T141732Z" creationid="luciano" creationdate="20160509T141732Z">
         <seg>Separa l'area dati selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unknown error; for example, a document with a newer function is loaded in an older version of Calc that does not contain the function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T202706Z" creationid="Elisabetta" creationdate="20160815T202706Z">
+        <seg>Riferimento sconosciuto, ad esempio, è stato caricato un documento con una funzione più recente in una versione precedente di Calc che non contiene la funzione.</seg>
       </tuv>
     </tu>
     <tu>
