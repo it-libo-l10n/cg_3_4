@@ -27016,6 +27016,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the standard error of the predicted y value for each x in the regression.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Data_Y&lt;/f1&gt; is the array or matrix of Y data.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Data_X&lt;/f3&gt; is the array or matrix of X data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160815T150952Z" creationid="Marco Marega" creationdate="20160815T150952Z">
+        <seg>Restituisce l'errore standard del valore y predetto per ciascuna x nella regressione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati Y&lt;/f1&gt; è la serie o la matrice dei dati delle Y.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Dati X&lt;/f3&gt; è la serie o la matrice dei dati delle X.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the standard normal cumulative distribution for the given &lt;f0&gt;number&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T130438Z" creationid="Marco Marega" creationdate="20160730T130241Z">
