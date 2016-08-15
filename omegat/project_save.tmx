@@ -17294,6 +17294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Function argument is not valid; for example, a negative number for the root function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T200939Z" creationid="Elisabetta" creationdate="20160815T200939Z">
+        <seg>L’argomento della funzione non è valido, ad esempio, nel caso di un numero negativo per la funzione di radice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Function key shortcuts</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T095806Z">
@@ -21031,10 +21039,26 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Invalid argument</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T200917Z" creationid="Elisabetta" creationdate="20160815T200917Z">
+        <seg>Argomento non valido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Invalid character</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T200711Z" creationid="Elisabetta" creationdate="20160815T200711Z">
         <seg>Carattere non valido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid floating point operation (cell displays &lt;f0&gt;#NUM!&lt;/f0&gt;)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T201049Z" creationid="Elisabetta" creationdate="20160815T201049Z">
+        <seg>Operazione a virgola mobile non valida (nella cella sarà visibile il riferimento &lt;f0&gt;#NUM!&lt;/f0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31889,6 +31913,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The cell containing the error will display the #NAME?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T200844Z" creationid="Elisabetta" creationdate="20160815T200844Z">
+        <seg>Nella cella contenente l'errore sarà visibile il riferimento di errore #NAME?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The cell range containing the filter criteria is used to create a filter descriptor, which is then used to filter the range containing the data.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125101Z" creationid="steevie" creationdate="20160517T125101Z">
@@ -34330,10 +34362,26 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This error also occurs if more than one matching cell is found by the DGET function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T200959Z" creationid="Elisabetta" creationdate="20160815T200959Z">
+        <seg>L’errore si verifica anche se la funzione DGET trova più di una cella corrispondente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This error could also mean that the cell referenced by the formula contains text instead of a number.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T195025Z" creationid="Elisabetta" creationdate="20160815T195025Z">
         <seg>oppure potrebbe anche indicare che la cella a cui fa riferimento la formula contiene testo anziché numeri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This error is the same as the &lt;f0&gt;Invalid Name&lt;/f0&gt; error (525) except that it occurs within a formula.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T200818Z" creationid="Elisabetta" creationdate="20160815T200818Z">
+        <seg>L’errore è analogo a quello relativo a &lt;f0&gt;Nome non valido&lt;/f0&gt; (525), tranne per il fatto che si verifica all'interno di una formula.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41326,6 +41374,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T192324Z" creationid="Elisabetta" creationdate="20160815T192324Z">
         <seg>codici di errore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>error reference.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T200901Z" creationid="Elisabetta" creationdate="20160815T200901Z">
+        <seg>riferimento di errore.</seg>
       </tuv>
     </tu>
     <tu>
