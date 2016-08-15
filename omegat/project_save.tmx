@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>#NAME?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T195205Z" creationid="Elisabetta" creationdate="20160815T195205Z">
+        <seg>#NAME?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>#NUM!</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T194707Z" creationid="Elisabetta" creationdate="20160815T194707Z">
@@ -1498,6 +1506,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T195031Z" creationid="Elisabetta" creationdate="20160815T195031Z">
         <seg>524</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>525</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T195208Z" creationid="Elisabetta" creationdate="20160815T195208Z">
+        <seg>525</seg>
       </tuv>
     </tu>
     <tu>
@@ -6214,6 +6230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0/&gt;For example, entering in a cell =sum(bob*5) where there is no cell named “bob” or containing the text “bob” generates this error.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T195359Z" creationid="Elisabetta" creationdate="20160815T195359Z">
+        <seg>&lt;s0/&gt;Viene, per esempio, generato questo errore inserendo in una cella la formula =somma(bob*5) in mancanza di una cella denominata "bob" o contenente il testo "bob".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s1/&gt;See below for more information about these options.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T143136Z" creationid="michele" creationdate="20160531T143136Z">
@@ -7914,6 +7938,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T152652Z" creationid="michele" creationdate="20160525T152652Z">
         <seg>Un esempio potrebbe essere un grande foglio di calcolo al cui interno una delle celle ha un numero usato in tre formule in altre celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An identifier could not be evaluated: no valid reference, no valid domain name, no column/row label, no macro, incorrect decimal divider, add-in not found.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T195318Z" creationid="Elisabetta" creationdate="20160815T195318Z">
+        <seg>Non è stato possibile risolvere un identificatore, ad es., per un riferimento non valido, un nome area non valido, un’intestazione di colonna/riga non trovata, una macro non presente, un separatore di decimali non corretto, un componente aggiuntivo non trovato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13586,6 +13618,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T083001Z" creationid="emanuelegiusti" creationdate="20160611T082937Z">
         <seg>Entrambi i metodi inseriscono un diagramma di esempio nel foglio di lavoro, aprono la barra degli strumenti Formattazione, e aprono la Creazione guidata diagramma, come mostrato in &lt;t0&gt;Figura 76&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Either&lt;/f0&gt; a column or row description name could not be resolved, or the column, row, or sheet that contains a referenced cell is missing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T195159Z" creationid="Elisabetta" creationdate="20160815T195159Z">
+        <seg>Non&lt;/f0&gt; è stato possibile risolvere il nome descrittivo di una colonna o riga, oppure in una formula manca la colonna, la riga o il foglio contenente la cella a cui si fa riferimento.</seg>
       </tuv>
     </tu>
     <tu>
