@@ -9200,8 +9200,8 @@
       <tuv lang="EN">
         <seg>Calc provides feedback for errors of miscalculation, incorrect use of functions, invalid cell references and values, and other user &lt;f0&gt;initiated&lt;/f0&gt; mistakes.&lt;f1&gt; &lt;/f1&gt;The feedback may be displayed within the cell that contains the error (&lt;t2&gt;Figure 348&lt;/t2&gt;) or on the status bar (&lt;t3&gt;Figure 349&lt;/t3&gt;) or in both, depending on the type of error.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T192522Z" creationid="Elisabetta" creationdate="20160815T192522Z">
-        <seg>Il programma fornisce un riscontro agli errori di calcolo, all'utilizzo non corretto di funzioni, di riferimenti di cella e di valori non validi, oltre ad altri errori innescati dall'utente. Questo riscontro può comparire all'interno della cella contenente l'errore (Figura 1), nella barra di stato (Figura 2), o in entrambe, in base al tipo di errore.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T193033Z" creationid="Elisabetta" creationdate="20160815T192522Z">
+        <seg>Il programma fornisce un riscontro agli errori di calcolo, all'utilizzo non corretto di funzioni, di riferimenti di cella e di valori non validi, oltre ad altri errori &lt;f0&gt;innescati&lt;/f0&gt; dall'utente.&lt;f1&gt; &lt;/f1&gt;Questo riscontro può comparire all'interno della cella contenente l'errore (Figura &lt;t2&gt;348&lt;/t2&gt;), nella barra di stato (Figura &lt;t3&gt;349&lt;/t3&gt;), o in entrambe, in base al tipo di errore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17194,6 +17194,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T171305Z" creationid="Luciano B." creationdate="20160325T171305Z">
         <seg>Sezione Generale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Generally speaking, if the error occurs in the cell that is selected (or contains the cursor), the error message is displayed on the status bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T193100Z" creationid="Elisabetta" creationdate="20160815T193100Z">
+        <seg>In linea generale, se l'errore si verifica nella cella selezionata (o in quella contenente il cursore), il messaggio di errore compare nella barra di stato.</seg>
       </tuv>
     </tu>
     <tu>
