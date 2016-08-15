@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>###</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T194236Z" creationid="Elisabetta" creationdate="20160815T194236Z">
+        <seg>###</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>'.Connection = com.sun.star.sheet.FilterConnection.AND</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135454Z" creationid="steevie" creationdate="20160511T135454Z">
@@ -9750,6 +9758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cell error</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T194155Z" creationid="Elisabetta" creationdate="20160815T194155Z">
+        <seg>Errore di cella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cell formatting shortcuts</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T095837Z">
@@ -11514,6 +11530,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T090436Z" creationid="michele" creationdate="20160525T090436Z">
         <seg>Chiudete la finestra del messaggio per tornare a quella del dialogo Imposta Password e immettete nuovamente la password.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Code</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T194209Z" creationid="Elisabetta" creationdate="20160815T194209Z">
+        <seg>Codice</seg>
       </tuv>
     </tu>
     <tu>
@@ -13830,6 +13854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error codes &lt;is0/&gt;displayed within cells</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T194139Z" creationid="Elisabetta" creationdate="20160815T194139Z">
+        <seg>Codici di errore &lt;is0/&gt;visualizzati all'interno delle celle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error codes displayed within cells</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T101341Z">
@@ -14002,6 +14034,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160524T144844Z" creationid="luciano" creationdate="20160524T144844Z">
         <seg>Espandi/Riduci l'elenco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Explanation of the error</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T194222Z" creationid="Elisabetta" creationdate="20160815T194222Z">
+        <seg>Spiegazione dell'errore</seg>
       </tuv>
     </tu>
     <tu>
@@ -22748,6 +22788,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160524T144238Z" creationid="luciano" creationdate="20160524T144238Z">
         <seg>Macro Personali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>N/A</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T194249Z" creationid="Elisabetta" creationdate="20160815T194249Z">
+        <seg>N/A</seg>
       </tuv>
     </tu>
     <tu>
@@ -31721,6 +31769,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The column is too narrow to display the complete formatted contents of the cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T194308Z" creationid="Elisabetta" creationdate="20160815T194308Z">
+        <seg>La colonna non è sufficientemente larga per visualizzare l'intero contenuto formattato della cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The column, row, or sheet for the referenced cell is missing.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T152201Z" creationid="steevie" creationdate="20160620T152201Z">
@@ -33210,6 +33266,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The solutions to this problem are to increase the width of the column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T194449Z" creationid="Elisabetta" creationdate="20160815T194449Z">
+        <seg>Le soluzioni a questo problema sono incrementare la larghezza della colonna,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The sorting mechanism in a Calc document rearranges the data in the sheet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T152236Z" creationid="steevie" creationdate="20160509T152236Z">
@@ -34222,6 +34286,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160428T155732Z" creationid="luciano" creationdate="20160428T155732Z">
         <seg>Questo non è comunque un problema con Calc, perché Calc è in grado di trovare le modifiche confrontando i documenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is not really an error value, so there is no &lt;f0&gt;corresponding&lt;/f0&gt; numerical error code.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T194418Z" creationid="Elisabetta" creationdate="20160815T194418Z">
+        <seg>Questo non è proprio un valore di errore, quindi non esiste alcun codice di errore numerico &lt;f0&gt;corrispondente&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
