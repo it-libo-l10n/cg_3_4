@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>#DIV/0!</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T195611Z" creationid="Elisabetta" creationdate="20160815T195611Z">
+        <seg>#DIV/0!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>#NAME?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T195205Z" creationid="Elisabetta" creationdate="20160815T195205Z">
@@ -1514,6 +1522,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T195208Z" creationid="Elisabetta" creationdate="20160815T195208Z">
         <seg>525</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>532</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T195614Z" creationid="Elisabetta" creationdate="20160815T195614Z">
+        <seg>532</seg>
       </tuv>
     </tu>
     <tu>
@@ -6232,8 +6248,8 @@
       <tuv lang="EN">
         <seg>&lt;s0/&gt;For example, entering in a cell =sum(bob*5) where there is no cell named “bob” or containing the text “bob” generates this error.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T195359Z" creationid="Elisabetta" creationdate="20160815T195359Z">
-        <seg>&lt;s0/&gt;Viene, per esempio, generato questo errore inserendo in una cella la formula =somma(bob*5) in mancanza di una cella denominata "bob" o contenente il testo "bob".</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T195607Z" creationid="Elisabetta" creationdate="20160815T195359Z">
+        <seg>&lt;s0/&gt;Viene, per esempio, generato questo errore inserendo in una cella la formula =somma(bob*5) in mancanza di una cella denominata “bob” o contenente il testo “bob”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13130,6 +13146,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T150640Z" creationid="luciano" creationdate="20160509T150544Z">
         <seg>Mostra le opzioni per il campo attivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Division operator / if the denominator is 0.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T195627Z" creationid="Elisabetta" creationdate="20160815T195627Z">
+        <seg>Operatore di divisione / se il denominatore è 0.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29900,6 +29924,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T152306Z" creationid="Luciano B." creationdate="20160411T152020Z">
         <seg>Alcuni comandi dei menu non sono disponibili (visualizzati in grigio) quando viene attivato il rilevamento delle modifiche e la condivisione dei documenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some more functions return this error; see next table for details.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T195641Z" creationid="Elisabetta" creationdate="20160815T195641Z">
+        <seg>Altre funzioni restituiscono questo errore, i dettagli sono consultabili nella tabella seguente.</seg>
       </tuv>
     </tu>
     <tu>
