@@ -8134,6 +8134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As an example, &lt;t0&gt;Figure 348&lt;/t0&gt; shows the error code returned when a column is too narrow to display the entire formatted date.&lt;f1&gt; &lt;/f1&gt;The date displayed within the input line, 04/05/1998, would fit within the cell without a problem, but&lt;f2&gt; t&lt;/f2&gt;he format used by the cell produces the date value &lt;f3&gt;Sunday, April 05, 1998&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T193413Z" creationid="Elisabetta" creationdate="20160815T193413Z">
+        <seg>Ad esempio, la figura &lt;t0&gt;348&lt;/t0&gt; indica il codice di errore restituito quando una colonna non è sufficientemente larga per visualizzare la data formattata nella sua interezza.&lt;f1&gt; &lt;/f1&gt;La data che compare all'interno della riga di digitazione, 05/04/1998, si adatterebbe correttamente alla cella, ma&lt;f2&gt; i&lt;/f2&gt;l formato utilizzato dalla cella genererà il valore della data come &lt;f3&gt;domenica, 5 aprile 1998&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As many as you like.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084525Z">
@@ -15354,6 +15362,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172419Z" creationid="steevie" creationdate="20160428T172419Z">
         <seg>Figure &lt;seq0&gt;379&lt;/seq0&gt;: assegnare uno stile di cella ad una combinazione di tasti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;348&lt;/seq0&gt;: Error codes displayed within cells</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T193454Z" creationid="Elisabetta" creationdate="20160815T193454Z">
+        <seg>Figura &lt;seq0&gt;348&lt;/seq0&gt;: codici di errore visualizzati all'interno delle celle</seg>
       </tuv>
     </tu>
     <tu>
