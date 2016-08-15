@@ -14014,6 +14014,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Errors described as &lt;f0&gt;Internal errors&lt;/f0&gt; should not be encountered by users under normal conditions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T200253Z" creationid="Elisabetta" creationdate="20160815T200253Z">
+        <seg>I cosiddetti &lt;f0&gt;Errori interni&lt;/f0&gt; non si dovrebbero riscontrare in condizioni normali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Errors listed as &lt;f1&gt;Not used&lt;/f1&gt; are not currently assigned to any error condition and will not occur.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T200337Z" creationid="Elisabetta" creationdate="20160815T200337Z">
+        <seg>I cosiddetti errori Non utilizzato non sono attualmente riferibili ad alcuna condizione di errore e non si verificheranno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Estimate the standard deviation based on a sample.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151130Z" creationid="steevie" creationdate="20160620T151130Z">
@@ -32506,6 +32522,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following table is an overview of the most &lt;i0/&gt;common error messages for LibreOffice Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T200213Z" creationid="Elisabetta" creationdate="20160815T200213Z">
+        <seg>La tabella seguente presenta una panoramica dei messaggi di errore più &lt;i0/&gt;comuni di LibreOffice Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following tables list Calc’s functions organized into eleven categories.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T072022Z" creationid="Marco Marega" creationdate="20160625T072022Z">
@@ -40918,6 +40942,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160423T144340Z" creationid="luciano" creationdate="20160423T144340Z">
         <seg>commenti alle modifiche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>common messages</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T200137Z" creationid="Elisabetta" creationdate="20160815T195816Z">
+        <seg>messaggi comuni</seg>
       </tuv>
     </tu>
     <tu>
