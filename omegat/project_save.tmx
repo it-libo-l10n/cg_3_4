@@ -1638,6 +1638,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>520</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T202851Z" creationid="Elisabetta" creationdate="20160815T202851Z">
+        <seg>520</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>521</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T202913Z" creationid="Elisabetta" creationdate="20160815T202913Z">
+        <seg>521</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>522</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T202934Z" creationid="Elisabetta" creationdate="20160815T202934Z">
+        <seg>522</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>524</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T195031Z" creationid="Elisabetta" creationdate="20160815T195031Z">
@@ -6758,6 +6782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A calculation results in an overflow of the defined value range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T203033Z" creationid="Elisabetta" creationdate="20160815T203033Z">
+        <seg>Un calcolo ha prodotto un risultato eccedente l’intervallo di valori definito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A cell object supports the methods &lt;f0&gt;getValue()&lt;/f0&gt;, &lt;f1&gt;getString()&lt;/f1&gt;, and &lt;f2&gt;getFormula()&lt;/f2&gt; to get the numerical value, the string value, or the formula used in a cell.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160616T092914Z" creationid="luciano" creationdate="20160616T092914Z">
@@ -11006,6 +11038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Circular reference</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T202945Z" creationid="Elisabetta" creationdate="20160815T202945Z">
+        <seg>Riferimento circolare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Claire Wood</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084437Z">
@@ -11938,6 +11978,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T153356Z" creationid="steevie" creationdate="20160428T153356Z">
         <seg>Compatibilità</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Compiler creates an unknown compiler code.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T202910Z" creationid="Elisabetta" creationdate="20160815T202910Z">
+        <seg>Compilatore ha creato un codice sconosciuto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17266,6 +17314,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T202024Z" creationid="Elisabetta" creationdate="20160815T202024Z">
         <seg>Formula troppo lunga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Formula refers directly or indirectly to itself and the &lt;f0&gt;Iterations&lt;/f0&gt; option is not selected under &lt;f1&gt;&lt;f2&gt;Tools &gt; Options &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;LibreOffice&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; Calc &gt; Calculate&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T203019Z" creationid="Elisabetta" creationdate="20160815T203019Z">
+        <seg>Una formula fa riferimento direttamente o indirettamente a se stessa e l'opzione delle Iterazioni non è selezionata in Strumenti &gt; Opzioni &gt; LibreOffice Calc &gt; Calcola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Formula yields a value that does not correspond to the definition, or a cell that is referenced in the formula contains text instead of a number.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T202847Z" creationid="Elisabetta" creationdate="20160815T202847Z">
+        <seg>Una formula restituisce un valore che non corrisponde alla definizione, o una cella alla quale viene fatto riferimento nella formula contiene testo anziché numeri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23436,6 +23500,22 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160614T162216Z" creationid="luciano" creationdate="20160614T162216Z">
         <seg>Nessuna altra libreria viene caricata automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No result (cell displays &lt;f0&gt;#VALUE&lt;/f0&gt;)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T202812Z" creationid="Elisabetta" creationdate="20160815T202812Z">
+        <seg>Nessun risultato (la cella visualizza un riferimento di errore &lt;f0&gt;#VALUE&lt;/f0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No result.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T202931Z" creationid="Elisabetta" creationdate="20160815T202931Z">
+        <seg>Nessun risultato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38446,6 +38526,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T201945Z" creationid="Elisabetta" creationdate="20160815T201945Z">
         <seg>La variabile è mancante; ad esempio nella combinazione di due operatori "=1+*2".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Variable is not available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T202734Z" creationid="Elisabetta" creationdate="20160815T202734Z">
+        <seg>Variabile non disponibile.</seg>
       </tuv>
     </tu>
     <tu>
