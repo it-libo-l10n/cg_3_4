@@ -14,6 +14,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>#NUM!</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T194707Z" creationid="Elisabetta" creationdate="20160815T194707Z">
+        <seg>#NUM!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>#VALUE</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T194733Z" creationid="Elisabetta" creationdate="20160815T194733Z">
+        <seg>Valore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>'.Connection = com.sun.star.sheet.FilterConnection.AND</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135454Z" creationid="steevie" creationdate="20160511T135454Z">
@@ -1434,6 +1450,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T212247Z">
         <seg>50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>502</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T194627Z" creationid="Elisabetta" creationdate="20160815T194627Z">
+        <seg>502</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>503</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T194710Z" creationid="Elisabetta" creationdate="20160815T194710Z">
+        <seg>503</seg>
       </tuv>
     </tu>
     <tu>
@@ -6490,6 +6522,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160720T155106Z" creationid="briga" creationdate="20160720T155106Z">
         <seg>Un breve riepilogo è fornito qui:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A calculation resulted in an overflow of the defined value range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T194723Z" creationid="Elisabetta" creationdate="20160815T194723Z">
+        <seg>Un calcolo ha prodotto un risultato eccedente l’intervallo di valori definito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13854,6 +13894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Err502</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T194623Z" creationid="Elisabetta" creationdate="20160815T194623Z">
+        <seg>Err502</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error codes &lt;is0/&gt;displayed within cells</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T194139Z" creationid="Elisabetta" creationdate="20160815T194139Z">
@@ -17106,6 +17154,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T143217Z" creationid="steevie" creationdate="20160620T143217Z">
         <seg>Funzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Function argument is not valid, or more than one matching cell is found by the DGET function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T194704Z" creationid="Elisabetta" creationdate="20160815T194704Z">
+        <seg>Argomento della funzione non valido, oppure è stata trovata più di una cella corrispondente mediante funzione DGET.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41790,6 +41846,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T151908Z" creationid="steevie" creationdate="20160428T151908Z">
         <seg>opzioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>or select &lt;f1&gt;&lt;f2&gt;Format &gt; Cells &gt; Alignment&lt;/f2&gt;&lt;/f1&gt; and click either &lt;f3&gt;Wrap text automaticall&lt;/f3&gt;y or &lt;f4&gt;Shrink to fit cell size&lt;/f4&gt;&lt;f5&gt; to make the text match the current column width.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T194615Z" creationid="Elisabetta" creationdate="20160815T194615Z">
+        <seg>o selezionare la voce &lt;f1&gt;&lt;f2&gt;Formato &gt; Celle &gt; Allineamento&lt;/f2&gt;&lt;/f1&gt; e fare clic sull’opzione &lt;f3&gt;Ritorno a capo automatico&lt;/f3&gt; o &lt;f4&gt;Adatta alle dimensioni della cella&lt;/f4&gt;&lt;f5&gt; per adattare il testo alla larghezza della colonna attiva.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
