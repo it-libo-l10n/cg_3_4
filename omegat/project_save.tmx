@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7970,6 +7970,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="akurery" changedate="20160624T165942Z" creationid="akurery" creationdate="20160624T165942Z">
         <seg>Appendice &lt;f0&gt;B &lt;s1/&gt;&lt;/f0&gt;&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appendix &lt;f0&gt;C &lt;s1/&gt;&lt;/f0&gt;&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T192212Z" creationid="Elisabetta" creationdate="20160815T192212Z">
+        <seg>Appendice &lt;f0&gt;C &lt;s1/&gt;&lt;/f0&gt;&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
