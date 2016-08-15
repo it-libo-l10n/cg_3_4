@@ -26176,6 +26176,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the Rank_c-th smallest value in a data set.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Data&lt;/f1&gt; is the cell range of data.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Rank_c&lt;/f3&gt; is the rank of the value (2nd&lt;f4&gt; &lt;/f4&gt;smallest, 3rd smallest, etc.) written as an integer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160815T130242Z" creationid="Marco Marega" creationdate="20160815T130242Z">
+        <seg>Restituisce il k-esimo valore più piccolo in un insieme di dati.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati&lt;/f1&gt; è l'intervallo di celle contentente i dati.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;K&lt;/f3&gt; è il rango del valore (secondo&lt;f4&gt; &lt;/f4&gt;, terzo più piccolo, ecc.) scritto come intero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the absolute value of the given &lt;f0&gt;number&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T081536Z" creationid="Marco Marega" creationdate="20160625T081536Z">
