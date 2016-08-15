@@ -9558,6 +9558,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calculates the standard deviation based on the entire population.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Value_1; value_2; ... value_30&lt;/f1&gt; are values or ranges representing a sample derived from an entire population.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160815T133608Z" creationid="Marco Marega" creationdate="20160815T133608Z">
+        <seg>Calcola la deviazione standard basandosi sull'intera popolazione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Valore 1; valore 2; ... valore 30&lt;/f1&gt; sono valori o intervalli che rappresentano un campione rappresentativo dell'intera popolazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calculates the standard deviation of an estimation based on a sample.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Value_1; value_2; ... value_30&lt;/f1&gt; are values or ranges representing a sample derived from an entire population.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160815T133100Z" creationid="Marco Marega" creationdate="20160815T133100Z">
