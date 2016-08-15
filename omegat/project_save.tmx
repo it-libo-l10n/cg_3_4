@@ -5222,6 +5222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;TDIST&lt;/f0&gt;(number; degrees_freedom; mode)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160815T151130Z" creationid="Marco Marega" creationdate="20160815T151130Z">
+        <seg>&lt;f0&gt;DISTRIB.T&lt;/f0&gt;(numero; gradi libertà; cumulativo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;TRUNC&lt;/f0&gt;(number; count)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T150207Z" creationid="Marco Marega" creationdate="20160626T150207Z">
