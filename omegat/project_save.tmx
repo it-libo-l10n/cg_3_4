@@ -1686,6 +1686,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>526</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T203753Z" creationid="Elisabetta" creationdate="20160815T203753Z">
+        <seg>526</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>527</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T203827Z" creationid="Elisabetta" creationdate="20160815T203827Z">
+        <seg>527</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>528–531</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T203946Z" creationid="Elisabetta" creationdate="20160815T203946Z">
+        <seg>528–531</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>532</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T195614Z" creationid="Elisabetta" creationdate="20160815T195614Z">
@@ -8166,6 +8190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An identifier could not be evaluated; for example, no valid reference, no valid domain name, no column/row label, no macro, incorrect decimal divider, add-in not found.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T203749Z" creationid="Elisabetta" creationdate="20160815T203749Z">
+        <seg>Non è stato possibile risolvere un identificatore, ad es., per un riferimento non valido, un nome area non valido, un’intestazione di colonna/riga non trovata, una macro non presente, un separatore di decimali non corretto, un componente aggiuntivo non trovato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Analyses are then possible only within each group.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20160808T140601Z" creationid="Andrea" creationdate="20160808T140601Z">
@@ -13378,6 +13410,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T201334Z" creationid="Elisabetta" creationdate="20160815T201334Z">
         <seg>Una divisione per 0 o un altro calcolo ha prodotto un risultato eccedente l’intervallo di valori definito (un valore eccessivamente grande o piccolo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Division by zero</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T204006Z" creationid="Elisabetta" creationdate="20160815T204006Z">
+        <seg>Divisione per zero</seg>
       </tuv>
     </tu>
     <tu>
@@ -21343,6 +21383,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Invalid names (cell displays &lt;f0&gt;#NAME?&lt;/f0&gt;)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T203721Z" creationid="Elisabetta" creationdate="20160815T203721Z">
+        <seg>Nomi non validi (la cella visualizza il riferimento di errore &lt;f0&gt;#NAME?&lt;/f0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Invalid references (cell displays &lt;f0&gt;#REF!&lt;/f0&gt;)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T203342Z" creationid="Elisabetta" creationdate="20160815T203342Z">
@@ -23876,6 +23924,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143537Z" creationid="steevie" creationdate="20160427T143537Z">
         <seg>Sezione Oggetti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Obsolete, no longer used, but could come from old documents if the result is a formula from a domain.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T203823Z" creationid="Elisabetta" creationdate="20160815T203823Z">
+        <seg>Questo codice di errore è obsoleto, ma può comunque essere generato da documenti datati, se il risultato è una formula proveniente da un'area.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26468,6 +26524,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153921Z" creationid="steevie" creationdate="20160620T153849Z">
         <seg>Cella di riferimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>References, such as when a cell references a cell, are too encapsulated or deeply nested.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T203915Z" creationid="Elisabetta" creationdate="20160815T203915Z">
+        <seg>L'errore riguarda riferimenti, ad esempio una cella che fa riferimento ad un'altra cella, eccessivamente incapsulati o profondamente nidificati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34894,6 +34958,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160616T095511Z" creationid="luciano" creationdate="20160616T095511Z">
         <seg>Questo è un array con due elementi, 0 e 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is an internal error and should not be displayed in &lt;f0&gt;LibreOffice&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T203940Z" creationid="Elisabetta" creationdate="20160815T203940Z">
+        <seg>Questo è un errore interno e non dovrebbe essere visualizzato in &lt;f0&gt;LibreOffice&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43390,6 +43462,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T154502Z" creationid="steevie" creationdate="20160428T154502Z">
         <seg>–</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>—</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T203949Z" creationid="Elisabetta" creationdate="20160815T203949Z">
+        <seg>—</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
