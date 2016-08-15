@@ -5006,6 +5006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;STDEVPA&lt;/f0&gt;(value_1; value_2; ... value_30)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160815T133506Z" creationid="Marco Marega" creationdate="20160815T133506Z">
+        <seg>&lt;f0&gt;DEV.ST.POP.VALORI&lt;/f0&gt;(valore 1; valore 2; ... valore 30)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;SUMIF&lt;/f0&gt;(range; criteria; sum_range)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T145245Z" creationid="Marco Marega" creationdate="20160626T145245Z">
