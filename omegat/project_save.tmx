@@ -4990,6 +4990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;STDEVA&lt;/f0&gt;(value_1; value_2; ... value_30)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160815T132859Z" creationid="Marco Marega" creationdate="20160815T132859Z">
+        <seg>&lt;f0&gt;DEV.ST.VALORI&lt;/f0&gt;(valore 1; valore 2; ... valore 30)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;SUMIF&lt;/f0&gt;(range; criteria; sum_range)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T145245Z" creationid="Marco Marega" creationdate="20160626T145245Z">
@@ -13770,6 +13778,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151537Z" creationid="steevie" creationdate="20160620T151537Z">
         <seg>Calcola la varianza di un'intera popolazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Estimates the standard deviation based on a sample.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number_1; number_2; ... number_30&lt;/f1&gt; are numerical values or ranges representing a sample based on an entire population.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160815T132822Z" creationid="Marco Marega" creationdate="20160815T132822Z">
+        <seg>Calcola la deviazione standard in base ad un campione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero 1; numero 2; ... numero 30&lt;/f1&gt; sono valori numerici o intervalli che rappresentano un campione rappresentativo dell'intera popolazione.</seg>
       </tuv>
     </tu>
     <tu>
