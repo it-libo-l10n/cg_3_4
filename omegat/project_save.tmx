@@ -11718,6 +11718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Converts a random variable to a normalized value.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number&lt;/f1&gt; is the value to be standardized.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Mean&lt;/f3&gt; is the arithmetic mean of the distribution.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;STDEV&lt;/f5&gt; is the standard deviation of the distribution.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160815T132551Z" creationid="Marco Marega" creationdate="20160815T132551Z">
+        <seg>Converte una  variabile casuale in un valore normalizzato.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; è il valore da standardizzare.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Valore medio&lt;/f3&gt; è la media aritmetica dalla distribuzione.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;DEV.ST&lt;/f5&gt; è la deviazione standard della distribuzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Converts the given &lt;f0&gt;number&lt;/f0&gt; in degrees to radians.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T134251Z" creationid="Marco Marega" creationdate="20160626T134251Z">
@@ -27324,6 +27332,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151111Z" creationid="steevie" creationdate="20160620T151111Z">
         <seg>DEV.ST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>STDEV(number_1; number_2; ... number_30)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160815T132637Z" creationid="Marco Marega" creationdate="20160815T132637Z">
+        <seg>DEV.ST(numero 1; numero 2; ... numero 30)</seg>
       </tuv>
     </tu>
     <tu>
