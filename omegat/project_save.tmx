@@ -1566,6 +1566,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>513</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T202232Z" creationid="Elisabetta" creationdate="20160815T202232Z">
+        <seg>513</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>514</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T202325Z" creationid="Elisabetta" creationdate="20160815T202325Z">
+        <seg>514</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>519</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T194937Z" creationid="Elisabetta" creationdate="20160815T194937Z">
@@ -3210,6 +3226,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160505T074701Z" creationid="luciano" creationdate="20160428T153228Z">
         <seg>&lt;f0&gt;Si aprirà una finestra di selezione dei file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;A&lt;/f0&gt;n identifier in the formula exceeds 64 KB in size, or a result of a string operation exceeds 64 KB in size.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T202323Z" creationid="Elisabetta" creationdate="20160815T202323Z">
+        <seg>&lt;f0&gt;U&lt;/f0&gt;n identificatore nella formula supera la dimensione di 64 KB, o l'errore è un risultato di un'operazione stringa che supera la dimensione di 64 KB.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5354,6 +5378,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T160257Z" creationid="steevie" creationdate="20160428T160257Z">
         <seg>&lt;f0&gt;Sincronizza assi&lt;/f0&gt; modifica le impostazioni attuali della griglia in maniera simmetrica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;he total number of internal tokens (that is, operators, variables, brackets) in the formula exceeds 512, or the total number of matrices the formula creates exceeds 150.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T202214Z" creationid="Elisabetta" creationdate="20160815T202214Z">
+        <seg>&lt;f0&gt;I&lt;/f0&gt;l numero totale di token interni (cioè, operatori, variabili, parentesi quadre) nella formula, è superiore a 512, oppure il numero totale di matrici create dalla formula è superiore a 150.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21103,6 +21135,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Internal overflow</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T202337Z" creationid="Elisabetta" creationdate="20160815T202337Z">
+        <seg>Overflow interno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Internal syntax error</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T201442Z" creationid="Elisabetta" creationdate="20160815T201442Z">
@@ -30856,6 +30896,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>String overflow</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T202244Z" creationid="Elisabetta" creationdate="20160815T202244Z">
+        <seg>Stringa troppo lunga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Style organizer</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160509T080404Z" creationid="briga" creationdate="20160509T080404Z">
@@ -34614,6 +34662,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T093647Z" creationid="michele" creationdate="20160524T093647Z">
         <seg>Questa icona sostituisce l'icona predefinita &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt; se le modifiche al foglio di lavoro non sono state salvate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This includes basic functions that receive too large an array as a parameter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T202230Z" creationid="Elisabetta" creationdate="20160815T202230Z">
+        <seg>Questo errore include le funzioni di base che ricevono un array troppo grande come parametro.</seg>
       </tuv>
     </tu>
     <tu>
