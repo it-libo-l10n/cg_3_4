@@ -15374,6 +15374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;349&lt;/seq0&gt;: An error message displayed in the status bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T193914Z" creationid="Elisabetta" creationdate="20160815T193914Z">
+        <seg>Figura &lt;seq0&gt;349&lt;/seq0&gt;: messaggio di errore visualizzato nella barra di stato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;34&lt;/seq0&gt;: Split bar on horizontal scroll bar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T153513Z" creationid="michele" creationdate="20160525T153513Z">
@@ -33778,6 +33786,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This appendix presents error codes in two tables.&lt;f0&gt; &lt;/f0&gt;This first table explains error messages which are displayed within the cell that actually contains the error.&lt;f1&gt; &lt;/f1&gt;Except in the case of the &lt;f2&gt;###&lt;/f2&gt; error, they all correspond to a Calc error code number.&lt;f3&gt; &lt;/f3&gt;The second table explains all of the error codes, listed by code number, including those errors codes in the first table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T194109Z" creationid="Elisabetta" creationdate="20160815T194109Z">
+        <seg>Questa appendice presenta i codici di errore disposti in due tabelle.&lt;f0&gt; &lt;/f0&gt;La prima tabella illustra i messaggi di errore visualizzati all'interno della cella che effettivamente contiene l'errore.&lt;f1&gt; &lt;/f1&gt;Tranne che per il caso dell’errore &lt;f2&gt;###&lt;/f2&gt;, tutti corrispondono a un numero di codice di errore Calc.&lt;f3&gt; &lt;/f3&gt;La seconda tabella illustra tutti i codici di errore, elencati per numero di codice, compresi i codici di errori della prima tabella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This area specifies the page numbering style for this page style.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160723T125631Z" creationid="briga" creationdate="20160723T125631Z">
@@ -38206,6 +38222,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T101443Z" creationid="michele" creationdate="20160525T101443Z">
         <seg>Quando aprite la scheda Proprietà personalizzate per la prima volta in un nuovo documento, potrebbe essere vuota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the cell displaying the &lt;f0&gt;#REF&lt;/f0&gt; error code in &lt;t1&gt;Figure 348&lt;/t1&gt; is selected, the status bar displays the error message as shown in &lt;t2&gt;Figure 349&lt;/t2&gt;.&lt;f3&gt; &lt;/f3&gt;This message is more descriptive than the message displayed in the cell, but it still may not provide enough information to correctly diagnose the problem.&lt;f4&gt; &lt;/f4&gt;For fuller explanations, consult the following tables and the Help topic, &lt;f5&gt;Error Codes in &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;LibreOffice&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; Calc&lt;/f8&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T193838Z" creationid="Elisabetta" creationdate="20160815T193838Z">
+        <seg>Selezionando la cella in cui compare il codice di errore &lt;f0&gt;#REF&lt;/f0&gt; nella Figura &lt;t1&gt;348&lt;/t1&gt;, la barra di stato segnala il messaggio di errore come indicato nella Figura &lt;t2&gt;349&lt;/t2&gt;.&lt;f3&gt; &lt;/f3&gt;Questo messaggio è più informativo rispetto a quello che compare nella cella, ma, probabilmente, non ancora adeguato a diagnosticare correttamente il problema.&lt;f4&gt; &lt;/f4&gt;Per una spiegazione più esauriente, consultate le tabelle seguenti e il capitolo della Guida intitolato, &lt;f5&gt;Codici di errore in &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;LibreOffice&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; Calc&lt;/f8&gt;.</seg>
       </tuv>
     </tu>
     <tu>
