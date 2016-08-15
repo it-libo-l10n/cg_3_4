@@ -23416,6 +23416,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>NORMDIST with stdev=0</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T204158Z" creationid="Elisabetta" creationdate="20160815T204158Z">
+        <seg>NORMDIST con stdev = 0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>NPER can also be a non-integer value.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160702T084609Z" creationid="Marco Marega" creationdate="20160702T084109Z">
@@ -28168,6 +28176,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>STANDARDIZE with stdev=0&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T204142Z" creationid="Elisabetta" creationdate="20160815T204142Z">
+        <seg>STANDARDIZE con stdev = 0&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>STANDARDIZE(number; mean; STDEV)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160815T130405Z" creationid="Marco Marega" creationdate="20160815T130405Z">
@@ -28180,6 +28196,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151111Z" creationid="steevie" creationdate="20160620T151111Z">
         <seg>DEV.ST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>STDEV with less than 2 arguments&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T204127Z" creationid="Elisabetta" creationdate="20160815T204127Z">
+        <seg>STDEV con meno di 2 argomenti&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28204,6 +28228,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151159Z" creationid="steevie" creationdate="20160620T151159Z">
         <seg>DEV.ST.POP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>STDEVP with less than 1 argument&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T204100Z" creationid="Elisabetta" creationdate="20160815T204100Z">
+        <seg>STDEVP con meno di 1 argomento&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30396,6 +30428,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T173157Z" creationid="steevie" creationdate="20160428T173157Z">
         <seg>Alcune estensioni sono gratuite; altre sono soggette al pagamento di un contributo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some functions return this error; for example:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T204027Z" creationid="Elisabetta" creationdate="20160815T204027Z">
+        <seg>Altre funzioni restituiscono questo errore, ad esempio:</seg>
       </tuv>
     </tu>
     <tu>
@@ -38530,6 +38570,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>VAR with less than 2 arguments&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T204114Z" creationid="Elisabetta" creationdate="20160815T204114Z">
+        <seg>VAR con meno di 2 argomenti&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>VARA</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151517Z" creationid="steevie" creationdate="20160620T151517Z">
@@ -38542,6 +38590,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151524Z" creationid="steevie" creationdate="20160620T151524Z">
         <seg>VAR.POP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VARP with less than 1 argument&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T204041Z" creationid="Elisabetta" creationdate="20160815T204041Z">
+        <seg>VARP con meno di 1 argomento&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
