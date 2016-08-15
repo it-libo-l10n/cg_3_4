@@ -5014,6 +5014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;STEYX&lt;/f0&gt;(data_Y; data_X)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160815T150737Z" creationid="Marco Marega" creationdate="20160815T150737Z">
+        <seg>&lt;f0&gt;ERR.STD.YX&lt;/f0&gt;(dati Y; dati X)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;SUMIF&lt;/f0&gt;(range; criteria; sum_range)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T145245Z" creationid="Marco Marega" creationdate="20160626T145245Z">
