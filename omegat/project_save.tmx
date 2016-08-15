@@ -27288,6 +27288,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SMALL(data; rank_c)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160815T125926Z" creationid="Marco Marega" creationdate="20160815T125926Z">
+        <seg>PICCOLO(dati; K)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SQRT(number)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T144004Z" creationid="Marco Marega" creationdate="20160626T144004Z">
