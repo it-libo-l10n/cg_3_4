@@ -1662,6 +1662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>523</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T203213Z" creationid="Elisabetta" creationdate="20160815T203213Z">
+        <seg>523</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>524</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T195031Z" creationid="Elisabetta" creationdate="20160815T195031Z">
@@ -3290,6 +3298,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160505T074701Z" creationid="luciano" creationdate="20160428T153228Z">
         <seg>&lt;f0&gt;Si aprirà una finestra di selezione dei file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;A&lt;/f0&gt; column or row description name could not be resolved, or the column, row, or sheet that contains a referenced cell is missing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T203631Z" creationid="Elisabetta" creationdate="20160815T203550Z">
+        <seg>&lt;f0&gt;Non&lt;/f0&gt; è stato possibile risolvere il nome descrittivo di una colonna o riga, oppure in una formula manca la colonna, la riga o il foglio contenente la cella a cui si fa riferimento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16278,6 +16294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Financial statistics function missed a targeted value, or iterations of circular references do not reach the minimum change within the maximum steps that are set.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T203305Z" creationid="Elisabetta" creationdate="20160815T203305Z">
+        <seg>Nella funzione statistica finanziaria manca un valore di destinazione, oppure le iterazioni dei riferimenti circolari non raggiungono la variazione minima nell'ambito del numero massimo di operazioni impostate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Find &amp; Replace shortcut key</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T154153Z" creationid="Elisabetta" creationdate="20160726T154153Z">
@@ -17320,8 +17344,8 @@
       <tuv lang="EN">
         <seg>Formula refers directly or indirectly to itself and the &lt;f0&gt;Iterations&lt;/f0&gt; option is not selected under &lt;f1&gt;&lt;f2&gt;Tools &gt; Options &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;LibreOffice&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; Calc &gt; Calculate&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T203019Z" creationid="Elisabetta" creationdate="20160815T203019Z">
-        <seg>Una formula fa riferimento direttamente o indirettamente a se stessa e l'opzione delle Iterazioni non è selezionata in Strumenti &gt; Opzioni &gt; LibreOffice Calc &gt; Calcola.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T203210Z" creationid="Elisabetta" creationdate="20160815T203019Z">
+        <seg>Una formula fa riferimento direttamente o indirettamente a se stessa e l'opzione delle &lt;f0&gt;Iterazioni&lt;/f0&gt; non è selezionata in &lt;f1&gt;&lt;f2&gt;Strumenti &gt; Opzioni &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;LibreOffice&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; Calc &gt; Calcola&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21315,6 +21339,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T201049Z" creationid="Elisabetta" creationdate="20160815T201049Z">
         <seg>Operazione a virgola mobile non valida (nella cella sarà visibile il riferimento &lt;f0&gt;#NUM!&lt;/f0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid references (cell displays &lt;f0&gt;#REF!&lt;/f0&gt;)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T203342Z" creationid="Elisabetta" creationdate="20160815T203342Z">
+        <seg>Riferimenti non validi (la cella visualizza il riferimento di errore &lt;f0&gt;#REF!&lt;/f0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32261,6 +32293,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T102855Z">
         <seg>Ora l'interruzione è impostata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The calculation procedure does not converge</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T203228Z" creationid="Elisabetta" creationdate="20160815T203228Z">
+        <seg>Il processo di calcolo non converge</seg>
       </tuv>
     </tu>
     <tu>
