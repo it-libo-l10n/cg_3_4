@@ -3022,6 +3022,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Data_Y&lt;/f2&gt; is the array or matrix of Y data.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Data_X&lt;/f4&gt; is the array or matrix of X data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160815T125846Z" creationid="Marco Marega" creationdate="20160815T125846Z">
+        <seg>&lt;f0&gt;&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Dati Y&lt;/f2&gt; è la serie o la matrice dei dati delle Y.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Dati X&lt;/f4&gt; è la serie o la matrice dei dati delle X.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;A colored border, with a dot in the upper left-hand corner, appears around a cell where changes were made (&lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figure 284&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T145816Z" creationid="luciano" creationdate="20160423T123832Z">
@@ -26896,6 +26904,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the slope of the linear regression line.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160815T125721Z" creationid="Marco Marega" creationdate="20160815T125721Z">
+        <seg>Restituisce la pendenza della retta della regressione lineare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the smallest value for which the cumulative binomial distribution is less than or equal to a criterion value.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Trials&lt;/f1&gt; is the total number of trials.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;SP&lt;/f3&gt; is the probability of success for one trial.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Alpha&lt;/f5&gt; is the threshold probability to be reached or exceeded.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T100809Z" creationid="Marco Marega" creationdate="20160730T100809Z">
@@ -27260,6 +27276,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160813T142820Z" creationid="Marco Marega" creationdate="20160813T142634Z">
         <seg>ASIMMETRIA(numero 1; numero 2; ... numero 30)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SLOPE(data_Y; data_X)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160815T125639Z" creationid="Marco Marega" creationdate="20160815T125639Z">
+        <seg>PENDENZA(dati Y; dati X)</seg>
       </tuv>
     </tu>
     <tu>
