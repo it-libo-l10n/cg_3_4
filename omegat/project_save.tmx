@@ -33898,6 +33898,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The reference has two parts: the sheet name (&lt;f3&gt;‘Checking Account’&lt;/f3&gt;) and the cell reference (&lt;f4&gt;F3&lt;/f4&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160816T144017Z" creationid="antonio" creationdate="20160816T144017Z">
+        <seg>Il riferimento ha due parti: il nome del foglio (&lt;f3&gt;‘Verifica Conto’&lt;/f3&gt;) e il riferimento della cella (&lt;f4&gt;F3&lt;/f4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The relative behavior is illustrated in &lt;t0&gt;Listing 11&lt;/t0&gt;, which also illustrates another usage of a named range—defining an equation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T143327Z" creationid="steevie" creationdate="20160504T143327Z">
