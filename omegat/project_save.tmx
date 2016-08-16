@@ -34106,6 +34106,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The sheet name is in single quotes because it contains a space, and the mandatory period (.) always falls outside any quotes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160816T144425Z" creationid="antonio" creationdate="20160816T144425Z">
+        <seg>Il nome del foglio è tra virgolette singole perchè contiene uno spazio, e il periodo obbligatorio (.) cade sempre fuori di qualsiasi virgoletta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The sheet tab arrows that appear in &lt;t0&gt;Figure 23&lt;/t0&gt; only appear if you have some sheet tabs that can not be seen.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T122718Z" creationid="michele" creationdate="20160525T122718Z">
