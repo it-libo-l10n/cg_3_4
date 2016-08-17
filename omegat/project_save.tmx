@@ -6096,8 +6096,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;WEEKSINYEAR&lt;/f0&gt;(date)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T220248Z" creationid="Marco Marega" creationdate="20160817T220248Z">
-        <seg>&lt;f0&gt;WEEKSINYEAR&lt;/f0&gt;(date)</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T220717Z" creationid="Marco Marega" creationdate="20160817T220248Z">
+        <seg>&lt;f0&gt;SETTIMANE.ANNO&lt;/f0&gt;(data)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10290,6 +10290,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T213107Z" creationid="Marco Marega" creationdate="20160817T213107Z">
         <seg>Calcola il numero della settimana nel calendario dell'anno in base al &lt;f0&gt;numero&lt;/f0&gt; interno della data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculates the number of weeks in a year until a certain &lt;f0&gt;date&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T220758Z" creationid="Marco Marega" creationdate="20160817T220758Z">
+        <seg>Calcola il numero di settimane in un anno fino ad una certa &lt;f0&gt;data&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
