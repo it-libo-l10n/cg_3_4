@@ -13630,6 +13630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Determines whether a given &lt;f0&gt;date&lt;/f0&gt; falls within a leap year.&lt;f1&gt; &lt;/f1&gt;Returns either 1 (TRUE) or 0 (FALSE).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T184828Z" creationid="Marco Marega" creationdate="20160817T184828Z">
+        <seg>Determina se la &lt;f0&gt;data&lt;/f0&gt; indicata cade in un anno bisestile.&lt;f1&gt; &lt;/f1&gt;Può restituire 1 (VERO) o 0 (FALSO).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Different fonts include different special characters.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T164108Z" creationid="Elisabetta" creationdate="20160627T164108Z">
@@ -22887,6 +22895,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>MINUTE(number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T184858Z" creationid="Marco Marega" creationdate="20160817T184858Z">
+        <seg>MINUTO(numero)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>MOD(dividend; divisor)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T131413Z" creationid="Marco Marega" creationdate="20160626T131413Z">
@@ -27802,8 +27818,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Returns the hour, as an integer, for the given time value.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number&lt;/f1&gt; is a time value.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T184457Z" creationid="Marco Marega" creationdate="20160817T184457Z">
-        <seg>Restituisce l'ora, come numero intero, per un dato valore di tempo.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; è un valore di tempo.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T184954Z" creationid="Marco Marega" creationdate="20160817T184457Z">
+        <seg>Restituisce l'ora, come numero intero, per un dato valore di orario.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; è un valore di orario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28076,6 +28092,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T191147Z" creationid="Marco Marega" creationdate="20160807T191147Z">
         <seg>Restituisce il valore massimo di una lista di parametri.&lt;f0&gt; &lt;/f0&gt;Qui è possibile inserire anche del testo.&lt;f1&gt; &lt;/f1&gt;I valori di testo equivalgono a 0.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Valore_1; valore_2; ... valore_30&lt;/f3&gt; sono valori o intervalli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the minute, as an integer, for the given time value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T184950Z" creationid="Marco Marega" creationdate="20160817T184950Z">
+        <seg>Restituisce il minuto, come numero intero, per un dato valore di orario.</seg>
       </tuv>
     </tu>
     <tu>
