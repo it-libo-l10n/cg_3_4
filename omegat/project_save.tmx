@@ -6398,6 +6398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;Mode&lt;/f1&gt; sets the start of the week and the calculation type: 1 = Sunday, 2 = Monday.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T213154Z" creationid="Marco Marega" creationdate="20160817T213154Z">
+        <seg>&lt;f1&gt;Modo&lt;/f1&gt; imposta l'inizio della settimana ed il tipo di calcolo: 1 = Domenica, 2 = Lunedì.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;Nominal_rate&lt;/f1&gt;&lt;f2&gt; is&lt;/f2&gt; the annual nominal rate of interest.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Npery&lt;/f4&gt;&lt;f5&gt; is&lt;/f5&gt; the number of interest payments per year.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T130922Z" creationid="Marco Marega" creationdate="20160703T130922Z">
@@ -10242,6 +10250,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T101426Z" creationid="Marco Marega" creationdate="20160703T101426Z">
         <seg>Calcola il numero di periodi necessari affinché un investimento raggiunga il valore desiderato.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Tasso&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; il tasso di interesse costante &lt;s3/&gt;per l'intera durata in base al quale viene effettuato il conteggio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculates the number of the calendar week of the year for the internal date &lt;f0&gt;number&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T213107Z" creationid="Marco Marega" creationdate="20160817T213107Z">
+        <seg>Calcola il numero della settimana nel calendario dell'anno in base al &lt;f0&gt;numero&lt;/f0&gt; interno della data.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39814,6 +39830,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T212228Z" creationid="Marco Marega" creationdate="20160817T212228Z">
         <seg>GIORNO.SETTIMANA(numero; tipo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WEEKNUM_ADD(date; return_type)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T213805Z" creationid="Marco Marega" creationdate="20160817T213805Z">
+        <seg>NUM.SETTIMANA_ADD(data; return_type)</seg>
       </tuv>
     </tu>
     <tu>
