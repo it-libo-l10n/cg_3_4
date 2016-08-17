@@ -4566,6 +4566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;ISLEAPYEAR&lt;/f0&gt;(date)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T184618Z" creationid="Marco Marega" creationdate="20160817T184618Z">
+        <seg>&lt;f0&gt;ANNO.BISESTILE&lt;/f0&gt;(data)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;ISODD&lt;/f0&gt;(value)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T104126Z" creationid="Marco Marega" creationdate="20160626T104126Z">
@@ -18310,6 +18318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HOUR(number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T184400Z" creationid="Marco Marega" creationdate="20160817T184400Z">
+        <seg>ORA(numero)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HTML compatibility&lt;ie0/&gt; Load/Save options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T125219Z" creationid="steevie" creationdate="20160427T125158Z">
@@ -27780,6 +27796,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T134523Z" creationid="Marco Marega" creationdate="20160730T134523Z">
         <seg>Restituisce la media armonica di un insieme di dati.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero 1; numero 2; ... numero 30&lt;/f1&gt; sono i valori o gli intervali che vengono utilizzati per calcolare la media armonica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the hour, as an integer, for the given time value.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number&lt;/f1&gt; is a time value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T184457Z" creationid="Marco Marega" creationdate="20160817T184457Z">
+        <seg>Restituisce l'ora, come numero intero, per un dato valore di tempo.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; è un valore di tempo.</seg>
       </tuv>
     </tu>
     <tu>
