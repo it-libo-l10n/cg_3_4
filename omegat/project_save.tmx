@@ -6062,6 +6062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Year&lt;/f0&gt; is an integer between 1583 and 9956 or 0 and 99.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Month&lt;/f2&gt; is an integer between 1 and 12.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Day&lt;/f4&gt; is an integer between 1 and 31.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T181807Z" creationid="Marco Marega" creationdate="20160817T181807Z">
+        <seg>&lt;f0&gt;Anno&lt;/f0&gt; è un numero intero tra 1583 e 9956 o tra 0 e 99.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Mese&lt;/f2&gt; è un numero intero tra 1 e 12.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Giorno&lt;/f4&gt; è un numero intero tra 1 e 31.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;You can also access the filter control in the Accept or Reject Changes dialog shown in &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figure 291&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T152134Z" creationid="luciano" creationdate="20160425T121543Z">
@@ -12338,6 +12346,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T094551Z" creationid="Marco Marega" creationdate="20160626T094551Z">
         <seg>Converte un valore monetario espresso in una valuta Europea in &lt;f0&gt;Euro.&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Valore&lt;/f2&gt; è la somma espressa nella valuta da convertire.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Testo&lt;/f4&gt; è l'abbreviazione ufficiale della valuta in questione (ad esempio, "EUR").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converts a date written as year, month, day to an internal serial number and displays it in the cell’s formatting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T181641Z" creationid="Marco Marega" creationdate="20160817T181641Z">
+        <seg>Converte una data scritta come anno, mese, giorno in un numero seriale interno e lo visualizza nel formato della cella.</seg>
       </tuv>
     </tu>
     <tu>
