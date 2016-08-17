@@ -4542,6 +4542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Hour&lt;/f0&gt;&lt;f1&gt;, &lt;/f1&gt;&lt;f2&gt;minute&lt;/f2&gt; and &lt;f3&gt;second&lt;/f3&gt; must all be integers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T191039Z" creationid="Marco Marega" creationdate="20160817T191039Z">
+        <seg>&lt;f0&gt;Ora&lt;/f0&gt;&lt;f1&gt;, &lt;/f1&gt;&lt;f2&gt;minuto&lt;/f2&gt; e &lt;f3&gt;secondo&lt;/f3&gt; devono essere tutti numeri interi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;INTRATE&lt;/f0&gt;(settlement; maturity; investment;&lt;f1&gt; &lt;/f1&gt;redemption; basis)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T145138Z" creationid="Marco Marega" creationdate="20160703T145138Z">
@@ -5642,6 +5650,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160815T151130Z" creationid="Marco Marega" creationdate="20160815T151130Z">
         <seg>&lt;f0&gt;DISTRIB.T&lt;/f0&gt;(numero; gradi libertà; cumulativo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;TIMEVALUE&lt;/f0&gt;(text)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T191041Z" creationid="Marco Marega" creationdate="20160817T191041Z">
+        <seg>&lt;f0&gt;TIMEVALUE&lt;/f0&gt;(text)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35846,6 +35862,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T125640Z" creationid="Marco Marega" creationdate="20160730T125640Z">
         <seg>Questa funzione permette di cercare variabili con differente distribuzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This function can be used to convert a time based on these three elements to a decimal time value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T191002Z" creationid="Marco Marega" creationdate="20160817T191002Z">
+        <seg>Questa funzione può essere usata per convertire un orario basato su questi tre elementi in un orario in formato decimale.</seg>
       </tuv>
     </tu>
     <tu>
