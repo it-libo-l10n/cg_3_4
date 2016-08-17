@@ -6430,6 +6430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;Months&lt;/f2&gt; is the number of months before (negative) or after (positive) the start date.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T184328Z" creationid="Marco Marega" creationdate="20160817T184328Z">
+        <seg>&lt;f2&gt;Mesi&lt;/f2&gt; è il numero di mesi prima (se negativo) o dopo (se positivo) della data iniziale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;Sum_range&lt;/f2&gt; is the range from which values are summed; if &lt;f3&gt;it has&lt;/f3&gt; not been indicated, the values found in the &lt;f4&gt;Range&lt;/f4&gt; are summed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T145721Z" creationid="Marco Marega" creationdate="20160626T145721Z">
