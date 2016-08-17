@@ -6118,6 +6118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;ZTEST&lt;/f0&gt;(data; number; sigma)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T181131Z" creationid="Marco Marega" creationdate="20160817T181041Z">
+        <seg>&lt;f0&gt;TEST.Z&lt;/f0&gt;(dati; numero; sigma)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;x&lt;/f0&gt; is the number as an independent variable.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;n&lt;/f2&gt; is the starting power.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;m&lt;/f4&gt; is the increment.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Coefficients&lt;/f6&gt; is a series of coefficients.&lt;f7&gt; &lt;/f7&gt;For each coefficient the series sum is extended by one section.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T143533Z" creationid="Marco Marega" creationdate="20160626T143533Z">
@@ -28152,6 +28160,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the two-tailed P value of a z test with standard distribution.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Data&lt;/f1&gt; is the array of the data.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Number&lt;/f3&gt; is the value to be tested.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Sigma&lt;/f5&gt; (optional) is the standard deviation of the total population.&lt;f6&gt; &lt;/f6&gt;If this argument is missing, the standard deviation of the sample is processed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T181044Z" creationid="Marco Marega" creationdate="20160817T181044Z">
+        <seg>zReturns the two-tailed P value of a z test with standard distribution.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Data&lt;/f1&gt; is the array of the data.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Number&lt;/f3&gt; is the value to be tested.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Sigma&lt;/f5&gt; (optional) is the standard deviation of the total population.&lt;f6&gt; &lt;/f6&gt;If this argument is missing, the standard deviation of the sample is processed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the value from a different column in the same row.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151641Z" creationid="steevie" creationdate="20160620T151641Z">
@@ -28172,6 +28188,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T125422Z" creationid="Marco Marega" creationdate="20160730T125422Z">
         <seg>Restituisce i valori di una distribuzione Gamma cumulativa.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; è il valore del quale calcolare la distribuzione Gamma.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Alfa&lt;/f3&gt; è il parametro Alfa della distribuzione Gamma.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Beta&lt;/f5&gt; è il parametro Beta della distribuzione Gamma.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Cumulativo&lt;/f7&gt; = 0 calcola la funzione di densità, e &lt;f8&gt;Cumulativo&lt;/f8&gt; = 1 calcola la distribuzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the values of the Weibull distribution for the given&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number&lt;/f1&gt;.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Alpha &lt;/f3&gt;is the Alpha parameter of the Weibull distribution.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Beta&lt;/f5&gt; is the Beta parameter of the Weibull distribution.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;C&lt;/f7&gt; indicates the type of function: C= 0 the form of the function is calculated, C=1 the distribution is calculated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T181017Z" creationid="Marco Marega" creationdate="20160817T181017Z">
+        <seg>Restituisce il valore della distribuzione di Weibull per il&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; dato.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Alfa &lt;/f3&gt;è il parametro Alfa della distribuzione di Weibull.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Beta&lt;/f5&gt; è il parametro Beta della distribuzione di Weibull.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;C&lt;/f7&gt; indica il tipo di funzione: C= 0 viene calcolata la densità della funzione, C=1 viene calcolata la distribuzione.</seg>
       </tuv>
     </tu>
     <tu>
