@@ -6470,6 +6470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;Type&lt;/f2&gt; is one of two possible values, 0 (interval) or 1 (in calendar months).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T185338Z" creationid="Marco Marega" creationdate="20160817T185338Z">
+        <seg>&lt;f2&gt;Tipo&lt;/f2&gt; è uno tra i due possibili valori, 0 (intervallo) o 1 (in mesi di calendario).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f3&gt;Edit &gt; Compare Document&lt;/f3&gt;&lt;br4/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T155527Z" creationid="Luciano B." creationdate="20160411T155527Z">
@@ -18914,6 +18922,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T182523Z" creationid="Marco Marega" creationdate="20160817T182523Z">
         <seg>Se &lt;f2&gt;Data 2&lt;/f2&gt; è precedente a &lt;f3&gt;Data 1&lt;/f3&gt;, il risultato è un numero negativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If &lt;f3&gt;Date_2&lt;/f3&gt; is an earlier date than &lt;f4&gt;Date_1&lt;/f4&gt;, the result is a negative number.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T185416Z" creationid="Marco Marega" creationdate="20160817T185416Z">
+        <seg>Se &lt;f3&gt;Date finale&lt;/f3&gt; è precedente alla &lt;f4&gt;Data iniziale&lt;/f4&gt;, il risultato è un numero negativo.</seg>
       </tuv>
     </tu>
     <tu>
