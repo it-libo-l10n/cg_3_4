@@ -5574,6 +5574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;TTEST&lt;/f0&gt;(data_1; data_2; mode; type)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T171708Z" creationid="Marco Marega" creationdate="20160817T171543Z">
+        <seg>&lt;f0&gt;TEST.T&lt;/f0&gt;(dati 1; dati 2; modo; tipo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Table &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;17&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160517T132501Z" creationid="steevie" creationdate="20160517T132501Z">
@@ -27892,6 +27900,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160716T091745Z" creationid="Marco Marega" creationdate="20160716T091745Z">
         <seg>Restituisce il valore attuuale di un investimento derivante da una serie di pagamenti costanti.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Tasso interesse&lt;/f1&gt; definisce il tasso di interesse per periodo.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Numero rate&lt;/f3&gt; è il numero complessivo di periodi di pagamento.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Rata&lt;/f5&gt; è l'importo del pagamento costante effettuato in ogni periodo.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Valore futuro&lt;/f7&gt; (facoltativo) indica il valore futuro che rimane dopo che l'ultima rata è stata pagata.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Tipo&lt;/f9&gt; (facoltativo) indica se il pagamento degli interessi per ciascun periodo è anticipato (1) o posticipato (0).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the probability associated with a Student&lt;f0&gt;’&lt;/f0&gt;s t-Test.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Data_1&lt;/f2&gt; is the dependent array or range of data for the first record.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Data_2&lt;/f4&gt; is the dependent array or range of data for the second record.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Mode&lt;/f6&gt; = 1 calculates the one-tailed test, &lt;f7&gt;Mode&lt;/f7&gt; = 2 the two- tailed test.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Type&lt;/f9&gt; of t-test to perform:&lt;f10&gt; &lt;/f10&gt;paired (1), equal variance (&lt;f11&gt;homoscedastic&lt;/f11&gt;) (2), or unequal variance (&lt;f12&gt;heteroscedastic&lt;/f12&gt;) (3).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T171701Z" creationid="Marco Marega" creationdate="20160817T171701Z">
+        <seg>Returns the probability associated with a Student&lt;f0&gt;’&lt;/f0&gt;s t-Test.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Data_1&lt;/f2&gt; is the dependent array or range of data for the first record.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Data_2&lt;/f4&gt; is the dependent array or range of data for the second record.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Mode&lt;/f6&gt; = 1 calculates the one-tailed test, &lt;f7&gt;Mode&lt;/f7&gt; = 2 the two- tailed test.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Type&lt;/f9&gt; of t-test to perform:&lt;f10&gt; &lt;/f10&gt;paired (1), equal variance (&lt;f11&gt;homoscedastic&lt;/f11&gt;) (2), or unequal variance (&lt;f12&gt;heteroscedastic&lt;/f12&gt;) (3).</seg>
       </tuv>
     </tu>
     <tu>
