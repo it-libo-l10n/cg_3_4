@@ -4150,6 +4150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;EDATE&lt;/f0&gt;(start_date; months)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T183753Z" creationid="Marco Marega" creationdate="20160817T183753Z">
+        <seg>&lt;f0&gt;DATA.MESE&lt;/f0&gt;(data iniziale; mesi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;EXPONDIST&lt;/f0&gt;(number; lambda; C)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T101807Z" creationid="Marco Marega" creationdate="20160730T101807Z">
@@ -34450,6 +34458,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The result is a date a number of &lt;f0&gt;Months&lt;/f0&gt; away from the given &lt;f1&gt;Start_date&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T183925Z" creationid="Marco Marega" creationdate="20160817T183925Z">
+        <seg>Il risultato è una data che dista un determinato numero di &lt;f0&gt;Mesi&lt;/f0&gt; dalla &lt;f1&gt;data iniziale&lt;/f1&gt; inserita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The result is shown below indicating a capital requirement of $200,000 is needed to achieve $15,000 annual return.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T131716Z" creationid="michele" creationdate="20160608T131716Z">
@@ -40486,6 +40502,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160720T204234Z" creationid="Marco Marega" creationdate="20160720T204234Z">
         <seg>REND(liquidazione; scadenza; tasso interesse; prezzo; rimborso; frequenza; base)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Year is an &lt;f0&gt;integer&lt;/f0&gt; between 1583 and 9956 or 0 and 99.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T183717Z" creationid="Marco Marega" creationdate="20160817T183717Z">
+        <seg>Anno è un &lt;f0&gt;numero intero&lt;/f0&gt; tra 1583 e 9956 o tra 0 e 99.</seg>
       </tuv>
     </tu>
     <tu>
