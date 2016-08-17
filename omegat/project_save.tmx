@@ -24024,6 +24024,22 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>NOW is a function without arguments.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T190520Z" creationid="Marco Marega" creationdate="20160817T190520Z">
+        <seg>ADESSO è una funzione senza parametri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>NOW()</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T190231Z" creationid="Marco Marega" creationdate="20160817T190231Z">
+        <seg>ADESSO()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>NPER can also be a non-integer value.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160702T084609Z" creationid="Marco Marega" creationdate="20160702T084109Z">
@@ -27728,6 +27744,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the computer system date and time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T190306Z" creationid="Marco Marega" creationdate="20160817T190306Z">
+        <seg>Restituisce la data e l'ora di sistema del computer in uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the constant interest rate per period of an annuity.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;NPER&lt;/f1&gt; is the total number of periods, during which payments are made (payment period).&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;PMT&lt;/f3&gt; is the constant payment (annuity) paid during each period.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;PV&lt;/f5&gt; is the cash value in the sequence of payments.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;FV&lt;/f7&gt; (optional) is the future value, which is reached at the end of the periodic payments.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Type&lt;/f9&gt; (optional) defines whether the payment is due at the beginning (1) or the end (0) of a period.&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;Guess&lt;/f11&gt; (optional) determines the estimated value of the interest with iterative calculation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160716T092748Z" creationid="Marco Marega" creationdate="20160716T092748Z">
@@ -28860,6 +28884,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T091807Z" creationid="michele" creationdate="20160524T091807Z">
         <seg>B&lt;bk0/&gt;arra di stato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SECOND(number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T190528Z" creationid="Marco Marega" creationdate="20160817T190528Z">
+        <seg>SECONDO(numero)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35086,6 +35118,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T091638Z" creationid="Elisabetta" creationdate="20160629T091638Z">
         <seg>Le opzioni del test di validità variano in base al tipo di dati selezionati nell'elenco della casella di riepilogo &lt;f0&gt;Permetti&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The value is updated when your document recalculates.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T190508Z" creationid="Marco Marega" creationdate="20160817T190508Z">
+        <seg>Il valore viene aggiornato ogni volta che il documento riesegue i conteggi.</seg>
       </tuv>
     </tu>
     <tu>
