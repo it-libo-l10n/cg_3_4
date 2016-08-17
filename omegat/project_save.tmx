@@ -27832,6 +27832,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the current computer system date.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T191600Z" creationid="Marco Marega" creationdate="20160817T191600Z">
+        <seg>Restituisce la data di sistema attuale del computer in uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the current time value from values for hours, minutes and seconds.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T190857Z" creationid="Marco Marega" creationdate="20160817T190857Z">
@@ -32153,6 +32161,22 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TODAY is a function without arguments.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T191617Z" creationid="Marco Marega" creationdate="20160817T191617Z">
+        <seg>OGGI è una funzione senza parametri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TODAY()</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T191506Z" creationid="Marco Marega" creationdate="20160817T191506Z">
+        <seg>OGGI()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TOP</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T144910Z" creationid="steevie" creationdate="20160509T144910Z">
@@ -34142,6 +34166,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T102037Z" creationid="michele" creationdate="20160525T102037Z">
         <seg>Le informazioni sulla scheda  &lt;f0&gt;Generale&lt;/f0&gt; e sulla scheda &lt;f1&gt;Statistiche&lt;/f1&gt; sono generate dal programma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The internal number indicated as a decimal is the result of the date system used under &lt;f1&gt;LibreOffice&lt;/f1&gt; to calculate date entries.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T191502Z" creationid="Marco Marega" creationdate="20160817T191502Z">
+        <seg>Il numero interno indicato come decimale è il risultato del sistema di date usato da &lt;f1&gt;LibreOffice&lt;/f1&gt; per valutare le date inserite.</seg>
       </tuv>
     </tu>
     <tu>
