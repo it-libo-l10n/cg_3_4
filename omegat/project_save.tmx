@@ -4950,6 +4950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Number&lt;/f0&gt; is a time value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T182331Z" creationid="Marco Marega" creationdate="20160817T182331Z">
+        <seg>&lt;f0&gt;Numero&lt;/f0&gt; è un valore di orario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Number&lt;/f0&gt; is the probability value for which the inverse Gamma distribution is to be calculated.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Alpha&lt;/f2&gt; is the parameter Alpha of the Gamma distribution.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Beta&lt;/f4&gt; is the parameter Beta of the Gamma distribution.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T125829Z" creationid="Marco Marega" creationdate="20160730T125731Z">
@@ -5610,6 +5618,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T153524Z" creationid="michele" creationdate="20160531T153524Z">
         <seg>&lt;f0&gt;La tabella &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;12&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt; riassume l'interazione di varie impostazioni per l'abilitazione o disabilitazione di modifiche ai valori delle celle di uno scenario.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Text&lt;/f0&gt; is a valid date expression and must be entered with quotation marks.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T182133Z" creationid="Marco Marega" creationdate="20160817T182133Z">
+        <seg>&lt;f0&gt;Testo&lt;/f0&gt; è una data scritta come un'espressione valida e deve essere inserita tra virgolette.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7154,6 +7170,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T145002Z" creationid="steevie" creationdate="20160504T145002Z">
         <seg>Un intervallo con nome può definire una funzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A negative date/time value can be entered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T182301Z" creationid="Marco Marega" creationdate="20160817T182301Z">
+        <seg>Può essere inserito un valore di data/orario negativo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9930,6 +9954,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160702T090816Z" creationid="Marco Marega" creationdate="20160702T090816Z">
         <seg>Calcola l'ammontare complessivo del capitale necessario all'estinzione di un debito.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Tasso interesse&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; il tasso interesse periodico.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Numero rate&lt;/f4&gt;&lt;f5&gt; è&lt;/f5&gt; il numero complessivo di rate nel periodo di pagamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculates the difference, in days, between two date values.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T182416Z" creationid="Marco Marega" creationdate="20160817T182416Z">
+        <seg>Calcola la differenza, in giorni, tra i valori di due date.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13106,6 +13138,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T181515Z" creationid="Marco Marega" creationdate="20160817T181451Z">
         <seg>DATA(anno; mese; giorno)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DAY(number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T182142Z" creationid="Marco Marega" creationdate="20160817T182142Z">
+        <seg>GIORNO(numero)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DAYS(date_2; date_1)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T182347Z" creationid="Marco Marega" creationdate="20160817T182347Z">
+        <seg>GIORNI(data 2; data 1)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27492,6 +27540,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160702T082120Z" creationid="Marco Marega" creationdate="20160702T082120Z">
         <seg>Restituisce la data di pagamento della prima cedola di interessi precedente alla data di liquidazione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Liquidazione&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; la data di acquisto del titolo.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Scadenza&lt;/f4&gt;&lt;f5&gt; è&lt;/f5&gt; la data di scadenza del titolo.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Frequenza&lt;/f7&gt;&lt;f8&gt; è il&lt;/f8&gt; numero di pagamenti di interessi in un anno (1, 2 o 4).&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Base&lt;/f10&gt; indica il modo in cui viene calcolato l'anno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the day, as an integer, of the given date value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T182230Z" creationid="Marco Marega" creationdate="20160817T182230Z">
+        <seg>Restituisce il giorno, come numero intero, per il valore della data inserito.</seg>
       </tuv>
     </tu>
     <tu>
