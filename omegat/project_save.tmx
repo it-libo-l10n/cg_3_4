@@ -3990,6 +3990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;DATEVALUE&lt;/f0&gt;("Text")</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T181841Z" creationid="Marco Marega" creationdate="20160817T181841Z">
+        <seg>&lt;f0&gt;DATA.VALORE&lt;/f0&gt;("Testo")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;DDB&lt;/f0&gt;(cost; salvage; life; period; factor)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T091425Z" creationid="Marco Marega" creationdate="20160703T091425Z">
@@ -27612,6 +27620,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T134052Z" creationid="Marco Marega" creationdate="20160626T134052Z">
         <seg>Restituisce il risultato intero di un'operazione di divisione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the internal date number for text in quotes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T182001Z" creationid="Marco Marega" creationdate="20160817T182001Z">
+        <seg>Restituisce il numero interno della data scritta come testo tra virgolette.</seg>
       </tuv>
     </tu>
     <tu>
