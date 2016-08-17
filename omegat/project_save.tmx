@@ -4926,6 +4926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;NETWORKDAYS&lt;/f0&gt;(start _date; end_date; holidays)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T185829Z" creationid="Marco Marega" creationdate="20160817T185829Z">
+        <seg>&lt;f0&gt;GIORNI.LAVORATIVI.TOT&lt;/f0&gt;(data iniziale; data finale; vacanze)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;NORMDIST&lt;/f0&gt;(number; mean; STDEV; C)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T192719Z" creationid="Marco Marega" creationdate="20160807T192719Z">
@@ -6454,6 +6462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;Start_date&lt;/f2&gt; is the date from which the calculation is carried out.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T190006Z" creationid="Marco Marega" creationdate="20160817T190006Z">
+        <seg>&lt;f2&gt;Data iniziale&lt;/f2&gt; è la data da cui parte il conteggio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;Sum_range&lt;/f2&gt; is the range from which values are summed; if &lt;f3&gt;it has&lt;/f3&gt; not been indicated, the values found in the &lt;f4&gt;Range&lt;/f4&gt; are summed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T145721Z" creationid="Marco Marega" creationdate="20160626T145721Z">
@@ -6482,6 +6498,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T155527Z" creationid="Luciano B." creationdate="20160411T155527Z">
         <seg>&lt;f3&gt;Modifica &gt; Confronta documento&lt;/f3&gt;&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f3&gt;End_date&lt;/f3&gt; is the date up to which the calculation is carried out.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T190026Z" creationid="Marco Marega" creationdate="20160817T190026Z">
+        <seg>&lt;f3&gt;Data finale&lt;/f3&gt; è la data fino alla quale arriva il conteggio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18694,6 +18718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Holidays can be deducted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T185936Z" creationid="Marco Marega" creationdate="20160817T185936Z">
+        <seg>Le vacanze possono essere detratte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How can I contribute to LibreOffice?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084538Z">
@@ -28292,6 +28324,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160813T133539Z" creationid="Marco Marega" creationdate="20160813T133136Z">
         <seg>Restituisce il numero di permutazioni per un determinato numero di oggetti.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero 1&lt;/f1&gt; è il numero complessivo di oggetti.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Numero 2&lt;/f3&gt; è il numero di oggetti in ciascuna permutazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the number of workdays between &lt;f0&gt;start_date&lt;/f0&gt; and &lt;f1&gt;end_date&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T185905Z" creationid="Marco Marega" creationdate="20160817T185905Z">
+        <seg>Restituisce il numero di giorni lavorativi tra la &lt;f0&gt;data iniziale&lt;/f0&gt; e la &lt;f1&gt;data finale&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
