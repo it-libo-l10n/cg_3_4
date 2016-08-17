@@ -4158,6 +4158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;EOMONTH&lt;/f0&gt;(start_date; months)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T184110Z" creationid="Marco Marega" creationdate="20160817T184110Z">
+        <seg>&lt;f0&gt;FINE.MESE&lt;/f0&gt;(data iniziale; mesi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;EXPONDIST&lt;/f0&gt;(number; lambda; C)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T101807Z" creationid="Marco Marega" creationdate="20160730T101807Z">
@@ -6410,6 +6418,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160615T150418Z" creationid="luciano" creationdate="20160615T150418Z">
         <seg>&lt;f2&gt;LibreOffice&lt;/f2&gt; automaticamente crea una macro chiamata Main e apre i moduli per le modifiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;Months &lt;/f2&gt;is the number of months.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T184050Z" creationid="Marco Marega" creationdate="20160817T184050Z">
+        <seg>&lt;f2&gt;Mesi&lt;/f2&gt;è il numero di mesi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24920,6 +24936,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only months are considered; days are not used for calculation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T184007Z" creationid="Marco Marega" creationdate="20160817T184007Z">
+        <seg>Vengono considerati solo i mesi; i giorni non vengono utilizzati per il calcolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only one argument can be altered in a single goal seek.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T125510Z" creationid="michele" creationdate="20160608T125510Z">
@@ -27644,6 +27668,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160702T082120Z" creationid="Marco Marega" creationdate="20160702T082120Z">
         <seg>Restituisce la data di pagamento della prima cedola di interessi precedente alla data di liquidazione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Liquidazione&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; la data di acquisto del titolo.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Scadenza&lt;/f4&gt;&lt;f5&gt; è&lt;/f5&gt; la data di scadenza del titolo.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Frequenza&lt;/f7&gt;&lt;f8&gt; è il&lt;/f8&gt; numero di pagamenti di interessi in un anno (1, 2 o 4).&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Base&lt;/f10&gt; indica il modo in cui viene calcolato l'anno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the date of the last day of a month which falls &lt;f0&gt;Months&lt;/f0&gt; away from the given &lt;f1&gt;Start_date&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T184238Z" creationid="Marco Marega" creationdate="20160817T184238Z">
+        <seg>Restituisce la data dell'ultimo giorno del mese che cade ad un determinato numero di &lt;f0&gt;Mesi&lt;/f0&gt; dalla &lt;f1&gt;Data iniziale&lt;/f1&gt; inserita.</seg>
       </tuv>
     </tu>
     <tu>
