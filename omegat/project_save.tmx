@@ -4094,6 +4094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Date_1&lt;/f0&gt; is the start (earlier) date.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T185242Z" creationid="Marco Marega" creationdate="20160817T185242Z">
+        <seg>&lt;f0&gt;Data iniziale&lt;/f0&gt; è la data di partenza (precedente).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Date_1&lt;/f0&gt; is the start date.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T182432Z" creationid="Marco Marega" creationdate="20160817T182432Z">
@@ -6336,8 +6344,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Date_2&lt;/f1&gt; is the end date.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T182444Z" creationid="Marco Marega" creationdate="20160817T182444Z">
-        <seg>&lt;f1&gt;Data 2&lt;/f1&gt; è la data di arrivo.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T185250Z" creationid="Marco Marega" creationdate="20160817T182444Z">
+        <seg>&lt;f1&gt;Data finale&lt;/f1&gt; è la data di arrivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10050,6 +10058,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T182416Z" creationid="Marco Marega" creationdate="20160817T182416Z">
         <seg>Calcola la differenza, in giorni, tra i valori di due date.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculates the difference, in months, between two date values.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T185200Z" creationid="Marco Marega" creationdate="20160817T185200Z">
+        <seg>Calcola la differenza, in mesi, tra i valori di due date.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22927,6 +22943,22 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>MONTH(number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T185006Z" creationid="Marco Marega" creationdate="20160817T185006Z">
+        <seg>MESE(numero)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MONTHS(start_date; end_date; type)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T185131Z" creationid="Marco Marega" creationdate="20160817T185131Z">
+        <seg>MESI(data iniziale; data finale; tipo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>MULTINOMIAL (number(s))</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T132654Z" creationid="Marco Marega" creationdate="20160626T132654Z">
@@ -28100,6 +28132,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T184950Z" creationid="Marco Marega" creationdate="20160817T184950Z">
         <seg>Restituisce il minuto, come numero intero, per un dato valore di orario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the month, as an integer, for the given date value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T185035Z" creationid="Marco Marega" creationdate="20160817T185035Z">
+        <seg>Restituisce il mese, come numero intero, per il valore della data inserito.</seg>
       </tuv>
     </tu>
     <tu>
