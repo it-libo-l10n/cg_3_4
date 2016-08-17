@@ -6566,6 +6566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f4&gt;Holidays&lt;/f4&gt; (optional) is a list of holidays.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T190135Z" creationid="Marco Marega" creationdate="20160817T190135Z">
+        <seg>&lt;f4&gt;Vacanze&lt;/f4&gt; (facoltativo) è una lista di giorni di vacanza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f4&gt;LibreOffice&lt;/f4&gt; will only display the cells in the print range.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T161103Z">
@@ -14398,6 +14406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter a cell range in which the holidays are listed individually.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T190224Z" creationid="Marco Marega" creationdate="20160817T190224Z">
+        <seg>Va inserito un intervallo di celle in cui le vacanze sono elencate singolarmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter a custom format code.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160721T150516Z" creationid="Elisabetta" creationdate="20160721T150516Z">
@@ -19578,6 +19594,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T135636Z" creationid="michele" creationdate="20160524T135636Z">
         <seg>Se il foglio di lavoro non è stato ancora salvato, ognuna di queste azioni aprirà la finestra Salva come.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the start or end date is a workday, the day is included in the calculation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T190108Z" creationid="Marco Marega" creationdate="20160817T190108Z">
+        <seg>Se la data iniziale o finale è un giorno lavorativo, questo viene incluso nel calcolo.</seg>
       </tuv>
     </tu>
     <tu>
