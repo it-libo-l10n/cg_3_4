@@ -5656,8 +5656,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;TIMEVALUE&lt;/f0&gt;(text)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T191041Z" creationid="Marco Marega" creationdate="20160817T191041Z">
-        <seg>&lt;f0&gt;TIMEVALUE&lt;/f0&gt;(text)</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T191110Z" creationid="Marco Marega" creationdate="20160817T191041Z">
+        <seg>&lt;f0&gt;ORARIO.VALORE&lt;/f0&gt;(testo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -28028,6 +28028,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T182001Z" creationid="Marco Marega" creationdate="20160817T182001Z">
         <seg>Restituisce il numero interno della data scritta come testo tra virgolette.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the internal time number from a &lt;f0&gt;text&lt;/f0&gt; enclosed by quotes in a time entry format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T191251Z" creationid="Marco Marega" creationdate="20160817T191251Z">
+        <seg>Restituisce il numero interno dell'orario scritto come &lt;f0&gt;testo&lt;/f0&gt; racchiuso tra virgolette in un formato valido per l'inserimento di orari.</seg>
       </tuv>
     </tu>
     <tu>
