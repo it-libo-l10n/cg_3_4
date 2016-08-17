@@ -6094,6 +6094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;WEEKSINYEAR&lt;/f0&gt;(date)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T220248Z" creationid="Marco Marega" creationdate="20160817T220248Z">
+        <seg>&lt;f0&gt;WEEKSINYEAR&lt;/f0&gt;(date)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;We need 6 sheets, one for each of the 5 accounts and one as a summary sheet, so we will add 3 more.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T144458Z" creationid="antonio" creationdate="20160524T144343Z">
@@ -10146,6 +10154,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160702T090816Z" creationid="Marco Marega" creationdate="20160702T090816Z">
         <seg>Calcola l'ammontare complessivo del capitale necessario all'estinzione di un debito.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Tasso interesse&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; il tasso interesse periodico.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Numero rate&lt;/f4&gt;&lt;f5&gt; è&lt;/f5&gt; il numero complessivo di rate nel periodo di pagamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculates the difference in weeks between two dates, &lt;f0&gt;start_date&lt;/f0&gt; and &lt;f1&gt;end_date&lt;/f1&gt;.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Type&lt;/f3&gt; is one of two possible values, 0 (interval) or 1 (in numbers of weeks).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T220350Z" creationid="Marco Marega" creationdate="20160817T220244Z">
+        <seg>Calcola la differenza, in settimane, tra due date, &lt;f0&gt;data iniziale&lt;/f0&gt; e &lt;f1&gt;data finale&lt;/f1&gt;.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Tipo&lt;/f3&gt; è uno dei due possibili valori, 0 (intervallo) o 1 (in numeri di settimane).</seg>
       </tuv>
     </tu>
     <tu>
@@ -39854,6 +39870,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T215535Z" creationid="Marco Marega" creationdate="20160817T213805Z">
         <seg>NUM.SETTIMANA_ADD(data; metodo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WEEKS(start_date; end_date; type)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T220138Z" creationid="Marco Marega" creationdate="20160817T220138Z">
+        <seg>SETTIMANE(data iniziale; data finale; tipo)</seg>
       </tuv>
     </tu>
     <tu>
