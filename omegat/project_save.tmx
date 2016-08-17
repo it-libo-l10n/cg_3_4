@@ -10110,6 +10110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calculates the calendar week of the year for a &lt;f0&gt;Date&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T213905Z" creationid="Marco Marega" creationdate="20160817T213905Z">
+        <seg>Calcola il numero della settimana nel calendario dell'anno in cui cade una &lt;f0&gt;Data&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calculates the capital value (net present value) for a list of payments which take place on different dates.&lt;f0&gt; &lt;/f0&gt;The calculation is based on a 365 days per year basis, ignoring leap years.&lt;f1&gt; &lt;/f1&gt;If the payments take place at regular intervals, use the NPV function.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Rate&lt;/f3&gt; is the internal rate of return for the payments.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Values&lt;/f5&gt; and &lt;f6&gt;dates&lt;/f6&gt; are a series of payments and the series of associated date values entered as cell references.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160720T204133Z" creationid="Marco Marega" creationdate="20160720T204133Z">
