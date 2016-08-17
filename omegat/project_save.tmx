@@ -27880,6 +27880,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the day of the week for the given &lt;f0&gt;number&lt;/f0&gt; (date value).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T212334Z" creationid="Marco Marega" creationdate="20160817T212334Z">
+        <seg>Restituisce il giorno della settimana per il &lt;f0&gt;numero&lt;/f0&gt; dato (valore di una data).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the day, as an integer, of the given date value.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T182230Z" creationid="Marco Marega" creationdate="20160817T182230Z">
@@ -33613,6 +33621,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T154546Z" creationid="Elisabetta" creationdate="20160725T154546Z">
         <seg>I dati verranno ripristinati alla condizione precedente, priva di filtro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The day is returned as an integer based on the type.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T212417Z" creationid="Marco Marega" creationdate="20160817T212417Z">
+        <seg>Il giorno viene restituito come numero intero sulla base del tipo.</seg>
       </tuv>
     </tu>
     <tu>
