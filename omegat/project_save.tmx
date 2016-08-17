@@ -4142,6 +4142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;EASTERSUNDAY&lt;/f0&gt;(integer)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T183524Z" creationid="Marco Marega" creationdate="20160817T183524Z">
+        <seg>&lt;f0&gt;DOMENICA.DI.PASQUA&lt;/f0&gt;(numero intero)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;EXPONDIST&lt;/f0&gt;(number; lambda; C)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T101807Z" creationid="Marco Marega" creationdate="20160730T101807Z">
@@ -27604,6 +27612,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T190154Z" creationid="Marco Marega" creationdate="20160807T190045Z">
         <seg>Restituisce la distribuzione log-normale per un dato &lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt;&lt;f2&gt;, (un&lt;/f2&gt; valore di probabilità).&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Valore medio&lt;/f4&gt; è il valore medio della distribuzione logaritmica standard.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;DEV.ST&lt;/f6&gt; è la deviazione standard della distribuzione logaritmica standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the date of Easter Sunday for the entered year.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T183614Z" creationid="Marco Marega" creationdate="20160817T183614Z">
+        <seg>Restituisce la data della Domenica di Pasqua dell'anno inserito.</seg>
       </tuv>
     </tu>
     <tu>
