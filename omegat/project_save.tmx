@@ -5918,6 +5918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;VARA&lt;/f0&gt;(value_1; value_2; ... value_30)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T175829Z" creationid="Marco Marega" creationdate="20160817T175829Z">
+        <seg>&lt;f0&gt;VAR.VALORI&lt;/f0&gt;(valore 1; valore 2; ... valore 30)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;VDB&lt;/f0&gt;(cost; salvage; life; start; end; factor; type)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160719T123110Z" creationid="Marco Marega" creationdate="20160719T123110Z">
@@ -14430,10 +14438,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Estimates a variance based on a sample.&lt;f0&gt; &lt;/f0&gt;The value of text is 0.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Value_1; value_2; ... value_30&lt;/f2&gt; are values or ranges representing a sample derived from an entire population.&lt;f3&gt; &lt;/f3&gt;Text has the value 0.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T180030Z" creationid="Marco Marega" creationdate="20160817T180030Z">
+        <seg>Valuta la varianza sulla base di un campione.&lt;f0&gt; &lt;/f0&gt;Il valore del testo è 0.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Valore 1; valore 2; ... valore 30&lt;/f2&gt; sono valori o intervalli che rappresentano un campione estratto dall'intera popolazione.&lt;f3&gt; &lt;/f3&gt;Text has the value 0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Estimates the standard deviation based on a sample.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number_1; number_2; ... number_30&lt;/f1&gt; are numerical values or ranges representing a sample based on an entire population.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160815T132822Z" creationid="Marco Marega" creationdate="20160815T132822Z">
         <seg>Calcola la deviazione standard in base ad un campione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero 1; numero 2; ... numero 30&lt;/f1&gt; sono valori numerici o intervalli che rappresentano un campione rappresentativo dell'intera popolazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Estimates the variance based on a sample.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number_1; number_2; ... number_30&lt;/f1&gt; are numerical values or ranges representing a sample based on an entire population.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T180041Z" creationid="Marco Marega" creationdate="20160817T175806Z">
+        <seg>Valuta la varianza sulla base di un campione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero 1; numero 2; ... numero 30&lt;/f1&gt; sono valori numerici o intervalli che rappresentano un campione estratto dall'intera popolazione.</seg>
       </tuv>
     </tu>
     <tu>
