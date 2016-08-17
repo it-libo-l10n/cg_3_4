@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>.value_30)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T180417Z" creationid="Marco Marega" creationdate="20160817T180417Z">
+        <seg>.valore 30)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>0</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T144908Z" creationid="steevie" creationdate="20160509T144908Z">
@@ -5934,6 +5942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;VARPA&lt;/f0&gt;(value_1; value_2; ..</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T180411Z" creationid="Marco Marega" creationdate="20160817T180411Z">
+        <seg>&lt;f0&gt;VAR.POP.VALORI&lt;/f0&gt;(valore 1; valore 2; ..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;VDB&lt;/f0&gt;(cost; salvage; life; start; end; factor; type)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160719T123110Z" creationid="Marco Marega" creationdate="20160719T123110Z">
@@ -9760,8 +9776,8 @@
       <tuv lang="EN">
         <seg>Calculates a variance based on the entire population.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number_1; number_2; ... number_30&lt;/f1&gt; are numerical values or ranges representing an entire population.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T180348Z" creationid="Marco Marega" creationdate="20160817T180348Z">
-        <seg>Calcola una varianza basandosi sull'intera popolazione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero 1; numero 2; ... numero 30&lt;/f1&gt; sono valori numerici o intervalli che rappresentano l'intera popolazione.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T180437Z" creationid="Marco Marega" creationdate="20160817T180348Z">
+        <seg>Calcola la varianza basandosi sull'intera popolazione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero 1; numero 2; ... numero 30&lt;/f1&gt; sono valori numerici o intervalli che rappresentano l'intera popolazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10066,6 +10082,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T123200Z" creationid="Marco Marega" creationdate="20160730T123024Z">
         <seg>Calcola il valore della distribuzione di probabilità F.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; è il valore di cui calcolare la distribuzione F.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Gradi libertà 1&lt;/f3&gt; sono i gradi di libertà al numeratore nella distribuzione F.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Gradi libertà 2&lt;/f5&gt; sono i gradi di libertà al denominatore nella distribuzione F.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculates the variance based on the entire population.&lt;f0&gt; &lt;/f0&gt;The value of text is 0.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Value_1; value_2; ... value_30&lt;/f2&gt; are values or ranges representing an entire population.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T180540Z" creationid="Marco Marega" creationdate="20160817T180433Z">
+        <seg>Calcola la varianza basandosi sull'intera popolazione.&lt;f0&gt; &lt;/f0&gt;Il valore del testo è 0.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Valore 1; valore 2; ... valore 30&lt;/f2&gt; sono valori o intervalli che rappresentano l'intera popolazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31889,6 +31913,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text has a value of 0.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T180601Z" creationid="Marco Marega" creationdate="20160817T180556Z">
+        <seg>Il testo ha valore 0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text has the value 0.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160815T133142Z" creationid="Marco Marega" creationdate="20160815T133142Z">
@@ -39166,6 +39198,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T135700Z" creationid="steevie" creationdate="20160427T135700Z">
         <seg>Supporti visivi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WEIBULL(number; alpha; beta; C)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T180559Z" creationid="Marco Marega" creationdate="20160817T180559Z">
+        <seg>WEIBULL(number; alpha; beta; C)</seg>
       </tuv>
     </tu>
     <tu>
