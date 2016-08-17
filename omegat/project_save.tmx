@@ -3998,6 +3998,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;DAYSINMONTH&lt;/f0&gt;(date)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T183121Z" creationid="Marco Marega" creationdate="20160817T183121Z">
+        <seg>&lt;f0&gt;GIORNI.MESE&lt;/f0&gt;(data)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;DAYSINYEAR&lt;/f0&gt;(date)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T183234Z" creationid="Marco Marega" creationdate="20160817T183234Z">
+        <seg>&lt;f0&gt;GIORNI.ANNO&lt;/f0&gt;(data)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;DDB&lt;/f0&gt;(cost; salvage; life; period; factor)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T091425Z" creationid="Marco Marega" creationdate="20160703T091425Z">
@@ -10066,6 +10082,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160708T174105Z" creationid="Marco Marega" creationdate="20160708T174105Z">
         <seg>Calcola il tasso di rendimento interno modificato di una serie di investimenti.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Valori&lt;/f1&gt; corrisponde ad una matrice o al riferimento a delle celle che contengono gli importi dei pagamenti.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Investimento&lt;/f3&gt; è il tasso di interesse pagato sulle somme utilizzate (i valori negativi della matrice)&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Reinvestimenti&lt;/f5&gt; è il tasso di interesse ricevuto sulle somme ricavate (i valori positivi della matrice).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculates the number of days in the month of the given &lt;f0&gt;&lt;f1&gt;date&lt;/f1&gt;&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T183213Z" creationid="Marco Marega" creationdate="20160817T183213Z">
+        <seg>Calcola il numero di giorni nel mese della &lt;f0&gt;&lt;f1&gt;data&lt;/f1&gt;&lt;/f0&gt; inserita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculates the number of days in the year of the given &lt;f0&gt;date&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T183313Z" creationid="Marco Marega" creationdate="20160817T183313Z">
+        <seg>Calcola il numero di giorni nell'anno della &lt;f0&gt;data&lt;/f0&gt; inserita.</seg>
       </tuv>
     </tu>
     <tu>
