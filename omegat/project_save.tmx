@@ -15207,6 +15207,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>FALSE()</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T131857Z" creationid="Marco Marega" creationdate="20160818T131857Z">
+        <seg>FALSO()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>FAQs</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T083736Z">
@@ -19087,6 +19095,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>IF(test; then_value; otherwise_value)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T131940Z" creationid="Marco Marega" creationdate="20160818T131940Z">
+        <seg>SE(test; then_value; otherwise_value)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>INDEX</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T144940Z" creationid="steevie" creationdate="20160620T144940Z">
@@ -19291,6 +19307,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T171001Z" creationid="Elisabetta" creationdate="20160725T171001Z">
         <seg>Se l'intervallo contiene celle non vuote, l'operazione di ordinamento si interrompe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a range is entered as a parameter, the function uses the value from the range that is in the current column or row.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T131747Z" creationid="Marco Marega" creationdate="20160818T131747Z">
+        <seg>Se come parametro viene inserito un intervallo, la funzione utilizzerà i valori dell'intervallo che si trovano nella colonna o nella riga corrente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30849,6 +30873,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set the logical value to FALSE.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T131910Z" creationid="Marco Marega" creationdate="20160818T131910Z">
+        <seg>Imposta il valore logico a FALSO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set the operation to &lt;f0&gt;Multiply&lt;/f0&gt; and click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160524T142737Z" creationid="luciano" creationdate="20160524T142737Z">
@@ -33122,6 +33154,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The FALSE() function does not require any arguments.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T131930Z" creationid="Marco Marega" creationdate="20160818T131930Z">
+        <seg>La funzione FALSO() non richiede parametri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Find &amp; Replace dialog has an option to search within formulas, values, or notes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160729T143332Z" creationid="Elisabetta" creationdate="20160729T143332Z">
@@ -35039,6 +35079,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T154035Z" creationid="Elisabetta" creationdate="20160725T153848Z">
         <seg>I numeri di riga corrispondenti verranno visualizzati insieme a quelli delle righe nascoste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The result is TRUE if the logical value in all cells within the cell range is TRUE</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T131848Z" creationid="Marco Marega" creationdate="20160818T131848Z">
+        <seg>Il risultato è VERO se tutti i valori logici, in tutte le celle dell'intervallo, sono VERI.</seg>
       </tuv>
     </tu>
     <tu>
