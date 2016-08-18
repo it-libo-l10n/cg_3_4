@@ -2198,6 +2198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f3&gt;&lt;f4&gt;Start_date&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;and&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;end_date&lt;/f7&gt; are two date values.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T125805Z" creationid="Marco Marega" creationdate="20160818T125805Z">
+        <seg>&lt;/f3&gt;&lt;f4&gt;Data iniziale&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;e&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;data finale&lt;/f7&gt; sono due valori di data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f3&gt;&lt;f4&gt;The name of the range cannot contain any spaces.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T152732Z">
@@ -6738,6 +6746,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160614T143033Z" creationid="luciano" creationdate="20160614T143033Z">
         <seg>&lt;f7&gt;Macro personali&lt;/f7&gt; contiene le macro che avete scritto o aggiunto a &lt;f8&gt;LibreOffice&lt;/f8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f8&gt;Basis&lt;/f8&gt; is chosen from a list of options and indicates how the year is to be calculated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T125909Z" creationid="Marco Marega" creationdate="20160818T125909Z">
+        <seg>&lt;f8&gt;Base&lt;/f8&gt; viene scelta tra una lista di opzioni ed indica il modo in cui viene calcolato l'anno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27769,6 +27785,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns a number between 0 and 1, representing the fraction of a year between &lt;f0&gt;start_date&lt;/f0&gt; and&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;end_date&lt;/f2&gt;&lt;f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T125738Z" creationid="Marco Marega" creationdate="20160818T125738Z">
+        <seg>Restituisce un numero tra 0 ed 1, che rappresenta la frazione di un anno compresa tra la &lt;f0&gt;data iniziale&lt;/f0&gt; e la&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;data finale&lt;/f2&gt;&lt;f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns a random number between 0 and 1.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T134401Z" creationid="Marco Marega" creationdate="20160626T134401Z">
@@ -41063,6 +41087,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T125357Z" creationid="Marco Marega" creationdate="20160818T125357Z">
         <seg>ANNO(numero)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>YEARS(start_date; end_date; type)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T125933Z" creationid="Marco Marega" creationdate="20160818T125933Z">
+        <seg>ANNI(data iniziale; data finale; tipo)</seg>
       </tuv>
     </tu>
     <tu>
