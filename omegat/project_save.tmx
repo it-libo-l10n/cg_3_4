@@ -4870,6 +4870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Logical_value&lt;/f0&gt; is any value to be reversed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T132546Z" creationid="Marco Marega" creationdate="20160818T132546Z">
+        <seg>&lt;f0&gt;Valore logico&lt;/f0&gt; è un valore qualsiasi da invertire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Logical_value_1; logical_value_2; ...logical_value_30&lt;/f0&gt; are conditions to be checked.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T131548Z" creationid="Marco Marega" creationdate="20160818T131548Z">
@@ -5314,6 +5322,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T160250Z" creationid="Luciano B." creationdate="20160326T160250Z">
         <seg>&lt;f0&gt;Ridimensiona finestra a pagina iniziale:&lt;/f0&gt; Fa sì che il visualizzatore di PDF ridimensioni la finestra adattandola alla prima pagina del file PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Returns&lt;/f0&gt; the value FALSE if all the arguments have the logical value FALSE.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T132743Z" creationid="Marco Marega" creationdate="20160818T132719Z">
+        <seg>&lt;f0&gt;Restituisce&lt;/f0&gt; il valore FALSO se tutti i parametri hanno come valore logico FALSO.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6450,6 +6466,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T155907Z" creationid="michele" creationdate="20160525T155907Z">
         <seg>&lt;f1&gt;Doppio clic&lt;/f1&gt; un nome da applicare allo scenario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;Logical_value_1; logical_value_2; ...logical_value_30&lt;/f1&gt; are conditions to be checked.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T132723Z" creationid="Marco Marega" creationdate="20160818T132723Z">
+        <seg>&lt;f1&gt;Logical_value_1; logical_value_2; ...logical_value_30&lt;/f1&gt; are conditions to be checked.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24289,6 +24313,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>NOT(logical_value)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T132353Z" creationid="Marco Marega" creationdate="20160818T132353Z">
+        <seg>NON(valore logico)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>NOW is a function without arguments.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T190520Z" creationid="Marco Marega" creationdate="20160817T190520Z">
@@ -24797,6 +24829,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T150935Z" creationid="steevie" creationdate="20160620T150935Z">
         <seg>SCARTO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OR(logical_value_1; logical_value_2; ...logical_value_30)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T132619Z" creationid="Marco Marega" creationdate="20160818T132619Z">
+        <seg>O(valore logico 1; valore logico 2; ...valore logico 30)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27857,6 +27897,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns TRUE if at least one argument is TRUE.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T132644Z" creationid="Marco Marega" creationdate="20160818T132644Z">
+        <seg>Restituisce VERSO se almeno un parametro è VERO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns TRUE if the given &lt;f0&gt;value&lt;/f0&gt; is an even integer, or FALSE if the &lt;f1&gt;value&lt;/f1&gt; is odd.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T103937Z" creationid="Marco Marega" creationdate="20160626T103937Z">
@@ -28989,6 +29037,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T125445Z" creationid="Marco Marega" creationdate="20160818T125445Z">
         <seg>Restituisce l'anno come numero secondo le regole interne di calcolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reverses the logical value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T132404Z" creationid="Marco Marega" creationdate="20160818T132404Z">
+        <seg>Inverte il valore logico.</seg>
       </tuv>
     </tu>
     <tu>
