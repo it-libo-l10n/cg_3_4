@@ -6472,8 +6472,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Logical_value_1; logical_value_2; ...logical_value_30&lt;/f1&gt; are conditions to be checked.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T132723Z" creationid="Marco Marega" creationdate="20160818T132723Z">
-        <seg>&lt;f1&gt;Logical_value_1; logical_value_2; ...logical_value_30&lt;/f1&gt; are conditions to be checked.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T132823Z" creationid="Marco Marega" creationdate="20160818T132723Z">
+        <seg>&lt;f1&gt;Valore logico 1; valore logico 2; ...valore logico 30&lt;/f1&gt; sono le condizioni da verificare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31017,6 +31017,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sets the logical value to TRUE.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T132850Z" creationid="Marco Marega" creationdate="20160818T132850Z">
+        <seg>Imposta il valore logico a VERO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sets the maximum number of iteration steps.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145313Z" creationid="steevie" creationdate="20160427T145313Z">
@@ -32554,6 +32562,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TRUE()</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T132831Z" creationid="Marco Marega" creationdate="20160818T132831Z">
+        <seg>VERO()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tab</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T105256Z" creationid="michele" creationdate="20160525T105256Z">
@@ -33534,6 +33550,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160509T080547Z" creationid="briga" creationdate="20160509T080539Z">
         <seg>La finestra di dialogo Stile ha diverse schede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The TRUE() function does not require any arguments.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T132901Z" creationid="Marco Marega" creationdate="20160818T132901Z">
+        <seg>La funzione VERO() non richiede parametri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43783,6 +43807,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T094235Z" creationid="michele" creationdate="20160524T094235Z">
         <seg>informazioni sulla barra di stato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>informational</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T132940Z" creationid="Marco Marega" creationdate="20160818T132940Z">
+        <seg>di informazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>informational functions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T132920Z" creationid="Marco Marega" creationdate="20160818T132920Z">
+        <seg>funzioni di informazione</seg>
       </tuv>
     </tu>
     <tu>
