@@ -6758,6 +6758,15 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;i1/&gt;Formulas are equations using numbers and variables to get a result.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20160818T114525Z" creationid="osvaldo" creationdate="20160818T114525Z">
+        <seg>
+&lt;i1/&gt;Le formule sono equazioni che fanno uso di numeri e variabili per ottenere un risultato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0/&gt;(Angle is returned in radians.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T150142Z" creationid="Marco Marega" creationdate="20160625T150142Z">
@@ -20762,6 +20771,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T135844Z" creationid="steevie" creationdate="20160504T135844Z">
         <seg>In una macro, si può accedere, creare o cancellare un intervallo con nome usando la proprietà NamedRanges di un documento Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In a spreadsheet, the variables are cell locations that hold the data needed for the equation to be completed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20160818T114737Z" creationid="osvaldo" creationdate="20160818T114737Z">
+        <seg>In un foglio di lavoro le variabili sono posizioni di celle che contengono i dati necessari per il completamento dell'equazione.</seg>
       </tuv>
     </tu>
     <tu>
