@@ -27745,6 +27745,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns a date number that can be formatted as a date.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T125125Z" creationid="Marco Marega" creationdate="20160818T125125Z">
+        <seg>Restituisce un numero interno di data che può essere formattato come data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns a random number between 0 and 1.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T134401Z" creationid="Marco Marega" creationdate="20160626T134401Z">
@@ -41027,6 +41035,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>YEAR(number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T125357Z" creationid="Marco Marega" creationdate="20160818T125357Z">
+        <seg>ANNO(numero)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>YIELD(settlement; maturity; rate; price; redemption; frequency; basis)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160720T204234Z" creationid="Marco Marega" creationdate="20160720T204234Z">
@@ -42359,6 +42375,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160428T152045Z" creationid="luciano" creationdate="20160428T152045Z">
         <seg>Avete inviato la vostra proposta di bilancio allo sponsor, e ne avete inviata una copia al vostro assistente allenatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You then see the date of a day that is a certain number of &lt;f0&gt;Workdays&lt;/f0&gt; away from the &lt;f1&gt;start_date&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt; &lt;f3&gt;Holidays&lt;/f3&gt; (optional) is a list of holidays.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T125348Z" creationid="Marco Marega" creationdate="20160818T125348Z">
+        <seg>Otterrete la data di un giorno che dista un determinato numero di &lt;f0&gt;giorni lavorativi&lt;/f0&gt; dalla &lt;f1&gt;data iniziale&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt; &lt;f3&gt;Vacanze&lt;/f3&gt; (facoltativo) è una lista di giorni festivi.</seg>
       </tuv>
     </tu>
     <tu>
