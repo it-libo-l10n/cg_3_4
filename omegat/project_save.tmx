@@ -4870,6 +4870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Logical_value_1; logical_value_2; ...logical_value_30&lt;/f0&gt; are conditions to be checked.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T131548Z" creationid="Marco Marega" creationdate="20160818T131548Z">
+        <seg>&lt;f0&gt;Valore logico 1; valore logico 2; ...valore logico 30&lt;/f0&gt; sono le condizioni da verificare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;MAXA&lt;/f0&gt;(value_1; value_2; ... &lt;s1/&gt;value_30)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T190436Z" creationid="Marco Marega" creationdate="20160807T190436Z">
@@ -7679,6 +7687,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>AND(logical_value_1; logical_value_2; ...logical_value_30)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T131339Z" creationid="Marco Marega" creationdate="20160818T131339Z">
+        <seg>E(valore logico 1; valore logico 2; ...valore logico 30)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ATAN2(number_x; number_y)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T145730Z" creationid="Marco Marega" creationdate="20160625T145730Z">
@@ -8147,6 +8163,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160720T162734Z" creationid="briga" creationdate="20160720T162734Z">
         <seg>Allineamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All conditions can be either TRUE or FALSE.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T131617Z" creationid="Marco Marega" creationdate="20160818T131617Z">
+        <seg>Tutte le condizioni possono essere sia VERE che FALSE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19351,6 +19375,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If any element is FALSE, this function returns the FALSE value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T131517Z" creationid="Marco Marega" creationdate="20160818T131517Z">
+        <seg>Se anche un solo elemento è FALSO, questa funzione restituisce il valore FALSO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If any of the icons (buttons) in &lt;t0&gt;Figure 8&lt;/t0&gt; is not shown, you can display it by clicking the small triangle at the right end of the &lt;f1&gt;Formatting&lt;/f1&gt; toolbar, selecting &lt;f2&gt;Visible Buttons&lt;/f2&gt; in the drop-down menu, and selecting the desired icon (for example, &lt;f3&gt;Apply Style&lt;/f3&gt;) in the drop-down list.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T081004Z" creationid="michele" creationdate="20160524T081004Z">
@@ -27769,6 +27801,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns TRUE if all arguments are TRUE.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T131432Z" creationid="Marco Marega" creationdate="20160818T131432Z">
+        <seg>Restituisce VERO se tutti i parametri sono VERI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns TRUE if the given &lt;f0&gt;value&lt;/f0&gt; is an even integer, or FALSE if the &lt;f1&gt;value&lt;/f1&gt; is odd.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T103937Z" creationid="Marco Marega" creationdate="20160626T103937Z">
@@ -32558,6 +32598,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T155020Z" creationid="michele" creationdate="20160525T155020Z">
         <seg>Tabella &lt;seq0&gt;3&lt;/seq0&gt;: Funzioni delle icone del Navigatore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;40&lt;/seq0&gt;: Logical functions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T131313Z" creationid="Marco Marega" creationdate="20160818T131313Z">
+        <seg>Tabella &lt;seq0&gt;40&lt;/seq0&gt;: Funzioni logiche</seg>
       </tuv>
     </tu>
     <tu>
