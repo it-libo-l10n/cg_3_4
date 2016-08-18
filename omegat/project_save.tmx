@@ -39971,6 +39971,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>WORKDAY(start_date; days; holidays)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T125035Z" creationid="Marco Marega" creationdate="20160818T125035Z">
+        <seg>GIORNO.LAVORATIVO(data iniziale; giorni; vacanze)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We also want to name each of &lt;/f0&gt;&lt;f1&gt;these sheets for the account they represent: Summary, Checking Account, Savings Account, Credit Card 1, Credit Card 2, and Car Loan.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T144936Z" creationid="antonio" creationdate="20160524T144651Z">
