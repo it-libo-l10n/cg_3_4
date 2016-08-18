@@ -5734,6 +5734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Test&lt;/f0&gt; is any value or expression that can be TRUE or FALSE.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T132140Z" creationid="Marco Marega" creationdate="20160818T132140Z">
+        <seg>&lt;f0&gt;Test&lt;/f0&gt; è qualsiasi valore o espressione che può dare come risultato VERO o FALSO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Text&lt;/f0&gt; is a valid date expression and must be entered with quotation marks.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T182133Z" creationid="Marco Marega" creationdate="20160817T182133Z">
@@ -6470,6 +6478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;Then_value&lt;/f1&gt; (optional) is the value that is returned if the logical test is TRUE.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T132230Z" creationid="Marco Marega" creationdate="20160818T132230Z">
+        <seg>&lt;f1&gt;Se vero&lt;/f1&gt; (facoltativo) è il valore che viene restituito se il test logico da come risultato VERO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;Type&lt;/f1&gt; determines the type of calculation: &lt;s2/&gt;type = 1 (default), the weekdays are counted starting from Sunday (Monday = 0; type = 2, the weekdays are counted starting from Monday (Monday = 1); type = 3, the weekdays are counted &lt;f3&gt;starting from&lt;/f3&gt; Monday (Monday = 0).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T212730Z" creationid="Marco Marega" creationdate="20160817T212730Z">
@@ -6546,6 +6562,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T184328Z" creationid="Marco Marega" creationdate="20160817T184328Z">
         <seg>&lt;f2&gt;Mesi&lt;/f2&gt; è il numero di mesi prima (se negativo) o dopo (se positivo) della data iniziale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;Otherwise_value&lt;/f2&gt; (optional) is the value that is returned if the logical test is FALSE.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T132253Z" creationid="Marco Marega" creationdate="20160818T132253Z">
+        <seg>&lt;f2&gt;Se falso&lt;/f2&gt; (facoltativo) è il valore che viene restituito se il test logico da come risultato FALSO.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19097,8 +19121,8 @@
       <tuv lang="EN">
         <seg>IF(test; then_value; otherwise_value)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T131940Z" creationid="Marco Marega" creationdate="20160818T131940Z">
-        <seg>SE(test; then_value; otherwise_value)</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T132021Z" creationid="Marco Marega" creationdate="20160818T131940Z">
+        <seg>SE(test; se vero; se falso)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31837,6 +31861,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T075238Z" creationid="Marco Marega" creationdate="20160625T075238Z">
         <seg>In particolare, le funzioni che fanno riferimento ai seguenti parametri possono creare confusione:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specifies a logical test to be performed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T132050Z" creationid="Marco Marega" creationdate="20160818T132050Z">
+        <seg>Specifica un test logico da eseguire.</seg>
       </tuv>
     </tu>
     <tu>
