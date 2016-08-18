@@ -6574,6 +6574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;Info_type&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; is not case sensitive, but it must be enclosed within quotes.&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Reference&lt;/f6&gt; is the address of the cell to be examined.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T133746Z" creationid="Marco Marega" creationdate="20160818T133746Z">
+        <seg>&lt;f2&gt;Tipo di informazioni&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; non fa distinzione tra maiuscole e minuscole, ma deve essere racchiuso tra virgolette.&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Riferimento&lt;/f6&gt; è l'indirizzo della cella da esaminare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;LibreOffice&lt;/f2&gt; automatically creates a macro named Main and opens the module for editing.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160615T150418Z" creationid="luciano" creationdate="20160615T150418Z">
@@ -19587,6 +19595,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T170001Z">
         <seg>Se è definito solo un singolo intervallo, facendo clic in un qualsiasi punto della casella di testo viene visualizzata l'area di stampa selezionata sullo schermo, delimitato in blu, come mostrato in &lt;t0&gt;Figura 139&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If r&lt;f7&gt;eference&lt;/f7&gt; is a range, the cell reference moves to the top left of the range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T133919Z" creationid="Marco Marega" creationdate="20160818T133919Z">
+        <seg>Se r&lt;f7&gt;iferimento&lt;/f7&gt; è un intervallo, il riferimento viene spostato alla prima cella in alto a sinistra dell'intervallo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If r&lt;f8&gt;eference&lt;/f8&gt; is missing, Calc uses the position of the cell in which this formula is located.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T134023Z" creationid="Marco Marega" creationdate="20160818T134023Z">
+        <seg>Se r&lt;f8&gt;iferimento&lt;/f8&gt; è mancante, Calc utilizza la posizione della cella al cui interno si trova questa formula.</seg>
       </tuv>
     </tu>
     <tu>
