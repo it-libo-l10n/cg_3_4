@@ -7287,6 +7287,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A Calc database is simple a range of cells that comprises a block of related data where each row contains a separate record.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T145954Z" creationid="Marco Marega" creationdate="20160819T145954Z">
+        <seg>Un database di Calc è semplicemente un intervallo di celle che contengono un blocco di dati tra loro correlati, ove ogni riga contiene un record separato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A Calc document contains sheets: &lt;f3&gt;ThisComponent.getSheets()&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160616T092558Z" creationid="luciano" creationdate="20160616T092558Z">
@@ -34386,6 +34394,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The database functions use the following common arguments:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T150111Z" creationid="Marco Marega" creationdate="20160819T150111Z">
+        <seg>Le funzioni di database utilizzano i seguenti parametri comuni:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The day is returned as an integer based on the type.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T212417Z" creationid="Marco Marega" creationdate="20160817T212417Z">
@@ -36143,6 +36159,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T075707Z" creationid="Marco Marega" creationdate="20160625T075707Z">
         <seg>C'è una considerevole differenza tra una &lt;f0&gt;lista di numeri &lt;/f0&gt; (o interi) ed il &lt;f1&gt;numero di parametri&lt;/f1&gt; che una funzione può accettare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There is no connection between a database in &lt;f3&gt;LibreOffice&lt;/f3&gt; and the &lt;f4&gt;Database&lt;/f4&gt; category in &lt;f5&gt;LibreOffice&lt;/f5&gt; Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T150037Z" creationid="Marco Marega" creationdate="20160819T150037Z">
+        <seg>Non c'è alcun collegamento tra un database di &lt;f3&gt;LibreOffice&lt;/f3&gt; e la categoria &lt;f4&gt;Database&lt;/f4&gt; di &lt;f5&gt;LibreOffice&lt;/f5&gt; Calc.</seg>
       </tuv>
     </tu>
     <tu>
