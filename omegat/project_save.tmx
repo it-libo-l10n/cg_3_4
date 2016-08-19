@@ -4086,6 +4086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;DMIN&lt;/f0&gt;(database; database_field; search_criteria)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T202508Z" creationid="Marco Marega" creationdate="20160819T202508Z">
+        <seg>&lt;f0&gt;DB.MIN&lt;/f0&gt;(database; campo database; criteri)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;DOLLARDE&lt;/f0&gt;(fractional _dollar; fraction)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T093347Z" creationid="Marco Marega" creationdate="20160703T093347Z">
@@ -4098,6 +4106,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T095301Z" creationid="Marco Marega" creationdate="20160703T095301Z">
         <seg>&lt;f0&gt;VALUTA.FRAZ&lt;/f0&gt;(Numero; divisore)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;DPRODUCT&lt;/f0&gt;(database; database_field; search_criteria)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T202611Z" creationid="Marco Marega" creationdate="20160819T202611Z">
+        <seg>&lt;f0&gt;DB.PRODOTTO&lt;/f0&gt;(database; campo database; criteri)</seg>
       </tuv>
     </tu>
     <tu>
@@ -28971,8 +28987,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Returns the maximum content of a cell (field) in a database (all records) that matches the specified &lt;f0&gt;search_criteria&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;The search supports regular expressions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T202428Z" creationid="Marco Marega" creationdate="20160819T202428Z">
-        <seg>Restituisce il contenuto più altro di una cella (campo) di un database (tutti i record) che risponde ai &lt;f0&gt;criteri&lt;/f0&gt; di ricerca specificati.&lt;f1&gt; &lt;/f1&gt;La ricerca supporta le espressioni regolari.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T202545Z" creationid="Marco Marega" creationdate="20160819T202428Z">
+        <seg>Restituisce il contenuto massimo di una cella (campo) di un database (tutti i record) che risponde ai &lt;f0&gt;criteri&lt;/f0&gt; di ricerca specificati.&lt;f1&gt; &lt;/f1&gt;La ricerca supporta le espressioni regolari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29005,6 +29021,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T190813Z" creationid="Marco Marega" creationdate="20160807T190813Z">
         <seg>Restituisce la mediana di un insieme di numeri.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1; numero_2; ... numero_30&lt;/f1&gt; sono i valori o gli intervalli che rappresentano un campione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the minimum content of a cell (field) in a database that matches the specified &lt;f0&gt;search_criteria&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;The search supports regular expressions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T202538Z" creationid="Marco Marega" creationdate="20160819T202538Z">
+        <seg>Restituisce il contenuto minimo di una cella (campo) di un database che risponde ai &lt;f0&gt;criteri&lt;/f0&gt; di ricerca specificati.&lt;f1&gt; &lt;/f1&gt;La ricerca supporta le espressioni regolari.</seg>
       </tuv>
     </tu>
     <tu>
