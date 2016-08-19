@@ -10321,8 +10321,8 @@
       <tuv lang="EN">
         <seg>Calculates the current value of a formula at the actual position.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T130349Z" creationid="Marco Marega" creationdate="20160819T130349Z">
-        <seg>Calcola il valore attuale di una formula nella posizione attuale.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T130804Z" creationid="Marco Marega" creationdate="20160819T130349Z">
+        <seg>Calcola il valore attuale di una formula nella posizione corrente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15339,6 +15339,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T124046Z" creationid="Marco Marega" creationdate="20160730T124046Z">
         <seg>PREVISIONE(valore; dati Y; dati X)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>FORMULA(reference)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T130811Z" creationid="Marco Marega" creationdate="20160819T130745Z">
+        <seg>FORMULA(riferimento)</seg>
       </tuv>
     </tu>
     <tu>
