@@ -4638,6 +4638,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;ISNA&lt;/f0&gt;(value)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T134038Z" creationid="Marco Marega" creationdate="20160819T134038Z">
+        <seg>&lt;f0&gt;VAL.NON.DISP&lt;/f0&gt;(valore)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;ISNONTEXT&lt;/f0&gt;(value)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T134226Z" creationid="Marco Marega" creationdate="20160819T134226Z">
+        <seg>&lt;f0&gt;VAL.NON.TESTO&lt;/f0&gt;(valore)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;ISODD&lt;/f0&gt;(value)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T104126Z" creationid="Marco Marega" creationdate="20160626T104126Z">
@@ -28029,6 +28045,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T133311Z" creationid="Marco Marega" creationdate="20160819T133311Z">
         <seg>Restituisce VERO (1) se il &lt;f1&gt;numero&lt;/f1&gt; diviso per 2 dà un numero intero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns TRUE if a cell contains the #N/A (value not available) error value.&lt;f0&gt; &lt;/f0&gt;If an error occurs, the function returns a logical or numerical value.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Value&lt;/f2&gt; is the value or expression to be tested.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T134208Z" creationid="Marco Marega" creationdate="20160819T134208Z">
+        <seg>Restituisce VERSO se una cella contiene il valore di errore #N/D (non disponibile).&lt;f0&gt; &lt;/f0&gt;Se si verifica un errore, la funzione restituisce un valore logico o numerico.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Valore&lt;/f2&gt; è il valore o l'espressione da verificare.</seg>
       </tuv>
     </tu>
     <tu>
