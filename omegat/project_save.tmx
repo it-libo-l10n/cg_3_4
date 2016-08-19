@@ -9759,6 +9759,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>CURRENT()</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T130313Z" creationid="Marco Marega" creationdate="20160819T130313Z">
+        <seg>ATTUALE()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc Error Codes</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T192238Z">
@@ -10307,6 +10315,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160702T090816Z" creationid="Marco Marega" creationdate="20160702T090816Z">
         <seg>Calcola l'ammontare complessivo del capitale necessario all'estinzione di un debito.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Tasso interesse&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; il tasso interesse periodico.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Numero rate&lt;/f4&gt;&lt;f5&gt; è&lt;/f5&gt; il numero complessivo di rate nel periodo di pagamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculates the current value of a formula at the actual position.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T130349Z" creationid="Marco Marega" creationdate="20160819T130349Z">
+        <seg>Calcola il valore attuale di una formula nella posizione attuale.</seg>
       </tuv>
     </tu>
     <tu>
