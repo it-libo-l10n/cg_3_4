@@ -4134,6 +4134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;DSUM&lt;/f0&gt;(database; database_field; search_criteria)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T203757Z" creationid="Marco Marega" creationdate="20160819T203757Z">
+        <seg>&lt;f0&gt;DB.SOMMA&lt;/f0&gt;(database; campo database; criteri)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Data &gt; Define Range&lt;/f0&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T161012Z" creationid="Luciano B." creationdate="20160411T161012Z">
@@ -35775,6 +35783,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T203043Z" creationid="Marco Marega" creationdate="20160819T203043Z">
         <seg>I record vengono trattati come un campione di dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The records from the example are treated as the whole population.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T203733Z" creationid="Marco Marega" creationdate="20160819T203733Z">
+        <seg>I record derivanti dall'esempio vengono trattati come se fossero l'intera popolazione.</seg>
       </tuv>
     </tu>
     <tu>
