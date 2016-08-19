@@ -4630,6 +4630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;ISLOGICAL&lt;/f0&gt;(value)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T133646Z" creationid="Marco Marega" creationdate="20160819T133646Z">
+        <seg>&lt;f0&gt;VAL.LOGICO&lt;/f0&gt;(valore)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;ISODD&lt;/f0&gt;(value)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T104126Z" creationid="Marco Marega" creationdate="20160626T104126Z">
@@ -28045,6 +28053,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T132644Z" creationid="Marco Marega" creationdate="20160818T132644Z">
         <seg>Restituisce VERSO se almeno un parametro è VERO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns TRUE if the cell contains a logical number format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T133737Z" creationid="Marco Marega" creationdate="20160819T133737Z">
+        <seg>Restituisce VERO se la cella contiene un numero in formato logico.</seg>
       </tuv>
     </tu>
     <tu>
