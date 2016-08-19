@@ -4142,6 +4142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;DVAR&lt;/f0&gt;(database; database_field; search_criteria)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T204048Z" creationid="Marco Marega" creationdate="20160819T204048Z">
+        <seg>&lt;f0&gt;DB.VAR&lt;/f0&gt;(database; campo database; criteri)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Data &gt; Define Range&lt;/f0&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T161012Z" creationid="Luciano B." creationdate="20160411T161012Z">
@@ -29501,6 +29509,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T150049Z" creationid="Marco Marega" creationdate="20160626T150049Z">
         <seg>Restituisce la tangente del &lt;f0&gt;numero&lt;/f0&gt; dato (angolo in radianti).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the total of all cells in a database field in all rows (records) that match the specified &lt;f0&gt;search_criteria&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;The search supports regular expressions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T204028Z" creationid="Marco Marega" creationdate="20160819T203946Z">
+        <seg>Restituisce la somma delle celle di tutte le righe di un campo del database che rispondono ai &lt;f0&gt;criteri&lt;/f0&gt; di ricerca specificati.&lt;f1&gt; &lt;/f1&gt;La ricerca supporta le espressioni regolari.</seg>
       </tuv>
     </tu>
     <tu>
