@@ -34707,6 +34707,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The function is used in order to check for both TRUE and FALSE values in certain cells.&lt;f0&gt; &lt;/f0&gt;If an error occurs, the function returns a logical or numerical value.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Value&lt;/f2&gt; is the value to be tested for logical number format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T134012Z" creationid="Marco Marega" creationdate="20160819T134012Z">
+        <seg>La funzione viene utilizzata al fine di controllare se determinate celle contengono uno dei valori VERO o FALSO.&lt;f0&gt; &lt;/f0&gt;Se si verifica un errore, la funzione restituisce un valore logico o numerico.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Valore&lt;/f2&gt; è il valore da verificare se è un numero in formato logico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The function may be turned on by selecting &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; View&lt;/f0&gt; and selecting &lt;f1&gt;Value Highlighting&lt;/f1&gt; in the &lt;f2&gt;Display&lt;/f2&gt; section.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T173410Z" creationid="Elisabetta" creationdate="20160722T173410Z">
