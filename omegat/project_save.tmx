@@ -4014,6 +4014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;DAVERAGE&lt;/f0&gt;(database; database_field; search_criteria)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T200812Z" creationid="Marco Marega" creationdate="20160819T200812Z">
+        <seg>&lt;f0&gt;DB.MEDIA&lt;/f0&gt;(database; campo database; criteri)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;DAYSINMONTH&lt;/f0&gt;(date)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T183121Z" creationid="Marco Marega" creationdate="20160817T183121Z">
