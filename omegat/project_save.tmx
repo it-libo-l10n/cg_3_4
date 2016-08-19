@@ -4078,6 +4078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;DMAX&lt;/f0&gt;(database; database_field; search_criteria)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T202222Z" creationid="Marco Marega" creationdate="20160819T202206Z">
+        <seg>&lt;f0&gt;DB.MAX&lt;/f0&gt;(database; campo database; criteri)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;DOLLARDE&lt;/f0&gt;(fractional _dollar; fraction)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T093347Z" creationid="Marco Marega" creationdate="20160703T093347Z">
@@ -44215,6 +44223,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160720T155247Z" creationid="briga" creationdate="20160720T155247Z">
         <seg>Opzioni tipo di carattere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>for no row found, or Err502 for more than one cell found.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T202157Z" creationid="Marco Marega" creationdate="20160819T202157Z">
+        <seg>se non trova alcuna riga, oppure Err502 se trova più di una cella.</seg>
       </tuv>
     </tu>
     <tu>
