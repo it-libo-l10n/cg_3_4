@@ -4046,6 +4046,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;DCOUNTA&lt;/f0&gt;(database; database_field; search_criteria)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T201532Z" creationid="Marco Marega" creationdate="20160819T201532Z">
+        <seg>&lt;f0&gt;DB.CONTA.VALORI&lt;/f0&gt;(database; campo database; criteri)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;DDB&lt;/f0&gt;(cost; salvage; life; period; factor)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T091425Z" creationid="Marco Marega" creationdate="20160703T091425Z">
@@ -4058,6 +4066,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T100905Z" creationid="Marco Marega" creationdate="20160730T100905Z">
         <seg>&lt;f0&gt;DEV.Q&lt;/f0&gt;(numero 1; numero 2; ... numero 30)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;DGET&lt;/f0&gt;(database; database_field; search_criteria)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T201656Z" creationid="Marco Marega" creationdate="20160819T201656Z">
+        <seg>&lt;f0&gt;DB.VALORI&lt;/f0&gt;(database; campo database; criteri)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13179,6 +13195,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T093709Z" creationid="Marco Marega" creationdate="20160730T093709Z">
         <seg>Conta quanti valori sono presenti nella lista dei parametri.&lt;f0&gt; &lt;/f0&gt;Vengono conteggiati anche i valori di testo, anche se contengono una stringa vuota di lunghezza 0.&lt;f1&gt; &lt;/f1&gt;Se un parametro è una matrice o un riferimento, le celle vuote all'interno della matrice o del riferimento vengono ignorate.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Valore 1; valore 2; ...&lt;/f3&gt;&lt;f4&gt; valore 30&lt;/f4&gt; sono un massimo di 30 parametri contenenti i valori da contare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Counts the number of rows (records) in a database that match the specified &lt;f0&gt;search_criteria&lt;/f0&gt; and contain numeric or alphanumeric values.&lt;f1&gt; &lt;/f1&gt;The search supports regular expressions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T201626Z" creationid="Marco Marega" creationdate="20160819T201626Z">
+        <seg>Conta il numero di righe (record) di un database che rispondono ai &lt;f0&gt;criteri&lt;/f0&gt; di ricerca specificati e che contengono  valori numerici o alfanumerici.&lt;f1&gt; &lt;/f1&gt;La ricerca supporta le espressioni regolari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Counts the number of rows (records) in a database that match the specified &lt;f0&gt;search_criteria&lt;/f0&gt; and contain numerical values.&lt;f1&gt; &lt;/f1&gt;The search supports regular expressions.&lt;f2&gt; &lt;/f2&gt;For the &lt;f3&gt;database_field&lt;/f3&gt; parameter, enter a cell address to specify the column, or enter the number 0 for the entire database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T201445Z" creationid="Marco Marega" creationdate="20160819T201445Z">
+        <seg>Conta il numero di righe (record) di un database che rispondono ai &lt;f0&gt;criteri&lt;/f0&gt; di ricerca specificati e che contengono  valori numerici.&lt;f1&gt; &lt;/f1&gt;La ricerca supporta le espressioni regolari.&lt;f2&gt; &lt;/f2&gt;Nel parametro &lt;f3&gt;campo  database&lt;/f3&gt; va inserito l'indirizzo di una cella per specificare la colonna, oppure il numero 0 per l'intero database.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35479,6 +35511,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160215T071738Z">
         <seg>Le dimensioni della pagina, l'orientamento, ed altri attributi dello stile di pagina si applicano solo quando il foglio di lavoro viene stampato; non sono visualizzati sullo schermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The parameter cannot be empty.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T201501Z" creationid="Marco Marega" creationdate="20160819T201501Z">
+        <seg>Il parametro non può essere vuoto.</seg>
       </tuv>
     </tu>
     <tu>
