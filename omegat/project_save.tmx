@@ -4126,6 +4126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;DSTDEVP&lt;/f0&gt;(database; database_field; search_criteria)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T203322Z" creationid="Marco Marega" creationdate="20160819T203322Z">
+        <seg>&lt;f0&gt;DB.DEV.ST.POP&lt;/f0&gt;(database; campo database; criteri)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Data &gt; Define Range&lt;/f0&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T161012Z" creationid="Luciano B." creationdate="20160411T161012Z">
@@ -10739,6 +10747,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T203015Z" creationid="Marco Marega" creationdate="20160819T203015Z">
         <seg>Calcola la deviazione standard di una popolazione in base ad un campione, utilizza i numeri in una colonna del database che rispondono ai &lt;f0&gt;criteri&lt;/f0&gt; di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculates the standard deviation of a population based on all cells of a data range which match the &lt;f0&gt;search_criteria&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T203509Z" creationid="Marco Marega" creationdate="20160819T203509Z">
+        <seg>Calcola la deviazione standard di una popolazione in base a tutte le celle di un intervallo di dati che rispondono ai &lt;f0&gt;criteri&lt;/f0&gt; di ricerca.</seg>
       </tuv>
     </tu>
     <tu>
