@@ -5590,6 +5590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Search_criteria&lt;/f0&gt; is a cell range containing the search criteria..</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T150737Z" creationid="Marco Marega" creationdate="20160819T150737Z">
+        <seg>&lt;f0&gt;Criteri&lt;/f0&gt; è un intervallo di celle che contengono i criteri di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Insert&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt; &gt; &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Sheet&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; from the menu bar.&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T142825Z" creationid="antonio" creationdate="20160524T142825Z">
@@ -22592,6 +22600,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is not related to the search criteria itself.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T150459Z" creationid="Marco Marega" creationdate="20160819T150459Z">
+        <seg>Non è connesso ai criteri di ricerca stessi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is often useful to save new versions of a document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T135300Z" creationid="luciano" creationdate="20160429T135300Z">
@@ -35347,6 +35363,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The number 0 specifies the whole data range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T150523Z" creationid="Marco Marega" creationdate="20160819T150523Z">
+        <seg>Il numero 0 indica l'intero intervallo di dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The number of levels is dependent on the number of groupings in the subtotals.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160530T155709Z" creationid="michele" creationdate="20160530T155709Z">
@@ -38471,6 +38495,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T090025Z" creationid="michele" creationdate="20160525T090025Z">
         <seg>Per proteggere il file in lettura, digita la password nei due campi nella parte superiore della finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To reference a column by using the column header name, place quotation marks around the header name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T150647Z" creationid="Marco Marega" creationdate="20160819T150647Z">
+        <seg>Per riferirsi ad un colonna utilizzando il nome della sua intestazione, inserite tra virgolette il nome dell'intestazione.</seg>
       </tuv>
     </tu>
     <tu>
