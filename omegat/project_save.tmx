@@ -24465,10 +24465,26 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>N(value)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T135608Z" creationid="Marco Marega" creationdate="20160819T135608Z">
+        <seg>NUM(valore)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>N/A</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T194249Z" creationid="Elisabetta" creationdate="20160815T194249Z">
         <seg>N/A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>NA()</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T135813Z" creationid="Marco Marega" creationdate="20160819T135813Z">
+        <seg>NON.DISP()</seg>
       </tuv>
     </tu>
     <tu>
@@ -28521,6 +28537,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the error value #N/A.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T135826Z" creationid="Marco Marega" creationdate="20160819T135826Z">
+        <seg>Restituisce il valore di errore #N/D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the exponential distribution.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number&lt;/f1&gt; is the value of the function.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Lambda&lt;/f3&gt; is the parameter value.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;C&lt;/f5&gt; is a logical value that determines the form of the function.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;C&lt;/f7&gt;&lt;f8&gt; = 0&lt;/f8&gt; calculates the density function, and &lt;f9&gt;C&lt;/f9&gt; = 1 calculates the distribution.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T102223Z" creationid="Marco Marega" creationdate="20160730T102223Z">
@@ -28925,6 +28949,22 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T192943Z" creationid="Marco Marega" creationdate="20160807T192943Z">
         <seg>Restituisce la distribuzione normale di un dato&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; nella distribuzione.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Valore medio&lt;/f3&gt; è il valore medio della distribuzione.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;DEV.ST&lt;/f5&gt; è la deviazione standard della distribuzione.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;C&lt;/f7&gt; = 0 calcola la densità, e &lt;f8&gt;C&lt;/f8&gt; = 1 calcola la distribuzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the number 0 for other parameters.&lt;f1&gt; &lt;/f1&gt;If an error occurs, the function returns a logical or numerical value.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Value&lt;/f3&gt; is the parameter to be converted into a number.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T135757Z" creationid="Marco Marega" creationdate="20160819T135757Z">
+        <seg>Restituisce il numero 0 per altri parametri.&lt;f1&gt; &lt;/f1&gt;Se si verifica un errore, la funzione restituisce un valore logico o numerico.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Valore&lt;/f3&gt; è il parametro da convertire in numero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the number 1, if the parameter is TRUE.&lt;f0&gt; &lt;/f0&gt;Returns the parameter, if the parameter is a number.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T135700Z" creationid="Marco Marega" creationdate="20160819T135700Z">
+        <seg>Restituisce il numero 1, se il parametro è VERO.&lt;f0&gt; &lt;/f0&gt;Restituisce il parametro, se questo è un numero.</seg>
       </tuv>
     </tu>
     <tu>
