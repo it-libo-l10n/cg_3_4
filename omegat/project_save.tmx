@@ -4102,6 +4102,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Database&lt;/f0&gt; is a range of cells which define the database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T150130Z" creationid="Marco Marega" creationdate="20160819T150130Z">
+        <seg>&lt;f0&gt;Database&lt;/f0&gt; è un intervallo di celle che definisce il database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Database_field&lt;/f0&gt; specifies the column which the function operates on after the search criteria of the first parameter is applied and the data rows are selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T150423Z" creationid="Marco Marega" creationdate="20160819T150423Z">
+        <seg>&lt;f0&gt;Campo database&lt;/f0&gt; specifica la colonna sulla quale la funzione viene eseguita, dopo che sono stati applicati i criteri di ricerca del primo parametro e le righe di dati sono state selezionate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Date_1&lt;/f0&gt; is the start (earlier) date.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T185242Z" creationid="Marco Marega" creationdate="20160817T185242Z">
