@@ -28091,8 +28091,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Returns TRUE if a cell contains the #N/A (value not available) error value.&lt;f0&gt; &lt;/f0&gt;If an error occurs, the function returns a logical or numerical value.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Value&lt;/f2&gt; is the value or expression to be tested.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T134208Z" creationid="Marco Marega" creationdate="20160819T134208Z">
-        <seg>Restituisce VERSO se una cella contiene il valore di errore #N/D (non disponibile).&lt;f0&gt; &lt;/f0&gt;Se si verifica un errore, la funzione restituisce un valore logico o numerico.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Valore&lt;/f2&gt; è il valore o l'espressione da verificare.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T135508Z" creationid="Marco Marega" creationdate="20160819T134208Z">
+        <seg>Restituisce VERO se una cella contiene il valore di errore #N/D (non disponibile).&lt;f0&gt; &lt;/f0&gt;Se si verifica un errore, la funzione restituisce un valore logico o numerico.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Valore&lt;/f2&gt; è il valore o l'espressione da verificare.</seg>
       </tuv>
     </tu>
     <tu>
