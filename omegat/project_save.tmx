@@ -28065,6 +28065,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns TRUE (1) if the number does not return a whole number when divided by 2.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number&lt;/f1&gt; is the number to be tested.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T134921Z" creationid="Marco Marega" creationdate="20160819T134921Z">
+        <seg>Restituisce VERO (1) se il numero diviso per 2 non dà un numero intero.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; è il numero da verificare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns TRUE if a cell contains the #N/A (value not available) error value.&lt;f0&gt; &lt;/f0&gt;If an error occurs, the function returns a logical or numerical value.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Value&lt;/f2&gt; is the value or expression to be tested.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T134208Z" creationid="Marco Marega" creationdate="20160819T134208Z">
