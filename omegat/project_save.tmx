@@ -4614,6 +4614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;ISFORMULA&lt;/f0&gt;(reference)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T133348Z" creationid="Marco Marega" creationdate="20160819T133348Z">
+        <seg>&lt;f0&gt;VAL.FORMULA&lt;/f0&gt;(riferimento)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;ISLEAPYEAR&lt;/f0&gt;(date)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T184618Z" creationid="Marco Marega" creationdate="20160817T184618Z">
@@ -28005,6 +28013,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T101649Z" creationid="Marco Marega" creationdate="20160626T101649Z">
         <seg>Restituisce &lt;f0&gt;e&lt;/f0&gt; elevato alla potenza specificata dal &lt;f1&gt;numero&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns TRUE (1) if the &lt;f1&gt;number&lt;/f1&gt; returns a whole number when divided by 2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T133311Z" creationid="Marco Marega" creationdate="20160819T133311Z">
+        <seg>Restituisce VERO (1) se il &lt;f1&gt;numero&lt;/f1&gt; diviso per 2 dà un numero intero.</seg>
       </tuv>
     </tu>
     <tu>
