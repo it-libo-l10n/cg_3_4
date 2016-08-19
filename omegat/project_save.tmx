@@ -28001,6 +28001,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns TRUE if the reference to a cell is blank.&lt;f0&gt; &lt;/f0&gt;This function is used to determine if the content of a cell is empty.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T131624Z" creationid="Marco Marega" creationdate="20160819T131624Z">
+        <seg>Restituisce VERO se il riferimento ad una cella è vuoto.&lt;f0&gt; &lt;/f0&gt;Questa funzione viene usata per stabilire se il contenuto di una cella è vuoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns a date number that can be formatted as a date.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T125125Z" creationid="Marco Marega" creationdate="20160818T125125Z">
