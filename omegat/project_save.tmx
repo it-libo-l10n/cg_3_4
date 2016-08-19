@@ -4118,6 +4118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;DSTDEV&lt;/f0&gt;(database; database_field; search_criteria)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T202819Z" creationid="Marco Marega" creationdate="20160819T202819Z">
+        <seg>&lt;f0&gt;DB.DEV.ST&lt;/f0&gt;(database; campo database; criteri)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Data &gt; Define Range&lt;/f0&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T161012Z" creationid="Luciano B." creationdate="20160411T161012Z">
@@ -10723,6 +10731,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160815T133608Z" creationid="Marco Marega" creationdate="20160815T133608Z">
         <seg>Calcola la deviazione standard basandosi sull'intera popolazione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Valore 1; valore 2; ... valore 30&lt;/f1&gt; sono valori o intervalli che rappresentano un campione rappresentativo dell'intera popolazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculates the standard deviation of a population based on a sample, using the numbers in a database column that match the &lt;f0&gt;search_criteria&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T203015Z" creationid="Marco Marega" creationdate="20160819T203015Z">
+        <seg>Calcola la deviazione standard di una popolazione in base ad un campione, utilizza i numeri in una colonna del database che rispondono ai &lt;f0&gt;criteri&lt;/f0&gt; di ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24573,6 +24589,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T135050Z" creationid="antonio" creationdate="20160524T131256Z">
         <seg>I fogli multipli aiutano a mantenere le informazioni organizzate; una volta che collegate assieme questi fogli, liberate tutta la potenza di Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Multiplies all cells of a data range where the cell contents match the &lt;f0&gt;search_criteria&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;The search supports regular expressions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T202756Z" creationid="Marco Marega" creationdate="20160819T202756Z">
+        <seg>Moltiplica tutte le celle di un intervallo di dati in cui i contenuti delle celle rispondono ai &lt;f0&gt;criteri&lt;/f0&gt; di ricerca.&lt;f1&gt; &lt;/f1&gt;La ricerca supporta le espressioni regolari.</seg>
       </tuv>
     </tu>
     <tu>
