@@ -19279,6 +19279,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ISEVEN_ADD(number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T132958Z" creationid="Marco Marega" creationdate="20160819T132958Z">
+        <seg>VAL.PARI_ADD(numero)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Iain Roberts</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084435Z">
@@ -32958,6 +32966,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160615T155537Z" creationid="luciano" creationdate="20160615T155537Z">
         <seg>TestMax accetta due argomenti e restituisce il maggiore dei due.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tests for even &lt;f0&gt;numbers&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T133031Z" creationid="Marco Marega" creationdate="20160819T133031Z">
+        <seg>Verifica i &lt;f0&gt;numeri&lt;/f0&gt; pari.</seg>
       </tuv>
     </tu>
     <tu>
