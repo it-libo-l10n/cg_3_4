@@ -4590,6 +4590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;ISERR&lt;/f0&gt;(value)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T131901Z" creationid="Marco Marega" creationdate="20160819T131751Z">
+        <seg>&lt;f0&gt;VAL.ERR&lt;/f0&gt;(valore)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;ISEVEN&lt;/f0&gt;(value)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T103842Z" creationid="Marco Marega" creationdate="20160626T103842Z">
@@ -7267,6 +7275,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160616T092914Z" creationid="luciano" creationdate="20160616T092914Z">
         <seg>Un oggetto cella supporta i metodi &lt;f0&gt;getValue()&lt;/f0&gt;, &lt;f1&gt;getString()&lt;/f1&gt;, e &lt;f2&gt;getFormula()&lt;/f2&gt; per ottenere il valore numerico, il valore di stringa, o la formula utilizzata in una cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A cell with a formula inside is not empty.&lt;f1&gt; &lt;/f1&gt;If an error occurs, the function returns a logical or numerical value.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Value&lt;/f3&gt; is the content to be tested.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T131830Z" creationid="Marco Marega" creationdate="20160819T131737Z">
+        <seg>Una cella che contiene una formula non è vuota.&lt;f1&gt; &lt;/f1&gt;Se si verifica un errore, la funzione restituisce un valore logico o numerico.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Valore&lt;/f3&gt; è il contenuto da esaminare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28005,6 +28021,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T131624Z" creationid="Marco Marega" creationdate="20160819T131624Z">
         <seg>Restituisce VERO se il riferimento ad una cella è vuoto.&lt;f0&gt; &lt;/f0&gt;Questa funzione viene usata per stabilire se il contenuto di una cella è vuoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns TRUE if the value refers to any error value except #N/A.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T131959Z" creationid="Marco Marega" creationdate="20160819T131959Z">
+        <seg>Restituisce VERO se il valore si riferisce ad un qualsiasi errore, eccetto a #N/D.</seg>
       </tuv>
     </tu>
     <tu>
