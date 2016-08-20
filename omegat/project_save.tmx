@@ -4974,6 +4974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;LINEST&lt;/f0&gt;(data_Y; data_X; linear_type; stats)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T131733Z" creationid="Marco Marega" creationdate="20160820T131733Z">
+        <seg>&lt;f0&gt;REG.LIN&lt;/f0&gt;(dati Y; dati X; tipo retta; parametri)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;LN&lt;/f0&gt;(number)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T130919Z" creationid="Marco Marega" creationdate="20160626T130919Z">
