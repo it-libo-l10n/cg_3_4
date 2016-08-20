@@ -5158,6 +5158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;MMULT&lt;/f0&gt;(array; array)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T133541Z" creationid="Marco Marega" creationdate="20160820T133541Z">
+        <seg>&lt;f0&gt;MATR.PRODOTTO&lt;/f0&gt;(matrice; matrice)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;MROUND&lt;/f0&gt;(number; multiple)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T131723Z" creationid="Marco Marega" creationdate="20160626T131723Z">
@@ -10619,6 +10627,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160720T205628Z" creationid="Marco Marega" creationdate="20160720T205628Z">
         <seg>Calcola il rendimento annuo di un titolo, i cui interessi vengono pagati alla data di scadenza.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Liquidazione&lt;/f1&gt; è la data di acquisto del titolo.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Scadenza&lt;/f3&gt; è la data di scadenza del titolo.&lt;f4&gt; &lt;/f4&gt;Emissione è la data di emissione del titolo.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Tasso interesse&lt;/f6&gt; è il tasso di interesse del titolo alla data di emissione.&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;Prezzo&lt;/f8&gt; è il prezzo (di acquisto) di un valore nominale di 100 unità di valore monetarie del titolo.&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Base&lt;/f10&gt; indica il modo in cui viene calcolato l'anno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculates the array product of two arrays.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T133615Z" creationid="Marco Marega" creationdate="20160820T133615Z">
+        <seg>Calcola il prodotto di due matrici.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36015,6 +36031,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T150523Z" creationid="Marco Marega" creationdate="20160819T150523Z">
         <seg>Il numero 0 indica l'intero intervallo di dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The number of columns for array 1 must match the number of rows for array 2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T133702Z" creationid="Marco Marega" creationdate="20160820T133702Z">
+        <seg>Il numero di colonne della matrice 1 deve coincidere con il numero di righe della matrice 2.</seg>
       </tuv>
     </tu>
     <tu>
