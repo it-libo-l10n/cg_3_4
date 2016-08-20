@@ -26513,6 +26513,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Optionally, whether the address is interpreted as an absolute address (for example, $A$1) or as a relative address (as A1) or in a mixed form (A$1 or $A1) can be determined.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T164239Z" creationid="Marco Marega" creationdate="20160820T164239Z">
+        <seg>Facoltativamente, è possibile determinare se l'indirizzo è interpretato come assoluto (ad esempio, $A$1) o come relativo (come A1) oppure in una forma mista (A$1 o $A1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Options are described in the Help; many will be familiar to users of other office suites.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T161531Z" creationid="steevie" creationdate="20160428T161531Z">
