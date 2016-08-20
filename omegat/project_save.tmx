@@ -5118,6 +5118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;MDETERM&lt;/f0&gt;(array)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T132917Z" creationid="Marco Marega" creationdate="20160820T132917Z">
+        <seg>&lt;f0&gt;MATR.DETERM&lt;/f0&gt;(matrice)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;MDURATION&lt;/f0&gt;(settlement; maturity; coupon; yield; frequency; basis)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160708T165356Z" creationid="Marco Marega" creationdate="20160708T165356Z">
@@ -28853,6 +28861,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160716T124651Z" creationid="Marco Marega" creationdate="20160716T124651Z">
         <seg>Restituisce l'ammortamento degressivo aritmetico.&lt;f0&gt; &lt;/f0&gt;Utilizzate questa funzione per calcolare l'importo di una rata dell'ammortamento tra quelle dell'intero arco di tempo dell'ammortamento di un oggetto.&lt;f1&gt; &lt;/f1&gt;L'ammortamento degressivo aritmetico riduce l'importo dell'ammortamento di una somma fissa di periodo in periodo.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Costo&lt;/f3&gt; è il costo iniziale del bene.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Valore residuo&lt;/f5&gt; è il valore del bene alla fine dell'ammortamento.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Vita utile&lt;/f7&gt; è il periodo che fissa l'arco di tempo in cui viene ammortizzato il bene.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Periodi&lt;/f9&gt; indica il periodo per il quale viene calcolato l'ammortamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the array determinant of an array.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T132956Z" creationid="Marco Marega" creationdate="20160820T132956Z">
+        <seg>Restituisce il determinante di una matrice.</seg>
       </tuv>
     </tu>
     <tu>
