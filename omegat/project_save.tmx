@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8687,6 +8687,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although the Sheet tab includes an option that sets the first page option, most of its settings involve exactly how your spreadsheet will print.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160820T052444Z" creationid="briga" creationdate="20160820T052444Z">
+        <seg>Sebbene la scheda Foglio include un'opzione per impostare la prima pagina, la maggior parte dei suoi valori riguarda esattamente come il foglio di lavoro verrà stampato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Although the choice to associate a row with a record rather than a column is arbitrary, it is almost universal.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T152137Z" creationid="steevie" creationdate="20160503T152137Z">
@@ -9843,6 +9851,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T134952Z" creationid="michele" creationdate="20160525T134952Z">
         <seg>Per impostazione predefinita, il campo mostra il documento corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By far the most important settings for Calc page styles are on the Sheet tab.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160820T052316Z" creationid="briga" creationdate="20160820T052316Z">
+        <seg>Le impostazioni di gran lunga più importanti per gli stili di pagina si trovano nella scheda Foglio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13443,6 +13459,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T133819Z" creationid="michele" creationdate="20160525T133819Z">
         <seg>creare un nuovo foglio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating a new style from a selection</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160820T052536Z" creationid="briga" creationdate="20160820T052536Z">
+        <seg>Creazione di un nuovo stile da una selezione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating a new style using the Style dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160820T052534Z" creationid="briga" creationdate="20160820T052534Z">
+        <seg>Creazione di un nuovo stile tramite la finestra di dialogo Stile</seg>
       </tuv>
     </tu>
     <tu>
@@ -24849,6 +24881,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>New styles apply only to this document; they are not saved in the template.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160820T052542Z" creationid="briga" creationdate="20160820T052542Z">
+        <seg>Il nuovo stile viene applicato soltanto al documento attuale e non viene salvato nel modello di documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>New uniforms can wait; only buy 10 to replace damaged ones.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160423T122808Z" creationid="luciano" creationdate="20160423T122808Z">
@@ -30525,6 +30565,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T153906Z" creationid="michele" creationdate="20160524T153906Z">
         <seg>Vedi Capitolo 6, Stampare, Esportare, e inviare per E-mail, per ulteriori informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See Chapter 6.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160820T052451Z" creationid="briga" creationdate="20160820T052451Z">
+        <seg>Vedere il Capitolo 6).</seg>
       </tuv>
     </tu>
     <tu>
@@ -42699,6 +42747,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can do this in two ways:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160820T052524Z" creationid="briga" creationdate="20160820T052524Z">
+        <seg>Potete farlo in due in due modi diversi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can dock the Navigator to either side of the main Calc window or leave it floating.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T154712Z" creationid="michele" creationdate="20160525T154712Z">
@@ -43311,6 +43367,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T152817Z" creationid="michele" creationdate="20160524T152817Z">
         <seg>Potreste vedere una finestra con la notifica mostrata sotto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may want to add some new styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160820T052502Z" creationid="briga" creationdate="20160820T052502Z">
+        <seg>È possibile aggiungere nuovi stili a quelli esistenti.</seg>
       </tuv>
     </tu>
     <tu>
