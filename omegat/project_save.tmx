@@ -5174,6 +5174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;MUNIT&lt;/f0&gt;(dimensions)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T134040Z" creationid="Marco Marega" creationdate="20160820T134040Z">
+        <seg>&lt;f0&gt;MATR.UNIT&lt;/f0&gt;(dimensioni)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Martin J Fox&lt;/f0&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090305Z">
@@ -29933,6 +29941,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T140020Z" creationid="Marco Marega" creationdate="20160819T140020Z">
         <seg>Restituisce il tipo del valore.&lt;f0&gt; &lt;/f0&gt;Se si verifica un errore, la funzione restituisce un valore logico o numerico.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Valore&lt;/f2&gt; è uno specifico valore del quale viene determinato il tipo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the unitary square array of a certain size.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T134210Z" creationid="Marco Marega" creationdate="20160820T134210Z">
+        <seg>Restituisce la matrice quadrata unitaria di una determinata dimensione.</seg>
       </tuv>
     </tu>
     <tu>
