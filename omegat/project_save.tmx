@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Cell styles only) If you want your new style to be linked with an existing style, first select that style and then right-click and choose &lt;f0&gt;New&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160820T052804Z" creationid="briga" creationdate="20160820T052804Z">
+        <seg>(Solo per gli stili di cella) Se desiderate collegare il nuovo stile a uno esistente, selezionate quest'ultimo e quindi fate clic con il pulsante destro del mouse e scegliete la voce &lt;f0&gt;Nuovo&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Exception: see Tip below.)&lt;f1&gt; &lt;/f1&gt;To preserve the leading zero, for example for telephone area codes, type an apostrophe before the number, like this: &lt;f2&gt;'01481&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T161628Z" creationid="Elisabetta" creationdate="20160627T161628Z">
@@ -38051,6 +38059,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To create a new style using the &lt;is0/&gt;Style dialog&lt;ie1/&gt;, right-click in the Styles and Formatting window and choose &lt;f2&gt;New&lt;/f2&gt; from the &lt;f3&gt;context&lt;/f3&gt; menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160820T052731Z" creationid="briga" creationdate="20160820T052731Z">
+        <seg>Per creare un nuovo stile utilizzando la &lt;is0/&gt;finestra di dialogo Stile&lt;ie1/&gt;, fate clic con il pulsante destro del mouse all'interno della finestra Stili e Formattazione e quindi selezionate &lt;f2&gt;Nuovo&lt;/f2&gt; dal &lt;f3&gt;menu a comparsa&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To create a new toolbar:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165239Z" creationid="steevie" creationdate="20160428T165239Z">
@@ -38951,6 +38967,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172434Z" creationid="steevie" creationdate="20160428T172434Z">
         <seg>Per salvare le combinazioni di tasti in un file:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To save new styles in a template, see “&lt;bf0&gt;Copying and moving styles&lt;/bf0&gt;“ on page &lt;bf1&gt;114&lt;/bf1&gt; and “&lt;bf2&gt;Creating a template&lt;/bf2&gt;” on page &lt;bf3&gt;117&lt;/bf3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160820T052657Z" creationid="briga" creationdate="20160820T052657Z">
+        <seg>Per salvare i nuovi stili in un modello di documento, fate riferimento a “&lt;bf0&gt;Copiare e muovere stili&lt;/bf0&gt;“ a pagina &lt;bf1&gt;114&lt;/bf1&gt; e “&lt;bf2&gt;Creare un modello di documento&lt;/bf2&gt;” a pagina &lt;bf3&gt;117&lt;/bf3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44011,6 +44035,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>create using Style dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160820T052704Z" creationid="briga" creationdate="20160820T052704Z">
+        <seg>creazione tramite la finestra di dialogo Stile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>creating</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163502Z" creationid="steevie" creationdate="20160428T163502Z">
@@ -44799,6 +44831,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160616T192146Z" creationid="briga" creationdate="20160616T192146Z">
         <seg>basato su</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>linking</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160820T052812Z" creationid="briga" creationdate="20160820T052812Z">
+        <seg>collegare</seg>
       </tuv>
     </tu>
     <tu>
