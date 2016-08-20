@@ -37451,6 +37451,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This function returns a value in the current cell; it is not necessary to define a range for the results.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Array&lt;/f1&gt; is a square array in which the determinants are defined.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T133248Z" creationid="Marco Marega" creationdate="20160820T133248Z">
+        <seg>Questa funzione restituisce un valore nella cella attiva; non è necessario definire un intervallo per i risultati.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Matrice&lt;/f1&gt; è una matrice quadrata nella quale sono definiti i determinanti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This has a &lt;/f1&gt;structure similar to the Standard Filter.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T162920Z" creationid="Elisabetta" creationdate="20160725T162920Z">
