@@ -20431,6 +20431,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you &lt;i0/&gt;link styles, then when you change the base style (for example, by changing the font from &lt;f1&gt;Times&lt;/f1&gt; to &lt;f2&gt;Helvetica&lt;/f2&gt;), all the linked styles will change as well.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160820T053153Z" creationid="briga" creationdate="20160820T053153Z">
+        <seg>Se &lt;i0/&gt;due stili sono collegati tra loro e si modifica lo stile di base (cambiando, ad esempio, il tipo di carattere da &lt;f1&gt;Times&lt;/f1&gt; a &lt;f2&gt;Helvetica&lt;/f2&gt;), verranno modificati anche tutti gli stili associati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you accidentally move a sheet, you can fix it by moving or copying the sheet back to the original location.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T135209Z" creationid="michele" creationdate="20160525T135209Z">
@@ -34834,6 +34842,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The dialogs and choices are the same for defining new styles and for modifying existing styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160820T053212Z" creationid="briga" creationdate="20160820T053212Z">
+        <seg>Le finestre di dialogo e le opzioni disponibili sono le medesime utilizzate per definire i nuovi stili e modificare quelli esistenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The difference in results between having &lt;f0&gt;Asian layout mode&lt;/f0&gt; on or off is shown in &lt;t1&gt;Figure 58&lt;/t1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T161807Z" creationid="Elisabetta" creationdate="20160722T161807Z">
@@ -44031,6 +44047,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T134000Z" creationid="michele" creationdate="20160525T134000Z">
         <seg>Copia foglio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>create from selection</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160820T053215Z" creationid="briga" creationdate="20160820T053215Z">
+        <seg>creazione da una selezione</seg>
       </tuv>
     </tu>
     <tu>
