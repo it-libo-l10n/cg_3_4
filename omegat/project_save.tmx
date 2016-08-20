@@ -12031,6 +12031,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;File &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Templates &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Organize&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160820T053604Z" creationid="briga" creationdate="20160820T053604Z">
+        <seg>Fate clic su &lt;f0&gt;File &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Modelli &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Gestisci&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Find, Find All&lt;/f0&gt;, &lt;f1&gt;Replace&lt;/f1&gt;, or &lt;f2&gt;&lt;f3&gt;Replace All&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;(not recommended).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T165844Z" creationid="Elisabetta" creationdate="20160726T165844Z">
@@ -22052,6 +22060,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160530T151650Z" creationid="michele" creationdate="20160530T151650Z">
         <seg>Nella finestra di dialogo Subtotali(&lt;t0&gt;Figura 231&lt;/t0&gt;), nel menu a tendina &lt;f1&gt;Raggruppa per&lt;/f1&gt; , seleziona la colonna che desideri utilizzare per raggruppare i subtotali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Template Management dialog (&lt;t0&gt;Figure 114&lt;/t0&gt;), set the lists at the bottom to either Templates or Documents, as needed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160820T053627Z" creationid="briga" creationdate="20160820T053627Z">
+        <seg>Nella finestra Gestione dei modelli (&lt;t0&gt;Figura 114&lt;/t0&gt;), impostate gli elenchi in basso per Modelli o Documenti, secondo le necessità.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34826,6 +34842,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The default is Templates on the left and Documents on the right.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160820T053631Z" creationid="briga" creationdate="20160820T053631Z">
+        <seg>L'impostazione predefinita prevede Modelli a sinistra e Documenti a destra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The default is to sort by columns unless the selected cells are in a single column.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T171351Z" creationid="Elisabetta" creationdate="20160725T171351Z">
@@ -38127,6 +38151,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160527T140910Z" creationid="michele" creationdate="20160527T140852Z">
         <seg>Per consolidare in base all'etichetta di riga o colonna, l'etichetta deve essere inclusa nella area dati di sorgente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To copy a style from one spreadsheet to another, or between a spreadsheet and a template, instead of recreating it in the second spreadsheet, use the Template Management dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160820T053559Z" creationid="briga" creationdate="20160820T053559Z">
+        <seg>Per copiare o spostare gli stili da un foglio di lavoro ad un altro, o fra fogli di lavoro e modelli di documento, invece di ricrearli nel secondo foglio di lavoro, utilizzate la finestra di dialogo Gestione dei modelli:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To copy styles from a file that is not open, set the listing for both sides to &lt;f0&gt;Documents&lt;/f0&gt;, then click the &lt;f1&gt;File&lt;/f1&gt; button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160820T053734Z" creationid="briga" creationdate="20160820T053734Z">
+        <seg>Per copiare degli stili da un file non aperto, impostate gli elenchi per entrambi i lati su &lt;f0&gt;Documenti&lt;/f0&gt; e quindi fate clic sul pulsante &lt;f1&gt;File&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
