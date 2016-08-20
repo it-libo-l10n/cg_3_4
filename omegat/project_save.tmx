@@ -30465,6 +30465,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SUMX2MY2(array_X; array_Y)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T142345Z" creationid="Marco Marega" creationdate="20160820T142345Z">
+        <seg>SOMMA.DIFF.Q(matrice X; matrice Y)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SYD(cost; salvage; life; period)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160716T123809Z" creationid="Marco Marega" creationdate="20160716T123809Z">
