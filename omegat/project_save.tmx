@@ -8087,6 +8087,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ADDRESS(row; column; abs; sheet)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T163803Z" creationid="Marco Marega" creationdate="20160820T163803Z">
+        <seg>INDIRIZZO(riga; colonna; ASS; foglio)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>AMORLINC(cost; date_purchased; first_period; salvage; period; rate; basis)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160629T203138Z" creationid="Marco Marega" creationdate="20160629T201035Z">
@@ -28805,6 +28813,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T131959Z" creationid="Marco Marega" creationdate="20160819T131959Z">
         <seg>Restituisce VERO se il valore si riferisce ad un qualsiasi errore, eccetto a #N/D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns a cell address (reference) as text, according to the specified row and column numbers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T163948Z" creationid="Marco Marega" creationdate="20160820T163948Z">
+        <seg>Restituisce l'indirizzo di una cella (riferimento) come testo, in base ai numeri di riga e colonna specificati.</seg>
       </tuv>
     </tu>
     <tu>
