@@ -5750,6 +5750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;SUMPRODUCT&lt;/f0&gt;(array 1; array 2; ...array 30)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T134616Z" creationid="Marco Marega" creationdate="20160820T134616Z">
+        <seg>&lt;f0&gt;MATR.SOMMA.PRODOTTO&lt;/f0&gt;(matrice 1; matrice 2; ...matrice 30)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;SUMSQ&lt;/f0&gt;(number_1; number_2; ... number_30)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T145809Z" creationid="Marco Marega" creationdate="20160626T145809Z">
