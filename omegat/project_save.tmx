@@ -33626,6 +33626,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TREND(data_Y; data_X; new_data_X; linear_Type)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T144142Z" creationid="Marco Marega" creationdate="20160820T144142Z">
+        <seg>TREND(data_Y; data_X; new_data_X; linear_Type)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TRUE()</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T132831Z" creationid="Marco Marega" creationdate="20160818T132831Z">
@@ -40079,6 +40087,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T160504Z" creationid="Luciano B." creationdate="20160326T160504Z">
         <seg>Transizioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Transposes the rows and columns of an array.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Array&lt;/f1&gt; is the array in the spreadsheet that is to be transposed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T144140Z" creationid="Marco Marega" creationdate="20160820T144140Z">
+        <seg>Traspone le righe e le colonne di una matrice.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Matrice&lt;/f1&gt; è la matrice nel foglio di lavoro che va trasposta.</seg>
       </tuv>
     </tu>
     <tu>
