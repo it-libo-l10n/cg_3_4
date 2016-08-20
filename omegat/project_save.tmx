@@ -19895,6 +19895,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If an unwanted style is in use, you will want to replace it with a substitute style.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160820T054246Z" creationid="briga" creationdate="20160820T054246Z">
+        <seg>Se uno stile non desiderato è in uso, lo dovrete sostituire con un altro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If another user is trying to save the shared document and resolve conflicts, you see a message that the shared spreadsheet file is locked due to a merge-in in progress.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T163504Z" creationid="Luciano B." creationdate="20160411T163504Z">
@@ -41755,6 +41763,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you are finished, click &lt;/f0&gt;&lt;f1&gt;Close&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160820T054126Z" creationid="briga" creationdate="20160820T054126Z">
+        <seg>Una volta che avete terminato, fate clic su &lt;/f0&gt;&lt;f1&gt;Chiudi&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you are typing in a cell, Calc automatically suggests matching input found in the same column.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T172604Z" creationid="Elisabetta" creationdate="20160628T172604Z">
@@ -43195,6 +43211,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can remove any user-defined (custom) styles; but before you do, you should make sure the styles are not in use.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160820T054234Z" creationid="briga" creationdate="20160820T054234Z">
+        <seg>Potete eliminare gli stili personalizzati; ma prima di eseguire questa operazione, dovete verificare che lo stile da rimuovere non sia in uso nel documento corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can return to this dialog at any time and change the information you entered.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T101656Z" creationid="michele" creationdate="20160525T101656Z">
@@ -43463,6 +43487,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T102219Z" creationid="michele" creationdate="20160525T102219Z">
         <seg>Non è possibile trascinare copie di immagini, oggetti OLE o indici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You cannot remove (delete) any of Calc’s predefined styles, even if you are not using them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160820T054210Z" creationid="briga" creationdate="20160820T054210Z">
+        <seg>Non potete rimuovere nessuno degli stili di Calc predefiniti, nemmeno se inutilizzati.</seg>
       </tuv>
     </tu>
     <tu>
