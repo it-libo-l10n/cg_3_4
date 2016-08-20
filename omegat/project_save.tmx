@@ -30057,6 +30057,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns values along a linear trend.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Data_Y&lt;/f1&gt; is the Y Data array.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T144348Z" creationid="Marco Marega" creationdate="20160820T144348Z">
+        <seg>Restituisce i valori di una tendenza lineare.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati Y&lt;/f1&gt; è la matrice dei dati delle Y.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reverses the logical value.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T132404Z" creationid="Marco Marega" creationdate="20160818T132404Z">
@@ -33628,8 +33636,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>TREND(data_Y; data_X; new_data_X; linear_Type)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T144142Z" creationid="Marco Marega" creationdate="20160820T144142Z">
-        <seg>TREND(data_Y; data_X; new_data_X; linear_Type)</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T144306Z" creationid="Marco Marega" creationdate="20160820T144142Z">
+        <seg>TENDENZA(dati Y; dati X; nuovi dati X; tipo retta)</seg>
       </tuv>
     </tu>
     <tu>
