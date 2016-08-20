@@ -10063,6 +10063,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>COLUMN(reference)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T172221Z" creationid="Marco Marega" creationdate="20160820T172221Z">
+        <seg>RIF.COLONNA(riferimento)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>COLUMN_HEADER</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142943Z" creationid="steevie" creationdate="20160504T142943Z">
@@ -29053,6 +29061,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T092251Z" creationid="Marco Marega" creationdate="20160730T092251Z">
         <seg>Restituisce la distribuzione chi quadrato da una distribuzione casuale di due serie usando il test di indipedenza chi quadrato.&lt;f0&gt; &lt;/f0&gt;La probabilità calcolata da TEST.CHI può essere calcolata anche con DIST.CHI, in tal caso il chi quadrato del campione casuale deve essere passato come parametro al posto della serie di dati.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Dati_B&lt;/f2&gt; è la matrice dei dati osservati.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Dati_E&lt;/f4&gt; è la matrice dei valori attesi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the column number of a cell reference.&lt;f0&gt; &lt;/f0&gt;If the reference is a cell, the column number of the cell is returned; if the parameter is a cell area, the corresponding column numbers are returned in a single-row array if the formula is entered as an array formula.&lt;f1&gt; &lt;/f1&gt;If the COLUMN function with an area reference parameter is not used for an array formula, only the column number of the first cell within the area is determined.&lt;f2&gt; &lt;/f2&gt;Reference is the reference to a cell or cell area whose first column number is to be found.&lt;f3&gt; &lt;/f3&gt;If no reference is entered, the column number of the cell in which the formula is entered is found.&lt;f4&gt; &lt;/f4&gt;Calc automatically sets the reference to the current cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T172408Z" creationid="Marco Marega" creationdate="20160820T172408Z">
+        <seg>Restituisce il numero di colonna di una cella di riferimento.&lt;f0&gt; &lt;/f0&gt;Se il riferimento è una cella, viene restituito il numero di colonna della cella; se il parametro è un intervallo di celle, the corresponding column numbers are returned in a single-row array if the formula is entered as an array formula.&lt;f1&gt; &lt;/f1&gt;If the COLUMN function with an area reference parameter is not used for an array formula, only the column number of the first cell within the area is determined.&lt;f2&gt; &lt;/f2&gt;Reference is the reference to a cell or cell area whose first column number is to be found.&lt;f3&gt; &lt;/f3&gt;If no reference is entered, the column number of the cell in which the formula is entered is found.&lt;f4&gt; &lt;/f4&gt;Calc automatically sets the reference to the current cell.</seg>
       </tuv>
     </tu>
     <tu>
