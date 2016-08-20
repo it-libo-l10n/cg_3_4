@@ -5526,6 +5526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Repeat for each style you want to copy.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160820T054046Z" creationid="briga" creationdate="20160820T054046Z">
+        <seg>&lt;f0&gt;Ripetete le operazioni descritte per ogni stile che desiderate copiare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Resize window to initial page:&lt;/f0&gt; Causes the PDF viewer window to resize to fit the first page of the PDF.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T160250Z" creationid="Luciano B." creationdate="20160326T160250Z">
@@ -14543,6 +14551,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double-click on the name of the template or document, and then double-click the Styles icon to show the list of individual styles (&lt;t0&gt;Figure 115&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160820T053926Z" creationid="briga" creationdate="20160820T053926Z">
+        <seg>Fate doppio clic sul nome del modello o del documento desiderato e poi sull'icona Stili per visualizzare l'elenco dei singoli stili di formattazione (&lt;t0&gt;Figura 115&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Down arrow</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T144621Z" creationid="luciano" creationdate="20160509T144621Z">
@@ -15795,6 +15811,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160820T053332Z" creationid="briga" creationdate="20160820T053332Z">
         <seg>Figura &lt;seq0&gt;113&lt;/seq0&gt;: assegnazione di un nome ad un nuovo stile creato da una selezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;114&lt;/seq0&gt;: Choosing to copy styles from a document, not a template.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160820T053816Z" creationid="briga" creationdate="20160820T053816Z">
+        <seg>Figura &lt;seq0&gt;114&lt;/seq0&gt;: scegliere di copiare gli stili da un documento invece che da un modello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;115&lt;/seq0&gt;: Copying a style from one document to another</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160820T053934Z" creationid="briga" creationdate="20160820T053934Z">
+        <seg>Figura &lt;seq0&gt;115&lt;/seq0&gt;: copiare uno stile da un documento all'altro</seg>
       </tuv>
     </tu>
     <tu>
@@ -20267,6 +20299,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T135016Z" creationid="steevie" creationdate="20160427T134856Z">
         <seg>Se l'intervallo A1:B1 è citato e una nuova riga viene inserita al di sotto della 1, il riferimento non è esteso, poiché vi è solo una cella nella direzione verticale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the receiving template or document has many styles, you may not see any change unless you scroll down in the list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160820T054057Z" creationid="briga" creationdate="20160820T054057Z">
+        <seg>Se il modello o il documento di destinazione contiene numerosi stili, può essere necessario scorrere l'elenco verso il basso per visualizzare le modifiche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24921,6 +24961,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Navigate to the file you want to copy from, select it and click &lt;f2&gt;Open&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160820T053755Z" creationid="briga" creationdate="20160820T053755Z">
+        <seg>Rintracciate il file da inserire, selezionatelo e fate clic su &lt;f2&gt;Apri&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Navigate to the sheet that you want to set the header or footer for.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T165523Z">
@@ -26093,6 +26141,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160428T160259Z" creationid="luciano" creationdate="20160428T160259Z">
         <seg>Aprite il documento modificato&lt;f0&gt; che volete confrontare con il documento originale&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the folders and find the templates from and to which you want to copy.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160820T053915Z" creationid="briga" creationdate="20160820T053915Z">
+        <seg>Aprite le cartelle e trovate i modelli di documento dai quali e nei quali volete copiare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37875,6 +37931,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To &lt;f0&gt;copy&lt;/f0&gt; a style, hold down the &lt;f1&gt;Ctrl&lt;/f1&gt; key and drag the name of the style from one list to the other.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160820T053950Z" creationid="briga" creationdate="20160820T053950Z">
+        <seg>Per &lt;f0&gt;copiare&lt;/f0&gt; uno stile, mantenete premuto il tasto &lt;f1&gt;Ctrl&lt;/f1&gt; mentre trascinate il nome dello stile prescelto da un elenco all'altro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To &lt;f2&gt;move&lt;/f2&gt; a style, drag the name of the style without holding down the &lt;f3&gt;Ctrl&lt;/f3&gt; key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160820T054040Z" creationid="briga" creationdate="20160820T054040Z">
+        <seg>Per &lt;f2&gt;spostare&lt;/f2&gt; uno stile, trascinate il nome dello stile senza tenere premuto il tasto &lt;f3&gt;Ctrl&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To &lt;i0/&gt;install an extension, follow these steps:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T173223Z" creationid="steevie" creationdate="20160428T173223Z">
@@ -41879,6 +41951,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160426T154534Z" creationid="luciano" creationdate="20160426T154534Z">
         <seg>Quando si riceve di ritorno un documento modificato, la bellezza del sistema di registrazione delle modifiche diventa evidente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you return to this dialog, both lists show the selected file as well as all the currently open documents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160820T053806Z" creationid="briga" creationdate="20160820T053806Z">
+        <seg>Quando ritornate a questa finestra di dialogo, entrambi gli elenchi mostreranno sia il file selezionato sia tutti i documenti correntemente aperti.</seg>
       </tuv>
     </tu>
     <tu>
