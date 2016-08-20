@@ -3534,6 +3534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Array&lt;/f0&gt; is a square array that is to be inverted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T133407Z" creationid="Marco Marega" creationdate="20160820T133407Z">
+        <seg>&lt;f0&gt;Matrice&lt;/f0&gt; è la matrice quadrata che da invertire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;AutoFilter&lt;/f0&gt;&lt;f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160723T170049Z" creationid="Elisabetta" creationdate="20160723T170049Z">
@@ -5130,6 +5138,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160708T165356Z" creationid="Marco Marega" creationdate="20160708T165356Z">
         <seg>&lt;f0&gt;DURATA.M&lt;/f0&gt;(liquidazione; scadenza; tasso interesse nominale; rendimento; frequenza; base)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;MINVERSE&lt;/f0&gt;(array)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T133319Z" creationid="Marco Marega" creationdate="20160820T133319Z">
+        <seg>&lt;f0&gt;MATR.INVERSA&lt;/f0&gt;(matrice)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29229,6 +29245,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T191251Z" creationid="Marco Marega" creationdate="20160817T191251Z">
         <seg>Restituisce il numero interno dell'orario scritto come &lt;f0&gt;testo&lt;/f0&gt; racchiuso tra virgolette in un formato valido per l'inserimento di orari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the inverse array.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T133337Z" creationid="Marco Marega" creationdate="20160820T133337Z">
+        <seg>Restituisce l'inversa di una matrice.</seg>
       </tuv>
     </tu>
     <tu>
