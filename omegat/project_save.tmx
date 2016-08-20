@@ -33866,6 +33866,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;44&lt;/seq0&gt;: Spreadsheet functions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T145351Z" creationid="Marco Marega" creationdate="20160820T145351Z">
+        <seg>Tabella &lt;seq0&gt;44&lt;/seq0&gt;: Funzioni del foglio di lavoro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tear-off toolbars are not listed in the View menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T132157Z" creationid="michele" creationdate="20160414T132157Z">
@@ -40559,6 +40567,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160616T092647Z" creationid="luciano" creationdate="20160616T092647Z">
         <seg>Utilizzate &lt;f4&gt;getCellByPosition(col, row)&lt;/f4&gt; per restituire una cella ad una determinata riga e colonna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;i0/&gt;&lt;is1/&gt;spreadsheet functions&lt;ie2/&gt; to search and address cell ranges and provide feedback regarding the contents of a cell or range of cells.&lt;f3&gt; &lt;/f3&gt;You can use functions such as &lt;f4&gt;HYPERLINK&lt;/f4&gt;() and &lt;f5&gt;DDE&lt;/f5&gt;() to connect to other documents or data sources.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T145322Z" creationid="Marco Marega" creationdate="20160820T145322Z">
+        <seg>Le &lt;i0/&gt;&lt;is1/&gt;funzioni del foglio di lavoro&lt;ie2/&gt; vengono usate per ricercare ed indirizzare intervalli di celle e fornire informazioni in merito ai contenuti di una cella o di intervalli di celle.&lt;f3&gt; &lt;/f3&gt;Eè possibile usare funzioni come &lt;f4&gt;COLLEGAMENTO&lt;/f4&gt;() e &lt;f5&gt;DDE&lt;/f5&gt;() per collegarsi ad altri documenti o a sorgenti di dati.</seg>
       </tuv>
     </tu>
     <tu>
