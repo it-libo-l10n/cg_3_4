@@ -6920,8 +6920,8 @@
       <tuv lang="EN">
         <seg>&lt;f3&gt;New_Data_X&lt;/f3&gt; (optional) is the X data array, in which the values are recalculated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T131325Z" creationid="Marco Marega" creationdate="20160820T131325Z">
-        <seg>&lt;f3&gt;Nuovi dati X&lt;/f3&gt; (facoltativo) è la matrice dei dati delle X, in cui i valori vengono riconteggiati.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T131533Z" creationid="Marco Marega" creationdate="20160820T131325Z">
+        <seg>&lt;f3&gt;Nuovi dati X&lt;/f3&gt; (facoltativo) è la matrice dei dati delle X, nella quale vengono riconteggiati i valori.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20039,6 +20039,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If function_type = 0, functions in the form y = m^x are calculated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T131508Z" creationid="Marco Marega" creationdate="20160820T131508Z">
+        <seg>Se il tipo funzione = 0, le funzioni vengono calcolate nella forma y = m^x.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If if CopyOutputData is True , specifies the position where filtered data are to be copied.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133626Z" creationid="steevie" creationdate="20160517T133626Z">
@@ -26509,6 +26517,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T122740Z" creationid="michele" creationdate="20160525T122740Z">
         <seg>Sennò, appaiono piegate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Otherwise, y = b*m^x functions are calculated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T131614Z" creationid="Marco Marega" creationdate="20160820T131614Z">
+        <seg>Altrimenti vengono calcolate le funzioni:  y = b*m^x.</seg>
       </tuv>
     </tu>
     <tu>
