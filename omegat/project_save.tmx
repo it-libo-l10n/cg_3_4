@@ -28331,8 +28331,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>ROW(reference)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T201337Z" creationid="Marco Marega" creationdate="20160821T201337Z">
-        <seg>RIGA(riferimento)</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T204601Z" creationid="Marco Marega" creationdate="20160821T201337Z">
+        <seg>RIF.RIGA(riferimento)</seg>
       </tuv>
     </tu>
     <tu>
@@ -30077,6 +30077,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T124949Z" creationid="Marco Marega" creationdate="20160730T124949Z">
         <seg>Restituisce il risultato di un test F.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati 1&lt;/f1&gt; è la matrice del primo record di dati.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Dati 2&lt;/f3&gt; è la matrice del secondo record di dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the row number of a cell reference.&lt;f0&gt; &lt;/f0&gt;If the reference is a cell, it returns the row number of the cell.&lt;f1&gt; &lt;/f1&gt;If the reference is a cell range, it returns the corresponding row numbers in a one-column array if the formula is entered as an array formula.&lt;f2&gt; &lt;/f2&gt;If the ROW function with a range reference is not used in an array formula, only the row number of the first range cell will be returned.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Reference&lt;/f4&gt; is a cell, an area, or the name of an area.&lt;f5&gt; &lt;/f5&gt;If a reference is not indicated, Calc automatically sets the reference to the current cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T204554Z" creationid="Marco Marega" creationdate="20160821T204554Z">
+        <seg>Returns the row number of a cell reference.&lt;f0&gt; &lt;/f0&gt;If the reference is a cell, it returns the row number of the cell.&lt;f1&gt; &lt;/f1&gt;If the reference is a cell range, it returns the corresponding row numbers in a one-column array if the formula is entered as an array formula.&lt;f2&gt; &lt;/f2&gt;If the ROW function with a range reference is not used in an array formula, only the row number of the first range cell will be returned.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Reference&lt;/f4&gt; is a cell, an area, or the name of an area.&lt;f5&gt; &lt;/f5&gt;If a reference is not indicated, Calc automatically sets the reference to the current cell.</seg>
       </tuv>
     </tu>
     <tu>
