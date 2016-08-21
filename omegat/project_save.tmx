@@ -24056,6 +24056,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>MATCH(search_criterion; lookup_array; type)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T133659Z" creationid="Marco Marega" creationdate="20160821T133659Z">
+        <seg>CONFRONTA(criterio di ricerca; matrice; tipo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>MAX</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T150429Z" creationid="steevie" creationdate="20160620T150429Z">
