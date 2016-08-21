@@ -29953,6 +29953,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the number of rows in a reference or array.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Array&lt;/f1&gt; is the reference or named area whose total number of rows is to be determined.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T205650Z" creationid="Marco Marega" creationdate="20160821T205650Z">
+        <seg>Restituisce il numero di righe in un riferimento o in un matrice.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Matrice&lt;/f1&gt; è il riferimento o il nome di un'area di cui si vuole determinare il numero di righe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the number of workdays between &lt;f0&gt;start_date&lt;/f0&gt; and &lt;f1&gt;end_date&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T185905Z" creationid="Marco Marega" creationdate="20160817T185905Z">
@@ -30597,6 +30605,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T143158Z" creationid="Marco Marega" creationdate="20160626T143158Z">
         <seg>SOMMA.SERIE(x;n;m;coefficienti) = coefficiente_1*x^n + coefficiente_2*x^(n+m) + coefficiente_3*x^(n+2m) +...+ coefficiente_i*x^(n+(i-1)m).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SHEET(reference)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T205711Z" creationid="Marco Marega" creationdate="20160821T205711Z">
+        <seg>FOGLIO(riferimento)</seg>
       </tuv>
     </tu>
     <tu>
