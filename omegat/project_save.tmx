@@ -36363,6 +36363,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The optional &lt;f3&gt;cell_text&lt;/f3&gt; argument is the text displayed in the cell.&lt;f4&gt; &lt;/f4&gt;If the &lt;f5&gt;cell_text&lt;/f5&gt; parameter is not specified, the &lt;f6&gt;URL&lt;/f6&gt; is displayed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T081339Z" creationid="Marco Marega" creationdate="20160821T081339Z">
+        <seg>Il parametro opzionale &lt;f3&gt;testo della cella&lt;/f3&gt; viene visualizzato nella cella.&lt;f4&gt; &lt;/f4&gt;Se il parametro &lt;f5&gt;testo della cella&lt;/f5&gt; non viene specificato, verrà visualizzato l'&lt;f6&gt;URL&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The options selected on the Print dialog apply to this printing of this document only.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160314T131404Z">
@@ -42575,6 +42583,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T154514Z">
         <seg>Nel caso vogliate rimuoverle, dovrete toglierle una ad una.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When&lt;f0&gt; &lt;/f0&gt;a cell that contains the HYPERLINK function is clicked, the hyperlink opens.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;URL&lt;/f2&gt; specifies the link target.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T081204Z" creationid="Marco Marega" creationdate="20160821T081204Z">
+        <seg>Quando si fa clic &lt;f0&gt; &lt;/f0&gt;su di una cella che contiene la funzione COLLEGAMENTO, il collegamento si apre.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;URL&lt;/f2&gt; specifica l'indirizzo della destinazione.</seg>
       </tuv>
     </tu>
     <tu>
