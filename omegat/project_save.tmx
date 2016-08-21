@@ -23608,6 +23608,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LOOKUP(search_criterion; search_vector;&lt;f0&gt; &lt;/f0&gt;result_vector)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T122856Z" creationid="Marco Marega" creationdate="20160821T122856Z">
+        <seg>CERCA(criterio di ricerca; vettore;&lt;f0&gt; &lt;/f0&gt;risultato)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Large handles</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T141803Z" creationid="steevie" creationdate="20160427T141803Z">
