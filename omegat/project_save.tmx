@@ -4622,6 +4622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;HLOOKUP&lt;/f0&gt;(search_criteria; array; index; sorted)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T080441Z" creationid="Marco Marega" creationdate="20160821T080441Z">
+        <seg>&lt;f0&gt;CERCA.ORIZZ&lt;/f0&gt;(criterio di ricerca; matrice; indice; ordinato)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;HYPGEOMDIST&lt;/f0&gt;(X; n_sample; successes; n_population)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T134737Z" creationid="Marco Marega" creationdate="20160730T134737Z">
@@ -46607,6 +46615,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T073646Z" creationid="Marco Marega" creationdate="20160625T073529Z">
         <seg>terminologia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>text</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T080326Z" creationid="Marco Marega" creationdate="20160821T080326Z">
+        <seg>testo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>text functions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T080322Z" creationid="Marco Marega" creationdate="20160821T080322Z">
+        <seg>funzioni per il testo</seg>
       </tuv>
     </tu>
     <tu>
