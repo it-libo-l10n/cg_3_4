@@ -31121,6 +31121,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Searches vertically with reference to adjacent cells to the right.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T211213Z" creationid="Marco Marega" creationdate="20160821T211044Z">
+        <seg>Effettua una ricerca in verticale con riferimento alle celle adiacenti sulla destra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Searching for the regular expression &lt;f0&gt;^$&lt;/f0&gt; will not find empty cells.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160729T143859Z" creationid="Elisabetta" creationdate="20160729T143859Z">
@@ -41839,6 +41847,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151602Z" creationid="steevie" creationdate="20160620T151602Z">
         <seg>CERCA.VERT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VLOOKUP(search_criterion; array; index; sort_order)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T211024Z" creationid="Marco Marega" creationdate="20160821T211024Z">
+        <seg>CERCA.VERT(criterio di ricerca; matrice; indice; ordinato)</seg>
       </tuv>
     </tu>
     <tu>
