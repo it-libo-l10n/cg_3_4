@@ -4320,8 +4320,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;ERRORTYPE&lt;/f0&gt;(reference)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T075845Z" creationid="Marco Marega" creationdate="20160821T075845Z">
-        <seg>&lt;f0&gt;TIPO.ERRORE&lt;/f0&gt;(riferimento)</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T075940Z" creationid="Marco Marega" creationdate="20160821T075845Z">
+        <seg>&lt;f0&gt;ERRORE&lt;/f0&gt;(espressione)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29733,6 +29733,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T135700Z" creationid="Marco Marega" creationdate="20160819T135700Z">
         <seg>Restituisce il numero 1, se il parametro è VERO.&lt;f0&gt; &lt;/f0&gt;Restituisce il parametro, se questo è un numero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the number corresponding to an error value occurring in a different cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T080042Z" creationid="Marco Marega" creationdate="20160821T075929Z">
+        <seg>Restituisce il numero corrispondente ad un valore di errore che si verifica in un'altra cella.</seg>
       </tuv>
     </tu>
     <tu>
