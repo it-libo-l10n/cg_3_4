@@ -4318,6 +4318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;ERRORTYPE&lt;/f0&gt;(reference)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T075845Z" creationid="Marco Marega" creationdate="20160821T075845Z">
+        <seg>&lt;f0&gt;TIPO.ERRORE&lt;/f0&gt;(riferimento)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;EXPONDIST&lt;/f0&gt;(number; lambda; C)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T101807Z" creationid="Marco Marega" creationdate="20160730T101807Z">
@@ -7170,6 +7178,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T161200Z" creationid="Luciano B." creationdate="20160411T161034Z">
         <seg>&lt;f8&gt;Dati &gt; Operazioni multiple&lt;/f8&gt;&lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f8&gt;LibreOffice&lt;/f8&gt; applications have the server name “&lt;f9&gt;Soffice&lt;/f9&gt;&lt;f10&gt;”&lt;/f10&gt;.&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;File&lt;/f12&gt; is the complete file name, including path.&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;Range&lt;/f14&gt; is the area containing the data to be evaluated.&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;Mode&lt;/f16&gt; is an optional parameter that controls the method by which the DDE server converts its data into numbers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T075826Z" creationid="Marco Marega" creationdate="20160821T075826Z">
+        <seg>Le applicazioni di &lt;f8&gt;LibreOffice&lt;/f8&gt; hanno il nome server “&lt;f9&gt;Soffice&lt;/f9&gt;&lt;f10&gt;”&lt;/f10&gt;.&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;File&lt;/f12&gt; è il nome completo del file, compreso il percorso.&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;Area&lt;/f14&gt; è l'area che contiene i dati da valutare.&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;Modo&lt;/f16&gt; è un parametro opzionale che controlla i metodo con cui il server DDE server converte i suoi dati in numeri.</seg>
       </tuv>
     </tu>
     <tu>
