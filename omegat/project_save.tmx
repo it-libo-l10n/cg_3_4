@@ -29177,6 +29177,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the contents of a cell either from a one-row or one-column range or from an array.&lt;f0&gt; &lt;/f0&gt;Optionally, the assigned value (of the same index) is returned in a different column and row.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T123254Z" creationid="Marco Marega" creationdate="20160821T123254Z">
+        <seg>Restituisce il contenuto di una cella che si trova un intervallo che può essere sia di una riga, di una colonna o una matrice.&lt;f0&gt; &lt;/f0&gt;Facoltativamente, il valore assegnato (dello stesso indice) può essere restituito in una diversa colonna e riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the contents of the referenced cell in a database which matches the specified &lt;f0&gt;search_criteria&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;In case of an error, the function returns either #VALUE!</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T202021Z" creationid="Marco Marega" creationdate="20160819T202021Z">
