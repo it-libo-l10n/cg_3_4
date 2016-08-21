@@ -29009,6 +29009,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the &lt;f0&gt;reference&lt;/f0&gt; specified by a text string.&lt;f1&gt; &lt;/f1&gt;This function can also be used to return the area of a corresponding string.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Reference&lt;/f3&gt; is a reference to a cell or an area (in text form) for which to return the contents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T083305Z" creationid="Marco Marega" creationdate="20160821T083305Z">
+        <seg>Restituisce il &lt;f0&gt;riferimento&lt;/f0&gt; specificato da una stringa di testo.&lt;f1&gt; &lt;/f1&gt;Questa funzione può essere utilizzata anche per restituire l'area corrispondente ad una stringa.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Riferimento&lt;/f3&gt; è il riferimento ad una cella o ad un'area (in formato testo) di cui restituire i contenuti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the Fisher transformation for the given &lt;f0&gt;numbe&lt;/f0&gt;r and creates a function close to a normal distribution.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T123611Z" creationid="Marco Marega" creationdate="20160730T123611Z">
