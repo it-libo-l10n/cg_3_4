@@ -25753,6 +25753,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OFFSET(reference; rows; columns; height; width)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T200537Z" creationid="Marco Marega" creationdate="20160821T200537Z">
+        <seg>SCARTO(riferimento; righe; colonne; altezza; larghezza)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OR(logical_value_1; logical_value_2; ...logical_value_30)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T132619Z" creationid="Marco Marega" creationdate="20160818T132619Z">
@@ -30245,6 +30253,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T133513Z" creationid="Marco Marega" creationdate="20160626T133513Z">
         <seg>Restituisce il valore del "Pi greco" con quattordici decimali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the value of a cell offset by a certain number of rows and columns from a given reference point.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Reference&lt;/f1&gt; is the cell from which the function searches for the new reference.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Rows&lt;/f3&gt; is the number of cells by which the reference was corrected up (negative value) or down.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Columns&lt;/f5&gt; is the number of columns by which the reference was corrected to the left (negative value) or to the right.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Height&lt;/f7&gt; is the optional vertical height for an area that starts at the new reference position.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Width&lt;/f9&gt; is the optional horizontal width for an area that starts at the new reference position.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T200713Z" creationid="Marco Marega" creationdate="20160821T200713Z">
+        <seg>Restituisce il valore di una cella distante un determinato numero di righe e colonne da un dato  punto di riferimento.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Reference&lt;/f1&gt; is the cell from which the function searches for the new reference.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Rows&lt;/f3&gt; is the number of cells by which the reference was corrected up (negative value) or down.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Columns&lt;/f5&gt; is the number of columns by which the reference was corrected to the left (negative value) or to the right.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Height&lt;/f7&gt; is the optional vertical height for an area that starts at the new reference position.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Width&lt;/f9&gt; is the optional horizontal width for an area that starts at the new reference position.</seg>
       </tuv>
     </tu>
     <tu>
