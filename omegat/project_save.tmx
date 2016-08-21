@@ -42755,6 +42755,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With the aid of this number,&lt;f0&gt; &lt;/f0&gt;an error message text can be generated.&lt;f1&gt; &lt;/f1&gt;If an error occurs, the function returns a logical or numerical value.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Reference&lt;/f3&gt; contains the address of the cell in which the error occurs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T080248Z" creationid="Marco Marega" creationdate="20160821T080248Z">
+        <seg>Con l'aiuto di questo numero,&lt;f0&gt; &lt;/f0&gt;è possibile generare un messaggio di errore.&lt;f1&gt; &lt;/f1&gt;Se si verifica un errore, la funzione restituisce un valore logico o numerico.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Espressione&lt;/f3&gt; contiene l'indiririzzo della cella in cui si verifica l'errore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With the cursor in the &lt;f0&gt;Formulas&lt;/f0&gt; field of the Multiple operations dialog, click cell B5 (profit).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T104150Z" creationid="michele" creationdate="20160608T104150Z">
