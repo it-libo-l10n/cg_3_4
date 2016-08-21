@@ -9383,6 +9383,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As opposed to &lt;f1&gt;VLOOKUP&lt;/f1&gt; and HLOOKUP, search and result vectors may be at different positions; they do not have to be adjacent.&lt;f2&gt; &lt;/f2&gt;Additionally, the search vector for the LOOKUP must be sorted, otherwise the search will not return any usable results.&lt;f3&gt; &lt;/f3&gt;The search supports regular expressions.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Search_criterion&lt;/f5&gt; is the value to be searched for; entered either directly or as a reference.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Search_vector&lt;/f7&gt; is the single-row or single-column area to be searched.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Result_vector&lt;/f9&gt; is another single-row or single-column range from which the result of the function is taken.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T123917Z" creationid="Marco Marega" creationdate="20160821T123917Z">
+        <seg>Diversamente da &lt;f1&gt;CERCA.VERT&lt;/f1&gt; e CERCA.ORIZZ, i vettori della ricerca e del risultato possono trovarsi in posizioni differenti; non è necessario che siano adiacenti.&lt;f2&gt; &lt;/f2&gt;Inoltre, il vettore di ricerca della funzione CERCA deve essere ordinato, altrimenti la ricerca non restituirà alcun risultato utile.&lt;f3&gt; &lt;/f3&gt;La rcerca supporta le espressioni regolari.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Criterio di ricerca&lt;/f5&gt; è il valore da ricercare; inserito direttamente o come riferimento.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Vettore&lt;/f7&gt; è l'area di una riga o di una colonna i cui effettuare la ricerca.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Risultato&lt;/f9&gt; è un'altra area di una riga o di una colonna dalla quale viene estratto il risultato della funzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As soon as you select a theme, some of the properties of the custom styles are applied to the open spreadsheet and are immediately visible.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T172219Z" creationid="Elisabetta" creationdate="20160722T172219Z">
@@ -36711,6 +36719,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T145713Z" creationid="michele" creationdate="20160608T145713Z">
         <seg>Il risultato viene visualizzato in &lt;t2&gt;Figura 247&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The result is the cell of the result vector with the same index as the instance found in the search vector.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T124026Z" creationid="Marco Marega" creationdate="20160821T124026Z">
+        <seg>Il risultato è la cella del vettore del risultato che ha lo stesso indice dell'istanza trovata nel vettore di ricerca.</seg>
       </tuv>
     </tu>
     <tu>
