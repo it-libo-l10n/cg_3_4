@@ -30937,6 +30937,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Searches for a value and reference to the cells below the selected area.&lt;f0&gt; &lt;/f0&gt;This function verifies if the first row of an array contains a certain value.&lt;f1&gt; &lt;/f1&gt;The function returns the value in a row of the array, named in the i&lt;f2&gt;ndex&lt;/f2&gt;, in the same column.&lt;f3&gt; &lt;/f3&gt;The search supports regular expressions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T080816Z" creationid="Marco Marega" creationdate="20160821T080816Z">
+        <seg>Ricerca un valore ed il riferimento alle celle sottostanti all'interno dell'area selezionata.&lt;f0&gt; &lt;/f0&gt;Questa funzione verifica se la prima riga di una matrice contiene un determinato valore.&lt;f1&gt; &lt;/f1&gt;La funzione restituisce il valore contenuto nella stessa colonna e nella riga della matrice indicata nell'i&lt;f2&gt;ndice&lt;/f2&gt;.&lt;f3&gt; &lt;/f3&gt;La ricerca supporta le espressioni regolari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Searching for the regular expression &lt;f0&gt;^$&lt;/f0&gt; will not find empty cells.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160729T143859Z" creationid="Elisabetta" creationdate="20160729T143859Z">
