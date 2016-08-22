@@ -6878,6 +6878,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;Text&lt;/f1&gt; is the text to be converted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T143454Z" creationid="Marco Marega" creationdate="20160822T143454Z">
+        <seg>&lt;f1&gt;Testo&lt;/f1&gt; è il testo da convertire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;Then_value&lt;/f1&gt; (optional) is the value that is returned if the logical test is TRUE.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T132230Z" creationid="Marco Marega" creationdate="20160818T132230Z">
@@ -13531,6 +13539,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160815T132551Z" creationid="Marco Marega" creationdate="20160815T132551Z">
         <seg>Converte una  variabile casuale in un valore normalizzato.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; è il valore da standardizzare.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Valore medio&lt;/f3&gt; è la media aritmetica dalla distribuzione.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;DEV.ST&lt;/f5&gt; è la deviazione standard della distribuzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converts text with characters from a number system to a positive integer in the base radix given.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T143318Z" creationid="Marco Marega" creationdate="20160822T143318Z">
+        <seg>Converte un testo formato da caratteri di un sistema di numerazione in numero intero positivo  e ciò in base alla radice indicata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33513,6 +33529,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spaces and tabs are ignored.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T143405Z" creationid="Marco Marega" creationdate="20160822T143405Z">
+        <seg>Gli spazio e le tabulazioni vengono ignorati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spacing</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T171606Z">
@@ -34726,6 +34750,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160313T143018Z">
         <seg>La &lt;f0&gt;stampante&lt;/f0&gt; (tra quelle disponibili)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;text&lt;/f0&gt; field is not case-sensitive.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T143438Z" creationid="Marco Marega" creationdate="20160822T143438Z">
+        <seg>Il campo &lt;f0&gt;testo&lt;/f0&gt; non fa distinzione tra maiuscole e minuscole.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36927,6 +36959,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T104531Z" creationid="michele" creationdate="20160608T104531Z">
         <seg>Il profitto per i diversi prezzi di vendita è ora visualizzato nell'intervallo E2:H11(Vedi&lt;t1&gt;Figura 242&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The radix must be in the range 2 to 36.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T143336Z" creationid="Marco Marega" creationdate="20160822T143336Z">
+        <seg>La radice deve essere compresa tra 2 e 36.</seg>
       </tuv>
     </tu>
     <tu>
