@@ -29219,8 +29219,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Replaces part of a text string with a different text string.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T213733Z" creationid="Marco Marega" creationdate="20160822T213733Z">
-        <seg>Replaces part of a text string with a different text string.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T213913Z" creationid="Marco Marega" creationdate="20160822T213733Z">
+        <seg>Sostituisce parte di una stringa di testo con un'altra stringa di testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37467,6 +37467,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The result of the function is always displayed as text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T214046Z" creationid="Marco Marega" creationdate="20160822T214046Z">
+        <seg>Il risultato della funzione viene sempre visualizzato come testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The result will depend on where in the sequence of applying the filters, the filter removed was applied.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T160814Z" creationid="Elisabetta" creationdate="20160725T160814Z">
@@ -38623,6 +38631,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T191002Z" creationid="Marco Marega" creationdate="20160817T191002Z">
         <seg>Questa funzione può essere usata per convertire un orario basato su questi tre elementi in un orario in formato decimale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This function can be used to replace both characters and numbers (which are automatically converted to text).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T214011Z" creationid="Marco Marega" creationdate="20160822T214011Z">
+        <seg>Questa funzione può essere utilizzata per sostituire sia caratteri che numeri (questi vengono convertiti automaticamente in testo).</seg>
       </tuv>
     </tu>
     <tu>
