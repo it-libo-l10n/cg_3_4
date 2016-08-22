@@ -6110,6 +6110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Text&lt;/f0&gt; is the text containing the characters to extract.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T213403Z" creationid="Marco Marega" creationdate="20160822T213403Z">
+        <seg>&lt;f0&gt;Testo&lt;/f0&gt; è il testo contenente i caratteri da estrarre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Text&lt;/f0&gt; is the text for which the code of the first character is to be found.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T142833Z" creationid="Marco Marega" creationdate="20160822T142833Z">
@@ -6950,6 +6958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;Start&lt;/f1&gt; is the position of the first character in the text to extract.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T213432Z" creationid="Marco Marega" creationdate="20160822T213432Z">
+        <seg>&lt;f1&gt;Inizio&lt;/f1&gt; è la posizione nel testo del primo carattere da estrarre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;Text&lt;/f1&gt; is the text to be converted.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T143454Z" creationid="Marco Marega" creationdate="20160822T143454Z">
@@ -7090,6 +7106,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T184328Z" creationid="Marco Marega" creationdate="20160817T184328Z">
         <seg>&lt;f2&gt;Mesi&lt;/f2&gt; è il numero di mesi prima (se negativo) o dopo (se positivo) della data iniziale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;Number&lt;/f2&gt; is the number of characters in the part of the text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T213504Z" creationid="Marco Marega" creationdate="20160822T213504Z">
+        <seg>&lt;f2&gt;Numero&lt;/f2&gt; è il numero di caratteri della parte di testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24544,6 +24568,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>MID(text; start; number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T213222Z" creationid="Marco Marega" creationdate="20160822T213222Z">
+        <seg>STRNGA.ESRAI(testo; inizio; numero)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>MIN</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T150548Z" creationid="steevie" creationdate="20160620T150548Z">
@@ -29477,6 +29509,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T143048Z" creationid="Marco Marega" creationdate="20160626T143048Z">
         <seg>Restituisce la somma delle potenze dei numeri x ottenuta applicando la seguente formula:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns a text segment of a character string.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T213254Z" creationid="Marco Marega" creationdate="20160822T213254Z">
+        <seg>Restituisce un segmento di testo da una stringa di caratteri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37111,6 +37151,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T201501Z" creationid="Marco Marega" creationdate="20160819T201501Z">
         <seg>Il parametro non può essere vuoto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The parameters specify the starting position and the number of characters.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T213342Z" creationid="Marco Marega" creationdate="20160822T213342Z">
+        <seg>I parametri specificano la posizione iniziale ed il numero di caratteri.</seg>
       </tuv>
     </tu>
     <tu>
