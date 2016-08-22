@@ -6094,6 +6094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Text&lt;/f0&gt; is the text for which the code of the first character is to be found.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T142833Z" creationid="Marco Marega" creationdate="20160822T142833Z">
+        <seg>&lt;f0&gt;Testo&lt;/f0&gt; è il testo di cui si deve trovare il codice del primo carattere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Text&lt;/f0&gt; is the text that represents a Roman number.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T141439Z" creationid="Marco Marega" creationdate="20160822T141439Z">
@@ -10183,6 +10191,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>CODE(text)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T142637Z" creationid="Marco Marega" creationdate="20160822T142637Z">
+        <seg>CODICE(testo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>COLUMN(reference)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T172221Z" creationid="Marco Marega" creationdate="20160820T172221Z">
@@ -10203,6 +10219,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142943Z" creationid="steevie" creationdate="20160504T142943Z">
         <seg>COLUMN_HEADER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CONCATENATE(text_1; text_2; ...; text_30)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T142851Z" creationid="Marco Marega" creationdate="20160822T142851Z">
+        <seg>CONCATENA(testo 1; testo 2; ...; testo 30)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29157,6 +29181,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T125738Z" creationid="Marco Marega" creationdate="20160818T125738Z">
         <seg>Restituisce un numero tra 0 ed 1, che rappresenta la frazione di un anno compresa tra la &lt;f0&gt;data iniziale&lt;/f0&gt; e la&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;data finale&lt;/f2&gt;&lt;f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns a numeric code for the first character in a text string.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T142747Z" creationid="Marco Marega" creationdate="20160822T142747Z">
+        <seg>Restituisce il codice numerico del primo carattere in una stringa di testo.</seg>
       </tuv>
     </tu>
     <tu>
