@@ -5334,6 +5334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Number&lt;/f0&gt; is a number between 1 and 255 representing the code value for the character.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T142430Z" creationid="Marco Marega" creationdate="20160822T142430Z">
+        <seg>&lt;f0&gt;Numero&lt;/f0&gt; è un numero compreso tra 1 e 255 che rappresenta il valore del codice del carattere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Number&lt;/f0&gt; is a time value.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T182331Z" creationid="Marco Marega" creationdate="20160817T182331Z">
@@ -10135,6 +10143,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>CHAR(number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T142216Z" creationid="Marco Marega" creationdate="20160822T142216Z">
+        <seg>CODICE.CARATT(numero)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>CHITEST(data_B; data_E)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T090658Z" creationid="Marco Marega" creationdate="20160730T090658Z">
@@ -13419,6 +13435,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T181641Z" creationid="Marco Marega" creationdate="20160817T181641Z">
         <seg>Converte una data scritta come anno, mese, giorno in un numero seriale interno e lo visualizza nel formato della cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converts a number into a character according to the current code table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T142315Z" creationid="Marco Marega" creationdate="20160822T142315Z">
+        <seg>Converte un numero in un carattere in base alla tabella dei codici carattere attiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36615,6 +36639,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T150523Z" creationid="Marco Marega" creationdate="20160819T150523Z">
         <seg>Il numero 0 indica l'intero intervallo di dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The number can be a two-digit or three-digit integer number.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T142349Z" creationid="Marco Marega" creationdate="20160822T142349Z">
+        <seg>Il numero può essere un intero di due o tre cifre.</seg>
       </tuv>
     </tu>
     <tu>
