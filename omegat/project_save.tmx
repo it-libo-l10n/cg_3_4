@@ -6126,6 +6126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Text_1&lt;/f0&gt; is the first text to compare.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T145123Z" creationid="Marco Marega" creationdate="20160822T145123Z">
+        <seg>&lt;f0&gt;Testo 1&lt;/f0&gt; è il primo testo da confrontare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Print in reverse page order&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; option can be selected with any of the above options.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T100414Z">
@@ -6898,6 +6906,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T143454Z" creationid="Marco Marega" creationdate="20160822T143454Z">
         <seg>&lt;f1&gt;Testo&lt;/f1&gt; è il testo da convertire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;Text_2&lt;/f1&gt; is the second text to compare.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T145152Z" creationid="Marco Marega" creationdate="20160822T145152Z">
+        <seg>&lt;f1&gt;Testo 2&lt;/f1&gt; è il secondo testo da confrontare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13335,6 +13351,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Compares two text strings and returns TRUE if they are identical.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T145030Z" creationid="Marco Marega" creationdate="20160822T145030Z">
+        <seg>Confronta due stringe di testo e se sono identiche restituisce VERO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Comparing documents</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160206T082915Z">
@@ -15191,6 +15215,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>EXACT(text_1; text_2)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T144943Z" creationid="Marco Marega" creationdate="20160822T144943Z">
+        <seg>IDENTICO(testo 1; testo 2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>EXP(number)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T101545Z" creationid="Marco Marega" creationdate="20160626T101545Z">
@@ -16139,6 +16171,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142904Z" creationid="steevie" creationdate="20160504T142904Z">
         <seg>FILTER_CRITERIA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>FIND(find_text; text; position)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T145159Z" creationid="Marco Marega" creationdate="20160822T145159Z">
+        <seg>FIND(find_text; text; position)</seg>
       </tuv>
     </tu>
     <tu>
@@ -38319,6 +38359,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160527T151840Z" creationid="michele" creationdate="20160527T151840Z">
         <seg>Questa funzione è un metodo relativamente limitato per la generazione di subtotali .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This function is case-sensitive.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T145108Z" creationid="Marco Marega" creationdate="20160822T145108Z">
+        <seg>Questa funzione distingue tra maiuscole e minuscole.</seg>
       </tuv>
     </tu>
     <tu>
