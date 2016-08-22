@@ -6102,6 +6102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Text&lt;/f0&gt; refers to the text from which to remove all non-printable characters.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T142626Z" creationid="Marco Marega" creationdate="20160822T142626Z">
+        <seg>&lt;f0&gt;Testo&lt;/f0&gt; fa riferimento al testo da cui rimuovere tutti i caratteri non stampabili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Print in reverse page order&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; option can be selected with any of the above options.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T100414Z">
@@ -10163,6 +10171,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T165355Z" creationid="Marco Marega" creationdate="20160820T165355Z">
         <seg>SCEGLI(indice;&lt;f0&gt; &lt;/f0&gt;valore 1; ... valore 30)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CLEAN(text)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T142517Z" creationid="Marco Marega" creationdate="20160822T142517Z">
+        <seg>LIBERA(testo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -28749,6 +28765,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T140240Z" creationid="steevie" creationdate="20160511T140240Z">
         <seg>Rimuovere il filtro sul foglio attuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Removes all non-printing characters from the string.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T142544Z" creationid="Marco Marega" creationdate="20160822T142544Z">
+        <seg>Rimuove dalla stringa tutti i caratteri non stampabili.</seg>
       </tuv>
     </tu>
     <tu>
