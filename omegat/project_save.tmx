@@ -6126,6 +6126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Text&lt;/f0&gt; is the text where the initial partial words are to be determined.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T212712Z" creationid="Marco Marega" creationdate="20160822T212712Z">
+        <seg>&lt;f0&gt;Testo&lt;/f0&gt; è il testo da cui va estratta la parte iniziale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Text&lt;/f0&gt; refers to the text from which to remove all non-printable characters.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T142626Z" creationid="Marco Marega" creationdate="20160822T142626Z">
@@ -23952,6 +23960,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LEFT(text; number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T212500Z" creationid="Marco Marega" creationdate="20160822T212500Z">
+        <seg>SINISTRA(testo; numero)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LOG(number; base)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T131016Z" creationid="Marco Marega" creationdate="20160626T131016Z">
@@ -29805,6 +29821,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T132856Z" creationid="Marco Marega" creationdate="20160626T132856Z">
         <seg>Restituisce il fattoriale della somma dei parametri diviso per il prodotto dei fattoriali dei parametri.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero/i&lt;/f1&gt; è una lista, al massimo di 30 numeri, separati da punti e virgola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the first character or characters in a text string.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T212607Z" creationid="Marco Marega" creationdate="20160822T212607Z">
+        <seg>Restituisce il primo carattere o i primi caratteri di una stringa di testo.</seg>
       </tuv>
     </tu>
     <tu>
