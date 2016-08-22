@@ -16215,6 +16215,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>FIXED(number; decimals; no_thousands_separator)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T211736Z" creationid="Marco Marega" creationdate="20160822T211736Z">
+        <seg>FISSO(numero; decimali; nessun separatore migliaia)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>FLOOR(number; significance; mode)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T101916Z" creationid="Marco Marega" creationdate="20160626T101916Z">
