@@ -7070,6 +7070,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;Text&lt;/f2&gt; is the text where the search takes place.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T145522Z" creationid="Marco Marega" creationdate="20160822T145522Z">
+        <seg>&lt;f2&gt;Testo&lt;/f2&gt; è il testo al cui interno viene eseguita la ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;ThisComponent&lt;/f2&gt; is set by StarBasic when the macro starts to reference the current document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160616T092506Z" creationid="luciano" creationdate="20160616T092506Z">
@@ -7130,6 +7138,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T131533Z" creationid="Marco Marega" creationdate="20160820T131325Z">
         <seg>&lt;f3&gt;Nuovi dati X&lt;/f3&gt; (facoltativo) è la matrice dei dati delle X, nella quale vengono riconteggiati i valori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f3&gt;Position&lt;/f3&gt; (optional) is the position in the text from which the search starts.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T145602Z" creationid="Marco Marega" creationdate="20160822T145602Z">
+        <seg>&lt;f3&gt;Posizione&lt;/f3&gt; (facoltativo) è la posizione all'interno del testo dalla quale iniziare la ricerca.</seg>
       </tuv>
     </tu>
     <tu>
