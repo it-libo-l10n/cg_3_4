@@ -6952,8 +6952,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Position&lt;/f1&gt; is the position within the text where the replacement will begin.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T214405Z" creationid="Marco Marega" creationdate="20160822T214405Z">
-        <seg>&lt;f1&gt;Position&lt;/f1&gt; is the position within the text where the replacement will begin.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T214504Z" creationid="Marco Marega" creationdate="20160822T214405Z">
+        <seg>&lt;f1&gt;Posizione&lt;/f1&gt; è la posizione all'interno del testo da cui deve iniziare la sostituzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7090,6 +7090,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T133746Z" creationid="Marco Marega" creationdate="20160818T133746Z">
         <seg>&lt;f2&gt;Tipo di informazioni&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; non fa distinzione tra maiuscole e minuscole, ma deve essere racchiuso tra virgolette.&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Riferimento&lt;/f6&gt; è l'indirizzo della cella da esaminare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;Length&lt;/f2&gt; is the number of characters in &lt;f3&gt;text&lt;/f3&gt; to be replaced.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T214555Z" creationid="Marco Marega" creationdate="20160822T214555Z">
+        <seg>&lt;f2&gt;Numero caratteri&lt;/f2&gt; è il numero di caratteri del &lt;f3&gt;testo&lt;/f3&gt; che vanno sostituiti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7306,6 +7314,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T161103Z">
         <seg>&lt;f4&gt;LibreOffice&lt;/f4&gt; visualizzerà solo le celle comprese nell'area di stampa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f4&gt;New_text&lt;/f4&gt; is the text which replaces &lt;f5&gt;text&lt;/f5&gt;&lt;f6&gt;..&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T214655Z" creationid="Marco Marega" creationdate="20160822T214655Z">
+        <seg>&lt;f4&gt;Nuovo testo&lt;/f4&gt; è il testo che deve sostituire la parte del &lt;f5&gt;testo&lt;/f5&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
