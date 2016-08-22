@@ -6910,6 +6910,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;Number&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;(optional) is the number of characters for the start text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T212815Z" creationid="Marco Marega" creationdate="20160822T212815Z">
+        <seg>&lt;f1&gt;Numero&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;(facoltativo) è il numero di caratteri dall'inizio del testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;Radix&lt;/f1&gt; is the base of the number system.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T141905Z" creationid="Marco Marega" creationdate="20160822T141905Z">
@@ -21167,6 +21175,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If this parameter is not defined, one character is returned.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T212842Z" creationid="Marco Marega" creationdate="20160822T212842Z">
+        <seg>Se questo parametro non è definito, viene restituito un solo carattere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If this toolbar is not visible, you can show it using &lt;f1&gt;View &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Toolbars &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; Tools&lt;/f7&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T171811Z" creationid="Elisabetta" creationdate="20160722T171811Z">
@@ -23964,6 +23980,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T212500Z" creationid="Marco Marega" creationdate="20160822T212500Z">
         <seg>SINISTRA(testo; numero)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LEN(text)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T212852Z" creationid="Marco Marega" creationdate="20160822T212852Z">
+        <seg>LUNGHEZZA(testo)</seg>
       </tuv>
     </tu>
     <tu>
