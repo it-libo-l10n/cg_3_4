@@ -6126,10 +6126,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Text&lt;/f0&gt; is the text to be converted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T213132Z" creationid="Marco Marega" creationdate="20160822T213132Z">
+        <seg>&lt;f0&gt;Testo&lt;/f0&gt; è il testo da convertire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Text&lt;/f0&gt; is the text where the initial partial words are to be determined.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T212712Z" creationid="Marco Marega" creationdate="20160822T212712Z">
         <seg>&lt;f0&gt;Testo&lt;/f0&gt; è il testo da cui va estratta la parte iniziale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Text&lt;/f0&gt; is the text whose length is to be determined.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T212954Z" creationid="Marco Marega" creationdate="20160822T212954Z">
+        <seg>&lt;f0&gt;Testo&lt;/f0&gt; è il testo di cui va conteggiata la lunghezza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13651,6 +13667,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160815T132551Z" creationid="Marco Marega" creationdate="20160815T132551Z">
         <seg>Converte una  variabile casuale in un valore normalizzato.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; è il valore da standardizzare.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Valore medio&lt;/f3&gt; è la media aritmetica dalla distribuzione.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;DEV.ST&lt;/f5&gt; è la deviazione standard della distribuzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converts all uppercase letters in a text string to lowercase.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T213112Z" creationid="Marco Marega" creationdate="20160822T213112Z">
+        <seg>Converte in minuscolo tutte le lettere maiuscole presenti in una stringa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24024,6 +24048,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LOWER(text)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T213021Z" creationid="Marco Marega" creationdate="20160822T213021Z">
+        <seg>MINUSC(testo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Large handles</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T141803Z" creationid="steevie" creationdate="20160427T141803Z">
@@ -30125,6 +30157,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T112528Z" creationid="Marco Marega" creationdate="20160626T112528Z">
         <seg>Restituisce il minimo comune multiplo di uno o più interi.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Intero_1; intero_2;... intero_&lt;/f1&gt;&lt;f2&gt;30&lt;/f2&gt; sono gli interi di cui deve essere calcolato il minimo comune multiplo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the length of a string including spaces.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T212931Z" creationid="Marco Marega" creationdate="20160822T212931Z">
+        <seg>Restituisce la lunghezza di una stringa compresi gli spazi.</seg>
       </tuv>
     </tu>
     <tu>
