@@ -13511,6 +13511,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Converts a number to an amount in the currency format, rounded to a specified decimal place.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T144523Z" creationid="Marco Marega" creationdate="20160822T144523Z">
+        <seg>Converte un numero in una somma nel formato valuta, arrotondata al numero di cifre decimali specificato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Converts a positive integer to a specified base then into text using the characters from the base’s numbering system (decimal, binary, hexadecimal, etc.).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T141736Z" creationid="Marco Marega" creationdate="20160822T141736Z">
@@ -14379,6 +14387,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T092826Z" creationid="Marco Marega" creationdate="20160703T092826Z">
         <seg>TASSO.SCONTO(Liquidazione; scadenza; prezzo; rimborso; base)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DOLLAR(value; decimals)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T144355Z" creationid="Marco Marega" creationdate="20160822T144355Z">
+        <seg>VALUTA(valore; decimali)</seg>
       </tuv>
     </tu>
     <tu>
