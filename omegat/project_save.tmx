@@ -6478,6 +6478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Value&lt;/f0&gt; is the number to be converted to currency; it can be a number, a reference to a cell containing a number, or a formula which returns a number.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T144629Z" creationid="Marco Marega" creationdate="20160822T144629Z">
+        <seg>&lt;f0&gt;Valore&lt;/f0&gt; è il numero da convertire in valuta; può essere un numero, un riferimento da una cella contenente un numero, oppure una formula che restituisce un numero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;View&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;contains commands for modifying how the Calc user interface looks such as &lt;/f2&gt;&lt;f3&gt;Toolbars, Full Screen&lt;/f3&gt;&lt;f4&gt;, and &lt;/f4&gt;&lt;f5&gt;Zoom&lt;/f5&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T165143Z">
@@ -6818,6 +6826,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T100606Z" creationid="Marco Marega" creationdate="20160703T100606Z">
         <seg>&lt;f1&gt;Numero&lt;/f1&gt; è un numero decimale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;Decimals&lt;/f1&gt; (optional) is the number of decimal places.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T144650Z" creationid="Marco Marega" creationdate="20160822T144650Z">
+        <seg>&lt;f1&gt;Decimali&lt;/f1&gt; (facoltativo) è il numero di cifre decimali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20523,6 +20539,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T155711Z" creationid="steevie" creationdate="20160418T155711Z">
         <seg>Se necessario, cambiare le impostazioni da RGB (Red, Green, Blue - Rosso, Verde, Blu) oppure il sistema CMYK (Cyan, Magenta, Yellow, Black - Ciano, Magenta, Giallo Nero).o viceversa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If no decimals value is specified, all numbers in currency format will be displayed with two decimal places.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T144802Z" creationid="Marco Marega" creationdate="20160822T144802Z">
+        <seg>Se non viene specificato il numero di cifre decimali, tutti i numeri nel formato valuta vengono visualizzati con due cifre decimali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35726,6 +35750,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T142148Z" creationid="steevie" creationdate="20160511T142148Z">
         <seg>All'interno di una riga, i criteri di ogni colonna sono collegati da un AND.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The currency format is set in the system settings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T144844Z" creationid="Marco Marega" creationdate="20160822T144844Z">
+        <seg>Il formato valuta viene definito nelle impostazioni di sistema.</seg>
       </tuv>
     </tu>
     <tu>
