@@ -5342,6 +5342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Number&lt;/f0&gt; is the positive integer to be converted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T141831Z" creationid="Marco Marega" creationdate="20160822T141831Z">
+        <seg>&lt;f0&gt;Numero&lt;/f0&gt; è il numero intero positivo da convertire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Number&lt;/f0&gt; is the probability value for which the inverse Gamma distribution is to be calculated.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Alpha&lt;/f2&gt; is the parameter Alpha of the Gamma distribution.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Beta&lt;/f4&gt; is the parameter Beta of the Gamma distribution.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T125829Z" creationid="Marco Marega" creationdate="20160730T125731Z">
@@ -6822,6 +6830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;Radix&lt;/f1&gt; is the base of the number system.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T141905Z" creationid="Marco Marega" creationdate="20160822T141905Z">
+        <seg>&lt;f1&gt;Radice&lt;/f1&gt; è la base del sistema di numerazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;SP&lt;/f1&gt; is the probability of success on each trial.&lt;f2&gt; T_1&lt;/f2&gt; defines the lower limit for the number of trials.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T201628Z" creationid="Marco Marega" creationdate="20160726T201628Z">
@@ -6922,6 +6938,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160615T150418Z" creationid="luciano" creationdate="20160615T150418Z">
         <seg>&lt;f2&gt;LibreOffice&lt;/f2&gt; automaticamente crea una macro chiamata Main e apre i moduli per le modifiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;Minimum_length&lt;/f2&gt; (optional) is the minimum length of the character sequence that has been created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T142031Z" creationid="Marco Marega" creationdate="20160822T142031Z">
+        <seg>&lt;f2&gt;Lunghezza minima&lt;/f2&gt; (facoltativo) è la lunghezza minima della sequenza di caratteri che viene creata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20751,6 +20775,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the text is shorter than the indicated minimum length, zeros are added to the left of the string.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T142122Z" creationid="Marco Marega" creationdate="20160822T142122Z">
+        <seg>Se il testo è più corto della lunghezza minima indicata, vengono aggiunti degli zeri alla sinistra della stringa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the value 70 is in the top ten values, then all rows containing the value 70 in the filtered column are displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160510T142856Z" creationid="steevie" creationdate="20160510T142856Z">
@@ -23340,6 +23372,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160527T105040Z" creationid="antonio" creationdate="20160527T105040Z">
         <seg>Questo è il riepilogo dell'apertura di conto, cella C3, e tutte le operazioni successive.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It may be any positive integer between 2 and 36.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T141936Z" creationid="Marco Marega" creationdate="20160822T141936Z">
+        <seg>Può essere qualsiasi numero intero positivo compreso tra 2 e 36.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26421,6 +26461,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T160724Z" creationid="Luciano B." creationdate="20160326T160724Z">
         <seg>In Calc è disponibile un solo livello di Segnalibri (nome dei fogli) , indipendentemente dalle opzioni scelte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only the digits 0-9 and the letters A-Z are used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T141811Z" creationid="Marco Marega" creationdate="20160822T141811Z">
+        <seg>Vengono utilizzare solo le cifre 0-9 e le lettere A-Z.</seg>
       </tuv>
     </tu>
     <tu>
