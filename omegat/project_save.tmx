@@ -4478,6 +4478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Find_text&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;is the text to be found.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T145454Z" creationid="Marco Marega" creationdate="20160822T145454Z">
+        <seg>&lt;f0&gt;Testo ricercato&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;è il testo da cercare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Fit print range(s) on number of pages&lt;/f0&gt;&lt;f1&gt;—defines exactly how many pages the printout will take up.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T164610Z">
@@ -16177,8 +16185,8 @@
       <tuv lang="EN">
         <seg>FIND(find_text; text; position)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T145159Z" creationid="Marco Marega" creationdate="20160822T145159Z">
-        <seg>FIND(find_text; text; position)</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T145245Z" creationid="Marco Marega" creationdate="20160822T145159Z">
+        <seg>TROVA(testo ricercato; testo; posizione)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24332,6 +24340,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160423T122846Z" creationid="luciano" creationdate="20160423T122422Z">
         <seg>Guardando le immagini, si vedono alcune voci sulle quali risparmiare un po' di denaro: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Looks for a string of text within another string.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T145305Z" creationid="Marco Marega" creationdate="20160822T145305Z">
+        <seg>Cerca una stringa di testo all'interno di un'altra stringa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37251,6 +37267,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The search is case-sensitive.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T145432Z" creationid="Marco Marega" creationdate="20160822T145432Z">
+        <seg>La ricerca distingue tra maiuscole e minuscole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The search method you use depends on the type of data you are searching for.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T154538Z" creationid="Elisabetta" creationdate="20160726T154538Z">
@@ -37263,6 +37287,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T145348Z" creationid="Marco Marega" creationdate="20160626T145348Z">
         <seg>La ricerca supporta le espressioni regolari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The search term can be a number or any string of characters.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T145407Z" creationid="Marco Marega" creationdate="20160822T145407Z">
+        <seg>Il termine da cercare può essere un numero o qualsiasi stringa di caratteri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43175,6 +43207,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T150312Z" creationid="steevie" creationdate="20160503T150013Z">
         <seg>Dove possibile, ogni funzionalità viene spiegata usando sia la GUI (Graphical User Interface - Interfaccia Grafica Utente) che la programmazione con le macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Where to begin the search can also be defined.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T145327Z" creationid="Marco Marega" creationdate="20160822T145327Z">
+        <seg>E' possibile specificare anche da quale punto iniziare la ricerca.</seg>
       </tuv>
     </tu>
     <tu>
