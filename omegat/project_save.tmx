@@ -6118,6 +6118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Text_1; text_2; ... text_30&lt;/f0&gt; are text passages that are to be combined into one string.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T143052Z" creationid="Marco Marega" creationdate="20160822T143052Z">
+        <seg>&lt;f0&gt;Testo 1; testo 2; ... testo 30&lt;/f0&gt; sono i frammenti di testo che vanno uniti in un'unica stringa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Print in reverse page order&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; option can be selected with any of the above options.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T100414Z">
@@ -13239,6 +13247,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Combines several text strings into one string.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T142942Z" creationid="Marco Marega" creationdate="20160822T142942Z">
+        <seg>Unisce diverse stringhe di testo in un'unica stringa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Comma-separated-values (CSV) files are text files that contain the cell contents of a single sheet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T123958Z" creationid="michele" creationdate="20160524T123958Z">
@@ -14323,6 +14339,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T074808Z" creationid="Marco Marega" creationdate="20160821T074808Z">
         <seg>DDE(server; file; area;&lt;f0&gt; &lt;/f0&gt;modo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DECIMAL(text; radix)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T143101Z" creationid="Marco Marega" creationdate="20160822T143101Z">
+        <seg>DECIMALE(testo; radice)</seg>
       </tuv>
     </tu>
     <tu>
