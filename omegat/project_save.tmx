@@ -11447,6 +11447,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Capitalizes the first letter in all words of a text string.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T213629Z" creationid="Marco Marega" creationdate="20160822T213629Z">
+        <seg>Converte in maiuscolo la prima lettera di ogni parola presente in una stringa di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Case sensitive</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T150159Z" creationid="steevie" creationdate="20160427T150159Z">
@@ -24570,8 +24578,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>MID(text; start; number)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T213222Z" creationid="Marco Marega" creationdate="20160822T213222Z">
-        <seg>STRNGA.ESRAI(testo; inizio; numero)</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T213815Z" creationid="Marco Marega" creationdate="20160822T213222Z">
+        <seg>STRNGA.ESTRAI(testo; inizio; numero)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27449,6 +27457,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PROPER(text)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T213539Z" creationid="Marco Marega" creationdate="20160822T213539Z">
+        <seg>MAIUSC.INIZ(testo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PV(rate; NPER; PMT; FV; type)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160716T091206Z" creationid="Marco Marega" creationdate="20160716T091023Z">
@@ -28785,6 +28801,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>REPLACE(text; position; length; new_text)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T213812Z" creationid="Marco Marega" creationdate="20160822T213714Z">
+        <seg>RIMPIAZZA(testo; posizione; numero caratteri; nuovo testo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>RIGHT</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T144938Z" creationid="steevie" creationdate="20160509T144938Z">
@@ -29189,6 +29213,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T151126Z" creationid="antonio" creationdate="20160524T151039Z">
         <seg>Ripetete i passaggi 1-4 per ogni nuovo foglio, dando loro i nomi Carta di credito 2 e Finanziamento Auto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replaces part of a text string with a different text string.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T213733Z" creationid="Marco Marega" creationdate="20160822T213733Z">
+        <seg>Replaces part of a text string with a different text string.</seg>
       </tuv>
     </tu>
     <tu>
