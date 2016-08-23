@@ -18719,6 +18719,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, an invoice template might contain your company’s name, address and logo.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160823T060255Z" creationid="briga" creationdate="20160823T060255Z">
+        <seg>Per esempio, un modello di fattura potrebbe contenere i dati della società ed il logo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, below are some of the settings (although not a full list) that can be included in a Calc document and then saved as a template for later use:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160823T060138Z" creationid="briga" creationdate="20160823T060138Z">
@@ -44419,6 +44427,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also save menu and toolbar customizations in templates; see Chapter 14, Setting up and Customizing Calc, for more information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160823T060311Z" creationid="briga" creationdate="20160823T060311Z">
+        <seg>Nei modelli è anche possibile salvare le personalizzazioni del menu e della barra degli strumenti; vedere il Capitolo 14 (Personalizzare Calc) per maggiori informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also select a contiguous range of cells by first clicking in the &lt;f0&gt;STD&lt;/f0&gt; field on the status bar and changing it to &lt;f1&gt;EXT&lt;/f1&gt;, before clicking in the opposite corner of the range of cells.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T123300Z" creationid="michele" creationdate="20160525T123300Z">
@@ -46399,6 +46415,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T154212Z" creationid="Luciano B." creationdate="20160329T154212Z">
         <seg>invio tramite e-mail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>edit</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160823T060319Z" creationid="briga" creationdate="20160823T060319Z">
+        <seg>modifica</seg>
       </tuv>
     </tu>
     <tu>
