@@ -4886,6 +4886,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;IMPOWER&lt;/f0&gt;(complex _number; number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T140852Z" creationid="Marco Marega" creationdate="20160823T140852Z">
+        <seg>&lt;f0&gt;COMP.POTENZA&lt;/f0&gt;(numero complesso; numero)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;INTRATE&lt;/f0&gt;(settlement; maturity; investment;&lt;f1&gt; &lt;/f1&gt;redemption; basis)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T145138Z" creationid="Marco Marega" creationdate="20160703T145138Z">
@@ -21191,6 +21199,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>IMLOG2(complex _number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T140700Z" creationid="Marco Marega" creationdate="20160823T140700Z">
+        <seg>COMP.LOG2(numero complesso)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>INDEX</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T144940Z" creationid="steevie" creationdate="20160620T144940Z">
@@ -30873,6 +30889,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the binary logarithm of a &lt;f0&gt;complex_number&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;The &lt;f2&gt;complex number&lt;/f2&gt; is entered in the form "x + yi" or "x + yj"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T140750Z" creationid="Marco Marega" creationdate="20160823T140750Z">
+        <seg>Restituisce il logaritmo binario di un &lt;f0&gt;numero complesso&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;Il &lt;f2&gt;numero complesso&lt;/f2&gt; va inserito nella forma "x + yi" oppure "x + yj"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the binary number for the decimal number entered between –512 and 511.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T131416Z" creationid="Marco Marega" creationdate="20160823T131416Z">
@@ -30907,8 +30931,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Returns the common logarithm of a &lt;f0&gt;complex_number&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;The&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;complex number&lt;/f3&gt; is entered in the form "x + yi" or "x + yj"</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T140455Z" creationid="Marco Marega" creationdate="20160823T140455Z">
-        <seg>Returns the common logarithm of a &lt;f0&gt;complex_number&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;The&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;complex number&lt;/f3&gt; is entered in the form "x + yi" or "x + yj"</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T140639Z" creationid="Marco Marega" creationdate="20160823T140455Z">
+        <seg>Restituisce il logaritmo comune (in base 10) di un &lt;f0&gt;numero complesso&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;Il&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;numero complesso&lt;/f3&gt; va inserito nella forma "x + yi" oppure "x + yj"</seg>
       </tuv>
     </tu>
     <tu>
