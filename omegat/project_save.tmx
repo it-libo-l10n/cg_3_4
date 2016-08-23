@@ -6238,6 +6238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Text&lt;/f0&gt; is the text to be converted to a number.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T124735Z" creationid="Marco Marega" creationdate="20160823T124735Z">
+        <seg>&lt;f0&gt;Testo&lt;/f0&gt; è il testo da convertire in numero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Text&lt;/f0&gt; is the text to be converted.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T213132Z" creationid="Marco Marega" creationdate="20160822T213132Z">
@@ -7106,6 +7114,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T213432Z" creationid="Marco Marega" creationdate="20160822T213432Z">
         <seg>&lt;f1&gt;Inizio&lt;/f1&gt; è la posizione nel testo del primo carattere da estrarre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;Text&lt;/f1&gt; is the lower case letters you want to convert to upper case.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T124647Z" creationid="Marco Marega" creationdate="20160823T124647Z">
+        <seg>&lt;f1&gt;Testo&lt;/f1&gt; sono le lettere in minuscolo che volete convertire in maiuscolo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14075,6 +14091,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160815T132551Z" creationid="Marco Marega" creationdate="20160815T132551Z">
         <seg>Converte una  variabile casuale in un valore normalizzato.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; è il valore da standardizzare.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Valore medio&lt;/f3&gt; è la media aritmetica dalla distribuzione.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;DEV.ST&lt;/f5&gt; è la deviazione standard della distribuzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converts a text string into a number.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T124714Z" creationid="Marco Marega" creationdate="20160823T124714Z">
+        <seg>Converte in numero una stringa di testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35474,6 +35498,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;46&lt;/seq0&gt;: Add-in functions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T124753Z" creationid="Marco Marega" creationdate="20160823T124753Z">
+        <seg>Tabella &lt;seq0&gt;46&lt;/seq0&gt;: Funzioni aggiuntive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tear-off toolbars are not listed in the View menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T132157Z" creationid="michele" creationdate="20160414T132157Z">
@@ -43335,6 +43367,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T104811Z" creationid="michele" creationdate="20160608T104811Z">
         <seg>Di solito, create una formula per calcolare un risultato sulla base di valori esistenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VALUE(text)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T124654Z" creationid="Marco Marega" creationdate="20160823T124654Z">
+        <seg>VALORE(testo)</seg>
       </tuv>
     </tu>
     <tu>
