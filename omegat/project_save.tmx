@@ -31841,6 +31841,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SUBSTITUTE(text; search_text; new text; occurrence)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T111954Z" creationid="Marco Marega" creationdate="20160823T111954Z">
+        <seg>SOSTITUISCI(testo; cerca_testo; nuovo testo; occorrenza)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SUBTOTAL</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151250Z" creationid="steevie" creationdate="20160620T151250Z">
@@ -34941,6 +34949,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164141Z" creationid="steevie" creationdate="20160428T164141Z">
         <seg>Un piccolo triangolo nero a destra del nome permette di riconoscere facilmente i sottomenu nella lista delle Voci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Substitutes new text for old text in a string.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T112115Z" creationid="Marco Marega" creationdate="20160823T112115Z">
+        <seg>Sostituisce un testo con un nuovo testo all'interno di una stringa.</seg>
       </tuv>
     </tu>
     <tu>
