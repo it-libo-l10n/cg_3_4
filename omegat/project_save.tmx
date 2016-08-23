@@ -6190,6 +6190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Text&lt;/f0&gt; is the text of which the right part is to be determined.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T102939Z" creationid="Marco Marega" creationdate="20160823T102939Z">
+        <seg>&lt;f0&gt;Testo&lt;/f0&gt; è il testo di cui va trovata la parte destra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Text&lt;/f0&gt; is the text that represents a Roman number.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T141439Z" creationid="Marco Marega" creationdate="20160822T141439Z">
@@ -6994,6 +7002,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T130922Z" creationid="Marco Marega" creationdate="20160703T130922Z">
         <seg>&lt;f1&gt;Interesse nominale&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; il tasso di interesse nominale annuo.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;P&lt;/f4&gt;&lt;f5&gt; è&lt;/f5&gt; il numero di pagamenti di interessi in un anno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;Number&lt;/f1&gt; (optional) is the number of characters from the right part of the text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T103027Z" creationid="Marco Marega" creationdate="20160823T103027Z">
+        <seg>&lt;f1&gt;Numero&lt;/f1&gt; (facoltativo) è il numero di caratteri della parte destra del testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13879,6 +13895,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Converts a number into a Roman numeral.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T103055Z" creationid="Marco Marega" creationdate="20160823T103055Z">
+        <seg>Converte un numero in un numero romano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Converts a number into a character according to the current code table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T142315Z" creationid="Marco Marega" creationdate="20160822T142315Z">
@@ -14987,6 +15011,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T150352Z" creationid="Luciano B." creationdate="20160329T150352Z">
         <seg>Definisce il comportamento dei collegamenti su cui si fa clic nei file PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Defines the last character or characters in a text string.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T102947Z" creationid="Marco Marega" creationdate="20160823T102907Z">
+        <seg>Restituisce l'ultimo carattere o gli ultimi caratteri in una stringa di testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29209,6 +29241,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ROMAN(number; mode)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T103038Z" creationid="Marco Marega" creationdate="20160823T103038Z">
+        <seg>ROMANO(numero; modo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ROUND(number; count)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T135540Z" creationid="Marco Marega" creationdate="20160626T135340Z">
@@ -38391,6 +38431,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T141411Z" creationid="Marco Marega" creationdate="20160822T141411Z">
         <seg>Il valore deve essere compreso tra 0 e 3999.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The value range must be between 0 and 3999; the modes can be integers from 0 to 4.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T103147Z" creationid="Marco Marega" creationdate="20160823T103147Z">
+        <seg>Il valore deve essere compreso tra 0 e 3999; i modi possono essere dei numeri interi tra 0 e 4.</seg>
       </tuv>
     </tu>
     <tu>
