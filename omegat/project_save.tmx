@@ -4726,6 +4726,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;GESTEP&lt;/f0&gt;(number; step)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T133951Z" creationid="Marco Marega" creationdate="20160823T133930Z">
+        <seg>&lt;f0&gt;SOGLIA&lt;/f0&gt;(numero; valore soglia)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;HARMEAN&lt;/f0&gt;(number_1; number_2; ... number_30)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T134351Z" creationid="Marco Marega" creationdate="20160730T134351Z">
@@ -21671,6 +21679,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the &lt;f1&gt;number&lt;/f1&gt; is even, the following factorial is calculated: n*(N-2)*(n-4)*...*4*2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T133813Z" creationid="Marco Marega" creationdate="20160823T133813Z">
+        <seg>Se il &lt;f1&gt;numero&lt;/f1&gt; è pari, il fattoriale viene calcolato come segue: n*(N-2)*(n-4)*...*4*2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the &lt;f2&gt;number&lt;/f2&gt; is uneven, the following factorial is calculated: n*(N-2)*(n-4)*...*3*1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T133831Z" creationid="Marco Marega" creationdate="20160823T133831Z">
+        <seg>Se il &lt;f2&gt;numero&lt;/f2&gt; è dispari, il fattoriale viene calcolato come segue: n*(N-2)*(n-4)*...*3*1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the &lt;f3&gt;Line Style&lt;/f3&gt; and &lt;f4&gt;Line Color&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;icons are not displayed &lt;f6&gt;in the &lt;/f6&gt;&lt;f7&gt;F&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;ormatting&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; toolbar, select the down arrow on the right side of the &lt;/f10&gt;bar, then select &lt;f11&gt;Visible Buttons&lt;/f11&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T163010Z" creationid="Elisabetta" creationdate="20160722T162557Z">
@@ -30377,6 +30401,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns 1 if &lt;f0&gt;number&lt;/f0&gt; is greater than or equal to &lt;f1&gt;step&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T133945Z" creationid="Marco Marega" creationdate="20160823T133945Z">
+        <seg>Returns 1 if &lt;f0&gt;number&lt;/f0&gt; is greater than or equal to &lt;f1&gt;step&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns &lt;f0&gt;e&lt;/f0&gt; raised to the power of the given &lt;f1&gt;number&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T101649Z" creationid="Marco Marega" creationdate="20160626T101649Z">
@@ -30965,6 +30997,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T102223Z" creationid="Marco Marega" creationdate="20160730T102223Z">
         <seg>Restituisce la distribuzione esponenziale.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; è il valore di cui calcolare la distribuzione.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Lambda&lt;/f3&gt; è il valore parametro per la distribuzione esponenziale.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;C&lt;/f5&gt; è un valore logico che determina la forma della funzione.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;C&lt;/f7&gt;&lt;f8&gt; = 0&lt;/f8&gt; calcola la densità, e &lt;f9&gt;C&lt;/f9&gt; = 1 calcola la distribuzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the factorial of the &lt;f0&gt;number&lt;/f0&gt; with increments of 2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T133727Z" creationid="Marco Marega" creationdate="20160823T133727Z">
+        <seg>Restituisce il fattoriale del &lt;f0&gt;numero&lt;/f0&gt; con incrementi di due 2.</seg>
       </tuv>
     </tu>
     <tu>
