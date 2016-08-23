@@ -31321,6 +31321,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the integer power of a &lt;f0&gt;complex_number&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;The &lt;f2&gt;complex number&lt;/f2&gt; is entered in the form "x + yi" or "x + yj".&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Number&lt;/f4&gt; is the exponent.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T141448Z" creationid="Marco Marega" creationdate="20160823T141448Z">
+        <seg>Restituisce la potenza intera di un &lt;f0&gt;numero complesso&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;Il &lt;f2&gt;numero complesso&lt;/f2&gt; va inserito nella forma "x + yi" oppure "x + yj".&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Numero&lt;/f4&gt; è l'esponente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the integer result of a division operation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T134052Z" creationid="Marco Marega" creationdate="20160626T134052Z">
