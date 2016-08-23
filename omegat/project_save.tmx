@@ -4934,6 +4934,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;IMSUM&lt;/f0&gt;(complex_&lt;f1&gt;number&lt;/f1&gt;; complex_number_1; ...)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T145642Z" creationid="Marco Marega" creationdate="20160823T145642Z">
+        <seg>&lt;f0&gt;COMP.SOMMA&lt;/f0&gt;(numero &lt;f1&gt;complesso&lt;/f1&gt; 1; numero complesso 2; ...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;INTRATE&lt;/f0&gt;(settlement; maturity; investment;&lt;f1&gt; &lt;/f1&gt;redemption; basis)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T145138Z" creationid="Marco Marega" creationdate="20160703T145138Z">
@@ -27289,6 +27297,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OCT2BIN(number; places)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T145754Z" creationid="Marco Marega" creationdate="20160823T145754Z">
+        <seg>OCT.BINARIO(numero; CIFRE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ODD(number)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T132915Z" creationid="Marco Marega" creationdate="20160626T132915Z">
@@ -32169,6 +32185,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the subtraction of two &lt;f0&gt;complex_numbers&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;The &lt;f2&gt;complex_numbers&lt;/f2&gt; are entered in the form "x + yi" or "x + yj"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T145541Z" creationid="Marco Marega" creationdate="20160823T145541Z">
+        <seg>Restituisce la differenza tra due &lt;f0&gt;numeri complessi&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;I &lt;f2&gt;numeri complessi&lt;/f2&gt; vanno inseriti nella forma "x + yi" oppure "x + yj"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the sum of squares of deviations based on a sample mean.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number_1; number_2; ... number_30&lt;/f1&gt; are numerical values or ranges representing a sample.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T101354Z" creationid="Marco Marega" creationdate="20160730T101354Z">
@@ -32189,6 +32213,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T143635Z" creationid="Marco Marega" creationdate="20160820T143635Z">
         <seg>Restituisce la somma della somma dei quadrati dei valori corrispondenti in due matrici.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Matrice X&lt;/f1&gt; è la prima matrice i cui elementi vanno elevati al quadrato e sommati.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Matrice Y&lt;/f3&gt; è la seconda matrice i cui elementi vanno sommati ed elevati al quadrato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the sum of up to 29 complex numbers.&lt;f0&gt; &lt;/f0&gt;The &lt;f1&gt;complex_numbers &lt;/f1&gt;are entered in the form "x + yi" or "x + yj"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T145738Z" creationid="Marco Marega" creationdate="20160823T145738Z">
+        <seg>Restituisce la somma al massimo di 29 numeri complessi.&lt;f0&gt; &lt;/f0&gt;I &lt;f1&gt;numeri complessi&lt;/f1&gt;vanno inseriti nella forma "x + yi" oppure "x + yj"</seg>
       </tuv>
     </tu>
     <tu>
