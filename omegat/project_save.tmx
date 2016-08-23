@@ -6214,6 +6214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Text&lt;/f0&gt; is the text in which leading spaces are removed, or the cell in which the contents will be left-aligned.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T124508Z" creationid="Marco Marega" creationdate="20160823T124508Z">
+        <seg>&lt;f0&gt;Testo&lt;/f0&gt; è il testo da cui rimuovere gli spazi iniziali, o la cella i cui contenuti vanno allineati a sinistra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Text&lt;/f0&gt; is the text of which the right part is to be determined.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T102939Z" creationid="Marco Marega" creationdate="20160823T102939Z">
@@ -14099,6 +14107,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T100705Z" creationid="Marco Marega" creationdate="20160626T100705Z">
         <seg>Converte in gradi il &lt;f0&gt;numero&lt;/f0&gt; espresso in radianti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converts the string specified in the &lt;f0&gt;text&lt;/f0&gt; parameter to uppercase.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T124611Z" creationid="Marco Marega" creationdate="20160823T124611Z">
+        <seg>Converte in maiuscolo la stringa specificata nel parametro &lt;f0&gt;testo&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29721,6 +29737,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Removes spaces that are in front of a string, or aligns cell contents to the left.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T124424Z" creationid="Marco Marega" creationdate="20160823T124424Z">
+        <seg>Rimuove gli spazi che si trovano all'inizio di una stringa, o allinea a sinistra i contenuti di una cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Removes the current field from the area.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T150654Z" creationid="luciano" creationdate="20160509T150634Z">
@@ -35206,6 +35230,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T144306Z" creationid="Marco Marega" creationdate="20160820T144142Z">
         <seg>TENDENZA(dati Y; dati X; nuovi dati X; tipo retta)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TRIM(text)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T124327Z" creationid="Marco Marega" creationdate="20160823T124327Z">
+        <seg>ANNULLA.SPAZI(testo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -42127,6 +42159,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160816T154358Z" creationid="antonio" creationdate="20160816T154358Z">
         <seg>Digitare il riferimento è semplice un avolta che conoscete il formato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>UPPER(text)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T124532Z" creationid="Marco Marega" creationdate="20160823T124532Z">
+        <seg>MAIUSC(testo)</seg>
       </tuv>
     </tu>
     <tu>
