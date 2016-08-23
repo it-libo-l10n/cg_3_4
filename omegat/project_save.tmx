@@ -3598,6 +3598,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;BESSELI&lt;/f0&gt;(x; n)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T124930Z" creationid="Marco Marega" creationdate="20160823T124930Z">
+        <seg>&lt;f0&gt;BESSEL.I&lt;/f0&gt;(x; n)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;BETADIST&lt;/f0&gt;(number;&lt;f1&gt; a&lt;/f1&gt;lpha; beta; start; end)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T202210Z" creationid="Marco Marega" creationdate="20160726T202210Z">
@@ -6870,6 +6878,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;x&lt;/f0&gt; is the value on which the function will be calculated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T125037Z" creationid="Marco Marega" creationdate="20160823T125037Z">
+        <seg>&lt;f0&gt;x&lt;/f0&gt; è il valore su cui verrà calcolata la funzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;z&lt;/f0&gt; &lt;f1&gt;(Command)&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084247Z">
@@ -7170,6 +7186,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160213T105010Z">
         <seg>&lt;f1&gt;Potete creare, o scaricare ed installare, quanti modelli desiderate.&lt;/f1&gt; Se non specificate un modello quando create un nuovo foglio di lavoro, questo sarà basato sul modello predefinito per i fogli di lavoro.&lt;f2&gt; &lt;/f2&gt;Se non avete specificato un modello predefinito, &lt;f3&gt;LibreOffice&lt;/f3&gt; usa il modello vuoto che è fornito insieme al programma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;n&lt;/f1&gt; is the order of the Bessel function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T125057Z" creationid="Marco Marega" creationdate="20160823T125057Z">
+        <seg>&lt;f1&gt;n&lt;/f1&gt; è l'ordine della funzione di Bessel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11475,6 +11499,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160708T170226Z" creationid="Marco Marega" creationdate="20160708T170226Z">
         <seg>Calcola la duration di &lt;f0&gt;Macauley&lt;/f0&gt; modificata espressa in anni per un titolo con interessi a tasso fisso.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Liquidazione&lt;/f2&gt; è la data di acquisto del  titolo.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Scadenza&lt;/f4&gt; è la data di scadenza del titolo.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Tasso interesse nominale&lt;/f6&gt; è il tasso di interesse nominale annuo (tasso di interesse cedolare)&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;Rendimento&lt;/f8&gt; è il rendimento annuale del titolo.&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Frequenza&lt;/f10&gt; è il numero di pagamenti di interessi in un anno (1, 2 o 4).&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;Basee&lt;/f12&gt; indica il modo in cui viene calcolato l'anno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculates the modified Bessel function In(x).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T125011Z" creationid="Marco Marega" creationdate="20160823T125011Z">
+        <seg>Calcola la funzione modificata di Bessel In(x).</seg>
       </tuv>
     </tu>
     <tu>
