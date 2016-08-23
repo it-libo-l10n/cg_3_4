@@ -29281,6 +29281,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ROT13(ROT13(Text)) decrypts the code.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T103633Z" creationid="Marco Marega" creationdate="20160823T103633Z">
+        <seg>ROT13(ROT13(Testo)) decripta il testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ROT13(text)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T103306Z" creationid="Marco Marega" creationdate="20160823T103306Z">
@@ -31033,6 +31041,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the position of a text segment within a character string.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T103824Z" creationid="Marco Marega" creationdate="20160823T103824Z">
+        <seg>Restituisce la posizione di un segmento di testo all'interno di una stringa di caratteri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the positive square root of the given &lt;f0&gt;number&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;The value of the &lt;f2&gt;number&lt;/f2&gt; must be positive.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T144101Z" creationid="Marco Marega" creationdate="20160626T144101Z">
@@ -31637,6 +31653,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T091807Z" creationid="michele" creationdate="20160524T091807Z">
         <seg>B&lt;bk0/&gt;arra di stato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SEARCH(find_text; text; position)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T103756Z" creationid="Marco Marega" creationdate="20160823T103756Z">
+        <seg>RICERCA(testo ricercato; testo; posizione)</seg>
       </tuv>
     </tu>
     <tu>
@@ -38247,6 +38271,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T133947Z" creationid="Marco Marega" creationdate="20160820T133947Z">
         <seg>La matrice quadrata ha lo stesso numero di righe e colonne.&lt;f0&gt; &lt;/f0&gt;La &lt;f1&gt;Matrice&lt;/f1&gt; nella prima posizione è la prima matrice utilizzata nella moltiplicazione.&lt;f2&gt; &lt;/f2&gt;La &lt;f3&gt;Matrice&lt;/f3&gt; nella seconda posizione è la seconda matrice con lo stesso numero di righe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The start of the search can be set as an option.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T103910Z" creationid="Marco Marega" creationdate="20160823T103910Z">
+        <seg>Facoltativamente è possibile indicare il punto di inizio della ricerca.</seg>
       </tuv>
     </tu>
     <tu>
