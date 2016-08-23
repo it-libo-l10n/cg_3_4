@@ -6054,6 +6054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;&lt;f1&gt;ext&lt;/f1&gt; is the text in which text segments are to be exchanged.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T112156Z" creationid="Marco Marega" creationdate="20160823T112156Z">
+        <seg>&lt;f0&gt;T&lt;/f0&gt;&lt;f1&gt;esto&lt;/f1&gt; è il testo all'interno del quale vanno cambiati dei segmenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;he total number of internal tokens (that is, operators, variables, brackets) in the formula exceeds 512, or the total number of matrices the formula creates exceeds 150.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T202214Z" creationid="Elisabetta" creationdate="20160815T202214Z">
@@ -7254,6 +7262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;Search_text&lt;/f2&gt; is the text segment that is to be replaced (a number of times).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T112310Z" creationid="Marco Marega" creationdate="20160823T112310Z">
+        <seg>&lt;f2&gt;Cerca_testo&lt;/f2&gt; è il segmento di testo che va sostituito (per un numero di volte).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;Start_date&lt;/f2&gt; is the date from which the calculation is carried out.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T190006Z" creationid="Marco Marega" creationdate="20160817T190006Z">
@@ -7338,6 +7354,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T125616Z" creationid="steevie" creationdate="20160427T125616Z">
         <seg>Le macro di &lt;f3&gt;LibreOffice&lt;/f3&gt; Basic devono essere situate nell'intestazione del documento HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f3&gt;New text&lt;/f3&gt; is the text that is to replace the text segment.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T112338Z" creationid="Marco Marega" creationdate="20160823T112338Z">
+        <seg>&lt;f3&gt;Nuovo testo&lt;/f3&gt; è il testo che va a sostituire il segmento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7442,6 +7466,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T214655Z" creationid="Marco Marega" creationdate="20160822T214655Z">
         <seg>&lt;f4&gt;Nuovo testo&lt;/f4&gt; è il testo che deve sostituire la parte del &lt;f5&gt;testo&lt;/f5&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f4&gt;Occurrence&lt;/f4&gt; (optional) indicates how many occurrences of the search text are to be replaced.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T112422Z" creationid="Marco Marega" creationdate="20160823T112422Z">
+        <seg>&lt;f4&gt;Occorrenza&lt;/f4&gt; (facoltativo) indica quante occorrenze del testo cercato sono da sostituire.</seg>
       </tuv>
     </tu>
     <tu>
