@@ -4838,6 +4838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;IMARGUMENT&lt;/f0&gt;(complex _number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T135145Z" creationid="Marco Marega" creationdate="20160823T135145Z">
+        <seg>&lt;f0&gt;COMP.ARGOMENTO&lt;/f0&gt;(numero complesso)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;INTRATE&lt;/f0&gt;(settlement; maturity; investment;&lt;f1&gt; &lt;/f1&gt;redemption; basis)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T145138Z" creationid="Marco Marega" creationdate="20160703T145138Z">
@@ -21127,6 +21135,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>IMAGINARY(complex _number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T135019Z" creationid="Marco Marega" creationdate="20160823T135019Z">
+        <seg>COMP.IMMAGINARIO(numero complesso)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>INDEX</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T144940Z" creationid="steevie" creationdate="20160620T144940Z">
@@ -31177,6 +31193,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the imaginary coefficient of a &lt;f0&gt;complex_number&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T135047Z" creationid="Marco Marega" creationdate="20160823T135047Z">
+        <seg>Restituisce il coefficiente immaginario di un &lt;f0&gt;numero complesso&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the individual term binomial distribution probability.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;X&lt;/f1&gt; is the number of successes in a set of trials.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Trials&lt;/f3&gt; is the number of independent trials.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;SP&lt;/f5&gt; is the probability of success on each trial.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;C&lt;/f7&gt; = 0 calculates the probability of a single event and &lt;f8&gt;C&lt;/f8&gt; = 1 calculates the cumulative probability.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T204307Z" creationid="Marco Marega" creationdate="20160726T204307Z">
@@ -37230,6 +37254,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T134948Z" creationid="Marco Marega" creationdate="20160823T134948Z">
         <seg>Il numero complesso va inserito nella forma "x + &lt;f1&gt;yi&lt;/f1&gt;" oppure "x + &lt;f2&gt;yj&lt;/f2&gt;"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The complex number is entered in the form "x + yi" or "x + yj"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T135109Z" creationid="Marco Marega" creationdate="20160823T135109Z">
+        <seg>Il numero complesso va inserito nella forma  "x + yi" oppure "x + yj"</seg>
       </tuv>
     </tu>
     <tu>
