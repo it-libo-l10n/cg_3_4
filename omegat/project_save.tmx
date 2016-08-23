@@ -5454,6 +5454,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Number&lt;/f0&gt; is the decimal number.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T130714Z" creationid="Marco Marega" creationdate="20160823T130714Z">
+        <seg>&lt;f0&gt;Numero&lt;/f0&gt; è il numero decimale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Number&lt;/f0&gt; is the hexadecimal number.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T130741Z" creationid="Marco Marega" creationdate="20160823T130741Z">
+        <seg>&lt;f0&gt;Numero&lt;/f0&gt; è il numero esadecimale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Number&lt;/f0&gt; is the number that is to be converted into a Roman numeral.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T103211Z" creationid="Marco Marega" creationdate="20160823T103211Z">
@@ -7418,6 +7434,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T190006Z" creationid="Marco Marega" creationdate="20160817T190006Z">
         <seg>&lt;f2&gt;Data iniziale&lt;/f2&gt; è la data da cui parte il conteggio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;Suffix&lt;/f2&gt; is list of options, "i” or "j”.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T130702Z" creationid="Marco Marega" creationdate="20160823T130702Z">
+        <seg>&lt;f2&gt;Suffisso&lt;/f2&gt; è una lista di opzioni, "i” o "j”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10843,6 +10867,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T094249Z" creationid="Marco Marega" creationdate="20160626T094249Z">
         <seg>CONVERTI(valore; "testo"; "testo")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CONVERT_ADD(number; from_unit; to_unit)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T130916Z" creationid="Marco Marega" creationdate="20160823T130916Z">
+        <seg>CONVERTI_ADD(numero; da misura; a misura)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20395,6 +20427,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160723T160214Z" creationid="Elisabetta" creationdate="20160723T160214Z">
         <seg>&lt;i0/&gt;&lt;i1/&gt;Nascondere e mostrare i dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HEX2DEC(number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T130852Z" creationid="Marco Marega" creationdate="20160823T130852Z">
+        <seg>HEX.DECIMALE(numero)</seg>
       </tuv>
     </tu>
     <tu>
