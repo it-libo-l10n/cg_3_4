@@ -7494,6 +7494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;To_unit&lt;/f2&gt; is the unit to which conversion is taking place.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T131304Z" creationid="Marco Marega" creationdate="20160823T131304Z">
+        <seg>&lt;f2&gt;A misura&lt;/f2&gt; è l'unità di misura a cui effettuare la conversione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;Type&lt;/f2&gt; is one of two possible values, 0 (interval) or 1 (in calendar months).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T185338Z" creationid="Marco Marega" creationdate="20160817T185338Z">
@@ -15171,6 +15179,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T074808Z" creationid="Marco Marega" creationdate="20160821T074808Z">
         <seg>DDE(server; file; area;&lt;f0&gt; &lt;/f0&gt;modo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DEC2BIN(number; places)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T131320Z" creationid="Marco Marega" creationdate="20160823T131320Z">
+        <seg>DECIMALE.BINARIO(numero; cifre)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DEC2HEX(number; places)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T131433Z" creationid="Marco Marega" creationdate="20160823T131433Z">
+        <seg>DECIMALE.HEX(numero; cifre)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DEC2OCT(number; places)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T131511Z" creationid="Marco Marega" creationdate="20160823T131511Z">
+        <seg>DECIMALE.OCT(numero; cifre)</seg>
       </tuv>
     </tu>
     <tu>
@@ -30617,6 +30649,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the binary number for the decimal number entered between –512 and 511.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T131416Z" creationid="Marco Marega" creationdate="20160823T131416Z">
+        <seg>Restituisce il numero binario corrispondente al numero decimale inserito compreso tra –512 e 511.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the chi-square distribution from a random distribution of two test series based on the chi-square test for independence.&lt;f0&gt; &lt;/f0&gt;The probability determined by CHITEST can also be determined with CHIDIST, in which case the chi square of the random sample must then be passed as a parameter instead of the data row.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Data_B&lt;/f2&gt; is the array of the observations.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Data_E&lt;/f4&gt; is the range of the expected values.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T092251Z" creationid="Marco Marega" creationdate="20160730T092251Z">
@@ -30909,6 +30949,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T125907Z" creationid="Marco Marega" creationdate="20160823T125907Z">
         <seg>Restituisce il numero esadecimale corrispondente al numero binario inserito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the hexadecimal number for the decimal number entered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T131455Z" creationid="Marco Marega" creationdate="20160823T131455Z">
+        <seg>Restituisce il numero esadecimale corrispondente al numero decimale inserito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31445,6 +31493,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T130206Z" creationid="Marco Marega" creationdate="20160823T130206Z">
         <seg>Restituisce il numero ottale corrispondente al numero binario inserito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the octal number for the decimal number entered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T131527Z" creationid="Marco Marega" creationdate="20160823T131527Z">
+        <seg>Restituisce il numero ottale corrispondente al numero decimale inserito.</seg>
       </tuv>
     </tu>
     <tu>
