@@ -31361,6 +31361,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the hexadecimal number for the octal &lt;f0&gt;number&lt;/f0&gt; entered.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Number&lt;/f2&gt; is the octal number.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Places &lt;/f4&gt;&lt;f5&gt;is&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;the number of places to be output.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T150242Z" creationid="Marco Marega" creationdate="20160823T150242Z">
+        <seg>Restituisce il numero esadecimale corrispondente al &lt;f0&gt;numero&lt;/f0&gt; ottale inserito.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Numero&lt;/f2&gt; è il numero ottale.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Cifre &lt;/f4&gt;&lt;f5&gt;è&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;è il numero di cifre da restituire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the hour, as an integer, for the given time value.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number&lt;/f1&gt; is a time value.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T184954Z" creationid="Marco Marega" creationdate="20160817T184457Z">
