@@ -4846,6 +4846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;IMCONJUGATE&lt;/f0&gt;(complex _number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T135451Z" creationid="Marco Marega" creationdate="20160823T135451Z">
+        <seg>&lt;f0&gt;COMP.CONIUGATO&lt;/f0&gt;(numero complesso)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;INTRATE&lt;/f0&gt;(settlement; maturity; investment;&lt;f1&gt; &lt;/f1&gt;redemption; basis)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T145138Z" creationid="Marco Marega" creationdate="20160703T145138Z">
@@ -30757,6 +30765,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160813T132604Z" creationid="Marco Marega" creationdate="20160813T132604Z">
         <seg>Restituisce il percentile alfa dei valori presenti in una matrice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the argument (the phi angle) of a &lt;f0&gt;complex_number&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T135421Z" creationid="Marco Marega" creationdate="20160823T135421Z">
+        <seg>Restituisce l'argomento (angolo phi) di un &lt;f0&gt;numero complesso&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
