@@ -5478,6 +5478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Number&lt;/f0&gt; is the number to be converted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T131144Z" creationid="Marco Marega" creationdate="20160823T131144Z">
+        <seg>&lt;f0&gt;Numero&lt;/f0&gt; è il numero da convertire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Number&lt;/f0&gt; is the numerical value to be converted.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T113114Z" creationid="Marco Marega" creationdate="20160823T113056Z">
@@ -7106,6 +7114,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T113131Z" creationid="Marco Marega" creationdate="20160823T113131Z">
         <seg>&lt;f1&gt;Formato&lt;/f1&gt; è il testo che definisce il formato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;From_unit&lt;/f1&gt; is the unit from which conversion is taking place.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T131223Z" creationid="Marco Marega" creationdate="20160823T131223Z">
+        <seg>&lt;f1&gt;Da misura&lt;/f1&gt; è l'unità di misura da cui effettuare la conversione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14307,6 +14323,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T124714Z" creationid="Marco Marega" creationdate="20160823T124714Z">
         <seg>Converte in numero una stringa di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converts a value from one unit of measure to the corresponding value in another unit of measure.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T131130Z" creationid="Marco Marega" creationdate="20160823T131130Z">
+        <seg>Converte un valore da una unità di misura al valore corrispondente in un'altra unità di misura.</seg>
       </tuv>
     </tu>
     <tu>
