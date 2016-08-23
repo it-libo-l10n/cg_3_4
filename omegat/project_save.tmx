@@ -12399,6 +12399,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f2&gt;Yes&lt;/f2&gt; in the confirmation &lt;f3&gt;dialog&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160823T053520Z" creationid="briga" creationdate="20160823T053520Z">
+        <seg>Selezionate &lt;f2&gt;Sì&lt;/f2&gt; dalla &lt;f3&gt;finestra di dialogo&lt;/f3&gt; di conferma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose either &lt;f0&gt;Insert &gt; Columns &lt;/f0&gt;or&lt;f1&gt; Insert &gt; Rows&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T131120Z" creationid="michele" creationdate="20160525T131120Z">
@@ -14083,6 +14091,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T102345Z">
         <seg>Creare diagrammi e grafici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating a &lt;i0/&gt;spreadsheet from a template</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160823T053640Z" creationid="briga" creationdate="20160823T053640Z">
+        <seg>Creazione di un &lt;i0/&gt;foglio di lavoro da un modello</seg>
       </tuv>
     </tu>
     <tu>
@@ -39715,6 +39731,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To create a spreadsheet from a template:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160823T053657Z" creationid="briga" creationdate="20160823T053657Z">
+        <seg>Per creare un foglio di lavoro da un modello:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To create an auto filter, first select the columns to filter.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160510T143005Z" creationid="steevie" creationdate="20160510T143005Z">
@@ -39791,6 +39815,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T101727Z" creationid="Elisabetta" creationdate="20160629T101727Z">
         <seg>Per eliminare tutto, contenuti e formattazione della cella, selezionate l'opzione &lt;/f17&gt;&lt;f18&gt;Cancella tutto&lt;/f18&gt;&lt;f19&gt;.&lt;/f19&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To delete unwanted styles, right-click on them (one at a time) in the Styles and Formatting window and click &lt;f0&gt;Delete&lt;/f0&gt; on the &lt;f1&gt;context&lt;/f1&gt; menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160823T053437Z" creationid="briga" creationdate="20160823T053437Z">
+        <seg>Per eliminare gli stili indesiderati, visualizzate la finestra Stili e Formattazione, fate clic con il pulsante destro del mouse sugli stili da rimuovere (uno alla volta) e quindi selezionate &lt;f0&gt;Elimina&lt;/f0&gt; dal menu a &lt;f1&gt;comparsa&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45819,10 +45851,34 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>create document from template</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160823T053600Z" creationid="briga" creationdate="20160823T053600Z">
+        <seg>creazione di un documento a partire da un modello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>create from selection</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160820T053215Z" creationid="briga" creationdate="20160820T053215Z">
         <seg>creazione da una selezione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>create from template</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160823T053625Z" creationid="briga" creationdate="20160823T053625Z">
+        <seg>creazione da modello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>create spreadsheet from</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160823T053612Z" creationid="briga" creationdate="20160823T053612Z">
+        <seg>creare un nuovo foglio di lavoro da</seg>
       </tuv>
     </tu>
     <tu>
