@@ -7278,6 +7278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;Text&lt;/f2&gt; is the text where the search will take place.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T104119Z" creationid="Marco Marega" creationdate="20160823T104119Z">
+        <seg>&lt;f2&gt;Testo&lt;/f2&gt; è il testo all'interno del quale viene effettuata la ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;ThisComponent&lt;/f2&gt; is set by StarBasic when the macro starts to reference the current document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160616T092506Z" creationid="luciano" creationdate="20160616T092506Z">
@@ -7354,6 +7362,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T145602Z" creationid="Marco Marega" creationdate="20160822T145602Z">
         <seg>&lt;f3&gt;Posizione&lt;/f3&gt; (facoltativo) è la posizione all'interno del testo dalla quale iniziare la ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f3&gt;Position&lt;/f3&gt; (optional) is the position in the text where the search is to start.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T104151Z" creationid="Marco Marega" creationdate="20160823T104151Z">
+        <seg>&lt;f3&gt;Posizione&lt;/f3&gt; (facoltativo) è la posizioni all'interno del testo da cui iniziare la ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38091,6 +38107,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The search is not case-sensitive.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T104009Z" creationid="Marco Marega" creationdate="20160823T104009Z">
+        <seg>La ricerca non fa distinzione tra maiuscole e minuscole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The search method you use depends on the type of data you are searching for.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T154538Z" creationid="Elisabetta" creationdate="20160726T154538Z">
@@ -38107,10 +38131,26 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The search supports regular expressions.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Find_text&lt;/f1&gt; is the text to be searched for.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T104051Z" creationid="Marco Marega" creationdate="20160823T104051Z">
+        <seg>La ricerca supporta le espressioni regolari.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Testo ricercato&lt;/f1&gt; è il testo da cercare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The search term can be a number or any string of characters.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T145407Z" creationid="Marco Marega" creationdate="20160822T145407Z">
         <seg>Il termine da cercare può essere un numero o qualsiasi stringa di caratteri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The search text can be a number or any sequence of characters.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T103941Z" creationid="Marco Marega" creationdate="20160823T103941Z">
+        <seg>Il testo da cercare può essere un numero o qualunque sequenza di caratteri.</seg>
       </tuv>
     </tu>
     <tu>
