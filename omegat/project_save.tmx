@@ -4878,6 +4878,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;IMLN&lt;/f0&gt;(complex_number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T140357Z" creationid="Marco Marega" creationdate="20160823T140357Z">
+        <seg>&lt;f0&gt;COMP.LN&lt;/f0&gt;(numero complesso)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;INTRATE&lt;/f0&gt;(settlement; maturity; investment;&lt;f1&gt; &lt;/f1&gt;redemption; basis)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T145138Z" creationid="Marco Marega" creationdate="20160703T145138Z">
@@ -21175,6 +21183,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>IMLOG10(complex _number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T140458Z" creationid="Marco Marega" creationdate="20160823T140451Z">
+        <seg>COMP.LOG10(numero complesso)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>INDEX</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T144940Z" creationid="steevie" creationdate="20160620T144940Z">
@@ -30889,6 +30905,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the common logarithm of a &lt;f0&gt;complex_number&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;The&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;complex number&lt;/f3&gt; is entered in the form "x + yi" or "x + yj"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T140455Z" creationid="Marco Marega" creationdate="20160823T140455Z">
+        <seg>Returns the common logarithm of a &lt;f0&gt;complex_number&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;The&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;complex number&lt;/f3&gt; is entered in the form "x + yi" or "x + yj"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the computer system date and time.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T190306Z" creationid="Marco Marega" creationdate="20160817T190306Z">
@@ -31577,6 +31601,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the natural logarithm of a &lt;f0&gt;complex_number&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T140419Z" creationid="Marco Marega" creationdate="20160823T140419Z">
+        <seg>Restituisce il logaritmo naturale di un &lt;f0&gt;numero complesso&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the natural logarithm of the Gamma function, G(x), for the given &lt;f0&gt;number&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T130128Z" creationid="Marco Marega" creationdate="20160730T130128Z">
@@ -31813,6 +31845,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T144101Z" creationid="Marco Marega" creationdate="20160626T144101Z">
         <seg>Restituisce la radice quadrata positiva del &lt;f0&gt;numero&lt;/f0&gt; dato.&lt;f1&gt; &lt;/f1&gt;Il valore del &lt;f2&gt;numero&lt;/f2&gt; deve essere positivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the power of e (the Eulerian number) and the complex number.&lt;f0&gt; &lt;/f0&gt;The &lt;f1&gt;complex_number&lt;/f1&gt; is entered in the form "x + yi" or "x + yj"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T140329Z" creationid="Marco Marega" creationdate="20160823T140329Z">
+        <seg>Restituisce la potenza di e (numero di Eulero) ed il numero complesso.&lt;f0&gt; &lt;/f0&gt;Il &lt;f1&gt;numero complesso&lt;/f1&gt; va inserito nella forma "x + yi" oppure "x + yj"</seg>
       </tuv>
     </tu>
     <tu>
@@ -37326,6 +37366,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T135109Z" creationid="Marco Marega" creationdate="20160823T135109Z">
         <seg>Il numero complesso va inserito nella forma  "x + yi" oppure "x + yj"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The complex_number is entered in the form "x + yi" or "x + yj”</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T140437Z" creationid="Marco Marega" creationdate="20160823T140437Z">
+        <seg>Il numero complesso va inserito nella forma "x + yi" oppure "x + yj”</seg>
       </tuv>
     </tu>
     <tu>
