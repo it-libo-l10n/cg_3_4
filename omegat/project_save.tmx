@@ -13983,6 +13983,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Converts a number to a blank text string.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T112725Z" creationid="Marco Marega" creationdate="20160823T112725Z">
+        <seg>Converte un numero in una stringa di testo vuota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Converts a number to an amount in the currency format, rounded to a specified decimal place.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T144523Z" creationid="Marco Marega" creationdate="20160822T144523Z">
@@ -21675,6 +21683,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145218Z" creationid="steevie" creationdate="20160427T145218Z">
         <seg>Quando questa opzione non è abilitata, un riferimento circolare provoca un messaggio d'errore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If this parameter is missing, the search text is replaced throughout.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T112512Z" creationid="Marco Marega" creationdate="20160823T112512Z">
+        <seg>Se questo parametro è mancante, il testo ricercato viene sostituito sempre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35054,6 +35070,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T112211Z" creationid="Marco Marega" creationdate="20160625T081037Z">
         <seg>Sintassi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>T(value)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T112531Z" creationid="Marco Marega" creationdate="20160823T112531Z">
+        <seg>T(valore)</seg>
       </tuv>
     </tu>
     <tu>
