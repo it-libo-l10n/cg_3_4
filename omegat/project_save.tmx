@@ -8023,6 +8023,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A list of all the templates contained in that folder appears in the center box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160823T054121Z" creationid="briga" creationdate="20160823T054121Z">
+        <seg>Nel riquadro centrale appare un elenco di cartelle di modelli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A list of subsections drops down.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T145200Z" creationid="steevie" creationdate="20160418T145139Z">
@@ -8187,6 +8195,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T160756Z" creationid="Luciano B." creationdate="20160329T160756Z">
         <seg>Una chiave personale è memorizzata sul vostro computer come combinazione tra una chiave privata, che deve essere mantenuta segreta, e una chiave pubblica, che viene aggiunta ai vostri documenti quando li firmate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A preview of the template appears in the box on the right.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160823T054149Z" creationid="briga" creationdate="20160823T054149Z">
+        <seg>Un'anteprima del modello appare nel riquadro sulla destra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8555,6 +8571,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160616T093947Z" creationid="luciano" creationdate="20160616T093947Z">
         <seg>Aggiungere la cella A2:C5 in ogni foglio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add the content and styles that you want.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160823T054312Z" creationid="briga" creationdate="20160823T054312Z">
+        <seg>Aggiungete il contenuto e gli stili che preferite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12783,6 +12807,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Open&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt; The Templates and Documents dialog closes and a new document based on the selected template opens in Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160823T054236Z" creationid="briga" creationdate="20160823T054236Z">
+        <seg>Fate clic su &lt;f0&gt;Apri&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt; La finestra di dialogo Modelli e Documenti si chiude e in Calc si apre un nuovo documento basato sul modello selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Organizer&lt;/f0&gt; to open the &lt;f1&gt;LibreOffice&lt;/f1&gt; Basic Macro Organizer dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160614T144548Z" creationid="luciano" creationdate="20160614T144548Z">
@@ -14185,8 +14217,8 @@
       <tuv lang="EN">
         <seg>Creating a template</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160202T102834Z">
-        <seg>Creare un modello</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160823T054246Z">
+        <seg>Creazione di un modello</seg>
       </tuv>
     </tu>
     <tu>
@@ -15227,6 +15259,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160820T053926Z" creationid="briga" creationdate="20160820T053926Z">
         <seg>Fate doppio clic sul nome del modello o del documento desiderato e poi sull'icona Stili per visualizzare l'elenco dei singoli stili di formattazione (&lt;t0&gt;Figura 115&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Double-click the folder that contains the template that you want to use.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160823T054112Z" creationid="briga" creationdate="20160823T054112Z">
+        <seg>Fate doppio clic sulla cartella che contiene il modello che  volete usare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26969,6 +27009,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open a new or existing document of the type you want to make into a template (text document, spreadsheet, drawing, presentation).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160823T054309Z" creationid="briga" creationdate="20160823T054309Z">
+        <seg>Aprite un documento, nuovo o già esistente, del tipo per cui volete creare un modello (testo, foglio elettronico, disegno, presentazione).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open a new spreadsheet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160524T131000Z" creationid="luciano" creationdate="20160524T131000Z">
@@ -32737,6 +32785,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the template that you want to use.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160823T054123Z" creationid="briga" creationdate="20160823T054123Z">
+        <seg>Selezionate il modello che volete usare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the top border.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T144926Z" creationid="steevie" creationdate="20160509T144926Z">
@@ -37867,6 +37923,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The template’s properties appear in the box on the right.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160823T054212Z" creationid="briga" creationdate="20160823T054212Z">
+        <seg>Le proprietà del modello appaiono nel riquadro sulla destra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The terms used in LibreOffice for most parts of the &lt;i0/&gt;&lt;f1&gt;user interface&lt;/f1&gt; (the parts of the program you see and use, in contrast to the behind-the-scenes code that actually makes it work) are the same as for most other programs.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084322Z">
@@ -40491,6 +40555,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To preview the template, click the &lt;f0&gt;Preview&lt;/f0&gt; icon.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160823T054145Z" creationid="briga" creationdate="20160823T054145Z">
+        <seg>Per vedere l'anteprima del modello, fate clic sull'icona &lt;f0&gt;Anteprima&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To print this range:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T152842Z">
@@ -41159,6 +41231,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160424T134222Z" creationid="luciano" creationdate="20160424T134222Z">
         <seg>Per visualizzare il commento appena aggiunto, portate il cursore del mouse sulla cella con il commento; il commento apparirà, come mostrato sotto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To view the template’s properties, click the &lt;f0&gt;Document Properties&lt;/f0&gt; icon.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160823T054207Z" creationid="briga" creationdate="20160823T054207Z">
+        <seg>Per visualizzare le proprietà del modello, fate clic sull'icona &lt;f0&gt;Proprietà&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44491,6 +44571,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can create a template from a document:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160823T054257Z" creationid="briga" creationdate="20160823T054257Z">
+        <seg>Potete creare un modello da un documento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can create either a &lt;f0&gt;database range&lt;/f0&gt;, which has some database-like functionality, or a &lt;f1&gt;named range&lt;/f1&gt;, which does not.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T152656Z" creationid="steevie" creationdate="20160503T152656Z">
@@ -44775,6 +44863,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T125949Z" creationid="michele" creationdate="20160524T125949Z">
         <seg>Puoi visualizzare un'anteprima dei dati importati nella parte inferiore della finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can preview the selected template or view the template’s properties:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160823T054128Z" creationid="briga" creationdate="20160823T054128Z">
+        <seg>Potete vedere l'anteprima del modello selezionato oppure visualizzare le proprietà del modello:</seg>
       </tuv>
     </tu>
     <tu>
