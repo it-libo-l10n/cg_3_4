@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Note that you can only reapply styles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160823T060630Z" creationid="briga" creationdate="20160823T060630Z">
+        <seg>(Notate che è possibile riapplicare solo gli stili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Optional) Click &lt;f0&gt;Edit &gt; Changes &gt; Protect Records&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160422T155402Z" creationid="luciano" creationdate="20160422T155402Z">
@@ -40187,6 +40195,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To edit a template:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160823T060635Z" creationid="briga" creationdate="20160823T060635Z">
+        <seg>Per modificare un modello:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To edit inside the Input line area, click in the area, then type your changes.&lt;f6&gt; &lt;/f6&gt;To edit within the current cell, just &lt;f7&gt;double-click&lt;/f7&gt; the cell.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T083900Z" creationid="michele" creationdate="20160524T083900Z">
@@ -44835,6 +44851,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can edit a template’s styles and content, and then, if you wish, you can reapply the template’s styles to documents that were created from that template.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160823T060625Z" creationid="briga" creationdate="20160823T060625Z">
+        <seg>Potete modificare il contenuto e gli stili di un modello, e poi, se volete, riapplicare gli stili del modello ai documenti creati a partire da quel modello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can edit and format the text of a comment, just as you do for any other text.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160424T134803Z" creationid="luciano" creationdate="20160424T134803Z">
@@ -45287,6 +45311,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T102219Z" creationid="michele" creationdate="20160525T102219Z">
         <seg>Non è possibile trascinare copie di immagini, oggetti OLE o indici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You cannot reapply content.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160823T060632Z" creationid="briga" creationdate="20160823T060632Z">
+        <seg>Non potete riapplicare i contenuti).</seg>
       </tuv>
     </tu>
     <tu>
