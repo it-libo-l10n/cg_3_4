@@ -4398,6 +4398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;ERF&lt;/f0&gt;(lower_limit; upper_limit)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T131759Z" creationid="Marco Marega" creationdate="20160823T131759Z">
+        <seg>&lt;f0&gt;FUNZ.ERRORE&lt;/f0&gt;(limite inferiore; limite superiore)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;ERRORTYPE&lt;/f0&gt;(reference)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T075940Z" creationid="Marco Marega" creationdate="20160821T075845Z">
@@ -15219,6 +15227,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T100632Z" creationid="Marco Marega" creationdate="20160626T100335Z">
         <seg>GRADI(numero)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DELTA(number_1; number_2)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T131603Z" creationid="Marco Marega" creationdate="20160823T131603Z">
+        <seg>DELTA(numero 1; numero 2)</seg>
       </tuv>
     </tu>
     <tu>
@@ -30317,6 +30333,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T101649Z" creationid="Marco Marega" creationdate="20160626T101649Z">
         <seg>Restituisce &lt;f0&gt;e&lt;/f0&gt; elevato alla potenza specificata dal &lt;f1&gt;numero&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns TRUE (1) if both &lt;f0&gt;numbers&lt;/f0&gt; are equal, otherwise returns FALSE (0).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T131658Z" creationid="Marco Marega" creationdate="20160823T131658Z">
+        <seg>Restituisce VERO (1) se i &lt;f0&gt;numeri&lt;/f0&gt; sono uguali, altrimenti restituisce FALSO (0).</seg>
       </tuv>
     </tu>
     <tu>
