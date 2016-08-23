@@ -5734,6 +5734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Real_num&lt;/f0&gt; is the real coefficient of the complex number.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T130517Z" creationid="Marco Marega" creationdate="20160823T130418Z">
+        <seg>&lt;f0&gt;Parte reale&lt;/f0&gt; è il coefficiente reale del numero complesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Reduce/Enlarge printout&lt;/f0&gt;—scales the data in the printout either larger or smaller.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T164148Z">
@@ -7082,6 +7090,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T113131Z" creationid="Marco Marega" creationdate="20160823T113131Z">
         <seg>&lt;f1&gt;Formato&lt;/f1&gt; è il testo che definisce il formato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;I_num&lt;/f1&gt; is the imaginary coefficient of the complex number.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T130544Z" creationid="Marco Marega" creationdate="20160823T130544Z">
+        <seg>&lt;f1&gt;Coefficiente immaginario&lt;/f1&gt; è il coefficiente immaginario del numero complesso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10795,6 +10811,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142943Z" creationid="steevie" creationdate="20160504T142943Z">
         <seg>COLUMN_HEADER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>COMPLEX(real_&lt;f0&gt;num&lt;/f0&gt;; i_num; suffix)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T130350Z" creationid="Marco Marega" creationdate="20160823T130350Z">
+        <seg>COMPLESSO(parte &lt;f0&gt;reale&lt;/f0&gt;; coefficiente immaginario; suffisso)</seg>
       </tuv>
     </tu>
     <tu>
@@ -30309,6 +30333,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T163948Z" creationid="Marco Marega" creationdate="20160820T163948Z">
         <seg>Restituisce l'indirizzo di una cella (riferimento) come testo, in base ai numeri di riga e colonna specificati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns a complex number from a real coefficient and an imaginary coefficient.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T130454Z" creationid="Marco Marega" creationdate="20160823T130415Z">
+        <seg>Restituisce un numero complesso a partire da un coefficiente reale e un coefficiente immaginario.</seg>
       </tuv>
     </tu>
     <tu>
