@@ -3606,6 +3606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;BESSELJ&lt;/f0&gt;(x; n)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T125119Z" creationid="Marco Marega" creationdate="20160823T125119Z">
+        <seg>&lt;f0&gt;BESSEL.J&lt;/f0&gt;(x; n)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;BETADIST&lt;/f0&gt;(number;&lt;f1&gt; a&lt;/f1&gt;lpha; beta; start; end)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T202210Z" creationid="Marco Marega" creationdate="20160726T202210Z">
@@ -7198,6 +7206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;x&lt;/f1&gt; is the value on which the function will be calculated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T125210Z" creationid="Marco Marega" creationdate="20160823T125210Z">
+        <seg>&lt;f1&gt;x&lt;/f1&gt; è il valore su cui verrà calcolata la funzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;Andrew Pitonyak</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090305Z">
@@ -7386,6 +7402,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T185338Z" creationid="Marco Marega" creationdate="20160817T185338Z">
         <seg>&lt;f2&gt;Tipo&lt;/f2&gt; è uno tra i due possibili valori, 0 (intervallo) o 1 (in mesi di calendario).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f2&gt;n&lt;/f2&gt; is the order of the Bessel function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T125223Z" creationid="Marco Marega" creationdate="20160823T125223Z">
+        <seg>&lt;f2&gt;n&lt;/f2&gt; è l'ordine della funzione di Bessel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11235,6 +11259,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T144912Z" creationid="Marco Marega" creationdate="20160626T144736Z">
         <seg>Calcola subtotali.&lt;f0&gt; &lt;/f0&gt;Se un intervallo contiene già subtotali, questi non vengono utilizzati per ulteriori calcoli.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Funzione&lt;/f2&gt; che indica un'altra funzione come:&lt;f3&gt; &lt;/f3&gt;Media, Conta, Min, Somma, Var.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Intervallo&lt;/f5&gt; è l'intervallo delle celle da includere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculates the Bessel function &lt;f0&gt;Jn&lt;/f0&gt;(x) (cylinder function).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T125153Z" creationid="Marco Marega" creationdate="20160823T125153Z">
+        <seg>Calcola la funzione di Bessel &lt;f0&gt;Jn&lt;/f0&gt;(x) (funzione del cilindro).</seg>
       </tuv>
     </tu>
     <tu>
