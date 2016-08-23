@@ -4854,6 +4854,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;IMCOS&lt;/f0&gt;(complex_number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T135732Z" creationid="Marco Marega" creationdate="20160823T135732Z">
+        <seg>&lt;f0&gt;COMP.COS&lt;/f0&gt;(numero complesso)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;IMDIV&lt;/f0&gt;(numerator; denominator)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T135909Z" creationid="Marco Marega" creationdate="20160823T135909Z">
+        <seg>&lt;f0&gt;COMP.DIV&lt;/f0&gt;(numeratore; denominatore)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;INTRATE&lt;/f0&gt;(settlement; maturity; investment;&lt;f1&gt; &lt;/f1&gt;redemption; basis)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T145138Z" creationid="Marco Marega" creationdate="20160703T145138Z">
@@ -30873,6 +30889,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the conjugated complex complement to a &lt;f0&gt;complex_number&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;The complex number is entered in the form "x + yi" or "x + yj"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T135708Z" creationid="Marco Marega" creationdate="20160823T135708Z">
+        <seg>Restituisce il complesso coniugato di un &lt;f0&gt;numero complesso&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;Il numero complesso va inserito nella forma "x + yi" oppure "x + yj"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the constant interest rate per period of an annuity.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;NPER&lt;/f1&gt; is the total number of periods, during which payments are made (payment period).&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;PMT&lt;/f3&gt; is the constant payment (annuity) paid during each period.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;PV&lt;/f5&gt; is the cash value in the sequence of payments.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;FV&lt;/f7&gt; (optional) is the future value, which is reached at the end of the periodic payments.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Type&lt;/f9&gt; (optional) defines whether the payment is due at the beginning (1) or the end (0) of a period.&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;Guess&lt;/f11&gt; (optional) determines the estimated value of the interest with iterative calculation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160716T092748Z" creationid="Marco Marega" creationdate="20160716T092748Z">
@@ -30909,6 +30933,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T092902Z" creationid="Marco Marega" creationdate="20160730T092902Z">
         <seg>Restituisce il coefficiente di correlazione tra due insiemi di dati.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati 1&lt;/f1&gt; è il primo insieme di dati.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Dati 2&lt;/f3&gt; è il secondo insieme di dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the cosine of a &lt;f0&gt;complex_number&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;The &lt;f2&gt;complex number&lt;/f2&gt; is entered in the form "x + yi" or "x + yj"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T135847Z" creationid="Marco Marega" creationdate="20160823T135847Z">
+        <seg>Restituisce il coseno di un &lt;f0&gt;numero complesso&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;Il &lt;f2&gt;numero complesso&lt;/f2&gt; va inserito nella forma "x + yi" oppure "x + yj"</seg>
       </tuv>
     </tu>
     <tu>
