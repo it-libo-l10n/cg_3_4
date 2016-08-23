@@ -5406,6 +5406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Number&lt;/f0&gt; is the number that is to be converted into a Roman numeral.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T103211Z" creationid="Marco Marega" creationdate="20160823T103211Z">
+        <seg>&lt;f0&gt;Numero&lt;/f0&gt; è il numero da convertire in numero romano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Number&lt;/f0&gt; is the positive integer to be converted.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T141831Z" creationid="Marco Marega" creationdate="20160822T141831Z">
@@ -6986,6 +6994,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T132823Z" creationid="Marco Marega" creationdate="20160818T132723Z">
         <seg>&lt;f1&gt;Valore logico 1; valore logico 2; ...valore logico 30&lt;/f1&gt; sono le condizioni da verificare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;Mode&lt;/f1&gt; (optional) indicates the degree of simplification.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T103234Z" creationid="Marco Marega" creationdate="20160823T103234Z">
+        <seg>&lt;f1&gt;Modo&lt;/f1&gt; (facoltativo) indica il grado di semplificazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29249,6 +29265,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ROT13(text)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T103306Z" creationid="Marco Marega" creationdate="20160823T103306Z">
+        <seg>ROT13(testo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ROUND(number; count)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T135540Z" creationid="Marco Marega" creationdate="20160626T135340Z">
@@ -37135,6 +37159,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T165904Z" creationid="Elisabetta" creationdate="20160726T165904Z">
         <seg>Il file della Guida illustra diverse espressioni regolari e i relativi usi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The higher the value, the greater is the simplification of the Roman numeral.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T103300Z" creationid="Marco Marega" creationdate="20160823T103300Z">
+        <seg>Più alto è il valore, maggiore è la semplificazione del numero romano.</seg>
       </tuv>
     </tu>
     <tu>
