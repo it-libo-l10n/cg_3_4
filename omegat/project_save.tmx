@@ -5414,6 +5414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Number&lt;/f0&gt; is the numerical value to be converted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T113114Z" creationid="Marco Marega" creationdate="20160823T113056Z">
+        <seg>&lt;f0&gt;Numero&lt;/f0&gt; è il valore numerico da convertire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Number&lt;/f0&gt; is the positive integer to be converted.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T141831Z" creationid="Marco Marega" creationdate="20160822T141831Z">
@@ -6994,6 +7002,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T155907Z" creationid="michele" creationdate="20160525T155907Z">
         <seg>&lt;f1&gt;Doppio clic&lt;/f1&gt; un nome da applicare allo scenario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;Format&lt;/f1&gt; is the text which defines the format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T113131Z" creationid="Marco Marega" creationdate="20160823T113131Z">
+        <seg>&lt;f1&gt;Formato&lt;/f1&gt; è il testo che definisce il formato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13995,6 +14011,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T142315Z" creationid="Marco Marega" creationdate="20160822T142315Z">
         <seg>Converte un numero in un carattere in base alla tabella dei codici carattere attiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converts a number into text according to a given format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T113101Z" creationid="Marco Marega" creationdate="20160823T113046Z">
+        <seg>Converte un numero in un testo in base al formato indicato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35130,6 +35154,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TEXT(number; format)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T113023Z" creationid="Marco Marega" creationdate="20160823T113023Z">
+        <seg>TESTO(numero; formato)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TIME(hour; minute; second)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T190719Z" creationid="Marco Marega" creationdate="20160817T190719Z">
@@ -42455,6 +42487,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125326Z" creationid="steevie" creationdate="20160517T125326Z">
         <seg>Uso di un filtro speciale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use decimal and thousands separators according to the language set in the cell format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T113238Z" creationid="Marco Marega" creationdate="20160823T113238Z">
+        <seg>I separatori dei decimali e delle migliaia vengono usati in base al linguaggio impostato nel formato della cella.</seg>
       </tuv>
     </tu>
     <tu>
