@@ -7894,6 +7894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f5&gt;Places&lt;/f5&gt; is the number of places to be output.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T145919Z" creationid="Marco Marega" creationdate="20160823T145919Z">
+        <seg>&lt;f5&gt;Cifre&lt;/f5&gt; è il numero di cifre da restituire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f6&gt;Data &gt; Validity&lt;/f6&gt;&lt;br7/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T161128Z" creationid="Luciano B." creationdate="20160411T161023Z">
@@ -27305,6 +27313,22 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OCT2DEC(number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T145929Z" creationid="Marco Marega" creationdate="20160823T145929Z">
+        <seg>OCT.DECIMALE(numero)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OCT2HEX(number; places)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T150025Z" creationid="Marco Marega" creationdate="20160823T150025Z">
+        <seg>OCT.HEX(numero; cifre)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ODD(number)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T132915Z" creationid="Marco Marega" creationdate="20160626T132915Z">
@@ -30969,6 +30993,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the binary number for the octal &lt;f0&gt;number&lt;/f0&gt; entered.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Number&lt;/f2&gt;&lt;f3&gt; is&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;the octal number.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T145902Z" creationid="Marco Marega" creationdate="20160823T145902Z">
+        <seg>Restituisce il numero binario corrispondente al &lt;f0&gt;numero&lt;/f0&gt; ottale inserito.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Numero&lt;/f2&gt;&lt;f3&gt; è&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;il numero ottale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the chi-square distribution from a random distribution of two test series based on the chi-square test for independence.&lt;f0&gt; &lt;/f0&gt;The probability determined by CHITEST can also be determined with CHIDIST, in which case the chi square of the random sample must then be passed as a parameter instead of the data row.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Data_B&lt;/f2&gt; is the array of the observations.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Data_E&lt;/f4&gt; is the range of the expected values.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T092251Z" creationid="Marco Marega" creationdate="20160730T092251Z">
@@ -31181,6 +31213,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T134147Z" creationid="Marco Marega" creationdate="20160823T134147Z">
         <seg>Restituisce il numero decimale corrispondente al numero esadecimale inserito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the decimal number for the octal &lt;f0&gt;number&lt;/f0&gt; entered.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Number&lt;/f2&gt; is the octal number.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T150009Z" creationid="Marco Marega" creationdate="20160823T150009Z">
+        <seg>Restituisce il numero decimale corrispondente al &lt;f0&gt;numero&lt;/f0&gt; ottale inserito.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Numero&lt;/f2&gt;&lt;f3&gt; è&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;il numero ottale.</seg>
       </tuv>
     </tu>
     <tu>
