@@ -3614,6 +3614,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;BESSELK&lt;/f0&gt;(x; n)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T125429Z" creationid="Marco Marega" creationdate="20160823T125429Z">
+        <seg>&lt;f0&gt;BESSEL.K&lt;/f0&gt;(x; n)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;BESSELY&lt;/f0&gt;(x; n)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T125548Z" creationid="Marco Marega" creationdate="20160823T125548Z">
+        <seg>&lt;f0&gt;BESSEL.Y&lt;/f0&gt;(x; n)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;BETADIST&lt;/f0&gt;(number;&lt;f1&gt; a&lt;/f1&gt;lpha; beta; start; end)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T202210Z" creationid="Marco Marega" creationdate="20160726T202210Z">
@@ -7510,6 +7526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f3&gt;n&lt;/f3&gt; is the order of the Bessel function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T125545Z" creationid="Marco Marega" creationdate="20160823T125545Z">
+        <seg>&lt;f3&gt;n&lt;/f3&gt; è l'ordine della funzione di Bessel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f4&gt;&lt;s5/&gt;&lt;/f4&gt;&lt;f6&gt;FV&lt;/f6&gt; is determines what is desired as the cash value of the deposit.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160716T122905Z" creationid="Marco Marega" creationdate="20160716T122849Z">
@@ -10247,6 +10271,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>BIN2DEC(number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T125704Z" creationid="Marco Marega" creationdate="20160823T125704Z">
+        <seg>BINARIO.DECIMALE(numero)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>BOTTOM</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T144927Z" creationid="steevie" creationdate="20160509T144927Z">
@@ -11265,8 +11297,8 @@
       <tuv lang="EN">
         <seg>Calculates the Bessel function &lt;f0&gt;Jn&lt;/f0&gt;(x) (cylinder function).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T125153Z" creationid="Marco Marega" creationdate="20160823T125153Z">
-        <seg>Calcola la funzione di Bessel &lt;f0&gt;Jn&lt;/f0&gt;(x) (funzione del cilindro).</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T125438Z" creationid="Marco Marega" creationdate="20160823T125153Z">
+        <seg>Calcola la funzione di Bessel &lt;f0&gt;Jn&lt;/f0&gt;(x) (funzione cilindrica).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11535,10 +11567,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calculates the modified Bessel function &lt;f0&gt;Yn&lt;/f0&gt;(x), also known as the Weber or Neumann function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T125629Z" creationid="Marco Marega" creationdate="20160823T125629Z">
+        <seg>Calcola la funzione modificata di Bessel &lt;f0&gt;Yn&lt;/f0&gt;(x), conosciuta anche come funzione di Weber o Neumann.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calculates the modified Bessel function In(x).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T125011Z" creationid="Marco Marega" creationdate="20160823T125011Z">
         <seg>Calcola la funzione modificata di Bessel In(x).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculates the modified Bessel function Kn(x).&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;x&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;is the value on which the function will be calculated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T125524Z" creationid="Marco Marega" creationdate="20160823T125524Z">
+        <seg>Calcola la funzione modificata di Bessel Kn(x).&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;x&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;è il valore su cui verrà calcolata la funzione.</seg>
       </tuv>
     </tu>
     <tu>
