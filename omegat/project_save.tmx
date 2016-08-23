@@ -4870,6 +4870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;IMEXP&lt;/f0&gt;(complex_number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T140033Z" creationid="Marco Marega" creationdate="20160823T140033Z">
+        <seg>&lt;f0&gt;COMP.EXP&lt;/f0&gt;(numero complesso)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;INTRATE&lt;/f0&gt;(settlement; maturity; investment;&lt;f1&gt; &lt;/f1&gt;redemption; basis)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T145138Z" creationid="Marco Marega" creationdate="20160703T145138Z">
@@ -31101,6 +31109,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T182800Z" creationid="Marco Marega" creationdate="20160817T182800Z">
         <seg>Restituisce la differenza tra due date basandosi sull'anno a 360 giorni usato nei calcoli degli interessi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the division of two complex numbers.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numerator&lt;/f1&gt;, &lt;f2&gt;Denominator &lt;/f2&gt;are entered in the form "x + yi" or "x + yj"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T140008Z" creationid="Marco Marega" creationdate="20160823T140008Z">
+        <seg>Restituisce la divisione di due numeri complessi.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numeratore&lt;/f1&gt; e &lt;f2&gt;Denominatore &lt;/f2&gt;vanno inseriti nella forma "x + yi" oppure "x + yj"</seg>
       </tuv>
     </tu>
     <tu>
