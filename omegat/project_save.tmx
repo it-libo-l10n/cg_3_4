@@ -5446,6 +5446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Number&lt;/f0&gt; is the binary number.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Places&lt;/f2&gt; is the number of places to be output.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T130240Z" creationid="Marco Marega" creationdate="20160823T130240Z">
+        <seg>&lt;f0&gt;Numero&lt;/f0&gt; è il numero binario.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Cifre&lt;/f2&gt; è il numero di cifre da restituire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Number&lt;/f0&gt; is the number that is to be converted into a Roman numeral.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T103211Z" creationid="Marco Marega" creationdate="20160823T103211Z">
@@ -7130,6 +7138,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T212815Z" creationid="Marco Marega" creationdate="20160822T212815Z">
         <seg>&lt;f1&gt;Numero&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;(facoltativo) è il numero di caratteri dall'inizio del testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;Places&lt;/f1&gt; is the number of places to be output.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T130107Z" creationid="Marco Marega" creationdate="20160823T130107Z">
+        <seg>&lt;f1&gt;Cifre&lt;/f1&gt; è il numero di cifre da restituire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10291,6 +10307,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T125843Z" creationid="Marco Marega" creationdate="20160823T125843Z">
         <seg>BINARIO.HEX(numero; cifre)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>BIN2OCT(number; places)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T130149Z" creationid="Marco Marega" creationdate="20160823T130149Z">
+        <seg>BINARIO.OCT(numero; cifre)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31317,6 +31341,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T185905Z" creationid="Marco Marega" creationdate="20160817T185905Z">
         <seg>Restituisce il numero di giorni lavorativi tra la &lt;f0&gt;data iniziale&lt;/f0&gt; e la &lt;f1&gt;data finale&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the octal number for the binary number entered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T130206Z" creationid="Marco Marega" creationdate="20160823T130206Z">
+        <seg>Restituisce il numero ottale corrispondente al numero binario inserito.</seg>
       </tuv>
     </tu>
     <tu>
