@@ -5230,6 +5230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Lower_limit&lt;/f0&gt; is the lower limit of integral.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T132017Z" creationid="Marco Marega" creationdate="20160823T132017Z">
+        <seg>&lt;f0&gt;Limite inferiore&lt;/f0&gt;  è il limite inferiore dell'integrale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;MAXA&lt;/f0&gt;(value_1; value_2; ... &lt;s1/&gt;value_30)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T190436Z" creationid="Marco Marega" creationdate="20160807T190436Z">
@@ -7282,6 +7290,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T212730Z" creationid="Marco Marega" creationdate="20160817T212730Z">
         <seg>&lt;f1&gt;Tipo&lt;/f1&gt; indica il tipo di calcolo: &lt;s2/&gt;tipo = 1 (predefinito), i giorni della settimana vengono contati partendo dalla Domenica (Lunedì = 0); tipo= 2, i giorni della settimana vengono contati partendo dal Lunedì (Lunedì = 1); tipo = 3, i giorni della settimana vengono contati &lt;f3&gt;partendo da &lt;/f3&gt; Lunedì (Lunedì = 0).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f1&gt;Upper_limit&lt;/f1&gt; (optional) is the upper limit of the integral.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T132043Z" creationid="Marco Marega" creationdate="20160823T132043Z">
+        <seg>&lt;f1&gt;Limite superiore&lt;/f1&gt; (facoltativo) è il limite superiore dell'integrale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22087,6 +22103,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If this value is missing, the calculation takes places between 0 and the lower limit.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T132134Z" creationid="Marco Marega" creationdate="20160823T132134Z">
+        <seg>Se questo valore è mancante, il calcolo viene effettuato tra 0 ed il limite inferiore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If two entries are otherwise identical, one with an upper case letter is placed before one with a lower case letter in the same position if the sort is descending; if the sort is ascending, then the entry with an upper case letter is placed after one with a lower case letter in the same position.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T165844Z" creationid="Elisabetta" creationdate="20160725T165844Z">
@@ -31917,6 +31941,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T144348Z" creationid="Marco Marega" creationdate="20160820T144348Z">
         <seg>Restituisce i valori di una tendenza lineare.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati Y&lt;/f1&gt; è la matrice dei dati delle Y.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns values of the Gaussian error integral.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T131954Z" creationid="Marco Marega" creationdate="20160823T131954Z">
+        <seg>Restituisce i valori degli integrali della funzione degli errori di Gauss.</seg>
       </tuv>
     </tu>
     <tu>
