@@ -6630,6 +6630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Value&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;is the value to be converted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T112801Z" creationid="Marco Marega" creationdate="20160823T112801Z">
+        <seg>&lt;f0&gt;Valore&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;è il valore da convertire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;View&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;contains commands for modifying how the Calc user interface looks such as &lt;/f2&gt;&lt;f3&gt;Toolbars, Full Screen&lt;/f3&gt;&lt;f4&gt;, and &lt;/f4&gt;&lt;f5&gt;Zoom&lt;/f5&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T165143Z">
@@ -9171,6 +9179,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T150840Z" creationid="michele" creationdate="20160531T150840Z">
         <seg>Previene anche modifiche alle impostazioni descritte in questa sezione mentre il foglio è protetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Also, a reference can be used as a parameter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T112827Z" creationid="Marco Marega" creationdate="20160823T112827Z">
+        <seg>Anche un riferimento può essere usato come parametro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21491,6 +21507,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160820T054057Z" creationid="briga" creationdate="20160820T054057Z">
         <seg>Se il modello o il documento di destinazione contiene numerosi stili, può essere necessario scorrere l'elenco verso il basso per visualizzare le modifiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the referenced cell includes a number or a formula containing a numerical result, the result will be an empty string.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T112949Z" creationid="Marco Marega" creationdate="20160823T112949Z">
+        <seg>Se la cella referenziata include un numero o una formula con risultato numerico, il risultato sarà una stringa vuota.</seg>
       </tuv>
     </tu>
     <tu>
