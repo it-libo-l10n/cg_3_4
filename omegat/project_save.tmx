@@ -4830,6 +4830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;IMABS&lt;/f0&gt;(complex_number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T134848Z" creationid="Marco Marega" creationdate="20160823T134848Z">
+        <seg>&lt;f0&gt;COMP.MODULO&lt;/f0&gt;(numero complesso)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;INTRATE&lt;/f0&gt;(settlement; maturity; investment;&lt;f1&gt; &lt;/f1&gt;redemption; basis)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T145138Z" creationid="Marco Marega" creationdate="20160703T145138Z">
@@ -5514,6 +5522,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T130741Z" creationid="Marco Marega" creationdate="20160823T130741Z">
         <seg>&lt;f0&gt;Numero&lt;/f0&gt; è il numero esadecimale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Number&lt;/f0&gt; is the hexadecimal number.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Places&lt;/f2&gt; is the number of places to be output.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T134809Z" creationid="Marco Marega" creationdate="20160823T134809Z">
+        <seg>&lt;f0&gt;Numero&lt;/f0&gt; è il numero esadecimale.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Cifre&lt;/f2&gt; è il numero di cifre da restituire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30705,6 +30721,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the absolute value (modulus) of a &lt;f0&gt;complex_number&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T134916Z" creationid="Marco Marega" creationdate="20160823T134916Z">
+        <seg>Restituisce il valore assoluto (modulo) di un &lt;f0&gt;numero complesso&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the absolute value of the given &lt;f0&gt;number&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T081536Z" creationid="Marco Marega" creationdate="20160625T081536Z">
@@ -37198,6 +37222,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163452Z" creationid="steevie" creationdate="20160428T163452Z">
         <seg>I comandi disponibili per il menu selezionato sono mostrati nella parte centrale della finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The complex number is entered in the form "x + &lt;f1&gt;yi&lt;/f1&gt;" or "x + &lt;f2&gt;yj&lt;/f2&gt;"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T134948Z" creationid="Marco Marega" creationdate="20160823T134948Z">
+        <seg>Il numero complesso va inserito nella forma "x + &lt;f1&gt;yi&lt;/f1&gt;" oppure "x + &lt;f2&gt;yj&lt;/f2&gt;"</seg>
       </tuv>
     </tu>
     <tu>
