@@ -4406,6 +4406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;ERFC&lt;/f0&gt;(lower_limit)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T133457Z" creationid="Marco Marega" creationdate="20160823T133457Z">
+        <seg>&lt;f0&gt;FUNZ.ERRORE.COMP&lt;/f0&gt;(limite inferiore)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;ERRORTYPE&lt;/f0&gt;(reference)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T075940Z" creationid="Marco Marega" creationdate="20160821T075845Z">
@@ -4506,6 +4514,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T154336Z" creationid="Luciano B." creationdate="20160326T154336Z">
         <seg>&lt;f0&gt;Esporta pagine vuote inserite &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;automaticamente&lt;/f2&gt;: Non disponibile in Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;FACTDOUBLE&lt;/f0&gt;(number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T133647Z" creationid="Marco Marega" creationdate="20160823T133647Z">
+        <seg>&lt;f0&gt;FATT.DOPPIO&lt;/f0&gt;(numero)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5226,6 +5242,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T131548Z" creationid="Marco Marega" creationdate="20160818T131548Z">
         <seg>&lt;f0&gt;Valore logico 1; valore logico 2; ...valore logico 30&lt;/f0&gt; sono le condizioni da verificare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Lower limit&lt;/f0&gt; is the lower limit of integral (x).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T133617Z" creationid="Marco Marega" creationdate="20160823T133617Z">
+        <seg>&lt;f0&gt;Limite inferiore&lt;/f0&gt; è il limite inferiore dell'integrale (x).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30541,6 +30565,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T134758Z" creationid="Marco Marega" creationdate="20160626T134758Z">
         <seg>Restituisce un numero intero casuale compreso tra &lt;f0&gt;minore&lt;/f0&gt; e &lt;f1&gt;maggiore&lt;/f1&gt; (incluso).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns complementary values of the Gaussian error integral between x and infinity.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T133549Z" creationid="Marco Marega" creationdate="20160823T133549Z">
+        <seg>Restituisce i valori complementari degli integrali della funzione degli errori di Gauss tra x e l'infinito.</seg>
       </tuv>
     </tu>
     <tu>
