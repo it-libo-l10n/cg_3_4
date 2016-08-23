@@ -8959,6 +8959,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After the letter Z, the alphabet begins again (Rotation).&lt;f0&gt; &lt;/f0&gt;Applying the encryption function again to the resulting code, decrypts the text.&lt;f1&gt; &lt;/f1&gt;Text: Enter the character string to be encrypted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T103611Z" creationid="Marco Marega" creationdate="20160823T103611Z">
+        <seg>Dopo la lettera Z, l'alfabeto inizia nuovamente (Rotazione).&lt;f0&gt; &lt;/f0&gt;Applicando nuovamente la funzione di crittografia al codice risultante, il testo viene decriptato.&lt;f1&gt; &lt;/f1&gt;Testo: inserite la stinga di caratteri da criptare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After the styles are set up, here is how to use them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T174004Z" creationid="Elisabetta" creationdate="20160722T174004Z">
@@ -15915,6 +15923,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T150244Z" creationid="steevie" creationdate="20160428T145721Z">
         <seg>Permetti le espressioni regolari nelle formule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Encrypts a character string by moving the characters 13 positions in the alphabet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T103419Z" creationid="Marco Marega" creationdate="20160823T103419Z">
+        <seg>Crittografa un stringa di caratteri spostando ciascun carattere di 13 posizioni nell'alfabeto.</seg>
       </tuv>
     </tu>
     <tu>
