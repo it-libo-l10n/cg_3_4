@@ -4894,6 +4894,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;IMPRODUCT&lt;/f0&gt;(complex _number; complex_number_1; ...)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T144915Z" creationid="Marco Marega" creationdate="20160823T144915Z">
+        <seg>&lt;f0&gt;COMP.PRODOTTO&lt;/f0&gt;(numero complesso 1; numero complesso 2; ...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;IMREAL&lt;/f0&gt;(complex _number)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T145051Z" creationid="Marco Marega" creationdate="20160823T145051Z">
+        <seg>&lt;f0&gt;COMP.PARTE.REALE&lt;/f0&gt;(numero complesso)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;INTRATE&lt;/f0&gt;(settlement; maturity; investment;&lt;f1&gt; &lt;/f1&gt;redemption; basis)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T145138Z" creationid="Marco Marega" creationdate="20160703T145138Z">
@@ -31929,6 +31945,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the product of up to 29 &lt;f0&gt;complex_numbers&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;The &lt;f2&gt;complex numbers&lt;/f2&gt; are entered in the form "x + yi" or "x + yj"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T145021Z" creationid="Marco Marega" creationdate="20160823T145021Z">
+        <seg>Restituisce il prodotto di un massimo di 29 &lt;f0&gt;numeri complessi&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;I &lt;f2&gt;numeri complessi&lt;/f2&gt; vanno inseriti nella forma "x + yi" oppure "x + yj"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the quartile of a data set.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Data&lt;/f1&gt; is the array of data in the sample.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Type&lt;/f3&gt; is the type of quartile.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160813T141818Z" creationid="Marco Marega" creationdate="20160813T141818Z">
@@ -31941,6 +31965,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160813T142254Z" creationid="Marco Marega" creationdate="20160813T142254Z">
         <seg>Restituisce il rango di un dato &lt;f0&gt;Valore&lt;/f0&gt; in un campione.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Dati&lt;/f2&gt; è la matrice o l'intervallo di dati nel campione.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Tipo&lt;/f4&gt; (facoltativo) è l'ordine della sequenza, sia ascendente (0) o discendente (1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Returns the real coefficient of a &lt;f0&gt;complex_number&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;The &lt;f2&gt;complex number&lt;/f2&gt; is entered in the form "x + yi" or "x + yj"</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T145136Z" creationid="Marco Marega" creationdate="20160823T145136Z">
+        <seg>Restituisce il coefficiente reale di un &lt;f0&gt;numero complesso&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;Il &lt;f2&gt;numero complesso&lt;/f2&gt; va inserito nella forma "x + yi" oppure "x + yj"</seg>
       </tuv>
     </tu>
     <tu>
