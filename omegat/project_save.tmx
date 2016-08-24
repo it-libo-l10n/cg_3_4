@@ -6646,6 +6646,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The next time that you create a spreadsheet by choosing &lt;/f0&gt;&lt;f1&gt;File &gt; New&lt;/f1&gt;&lt;f2&gt;,&lt;/f2&gt;&lt;f3&gt; it will be created from &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;LibreOffice&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;’s default template for spreadsheets.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160824T073353Z" creationid="briga" creationdate="20160824T073353Z">
+        <seg>&lt;f0&gt;La prossima volta che create un documento da &lt;/f0&gt;&lt;f1&gt;File &gt; Nuovo&lt;/f1&gt;&lt;f2&gt;,&lt;/f2&gt;&lt;f3&gt; il documento verrà creato dal modello predefinito di &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;LibreOffice&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; per i fogli elettronici&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The result of any of these methods looks like the right side of &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figure 21&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T123433Z" creationid="michele" creationdate="20160525T123433Z">
@@ -13883,6 +13891,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160823T062031Z" creationid="briga" creationdate="20160823T062031Z">
         <seg>Fate clic sul pulsante &lt;f0&gt;Comandi &lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;e scegliete &lt;f2&gt;Modifica&lt;/f2&gt; dal menu a tendina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Commands&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;button and choose &lt;f2&gt;Reset Default Template &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; Spreadsheet&lt;/f5&gt; from the drop-down menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160824T073243Z" creationid="briga" creationdate="20160824T073243Z">
+        <seg>Fate clic sul pulsante &lt;f0&gt;Comandi&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt; e scegliete &lt;f2&gt;Ripristina modello predefinito&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;Foglio elettronico&lt;/f5&gt; dal menu a comparsa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24064,6 +24080,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the Template Management dialog, click any folder in the box on the left.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160824T073149Z" creationid="briga" creationdate="20160824T073149Z">
+        <seg>Nella finestra di dialogo Gestione dei modelli, fate clic su una cartella qualsiasi nel riquadro di sinistra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the Theme Selection dialog, select the theme that you want to apply to the spreadsheet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T172043Z" creationid="Elisabetta" creationdate="20160722T172043Z">
@@ -30565,6 +30589,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160823T053409Z" creationid="briga" creationdate="20160823T053409Z">
         <seg>Sostituire gli stili (e quindi cancellare gli indesiderati) può essere molto utile se avete a che fare con un foglio di lavoro usato da diverse persone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Resetting the &lt;i0/&gt;default template</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160824T073102Z" creationid="briga" creationdate="20160824T073102Z">
+        <seg>Ripristinare il &lt;i0/&gt;modello predefinito</seg>
       </tuv>
     </tu>
     <tu>
@@ -38867,6 +38899,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The next time that you create a document by choosing &lt;f0&gt;&lt;f1&gt;File &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; New&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;,&lt;/f6&gt; the document will be created from this template.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160824T073048Z" creationid="briga" creationdate="20160824T073048Z">
+        <seg>La prossima volta che create un documento da &lt;f0&gt;&lt;f1&gt;File &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; Nuovo&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;,&lt;/f6&gt; il documento verrà creato a partire da questo modello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The nonprinting area has a gray background.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T110627Z">
@@ -42335,6 +42375,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160505T080043Z" creationid="briga" creationdate="20160505T075904Z">
         <seg>Per disattivare il Modo riempimento, fate clic sull'icona &lt;f0&gt;Modo riempimento&lt;/f0&gt; nuovamente&lt;s1/&gt; oppure chiudete la finestra Stile e formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To re-enable &lt;f0&gt;LibreOffice&lt;/f0&gt;’s default spreadsheet template as the default:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160824T073144Z" creationid="briga" creationdate="20160824T073144Z">
+        <seg>Per ripristinare il modello predefinito di foglio elettronico di &lt;f0&gt;LibreOffice&lt;/f0&gt; come modello predefinito per un tipo di documento:</seg>
       </tuv>
     </tu>
     <tu>
@@ -49231,6 +49279,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T103721Z" creationid="Elisabetta" creationdate="20160629T103657Z">
         <seg>sostituire dati in una cella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>reset default</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160824T073055Z" creationid="briga" creationdate="20160824T073055Z">
+        <seg>ripristinare i valori predefiniti</seg>
       </tuv>
     </tu>
     <tu>
