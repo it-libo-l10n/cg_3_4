@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13951,6 +13951,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Run BASIC&lt;/f0&gt; icon, then close the Basic window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160824T065859Z" creationid="briga" creationdate="20160824T065859Z">
+        <seg>Fate clic sull'icona &lt;f0&gt;Esegui programma BASIC&lt;/f0&gt;, quindi chiudete la finestra Basic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Save &lt;/f0&gt;button on the main toolbar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T135511Z" creationid="michele" creationdate="20160524T135511Z">
@@ -21903,6 +21911,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the Edit button is not active, click &lt;f1&gt;New&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160824T065806Z" creationid="briga" creationdate="20160824T065806Z">
+        <seg>Se invece il pulsante Modifica non è attivo, fate clic su &lt;f1&gt;Nuovo&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the Options dialog is not already open, click &lt;f0&gt;Tools &gt; Options&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T125216Z" creationid="steevie" creationdate="20160421T125216Z">
@@ -23740,6 +23756,14 @@
       <tuv lang="IT-IT" changeid="luciano" changedate="20160615T145534Z" creationid="luciano" creationdate="20160615T145534Z">
         <seg>Nella Basic IDE (vedi &lt;t0&gt;Figura 307&lt;/t0&gt;), 
 passate il cursore del mouse sopra i pulsanti della barra degli strumenti per visualizzare i suggerimenti dello strumento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Basic window, enter the following:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160824T065837Z" creationid="briga" creationdate="20160824T065837Z">
+        <seg>Nella finestra Basic, inserite quanto segue:</seg>
       </tuv>
     </tu>
     <tu>
@@ -26965,6 +26989,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172520Z" creationid="steevie" creationdate="20160428T172520Z">
         <seg>Successivamente inserite un nome per il file di configurazione nel riquadro &lt;f0&gt;Nome file&lt;/f0&gt;, oppure selezionate un file esistente dalla lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next time when you open this document you will have the update from template feature back.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160824T065905Z" creationid="briga" creationdate="20160824T065905Z">
+        <seg>La volta successiva che aprirete questo documento la funzione di aggiornamento da modello sarà nuovamente attiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32925,6 +32957,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160614T160442Z" creationid="luciano" creationdate="20160614T160442Z">
         <seg>Salvate il documento Calc, chiudetelo e riapritelo nuovamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160824T065902Z" creationid="briga" creationdate="20160824T065902Z">
+        <seg>Salvate il documento.</seg>
       </tuv>
     </tu>
     <tu>
