@@ -7358,6 +7358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f1&gt;LibreOffice&lt;/f1&gt; saves the folder with the name that you entered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T093447Z" creationid="briga" creationdate="20160826T093447Z">
+        <seg>&lt;f1&gt;LibreOffice&lt;/f1&gt; salva la cartella con il nome assegnato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;Logical_value_1; logical_value_2; ...logical_value_30&lt;/f1&gt; are conditions to be checked.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T132823Z" creationid="Marco Marega" creationdate="20160818T132723Z">
@@ -8739,6 +8747,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160826T084452Z" creationid="briga" creationdate="20160826T084452Z">
         <seg>Si aprirà un nuovo foglio di calcolo basato sul modello selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A new folder called &lt;f4&gt;Untitled&lt;/f4&gt; appears.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T093438Z" creationid="briga" creationdate="20160826T093438Z">
+        <seg>Appare una nuova cartella denominata &lt;f4&gt;Senza nome&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13959,6 +13975,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Commands&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;button&lt;f2&gt; &lt;/f2&gt;and choose &lt;f3&gt;New&lt;/f3&gt; from the drop-down menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T093427Z" creationid="briga" creationdate="20160826T093427Z">
+        <seg>Fate clic sul pulsante &lt;f0&gt;Comandi&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt; e scegliete &lt;f3&gt;Nuovo&lt;/f3&gt; dal menu a comparsa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Fill Format mode&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160505T075307Z" creationid="briga" creationdate="20160505T075307Z">
@@ -15055,6 +15079,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating a template &lt;i0/&gt;folder</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T093311Z" creationid="briga" creationdate="20160826T093311Z">
+        <seg>Creare una &lt;i0/&gt;cartella di modelli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating an image map</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T112606Z">
@@ -15795,6 +15827,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T154152Z">
         <seg>Eliminare un'interruzione di pagina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Deleting a template folder</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T093450Z" creationid="briga" creationdate="20160826T093450Z">
+        <seg>Eliminare una cartella di modelli</seg>
       </tuv>
     </tu>
     <tu>
@@ -24172,6 +24212,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160824T073149Z" creationid="briga" creationdate="20160824T073149Z">
         <seg>Nella finestra di dialogo Gestione dei modelli, fate clic su una cartella qualsiasi nel riquadro di sinistra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Template Management dialog, click any folder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T093320Z" creationid="briga" creationdate="20160826T093320Z">
+        <seg>Nella finestra di dialogo Gestione dei modelli, fate clic su una cartella qualsiasi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41723,6 +41771,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To create a template folder:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T093313Z" creationid="briga" creationdate="20160826T093313Z">
+        <seg>Per creare una cartella di modelli:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To create an auto filter, first select the columns to filter.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160510T143005Z" creationid="steevie" creationdate="20160510T143005Z">
@@ -43351,6 +43407,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T170212Z">
         <seg>Digitate una virgola nella casella di testo, come separatore degli intervalli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type a name for the new folder, and then press &lt;f0&gt;Enter&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T093443Z" creationid="briga" creationdate="20160826T093443Z">
+        <seg>Digitate un nome per la nuova cartella, e poi premete &lt;f0&gt;Invio&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48295,6 +48359,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T154651Z" creationid="steevie" creationdate="20160428T154651Z">
         <seg>delete contents – launch the Delete Contents dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>delete folder</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T093502Z" creationid="briga" creationdate="20160826T093502Z">
+        <seg>eliminare una cartella</seg>
       </tuv>
     </tu>
     <tu>
