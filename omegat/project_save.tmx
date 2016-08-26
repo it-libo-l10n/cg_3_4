@@ -24224,6 +24224,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the Template Management dialog, select the folder that you want to delete.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T094426Z" creationid="briga" creationdate="20160826T094426Z">
+        <seg>Nella finestra di dialogo Gestione dei modelli, selezionate la cartella che volete eliminare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the Theme Selection dialog, select the theme that you want to apply to the spreadsheet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T172043Z" creationid="Elisabetta" creationdate="20160722T172043Z">
@@ -41851,6 +41859,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To delete a template folder:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T094423Z" creationid="briga" creationdate="20160826T094423Z">
+        <seg>Per eliminare una cartella di modelli:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To delete everything in a cell (contents and format), check &lt;/f17&gt;&lt;f18&gt;Delete all&lt;/f18&gt;&lt;f19&gt;.&lt;/f19&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T101727Z" creationid="Elisabetta" creationdate="20160629T101727Z">
@@ -47271,6 +47287,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T101341Z" creationid="michele" creationdate="20160525T101341Z">
         <seg>Non è possibile creare nuovi tipi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You cannot delete template &lt;i0/&gt;folders supplied with &lt;f1&gt;LibreOffice&lt;/f1&gt; or installed using the Extension Manager; you can only delete template folders that you have created.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T094421Z" creationid="briga" creationdate="20160826T094421Z">
+        <seg>Non è possibile eliminare &lt;i0/&gt;cartelle di modelli fornite con &lt;f1&gt;LibreOffice&lt;/f1&gt; o installate usando la Gestione estensioni; potete solo cancellare cartelle di modelli da voi create.</seg>
       </tuv>
     </tu>
     <tu>
