@@ -3582,6 +3582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;All the actions made by the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Commands&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; button in the Template Management &lt;/f3&gt;&lt;f4&gt;dialog&lt;/f4&gt;&lt;f5&gt; can be made as well by right-clicking on the templates or the folders.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T091332Z" creationid="briga" creationdate="20160826T091332Z">
+        <seg>&lt;f0&gt;Tutte le azioni eseguite con il pulsante &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Comandi&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; nella finestra di &lt;/f3&gt;&lt;f4&gt;dialogo&lt;/f4&gt;&lt;f5&gt; Gestione dei modelli possono essere eseguite facendo clic con il tasto destro del mouse sui modelli o sulle cartelle.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;All&lt;/f0&gt;: Exports the entire document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165455Z" creationid="Luciano B." creationdate="20160325T165455Z">
@@ -37522,6 +37530,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Template Management dialog opens.&lt;/f12&gt;&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T091242Z" creationid="briga" creationdate="20160826T091242Z">
+        <seg>Si apre la finestra di dialogo Gestore dei modelli.&lt;/f12&gt;&lt;/f11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Theme Selection dialog appears.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T171857Z" creationid="Elisabetta" creationdate="20160722T171857Z">
@@ -41503,6 +41519,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T152233Z" creationid="luciano" creationdate="20160426T154717Z">
         <seg>Per iniziare questo processo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To begin, choose &lt;f0&gt;File &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Templates &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Organize&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; from the &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;menu bar&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T091232Z" creationid="briga" creationdate="20160826T091232Z">
+        <seg>Per cominciare, scegliete &lt;f0&gt;File &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Modelli &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Gestisci &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; dal &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;menu principale&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48527,6 +48551,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T133327Z" creationid="michele" creationdate="20160414T133327Z">
         <seg>barre strumenti mobili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>folder</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T091336Z" creationid="briga" creationdate="20160826T091336Z">
+        <seg>cartella</seg>
       </tuv>
     </tu>
     <tu>
