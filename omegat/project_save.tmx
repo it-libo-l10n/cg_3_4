@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(It opens in a new window.) Press &lt;f0&gt;Ctrl+A&lt;/f0&gt; to select everything in the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T084542Z" creationid="briga" creationdate="20160826T084535Z">
+        <seg>(Si aprirà in una nuova finestra.) Premete &lt;f0&gt;Ctrl+A&lt;/f0&gt; per selezionare l'intero foglio elettronico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(It will appear on the menu bar itself after you save your customizations.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163622Z" creationid="steevie" creationdate="20160428T163622Z">
@@ -2274,6 +2282,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T162631Z" creationid="Elisabetta" creationdate="20160627T162631Z">
         <seg>&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;La scelta del tipo di virgolette interesserà Calc e Writer.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f7&gt;Choose the template you want.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T084435Z" creationid="briga" creationdate="20160826T084435Z">
+        <seg>&lt;/f7&gt;Scegliete il modello che desiderate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8699,6 +8715,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T122601Z" creationid="michele" creationdate="20160524T122119Z">
         <seg>Una nuovo installazione di &lt;f0&gt;LibreOffice&lt;/f0&gt;non contiene molti modelli,ma ne puoi aggiungere altri scaricandoli da &lt;a1&gt;http://templates.libreoffice.org&lt;/a1&gt; &lt;s2/&gt;o da altre sorgenti e installarle nel tuo computer come descritto nel Capitolo 14,personalizzare Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A new file, based on the template, opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T084452Z" creationid="briga" creationdate="20160826T084452Z">
+        <seg>Si aprirà un nuovo foglio di calcolo basato sul modello selezionato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22279,6 +22303,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the template has unwanted text or graphics in it, delete them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T084458Z" creationid="briga" creationdate="20160826T084458Z">
+        <seg>Se il modello comprende testo o disegni non desiderati, cancellateli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the text is shorter than the indicated minimum length, zeros are added to the left of the string.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T142122Z" creationid="Marco Marega" creationdate="20160822T142122Z">
@@ -28329,6 +28361,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open the spreadsheet you want to change.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T084510Z" creationid="briga" creationdate="20160826T084510Z">
+        <seg>Aprite il foglio di lavoro che volete modificare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OpenOffice.org legacy</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T154148Z" creationid="steevie" creationdate="20160428T154148Z">
@@ -33137,6 +33177,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save the file under a new name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T084655Z" creationid="briga" creationdate="20160826T084655Z">
+        <seg>Salvate questo file con un altro nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save the modified Module1.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160614T155749Z" creationid="luciano" creationdate="20160614T155749Z">
@@ -36221,6 +36269,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160816T151012Z" creationid="antonio" creationdate="20160816T151012Z">
         <seg>Passate all'altro foglio di lavoro (il procedimento per fare questo varia a seconda del sistema operatoivo che state utilizzando).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch to the window containing the blank spreadsheet created in step 1, and paste the content into that spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T084646Z" creationid="briga" creationdate="20160826T084646Z">
+        <seg>Passate alla finestra che contiene il foglio di calcolo vuoto creato al passaggio 1, incollate il contenuto nell'altro foglio di lavoro.</seg>
       </tuv>
     </tu>
     <tu>
