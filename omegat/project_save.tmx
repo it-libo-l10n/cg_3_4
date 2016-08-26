@@ -8679,6 +8679,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A message box appears and asks you to confirm the deletion.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T094511Z" creationid="briga" creationdate="20160826T094511Z">
+        <seg>Appare una finestra di dialogo in cui si chiede conferma dell'eliminazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A mistake with &lt;f1&gt;Replace All&lt;/f1&gt; might require a manual, word-by-word search to fix, if it is not discovered in time to undo it.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T160526Z" creationid="Elisabetta" creationdate="20160726T160526Z">
@@ -13663,6 +13671,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f4&gt;Yes&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T094526Z" creationid="briga" creationdate="20160826T094526Z">
+        <seg>Fate clic su &lt;f4&gt;Sì&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click in a cell immediately below and to the right of where you wish the screen to be split, and choose &lt;/f0&gt;&lt;f1&gt;Window &gt; Split&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T153446Z" creationid="michele" creationdate="20160525T153446Z">
@@ -13963,6 +13979,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160824T073243Z" creationid="briga" creationdate="20160824T073243Z">
         <seg>Fate clic sul pulsante &lt;f0&gt;Comandi&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt; e scegliete &lt;f2&gt;Ripristina modello predefinito&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;Foglio elettronico&lt;/f5&gt; dal menu a comparsa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Commands&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;button and choose&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Delete&lt;/f3&gt; from the drop-down menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T094507Z" creationid="briga" creationdate="20160826T094507Z">
+        <seg>Fate clic sul pulsante &lt;f0&gt;Comandi&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;e scegliete&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Elimina&lt;/f3&gt; dal menu a comparsa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24224,6 +24248,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the Template Management dialog, double-click the folder that contains the template you want to move.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T094546Z" creationid="briga" creationdate="20160826T094546Z">
+        <seg>Nella finestra di dialogo Gestione dei modelli, fate doppio clic sulla cartella che contiene il modello che volete spostare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the Template Management dialog, select the folder that you want to delete.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160826T094426Z" creationid="briga" creationdate="20160826T094426Z">
@@ -26869,6 +26901,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160504T161936Z" creationid="luciano" creationdate="20160504T161550Z">
         <seg>Sposta verso l'alto di una schermata le righe visibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moving a template</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T094530Z" creationid="briga" creationdate="20160826T094530Z">
+        <seg>Spostare un modello</seg>
       </tuv>
     </tu>
     <tu>
@@ -41447,6 +41487,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163859Z" creationid="steevie" creationdate="20160428T163859Z">
         <seg>Per &lt;i0/&gt;modificare un menu esistente, selezionatelo nell'elenco Menu e fate clic sul pulsante &lt;f1&gt;Menu&lt;/f1&gt; per visualizzare un elenco di modifiche: &lt;f2&gt;Sposta&lt;/f2&gt;, &lt;f3&gt;Rinomina&lt;/f3&gt; &lt;f4&gt;Elimina&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To &lt;i0/&gt;move a template from one template folder to another template folder:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T094538Z" creationid="briga" creationdate="20160826T094538Z">
+        <seg>Per &lt;i0/&gt;spostare un modello da una cartella di modelli in un'altra:</seg>
       </tuv>
     </tu>
     <tu>
