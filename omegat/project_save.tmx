@@ -41115,6 +41115,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This means that the data to be analyzed will not be saved in Calc; Calc always uses the data from the original source.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20160826T212009Z" creationid="Andrea" creationdate="20160826T212009Z">
+        <seg>Questo significa che i dati da analizzare non saranno salvati in Calc; Calc usa sempre i dati dalla sorgente originale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This means that the described functions can only work correctly if there are no empty rows or columns in your list.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20160808T111254Z" creationid="Andrea" creationdate="20160808T111254Z">
