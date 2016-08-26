@@ -512,8 +512,8 @@
       <tuv lang="EN">
         <seg>121</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160202T102926Z">
-        <seg>121</seg>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T090622Z">
+        <seg>Potete creare nuove cartelle di modelli &lt;f2&gt;LibreOffice&lt;/f2&gt; e usarle per gestire i vostri modelli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5314,6 +5314,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160526T130045Z" creationid="steevie" creationdate="20160526T130045Z">
         <seg>Il comportamento di &lt;f0&gt;LibreOffice&lt;/f0&gt; cambia a seconda di come le celle sono nascoste e quali operazioni vengono eseguite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;LibreOffice&lt;/f0&gt; can only use templates that are in &lt;f1&gt;its&lt;/f1&gt; template folders.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T090651Z" creationid="briga" creationdate="20160826T090651Z">
+        <seg>&lt;f0&gt;LibreOffice&lt;/f0&gt; può usare solo i modelli che si trovano nelle &lt;f1&gt;sue&lt;/f1&gt; cartelle dei modelli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19907,6 +19915,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160215T071223Z">
         <seg>Ad esempio, potete decidere di cambiare l'aspetto di tutti i subtotale nel vostro foglio di lavoro in un corpo da 10 punti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, you might have one template folder for report templates and another for letter templates.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T090749Z" creationid="briga" creationdate="20160826T090749Z">
+        <seg>Per esempio, potreste avere una cartella per i modelli di rapporti e un'altra per i modelli di lettere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46211,6 +46227,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also export templates.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T090823Z" creationid="briga" creationdate="20160826T090823Z">
+        <seg>Potete inoltre esportare i modelli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also immediately undo any automatic changes with &lt;f0&gt;Ctrl+Z&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T171901Z" creationid="Elisabetta" creationdate="20160628T171901Z">
@@ -46559,6 +46583,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160505T081119Z" creationid="briga" creationdate="20160505T081119Z">
         <seg>Potete creare tasti di scelta rapida per applicare stili di cella o di pagina comunemente usati, inclusi quelli personalizzati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can create new template folders and use them to &lt;i2/&gt;organize your templates, and import templates into those folders.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T090728Z" creationid="briga" creationdate="20160826T090728Z">
+        <seg>Potete creare nuove cartelle di modelli e usarle per &lt;i2/&gt;gestire i vostri modelli, nonché importare altri modelli in queste cartelle.</seg>
       </tuv>
     </tu>
     <tu>
