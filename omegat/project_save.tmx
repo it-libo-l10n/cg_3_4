@@ -10423,6 +10423,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At times you might want to &lt;i0/&gt;associate a spreadsheet with a different template, or perhaps you are working with a spreadsheet that did not start from a template but you now want it associated with a template.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T083805Z" creationid="briga" creationdate="20160826T083805Z">
+        <seg>A volte potreste volere &lt;i0/&gt;associare un foglio elettronico con un modello differente, o forse state lavorando con un foglio di lavoro che non si basa su un modello, ma ora volete associarlo ad uno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Attempting to rename a sheet with an invalid name will produce an error message.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T145210Z" creationid="michele" creationdate="20160525T145210Z">
@@ -19447,6 +19455,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For best results, the names of styles should be the same in the existing document and the new template.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T083906Z" creationid="briga" creationdate="20160826T083906Z">
+        <seg>In entrambi i casi, per ottimizzare i risultati, i nomi degli stili dovrebbero essere gli stessi sia nel documento esistente sia nel nuovo modello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For column 1, this changes the minus button in the column to one with a plus symbol, indicating that it is expandable.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T084248Z" creationid="michele" creationdate="20160531T084107Z">
@@ -22955,6 +22971,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T164236Z" creationid="Elisabetta" creationdate="20160725T164236Z">
         <seg>La selezione dell'area di ricerca, che nel nostro esempio si riferisce all'intervallo A25:F26, compare evidenziata in rosso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you upda&lt;f1&gt;t&lt;/f1&gt;e styles by copying them from a different template (as described on page &lt;bf2&gt;114&lt;/bf2&gt;), the document has no association with the template from which the styles were loaded—so you cannot use this method.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T083851Z" creationid="briga" creationdate="20160826T083851Z">
+        <seg>Se aggiorna&lt;f1&gt;t&lt;/f1&gt;e gli stili caricando nuove impostazioni di stili da un modello differente (come descritto a pagina &lt;bf2&gt;114&lt;/bf2&gt;), il documento non sarà associato con il modello dal quale avete caricato gli stili—quindi non potete utilizzare questo metodo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28061,6 +28085,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160526T081712Z" creationid="michele" creationdate="20160526T081712Z">
         <seg>Uno strumento che non viene qui menzionato è la Tabella Pivot, ma è un argomento abbastanza complesso per richiedere un capitolo separato: vedi il Capitolo 8 di questo manuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One of the major advantages of using templates is the ease of updating styles in more than one document, as described on page &lt;bf0&gt;118&lt;/bf0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T083813Z" creationid="briga" creationdate="20160826T083813Z">
+        <seg>Uno dei maggiori vantaggi dell'utilizzo dei modelli è la facilità di aggiornamento degli stili in più di un documento, come descritto a pagina &lt;bf0&gt;118&lt;/bf0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44843,6 +44875,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>What you need to do is associate the document with the different template.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T083859Z" creationid="briga" creationdate="20160826T083859Z">
+        <seg>Ciò che dovete fare è associare il documento con il modello differente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>What you see may be different</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090517Z">
@@ -47583,6 +47623,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170951Z" creationid="steevie" creationdate="20160428T170951Z">
         <seg>assegnare combinazioni di tasti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>associate spreadsheet with different template</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160826T083703Z" creationid="briga" creationdate="20160826T083703Z">
+        <seg>associazione di un foglio di lavoro a un modello differente</seg>
       </tuv>
     </tu>
     <tu>
