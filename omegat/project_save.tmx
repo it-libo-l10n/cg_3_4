@@ -2198,6 +2198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f1&gt;The file browser window closes and the template appears in the selected folder.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160827T073055Z" creationid="briga" creationdate="20160827T073055Z">
+        <seg>&lt;/f1&gt;La finestra di esplorazione file si chiude e il modello appare nella cartella selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f2&gt;&lt;/f1&gt;To change the default color for grid points, click the down-arrow by the color and select a new color from the drop-down list.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T124521Z" creationid="steevie" creationdate="20160421T124521Z">
@@ -14023,6 +14031,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Commands&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;button and choose &lt;f2&gt;Export Template&lt;/f2&gt; from the drop-down menu.&lt;f3&gt; &lt;/f3&gt;The &lt;f4&gt;Save As&lt;/f4&gt; window opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160827T073216Z" creationid="briga" creationdate="20160827T073216Z">
+        <seg>Fate clic sul pulsante &lt;f0&gt;Comandi&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;e scegliete &lt;f2&gt;Esporta modello&lt;/f2&gt; dal menu a comparsa.&lt;f3&gt; &lt;/f3&gt;Si apre la finestra &lt;f4&gt;Salva con nome&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Commands&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;button and choose &lt;f2&gt;Import Template&lt;/f2&gt; from the drop-down menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160827T072928Z" creationid="briga" creationdate="20160827T072928Z">
@@ -14275,6 +14291,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160827T072745Z" creationid="briga" creationdate="20160827T072745Z">
         <seg>Fate clic sul modello che volete eliminare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the template that you want to export.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160827T073124Z" creationid="briga" creationdate="20160827T073124Z">
+        <seg>Fate clic sul modello che volete esportare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17367,6 +17391,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exporting a template</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160827T073116Z" creationid="briga" creationdate="20160827T073116Z">
+        <seg>Esportare un modello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exporting to PDF</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T164557Z">
@@ -19403,6 +19435,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160827T072940Z" creationid="briga" creationdate="20160827T072940Z">
         <seg>Trovate e selezionate il modello che volete importare e fate clic su &lt;f0&gt;Apri&lt;/f0&gt;&lt;f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Find the folder into which you want to export the template and click &lt;f0&gt;Save&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160827T073222Z" creationid="briga" creationdate="20160827T073222Z">
+        <seg>Trovate la cartella in cui volete esportare il modello e fate clic su &lt;f0&gt;Salva&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23335,6 +23375,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want, type a new name for the template, and then press &lt;f0&gt;Enter&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160827T073103Z" creationid="briga" creationdate="20160827T073103Z">
+        <seg>Se volete, digitate un nuovo nome per il modello e poi premete il tasto &lt;f0&gt;Invio&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you wish to save your color changes as a color scheme, click &lt;f0&gt;Save, &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;type a name in the &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;Scheme&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; box; then click &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;OK&lt;/f8&gt;&lt;/f7&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T124831Z" creationid="steevie" creationdate="20160421T124831Z">
@@ -24396,6 +24444,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160827T072743Z" creationid="briga" creationdate="20160827T072743Z">
         <seg>Nella finestra di dialogo Gestione dei modelli, fate doppio clic sulla cartella che contiene il modello che volete eliminare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Template Management dialog, double-click the folder that contains the template you want to export.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160827T073122Z" creationid="briga" creationdate="20160827T073122Z">
+        <seg>Nella finestra di dialogo Gestione dei modelli, fate doppio clic sulla cartella che contiene il modello che volete esportare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42363,6 +42419,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To export a template from a template folder to another location:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160827T073120Z" creationid="briga" creationdate="20160827T073120Z">
+        <seg>Per esportare un modello da una cartella di modelli in un'altra posizione:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To export single pages, use the format &lt;f2&gt;7;9;11&lt;/f2&gt; (pages 7, 9, and 11).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165537Z" creationid="Luciano B." creationdate="20160325T165537Z">
@@ -48783,6 +48847,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T200901Z" creationid="Elisabetta" creationdate="20160815T200901Z">
         <seg>riferimento di errore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>export</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="briga" changedate="20160827T073113Z" creationid="briga" creationdate="20160827T073113Z">
+        <seg>esportare</seg>
       </tuv>
     </tu>
     <tu>
