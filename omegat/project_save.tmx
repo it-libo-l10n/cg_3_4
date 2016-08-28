@@ -6102,6 +6102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Row Fields&lt;/f0&gt; and &lt;f1&gt;Column Fields&lt;/f1&gt; indicate from which groups the result will be sorted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20160828T213253Z" creationid="Andrea" creationdate="20160828T213253Z">
+        <seg>&lt;f0&gt;Campi Riga&lt;/f0&gt; e &lt;f1&gt;Campi Colonna&lt;/f1&gt; indicano i gruppi da cui verranno ordinati i risultati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;SERIESSUM&lt;/f0&gt;(x; n; m; coefficients)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T142928Z" creationid="Marco Marega" creationdate="20160626T142928Z">
@@ -17959,6 +17967,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;181&lt;/seq0&gt;: After starting the &lt;f1&gt;Pivot Table&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20160828T213034Z" creationid="Andrea" creationdate="20160828T213034Z">
+        <seg>Figura &lt;seq0&gt;181&lt;/seq0&gt;: dopo aver lanciato la &lt;f1&gt;Tabella Pivot&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;182&lt;/seq0&gt;: DataPilot dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20160828T213106Z" creationid="Andrea" creationdate="20160828T213106Z">
+        <seg>Figura &lt;seq0&gt;182&lt;/seq0&gt;: la finestra di dialogo DataPilot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T144321Z" creationid="michele" creationdate="20160524T144321Z">
@@ -28013,6 +28037,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T203823Z" creationid="Elisabetta" creationdate="20160815T203823Z">
         <seg>Questo codice di errore è obsoleto, ma può comunque essere generato da documenti datati, se il risultato è una formula proveniente da un'area.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Often more than one field is used at a time to get partial sums for rows or columns.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20160828T213408Z" creationid="Andrea" creationdate="20160828T213408Z">
+        <seg>Spesso vengono usati piu' campi contemporaneamente per ottenere somme parziali per righe o colonne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39495,6 +39527,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T084428Z" creationid="emanuelegiusti" creationdate="20160611T084428Z">
         <seg>Le opzioni variano a seconda del tipo di diagramma che si sceglie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The order of the fields gives the order of the sums from overall to specific.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20160828T213535Z" creationid="Andrea" creationdate="20160828T213535Z">
+        <seg>L'ordine dei campi genera l'ordine delle somme da quelle generali a quelle specifiche.</seg>
       </tuv>
     </tu>
     <tu>
