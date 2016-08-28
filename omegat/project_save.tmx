@@ -9399,6 +9399,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Advanced users can use more than one field here.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20160828T212638Z" creationid="Andrea" creationdate="20160828T212638Z">
+        <seg>Gli utenti esperti qui possono usare anche piu' di un campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After &lt;i0/&gt;scenarios are added to a spreadsheet, you can jump to a particular scenario by selecting it from the list in the Navigator.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T155415Z" creationid="michele" creationdate="20160531T155415Z">
@@ -19959,6 +19967,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if you move the &lt;f1&gt;sales&lt;/f1&gt; field into the &lt;f2&gt;Data Fields&lt;/f2&gt; area, it appears there as &lt;f3&gt;Sum – sales&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20160828T212942Z" creationid="Andrea" creationdate="20160828T212942Z">
+        <seg>Per esempio, se muovete il campo &lt;f1&gt;vendite&lt;/f1&gt; nell'area &lt;f2&gt;Campo Dati&lt;/f2&gt; vi appare come &lt;f3&gt;Somma - vendite&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if you set the column break while you are in H15, you can not remove it if you are in cell D15.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T155420Z">
@@ -20323,6 +20339,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20160808T135339Z" creationid="Andrea" creationdate="20160808T135339Z">
         <seg>Per eseguire un'operazione di ordinamento, filtraggio o uso di una &lt;f0&gt;Tabella Pivot&lt;/f0&gt;, selezionate sempre solo &lt;f1&gt;una&lt;/f1&gt; cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the Data Field an aggregate function is used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20160828T212744Z" creationid="Andrea" creationdate="20160828T212744Z">
+        <seg>Per il Campo Dati viene usata una funzione aggregata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37230,6 +37254,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160510T135445Z" creationid="steevie" creationdate="20160510T135445Z">
         <seg>Tuttavia, la casella di controllo &lt;f0&gt;Area destinazione risultato&lt;/f0&gt; non sposta i dati originali, ma copia i dati ordinati nella posizione indicata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Data Fields&lt;/f0&gt; area in the middle must contain at least one field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20160828T212545Z" creationid="Andrea" creationdate="20160828T212545Z">
+        <seg>L'area centrale &lt;f0&gt;Campo Dati&lt;/f0&gt; deve contenere almeno un campo.</seg>
       </tuv>
     </tu>
     <tu>
