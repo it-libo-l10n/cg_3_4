@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9291,6 +9291,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T103027Z">
         <seg>Aggiungere grafica (immagini)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adding or changing &lt;is0/&gt;titles&lt;ie1/&gt;&lt;i2/&gt;, &lt;i3/&gt;legend, and &lt;is4/&gt;grids</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160908T174638Z" creationid="emanuelegiusti" creationdate="20160908T174638Z">
+        <seg>Aggiungere o modificare la legenda dei &lt;is0/&gt;titoli&lt;ie1/&gt;&lt;i2/&gt;, &lt;i3/&gt;, e le &lt;is4/&gt;griglie</seg>
       </tuv>
     </tu>
     <tu>
