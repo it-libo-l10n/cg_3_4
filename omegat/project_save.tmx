@@ -8255,6 +8255,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>='file:///Path &amp; File Name'#$SheetName.CellName</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160919T123834Z" creationid="antonio" creationdate="20160919T123834Z">
+        <seg>='file:///Percorso e nome del file'#$NomeFoglio.NomeCella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>=COUNTIF(B1:C16; "9.*")</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153839Z" creationid="steevie" creationdate="20160620T153839Z">
@@ -39823,6 +39831,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T203733Z" creationid="Marco Marega" creationdate="20160819T203733Z">
         <seg>I record derivanti dall'esempio vengono trattati come se fossero l'intera popolazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The reference for a file has three forward slashes &lt;f0&gt;///&lt;/f0&gt; and the reference for a hyperlink has two forward slashes &lt;f1&gt;//&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="antonio" changedate="20160919T124018Z" creationid="antonio" creationdate="20160919T124018Z">
+        <seg>Il riferimento per un file ha tre barre &lt;f0&gt;///&lt;/f0&gt; e il riferimento per un hyperlink ha due barre &lt;f1&gt;//&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
