@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -28329,6 +28329,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the Chart Elements page (&lt;t0&gt;Figure 79&lt;/t0&gt;), you can give your chart a title and, if desired, a subtitle.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20161002T174704Z" creationid="emanuelegiusti" creationdate="20161002T174704Z">
+        <seg>Nella pagina Elementi diagramma (&lt;t0&gt;Figure 79&lt;/t0&gt;), potete dare al vostro diagramma un titolo e, se desiderate, un sottotitolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the Conditional Formatting dialog (&lt;t0&gt;Figure 60&lt;/t0&gt;), enter the conditions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T174159Z" creationid="Elisabetta" creationdate="20160722T174159Z">
@@ -44399,6 +44407,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T212117Z" creationid="Marco Marega" creationdate="20160821T212117Z">
         <seg>Utilizzate le funzioni per il testo di Calc&lt;f0&gt;&lt;/f0&gt;per cercare e manipolare stringhe di testo o codici di  carattere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use a title that draws the viewers’ attention to the purpose of the chart: what you want them to see.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20161002T174826Z" creationid="emanuelegiusti" creationdate="20161002T174826Z">
+        <seg>Utilizzate un titolo che richiama l'attenzione dello spettatore allo scopo del grafico: cosa volete che loro vedano.</seg>
       </tuv>
     </tu>
     <tu>
