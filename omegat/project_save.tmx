@@ -11679,6 +11679,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc provides tools for changing the chart type, chart elements, data ranges, fonts, colors, and many other options, through the &lt;f0&gt;Insert&lt;/f0&gt; and &lt;f1&gt;Format&lt;/f1&gt; menus, the right-click (context) menu, and the Chart toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20161002T182144Z" creationid="emanuelegiusti" creationdate="20161002T182144Z">
+        <seg>Calc fornisce strumenti per cambiare tipo di grafico, elementi del grafico, intervalli di dati, caratteri, colori, e molte altre opzioni, attraverso i menu &lt;f0&gt;Inserisci&lt;/f0&gt; e &lt;f1&gt;Formato&lt;/f1&gt;, il menu contestuale che appare facendo clic col tasto destro del mouse, e la barra degli strumenti Grafico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc provides two levels of document protection: &lt;f0&gt;read-protect&lt;/f0&gt; (file cannot be viewed without a password) and &lt;f1&gt;write-protect&lt;/f1&gt; (file can be viewed in read-only mode but cannot be changed without a password).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T085202Z" creationid="michele" creationdate="20160525T081355Z">
@@ -12667,6 +12675,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T151044Z" creationid="michele" creationdate="20160531T151044Z">
         <seg>Modifica scenari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changing the &lt;is0/&gt;chart type</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20161002T182204Z" creationid="emanuelegiusti" creationdate="20161002T182204Z">
+        <seg>Cambiare il &lt;is0/&gt;tipo di grafico</seg>
       </tuv>
     </tu>
     <tu>
@@ -42523,6 +42539,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To do so:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20161002T182228Z" creationid="emanuelegiusti" creationdate="20161002T182228Z">
+        <seg>Per far ciò:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To do this, select all the sheets (&lt;f0&gt;&lt;f1&gt;Edit &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; Sheet &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; Select&lt;/f9&gt;&lt;/f8&gt;), then enter the information in the current one.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T085449Z" creationid="Elisabetta" creationdate="20160629T085212Z">
@@ -47143,6 +47167,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T151433Z" creationid="luciano" creationdate="20160425T113219Z">
         <seg>Potete cambiare il colore di sfondo, stile del bordo, trasparenza, e  &lt;s0/&gt;altri attributi di un commento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change the chart type at any time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20161002T182217Z" creationid="emanuelegiusti" creationdate="20161002T182217Z">
+        <seg>Potete cambiare il tipo di grafico in qualunque momento.</seg>
       </tuv>
     </tu>
     <tu>
