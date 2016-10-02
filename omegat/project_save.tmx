@@ -19839,6 +19839,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For ease of estimating data you can also display the x or y axis grids by selecting the &lt;f1&gt;Display grids&lt;/f1&gt; options.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20161002T175505Z" creationid="emanuelegiusti" creationdate="20161002T175505Z">
+        <seg>Per facilità di stima dei dati è anche possibile visualizzare le griglie degli assi X o Y selezionando l'opzione &lt;f1&gt;Mostrare griglie&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, 01/01/2000 12:00 PM, converts to 36526.5.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T140808Z" creationid="Marco Marega" creationdate="20160730T140808Z">
@@ -20019,6 +20027,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T101806Z">
         <seg>Per esempio, se le prime due righe e la colonna A del foglio devono essere stampate su tutte le pagine, fate come segue:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, if we put &lt;f0&gt;Thousands&lt;/f0&gt; in the y axis label of our graph, it changes the scope of the chart entirely.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20161002T175406Z" creationid="emanuelegiusti" creationdate="20161002T175406Z">
+        <seg>Per esempio, se noi ponessimo &lt;f0&gt;Migliaia&lt;/f0&gt; nell'etichetta dell'asse y del nostro diagramma, cambierebbe interamente lo scopo del nostro diagramma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47479,6 +47495,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153458Z">
         <seg>Potete inserire un'interruzione orizzontale di pagina sopra la cella attiva, oppure un'interruzione verticale alla sua sinistra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can leave out the legend or include it and place it to the left, right, top or bottom.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20161002T175537Z" creationid="emanuelegiusti" creationdate="20161002T175537Z">
+        <seg>Potete lasciare fuori la legenda o includerla e posizionarla a sinistra, a destra, in alto o in basso.</seg>
       </tuv>
     </tu>
     <tu>
