@@ -28193,6 +28193,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Number format</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161008T171706Z" creationid="Andrea" creationdate="20161008T171706Z">
+        <seg>formato Numero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Numbers</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160720T155119Z" creationid="briga" creationdate="20160720T155119Z">
@@ -46239,6 +46247,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160314T141656Z">
         <seg>Quando si stampano più di 2 pagine per foglio, è possibile scegliere l'ordine orizzontale e verticale in cui le pagine verranno stampate nel foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When selected, this option activates the &lt;f0&gt;Number format&lt;/f0&gt; button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161008T171645Z" creationid="Andrea" creationdate="20161008T171645Z">
+        <seg>Quando selezionata, questa opzione attiva il pulsante &lt;f0&gt;formato Numero&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
