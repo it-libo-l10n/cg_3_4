@@ -2478,6 +2478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Chart &lt;/f1&gt;&lt;/f0&gt;&lt;is2/&gt;&lt;f3&gt;&lt;f4&gt;area&lt;/f4&gt;&lt;/f3&gt;&lt;ie5/&gt; is the area&lt;f6&gt; surrounding &lt;/f6&gt;the chart graphic.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161008T164505Z" creationid="Andrea" creationdate="20161008T164505Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Area &lt;/f1&gt;&lt;/f0&gt;&lt;is2/&gt;&lt;f3&gt;&lt;f4&gt;del diagramma&lt;/f4&gt;&lt;/f3&gt;&lt;ie5/&gt; e' l'area&lt;f6&gt; che circonda &lt;/f6&gt;l'immagine del diagramma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Choose &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Tools &gt; Customize &gt; Toolbars&lt;/f2&gt; from the menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165327Z" creationid="steevie" creationdate="20160428T165327Z">
@@ -37478,6 +37486,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T171230Z" creationid="Elisabetta" creationdate="20160628T171230Z">
         <seg>Testo inserito:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The (optional) chart title and the legend (key) are in the chart area.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161008T164718Z" creationid="Andrea" creationdate="20161008T164718Z">
+        <seg>Il titolo del diagramma (facoltativo) e la legenda (simboli) si trovano n.ell'area del diagramma</seg>
       </tuv>
     </tu>
     <tu>
