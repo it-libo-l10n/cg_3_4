@@ -2470,6 +2470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;C&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;hart wall&lt;/f3&gt;&lt;/f2&gt;&lt;ie4/&gt;&lt;f5&gt; contains the graphic of the chart displaying the data.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161008T164345Z" creationid="Andrea" creationdate="20161008T164345Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;P&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;areti del diagramma&lt;/f3&gt;&lt;/f2&gt;&lt;ie4/&gt;&lt;f5&gt; contiene l'immagine del diagramma che visualizza i dati.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Choose &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Tools &gt; Customize &gt; Toolbars&lt;/f2&gt; from the menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165327Z" creationid="steevie" creationdate="20160428T165327Z">
@@ -19467,6 +19475,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T091435Z" creationid="Elisabetta" creationdate="20160629T091435Z">
         <seg>La figura &lt;t0&gt;44&lt;/t0&gt; visualizza i criteri relativi a un tipico test di validità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figures &lt;t0&gt;80&lt;/t0&gt; and &lt;t1&gt;81&lt;/t1&gt; show the elements of 2D and &lt;i2/&gt;3D charts.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161008T164056Z" creationid="Andrea" creationdate="20161008T164056Z">
+        <seg>Le figure &lt;t0&gt;80&lt;/t0&gt; and &lt;t1&gt;81&lt;/t1&gt; mostrano gli elementi dei grafici 2D e &lt;i2/&gt;3D.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38690,6 +38706,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The default 2D chart includes only two of those elements:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161008T164140Z" creationid="Andrea" creationdate="20161008T164140Z">
+        <seg>Il grafico 2D predefinito comprende solo due di questi elementi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The default behavior in most components of LibreOffice is to &lt;f0&gt;Ctrl+click&lt;/f0&gt; on a hyperlink to open the linked document, but you can choose to open hyperlinks using a single click.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T122557Z" creationid="steevie" creationdate="20160421T122557Z">
@@ -50999,6 +51023,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T160012Z" creationid="steevie" creationdate="20160428T160012Z">
         <seg>Griglia visibile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>wall</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161008T164207Z" creationid="Andrea" creationdate="20161008T164207Z">
+        <seg>pareti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>wall of chart</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161008T164157Z" creationid="Andrea" creationdate="20161008T164157Z">
+        <seg>pareti del diagramma</seg>
       </tuv>
     </tu>
     <tu>
