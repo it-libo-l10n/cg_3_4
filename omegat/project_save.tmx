@@ -16399,6 +16399,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the percentage value of the data points in each column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161009T181948Z" creationid="Andrea" creationdate="20161009T181948Z">
+        <seg>Mostra il valore in percentuale dei punti dati in ciascuna colonna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Division by 0, or another calculation that results in an overflow of the defined value range (a value too big or too small).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T201334Z" creationid="Elisabetta" creationdate="20160815T201334Z">
@@ -29773,6 +29781,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160816T154819Z" creationid="antonio" creationdate="20160816T154819Z">
         <seg>Percorso e nome del file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Percentage format</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161009T182247Z" creationid="Andrea" creationdate="20161009T182247Z">
+        <seg>Formato percentuale</seg>
       </tuv>
     </tu>
     <tu>
@@ -46279,6 +46295,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161008T171645Z" creationid="Andrea" creationdate="20161008T171645Z">
         <seg>Quando selezionata, questa opzione attiva il pulsante &lt;f0&gt;formato Numero&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When selected, this option activates the &lt;f0&gt;Percentage format&lt;/f0&gt; button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161009T182055Z" creationid="Andrea" creationdate="20161009T182055Z">
+        <seg>Quando selezionata, questa opzione attiva il bottone &lt;f0&gt;Formato percentuale&lt;/f0&gt; .</seg>
       </tuv>
     </tu>
     <tu>
