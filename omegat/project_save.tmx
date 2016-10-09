@@ -16375,6 +16375,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the legend icons next to each data point label.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161009T210349Z" creationid="Andrea" creationdate="20161009T210349Z">
+        <seg>Visualizza le icone della legenda vicino all'etichetta di ciascun punto dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the note that is attached to the current cell.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160505T144601Z" creationid="luciano" creationdate="20160505T144601Z">
@@ -35473,6 +35481,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Separator</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161009T210356Z" creationid="Andrea" creationdate="20161009T210356Z">
+        <seg>Separatore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set sort options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160510T140713Z" creationid="steevie" creationdate="20160510T140713Z">
@@ -35993,6 +36009,22 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show category</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161009T210204Z" creationid="Andrea" creationdate="20161009T210102Z">
+        <seg>Visualizza la categoria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show legend key</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161009T210231Z" creationid="Andrea" creationdate="20161009T210231Z">
+        <seg>Visualizza i tasti legenda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show overwrite warning when pasting data</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T135419Z" creationid="steevie" creationdate="20160427T135419Z">
@@ -36045,6 +36077,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T092718Z" creationid="michele" creationdate="20160524T092718Z">
         <seg>Mostra lo &lt;i0/&gt;stile di pagina del foglio corrente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shows the data point text labels.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161009T210154Z" creationid="Andrea" creationdate="20161009T210154Z">
+        <seg>Visualizza le etichette dei punti dati.</seg>
       </tuv>
     </tu>
     <tu>
