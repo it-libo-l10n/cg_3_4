@@ -29889,6 +29889,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Placement</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161009T210517Z" creationid="Andrea" creationdate="20161009T210517Z">
+        <seg>Posizionamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Places a border around the range of cells that your scenario alters.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T144516Z" creationid="michele" creationdate="20160531T144516Z">
@@ -35477,6 +35485,22 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160505T143149Z" creationid="luciano" creationdate="20160505T143149Z">
         <seg>Seleziona la matrice della formula che contiene il cursore.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Il simbolo &lt;/f1&gt;&lt;f2&gt;“&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;/”&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; è &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;il tasto di divisione presente nel tastierino numerico.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selects the placement of data labels relative to the objects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161009T210617Z" creationid="Andrea" creationdate="20161009T210617Z">
+        <seg>Seleziona il posizionamento delle etichette dei dati relativamente agli oggetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selects the separator between multiple text strings for the same object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161009T210456Z" creationid="Andrea" creationdate="20161009T210456Z">
+        <seg>Seleziona il separatore tra diverse stringhe di testo per lo stesso oggetto.</seg>
       </tuv>
     </tu>
     <tu>
