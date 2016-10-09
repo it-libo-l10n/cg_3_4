@@ -29169,6 +29169,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens the Number Format dialog, where you can select the number format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161009T181630Z" creationid="Andrea" creationdate="20161009T181630Z">
+        <seg>Apre la finestra di dialogo Formato Numero, dove e' possibile selezionare il formato per i numeri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opens the Styles and Formatting window</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160504T140952Z" creationid="luciano" creationdate="20160504T140952Z">
@@ -35985,6 +35993,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show value as percentage</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161009T181903Z" creationid="Andrea" creationdate="20161009T181903Z">
+        <seg>Visualizza il valore come percentuale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shows or hides the &lt;f0&gt;Database Sources&lt;/f0&gt; menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160505T160635Z" creationid="luciano" creationdate="20160505T160635Z">
@@ -41447,6 +41463,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165009Z" creationid="Luciano B." creationdate="20160325T165009Z">
         <seg>Questa finestra è composta da cinque pagine (Generale, Visualizzazione iniziale, Interfaccia utente, Collegamenti e Sicurezza).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This dialog is very similar to the one for formatting numbers in cells, described in Chapter 2, Entering, Editing, and Formatting Data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161009T181838Z" creationid="Andrea" creationdate="20161009T181838Z">
+        <seg>Questa finestra di dialogo e' molto simile a quella per la formattazione dei numeri nelle celle, descritta al Capitolo 2, Inserimento, Modifica e Formattazione dei dati.</seg>
       </tuv>
     </tu>
     <tu>
