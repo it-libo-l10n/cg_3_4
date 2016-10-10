@@ -21535,6 +21535,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HLOOKUP supports the same form and arguments as VLOOKUP:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T135935Z" creationid="steevie" creationdate="20161010T135935Z">
+        <seg>CERCA.ORIZZ supporta la steffa forma e argomenti di CERCA.VERT:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HLOOKUP(search_value; search_range; return_row_index)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T135946Z" creationid="steevie" creationdate="20161010T135946Z">
+        <seg>CERCA.ORIZZ(Criterio_ricerca; matrice; indice)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HLOOKUP(search_value; search_range; return_row_index; sort_order)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T140020Z" creationid="steevie" creationdate="20161010T140020Z">
+        <seg>CERCA.ORIZZ(Criterio_ricerca; matrice; indice, ordinato)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HOUR(number)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T184400Z" creationid="Marco Marega" creationdate="20160817T184400Z">
@@ -34337,6 +34361,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search a block of data using &lt;is0/&gt;HLOOKUP</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T135811Z" creationid="steevie" creationdate="20161010T135811Z">
+        <seg>Ricerca in un blocco di dati usando&lt;is0/&gt;CERCA.ORIZZ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search a block of data using &lt;is0/&gt;VLOOKUP</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161010T131658Z" creationid="steevie" creationdate="20161010T131658Z">
@@ -45191,6 +45223,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T212117Z" creationid="Marco Marega" creationdate="20160821T212117Z">
         <seg>Utilizzate le funzioni per il testo di Calc&lt;f0&gt;&lt;/f0&gt;per cercare e manipolare stringhe di testo o codici di  carattere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use HLOOKUP to search the first row (rows are horizontal) of a block of data and return the value from a row in the same column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T135909Z" creationid="steevie" creationdate="20161010T135909Z">
+        <seg>Usate CERCA.ORIZZ per ricercare la prima riga (le righe sono orizzontali) di un blocco di dati e restituire il valore di un'altra riga nella stessa colonna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use HLOOKUP when:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T140033Z" creationid="steevie" creationdate="20161010T140033Z">
+        <seg>Usate CERCA.ORIZZ quando:</seg>
       </tuv>
     </tu>
     <tu>
