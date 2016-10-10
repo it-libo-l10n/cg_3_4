@@ -20119,10 +20119,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, &lt;f1&gt;B3:G10&lt;/f1&gt; searches the same sheet containing the VLOOKUP formula and &lt;f2&gt;Sheet2.B3:G10&lt;/f2&gt; searches the range B3:G10 on the sheet named Sheet2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T133031Z" creationid="steevie" creationdate="20161010T133031Z">
+        <seg>Ad esempio, &lt;f1&gt;B3:G10&lt;/f1&gt; cerca nello stesso foglio contenente la formula CERCA.VERT e &lt;f2&gt;Sheet2.B3:G10&lt;/f2&gt; cerca nell'intervallo B3:G10 del foglio chiamato Foglio2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, &lt;f1&gt;Fred&lt;/f1&gt; searches for the text Fred, &lt;f2&gt;4&lt;/f2&gt; searches for the number 4, and &lt;f3&gt;F.*&lt;/f3&gt; is the regular expression for finding something that starts with the letter F.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T132543Z" creationid="steevie" creationdate="20161010T132543Z">
-        <seg>Ad esempio, &lt;f1&gt;Fred&lt;/f1&gt; cerca il testo Fred, &lt;f2&gt;4&lt;/f2&gt; cerca il numero 4, e &lt;f3&gt;F.*&lt;/f3&gt; iè l'espressione regolare pre trovare qualcosa che comincia con la lettera F.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T133602Z" creationid="steevie" creationdate="20161010T132543Z">
+        <seg>Ad esempio, &lt;f1&gt;Fred&lt;/f1&gt; cerca il testo Fred, &lt;f2&gt;4&lt;/f2&gt; cerca il numero 4, e &lt;f3&gt;F.*&lt;/f3&gt; è l'espressione regolare per trovare qualcosa che comincia con la lettera F.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22747,6 +22755,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T144345Z" creationid="Luciano B." creationdate="20160411T162643Z">
         <seg>Se le modifiche non sono in conflitto, il documento viene salvato, appare il messaggio in basso, e le eventuali celle modificate dall'altro utente sono visualizzate con un bordo rosso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the column index is 2, then the value in the cell to the right of Bob is returned: column B.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T133649Z" creationid="steevie" creationdate="20161010T133517Z">
+        <seg>Se indice è 2, viene mostrato il valore della cella alla destra di Bob: colonna B.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37954,6 +37970,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;return_column_index&lt;/f0&gt; identifies the column to return; a value of 1 returns the first column in the range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T133528Z" creationid="steevie" creationdate="20161010T133241Z">
+        <seg>L'&lt;f0&gt;indice&lt;/f0&gt; identifica la colonna da restituire; il valore 1 mostra la prima colonna nell'intervallo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;text&lt;/f0&gt; field is not case-sensitive.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T143438Z" creationid="Marco Marega" creationdate="20160822T143438Z">
@@ -39338,6 +39362,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The final column, &lt;f0&gt;sort_order&lt;/f0&gt;, is optional.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T133709Z" creationid="steevie" creationdate="20161010T133709Z">
+        <seg>L'ultima colonna, &lt;f0&gt;ordinato&lt;/f0&gt;, è opzionale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first &lt;f5&gt;Text&lt;/f5&gt; parameter gives the source value to be converted; the second &lt;f6&gt;Text&lt;/f6&gt; parameter gives the destination value.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T094708Z" creationid="Marco Marega" creationdate="20160626T094708Z">
@@ -39374,6 +39406,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160330T085111Z" creationid="briga" creationdate="20160330T085002Z">
         <seg>Il primo pulsante in alto a destra della finestra, &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;, è per gli stili di cella ed il secondo, &lt;df2&gt;&lt;di3/&gt;&lt;s4&gt; per gli stili di pagina&lt;/s4&gt;&lt;/df2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first column is the searched column, so the text &lt;f3&gt;Bob&lt;/f3&gt; is returned.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T133426Z" creationid="steevie" creationdate="20161010T133426Z">
+        <seg>La prima colonna è quella in cui avviene la ricerca, così viene restituito il testo &lt;f3&gt;Bob&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40807,6 +40847,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T103910Z" creationid="Marco Marega" creationdate="20160823T103910Z">
         <seg>Facoltativamente è possibile indicare il punto di inizio della ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The statement &lt;f1&gt;=VLOOKUP("Bob"; A1:G9; 1)&lt;/f1&gt; finds the first row in A1:G9 containing the text &lt;f2&gt;Bob,&lt;/f2&gt; and returns the value in the first column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T133349Z" creationid="steevie" creationdate="20161010T133349Z">
+        <seg>L'espressione&lt;f1&gt;=CERCA.VERT("Bob"; A1:G9; 1)&lt;/f1&gt; cerca la prima riga in A1:G9 contenente il testo &lt;f2&gt;Bob,&lt;/f2&gt; e mostra il valore nella prima colonna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46005,16 +46053,16 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>VLOOKUP(search_value; search_range; return_column_index)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T132334Z" creationid="steevie" creationdate="20161010T132334Z">
-        <seg>CERCA.VERT(Criterio_ricerca; matrice; indice_da_ritornare)</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T133533Z" creationid="steevie" creationdate="20161010T132334Z">
+        <seg>CERCA.VERT(Criterio_ricerca; matrice; indice)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>VLOOKUP(search_value; search_range; return_column_index; sort_order)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T132351Z" creationid="steevie" creationdate="20161010T132351Z">
-        <seg>CERCA.VERT(Criterio_ricerca; matrice; indice_da_ritornare, ordinato)</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T133546Z" creationid="steevie" creationdate="20161010T132351Z">
+        <seg>CERCA.VERT(Criterio_ricerca; matrice; indice, ordinato)</seg>
       </tuv>
     </tu>
     <tu>
