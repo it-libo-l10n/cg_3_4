@@ -20447,6 +20447,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, student names with test and quiz scores to the right of the student’s name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T134943Z" creationid="steevie" creationdate="20161010T134943Z">
+        <seg>Ad esempio, nomi di studenti con risultati di test e quiz alla destra del nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, the macro in &lt;t1&gt;Listing 7&lt;/t1&gt; adds the values in cell A2 from every sheet in the current document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160615T161109Z" creationid="luciano" creationdate="20160615T161109Z">
@@ -34385,10 +34393,26 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Searching for 27 returns 10, and searching for 2 returns #N/A because there is no match and no value less than 2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T134828Z" creationid="steevie" creationdate="20161010T134828Z">
+        <seg>Cercare 27 ritorna 10, e cercare 2 restituisce #N/D perché non vi è né una corrispondenza, né un valore minore di 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Searching for the regular expression &lt;f0&gt;^$&lt;/f0&gt; will not find empty cells.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160729T143859Z" creationid="Elisabetta" creationdate="20160729T143859Z">
         <seg>La ricerca tramite espressione regolare &lt;f0&gt;^$&lt;/f0&gt; non restituirà il risultato di trovare celle vuote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Searching the first column of a range of data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T135038Z" creationid="steevie" creationdate="20161010T135038Z">
+        <seg>Volete trovare la prima riga in un intervallo di dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39062,6 +39086,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160424T135323Z" creationid="luciano" creationdate="20160424T135323Z">
         <seg>Il cursore si trasforma nel cursore lampeggiante di immissione testo, e le Barra di formattazione cambia per mostrare gli attributi di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The data is arranged in rows and you want to return data from the same row.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T134910Z" creationid="steevie" creationdate="20161010T134910Z">
+        <seg>I dati sono disposti in righe e volete trovare dati all'interno della stessa riga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45167,6 +45199,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161010T131818Z" creationid="steevie" creationdate="20161010T131818Z">
         <seg>Usate CERCA.VERT per ricercare la prima colonna (le colonne sono verticali) di un blocco di dati e restituire il valore di un'altra colonna nella stessa riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use VLOOKUP when:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T134838Z" creationid="steevie" creationdate="20161010T134838Z">
+        <seg>Usate CERCA.VERT quando:</seg>
       </tuv>
     </tu>
     <tu>
