@@ -24519,6 +24519,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In other words, the search range can be a row and the return range may be a column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T142208Z" creationid="steevie" creationdate="20161010T142208Z">
+        <seg>In altre parole, l'intervallo di ricerca può essere una riga e quello di ritorno può essere una colonna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In other words, this is just the beginning of what you can learn!</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160616T100835Z" creationid="luciano" creationdate="20160616T100835Z">
@@ -40795,6 +40803,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The return range can have a different orientation than the search range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T142122Z" creationid="steevie" creationdate="20161010T142122Z">
+        <seg>L'intervallo di ritorno può avere un differente allineamento che nell'intervallo di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The return range must be a single row or column containing the same number of elements as the search range.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161010T141923Z" creationid="steevie" creationdate="20161010T141809Z">
@@ -40823,6 +40839,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T152329Z" creationid="steevie" creationdate="20160620T152120Z">
         <seg>Il criterio di ricerca può essere contenuto in una cella di riferimento o incluso direttamente nella chiamata di funzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The search data is not stored in the same row, column, or orientation as the return data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T142351Z" creationid="steevie" creationdate="20161010T142351Z">
+        <seg>I dati in cui ricercare non sono salvati nella stessa riga, colonna od allienamento dei dati restituiti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The search data is sorted in ascending order.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T142300Z" creationid="steevie" creationdate="20161010T142300Z">
+        <seg>I dati in cui ricercare sono ordinati in maniera crescente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45359,6 +45391,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161010T140033Z" creationid="steevie" creationdate="20161010T140033Z">
         <seg>Usate CERCA.ORIZZ quando:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use LOOKUP when:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T142214Z" creationid="steevie" creationdate="20161010T142214Z">
+        <seg>Usate CERCA quando:</seg>
       </tuv>
     </tu>
     <tu>
