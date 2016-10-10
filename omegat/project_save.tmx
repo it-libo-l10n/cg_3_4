@@ -11431,6 +11431,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc also offers lookup functions used in formulas, for example a formula to look up a student’s grade based on their test score.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T131514Z" creationid="steevie" creationdate="20161010T131514Z">
+        <seg>Calc offre anche funzioni di ricerca usate in formule, ad esempio una formula per cercare il voto di uno studente in base al punteggio dei loro test.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc also provides the ability to enter information into multiple sheets of the same document at the same time.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T160627Z" creationid="Elisabetta" creationdate="20160627T160627Z">
@@ -20083,6 +20091,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160615T160020Z" creationid="luciano" creationdate="20160615T160020Z">
         <seg>Per esempio, &lt;f0&gt;=PositiveSum(A3)&lt;/f0&gt; passa il valore della cella A3, e PositiveSum non ha modo di sapere che la cella A3 è stata utilizzata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, &lt;f0&gt;Edit &gt; Find &amp; Replace&lt;/f0&gt; moves the display cursor based on simple and advanced searching.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T131235Z" creationid="steevie" creationdate="20161010T131235Z">
+        <seg>Ad esempio, &lt;f0&gt;Modifica &gt; Trova e sostituisci&lt;/f0&gt; sposta il cursore in base ad una ricerca semplice o avanzata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34233,6 +34249,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search a block of data using &lt;is0/&gt;VLOOKUP</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T131658Z" creationid="steevie" creationdate="20161010T131658Z">
+        <seg>Ricerca in un blocco di dati usando&lt;is0/&gt;CERCA.VERT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search an array and return the relative position of the found item.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T150417Z" creationid="steevie" creationdate="20160620T150417Z">
@@ -44919,6 +44943,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160510T143623Z" creationid="steevie" creationdate="20160510T143623Z">
         <seg>Usate &lt;f1&gt;Dati &gt; Filtro &gt; Filtro automatico&lt;/f1&gt; per inserire la casella combinata nella cella appropriata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;f1&gt;Data &gt; Filter&lt;/f1&gt; to limit what is displayed rather than simply moving the cursor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T131420Z" creationid="steevie" creationdate="20161010T131420Z">
+        <seg>Usate &lt;f1&gt;Dati &gt; Filtro&lt;/f1&gt; Per limitare quanto viene visualizzato piuttosto che semplicemente spostare il cursore.</seg>
       </tuv>
     </tu>
     <tu>
