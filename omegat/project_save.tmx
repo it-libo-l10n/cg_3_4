@@ -20455,6 +20455,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, student names with test and quiz scores underneath the student’s name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T140156Z" creationid="steevie" creationdate="20161010T140156Z">
+        <seg>Ad esempio, nomi di studenti con risultati di test e quiz al di sotto del nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, the macro in &lt;t1&gt;Listing 7&lt;/t1&gt; adds the values in cell A2 from every sheet in the current document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160615T161109Z" creationid="luciano" creationdate="20160615T161109Z">
@@ -26264,10 +26272,42 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LOOKUP has two forms:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T140745Z" creationid="steevie" creationdate="20161010T140745Z">
+        <seg>CERCA ha due forme:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LOOKUP is similar to HLOOKUP and VLOOKUP.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T140709Z" creationid="steevie" creationdate="20161010T140709Z">
+        <seg>CERCA è simile a CERCA.ORIZZ e CERCA.VERT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LOOKUP(search_criterion; search_vector;&lt;f0&gt; &lt;/f0&gt;result_vector)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T122856Z" creationid="Marco Marega" creationdate="20160821T122856Z">
         <seg>CERCA(criterio di ricerca; vettore;&lt;f0&gt; &lt;/f0&gt;risultato)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LOOKUP(search_value; search_range)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T140822Z" creationid="steevie" creationdate="20161010T140822Z">
+        <seg>CERCA(Criterio_ricerca; vettore)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LOOKUP(search_value; search_range; return_range)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T140836Z" creationid="steevie" creationdate="20161010T140836Z">
+        <seg>CERCA(Criterio_ricerca; vettore; risultato)</seg>
       </tuv>
     </tu>
     <tu>
@@ -34377,6 +34417,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search a row or column using &lt;is0/&gt;LOOKUP</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T140249Z" creationid="steevie" creationdate="20161010T140249Z">
+        <seg>Ricerca di una riga o colonna usando &lt;is0/&gt;CERCA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search an array and return the relative position of the found item.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T150417Z" creationid="steevie" creationdate="20160620T150417Z">
@@ -34445,6 +34493,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161010T135038Z" creationid="steevie" creationdate="20161010T135038Z">
         <seg>Volete trovare la prima riga in un intervallo di dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Searching the first row of a range of data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T140206Z" creationid="steevie" creationdate="20161010T140206Z">
+        <seg>Volete trovare la prima colonna in un intervallo di dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39122,6 +39178,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The data is arranged in columns and you want to return data from the same column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T140059Z" creationid="steevie" creationdate="20161010T140059Z">
+        <seg>I dati sono disposti in colonne e volete trovare dati all'interno della stessa colonna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The data is arranged in rows and you want to return data from the same row.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161010T134910Z" creationid="steevie" creationdate="20161010T134910Z">
@@ -40755,6 +40819,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The search range for the LOOKUP function is a single sorted row or column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T140738Z" creationid="steevie" creationdate="20161010T140738Z">
+        <seg>L'intervallo di ricerca per la funzione CERCA è una singola riga o colonna ordinate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The search range, however, must be a single row or a single column; for example, A7:A12 (values in column A) or C5:Q5 (values in row 5).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T141024Z" creationid="steevie" creationdate="20161010T141024Z">
+        <seg>Il vettore, tuttavia, dev'essere una singola riga o colonna ad esempio A7:A12 (valori nella colonna A) o C5:Q5 (valori nella riga 5).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The search supports regular expressions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T145348Z" creationid="Marco Marega" creationdate="20160626T145348Z">
@@ -40791,6 +40871,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161010T132445Z" creationid="steevie" creationdate="20161010T132445Z">
         <seg>Il valore da cercare può essere testo, un numero o una espressione regolare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The search value is the same as HLOOKUP and VLOOKUP.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T140902Z" creationid="steevie" creationdate="20161010T140902Z">
+        <seg>Il criterio di ricerca è lo stesso di CERCA.ORIZZ e CERCA.VERT.</seg>
       </tuv>
     </tu>
     <tu>
