@@ -20119,6 +20119,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, &lt;f1&gt;Fred&lt;/f1&gt; searches for the text Fred, &lt;f2&gt;4&lt;/f2&gt; searches for the number 4, and &lt;f3&gt;F.*&lt;/f3&gt; is the regular expression for finding something that starts with the letter F.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T132543Z" creationid="steevie" creationdate="20161010T132543Z">
+        <seg>Ad esempio, &lt;f1&gt;Fred&lt;/f1&gt; cerca il testo Fred, &lt;f2&gt;4&lt;/f2&gt; cerca il numero 4, e &lt;f3&gt;F.*&lt;/f3&gt; iè l'espressione regolare pre trovare qualcosa che comincia con la lettera F.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, &lt;f1&gt;View &gt; Status Bar&lt;/f1&gt; will toggle (show or hide) the Status Bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T163630Z">
@@ -20371,6 +20379,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T101547Z" creationid="michele" creationdate="20160525T101547Z">
         <seg>Ad esempio, nella scheda &lt;f0&gt;Descrizione&lt;/f0&gt; (&lt;t1&gt;Figura 36&lt;/t1&gt;) potreste avere necessità di modificare il contenuto del campo &lt;f2&gt;Titolo&lt;/f2&gt; dal titolo provvisorio o di bozza a quello definitivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, search the first column for the name “Fred” and then return the value in the cell two columns to the right.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T131920Z" creationid="steevie" creationdate="20161010T131920Z">
+        <seg>Ad esempio, ricerca nella prima colonna il nome "Fred" e mostra il valore nella cella due colonne più a destra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39338,6 +39354,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The first argument, &lt;f0&gt;search_value&lt;/f0&gt;, identifies the value to find.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T132421Z" creationid="steevie" creationdate="20161010T132421Z">
+        <seg>Il primo argomento, &lt;f0&gt;criterio_ricerca&lt;/f0&gt;, identifica il valore da cercare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first array contains the original or default values and the formulas applied to them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160601T132852Z" creationid="michele" creationdate="20160601T132852Z">
@@ -40599,6 +40623,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T103941Z" creationid="Marco Marega" creationdate="20160823T103941Z">
         <seg>Il testo da cercare può essere un numero o qualunque sequenza di caratteri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The search value can be text, a number, or a regular expression.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T132445Z" creationid="steevie" creationdate="20161010T132445Z">
+        <seg>Il valore da cercare può essere testo, un numero o una espressione regolare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The second argument, &lt;f0&gt;search_range&lt;/f0&gt;, identifies the cells to search; only the first column is searched.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T132643Z" creationid="steevie" creationdate="20161010T132643Z">
+        <seg>Il secondo argomento, &lt;f0&gt;matrice&lt;/f0&gt;, identifica le celle in cui ricercare; la ricerca avviene solo nella prima colonna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45019,6 +45059,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use VLOOKUP to search the first column (columns are vertical) of a block of data and return the value from another column in the same row.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T131818Z" creationid="steevie" creationdate="20161010T131818Z">
+        <seg>Usate CERCA.VERT per ricercare la prima colonna (le colonne sono verticali) di un blocco di dati e restituire il valore di un'altra colonna nella stessa riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use a title that draws the viewers’ attention to the purpose of the chart: what you want them to see.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20161002T174826Z" creationid="emanuelegiusti" creationdate="20161002T174826Z">
@@ -45939,10 +45987,34 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>VLOOKUP supports two forms:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T131933Z" creationid="steevie" creationdate="20161010T131933Z">
+        <seg>CERCA.VERT supporta due forme:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>VLOOKUP(search_criterion; array; index; sort_order)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T211024Z" creationid="Marco Marega" creationdate="20160821T211024Z">
         <seg>CERCA.VERT(criterio di ricerca; matrice; indice; ordinato)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VLOOKUP(search_value; search_range; return_column_index)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T132334Z" creationid="steevie" creationdate="20161010T132334Z">
+        <seg>CERCA.VERT(Criterio_ricerca; matrice; indice_da_ritornare)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VLOOKUP(search_value; search_range; return_column_index; sort_order)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T132351Z" creationid="steevie" creationdate="20161010T132351Z">
+        <seg>CERCA.VERT(Criterio_ricerca; matrice; indice_da_ritornare, ordinato)</seg>
       </tuv>
     </tu>
     <tu>
