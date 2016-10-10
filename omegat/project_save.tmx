@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11671,6 +11671,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc offers numerous methods to find data in a sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T124711Z" creationid="steevie" creationdate="20161010T124711Z">
+        <seg>Calc offre numerosi metodi per cercare dati in un foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T130631Z" creationid="steevie" creationdate="20160427T130631Z">
@@ -16439,6 +16447,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do not forget that the SUBTOTAL function ignores cells that use the SUBTOTAL function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T124308Z" creationid="steevie" creationdate="20161010T124308Z">
+        <seg>Non dimenticate che la funzione SUBTOTALE ignora le celle che usano la funzione SUBTOTALE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Docked toolbars can be moved to different locations or made to float, and floating toolbars can be docked.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160323T164024Z">
@@ -20079,6 +20095,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, &lt;f1&gt;=SUBTOTAL(2, "B2:B16")&lt;/f1&gt; counts the number of cells in B2:B16 that are not hidden by a filter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T124029Z" creationid="steevie" creationdate="20161010T124029Z">
+        <seg>Ad esempio, &lt;f1&gt;=SUBTOTALE(2, "B2:B16")&lt;/f1&gt; conta il numero di celle in B2:B16 che non sono nascoste da un filtro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, &lt;f1&gt;View &gt; Status Bar&lt;/f1&gt; will toggle (show or hide) the Status Bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T163630Z">
@@ -21099,6 +21123,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T200939Z" creationid="Elisabetta" creationdate="20160815T200939Z">
         <seg>L’argomento della funzione non è valido, ad esempio, nel caso di un numero negativo per la funzione di radice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Function index</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T124221Z" creationid="steevie" creationdate="20161010T124221Z">
+        <seg>Indice funzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Function index for the SUBTOTAL function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T124210Z" creationid="steevie" creationdate="20161010T124210Z">
+        <seg>Indice funzione per la funzione SUBTOTALE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34089,6 +34129,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Say you have a spreadsheet that tracks investments.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T124401Z" creationid="steevie" creationdate="20161010T124401Z">
+        <seg>Supponete di avere un foglio di calcolo che tiene traccia degli investimenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scale</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T164052Z">
@@ -37370,6 +37418,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;20&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T124036Z" creationid="steevie" creationdate="20161010T124036Z">
+        <seg>Tabella &lt;seq0&gt;20&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Table &lt;seq0&gt;2&lt;/seq0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T100847Z" creationid="michele" creationdate="20160525T100847Z">
@@ -38324,8 +38380,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The SUBTOTAL function applies a function (see &lt;t0&gt;Table 20&lt;/t0&gt;) to a range of data, but it ignores cells hidden by a filter and cells that already contain a SUBTOTAL.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T154126Z" creationid="steevie" creationdate="20160620T154126Z">
-        <seg>The SUBTOTAL function applies a function (see &lt;t0&gt;Table 20&lt;/t0&gt;) to a range of data, but it ignores cells hidden by a filter and cells that already contain a SUBTOTAL.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T123937Z" creationid="steevie" creationdate="20160620T154126Z">
+        <seg>La funzione SUBTOTALE  applica una funzione (vedi &lt;t0&gt;Tabella 20&lt;/t0&gt;) ad un intervallo di dati, ma ignora le celle nascoste da un filtro o che già contengono un SUBTOTALE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40431,6 +40487,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160701T100614Z" creationid="Elisabetta" creationdate="20160701T100301Z">
         <seg>I risultati compaiono nella &lt;/f17&gt;&lt;f18&gt;Figura &lt;t19&gt;50&lt;/t19&gt;&lt;/f18&gt;&lt;f20&gt;.&lt;/f20&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The retirement investments are grouped together with a subtotal.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T124446Z" creationid="steevie" creationdate="20161010T124446Z">
+        <seg>Gli investimenti relativi alla pensione sono raggruppati in un subtotale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The same is true of regular investments.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T124511Z" creationid="steevie" creationdate="20161010T124511Z">
+        <seg>Lo stesso vale per gli altri investimenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45459,6 +45531,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using formulas to find data</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T124648Z" creationid="steevie" creationdate="20161010T124648Z">
+        <seg>Uso delle formule per trovare dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using other “what if” tools</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095715Z">
@@ -48295,6 +48375,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T150905Z" creationid="luciano" creationdate="20160504T134221Z">
         <seg>È possibile utilizzare Calc senza un dispositivo di puntamento, come un mouse o un trackball, utilizzando i tasti di scelta rapida  integrati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use a single subtotal that includes the entire range without worrying about the subtotal cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T124622Z" creationid="steevie" creationdate="20161010T124622Z">
+        <seg>Potete usare un singolo subtotale che include tutto l'intervallo degli investimenti senza preoccuparvi delle celle contenenti i subtotali.</seg>
       </tuv>
     </tu>
     <tu>
