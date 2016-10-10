@@ -8127,6 +8127,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0/&gt;Using LOOKUP without a return range is the same as using HLOOKUP or VLOOKUP with a column index of 1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T141326Z" creationid="steevie" creationdate="20161010T141128Z">
+        <seg>&lt;s0/&gt;Usare CERCA senza risultato_restituito è come usare CERCA.ORIZZ o CERCA.VERT con un indice di colonna di 1. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s1/&gt;See below for more information about these options.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T143136Z" creationid="michele" creationdate="20160531T143136Z">
@@ -23023,6 +23031,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the return_range is omitted, the matched value is returned.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T141845Z" creationid="steevie" creationdate="20161010T141059Z">
+        <seg>Se l'intervallo di ritorno è omesso, viene restituito il valore corrispondente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the reviewer added a comment to the change, it is displayed, followed by the description of the change, as in the first line of &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Figure 291&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160426T160024Z" creationid="luciano" creationdate="20160426T160024Z">
@@ -23035,6 +23051,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160527T141513Z" creationid="michele" creationdate="20160527T141513Z">
         <seg>Se le etichette delle righe o delle colonne di una sorgente dati non corrispondono esattamente quelle di altre sorgenti dati, viene aggiunto all'area di destinazione come nuova riga o colonna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the search value is found in the fourth cell in the search range, then the value in the fourth cell in the return range is returned.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T142035Z" creationid="steevie" creationdate="20161010T142035Z">
+        <seg>Se il valore da ricercare è trovato nella quarta cella dell'intervallo di ricerca, viene restituito il valore della quarta cella nell'intervallo di ritorno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26306,8 +26330,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>LOOKUP(search_value; search_range; return_range)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T140836Z" creationid="steevie" creationdate="20161010T140836Z">
-        <seg>CERCA(Criterio_ricerca; vettore; risultato)</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T141825Z" creationid="steevie" creationdate="20161010T140836Z">
+        <seg>CERCA(Criterio_ricerca; vettore; intervallo_ritorno)</seg>
       </tuv>
     </tu>
     <tu>
@@ -40767,6 +40791,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161010T124446Z" creationid="steevie" creationdate="20161010T124446Z">
         <seg>Gli investimenti relativi alla pensione sono raggruppati in un subtotale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The return range must be a single row or column containing the same number of elements as the search range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T141923Z" creationid="steevie" creationdate="20161010T141809Z">
+        <seg>L'intervallo di ritorno dev'essere una singola riga o colonna contenente lo stesso numero di elementi dell'intervallo di ricerca.</seg>
       </tuv>
     </tu>
     <tu>
