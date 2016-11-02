@@ -6798,6 +6798,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;To delete a single trend line or mean value line, click the line, then press the &lt;/f0&gt;&lt;f1&gt;Del&lt;/f1&gt;&lt;f2&gt; key.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161102T184250Z" creationid="Andrea" creationdate="20161102T184250Z">
+        <seg>&lt;f0&gt;Per eliminare una singola linea di tendenza o una singola linea di valor medio, fate clic sulla linea e poi premete &lt;/f0&gt;&lt;f1&gt;il pulsante&lt;/f1&gt;&lt;f2&gt; Del.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;To delete all trend lines, choose &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Insert &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; Trend Lines&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;, then select &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;None&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;.&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161102T184422Z" creationid="Andrea" creationdate="20161102T184422Z">
+        <seg>&lt;f0&gt;Per eliminare tutte le linee di tendenza scegliete&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Inserisci &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; Linea di Tendenza&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;, poi selezionate &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Nessuna&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;.&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;To delete multiple sheets, select them as described earlier, then either &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;right-click&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; over one of the tabs and choose&lt;/f3&gt; &lt;f4&gt;Delete Sheet&lt;/f4&gt; f&lt;f5&gt;rom the &lt;/f5&gt;&lt;f6&gt;context&lt;/f6&gt;&lt;f7&gt; menu, or choose &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;Edit &gt; Sheet &gt; Delete&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; from the Menu bar.&lt;/f10&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T140408Z" creationid="michele" creationdate="20160525T140408Z">
@@ -9051,6 +9067,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T150759Z" creationid="steevie" creationdate="20160503T150734Z">
         <seg>Una tabella è composta da uno o più record.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A trend line is shown in the legend automatically.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161102T184501Z" creationid="Andrea" creationdate="20161102T184501Z">
+        <seg>Una linea di tendenza e' visualizzata automaticamente nella legenda.</seg>
       </tuv>
     </tu>
     <tu>
