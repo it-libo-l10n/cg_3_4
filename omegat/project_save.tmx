@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4394,6 +4394,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T160402Z" creationid="Luciano B." creationdate="20160326T160402Z">
         <seg>&lt;f0&gt;Visualizza titolo documento:&lt;/f0&gt; Fa sì che il visualizzatore di PDF mostri il titolo del documento nella barra del titolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Documentation for LibreOffice is available at &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;http://www.libreoffice.org/get-help/documentation&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20161104T101720Z" creationid="osvaldo" creationdate="20161104T101720Z">
+        <seg>&lt;f0&gt;La documentazione per LibreOffice è disponibile all'indirizzo &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;http://www.libreoffice.org/get-help/documentation&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12947,6 +12955,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095231Z">
         <seg>Capitolo 7 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 7 Using Formulas and Functions</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20161104T101552Z" creationid="osvaldo" creationdate="20161104T101552Z">
+        <seg>Capitolo 7 Uso di formule e funzioni</seg>
       </tuv>
     </tu>
     <tu>
