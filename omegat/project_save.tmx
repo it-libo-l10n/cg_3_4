@@ -13423,6 +13423,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Format&lt;/f0&gt; from the menu bar, or right-click to display a context menu relevant to the selected element.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161127T190413Z" creationid="Andrea" creationdate="20161127T190413Z">
+        <seg>Scegliete &lt;f0&gt;Formattazione&lt;/f0&gt; dalla barra menu, oppure fate clic con il pulsante destro per visualizzare un menu contestuale relativo all'elemento selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;Insert &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Data Labels&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161008T171246Z" creationid="Andrea" creationdate="20161008T171246Z">
@@ -21019,6 +21027,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T075812Z" creationid="Marco Marega" creationdate="20160625T075812Z">
         <seg>Ad esempio, la funzione &lt;f2&gt;SOMMA&lt;/f2&gt; può accettare un massimo di 30 parametri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Format Selection</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161127T190505Z" creationid="Andrea" creationdate="20161127T190505Z">
+        <seg>Scelta della Formattazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -29605,6 +29621,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160504T140905Z" creationid="luciano" creationdate="20160504T140905Z">
         <seg>Apre un menu contestuale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens a dialog in which you can specify the area fill, borders, transparency, characters, font effects, and other attributes of the selected element of the chart (see page &lt;bf0&gt;91&lt;/bf0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161127T190724Z" creationid="Andrea" creationdate="20161127T190724Z">
+        <seg>Apre una finestra di dialogo nella quale e' possibile specificare area di riempimento, bordi, trasparenza, caratteri, effetti tipografici ed altri attributi dell'elemento del diagramma selezionato (vedi pagina &lt;bf0&gt;91&lt;/bf0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -40039,6 +40063,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T134122Z" creationid="steevie" creationdate="20160427T134042Z">
         <seg>Il formato verrà applicato a tutti i nuovi valori inseriti in questo intervallo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The formatting choices are as follows.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161127T190443Z" creationid="Andrea" creationdate="20161127T190443Z">
+        <seg>Le scelte di formattazione sono le seguenti.</seg>
       </tuv>
     </tu>
     <tu>
