@@ -3926,6 +3926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Cell Range&lt;/f0&gt; – calculates the error based on cell ranges you select.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161127T185718Z" creationid="Andrea" creationdate="20161127T185718Z">
+        <seg>&lt;f0&gt;Intervallo di Celle&lt;/f0&gt; – calcola l'errore in base all'intervallo di celle da voi scelto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Center window on screen:&lt;/f0&gt; Causes the PDF viewer window to be centered on the computer screen.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T160315Z" creationid="Luciano B." creationdate="20160326T160315Z">
@@ -17523,6 +17531,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T101341Z">
         <seg>Codici di errore visualizzati all'interno delle celle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error margin – you designate the error</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161127T185606Z" creationid="Andrea" creationdate="20161127T185606Z">
+        <seg>Margine di errore – stabilite voi il vostro proprio errore </seg>
       </tuv>
     </tu>
     <tu>
@@ -37449,6 +37465,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Standard deviation – shows error calculated on standard deviation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161127T185440Z" creationid="Andrea" creationdate="20161127T185440Z">
+        <seg>Deviazione standard – mostra l'errore calcolato sulla deviazione standard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Standard error</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161127T185235Z" creationid="Andrea" creationdate="20161127T185235Z">
@@ -38790,6 +38814,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T092820Z" creationid="michele" creationdate="20160524T092820Z">
         <seg>Apre la finestra di dialogo dello stile di pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Parameters section at the bottom of the dialog changes to allow selection of the cell ranges.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161127T185824Z" creationid="Andrea" creationdate="20161127T185824Z">
+        <seg>La sezione Parametri in fondo alla finestra di dialogo cambia in modo da permettere la scelta dell'intervallo di celle.</seg>
       </tuv>
     </tu>
     <tu>
