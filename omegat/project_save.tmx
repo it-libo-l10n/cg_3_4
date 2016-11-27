@@ -4094,6 +4094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Constant value&lt;/f0&gt; – you can have separate positive and negative values.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161127T181200Z" creationid="Andrea" creationdate="20161127T181200Z">
+        <seg>&lt;f0&gt;Valore costante&lt;/f0&gt; –potete avere valori positivi e negativi separati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Contents.&lt;/f0&gt; Shows or hides the list of categories.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T155722Z" creationid="michele" creationdate="20160525T155722Z">
@@ -19731,6 +19739,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161102T184006Z" creationid="Andrea" creationdate="20161102T184006Z">
         <seg>Figura &lt;seq0&gt;83&lt;/seq0&gt;: Finestra di dialogo Linee di Tendenza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;84&lt;/seq0&gt;: Specifying the parameters of error bars</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161127T181103Z" creationid="Andrea" creationdate="20161127T181103Z">
+        <seg>Figura &lt;seq0&gt;84&lt;/seq0&gt;: Indicazione dei parametri delle barre di errore</seg>
       </tuv>
     </tu>
     <tu>
@@ -48099,6 +48115,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also choose whether the error indicator shows both positive and negative errors, or only positive or only negative.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161127T180950Z" creationid="Andrea" creationdate="20161127T180950Z">
+        <seg>Potete anche scegliere se l'indicatore di errore debba indicare gli errori sia in positivo che in negativo, solo in positivo o solo in negativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also choose whether to show the equation for the trend line and the coefficient of determination (R&lt;/f22&gt;&lt;f23&gt;2&lt;/f23&gt;&lt;f24&gt;).&lt;/f24&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161102T183317Z" creationid="Andrea" creationdate="20161102T183317Z">
@@ -48815,6 +48839,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T154435Z" creationid="Elisabetta" creationdate="20160726T154435Z">
         <seg>Potete spostarvi tra le occorrenze mediante il pulsante &lt;f0&gt;Cerca&lt;/f0&gt;, oppure evidenziare tutte le celle corrispondenti simultaneamente grazie al pulsante &lt;f1&gt;Cerca tutto&lt;/f1&gt;, quindi applicare un diverso formato o sostituire il contenuto delle celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can only choose one option at a time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161127T180815Z" creationid="Andrea" creationdate="20161127T180815Z">
+        <seg>Potete scegliere solo un'opzione alla volta.</seg>
       </tuv>
     </tu>
     <tu>
