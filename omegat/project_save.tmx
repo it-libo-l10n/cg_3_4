@@ -14247,6 +14247,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the trend line to see the information in the status bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161127T163724Z" creationid="Andrea" creationdate="20161127T163724Z">
+        <seg>Fate clic sulla barra di tendenza per vedere le relative informazioni nella barra di stato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the&lt;f0&gt; = &lt;/f0&gt;&lt;f1&gt;icon next to the input line.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160527T122119Z" creationid="antonio" creationdate="20160527T122119Z">
@@ -47111,6 +47119,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T193838Z" creationid="Elisabetta" creationdate="20160815T193838Z">
         <seg>Selezionando la cella in cui compare il codice di errore &lt;f0&gt;#REF&lt;/f0&gt; nella Figura &lt;t1&gt;348&lt;/t1&gt;, la barra di stato segnala il messaggio di errore come indicato nella Figura &lt;t2&gt;349&lt;/t2&gt;.&lt;f3&gt; &lt;/f3&gt;Questo messaggio è più informativo rispetto a quello che compare nella cella, ma, probabilmente, non ancora adeguato a diagnosticare correttamente il problema.&lt;f4&gt; &lt;/f4&gt;Per una spiegazione più esauriente, consultate le tabelle seguenti e il capitolo della Guida intitolato, &lt;f5&gt;Codici di errore in &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;LibreOffice&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; Calc&lt;/f8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the chart is in edit mode, LibreOffice gives you the equation of the trend line and the correlation coefficient.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161127T163617Z" creationid="Andrea" creationdate="20161127T163617Z">
+        <seg>Quando il grafico e' in modalita' modifica, LibreOffice mostra l'equazione della linea di tendenza ed il.coefficiente di correlazione.</seg>
       </tuv>
     </tu>
     <tu>
