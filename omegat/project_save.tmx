@@ -23487,6 +23487,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are presenting data that has a known possibility of error, such as social surveys using a particular sampling method, or you want to show the measuring accuracy of the tool you used, you may wish to show error bars on the chart.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161127T180606Z" creationid="Andrea" creationdate="20161127T180606Z">
+        <seg>Se i dati presentati possono essere soggetti ad errore, come per esempio indagini sociali che utilizzino una metodologia di campionamento particolare, oppure volete mostrare l'accuratezza dello strumento che avete usato, potreste voler visualizzare barre di errore nel diagramma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are using a Mac, you should see the &lt;f2&gt;LibreOffice&lt;/f2&gt; icon in the Applications folder.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T100543Z" creationid="michele" creationdate="20160524T100543Z">
@@ -35457,6 +35465,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the chart and choose &lt;f0&gt;Insert &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Y Error Bars&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161127T180703Z" creationid="Andrea" creationdate="20161127T180703Z">
+        <seg>Selezionate il diagramma e scegliete &lt;f0&gt;Inserimento &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Barre di Errore Y&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the color to modify from the list or the color table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T151847Z" creationid="steevie" creationdate="20160418T151847Z">
@@ -36189,6 +36205,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160720T163422Z" creationid="briga" creationdate="20160720T163422Z">
         <seg>Diverse opzioni degli stili di pagina sono descritti in maggiore dettaglio all'interno del Capitolo 6 (Stampa, Esportazione ed eMail), poiché modificare la formattazione manualmente al momento di stampare (usando &lt;f0&gt;Formato &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; pagina&lt;/f3&gt;) in realtà modifica lo stile della pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Several options are provided on the Error Bars dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161127T180747Z" creationid="Andrea" creationdate="20161127T180747Z">
+        <seg>La finestra di dialogo Barre di Errore presenta diverse opzioni.</seg>
       </tuv>
     </tu>
     <tu>
