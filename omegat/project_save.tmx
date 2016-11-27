@@ -23895,6 +23895,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you select &lt;f0&gt;&lt;f1&gt;mean valu&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;e&lt;/f2&gt; lines, Calc calculates the average of each selected data series and places a colored line at the correct level in the chart.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161127T180009Z" creationid="Andrea" creationdate="20161127T180009Z">
+        <seg>Se selezionate &lt;f0&gt;linee di&lt;f1&gt;valore medi&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;o&lt;/f2&gt; , Calc calcola la media di ciascuna serie di dati ed inserisce una linea colorata al livello corretto del diagramma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you select &lt;f0&gt;Format&lt;/f0&gt; or &lt;f1&gt;Delete All&lt;/f1&gt; from the Delete Contents window, then it is removed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T091332Z" creationid="Elisabetta" creationdate="20160629T090800Z">
@@ -47863,6 +47871,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160615T160350Z" creationid="luciano" creationdate="20160615T160350Z">
         <seg>Scrivere macro che si comportano come funzioni integrate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Y error bars</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161127T180034Z" creationid="Andrea" creationdate="20161127T180034Z">
+        <seg>Barre di errore Y</seg>
       </tuv>
     </tu>
     <tu>
