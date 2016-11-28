@@ -47067,6 +47067,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When &lt;f0&gt;Keep image size&lt;/f0&gt; is selected, cropping enlarges (for positive cropping values), shrinks (for negative cropping values), or distorts of the image so that the image size remains constant.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161128T170610Z" creationid="luciano" creationdate="20161128T170610Z">
+        <seg>Quando si seleziona &lt;f0&gt;Mantieni dimensione&lt;/f0&gt;, cropping enlarges (for positive cropping values), shrinks (for negative cropping values), or distorts of the image so that the image size remains constant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When &lt;f0&gt;Keep scale&lt;/f0&gt; is selected (default), cropping the image does not change the scale of the picture.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161128T170448Z" creationid="luciano" creationdate="20161128T170448Z">
