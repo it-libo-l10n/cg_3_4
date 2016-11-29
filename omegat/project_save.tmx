@@ -6902,6 +6902,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;To retain the original proportions of the graphic, &lt;/f0&gt;&lt;f1&gt;Shift+click&lt;/f1&gt;&lt;f2&gt; one of the corner handles, then drag.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T171246Z" creationid="luciano" creationdate="20161129T171246Z">
+        <seg>&lt;f0&gt;Per mantenere le proporzioni originali dell'immagine, fate &lt;/f0&gt;&lt;f1&gt;Maiusc+clic&lt;/f1&gt;&lt;f2&gt; su una delle maniglie d'angolo, quindi trascinate fin dove occorre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;To set text to wrap at the end of the cell, &lt;/f0&gt;&lt;f1&gt;right-click&lt;/f1&gt;&lt;f2&gt; on the cell and select &lt;/f2&gt;&lt;f3&gt;Format Cells&lt;/f3&gt; (or choose &lt;f4&gt;Format &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; Cells&lt;/f7&gt; from the menu bar, or press &lt;f8&gt;Ctrl+1&lt;/f8&gt;).&lt;f9&gt; On the &lt;/f9&gt;&lt;f10&gt;Alignment&lt;/f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;tab (&lt;/f12&gt;&lt;f13&gt;&lt;t14&gt;Figure 49&lt;/t14&gt;&lt;/f13&gt;&lt;f15&gt;), under Properties, select &lt;/f15&gt;&lt;f16&gt;Wrap text automatically&lt;/f16&gt;&lt;f17&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160701T100501Z" creationid="Elisabetta" creationdate="20160701T100220Z">
@@ -10987,6 +10995,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T101154Z" creationid="michele" creationdate="20160525T101154Z">
         <seg>Fate però attenzione... </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Be sure to release the mouse button &lt;/f2&gt;&lt;f3&gt;before&lt;/f3&gt;&lt;f4&gt; releasing the &lt;/f4&gt;&lt;f5&gt;Shift&lt;/f5&gt;&lt;f6&gt; key.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T171311Z" creationid="luciano" creationdate="20161129T171311Z">
+        <seg>Assicuratevi di rilasciare il pulsante del mouse &lt;/f2&gt;&lt;f3&gt;prima&lt;/f3&gt;&lt;f4&gt; di rilasciare il tasto &lt;/f4&gt;&lt;f5&gt;Maiusc&lt;/f5&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31945,6 +31961,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Release the mouse button when satisfied with the new size.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T171055Z" creationid="luciano" creationdate="20161129T171055Z">
+        <seg>Rilasciate il pulsante del mouse quando raggiungete il risultato desiderato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Release the mouse button, and the screen is split into two views, each with its own horizontal scroll bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T153550Z" creationid="michele" creationdate="20160525T153550Z">
@@ -39622,6 +39646,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160723T162156Z" creationid="Elisabetta" creationdate="20160723T162156Z">
         <seg>I controlli hanno una struttura ad albero apparentemente simile a quella di un gestore di file, che può essere nascosta selezionando &lt;f0&gt;Dati &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Raggruppa e struttura &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Nascondi dettaglio&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The corner handles resize both the width and the height of the graphic object simultaneously, while the other four handles only resize one dimension at a time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T171157Z" creationid="luciano" creationdate="20161129T171157Z">
+        <seg>Le maniglie poste agli angoli consentono il ridimensionamento simultaneo dell'altezza e della larghezza dell'immagine, mentre le altre quattro consentono di modificare una sola dimensione alla volta.</seg>
       </tuv>
     </tu>
     <tu>
