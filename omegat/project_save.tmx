@@ -23711,6 +23711,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you crop an image in Calc, the picture itself is not affected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T165313Z" creationid="luciano" creationdate="20161129T165313Z">
+        <seg>Se ritagliate una immagine in Calc, l'immagine stessa non viene interessata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you do a &lt;f0&gt;Save As...&lt;/f0&gt; of a document with different versions stored in it, the old versions are not saved in the new file.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T152702Z" creationid="luciano" creationdate="20160429T141005Z">
@@ -29533,6 +29541,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T160724Z" creationid="Luciano B." creationdate="20160326T160724Z">
         <seg>In Calc è disponibile un solo livello di Segnalibri (nome dei fogli) , indipendentemente dalle opzioni scelte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only the area displayed is altered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T165408Z" creationid="luciano" creationdate="20161129T165408Z">
+        <seg>Solo l'area visualizzata viene alterata.</seg>
       </tuv>
     </tu>
     <tu>
