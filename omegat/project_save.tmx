@@ -23807,6 +23807,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you export the document to HTML, the full original image is exported, not the cropped image.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T165529Z" creationid="luciano" creationdate="20161129T165529Z">
+        <seg>Se esportate il documento in HTML,  viene esportata l'immagine originale, non soltanto la parte ritagliata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have Asian languages enabled, then the &lt;f2&gt;Text orientation&lt;/f2&gt; section shows an extra option (labeled &lt;f3&gt;Asian layout mode&lt;/f3&gt;) under the &lt;f4&gt;Vertically stacked&lt;/f4&gt; option, as shown in &lt;t5&gt;Figure 57&lt;/t5&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160721T155822Z" creationid="Elisabetta" creationdate="20160721T155822Z">
@@ -29547,8 +29555,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Only the area displayed is altered.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T165408Z" creationid="luciano" creationdate="20161129T165408Z">
-        <seg>Solo l'area visualizzata viene alterata.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T165447Z" creationid="luciano" creationdate="20161129T165408Z">
+        <seg>Viene modificate solo l'area visualizzata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32125,6 +32133,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T102549Z">
         <seg>Ridimensionare e posizionare un diagramma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Resizing&lt;i0/&gt; an image</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T165630Z" creationid="luciano" creationdate="20161129T165630Z">
+        <seg>Ridimensionare &lt;i0/&gt;un'immagine</seg>
       </tuv>
     </tu>
     <tu>
@@ -51075,6 +51091,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>graphics</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T165555Z" creationid="luciano" creationdate="20161129T165555Z">
+        <seg>immagini</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>grid</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T155021Z" creationid="steevie" creationdate="20160428T155021Z">
@@ -51159,6 +51183,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165610Z" creationid="Luciano B." creationdate="20160325T165610Z">
         <seg>compressione e risoluzione dell'immagine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>images</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T165610Z" creationid="luciano" creationdate="20161129T165610Z">
+        <seg>immagini</seg>
       </tuv>
     </tu>
     <tu>
@@ -51771,6 +51803,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>pictures</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T165603Z" creationid="luciano" creationdate="20161129T165603Z">
+        <seg>foto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>precision</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T150707Z" creationid="steevie" creationdate="20160427T150707Z">
@@ -51927,6 +51967,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172656Z" creationid="steevie" creationdate="20160428T172656Z">
         <seg>ripristinare i valori predefiniti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>resizing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T165536Z" creationid="luciano" creationdate="20161129T165536Z">
+        <seg>ridimensionamento</seg>
       </tuv>
     </tu>
     <tu>
