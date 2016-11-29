@@ -14071,6 +14071,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click and drag to resize the picture.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T170919Z" creationid="luciano" creationdate="20161129T170919Z">
+        <seg>Fate clic e, mantenendo premuto il pulsante sinistro del mouse, trascinate la maniglia per ridimensionare l'immagine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click in a cell immediately below and to the right of where you wish the screen to be split, and choose &lt;/f0&gt;&lt;f1&gt;Window &gt; Split&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T153446Z" creationid="michele" creationdate="20160525T153446Z">
@@ -14649,8 +14657,8 @@
       <tuv lang="EN">
         <seg>Click the picture, if necessary, to show the colored resizing handles.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T170710Z" creationid="luciano" creationdate="20161129T170710Z">
-        <seg>Fate clic sull'immagine in modo da visualizzare le maniglie verdi di ridimensionamento.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T170754Z" creationid="luciano" creationdate="20161129T170710Z">
+        <seg>Fate clic sull'immagine in modo da visualizzare le maniglie di ridimensionamento colorate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30577,6 +30585,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Position the pointer over one of the resizing handles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T170818Z" creationid="luciano" creationdate="20161129T170818Z">
+        <seg>Posizionate il puntatore sopra una delle maniglie di ridimensionamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Positioning graphics</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T112603Z">
@@ -41007,6 +41023,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084126Z">
         <seg>Le immagini in questo libro sono tratte da computer e sistemi operativi diversi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The pointer changes shape giving a graphical representation of the direction of the resizing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T170858Z" creationid="luciano" creationdate="20161129T170858Z">
+        <seg>Il puntatore cambia forma dandone una che indica la direzione di ridimensionamento.</seg>
       </tuv>
     </tu>
     <tu>
