@@ -47165,16 +47165,24 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>When &lt;f0&gt;Keep image size&lt;/f0&gt; is selected, cropping enlarges (for positive cropping values), shrinks (for negative cropping values), or distorts of the image so that the image size remains constant.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161128T171930Z" creationid="luciano" creationdate="20161128T170610Z">
-        <seg>Quando si seleziona &lt;f0&gt;Mantieni dimensione&lt;/f0&gt;il ritaglio produce un ingrandimento (per valori di ritaglio positivi), e una riduzione (per valori di ritaglio negativi), oppure una distorsione dell'immagine in modo che le dimensioni restino costanti.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T163800Z" creationid="luciano" creationdate="20161128T170610Z">
+        <seg>Se l'opzione &lt;f0&gt;Mantieni dimensione&lt;/f0&gt; è selezionata, il ritaglio produce un effetto di ingrandimento per valori di ritaglio positivi, un effetto di riduzione per valori di ritaglio negativi, oppure un effetto di distorsione (per valori non proporzionali tra loro), in modo che le dimensioni dell'immagine rimangano costanti</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>When &lt;f0&gt;Keep scale&lt;/f0&gt; is selected (default), cropping the image does not change the scale of the picture.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161128T170448Z" creationid="luciano" creationdate="20161128T170448Z">
-        <seg>Quando si seleziona &lt;f0&gt;Mantieni scala&lt;/f0&gt; (default), ritagliando l'immagine non cambia la scala dell'immagine.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T163737Z" creationid="luciano" creationdate="20161128T170448Z">
+        <seg>Se l'opzione &lt;f0&gt;Mantieni scala&lt;/f0&gt; è selezionata (opzione predefinita), il ritaglio dell'immagine non modificherà la scala dell'immagine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When &lt;f0&gt;Keep scale&lt;/f0&gt; is selected, the size of the image also changes, so in this example the width will be reduced by 3 cm.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T163820Z" creationid="luciano" creationdate="20161129T163619Z">
+        <seg>Se l'opzione &lt;f0&gt;Mantieni scala&lt;/f0&gt; è selezionata, le dimensioni dell'immagine vengono modificate, pertanto in questo esempio la larghezza dell'immagine verrà ridotta di 3 cm.</seg>
       </tuv>
     </tu>
     <tu>
