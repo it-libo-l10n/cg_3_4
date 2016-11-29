@@ -18167,6 +18167,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;125&lt;/seq0&gt;: The Crop dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T164327Z" creationid="luciano" creationdate="20161129T164327Z">
+        <seg>Figura &lt;seq0&gt;125&lt;/seq0&gt;: Finestra di dialogo Taglia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Left end of Calc status bar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T092319Z" creationid="michele" creationdate="20160524T092226Z">
@@ -26162,8 +26170,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>It is not possible to use the mouse to select the area to be cropped, as you can in Draw.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161128T093240Z" creationid="luciano" creationdate="20161128T093240Z">
-        <seg>Non è possibile utilizzare il mouse per selezionare l'area da ritagliare, come si può fare in Draw.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T164353Z" creationid="luciano" creationdate="20161128T093240Z">
+        <seg>Non è possibile utilizzare il mouse per selezionare l'area da ritagliare, come in Draw.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38546,6 +38554,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Width&lt;/f0&gt; and &lt;f1&gt;Height&lt;/f1&gt; fields under either &lt;f2&gt;Scale&lt;/f2&gt; or &lt;f3&gt;Image size&lt;/f3&gt; change as you enter values in the Left, Right, Top, and Bottom fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T164429Z" creationid="luciano" creationdate="20161129T164429Z">
+        <seg>I campi &lt;f0&gt;Larghezza&lt;/f0&gt; e &lt;f1&gt;Altezza&lt;/f1&gt; posizionati sotto &lt;f2&gt;Scala&lt;/f2&gt; o &lt;f3&gt;Dimensione&lt;/f3&gt; cambiano a seconda dei valori inseriti nei campi A sinistra, A destra, In alto e In basso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;printer&lt;/f0&gt; (from the printers available)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160313T143018Z">
@@ -47171,6 +47187,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When &lt;f0&gt;Keep image size&lt;/f0&gt; is selected, the remaining part of the image is enlarged (when you enter positive values for cropping) or shrunk (when you enter negative values for cropping) so that the width and height of the image is not changed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T164157Z" creationid="luciano" creationdate="20161129T164157Z">
+        <seg>Se l'opzione &lt;f0&gt;Mantieni dimensione&lt;/f0&gt; è selezionata, la parte restante dell'immagine viene ingrandita (quando vengono inseriti valori positivi) oppure ridotta (quando vengono inseriti valori negativi), in modo che larghezza e altezza dell'immagine non vengano cambiate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When &lt;f0&gt;Keep scale&lt;/f0&gt; is selected (default), cropping the image does not change the scale of the picture.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161129T163737Z" creationid="luciano" creationdate="20161128T170448Z">
@@ -48007,6 +48031,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T152504Z" creationid="michele" creationdate="20160525T152504Z">
         <seg>A cosa vi può servire?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Width and Height</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T164404Z" creationid="luciano" creationdate="20161129T164404Z">
+        <seg>Larghezza e Altezza</seg>
       </tuv>
     </tu>
     <tu>
