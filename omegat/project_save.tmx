@@ -20895,6 +20895,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more accurate resizing, use the Position and Size dialog&lt;f0&gt;, described on page &lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;134&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T171833Z" creationid="luciano" creationdate="20161129T171833Z">
+        <seg>Per un ridimensionamento più preciso, utilizzare la finestra di dialogo Posizione e dimensione &lt;f0&gt;, descritta a pagina &lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;134&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more control and extra options, select the appropriate cell or cells range, &lt;/f0&gt;&lt;f1&gt;right-click&lt;/f1&gt;&lt;f2&gt; on it, and select &lt;/f2&gt;&lt;f3&gt;Format Cells&lt;/f3&gt;&lt;f4&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160701T095041Z" creationid="Elisabetta" creationdate="20160701T095041Z">
@@ -34285,6 +34293,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084435Z">
         <seg>Rob Scott</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rotating&lt;i0/&gt; a picture</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T171944Z" creationid="luciano" creationdate="20161129T171944Z">
+        <seg>Ruotare&lt;i0/&gt; un'immagine</seg>
       </tuv>
     </tu>
     <tu>
@@ -52079,6 +52095,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160425T114406Z" creationid="luciano" creationdate="20160425T114406Z">
         <seg>rivedere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rotating</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T171859Z" creationid="luciano" creationdate="20161129T171859Z">
+        <seg>ruotare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rotating images</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T171917Z" creationid="luciano" creationdate="20161129T171917Z">
+        <seg>ruotare immagini</seg>
       </tuv>
     </tu>
     <tu>
