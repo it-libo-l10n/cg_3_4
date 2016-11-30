@@ -10599,6 +10599,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As a final example, write a formula to assign grades based on a student’s average score.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T145858Z" creationid="steevie" creationdate="20161130T145858Z">
+        <seg>Come esempio finale, scrivete una formula per assegnare i voti in base alla media dello studente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As a percentage.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T152438Z" creationid="Marco Marega" creationdate="20160626T152252Z">
@@ -10611,6 +10619,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T193413Z" creationid="Elisabetta" creationdate="20160815T193413Z">
         <seg>Ad esempio, la figura &lt;t0&gt;348&lt;/t0&gt; indica il codice di errore restituito quando una colonna non è sufficientemente larga per visualizzare la data formattata nella sua interezza.&lt;f1&gt; &lt;/f1&gt;La data che compare all'interno della riga di digitazione, 05/04/1998, si adatterebbe correttamente alla cella, ma&lt;f2&gt; i&lt;/f2&gt;l formato utilizzato dalla cella genererà il valore della data come &lt;f3&gt;domenica, 5 aprile 1998&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As an exercise, use HLOOKUP to find Average and then MATCH to find the row containing Fred.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T145757Z" creationid="steevie" creationdate="20161130T145757Z">
+        <seg>Come esercizion usate CERCA.ORIZZ per trovare la media, poi CONFRONTA per trovare la riga contenente Fred.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10675,6 +10691,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T102925Z">
         <seg>Associazione di un foglio di lavoro a un modello differente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Assume that a score less than 51 is an F, less than 61 is an E, less than 71 is a D, less than 81 is a C, less than 91 is a B, and 91 to 100 is an A. Assume that the values in &lt;t0&gt;Table 21&lt;/t0&gt; are in Sheet2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T150113Z" creationid="steevie" creationdate="20161130T145932Z">
+        <seg>Supponete che un punteggio sotto i 51 punti sia una F, sotto i 61 una E, sotto i 71 una D, sotto gli 81 una C, sotto 91 una B e tra 91 e 100 una A. Supponete che i valori &lt;t0&gt;Tabella 21&lt;/t0&gt; siano nel Foglio2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40495,6 +40519,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T165954Z" creationid="Elisabetta" creationdate="20160725T165954Z">
         <seg>La formattazione di una cella viene spostata insieme al suo contenuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The formula &lt;f0&gt;=VLOOKUP(83; $Sheet2.$A$2:$B$7; 2)&lt;/f0&gt; is an obvious solution.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T150136Z" creationid="steevie" creationdate="20161130T150136Z">
+        <seg>La formula &lt;f0&gt;=CERCA.VERT(83; $Sheet2.$A$2:$B$7; 2)&lt;/f0&gt; è una soluzione ovvia.</seg>
       </tuv>
     </tu>
     <tu>
