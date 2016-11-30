@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8455,6 +8455,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t3&gt;Table 27&lt;/t3&gt; contains a listing of each function used in &lt;t4&gt;Listing 21&lt;/t4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T170448Z" creationid="steevie" creationdate="20161130T170448Z">
+        <seg>La &lt;t3&gt;Tabella 27&lt;/t3&gt; contiene la descrizione di ogni funzione usata nel &lt;t4&gt;Listato 21&lt;/t4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t4&gt;Figure 225&lt;/t4&gt; shows this dialog after making the changes described below.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160526T084800Z" creationid="michele" creationdate="20160526T084800Z">
@@ -8553,8 +8561,8 @@
       <tuv lang="EN">
         <seg>=SUM(OFFSET(INDEX(A2:G16; MATCH("Bob"; A2:A16; 0)); 0; 3; 1; 2))</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T161339Z" creationid="steevie" creationdate="20161130T161339Z">
-        <seg>=SUM(SCARTO(INDEX(A2:G16; MATCH("Bob"; A2:A16; 0)); 0; 3; 1; 2))</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T170533Z" creationid="steevie" creationdate="20161130T161339Z">
+        <seg>=SOMMA(SCARTO(INDICE(A2:G16; CONFRONTA("Bob"; A2:A16; 0)); 0; 3; 1; 2))</seg>
       </tuv>
     </tu>
     <tu>
@@ -9235,6 +9243,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T161754Z" creationid="Luciano B." creationdate="20160329T161754Z">
         <seg>Un documento firmato viene contrassegnato da un'icona&lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt; nella barra di stato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A simple range contains one contiguous rectangular region of cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T170905Z" creationid="steevie" creationdate="20161130T170905Z">
+        <seg>Un intervallo semplice contiene una regione rettangolare di celle adiacenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11539,6 +11555,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T151802Z" creationid="steevie" creationdate="20160503T151802Z">
         <seg>Bruno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Breakdown of &lt;f1&gt;&lt;t2&gt;Listing 21&lt;/t2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T170641Z" creationid="steevie" creationdate="20161130T170553Z">
+        <seg>Scomposizione del &lt;f1&gt;&lt;t2&gt;Listato 21&lt;/t2&gt;&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22943,6 +22967,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>INDEX(A2:A16; 3)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T170735Z" creationid="steevie" creationdate="20161130T170735Z">
+        <seg>INDICE(A2:A16; 3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>INDEX(reference)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T165232Z" creationid="steevie" creationdate="20161130T165232Z">
@@ -27760,6 +27792,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Listing &lt;seq0&gt;21&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T170456Z" creationid="steevie" creationdate="20161130T170456Z">
+        <seg>Listato &lt;seq0&gt;21&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Listing &lt;seq0&gt;2&lt;/seq0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160615T151124Z" creationid="luciano" creationdate="20160614T155803Z">
@@ -27900,6 +27940,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T164629Z" creationid="steevie" creationdate="20161130T164629Z">
         <seg>CONFRONTA("Bianca";A1:A16; 0)-1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MATCH("Bob";A2:A16; 0)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T170702Z" creationid="steevie" creationdate="20161130T170702Z">
+        <seg>CONFRONTA("Bianca";A2:A16; 0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -33081,10 +33129,34 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Return 3 because Bob is the third entry in column A2:A16.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T170730Z" creationid="steevie" creationdate="20161130T170730Z">
+        <seg>Ritorna 3 perché Bianca è la quarta voce della colonna A2:A16.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Return 4 because Bob is the fourth entry in column A.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T163555Z" creationid="steevie" creationdate="20161130T163555Z">
         <seg>Ritorna 4 perché Bianca è la quarta voce della colonna A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Return A4:G4—the row containing Bob’s quiz scores.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T170803Z" creationid="steevie" creationdate="20161130T170741Z">
+        <seg>Ritorna A4:G4—LA riga contenente i punteggi di Bianca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Return Bob’s quiz scores.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T170518Z" creationid="steevie" creationdate="20161130T170518Z">
+        <seg>Ritorna i punteggi di Bianca nei quiz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39214,6 +39286,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T165047Z" creationid="steevie" creationdate="20161130T165047Z">
         <seg>Tabella &lt;seq0&gt;26&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;27&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T170538Z" creationid="steevie" creationdate="20161130T170538Z">
+        <seg>Tabella &lt;seq0&gt;27&lt;/seq0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48237,8 +48317,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>Using the values shown in &lt;t1&gt;Table 25&lt;/t1&gt;, &lt;t2&gt;Listing 21&lt;/t2&gt; finds and returns Bob’s quiz scores.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T165842Z" creationid="steevie" creationdate="20161130T165842Z">
-        <seg>Con i valori mostrati in t&lt;t1&gt;Table 25&lt;/t1&gt;, &lt;t2&gt;Listing 21&lt;/t2&gt; finds and returns Bob’s quiz scores.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T170404Z" creationid="steevie" creationdate="20161130T165842Z">
+        <seg>Con i valori mostrati in &lt;t1&gt;Tabella 25&lt;/t1&gt;, il &lt;t2&gt;Listato 21&lt;/t2&gt; trova e ritorna i punteggi di Bianca.</seg>
       </tuv>
     </tu>
     <tu>
