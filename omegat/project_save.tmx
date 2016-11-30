@@ -3534,6 +3534,38 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;ADDRESS(2; 5; 1)&lt;/f0&gt; returns $E$2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151916Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>&lt;f0&gt;INDIRIZZO(2; 5; 1)&lt;/f0&gt; returns $E$2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;ADDRESS(2; 5; 2; "Blah")&lt;/f0&gt; returns Blah.E$2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151916Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>&lt;f0&gt;INDIRIZZO(2; 5; 2; "Blah")&lt;/f0&gt; returns Blah.E$2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;ADDRESS(2; 5; 3)&lt;/f0&gt; returns $E2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151916Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>&lt;f0&gt;INDIRIZZO(2; 5; 3)&lt;/f0&gt; returns $E2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;ADDRESS(2; 5; 4)&lt;/f0&gt; returns E2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151916Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>&lt;f0&gt;INDIRIZZO(2; 5; 4)&lt;/f0&gt; returns E2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;AMORDEGRC&lt;/f0&gt;(cost; date&lt;f1&gt;_&lt;/f1&gt;purchased; first_period; salvage; period; rate; basis)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160629T201512Z" creationid="Marco Marega" creationdate="20160629T195235Z">
@@ -7678,6 +7710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f2&gt;ADDRESS(3; 4)&lt;/f2&gt; returns $D$3 rather than $D$4 and Betty’s quiz scores are returned instead of Bob’s.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151916Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>&lt;f2&gt;INDIRIZZO(3; 4)&lt;/f2&gt; returns $D$3 rather than $D$4 and Betty’s quiz scores are returned instead of Bob’s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f2&gt;Andrew Pitonyak</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090305Z">
@@ -8459,6 +8499,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T134906Z" creationid="steevie" creationdate="20161130T134735Z">
         <seg>=CONFRONTA(Criterio_ricerca; vettore, tipo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>=SUM(OFFSET(INDIRECT(ADDRESS(MATCH("Bob";A1:A16; 0); 4)); 0; 0; 1; 2))</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151916Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>=SUM(OFFSET(INDIRECT(INDIRIZZO(MATCH("Bob";A1:A16; 0); 4)); 0; 0; 1; 2))</seg>
       </tuv>
     </tu>
     <tu>
@@ -9279,6 +9327,38 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ADDRESS &lt;s0/&gt;315</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151916Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>INDIRIZZO &lt;s0/&gt;315</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ADDRESS(4; 4)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151916Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>INDIRIZZO(4; 4)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ADDRESS(row; column)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T152156Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>INDIRIZZO(riga; colonna)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ADDRESS(row; column; abs)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T152222Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>INDIRIZZO(riga; colonna; ASS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ADDRESS(row; column; abs; sheet)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T163803Z" creationid="Marco Marega" creationdate="20160820T163803Z">
@@ -9289,8 +9369,8 @@
       <tuv lang="EN">
         <seg>ADDRESS&lt;ie0/&gt; returns a string with a cell’s address</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151135Z" creationid="steevie" creationdate="20161130T151135Z">
-        <seg>ADDRESS&lt;ie0/&gt; returns a string with a cell’s address</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T152013Z" creationid="steevie" creationdate="20161130T151135Z">
+        <seg>INDIRIZZO&lt;ie0/&gt; ritorna una stringa con il riferimento ad una cella</seg>
       </tuv>
     </tu>
     <tu>
@@ -22619,6 +22699,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T145352Z" creationid="steevie" creationdate="20160620T145352Z">
         <seg>INDIRETTO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>INDIRECT(ADDRESS(2; 1))</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151916Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>INDIRECT(INDIRIZZO(2; 1))</seg>
       </tuv>
     </tu>
     <tu>
@@ -39514,6 +39602,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The abs argument specifies which portion is considered absolute and which portion is considered relative (see &lt;t1&gt;Table 22&lt;/t1&gt;); an absolute address is specified using the $ character.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T152445Z" creationid="steevie" creationdate="20161130T152445Z">
+        <seg>L'argomento ASS specifica quale parte è da considerare assoluta e quale relativa (vedi &lt;t1&gt;Tabella 22&lt;/t1&gt;); un indirizzo assoluto è indicato dal carattere $.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The actions are:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T154642Z" creationid="steevie" creationdate="20160428T154642Z">
@@ -41659,6 +41755,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The row and column are integer values where ADDRESS(1; 1) returns &lt;f0&gt;$A$1&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T152329Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>Riga e colonna sono valori interi mentre INDIRIZZO(1; 1) ritorna &lt;f0&gt;$A$1&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The same is true of regular investments.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161010T124511Z" creationid="steevie" creationdate="20161010T124511Z">
@@ -41899,6 +42003,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The sheet is &lt;s2/&gt;included as part of the address only if the sheet argument is used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T152530Z" creationid="steevie" creationdate="20161130T152530Z">
+        <seg>Il foglio è &lt;s2/&gt;incluso come parte dell'indirizzo solo se  si usa l'argomento foglio .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The sheet name is in single quotes because it contains a space, and the mandatory period (.) always falls outside any quotes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160816T144425Z" creationid="antonio" creationdate="20160816T144425Z">
@@ -42015,6 +42127,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20160828T214537Z" creationid="Andrea" creationdate="20160828T214537Z">
         <seg>I risultati finali fanno riferimento soltanto ai dati che avete selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The supported forms for ADDRESS are as follows:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T152147Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>Le forme di utilizzo per INDIRIZZO sono le seguenti:</seg>
       </tuv>
     </tu>
     <tu>
@@ -46301,8 +46421,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>Use ADDRESS to return a text representation of a cell address based on the row, column, and sheet; ADDRESS is frequently used with MATCH.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151337Z" creationid="steevie" creationdate="20161130T151337Z">
-        <seg>Use ADDRESS to return a text representation of a cell address based on the row, column, and sheet; ADDRESS is frequently used with MATCH.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T152133Z" creationid="steevie" creationdate="20161130T151337Z">
+        <seg>Usate INDIRIZZO per ottenere la rappresentazione testuale dell'indirizzo di una cella in base a riga, colonna e foglio; INDIRIZZO viene spesso usata con CONFRONTARE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46735,6 +46855,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20161122T123210Z" creationid="Andrea" creationdate="20160808T094438Z">
         <seg>Utilizzando le &lt;f1&gt;Tabelle Pivot,&lt;/f1&gt;potete visualizzare differenti riassunti relativi alle sorgenti dati, o i dettagli delle aree di interesse e creare rapporti, qualunque livello di esperienza abbiate, da principiante ad utente avanzato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using &lt;f3&gt;ADDRESS(MATCH("Bob";A1:A5 ; 0); 2)&lt;/f3&gt; with the data in &lt;t4&gt;Table 21&lt;/t4&gt; returns &lt;f5&gt;$B$2.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151916Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>Using &lt;f3&gt;INDIRIZZO(MATCH("Bob";A1:A5 ; 0); 2)&lt;/f3&gt; with the data in &lt;t4&gt;Table 21&lt;/t4&gt; returns &lt;f5&gt;$B$2.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -47399,6 +47527,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T161647Z" creationid="Elisabetta" creationdate="20160726T161647Z">
         <seg>La voce Valori cerca i risultati dei calcoli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Values supported by the abs argument to ADDRESS.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151916Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>Values supported by the abs argument to INDIRIZZO.</seg>
       </tuv>
     </tu>
     <tu>
