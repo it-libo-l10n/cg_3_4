@@ -1582,6 +1582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>51</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151004Z" creationid="steevie" creationdate="20161130T151004Z">
+        <seg>51</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>510</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T201846Z" creationid="Elisabetta" creationdate="20160815T201846Z">
@@ -1790,6 +1798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>61</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151007Z" creationid="steevie" creationdate="20161130T151007Z">
+        <seg>61</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>64</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T084942Z">
@@ -1922,6 +1938,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T151828Z" creationid="steevie" creationdate="20160503T151828Z">
         <seg>8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>81</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151008Z" creationid="steevie" creationdate="20161130T151008Z">
+        <seg>81</seg>
       </tuv>
     </tu>
     <tu>
@@ -9105,8 +9129,8 @@
       <tuv lang="EN">
         <seg>A slight modification using MATCH to find the column yields &lt;s1/&gt;&lt;f2&gt;=VLOOKUP("Fred"; A2:G16; MATCH("Average"; A1:G1; 0))&lt;/f2&gt;; notice that the heading is not sorted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T145331Z" creationid="steevie" creationdate="20161130T143904Z">
-        <seg>Una piccola modifca usando CONFRONTA per trovare la colonna porta a &lt;s1/&gt;&lt;f2&gt;=CERCA.VERT("Fred"; A2:G16; CONFRONTA("Media"; A1:G1; 0))&lt;/f2&gt;; Notate che l'intestazione non è ordinata.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151322Z" creationid="steevie" creationdate="20161130T143904Z">
+        <seg>Una piccola modifca usando CONFRONTA per trovare la colonna porta a &lt;s1/&gt;&lt;f2&gt;=CERCA.VERT("Francesco"; A2:G16; CONFRONTA("Media"; A1:G1; 0))&lt;/f2&gt;; Notate che l'intestazione non è ordinata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9259,6 +9283,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T163803Z" creationid="Marco Marega" creationdate="20160820T163803Z">
         <seg>INDIRIZZO(riga; colonna; ASS; foglio)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ADDRESS&lt;ie0/&gt; returns a string with a cell’s address</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151135Z" creationid="steevie" creationdate="20161130T151135Z">
+        <seg>ADDRESS&lt;ie0/&gt; returns a string with a cell’s address</seg>
       </tuv>
     </tu>
     <tu>
@@ -10625,8 +10657,8 @@
       <tuv lang="EN">
         <seg>As an exercise, use HLOOKUP to find Average and then MATCH to find the row containing Fred.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T145757Z" creationid="steevie" creationdate="20161130T145757Z">
-        <seg>Come esercizion usate CERCA.ORIZZ per trovare la media, poi CONFRONTA per trovare la riga contenente Fred.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151330Z" creationid="steevie" creationdate="20161130T145757Z">
+        <seg>Come esercizion usate CERCA.ORIZZ per trovare la media, poi CONFRONTA per trovare la riga contenente Francesco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10667,6 +10699,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160505T080911Z" creationid="briga" creationdate="20160330T085259Z">
         <seg>Assegnare un tasto di scelta rapida a uno stile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Associate scores to a grade.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T150933Z" creationid="steevie" creationdate="20161130T150933Z">
+        <seg>Associare punteggi ad un voto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16815,6 +16855,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dollar signs are used so that the formula can be copied and pasted to a different location and it will still reference the same values in &lt;t1&gt;Table 21&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T150907Z" creationid="steevie" creationdate="20161130T150907Z">
+        <seg>I segni di dollaro sono usati affinché la formula possa essere copiata ed incollata in una posizione differente e continuare a riferirsi agli stessi valori in &lt;t1&gt;Tabella 21&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Double click a name from the Styles and Formatting window to apply this style to the selected cells.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T171513Z" creationid="Elisabetta" creationdate="20160722T171513Z">
@@ -17681,8 +17729,8 @@
       <tuv lang="EN">
         <seg>Equally obvious is &lt;f3&gt;=LOOKUP("Fred"; A2:A16; F2:F16)&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T143328Z" creationid="steevie" creationdate="20161130T143328Z">
-        <seg>Altrettanto ovvia è &lt;f3&gt;=CONFRONTA("Fred"; A2:A16; F2:F16)&lt;/f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151306Z" creationid="steevie" creationdate="20161130T143328Z">
+        <seg>Altrettanto ovvia è &lt;f3&gt;=CONFRONTA("Francesco"; A2:A16; F2:F16)&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20521,8 +20569,8 @@
       <tuv lang="EN">
         <seg>For example, &lt;f1&gt;Fred&lt;/f1&gt; searches for the text Fred, &lt;f2&gt;4&lt;/f2&gt; searches for the number 4, and &lt;f3&gt;F.*&lt;/f3&gt; is the regular expression for finding something that starts with the letter F.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T133602Z" creationid="steevie" creationdate="20161010T132543Z">
-        <seg>Ad esempio, &lt;f1&gt;Fred&lt;/f1&gt; cerca il testo Fred, &lt;f2&gt;4&lt;/f2&gt; cerca il numero 4, e &lt;f3&gt;F.*&lt;/f3&gt; è l'espressione regolare per trovare qualcosa che comincia con la lettera F.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151222Z" creationid="steevie" creationdate="20161010T132543Z">
+        <seg>Ad esempio, &lt;f1&gt;Francesco&lt;/f1&gt; cerca il testo Francesco, &lt;f2&gt;4&lt;/f2&gt; cerca il numero 4, e &lt;f3&gt;F.*&lt;/f3&gt; è l'espressione regolare per trovare qualcosa che comincia con la lettera F.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20793,8 +20841,8 @@
       <tuv lang="EN">
         <seg>For example, search the first column for the name “Fred” and then return the value in the cell two columns to the right.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T131920Z" creationid="steevie" creationdate="20161010T131920Z">
-        <seg>Ad esempio, ricerca nella prima colonna il nome "Fred" e mostra il valore nella cella due colonne più a destra.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151207Z" creationid="steevie" creationdate="20161010T131920Z">
+        <seg>Ad esempio, ricerca nella prima colonna il nome "Francesco" e mostra il valore nella cella due colonne più a destra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35057,6 +35105,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Score</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151000Z" creationid="steevie" creationdate="20161130T151000Z">
+        <seg>Punteggi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scroll down in the page until you find &lt;f0&gt;Spreadsheet&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T124256Z" creationid="steevie" creationdate="20160421T124256Z">
@@ -38346,6 +38402,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;21&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T150913Z" creationid="steevie" creationdate="20161130T150913Z">
+        <seg>Tabella &lt;seq0&gt;21&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Table &lt;seq0&gt;2&lt;/seq0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T100847Z" creationid="michele" creationdate="20160525T100847Z">
@@ -41125,8 +41189,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>The obvious solution is &lt;f2&gt;=VLOOKUP("Fred"; A2:G16; 6)&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T143302Z" creationid="steevie" creationdate="20161130T143302Z">
-        <seg>La soluzione più ovvia è &lt;f2&gt;=CERCA.VERT("Fred"; A2:G16; 6)&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151254Z" creationid="steevie" creationdate="20161130T143302Z">
+        <seg>La soluzione più ovvia è &lt;f2&gt;=CERCA.VERT("Francesco"; A2:G16; 6)&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -41309,8 +41373,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>The problem can be restated as Search column A in the range A1:G16 for Fred and return the value in column F (column F is the sixth column).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T143239Z" creationid="steevie" creationdate="20161130T143239Z">
-        <seg>Il problema può essere riformulato come Cerca nell intervallo A1:G16 Fred nella colonna A e riporta Il valore nella colonna F (la colonna F è la sesta colonna).</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151240Z" creationid="steevie" creationdate="20161130T143239Z">
+        <seg>Il problema può essere riformulato come Cerca nell intervallo A1:G16 Francesco nella colonna A e riporta Il valore nella colonna F (la colonna F è la sesta colonna).</seg>
       </tuv>
     </tu>
     <tu>
@@ -46235,6 +46299,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use ADDRESS to return a text representation of a cell address based on the row, column, and sheet; ADDRESS is frequently used with MATCH.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151337Z" creationid="steevie" creationdate="20161130T151337Z">
+        <seg>Use ADDRESS to return a text representation of a cell address based on the row, column, and sheet; ADDRESS is frequently used with MATCH.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use Calc&lt;f0&gt;’&lt;/f0&gt;s text functions to search and manipulate text strings or character codes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T212117Z" creationid="Marco Marega" creationdate="20160821T212117Z">
@@ -48629,8 +48701,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>Write a formula to return the average grade for Fred.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T142928Z" creationid="steevie" creationdate="20161130T142928Z">
-        <seg>Scrivi una formula che riporti il voto medio di Fred.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151234Z" creationid="steevie" creationdate="20161130T142928Z">
+        <seg>Scrivi una formula che riporti il voto medio di Francesco.</seg>
       </tuv>
     </tu>
     <tu>
