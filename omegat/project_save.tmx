@@ -15871,6 +15871,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Count the number of records containing numeric data that match the search criteria.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T173644Z" creationid="steevie" creationdate="20161130T173057Z">
+        <seg>Conta il numero di record contenenti dati numerici che corrispondono al criterio di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Count the number of records containing text data that match the search criteria.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T173640Z" creationid="steevie" creationdate="20161130T173145Z">
+        <seg>Conta il numero di record contenenti dati testuali che corrispondono al criterio di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Counts how many numbers are in the list of arguments.&lt;f0&gt; &lt;/f0&gt;Text entries are ignored.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Value_1; value_2; ...&lt;/f2&gt;&lt;f3&gt; value_30&lt;/f3&gt; are values or ranges which are to be counted.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T093232Z" creationid="Marco Marega" creationdate="20160730T093232Z">
@@ -16553,8 +16569,8 @@
       <tuv lang="EN">
         <seg>DCOUNTA</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T172719Z" creationid="steevie" creationdate="20161130T172719Z">
-        <seg>DCOUNTA</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T173134Z" creationid="steevie" creationdate="20161130T172719Z">
+        <seg>DB.CONTA.VALORI</seg>
       </tuv>
     </tu>
     <tu>
@@ -16615,6 +16631,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DGET</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T173656Z" creationid="steevie" creationdate="20161130T173635Z">
+        <seg>DB.VALORI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DISC(settlement; maturity; price; redemption; basis)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T092826Z" creationid="Marco Marega" creationdate="20160703T092826Z">
@@ -16623,10 +16647,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DMAX</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T173748Z" creationid="steevie" creationdate="20161130T173748Z">
+        <seg>DB.MAX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DMIN</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T173853Z" creationid="steevie" creationdate="20161130T173853Z">
+        <seg>DB.MIN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DOLLAR(value; decimals)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T144355Z" creationid="Marco Marega" creationdate="20160822T144355Z">
         <seg>VALUTA(valore; decimali)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DPRODUCT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T173914Z" creationid="steevie" creationdate="20161130T173914Z">
+        <seg>DB.PRODOTTO</seg>
       </tuv>
     </tu>
     <tu>
@@ -33385,10 +33433,26 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Return the contents of a field that matches the search criteria.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T173830Z" creationid="steevie" creationdate="20161130T173738Z">
+        <seg>Ritorna il contenuto di un campo che corrisponde al criterio di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Return the entire range.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T165301Z" creationid="steevie" creationdate="20161130T165301Z">
         <seg>Ritorna tutto l'intervallo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Return the maximum content of a field that matches the search criteria.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T173850Z" creationid="steevie" creationdate="20161130T173752Z">
+        <seg>Ritorna il contenuto massimo di un campo che corrisponde al criterio di ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33405,6 +33469,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T150632Z" creationid="steevie" creationdate="20160620T150632Z">
         <seg>Restituisce la mediana di un campione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Return the minimum content of a field that matches the search criteria.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T173900Z" creationid="steevie" creationdate="20161130T173900Z">
+        <seg>Ritorna il contenuto minimo di un campo che corrisponde al criterio di ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33445,6 +33517,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151103Z" creationid="steevie" creationdate="20160620T151103Z">
         <seg>Calcola il prodotto delle celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Return the product of the fields that matches the search criteria.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T173934Z" creationid="steevie" creationdate="20161130T173934Z">
+        <seg>Ritorna il prodotto di tutti i campi che corrispondono al criterio di ricerca.</seg>
       </tuv>
     </tu>
     <tu>
