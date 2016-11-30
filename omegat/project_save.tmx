@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8355,6 +8355,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T152625Z" creationid="steevie" creationdate="20160620T152625Z">
         <seg>La &lt;t0&gt;Tabella 19&lt;/t0&gt; mostra differenti criteri di ricerca usando la funzione CONTA.SE in riferimento ai dati che appaiono in &lt;t1&gt;Tabella 13&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;Table 23&lt;/t0&gt; contains examples accessing data as shown in &lt;t1&gt;Table 21&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T155641Z" creationid="steevie" creationdate="20161130T155641Z">
+        <seg>La &lt;t0&gt;Tabella 23&lt;/t0&gt; contiene esempi di accesso ai dati mostrati in &lt;t1&gt;Tabella 21&lt;/t1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46589,8 +46597,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>Use INDIRECT to convert a string representation of a cell or range address to a reference to the cell or range.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T154628Z" creationid="steevie" creationdate="20161130T154110Z">
-        <seg>Usate INDIRETTO per convertire una stringa representation of a cell or range address to a reference to the cell or range.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T155345Z" creationid="steevie" creationdate="20161130T154110Z">
+        <seg>Usate INDIRETTO per convertire una stringa che rappresenta una cella o intervallo di indirizzi nel riferimento alla cella o all'intervallo.</seg>
       </tuv>
     </tu>
     <tu>
