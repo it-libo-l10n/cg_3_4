@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17967,6 +17967,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Example</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T155958Z" creationid="steevie" creationdate="20161130T155933Z">
+        <seg>Esempio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Example advanced filter criteria</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T142234Z" creationid="steevie" creationdate="20160511T142234Z">
@@ -18025,8 +18033,8 @@
       <tuv lang="EN">
         <seg>Examples using INDIRECT.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T154110Z" creationid="steevie" creationdate="20161130T154110Z">
-        <seg>Examples using INDIRETTO.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T155926Z" creationid="steevie" creationdate="20161130T154110Z">
+        <seg>Esempi che usano INDIRETTO.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22907,6 +22915,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160615T153007Z" creationid="luciano" creationdate="20160615T153007Z">
         <seg>Se Calc chiama la funzione numerose volte, l'errore sarà visualizzato numerose volte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If Cell G1 contains the text A2, then this returns &lt;f0&gt;Bob&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T160103Z" creationid="steevie" creationdate="20161130T160103Z">
+        <seg>Se ala cella G1 contiene il testo A2, questo esempio ritorna &lt;f0&gt;Bianca&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32945,6 +32961,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns cell A2, which contains &lt;f0&gt;Bob&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T160030Z" creationid="steevie" creationdate="20161130T160030Z">
+        <seg>Ritorna la cella A2, che contiene &lt;f0&gt;Bianca&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns complementary values of the Gaussian error integral between x and infinity.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T133549Z" creationid="Marco Marega" creationdate="20160823T133549Z">
@@ -34409,6 +34433,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns the sum of the range B1:B5, which is &lt;f0&gt;194&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T160654Z" creationid="steevie" creationdate="20161130T160654Z">
+        <seg>Ritorna la somma dell'intervallo B1:B5, che è &lt;f0&gt;194&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns the sum of the sum of squares of corresponding values in two arrays.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Array_X&lt;/f1&gt; is the first array whose arguments are to be squared and added.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Array_Y&lt;/f3&gt; is the second array, whose elements are to be added and squared.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T143635Z" creationid="Marco Marega" creationdate="20160820T143635Z">
@@ -35027,8 +35059,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>SUM(INDIRECT("B1:B5"))</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T154110Z" creationid="steevie" creationdate="20161130T154110Z">
-        <seg>SUM(INDIRETTO("B1:B5"))</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T160109Z" creationid="steevie" creationdate="20161130T154110Z">
+        <seg>SOMMA(INDIRETTO("B1:B5"))</seg>
       </tuv>
     </tu>
     <tu>
@@ -38638,6 +38670,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T153622Z" creationid="steevie" creationdate="20161130T153622Z">
         <seg>Tabella &lt;seq0&gt;22&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;23&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T155914Z" creationid="steevie" creationdate="20161130T155914Z">
+        <seg>Tabella &lt;seq0&gt;23&lt;/seq0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
