@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -49171,6 +49171,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When the pointer changes shape from an arrow to a hand, right-click and choose &lt;f0&gt;Group &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Group&lt;/f3&gt; from the &lt;f4&gt;context&lt;/f4&gt; menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T170741Z" creationid="luciano" creationdate="20161130T170741Z">
+        <seg>Quando il puntatore cambia forma da una freccia a una mano, fare clic col pulsante destro del mouse e scgliere &lt;f0&gt;Raggruppa &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Raggruppa&lt;/f3&gt; dal menu &lt;f4&gt;contestuale&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When the spreadsheet is newly created, its name is &lt;f1&gt;Untitled X&lt;/f1&gt;, where &lt;f2&gt;X&lt;/f2&gt; is a number.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160505T074959Z">
@@ -51199,6 +51207,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T102219Z" creationid="michele" creationdate="20160525T102219Z">
         <seg>Non è possibile trascinare copie di immagini, oggetti OLE o indici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You cannot include drawing objects in a group with pictures.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T170831Z" creationid="luciano" creationdate="20161130T170831Z">
+        <seg>Non è èpssibile includere oggetti di disegno in un gruppo con immagini.</seg>
       </tuv>
     </tu>
     <tu>
