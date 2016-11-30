@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -49499,10 +49499,18 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can add a custom name to be assigned to the image, to make it easier to find in the Navigator.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T162544Z" creationid="luciano" creationdate="20161130T162544Z">
+        <seg>E' possibile inserire un nome personalizzato all'immagine, per renderla più facile da trovare nel Navigatore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can add metadata in the form of a title and description to the image.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T162227Z" creationid="luciano" creationdate="20161130T162227Z">
-        <seg>È possibile aggiungere metadati nella forma di un titolo e di una descrizione all'immagine.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T162439Z" creationid="luciano" creationdate="20161130T162227Z">
+        <seg>E' possibile aggiungere metadati nella forma di un titolo e di una descrizione all'immagine.</seg>
       </tuv>
     </tu>
     <tu>
