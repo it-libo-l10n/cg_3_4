@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8535,6 +8535,46 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>=INDEX((B2:G2;B5:G5); 1; 2)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T171517Z" creationid="steevie" creationdate="20161130T171517Z">
+        <seg>=INDICE((B2:G2;B5:G5); 1; 2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>=INDEX((B2:G2;B5:G5); 1; 2; 1)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T171517Z" creationid="steevie" creationdate="20161130T171517Z">
+        <seg>=INDICE((B2:G2;B5:G5); 1; 2; 1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>=INDEX((B2:G2;B5:G5); 1; 2; 2)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T171517Z" creationid="steevie" creationdate="20161130T171517Z">
+        <seg>=INDICE((B2:G2;B5:G5); 1; 2; 2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>=INDEX(B2:G2; 1; 2)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T171406Z" creationid="steevie" creationdate="20161130T171406Z">
+        <seg>=INDICE(B2:G2; 1; 2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>=INDEX(B5:G5; 1; 2)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T171517Z" creationid="steevie" creationdate="20161130T171427Z">
+        <seg>=INDICE(B5:G5; 1; 2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>=MATCH(search_value; search_range)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T134737Z" creationid="steevie" creationdate="20161130T134606Z">
@@ -10283,6 +10323,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160526T134024Z" creationid="steevie" creationdate="20160526T131350Z">
         <seg>Nonostante ogni funzione di Calc possa essere usata per &lt;i0/&gt;manipolazione di database, le funzioni elencate nella &lt;t1&gt;Tabella 18&lt;/t1&gt; sono le più usate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Although every Calc function can be used for database manipulation, the functions in &lt;t0&gt;Table 29&lt;/t0&gt; are specifically designed for use as a database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T171752Z" creationid="steevie" creationdate="20161130T171752Z">
+        <seg>Nonostante ogni funzione di Calc possa essere usata per manipolazione di database, quelle in &lt;t0&gt;Tabella database 29&lt;/t0&gt; sono studiate specificatamente per l'uso come nei database.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22975,6 +23023,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>INDEX &lt;s0/&gt;317</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T171517Z" creationid="steevie" creationdate="20161130T171517Z">
+        <seg>INDICE &lt;s0/&gt;317</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>INDEX returns the cells specified by a row and column number.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T164822Z" creationid="steevie" creationdate="20161130T164822Z">
@@ -23639,6 +23695,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If reference argument to the INDEX function is a multi-range, then the range argument specifies which simple range to use (see &lt;t0&gt;Table 28&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T171339Z" creationid="steevie" creationdate="20161130T171339Z">
+        <seg>Se l'argomento riferimento della funzione INDICE è un intervallo multiplo, l'argomento area indica quale intervallo semplice da usare (vedi &lt;t0&gt;Tabella 28&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If so, select &lt;f0&gt;Canoes&lt;/f0&gt; in the &lt;f1&gt;Data series&lt;/f1&gt; box and click on &lt;f2&gt;Remove&lt;/f2&gt;&lt;f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160626T123009Z" creationid="emanuelegiusti" creationdate="20160626T123009Z">
@@ -23971,6 +24035,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160820T054057Z" creationid="briga" creationdate="20160820T054057Z">
         <seg>Se il modello o il documento di destinazione contiene numerosi stili, può essere necessario scorrere l'elenco verso il basso per visualizzare le modifiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the reference consists of multiple ranges, you must enclose the reference or range name in parentheses.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T171209Z" creationid="steevie" creationdate="20161130T171209Z">
+        <seg>Se il riferimento consiste di intervalli multipli, dovete racchiudere tra parentesi il riferimento o il nome dell'intervallo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26988,6 +27060,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T145350Z" creationid="steevie" creationdate="20160509T145124Z">
         <seg>Esiste la possibilità di creare intervalli con nome multipli con lo stesso nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is possible to define a multi-range that contains multiple simple ranges.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T171010Z" creationid="steevie" creationdate="20161130T171010Z">
+        <seg>Si può definire un intervallo multiplo che contiene molti intervalli semplici.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33329,6 +33409,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Returns</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T171400Z" creationid="steevie" creationdate="20161130T171400Z">
+        <seg>Ritorna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Returns 1 if &lt;f0&gt;number&lt;/f0&gt; is greater than or equal to &lt;f1&gt;step&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T134037Z" creationid="Marco Marega" creationdate="20160823T133945Z">
@@ -38161,6 +38249,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some functions can take a reference list as an argument, SUM, MAX or INDEX for example.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T171517Z" creationid="steevie" creationdate="20161130T171436Z">
+        <seg>Some functions can take a reference list as an argument, SUM, MAX or INDICE for example.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some functions return this error; for example:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T204027Z" creationid="Elisabetta" creationdate="20160815T204027Z">
@@ -39060,8 +39156,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Syntax for INDEX.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T165056Z" creationid="steevie" creationdate="20161130T165056Z">
-        <seg>Sintassi per INDEX.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T171502Z" creationid="steevie" creationdate="20161130T165056Z">
+        <seg>Sintassi per INDICE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39310,6 +39406,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T170538Z" creationid="steevie" creationdate="20161130T170538Z">
         <seg>Tabella &lt;seq0&gt;27&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;28&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T171343Z" creationid="steevie" creationdate="20161130T171343Z">
+        <seg>Tabella &lt;seq0&gt;28&lt;/seq0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41106,6 +41210,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The descriptions in &lt;t1&gt;Table 29&lt;/t1&gt; use the following terms &lt;f2&gt;interchangeably&lt;/f2&gt;: row and record, cell and field, and database and all rows.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T171948Z" creationid="steevie" creationdate="20161130T171948Z">
+        <seg>La descrizione in &lt;t1&gt;Tabella 29&lt;/t1&gt; usa questi termini &lt;f2&gt;intercambiabili&lt;/f2&gt;: riga e record, cella e campo, e database e tutte le righe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The detection depends on the language settings.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T135149Z" creationid="michele" creationdate="20160524T135149Z">
@@ -41709,8 +41821,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>The infrequently used database functions, such as OFFSET and INDEX, are worth the time to learn and they can save yourself time in the long run.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T161339Z" creationid="steevie" creationdate="20161130T161339Z">
-        <seg>The infrequently used database functions, such as SCARTO and INDEX, are worth the time to learn and they can save yourself time in the long run.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T171517Z" creationid="steevie" creationdate="20161130T161339Z">
+        <seg>The infrequently used database functions, such as SCARTO and INDICE, are worth the time to learn and they can save yourself time in the long run.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47959,6 +48071,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T095654Z" creationid="michele" creationdate="20160525T095654Z">
         <seg>Usare i tasti Inizio, Fine, Pag su e Pag giù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using INDEX with a multi-range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T171517Z" creationid="steevie" creationdate="20161130T171356Z">
+        <seg>Usare INDICE con un intervallo multiplo.</seg>
       </tuv>
     </tu>
     <tu>
