@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -36433,6 +36433,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select one image, then hold down the &lt;f0&gt;Shift&lt;/f0&gt; key and click in turn on each of the others that you want to include in the group.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T164828Z" creationid="luciano" creationdate="20161130T164828Z">
+        <seg>Selezionare un'immagine, quindi tenere premuto il tasto &lt;f0&gt;Maiusc&lt;/f0&gt; e fare clic su ognuna delle altre immagini che si vogliono includere nel gruppo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select one of the cells that has been assigned conditional formatting.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T175058Z" creationid="Elisabetta" creationdate="20160722T175058Z">
@@ -41495,6 +41503,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T191502Z" creationid="Marco Marega" creationdate="20160817T191502Z">
         <seg>Il numero interno indicato come decimale è il risultato del sistema di date usato da &lt;f1&gt;LibreOffice&lt;/f1&gt; per valutare le date inserite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The invisible “bounding box” (with the 8 colored handles) expands to include all the selected images.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T164947Z" creationid="luciano" creationdate="20161130T164947Z">
+        <seg>Il "riquadro invisibile" (con i 8 maniglie colorate) si espande per includere tutte le immagini selezionate.</seg>
       </tuv>
     </tu>
     <tu>
