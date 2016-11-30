@@ -30449,6 +30449,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Original Size</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T161444Z" creationid="luciano" creationdate="20161130T161444Z">
+        <seg>Dimensione originale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other &lt;f1&gt;Conditions&lt;/f1&gt; could have been used, for example &lt;f2&gt;Contains&lt;/f2&gt;, in the argument for the filter, to return the same results.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T161401Z" creationid="Elisabetta" creationdate="20160725T161401Z">
