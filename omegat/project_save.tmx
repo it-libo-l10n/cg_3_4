@@ -14143,6 +14143,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to rotate the image.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T155033Z" creationid="luciano" creationdate="20161130T155033Z">
+        <seg>Fare clic su &lt;f0&gt;OK&lt;/f0&gt; per ruotare l'immagine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the file.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T090427Z" creationid="michele" creationdate="20160525T090427Z">
@@ -18467,6 +18475,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161129T164327Z" creationid="luciano" creationdate="20161129T164327Z">
         <seg>Figura &lt;seq0&gt;125&lt;/seq0&gt;: Finestra di dialogo Taglia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;126&lt;/seq0&gt;: Rotation settings page</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T155110Z" creationid="luciano" creationdate="20161130T155110Z">
+        <seg>Figura &lt;seq0&gt;126&lt;/seq0&gt;: Pagine delle impostazioni di rotazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -24003,6 +24019,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T150006Z" creationid="michele" creationdate="20160531T150006Z">
         <seg>Se stai visualizzando uno scenario che ha &lt;f0&gt;Ricopiare all'indietro&lt;/f0&gt; attivato e &lt;s1/&gt;successivamente crea un nuovo scenario modificando i valori e selezionando &lt;f2&gt;&lt;f3&gt;Strumenti&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Scenari&lt;/f7&gt;&lt;/f6&gt;, potreste inavvertitamente sovrascrivere i valori nel primo scenario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you change your mind, click the &lt;f0&gt;Reset&lt;/f0&gt; button to return the settings to what they were when the dialog opened.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T155005Z" creationid="luciano" creationdate="20161130T154952Z">
+        <seg>Se si cambia idea, fare clic sul pulsante &lt;f0&gt;Ripristina&lt;/f0&gt; per riportare le impostazioni presenti all'apertura della finestra di dialogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47275,6 +47299,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using the &lt;i0/&gt;&lt;is1/&gt;picture context menu</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T155134Z" creationid="luciano" creationdate="20161130T155134Z">
+        <seg>Usare il menu contestuale delle immagini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using the &lt;is0/&gt;&lt;is1/&gt;Solver</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T131758Z" creationid="michele" creationdate="20160608T131758Z">
@@ -51151,6 +51183,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160526T081715Z" creationid="michele" creationdate="20160526T081715Z">
         <seg>Consolidare i dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>context menu</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T155121Z" creationid="luciano" creationdate="20161130T155121Z">
+        <seg>Menu contestuale</seg>
       </tuv>
     </tu>
     <tu>
