@@ -8351,6 +8351,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t0&gt;Listing 23&lt;/t0&gt; calculates the average test score for the rows that match the search criteria.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T175333Z" creationid="steevie" creationdate="20161130T175333Z">
+        <seg>Il &lt;t0&gt;Listato 23&lt;/t0&gt; calcola la media dei punteggi dei test per le righe che corrispondono ai criteri di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t0&gt;Table 19&lt;/t0&gt; illustrates different search criteria using the COUNTIF function referencing the data shown in &lt;t1&gt;Table 13&lt;/t1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T152625Z" creationid="steevie" creationdate="20160620T152625Z">
@@ -8787,6 +8795,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T145420Z" creationid="steevie" creationdate="20160503T145420Z">
         <seg>Un documento Calc è un database potente con funzionalità sufficienti per le necessità degli utenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A Calc document provides sufficient database functionality to satisfy the needs of most people.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T175702Z" creationid="steevie" creationdate="20161130T175702Z">
+        <seg>Un documento Calc fornisce funzionalità per database sufficienti per soddisfare le necessità della maggior parte degli utenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24063,6 +24079,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the column is specified as an integer, 0 specifies the entire data range, 1 specifies the first column, 2 specifies the second column, and so on.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T175235Z" creationid="steevie" creationdate="20161130T175235Z">
+        <seg>Se la colonna è specificata come intero, 0 indica l'intero intervallo di dati,1 la prima colonna, 2 la seconda e così via.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the column to the left of the cell that contains the cursor is empty, the cursor moves to the next column to the left that contains data.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160504T142258Z" creationid="luciano" creationdate="20160504T142007Z">
@@ -28092,6 +28116,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T174826Z" creationid="steevie" creationdate="20161130T174826Z">
         <seg>Listato &lt;seq0&gt;22&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Listing &lt;seq0&gt;23&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T175344Z" creationid="steevie" creationdate="20161130T175344Z">
+        <seg>Listato &lt;seq0&gt;23&lt;/seq0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41362,6 +41394,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The database field can be specified using the column header name or as an integer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T175056Z" creationid="steevie" creationdate="20161130T175056Z">
+        <seg>il campo database può essere indicato sia come nome dell'intestazione della colonna, che come intero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The database field specifies the column on which the function operates after the search criteria is applied and the data rows are selected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T174959Z" creationid="steevie" creationdate="20161130T174959Z">
@@ -42141,8 +42181,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>The infrequently used database functions, such as OFFSET and INDEX, are worth the time to learn and they can save yourself time in the long run.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T171517Z" creationid="steevie" creationdate="20161130T161339Z">
-        <seg>The infrequently used database functions, such as SCARTO and INDICE, are worth the time to learn and they can save yourself time in the long run.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T175822Z" creationid="steevie" creationdate="20161130T161339Z">
+        <seg>Le funzioni per database usate meno frequentemente, come SCARTO e INDICE, meritano il tempo passato a studiarle e possono farvi risparmiare tempo nel lungo termine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43103,6 +43143,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T152329Z" creationid="steevie" creationdate="20160620T152120Z">
         <seg>Il criterio di ricerca può essere contenuto in una cella di riferimento o incluso direttamente nella chiamata di funzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The search criteria is identical to the advanced filters; criteria in the same row is connected by AND and criteria in different rows is connected by OR.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T175612Z" creationid="steevie" creationdate="20161130T175612Z">
+        <seg>Il criterio di ricerca è identico ai filtri avanzati; i criteri nella stessa riga sono connessi da AND mentre queli in righe diverse da OR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The search criteria is the cell range containing search criteria.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T175456Z" creationid="steevie" creationdate="20161130T175456Z">
+        <seg>Il criterio di ricerca è l'intervallo di celle contenenti il criterio di ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54799,6 +54855,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T203949Z" creationid="Elisabetta" creationdate="20160815T203949Z">
         <seg>—</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“Test 2” is column 3.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T175356Z" creationid="steevie" creationdate="20161130T175356Z">
+        <seg>“Test 2” è la colonna 3.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
