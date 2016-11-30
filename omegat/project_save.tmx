@@ -14983,6 +14983,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Consider the data in &lt;t0&gt;Table 13&lt;/t0&gt; on page &lt;t1&gt;296&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T142754Z" creationid="steevie" creationdate="20161130T142754Z">
+        <seg>Considerate i dati nella &lt;t0&gt;Tabella 13&lt;/t0&gt; a pagina &lt;t1&gt;296&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Consider this case.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T132059Z" creationid="antonio" creationdate="20160524T132059Z">
@@ -17151,6 +17159,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each student’s information is stored in a single row.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T142840Z" creationid="steevie" creationdate="20161130T142840Z">
+        <seg>Tutte le informazioni per ogni studente sono salvate in una singola riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Each topic deserves at least one chapter, and writing your own macros for Calc could easily fill an entire book.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160616T100733Z" creationid="luciano" creationdate="20160616T100733Z">
@@ -17623,6 +17639,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Equally obvious is &lt;f3&gt;=LOOKUP("Fred"; A2:A16; F2:F16)&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T143328Z" creationid="steevie" creationdate="20161130T143328Z">
+        <seg>Altrettanto ovvia è &lt;f3&gt;=CONFRONTA("Fred"; A2:A16; F2:F16)&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Err502</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T194623Z" creationid="Elisabetta" creationdate="20160815T194623Z">
@@ -17779,6 +17803,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T135003Z" creationid="steevie" creationdate="20160427T134706Z">
         <seg>Esempio: se l'intervallo A:B1 è citato in una formula e viene inserita una nuova colonna dopo la B, il riferimento è esteso a A1:C1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Examples</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T142712Z" creationid="steevie" creationdate="20161130T142712Z">
+        <seg>Esempio</seg>
       </tuv>
     </tu>
     <tu>
@@ -26228,6 +26260,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161129T171656Z" creationid="luciano" creationdate="20161129T171656Z">
         <seg>E' meglio utilizzare un pacchetto di grafica per ridimensionare correttamente l'immagine prima di inserirla nel documento, se possibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is common for the first row in a range to contain column headers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T143404Z" creationid="steevie" creationdate="20161130T143404Z">
+        <seg>È Normale che la prima riga contenga le intestazioni delle colonne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41027,6 +41067,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The obvious solution is &lt;f2&gt;=VLOOKUP("Fred"; A2:G16; 6)&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T143302Z" creationid="steevie" creationdate="20161130T143302Z">
+        <seg>La soluzione più ovvia è &lt;f2&gt;=CERCA.VERT("Fred"; A2:G16; 6)&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The optional &lt;f3&gt;cell_text&lt;/f3&gt; argument is the text displayed in the cell.&lt;f4&gt; &lt;/f4&gt;If the &lt;f5&gt;cell_text&lt;/f5&gt; parameter is not specified, the &lt;f6&gt;URL&lt;/f6&gt; is displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T081339Z" creationid="Marco Marega" creationdate="20160821T081339Z">
@@ -41199,6 +41247,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T205202Z" creationid="Marco Marega" creationdate="20160726T205202Z">
         <seg>La probabilità calcolata dalla funzione DISTRIB.CHI può essere calcolata anche con la funzione &lt;f0&gt;TEST.CHI.&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Numero&lt;/f2&gt; è il valore chi-quadrato del campione casuale utilizzato per determinare la probabilità di errore.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Gradi libertà&lt;/f4&gt; sono i gradi di libertà dell'esperimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The problem can be restated as Search column A in the range A1:G16 for Fred and return the value in column F (column F is the sixth column).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T143239Z" creationid="steevie" creationdate="20161130T143239Z">
+        <seg>Il problema può essere riformulato come Cerca nell intervallo A1:G16 Fred nella colonna A e riporta Il valore nella colonna F (la colonna F è la sesta colonna).</seg>
       </tuv>
     </tu>
     <tu>
@@ -41503,6 +41559,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T152329Z" creationid="steevie" creationdate="20160620T152120Z">
         <seg>Il criterio di ricerca può essere contenuto in una cella di riferimento o incluso direttamente nella chiamata di funzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The search data is in descending order and the data is large enough that the data must be searched assuming that it is sorted; because it is faster to sort a sorted list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T142706Z" creationid="steevie" creationdate="20161130T142706Z">
+        <seg>I dati da ricercare sono in ordine discendente e il numero dei dati così elevato che bisogna assumere che sia ordinato; questo perché ordinare una lista ordinata è più veloce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48495,6 +48559,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095556Z">
         <seg>Lavorare con i risultati del DataPilot (la tabella pivot)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Write a formula to return the average grade for Fred.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T142928Z" creationid="steevie" creationdate="20161130T142928Z">
+        <seg>Scrivi una formula che riporti il voto medio di Fred.</seg>
       </tuv>
     </tu>
     <tu>
