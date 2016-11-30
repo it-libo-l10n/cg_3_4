@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25369,8 +25369,8 @@
       <tuv lang="EN">
         <seg>In the &lt;f0&gt;Rotation angle&lt;/f0&gt; section, either set the rotation angle in the &lt;f1&gt;Angle&lt;/f1&gt; spin box, or select one of the 45 degree defaults shown in the selection graphic.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T154454Z" creationid="luciano" creationdate="20161130T154113Z">
-        <seg>Nella sezione &lt;f0&gt;Angolo di rotazione&lt;/f0&gt;, impostare l'angolo di rotazione nella casella di selezione&lt;f1&gt;Angolo&lt;/f1&gt;, oppure selezionare una delle impostazioni predefinite di 45 gradi indicate nel grafico di selezione.either set the rotation angle in the spin box, or select one of the 45 degree defaults shown in the selection graphic.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T154553Z" creationid="luciano" creationdate="20161130T154113Z">
+        <seg>Nella sezione &lt;f0&gt;Angolo di rotazione&lt;/f0&gt;, impostare l'angolo di rotazione nella casella di selezione&lt;f1&gt;Angolo&lt;/f1&gt;, oppure selezionare una delle impostazioni predefinite di 45 gradi indicate nell'immagine di selezione.</seg>
       </tuv>
     </tu>
     <tu>
