@@ -32721,6 +32721,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Resets the dimensions of the image to the values when it was originally inserted into the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T162129Z" creationid="luciano" creationdate="20161130T162129Z">
+        <seg>Ripristina le dimensioni dell'immagine ai valori quando è stata originariamente inserita nel documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Resetting the &lt;i0/&gt;default template</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160824T073102Z" creationid="briga" creationdate="20160824T073102Z">
@@ -43571,6 +43579,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This information is used by accessibility tools (such as screen reader software) and as ALT (alternative) attributes if you export the document to HTML.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T162404Z" creationid="luciano" creationdate="20161130T162404Z">
+        <seg>Queste informazioni vengono usate da strumenti di accessibilità (come per esempio il software di lettura dello schermo) e come attributi ALT (alternativa) se si esporta il documento in formato HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This inserts one new sheet at that point, without opening the Insert Sheet dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T141217Z" creationid="antonio" creationdate="20160524T141217Z">
@@ -49447,6 +49463,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160615T160925Z" creationid="luciano" creationdate="20160615T160925Z">
         <seg>Potete accedere direttamente agli oggetti interni di &lt;f0&gt;LibreOffice&lt;/f0&gt; per manipolare un documento di Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can add metadata in the form of a title and description to the image.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T162227Z" creationid="luciano" creationdate="20161130T162227Z">
+        <seg>È possibile aggiungere metadati nella forma di un titolo e di una descrizione all'immagine.</seg>
       </tuv>
     </tu>
     <tu>
