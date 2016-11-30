@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9695,6 +9695,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adds programmable functionality to the image.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T163732Z" creationid="luciano" creationdate="20161130T163732Z">
+        <seg>Aggiunge all'immagine funzioni programmabili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adds the cells specified by a given criteria.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T145326Z" creationid="Marco Marega" creationdate="20160626T145326Z">
@@ -12139,6 +12147,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T091630Z" creationid="michele" creationdate="20160525T091630Z">
         <seg>Calc offre diversi modi per navigare in un foglio elettronico da cella a cella e da foglio a foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calc provides rich macro functionality.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T163831Z" creationid="luciano" creationdate="20161130T163831Z">
+        <seg>Calc fornisce numerose funzionalità macro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22199,6 +22215,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Group</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T163943Z" creationid="luciano" creationdate="20161130T163943Z">
+        <seg>Raggruppare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Groups the selected data range.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T141658Z" creationid="luciano" creationdate="20160509T141658Z">
@@ -27916,6 +27940,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160524T101922Z" creationid="luciano" creationdate="20160524T101922Z">
         <seg>Le macro sono particolarmente utili per ripetere un'azione di continuo sempre nello stesso modo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Macros are introduced in Chapter 12, Calc Macros.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T163920Z" creationid="luciano" creationdate="20161130T163920Z">
+        <seg>Le Macro sono introdotte nel Capitolo 12, Le Macro di Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45247,6 +45279,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T154446Z" creationid="antonio" creationdate="20160524T154446Z">
         <seg>Per dare un nome più significativo ad un foglio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To group images:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T164003Z" creationid="luciano" creationdate="20161130T164003Z">
+        <seg>Per raggruppare le immagini:</seg>
       </tuv>
     </tu>
     <tu>
