@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3536,32 +3536,32 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;ADDRESS(2; 5; 1)&lt;/f0&gt; returns $E$2.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151916Z" creationid="steevie" creationdate="20161130T151916Z">
-        <seg>&lt;f0&gt;INDIRIZZO(2; 5; 1)&lt;/f0&gt; returns $E$2.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T153816Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>&lt;f0&gt;INDIRIZZO(2; 5; 1)&lt;/f0&gt; ritorna $E$2.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;ADDRESS(2; 5; 2; "Blah")&lt;/f0&gt; returns Blah.E$2.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151916Z" creationid="steevie" creationdate="20161130T151916Z">
-        <seg>&lt;f0&gt;INDIRIZZO(2; 5; 2; "Blah")&lt;/f0&gt; returns Blah.E$2.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T153905Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>&lt;f0&gt;INDIRIZZO(2; 5; 2; "Blah")&lt;/f0&gt; ritorna Blah.E$2.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;ADDRESS(2; 5; 3)&lt;/f0&gt; returns $E2.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151916Z" creationid="steevie" creationdate="20161130T151916Z">
-        <seg>&lt;f0&gt;INDIRIZZO(2; 5; 3)&lt;/f0&gt; returns $E2.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T153937Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>&lt;f0&gt;INDIRIZZO(2; 5; 3)&lt;/f0&gt; ritorna $E2.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;ADDRESS(2; 5; 4)&lt;/f0&gt; returns E2.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151916Z" creationid="steevie" creationdate="20161130T151916Z">
-        <seg>&lt;f0&gt;INDIRIZZO(2; 5; 4)&lt;/f0&gt; returns E2.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T154039Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>&lt;f0&gt;INDIRIZZO(2; 5; 4)&lt;/f0&gt; ritorna E2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8505,8 +8505,8 @@
       <tuv lang="EN">
         <seg>=SUM(OFFSET(INDIRECT(ADDRESS(MATCH("Bob";A1:A16; 0); 4)); 0; 0; 1; 2))</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151916Z" creationid="steevie" creationdate="20161130T151916Z">
-        <seg>=SUM(OFFSET(INDIRECT(INDIRIZZO(MATCH("Bob";A1:A16; 0); 4)); 0; 0; 1; 2))</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T154110Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>=SUM(OFFSET(INDIRETTO(INDIRIZZO(MATCH("Bob";A1:A16; 0); 4)); 0; 0; 1; 2))</seg>
       </tuv>
     </tu>
     <tu>
@@ -18007,6 +18007,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Examples using INDIRECT.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T154110Z" creationid="steevie" creationdate="20161130T154110Z">
+        <seg>Examples using INDIRETTO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Existing documents show a library named Standard.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160524T145527Z" creationid="luciano" creationdate="20160524T145338Z">
@@ -22719,10 +22727,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>INDIRECT &lt;s0/&gt;316</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T154110Z" creationid="steevie" creationdate="20161130T154110Z">
+        <seg>INDIRETTO &lt;s0/&gt;316</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>INDIRECT("$D$4")</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T154110Z" creationid="steevie" creationdate="20161130T154110Z">
+        <seg>INDIRETTO("$D$4")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>INDIRECT("A2")</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T154110Z" creationid="steevie" creationdate="20161130T154110Z">
+        <seg>INDIRETTO("A2")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>INDIRECT(ADDRESS(2; 1))</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151916Z" creationid="steevie" creationdate="20161130T151916Z">
-        <seg>INDIRECT(INDIRIZZO(2; 1))</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T154110Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>INDIRETTO(INDIRIZZO(2; 1))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>INDIRECT(G1)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T154110Z" creationid="steevie" creationdate="20161130T154110Z">
+        <seg>INDIRETTO(G1)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22731,6 +22771,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T083050Z" creationid="Marco Marega" creationdate="20160821T083050Z">
         <seg>INDIRETTO(riferimento)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>INDIRECT&lt;ie0/&gt; converts a string to a cell or range</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T154211Z" creationid="steevie" creationdate="20161130T154109Z">
+        <seg>INDIRETTO&lt;ie0/&gt; converte una stringa in una cella o intervallo</seg>
       </tuv>
     </tu>
     <tu>
@@ -34937,6 +34985,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SUM(INDIRECT("B1:B5"))</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T154110Z" creationid="steevie" creationdate="20161130T154110Z">
+        <seg>SUM(INDIRETTO("B1:B5"))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SUM(number_1; number_2; ... number_30)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T144932Z" creationid="Marco Marega" creationdate="20160626T144738Z">
@@ -38526,6 +38582,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T150913Z" creationid="steevie" creationdate="20161130T150913Z">
         <seg>Tabella &lt;seq0&gt;21&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;22&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T153622Z" creationid="steevie" creationdate="20161130T153622Z">
+        <seg>Tabella &lt;seq0&gt;22&lt;/seq0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43379,6 +43443,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is the default value if the argument is missing or an invalid value is used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T153808Z" creationid="steevie" creationdate="20161130T153716Z">
+        <seg>Questo è il valore standard se l'argomento non è presente o ne è usato uno invalido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is the same as the &lt;f4&gt;nCr&lt;/f4&gt; function on a calculator.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T153911Z" creationid="Marco Marega" creationdate="20160625T153911Z">
@@ -46491,6 +46563,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use INDIRECT to convert a string representation of a cell or range address to a reference to the cell or range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T154628Z" creationid="steevie" creationdate="20161130T154110Z">
+        <seg>Usate INDIRETTO per convertire una stringa representation of a cell or range address to a reference to the cell or range.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use LOOKUP when:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161010T142214Z" creationid="steevie" creationdate="20161010T142214Z">
@@ -46539,10 +46619,34 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use a relative row reference and an absolute column reference.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T153923Z" creationid="steevie" creationdate="20161130T153923Z">
+        <seg>Usa un riferimento di riga relativo ed uno di colonna assoluto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use a title that draws the viewers’ attention to the purpose of the chart: what you want them to see.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20161002T174826Z" creationid="emanuelegiusti" creationdate="20161002T174826Z">
         <seg>Utilizzate un titolo che richiama l'attenzione dello spettatore allo scopo del grafico: cosa volete che loro vedano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use absolute addressing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T153723Z" creationid="steevie" creationdate="20161130T153713Z">
+        <seg>Usa indirizzo assoluto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use an absolute row reference and a relative column reference.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T153857Z" creationid="steevie" creationdate="20161130T153857Z">
+        <seg>Usa un riferimento di riga assoluto ed uno di colonna relativo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46583,6 +46687,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T141551Z" creationid="antonio" creationdate="20160524T141530Z">
         <seg>Utilizzate uno di questi metodi per inserire più di un foglio, rinominare il foglio allo stesso tempo, o inserire il foglio dove volete nella sequenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use relative addressing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T153949Z" creationid="steevie" creationdate="20161130T153949Z">
+        <seg>Usa indirizzo relativo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47573,8 +47685,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>Values supported by the abs argument to ADDRESS.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151916Z" creationid="steevie" creationdate="20161130T151916Z">
-        <seg>Values supported by the abs argument to INDIRIZZO.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T153653Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>Valori supportati dall'argomento ASS di INDIRIZZO.</seg>
       </tuv>
     </tu>
     <tu>
