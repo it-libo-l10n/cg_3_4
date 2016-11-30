@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12135,6 +12135,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc supports numerous powerful functions that are not discussed here.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T153002Z" creationid="steevie" creationdate="20161130T152705Z">
+        <seg>Calc supporta molte importanti funzioni che non sono presentate qui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc uses eight colors for outlining referenced cells, starting with blue for the first cell, and continuing with red, magenta, green, dark blue, brown, purple and yellow before cycling through the sequence again.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T152202Z" creationid="steevie" creationdate="20160620T152202Z">
@@ -20971,6 +20979,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161010T140156Z" creationid="steevie" creationdate="20161010T140156Z">
         <seg>Ad esempio, nomi di studenti con risultati di test e quiz al di sotto del nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, the ROW, COLUMN, ROWS, and COLUMNS statements are not discussed; a curious person would investigate these functions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T153615Z" creationid="steevie" creationdate="20161130T153615Z">
+        <seg>Ad esempio RIGA. COLONNA, RIGHE, COLONNE non sono presentate, ma una persona curiosa potrebbe investigare queste funzioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42003,6 +42019,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The sheet argument is treated as a string.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T152557Z" creationid="steevie" creationdate="20161130T152557Z">
+        <seg>L'argomento foglio è trattato come una stringa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The sheet is &lt;s2/&gt;included as part of the address only if the sheet argument is used.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T152530Z" creationid="steevie" creationdate="20161130T152530Z">
@@ -46861,8 +46885,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>Using &lt;f3&gt;ADDRESS(MATCH("Bob";A1:A5 ; 0); 2)&lt;/f3&gt; with the data in &lt;t4&gt;Table 21&lt;/t4&gt; returns &lt;f5&gt;$B$2.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151916Z" creationid="steevie" creationdate="20161130T151916Z">
-        <seg>Using &lt;f3&gt;INDIRIZZO(MATCH("Bob";A1:A5 ; 0); 2)&lt;/f3&gt; with the data in &lt;t4&gt;Table 21&lt;/t4&gt; returns &lt;f5&gt;$B$2.&lt;/f5&gt;</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T152758Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>Usare &lt;f3&gt;INDIRIZZO(CONFRONTA("Bianca";A1:A5 ; 0); 2)&lt;/f3&gt; con i dati della &lt;t4&gt;Tabella 21&lt;/t4&gt; ritorna &lt;f5&gt;$B$2.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
