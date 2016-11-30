@@ -9105,8 +9105,8 @@
       <tuv lang="EN">
         <seg>A slight modification using MATCH to find the column yields &lt;s1/&gt;&lt;f2&gt;=VLOOKUP("Fred"; A2:G16; MATCH("Average"; A1:G1; 0))&lt;/f2&gt;; notice that the heading is not sorted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T143904Z" creationid="steevie" creationdate="20161130T143904Z">
-        <seg>A slight modification using MATCH to find the column yields &lt;s1/&gt;&lt;f2&gt;=VLOOKUP("Fred"; A2:G16; MATCH("Average"; A1:G1; 0))&lt;/f2&gt;; notice that the heading is not sorted.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T145331Z" creationid="steevie" creationdate="20161130T143904Z">
+        <seg>Una piccola modifca usando CONFRONTA per trovare la colonna porta a &lt;s1/&gt;&lt;f2&gt;=CERCA.VERT("Fred"; A2:G16; CONFRONTA("Media"; A1:G1; 0))&lt;/f2&gt;; Notate che l'intestazione non è ordinata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20105,8 +20105,8 @@
       <tuv lang="EN">
         <seg>Find the column containing Average rather than hard coding the value 6.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T143841Z" creationid="steevie" creationdate="20161130T143841Z">
-        <seg>Find the column containing Average rather than hard coding the value 6.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T145206Z" creationid="steevie" creationdate="20161130T143841Z">
+        <seg>Si cerca la colonna contenente Media piuttosto che usare il valore fissato 6.</seg>
       </tuv>
     </tu>
     <tu>
