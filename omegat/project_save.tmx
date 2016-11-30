@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8431,6 +8431,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t2&gt;Table 26&lt;/t2&gt; lists shows the syntax for using the INDEX function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T165043Z" creationid="steevie" creationdate="20161130T165043Z">
+        <seg>La &lt;t2&gt;Tabella 26&lt;/t2&gt; mostra la sintassi da usare perla funzione INDICE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t3&gt;Figure 52&lt;/t3&gt; shows the results.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160718T165543Z" creationid="Elisabetta" creationdate="20160718T165440Z">
@@ -9143,6 +9151,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A reference range can contain multiple ranges.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T165511Z" creationid="steevie" creationdate="20161130T165511Z">
+        <seg>Un intervallo di riferimento può contenere intervalli multipli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A registered data source in &lt;f0&gt;LibreOffice&lt;/f0&gt; is a connection to data held in a database outside Calc.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20160813T111200Z" creationid="Andrea" creationdate="20160813T111200Z">
@@ -9155,6 +9171,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20160808T135602Z" creationid="Andrea" creationdate="20160808T135602Z">
         <seg>Una fonte di errore abbastanza comune e' di dichiarare inavvertitamente un elenco per errore e poi cercare di ordinarlo secondo qualche criterio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A row and column of 1 returns the cell in the upper left corner of the range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T165446Z" creationid="steevie" creationdate="20161130T165446Z">
+        <seg>Un valore di 1 per riga e colonna ritornano la cella nell'angolo in alto a sinistra dell'intervallo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21239,6 +21263,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, using &lt;s0/&gt;&lt;f1&gt;=INDEX(B2:D3; 1; 1)&lt;/f1&gt; returns the cell B2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T164939Z" creationid="steevie" creationdate="20161130T164939Z">
+        <seg>Ad esempio, usando &lt;s0/&gt;&lt;f1&gt;=INDICE(B2:D3; 1; 1)&lt;/f1&gt; si ottiene la cella B2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, using the data in &lt;t0&gt;Table 13&lt;/t0&gt;, select data in columns B and C. If you do not select the title rows, Calc asks if the title row or the current row should be used.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160510T143232Z" creationid="steevie" creationdate="20160510T143212Z">
@@ -22907,6 +22939,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T164822Z" creationid="steevie" creationdate="20161130T164822Z">
         <seg>INDICE ritorna le celle indicate da un numero di riga e da uno di colonna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>INDEX(reference)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T165232Z" creationid="steevie" creationdate="20161130T165232Z">
+        <seg>INDICE(riferimento)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>INDEX(reference; row)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T165311Z" creationid="steevie" creationdate="20161130T165311Z">
+        <seg>INDICE(riferimento; riga)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>INDEX(reference; row; column)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T165341Z" creationid="steevie" creationdate="20161130T165341Z">
+        <seg>INDICE(riferimento; riga; colonna)</seg>
       </tuv>
     </tu>
     <tu>
@@ -33033,6 +33089,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Return the cell specified by row and column.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T165402Z" creationid="steevie" creationdate="20161130T165402Z">
+        <seg>Ritorna le celle indicate da riga e colonna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Return the content of a cell, specified by row and column number or an optional range name.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T145341Z" creationid="steevie" creationdate="20160620T145005Z">
@@ -33045,6 +33109,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T145657Z" creationid="steevie" creationdate="20160620T145657Z">
         <seg>Restituisce il contenuto di una cella o da un intervallo di una riga o colonna, o da una matrice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Return the entire range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T165301Z" creationid="steevie" creationdate="20161130T165301Z">
+        <seg>Ritorna tutto l'intervallo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33117,6 +33189,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T145449Z" creationid="steevie" creationdate="20160620T145449Z">
         <seg>Restituisce il riferimento indicato da una stringa di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Return the specified row in the range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T165331Z" creationid="steevie" creationdate="20161130T165331Z">
+        <seg>Ritorna la rica indicata all'interno dell'intervallo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38882,6 +38962,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Syntax for INDEX.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T165056Z" creationid="steevie" creationdate="20161130T165056Z">
+        <seg>Sintassi per INDEX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>T(value)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T112531Z" creationid="Marco Marega" creationdate="20160823T112531Z">
@@ -39110,6 +39198,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T164606Z" creationid="steevie" creationdate="20161130T164606Z">
         <seg>Tabella &lt;seq0&gt;25&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;26&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T165047Z" creationid="steevie" creationdate="20161130T165047Z">
+        <seg>Tabella &lt;seq0&gt;26&lt;/seq0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39906,6 +40002,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The INDEX function can return an entire range, a row, or a single column (see &lt;t0&gt;Table 26&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T165652Z" creationid="steevie" creationdate="20161130T165601Z">
+        <seg>La funzione INDICE può ritornare un intero intervallo, una riga o una singola colonna (vedi &lt;t0&gt;Tabella 26&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The ISERROR tests if the cells contain general error values.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T132430Z" creationid="Marco Marega" creationdate="20160819T132430Z">
@@ -40214,6 +40318,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160510T142817Z" creationid="steevie" creationdate="20160510T142817Z">
         <seg>Il filtro Top 10 visualizza le dieci righe con il valore più alto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The ability to index based on the start of the reference range provides some interesting uses.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T165824Z" creationid="steevie" creationdate="20161130T165824Z">
+        <seg>L'abilità di usare un indice basato sull'inizio dell'intervallo di riferimento permette alcuni usi interessanti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42187,6 +42299,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The range argument specifies which range to use.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T165604Z" creationid="steevie" creationdate="20161130T165554Z">
+        <seg>L'argomento area indica che intervallo usare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The range can be used as a print range.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142942Z" creationid="steevie" creationdate="20160504T142942Z">
@@ -42415,6 +42535,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T152329Z" creationid="steevie" creationdate="20161130T151916Z">
         <seg>Riga e colonna sono valori interi mentre INDIRIZZO(1; 1) ritorna &lt;f0&gt;$A$1&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The row and column number are relative to the upper left corner of the specified reference range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T164915Z" creationid="steevie" creationdate="20161130T164915Z">
+        <seg>Il numero di riga e colonna sono relativi all'angolo in alto a sinistra dell'intervallo di riferimento indicato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48095,6 +48223,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T152706Z" creationid="michele" creationdate="20160525T152706Z">
         <seg>Usando la divisione dello schermo, potete posizionare la cella contenente il numero in una sezione e ognuna delle celle con le formule nelle altre sezioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the values shown in &lt;t1&gt;Table 25&lt;/t1&gt;, &lt;t2&gt;Listing 21&lt;/t2&gt; finds and returns Bob’s quiz scores.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T165842Z" creationid="steevie" creationdate="20161130T165842Z">
+        <seg>Con i valori mostrati in t&lt;t1&gt;Table 25&lt;/t1&gt;, &lt;t2&gt;Listing 21&lt;/t2&gt; finds and returns Bob’s quiz scores.</seg>
       </tuv>
     </tu>
     <tu>
