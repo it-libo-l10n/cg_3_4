@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8407,6 +8407,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t1&gt;Table 24&lt;/t1&gt; isolates each function in &lt;t2&gt;Listing 19&lt;/t2&gt;, providing an easy to understand explanation of how the example works.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T163427Z" creationid="steevie" creationdate="20161130T163427Z">
+        <seg>La &lt;t1&gt;Tabella 24&lt;/t1&gt; separa ogni funzione del &lt;t2&gt;Listato 19&lt;/t2&gt;, e fornisce una semplice spiegazione di come opera questo esempio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t2&gt;Figure 243&lt;/t2&gt; shows the cells and fields.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T131354Z" creationid="michele" creationdate="20160608T131354Z">
@@ -8529,8 +8537,8 @@
       <tuv lang="EN">
         <seg>=SUM(OFFSET(INDIRECT(ADDRESS(MATCH("Bob";A1:A16; 0); 4)); 0; 0; 1; 2))</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T161339Z" creationid="steevie" creationdate="20161130T151916Z">
-        <seg>=SUM(SCARTO(INDIRETTO(INDIRIZZO(MATCH("Bob";A1:A16; 0); 4)); 0; 0; 1; 2))</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T163147Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>=SOMMA(SCARTO(INDIRETTO(INDIRIZZO(CONFRONTA("Bianca";A1:A16; 0); 4)); 0; 0; 1; 2))</seg>
       </tuv>
     </tu>
     <tu>
@@ -10175,6 +10183,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although &lt;t0&gt;Listing 19&lt;/t0&gt; works as intended, it breaks easily and unexpectedly.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T163809Z" creationid="steevie" creationdate="20161130T163809Z">
+        <seg>Nonostante il &lt;t0&gt;Listato 19&lt;/t0&gt; funzioni come desiderato, può fallire facilmente ed in maniera inattesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Although Calc finds and calls macros as normal functions, they do not really behave as built-in functions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160615T160443Z" creationid="luciano" creationdate="20160615T160443Z">
@@ -11475,6 +11491,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T151802Z" creationid="steevie" creationdate="20160503T151802Z">
         <seg>Bruno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Breakdown of &lt;t1&gt;Listing 19&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T163502Z" creationid="steevie" creationdate="20161130T163502Z">
+        <seg>Scomposizione del &lt;t1&gt;Listato 19&lt;/t1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15185,8 +15209,8 @@
       <tuv lang="EN">
         <seg>Complex example of OFFSET.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T161339Z" creationid="steevie" creationdate="20161130T161339Z">
-        <seg>Complex example of SCARTO.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T163130Z" creationid="steevie" creationdate="20161130T161339Z">
+        <seg>Esempio complesso di SCARTO.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15331,6 +15355,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T112618Z">
         <seg>Controllo della stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Convert $D$4 into a reference to the cell D4.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T163622Z" creationid="steevie" creationdate="20161130T163622Z">
+        <seg>Converte $D$4 nel riferimento alla cella D4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23687,6 +23719,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the height is present, then a range reference is returned rather than a cell reference.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T162902Z" creationid="steevie" creationdate="20161130T162902Z">
+        <seg>Se l'altezza è specificata, viene restituito come riferimento un intervallo piuttosto che una cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the height or width are missing, they default to 1.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T162744Z" creationid="steevie" creationdate="20161130T162744Z">
@@ -25251,6 +25291,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T123745Z" creationid="michele" creationdate="20160524T123745Z">
         <seg>In ciascun caso, viene visualizzata la finestra di dialogo Apri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In its entirety, &lt;t0&gt;Listing 19&lt;/t0&gt; is complex and difficult to understand.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T163244Z" creationid="steevie" creationdate="20161130T163244Z">
+        <seg>Nella sua completezza, il &lt;t0&gt;Listato 19&lt;/t0&gt; è complesso e difficile da capire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27560,6 +27608,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Listing &lt;seq0&gt;19&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T163010Z" creationid="steevie" creationdate="20161130T163010Z">
+        <seg>Listato &lt;seq0&gt;19&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Listing &lt;seq0&gt;1&lt;/seq0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160524T153054Z" creationid="luciano" creationdate="20160524T153054Z">
@@ -27684,6 +27740,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T145729Z" creationid="steevie" creationdate="20160620T145729Z">
         <seg>CONFRONTA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MATCH("Bob";A1:A16; 0)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T163513Z" creationid="steevie" creationdate="20161130T163513Z">
+        <seg>CONFRONTA("Bianca";A1:A16; 0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32833,6 +32897,22 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Return $D$4.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T163607Z" creationid="steevie" creationdate="20161130T163607Z">
+        <seg>Ritorna $D$4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Return 4 because Bob is the fourth entry in column A.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T163555Z" creationid="steevie" creationdate="20161130T163555Z">
+        <seg>Ritorna 4 perché Bianca è la quarta voce della colonna A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Return the average.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T143421Z" creationid="steevie" creationdate="20160620T143421Z">
@@ -32913,10 +32993,26 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Return the range D4:E4.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T163633Z" creationid="steevie" creationdate="20161130T163633Z">
+        <seg>Ritorna l'intervallo D4:E4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Return the reference specified by a text string.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T145449Z" creationid="steevie" creationdate="20160620T145449Z">
         <seg>Restituisce il riferimento indicato da una stringa di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Return the sum of Bob’s quiz scores.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T163658Z" creationid="steevie" creationdate="20161130T163658Z">
+        <seg>Ritorna la somma dei punteggi di Bianca nei quiz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35245,6 +35341,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151413Z" creationid="steevie" creationdate="20160620T151413Z">
         <seg>SOMMA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SUM(D4:E4)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T163638Z" creationid="steevie" creationdate="20161130T163638Z">
+        <seg>SOMMA(D4:E4)</seg>
       </tuv>
     </tu>
     <tu>
@@ -38870,6 +38974,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T155914Z" creationid="steevie" creationdate="20161130T155914Z">
         <seg>Tabella &lt;seq0&gt;23&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;24&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T163433Z" creationid="steevie" creationdate="20161130T163433Z">
+        <seg>Tabella &lt;seq0&gt;24&lt;/seq0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47837,8 +47949,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>Using values from &lt;t0&gt;Table 25&lt;/t0&gt;, &lt;t1&gt;Listing 19&lt;/t1&gt; uses OFFSET to obtain the quiz scores for the student named Bob.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T161339Z" creationid="steevie" creationdate="20161130T161339Z">
-        <seg>Using values from &lt;t0&gt;Table 25&lt;/t0&gt;, &lt;t1&gt;Listing 19&lt;/t1&gt; uses SCARTO to obtain the quiz scores for the student named Bob.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T163006Z" creationid="steevie" creationdate="20161130T161339Z">
+        <seg>Usando i valori della &lt;t0&gt;Tabella 25&lt;/t0&gt;, &lt;t1&gt;il Listato 19&lt;/t1&gt; usa SCARTO per ottenere i punteggi dei quiz della studentessa Bianca.</seg>
       </tuv>
     </tu>
     <tu>
