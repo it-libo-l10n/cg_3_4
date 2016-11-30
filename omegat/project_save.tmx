@@ -8423,6 +8423,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>=MATCH(search_value; search_range)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T134737Z" creationid="steevie" creationdate="20161130T134606Z">
+        <seg>=CONFRONTA(Criterio_ricerca; vettore)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>=MATCH(search_value; search_range; search_type)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T134906Z" creationid="steevie" creationdate="20161130T134735Z">
+        <seg>=CONFRONTA(Criterio_ricerca; vettore, tipo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>=SUMIF(A1:A16; "B.*"; B1:B16)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T154010Z" creationid="steevie" creationdate="20160620T154010Z">
@@ -9027,6 +9043,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T134405Z" creationid="michele" creationdate="20160531T134405Z">
         <seg>Uno scenario è essenzialmente un insieme di valori delle celle salvato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A search type of -1 indicates that the list is sorted in descending order.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T135148Z" creationid="steevie" creationdate="20161130T135148Z">
+        <seg>Una ricerca di tipo -1 indica che la lista è ordinata in ordine discendente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A search type of 0 indicates that the list is not sorted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T135206Z" creationid="steevie" creationdate="20161130T135206Z">
+        <seg>Una ricerca di tipo 0 indica che la lista non è ordinata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A search type of 1, sorted in ascending order, is the default.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T135108Z" creationid="steevie" creationdate="20161130T135108Z">
+        <seg>La ricerca di tipo 1, ordinare in ordine ascendente, è quella predefinita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21849,8 +21889,8 @@
       <tuv lang="EN">
         <seg>HLOOKUP supports the same form and arguments as VLOOKUP:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T135935Z" creationid="steevie" creationdate="20161010T135935Z">
-        <seg>CERCA.ORIZZ supporta la steffa forma e argomenti di CERCA.VERT:</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T134559Z" creationid="steevie" creationdate="20161010T135935Z">
+        <seg>CERCA.ORIZZ supporta la stessa forma e argomenti di CERCA.VERT:</seg>
       </tuv>
     </tu>
     <tu>
@@ -31961,6 +32001,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regular expressions can only be used on an unsorted list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T135231Z" creationid="steevie" creationdate="20161130T135231Z">
+        <seg>Le espressioni regolari possono essere usate solo in una lista non ordinata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Relative and absolute hyperlinks</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160919T124703Z" creationid="antonio" creationdate="20160919T124703Z">
@@ -40162,6 +40210,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The final argument, search type, controls how the search is performed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T135030Z" creationid="steevie" creationdate="20161130T135030Z">
+        <seg>Il terzo argomento, tipo, controlla la modalità di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The final column, &lt;f0&gt;sort_order&lt;/f0&gt;, is optional.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161010T133709Z" creationid="steevie" creationdate="20161010T133709Z">
@@ -41539,6 +41595,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The search value and search range are the same as for LOOKUP.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T135002Z" creationid="steevie" creationdate="20161130T135002Z">
+        <seg>Il criterio di ricerca ed il vettore sono gli stessi di CERCARE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The search value can be text, a number, or a regular expression.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161010T132445Z" creationid="steevie" creationdate="20161010T132445Z">
@@ -41767,6 +41831,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20160828T214537Z" creationid="Andrea" creationdate="20160828T214537Z">
         <seg>I risultati finali fanno riferimento soltanto ai dati che avete selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The supported forms for MATCH are as follows:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T134705Z" creationid="steevie" creationdate="20161130T134544Z">
+        <seg>Le forme di utilizzo per CONFRONTA sono le seguenti:</seg>
       </tuv>
     </tu>
     <tu>
@@ -46019,6 +46091,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &lt;is0/&gt;MATCH&lt;ie1/&gt; to find the index of a value in a range</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T134147Z" creationid="steevie" creationdate="20161130T134147Z">
+        <seg>Usate &lt;is0/&gt;CONFRONTA&lt;ie1/&gt; per trovare l'indice di un valore in un intervallo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &lt;is0/&gt;auto&lt;ie1/&gt; filters to quickly create easily accessible filters commonly used in many different types of applications.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160510T142123Z" creationid="steevie" creationdate="20160510T142123Z">
@@ -46063,6 +46143,30 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161010T142214Z" creationid="steevie" creationdate="20161010T142214Z">
         <seg>Usate CERCA quando:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use MATCH to find the index of a value in a range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T134342Z" creationid="steevie" creationdate="20161130T134342Z">
+        <seg>Usate CONFRONTA per trovare l'indice di un valore in un intervallo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use MATCH to search a single row or column and return the position that matches the search value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T134236Z" creationid="steevie" creationdate="20161130T134236Z">
+        <seg>Usate CONFRONTA per cercare in una singola riga o colonna e ottenere la posizione che corrisponde al valore di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use MATCH when:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T135243Z" creationid="steevie" creationdate="20161130T135243Z">
+        <seg>Usate CONFRONTA quando:</seg>
       </tuv>
     </tu>
     <tu>
