@@ -12447,10 +12447,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calculate the standard deviation using the fields that match the search criteria.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T174055Z" creationid="steevie" creationdate="20161130T174055Z">
+        <seg>Calcola la deviazione standard usando i campi che corrispondono al criterio di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calculate the sum for the cells that meet the search criteria.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151451Z" creationid="steevie" creationdate="20160620T151451Z">
         <seg>Calcola la somma delle celle che soddisfano i criteri di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculate the variance using the fields that match the search criteria.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T174345Z" creationid="steevie" creationdate="20161130T174345Z">
+        <seg>Calcola la varianza usando i campi che corrispondono al criterio di ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12995,6 +13011,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160719T122930Z" creationid="Marco Marega" creationdate="20160719T122930Z">
         <seg>Calcola il rendimento di un buono del tesoro.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Liquidazione&lt;/f1&gt; è la data di acquisto del titolo.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Scadenza&lt;/f3&gt; è la data di scadenza del titolo.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Prezzo&lt;/f5&gt; è il prezzo (di acquisto) per 100 unità monetarie di valore nominale del buono del tesoro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculatesthe variance using the fields that match the search criteria.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T174420Z" creationid="steevie" creationdate="20161130T174420Z">
+        <seg>Calcola la varianza usando i campi che corrispondono al criterio di ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16561,8 +16585,8 @@
       <tuv lang="EN">
         <seg>DCOUNT(database; database field; search criteria)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T172742Z" creationid="steevie" creationdate="20161130T172725Z">
-        <seg>DB.CONTA.NUMERI(database; database field; search criteria)</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T174554Z" creationid="steevie" creationdate="20161130T172725Z">
+        <seg>DB.CONTA.NUMERI(database; campo database; criterio di ricerca)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16679,6 +16703,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DSTDEV</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T174020Z" creationid="steevie" creationdate="20161130T174020Z">
+        <seg>DB.DEV.ST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DSTDEVP</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T174240Z" creationid="steevie" creationdate="20161130T174240Z">
+        <seg>DB.DEV.ST.POP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DSUM</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T174302Z" creationid="steevie" creationdate="20161130T174302Z">
+        <seg>DB.SOMMA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DURATION(rate; PV; &lt;f0&gt;FV&lt;/f0&gt;)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T101107Z" creationid="Marco Marega" creationdate="20160703T101107Z">
@@ -16691,6 +16739,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T125610Z" creationid="Marco Marega" creationdate="20160703T125610Z">
         <seg>DURATA_ADD (liquidazione; scadenza; tasso interesse nominale; rendimento; frequenza; base)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DVAR</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T174333Z" creationid="steevie" creationdate="20161130T174333Z">
+        <seg>DB.VAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DVARP</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T174401Z" creationid="steevie" creationdate="20161130T174401Z">
+        <seg>DB.VAR.POP</seg>
       </tuv>
     </tu>
     <tu>
@@ -28024,6 +28088,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Listing &lt;seq0&gt;22&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T174826Z" creationid="steevie" creationdate="20161130T174826Z">
+        <seg>Listato &lt;seq0&gt;22&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Listing &lt;seq0&gt;2&lt;/seq0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160615T151124Z" creationid="luciano" creationdate="20160614T155803Z">
@@ -33557,6 +33629,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T163658Z" creationid="steevie" creationdate="20161130T163658Z">
         <seg>Ritorna la somma dei punteggi di Bianca nei quiz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Return the sum of all fields that matches the search criteria.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T174318Z" creationid="steevie" creationdate="20161130T174318Z">
+        <seg>Ritorna la somma di tutti i campi che corrispondono al criterio di ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40922,6 +41002,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The cell range should contain the column labels (see &lt;t0&gt;Listing 22&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T174708Z" creationid="steevie" creationdate="20161130T174708Z">
+        <seg>L'intervallo di celle dovrebbe contenere l'intestazione delle colonne (vedi &lt;t0&gt;Listato 22&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The cells A3 and B3 are the two cells directly to the left of C3, so, the equation &lt;f4&gt;=AddLeft()&lt;/f4&gt; calculates the sum of the two cells directly to the left of the cell that contains the equation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T143916Z" creationid="steevie" creationdate="20160504T143916Z">
@@ -41258,6 +41346,30 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The database argument includes the headers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T174858Z" creationid="steevie" creationdate="20161130T174858Z">
+        <seg>L'argomento database contiene le intestazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The database argument is the cell range that defines the database.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T174620Z" creationid="steevie" creationdate="20161130T174620Z">
+        <seg>L'argomento database è l'intervallo di celle che definisce il database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The database field specifies the column on which the function operates after the search criteria is applied and the data rows are selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T174959Z" creationid="steevie" creationdate="20161130T174959Z">
+        <seg>Il campo database indica la colonna su cui la funzione opera dopo che il criterio di ricerca è stato applicato e le righe di dati sono selezionate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The database functions use the following common arguments:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T150111Z" creationid="Marco Marega" creationdate="20160819T150111Z">
@@ -41578,6 +41690,22 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The fields are treated as a sample.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T174213Z" creationid="steevie" creationdate="20161130T174213Z">
+        <seg>I campi sono trattati come campioni statistici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The fields are treated as the entire population.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T174257Z" creationid="steevie" creationdate="20161130T174257Z">
+        <seg>I campi vengono trattati come se fossero l'intera popolazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The file sharing options on the &lt;f1&gt;Security&lt;/f1&gt; page are discussed elsewhere in this book.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T101811Z" creationid="michele" creationdate="20160525T101811Z">
@@ -41743,6 +41871,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T152736Z" creationid="steevie" creationdate="20160620T152449Z">
         <seg>I primi due argomenti per SOMMA.SE hanno lo stesso scopo di quelli di CONTA.SE: l'intervallo e il criterio di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following examples, assume that the data from &lt;t1&gt;Table 25&lt;/t1&gt; is placed in Sheet 1 and the filter criteria in &lt;t2&gt;Table 26&lt;/t2&gt; is placed in &lt;s3/&gt;Sheet 2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T174822Z" creationid="steevie" creationdate="20161130T174822Z">
+        <seg>L'esempio seguente assume che i dati della &lt;t1&gt;Tabella 25&lt;/t1&gt; si trovino sul Foglio 1 ed i criteri filtro di &lt;t2&gt;Tabella 26&lt;/t2&gt; si trovino sul &lt;s3/&gt;Foglio 2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43343,6 +43479,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T134705Z" creationid="steevie" creationdate="20161130T134544Z">
         <seg>Le forme di utilizzo per CONFRONTA sono le seguenti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The syntax for the database functions are identical.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T174502Z" creationid="steevie" creationdate="20161130T174502Z">
+        <seg>La sintassi per le funzioni di database è identica per tutte.</seg>
       </tuv>
     </tu>
     <tu>
