@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23263,6 +23263,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If both the width and height are missing, a cell reference is returned.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T162624Z" creationid="steevie" creationdate="20161130T162520Z">
+        <seg>Se sono omesse entrambe, si ottiene il riferimento ad una cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If cells are set to accept invalid content with a warning, rather than refusing it, you can use &lt;f0&gt;Tools &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Detective &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Mark Invalid Data&lt;/f6&gt; to find the cells with invalid data.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T090648Z" creationid="Elisabetta" creationdate="20160629T090648Z">
@@ -23655,6 +23663,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the height or width are missing, they default to 1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T162744Z" creationid="steevie" creationdate="20161130T162744Z">
+        <seg>Se manca l'altezza o la larghezza, questa ha valore predefinito 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the list of available buttons for a toolbar does not include all the commands you want on that toolbar, you can add commands.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T165631Z" creationid="steevie" creationdate="20160428T165631Z">
@@ -23841,8 +23857,8 @@
       <tuv lang="EN">
         <seg>If the width or height is included, the OFFSET function returns a range.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T161339Z" creationid="steevie" creationdate="20161130T161339Z">
-        <seg>If the width or height is included, the SCARTO function returns a range.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T162603Z" creationid="steevie" creationdate="20161130T161339Z">
+        <seg>Se si include larghezza o altezza, la funzione SCARTO ritorna un intervallo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29451,16 +29467,16 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>OFFSET(reference; rows; columns)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T161339Z" creationid="steevie" creationdate="20161130T161339Z">
-        <seg>SCARTO(reference; rows; columns)</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T162459Z" creationid="steevie" creationdate="20161130T161339Z">
+        <seg>SCARTO(riferimento; righe; colonne)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>OFFSET(reference; rows; columns; height)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T161339Z" creationid="steevie" creationdate="20161130T161339Z">
-        <seg>SCARTO(reference; rows; columns; height)</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T162517Z" creationid="steevie" creationdate="20161130T161339Z">
+        <seg>SCARTO(riferimento; righe; colonne; altezza)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29475,8 +29491,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>OFFSET&lt;ie0/&gt; returns a cell or range offset from another</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T161713Z" creationid="steevie" creationdate="20161130T161225Z">
-        <seg>SCARTO&lt;ie0/&gt; ritorna una cellaa cell or range offset from another</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T162148Z" creationid="steevie" creationdate="20161130T161225Z">
+        <seg>SCARTO&lt;ie0/&gt; ritorna lo spostamento di una cella o intervallo rispetto ad un altro</seg>
       </tuv>
     </tu>
     <tu>
@@ -39732,8 +39748,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The OFFSET function has the following syntax:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T161339Z" creationid="steevie" creationdate="20161130T161339Z">
-        <seg>The SCARTO function has the following syntax:</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T162428Z" creationid="steevie" creationdate="20161130T161339Z">
+        <seg>La funzione SCARTO ha questa sintassi:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40846,6 +40862,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161010T132421Z" creationid="steevie" creationdate="20161010T132421Z">
         <seg>Il primo argomento, &lt;f0&gt;criterio_ricerca&lt;/f0&gt;, identifica il valore da cercare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first argument, specifies the reference point.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T162249Z" creationid="steevie" creationdate="20161130T162249Z">
+        <seg>il primo adgomento indica un punto di riferimento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42263,6 +42287,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161010T140902Z" creationid="steevie" creationdate="20161010T140902Z">
         <seg>Il criterio di ricerca è lo stesso di CERCA.ORIZZ e CERCA.VERT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The second and third arguments specify the number of rows and columns to move from the reference point; in other words, where the new range starts.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T162411Z" creationid="steevie" creationdate="20161130T162411Z">
+        <seg>Il secondo ed il terzo argomento indicano di quante righe e di colonne  spostarsi dal punto di riferimento; in altre parole, dove inizia il nuovo intervallo di riferimento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46893,8 +46925,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>Use OFFSET to return a cell or range offset by a specified number of rows and columns from a given reference point.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T161339Z" creationid="steevie" creationdate="20161130T161252Z">
-        <seg>Use SCARTO to return a cell or range offset by a specified number of rows and columns from a given reference point.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T162229Z" creationid="steevie" creationdate="20161130T161252Z">
+        <seg>Usate SCARTO per restituire una cella o  un intervallo che è distante di un certo numero di righe e colonne da un punto di riferimento dato.</seg>
       </tuv>
     </tu>
     <tu>
