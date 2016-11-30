@@ -8471,6 +8471,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>= DCOUNT (Database,Database field,Search_criteria)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T172730Z" creationid="steevie" creationdate="20161130T172730Z">
+        <seg>= DCOUNT (Database,Database field,Search_criteria)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>="Andy"</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T142256Z" creationid="steevie" creationdate="20160511T142256Z">
@@ -8531,6 +8539,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153922Z" creationid="steevie" creationdate="20160620T153922Z">
         <seg>=COUNTIF(B1:C16; B3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>=DAVERAGE(A1:G16; "Test 2"; Sheet2.A1:G3)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T172238Z" creationid="steevie" creationdate="20161130T172232Z">
+        <seg>=DB.MEDIA(A1:G16; "Test 2"; Sheet2.A1:G3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>=DAVERAGE(A1:G16; 3; Sheet2.A1:G3)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T172240Z" creationid="steevie" creationdate="20161130T172240Z">
+        <seg>=DB.MEDIA(A1:G16; 3; Sheet2.A1:G3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>=DCOUNT(A1:G16; "Test 2"; Sheet2.A1:G3)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T172747Z" creationid="steevie" creationdate="20161130T172726Z">
+        <seg>=DB.CONTA.NUMERI(A1:G16; "Test 2"; Sheet2.A1:G3)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9139,6 +9171,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T152057Z" creationid="Marco Marega" creationdate="20160626T152057Z">
         <seg>Una nota riguardo i &lt;is0/&gt;tassi d'interesse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A number of functions in Calc allow the use of regular expressions: SUMIF, COUNTIF, MATCH, SEARCH, LOOKUP, HLOOKUP, VLOOKUP, DCOUNT, DCOUNTA, DSUM, DPRODUCT, DMAX, DMIN, DAVERAGE, DSTDEV, DSTDEVP, DVAR, DVARP, DGET.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T172242Z" creationid="steevie" creationdate="20161130T172242Z">
+        <seg>A number of functions in Calc allow the use of regular expressions: SUMIF, COUNTIF, MATCH, SEARCH, LOOKUP, HLOOKUP, VLOOKUP, DCOUNT, DCOUNTA, DSUM, DPRODUCT, DMAX, DMIN, DAVERAGE, DSTDEV, DSTDEVP, DVAR, DVARP, DGET.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16455,6 +16495,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DAVERAGE</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T172230Z" creationid="steevie" creationdate="20161130T172230Z">
+        <seg>DB.MEDIA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DAY(number)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T182142Z" creationid="Marco Marega" creationdate="20160817T182142Z">
@@ -16483,6 +16531,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160702T134652Z" creationid="Marco Marega" creationdate="20160702T134652Z">
         <seg>AMMORT.FISSO(costo; valore residuo; vita utile;&lt;f0&gt; &lt;/f0&gt;periodi; mese)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DCOUNT</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T172737Z" creationid="steevie" creationdate="20161130T172714Z">
+        <seg>DB.CONTA.NUMERI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DCOUNT(database; database field; search criteria)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T172742Z" creationid="steevie" creationdate="20161130T172725Z">
+        <seg>DB.CONTA.NUMERI(database; database field; search criteria)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DCOUNTA</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T172719Z" creationid="steevie" creationdate="20161130T172719Z">
+        <seg>DCOUNTA</seg>
       </tuv>
     </tu>
     <tu>
@@ -16635,6 +16707,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T101157Z">
         <seg>Funzioni di database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Database functions in a Calc document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T172046Z" creationid="steevie" creationdate="20161130T172046Z">
+        <seg>Funzioni database in un documento Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32881,6 +32961,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Regardless of where in the formula a function is, the function will start with its name, such as DCOUNT in the example above.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T172731Z" creationid="steevie" creationdate="20161130T172731Z">
+        <seg>Regardless of where in the formula a function is, the function will start with its name, such as DCOUNT in the example above.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regina Henschel</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084431Z">
@@ -33253,6 +33341,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T170518Z" creationid="steevie" creationdate="20161130T170518Z">
         <seg>Ritorna i punteggi di Bianca nei quiz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Return the average of all fields that matches the search criteria.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T172421Z" creationid="steevie" creationdate="20161130T172421Z">
+        <seg>Ritorna la media di tutti i campi che corrispondono al criterio di ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39414,6 +39510,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T171343Z" creationid="steevie" creationdate="20161130T171343Z">
         <seg>Tabella &lt;seq0&gt;28&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;29&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T171956Z" creationid="steevie" creationdate="20161130T171956Z">
+        <seg>Tabella &lt;seq0&gt;29&lt;/seq0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
