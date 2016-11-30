@@ -9103,6 +9103,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A slight modification using MATCH to find the column yields &lt;s1/&gt;&lt;f2&gt;=VLOOKUP("Fred"; A2:G16; MATCH("Average"; A1:G1; 0))&lt;/f2&gt;; notice that the heading is not sorted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T143904Z" creationid="steevie" creationdate="20161130T143904Z">
+        <seg>A slight modification using MATCH to find the column yields &lt;s1/&gt;&lt;f2&gt;=VLOOKUP("Fred"; A2:G16; MATCH("Average"; A1:G1; 0))&lt;/f2&gt;; notice that the heading is not sorted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A small box showing the new color is added to the Color table.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T160118Z" creationid="steevie" creationdate="20160418T160118Z">
@@ -9867,6 +9875,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160701T095129Z" creationid="Elisabetta" creationdate="20160701T095129Z">
         <seg>Di seguito vengono esaminate tutte le opzioni di formattazione.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All of the search functions check the first row to see if there is a match and then ignore it if it does not contain a match, in case the first row is a header.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T143705Z" creationid="steevie" creationdate="20161130T143705Z">
+        <seg>Tutte le funzioni di ricerca controllano la prima riga per vedere se esiste una corrispondenza, se non viene trovata, la prima riga è un'intestazione e viene ignorata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20083,6 +20099,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160827T072940Z" creationid="briga" creationdate="20160827T072940Z">
         <seg>Trovate e selezionate il modello che volete importare e fate clic su &lt;f0&gt;Apri&lt;/f0&gt;&lt;f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Find the column containing Average rather than hard coding the value 6.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T143841Z" creationid="steevie" creationdate="20161130T143841Z">
+        <seg>Find the column containing Average rather than hard coding the value 6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47479,6 +47503,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T102704Z">
         <seg>Cosa sono gli stili?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What if the column heading &lt;f0&gt;Average&lt;/f0&gt; is known, but not the column containing the average?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T143947Z" creationid="steevie" creationdate="20161130T143809Z">
+        <seg>Cosa succed se l'intestazione &lt;f0&gt;Media&lt;/f0&gt; è conosciuta, ma la colonna contenente la media non lo è?</seg>
       </tuv>
     </tu>
     <tu>
