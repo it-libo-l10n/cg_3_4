@@ -10513,8 +10513,8 @@
       <tuv lang="EN">
         <seg>Any text entered is part of the graphic, so if the graphic is moved the text will move with it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T161048Z" creationid="luciano" creationdate="20161130T161039Z">
-        <seg>Qualsiasi testo inserito fa parte dell'immagine, così se si sposta l'immagine il testo di sposterà assieme all'immagine.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T161100Z" creationid="luciano" creationdate="20161130T161039Z">
+        <seg>Qualsiasi testo inserito fa parte dell'immagine, così se si sposta l'immagine il testo si sposterà assieme all'immagine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18507,6 +18507,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161130T155110Z" creationid="luciano" creationdate="20161130T155110Z">
         <seg>Figura &lt;seq0&gt;126&lt;/seq0&gt;: Pagine delle impostazioni di rotazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;127&lt;/seq0&gt;: Position and Size dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T161412Z" creationid="luciano" creationdate="20161130T161412Z">
+        <seg>Figura &lt;seq0&gt;127&lt;/seq0&gt;: Finestra di dialogo Posizione e Dimensione</seg>
       </tuv>
     </tu>
     <tu>
@@ -30325,6 +30333,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T164424Z" creationid="Luciano B." creationdate="20160325T164424Z">
         <seg>Aprire la finestra di dialogo Attributi di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens the dialog shown below where you can change the size, location, rotation, slant and corner radius of the image.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T161342Z" creationid="luciano" creationdate="20161130T161342Z">
+        <seg>Apre la finestra di dialogo mostrata di seguito in cui è possibile modificare la dimensione, posizione, rotazione e angolo di inclinazione dell'immagine.</seg>
       </tuv>
     </tu>
     <tu>
