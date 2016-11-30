@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -30237,6 +30237,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161127T190724Z" creationid="Andrea" creationdate="20161127T190724Z">
         <seg>Apre una finestra di dialogo nella quale e' possibile specificare area di riempimento, bordi, trasparenza, caratteri, effetti tipografici ed altri attributi dell'elemento del diagramma selezionato (vedi pagina &lt;bf0&gt;91&lt;/bf0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens a dialog where you can set the options for text that goes over a picture.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T160651Z" creationid="luciano" creationdate="20161130T160651Z">
+        <seg>Apre una finestra di dialogo in cui è possibile impostare le opzioni per il testo che da scrivere sull'immagine.</seg>
       </tuv>
     </tu>
     <tu>
