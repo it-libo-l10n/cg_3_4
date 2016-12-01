@@ -23473,8 +23473,8 @@
       <tuv lang="EN">
         <seg>If Cell G1 contains the text A2, then this returns &lt;f0&gt;Bob&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T160103Z" creationid="steevie" creationdate="20161130T160103Z">
-        <seg>Se ala cella G1 contiene il testo A2, questo esempio ritorna &lt;f0&gt;Bianca&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161201T141358Z" creationid="steevie" creationdate="20161130T160103Z">
+        <seg>Se la cella G1 contiene il testo A2, questo esempio ritorna &lt;f0&gt;Bianca&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41917,8 +41917,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>The first two arguments for SUMIF serve the same purpose as the arguments for COUNTIF; the range that contains the cells to search and the search criteria.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T152736Z" creationid="steevie" creationdate="20160620T152449Z">
-        <seg>I primi due argomenti per SOMMA.SE hanno lo stesso scopo di quelli di CONTA.SE: l'intervallo e il criterio di ricerca.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161201T140800Z" creationid="steevie" creationdate="20160620T152449Z">
+        <seg>I primi due argomenti per SOMMA.SE hanno lo stesso scopo di quelli di CONTA.SE: l'intervallo contenente le celle in cui effettuare la ricerca ed il criterio di ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43637,8 +43637,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>The third and final argument for SUMIF specifies the range to sum.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T152812Z" creationid="steevie" creationdate="20160620T152812Z">
-        <seg>IL terzo ed ultimo argomento di SOMMA.SE indica l'intervallo da sommare.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161201T140823Z" creationid="steevie" creationdate="20160620T152812Z">
+        <seg>Il terzo ed ultimo argomento di SOMMA.SE indica l'intervallo da sommare.</seg>
       </tuv>
     </tu>
     <tu>
