@@ -3408,8 +3408,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;sName$&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;"MyNRange"&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T141141Z" creationid="steevie" creationdate="20160504T141141Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;sName$&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;"MyNRange"&lt;/f7&gt;&lt;/f6&gt;</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161201T150715Z" creationid="steevie" creationdate="20160504T141141Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;sName$&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;"MioRangeConNome"&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11025,8 +11025,8 @@
       <tuv lang="EN">
         <seg>Associating a range with a name</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160206T083646Z">
-        <seg>Associare un nome ad un intervallo di celle.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161201T150241Z">
+        <seg>Associare un nome ad un intervallo di celle</seg>
       </tuv>
     </tu>
     <tu>
@@ -17689,8 +17689,8 @@
       <tuv lang="EN">
         <seg>Each cell corresponds to a single field in a database record.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160503T151025Z" creationid="steevie" creationdate="20160503T151025Z">
-        <seg>Ogni cella rappresenta un singolo campo rel record di un database.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161201T150147Z" creationid="steevie" creationdate="20160503T151025Z">
+        <seg>Ogni cella rappresenta un singolo campo del record di un database.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50917,8 +50917,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>You can associate a meaningful name to a range, which allows you to refer to the range using the meaningful name.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160503T152447Z" creationid="steevie" creationdate="20160503T152447Z">
-        <seg>Si può associare un nome significativo a un intervallo, permettendo così di usare il nome per riferirsi all'intervallo.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161201T150300Z" creationid="steevie" creationdate="20160503T152447Z">
+        <seg>Potete associare un nome significativo a un intervallo, permettendo così di usare il nome per riferirsi all'intervallo.</seg>
       </tuv>
     </tu>
     <tu>
