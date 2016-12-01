@@ -15897,8 +15897,8 @@
       <tuv lang="EN">
         <seg>Count and sum cells that match conditions: &lt;is0/&gt;COUNTIF&lt;ie1/&gt; and &lt;is2/&gt;SUMIF</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151957Z" creationid="steevie" creationdate="20160620T151957Z">
-        <seg>Conta e somma celle in base a determinate condizioni&lt;is0/&gt;COUNTA.SE&lt;ie1/&gt; e &lt;is2/&gt;SOMMA.SE</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161201T161025Z" creationid="steevie" creationdate="20160620T151957Z">
+        <seg>Conta e somma celle in base a determinate condizioni&lt;is0/&gt;CONTA.SE&lt;ie1/&gt; e &lt;is2/&gt;SOMMA.SE</seg>
       </tuv>
     </tu>
     <tu>
@@ -41796,8 +41796,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The first argument to COUNTIF specifies the range to search and second argument is the search criteria.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T152519Z" creationid="steevie" creationdate="20160620T152431Z">
-        <seg>Il primo argomento di CERCA.SE induca l'intervallo di ricerca e il secondo il criterio.</seg>
+      <tuv lang="IT-IT" changeid="steevie" changedate="20161201T161120Z" creationid="steevie" creationdate="20160620T152431Z">
+        <seg>Il primo argomento di CONTA.SE indica l'intervallo di ricerca e il secondo il criterio.</seg>
       </tuv>
     </tu>
     <tu>
