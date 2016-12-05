@@ -4014,6 +4014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Chart Floor&lt;/f0&gt;&lt;f1&gt; and &lt;/f1&gt;&lt;f2&gt;3D View&lt;/f2&gt;&lt;f3&gt; are only available for a 3D chart.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161205T164113Z" creationid="Andrea" creationdate="20161205T164113Z">
+        <seg>&lt;f0&gt;Fondo del Diagramma&lt;/f0&gt;&lt;f1&gt; e &lt;/f1&gt;&lt;f2&gt;Vista 3D &lt;/f2&gt;&lt;f3&gt; sono disponibili solo per un diagramma tridimensionale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Cho&lt;/f0&gt;ose &lt;f1&gt;View &gt; Toolbars &gt; Customize&lt;/f1&gt; from t&lt;f2&gt;he menu bar.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164839Z" creationid="steevie" creationdate="20160428T164839Z">
@@ -25855,6 +25863,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In most cases you need to select the exact element you want to format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161205T164405Z" creationid="Andrea" creationdate="20161205T164405Z">
+        <seg>Nella maggior parte dei casi dovete scegliere l'elemento esatto che volete formattare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In most cases, you can interact only with the dialog (not the document itself) as long as the dialog remains open.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084336Z">
@@ -44127,6 +44143,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T172344Z" creationid="Elisabetta" creationdate="20160722T172344Z">
         <seg>Queste modifiche non cambiano il tema, ma solo l'aspetto del foglio elettronico attivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These options are unavailable (grayed out) if a 2D chart is selected.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161205T164309Z" creationid="Andrea" creationdate="20161205T164309Z">
+        <seg>Queste opzioni non sono disponibili (non selezionabili) se viene scelto un diagramma bidimensionale.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
