@@ -10263,6 +10263,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allows editing of the points of a selected polygon.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161207T171730Z" creationid="luciano" creationdate="20161207T171730Z">
+        <seg>Permette di modificare i punti di un poligono selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Also prevents changes to the settings described in this section while the sheet is protected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T150840Z" creationid="michele" creationdate="20160531T150840Z">
@@ -31347,24 +31355,32 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Opens the Basic Shapes toolbar.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161207T171139Z" creationid="luciano" creationdate="20161207T171139Z">
-        <seg>Apre la Barra degli strument Forme base.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161207T171535Z" creationid="luciano" creationdate="20161207T171139Z">
+        <seg>Apre la barra degli strument Forme base.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Opens the Block Arrows toolbar of shapes.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161207T171318Z" creationid="luciano" creationdate="20161207T171318Z">
-        <seg>Apre la Barra degli strumenti delle forme Frecce blocchi.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161207T171504Z" creationid="luciano" creationdate="20161207T171318Z">
+        <seg>Apre la barra degli strumenti delle forme Frecce blocchi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens the Callouts toolbar of shapes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161207T171603Z" creationid="luciano" creationdate="20161207T171603Z">
+        <seg>Apre la barra degli strumenti delle forme Legende.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Opens the Flowchart toolbar of shapes.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161207T171437Z" creationid="luciano" creationdate="20161207T171437Z">
-        <seg>Apre la Barra degli strumenti delle forme Diagrammi di flusso.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161207T171511Z" creationid="luciano" creationdate="20161207T171437Z">
+        <seg>Apre la barra degli strumenti delle forme Diagrammi di flusso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31401,6 +31417,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens the Stars toolbar of shapes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161207T171629Z" creationid="luciano" creationdate="20161207T171629Z">
+        <seg>Apre la barra degli strumenti delle forme Stelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opens the Styles and Formatting window</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160504T140952Z" creationid="luciano" creationdate="20160504T140952Z">
@@ -31419,8 +31443,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Opens the Symbol Shapes toolbar.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161207T171211Z" creationid="luciano" creationdate="20161207T171211Z">
-        <seg>Apre la Barra degli strument Forme simboli.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161207T171526Z" creationid="luciano" creationdate="20161207T171211Z">
+        <seg>Apre la barra degli strument Forme simboli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32157,6 +32181,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090328Z">
         <seg>Per commenti o suggerimenti su questo documento rivolgersi a:&lt;f0&gt; &lt;/f0&gt;&lt;a1&gt;documentation@global.libreoffice.org&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Points</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161207T171637Z" creationid="luciano" creationdate="20161207T171637Z">
+        <seg>Punti</seg>
       </tuv>
     </tu>
     <tu>
@@ -39653,6 +39685,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T144032Z" creationid="luciano" creationdate="20160509T144032Z">
         <seg>Formato percentuale standard (due cifre decimali)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stars</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161207T171612Z" creationid="luciano" creationdate="20161207T171612Z">
+        <seg>Stelle</seg>
       </tuv>
     </tu>
     <tu>
