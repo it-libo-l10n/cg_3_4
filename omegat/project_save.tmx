@@ -11551,6 +11551,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Behavior</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161207T170252Z" creationid="luciano" creationdate="20161207T170252Z">
+        <seg>Funzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Below, in cell E6, is the value 100 and in cell E7 the value 200.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T151057Z" creationid="steevie" creationdate="20160428T151057Z">
@@ -17643,6 +17651,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T164015Z">
         <seg>Oggetti di disegno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Draws a line.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161207T170430Z" creationid="luciano" creationdate="20161207T170430Z">
+        <seg>Disegna una linea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Draws a rectangle.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161207T170454Z" creationid="luciano" creationdate="20161207T170454Z">
+        <seg>Disegna un rettangolo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28152,6 +28176,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Line</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161207T170416Z" creationid="luciano" creationdate="20161207T170416Z">
+        <seg>Linea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Linked with</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160616T192151Z" creationid="briga" creationdate="20160616T192151Z">
@@ -33273,6 +33305,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rectangle</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161207T170440Z" creationid="luciano" creationdate="20161207T170440Z">
+        <seg>Rettangolo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Refer to the application Help or the &lt;/f3&gt;&lt;f4&gt;LibreOffice&lt;/f4&gt;&lt;f5&gt; wiki for details and examples of all functions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="akurery" changedate="20160625T070724Z" creationid="akurery" creationdate="20160625T070724Z">
@@ -37025,6 +37065,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161207T170354Z" creationid="luciano" creationdate="20161207T170354Z">
+        <seg>Seleziona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f0&gt;Data &gt; Filter &gt; &lt;/f0&gt;&lt;f1&gt;Advanced Filter&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T163904Z" creationid="Elisabetta" creationdate="20160725T163904Z">
@@ -37917,6 +37965,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160504T161035Z" creationid="luciano" creationdate="20160504T161035Z">
         <seg>Seleziona tutte le celle che contengono i dati dalla cella corrente fino al termine dell'intervallo di celle di dati, in direzione della freccia premuta.&lt;f0&gt; &lt;/f0&gt;Se si utilizza per selezionare assieme righe e colonne, viene selezionato un intervallo rettangolare di celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selects objects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161207T170410Z" creationid="luciano" creationdate="20161207T170410Z">
+        <seg>Seleziona oggetti.</seg>
       </tuv>
     </tu>
     <tu>
