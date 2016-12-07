@@ -10895,6 +10895,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Arc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161207T173127Z" creationid="luciano" creationdate="20161207T173127Z">
+        <seg>Arco</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Areas</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T163734Z" creationid="Luciano B." creationdate="20160325T163734Z">
@@ -17735,10 +17743,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Draws a smooth Bézier curve.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161207T173121Z" creationid="luciano" creationdate="20161207T173121Z">
+        <seg>Disegna una curva di Bézier liscia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Draws a text box with no border.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161207T170925Z" creationid="luciano" creationdate="20161207T170925Z">
         <seg>Disegna una casella di testo senza il bordo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Draws an arc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161207T173135Z" creationid="luciano" creationdate="20161207T173135Z">
+        <seg>Disegna un arco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18131,6 +18155,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161207T170605Z" creationid="luciano" creationdate="20161207T170605Z">
         <seg>Ellisse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ellipse Pie</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161207T173231Z" creationid="luciano" creationdate="20161207T173231Z">
+        <seg>Settore di ellisse</seg>
       </tuv>
     </tu>
     <tu>
