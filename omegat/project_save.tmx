@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12467,6 +12467,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T162028Z">
         <seg>Calc lavora con elementi chiamati &lt;i0/&gt;&lt;f1&gt;fogli elettronici o fogli di lavoro&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calc, like the other components of &lt;f0&gt;LibreOffice&lt;/f0&gt;, has a range of tools to create custom drawings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161207T164657Z" creationid="luciano" creationdate="20161207T164657Z">
+        <seg>Calc, come le altri componenti di &lt;f0&gt;LibreOffice&lt;/f0&gt;, ha una gamma di strumenti per creare disegni personalizzati.</seg>
       </tuv>
     </tu>
     <tu>
