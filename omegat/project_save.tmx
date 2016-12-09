@@ -23369,8 +23369,8 @@
       <tuv lang="EN">
         <seg>Hold down the &lt;f0&gt;Shift&lt;/f0&gt; key to position new points at 45 degree angles.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161207T173041Z" creationid="luciano" creationdate="20161207T173041Z">
-        <seg>Tenere premuto il tasto &lt;f0&gt;Maiusc&lt;/f0&gt; per posizionare un nuovo punto on un angolo di 45 gradi.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161209T162608Z" creationid="luciano" creationdate="20161207T173041Z">
+        <seg>Tenete premuto il tasto &lt;f0&gt;Maiusc&lt;/f0&gt; per posizionare un nuovo punto con un angolo di 45 gradi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38065,6 +38065,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the tool from the &lt;is0/&gt;Drawing toolbar&lt;ie1/&gt; (&lt;t2&gt;Figure 128&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161209T162824Z" creationid="luciano" creationdate="20161209T162824Z">
+        <seg>Selezionate lo strumento dalla &lt;is0/&gt;Barra degli strumenti di disegno&lt;ie1/&gt; (&lt;t2&gt;Figura 128&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the top border.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T144926Z" creationid="steevie" creationdate="20160509T144926Z">
@@ -46501,8 +46509,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>To display other icons, click the down-arrow at the right-hand end of the toolbar, select &lt;f0&gt;Visible Buttons&lt;/f0&gt;, and then choose the tools you want to appear on the toolbar.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161207T172429Z" creationid="luciano" creationdate="20161207T172429Z">
-        <seg>Per visualizzare le altre icone, fare clic sulla freccia in basso alla fine a destra della barra degli strumenti, selezionare &lt;f0&gt;Pulsanti visibili&lt;/ f0&gt;, e scegliere gli strumenti che si desiderano visualizzare sulla barra degli strumenti.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161209T162546Z" creationid="luciano" creationdate="20161207T172429Z">
+        <seg>Per visualizzare le altre icone, fate clic sulla freccia in basso alla fine a destra della barra degli strumenti, selezionare &lt;f0&gt;Pulsanti visibili&lt;/ f0&gt;, e scegliete gli strumenti desiderate visualizzare sulla barra degli strumenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46605,8 +46613,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>To draw a circle pie, hold down &lt;f0&gt;Shift&lt;/f0&gt; while you drag.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161209T154429Z" creationid="luciano" creationdate="20161209T154054Z">
-        <seg>Per disegnare un settore di cerchio, tenere premuto il tasto &lt;f0&gt;Maiusc&lt;/f0&gt; mentre si disegna.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161209T162709Z" creationid="luciano" creationdate="20161209T154054Z">
+        <seg>Per disegnare un settore di cerchio, tenete premuto il tasto &lt;f0&gt;Maiusc&lt;/f0&gt; mentre disegnate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46629,8 +46637,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>To draw an ellipse segment, hold down &lt;f0&gt;Shift&lt;/f0&gt; while you drag.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161209T154449Z" creationid="luciano" creationdate="20161209T154332Z">
-        <seg>Per disegnare un segmento elittico, tenere premuto il tasto &lt;f0&gt;Maiusc&lt;/f0&gt; mentre si disegna.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161209T162643Z" creationid="luciano" creationdate="20161209T154332Z">
+        <seg>Per disegnare un segmento elittico, tenete premuto il tasto &lt;f0&gt;Maiusc&lt;/f0&gt; mentre disegnate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51663,6 +51671,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160405T161218Z">
         <seg>È possibile modificare l'azione associata all'icona &lt;f0&gt;Stampa direttamente il file&lt;/f0&gt; per inviare il documento alla stampante predefinita per il documento invece che alla stampante predefinita del computer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change the anchor later, if necessary.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161209T162724Z" creationid="luciano" creationdate="20161209T162724Z">
+        <seg>Potete modificare l'ancoraggio in seguito, se necessario.</seg>
       </tuv>
     </tu>
     <tu>
