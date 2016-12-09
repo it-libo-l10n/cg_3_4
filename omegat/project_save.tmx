@@ -10919,6 +10919,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Area Style / Filling</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161209T165212Z" creationid="luciano" creationdate="20161209T165212Z">
+        <seg>Stile di riempimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Areas</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T163734Z" creationid="Luciano B." creationdate="20160325T163734Z">
@@ -10971,6 +10979,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T101208Z">
         <seg>Funzioni delle matrici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Arrow Style</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161209T165153Z" creationid="luciano" creationdate="20161209T165153Z">
+        <seg>Stile estremità linea</seg>
       </tuv>
     </tu>
     <tu>
@@ -11779,6 +11795,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T164616Z" creationid="steevie" creationdate="20161130T164616Z">
         <seg>Scomposizione del &lt;t1&gt;Listato 20&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bring to Front</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161209T165159Z" creationid="luciano" creationdate="20161209T165159Z">
+        <seg>Porta in primo piano</seg>
       </tuv>
     </tu>
     <tu>
@@ -13355,6 +13379,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160526T130141Z" creationid="steevie" creationdate="20160526T130141Z">
         <seg>Le celle posso essere nascoste usando una struttura, un filtro dati o il comando nascondi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change Anchor</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161209T165146Z" creationid="luciano" creationdate="20161209T165146Z">
+        <seg>Cambia l'ancoraggio</seg>
       </tuv>
     </tu>
     <tu>
@@ -19283,6 +19315,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161207T170025Z" creationid="luciano" creationdate="20161207T170025Z">
         <seg>Figura &lt;seq0&gt;128&lt;/seq0&gt;: La Barra degli strumenti per disegno mostra le icone predefinite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;129&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161209T165441Z" creationid="luciano" creationdate="20161209T165441Z">
+        <seg>Figura &lt;seq0&gt;129&lt;/seq0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28440,6 +28480,22 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Line Style</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161209T165204Z" creationid="luciano" creationdate="20161209T165204Z">
+        <seg>Stile linea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Line Width</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161209T165221Z" creationid="luciano" creationdate="20161209T165221Z">
+        <seg>Spessore linea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Linked with</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160616T192151Z" creationid="briga" creationdate="20160616T192151Z">
@@ -36329,6 +36385,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rotate</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161209T165229Z" creationid="luciano" creationdate="20161209T165229Z">
+        <seg>Ruota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rotating&lt;i0/&gt; a picture</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161129T171944Z" creationid="luciano" creationdate="20161129T171944Z">
@@ -38405,6 +38469,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161009T210456Z" creationid="Andrea" creationdate="20161009T210456Z">
         <seg>Seleziona il separatore tra diverse stringhe di testo per lo stesso oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Send to Back</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161209T165218Z" creationid="luciano" creationdate="20161209T165218Z">
+        <seg>Porta in fondo</seg>
       </tuv>
     </tu>
     <tu>
@@ -46127,6 +46199,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T104808Z" creationid="michele" creationdate="20160525T104808Z">
         <seg>Alla Cella A1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To Foreground / To Background</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161209T165430Z" creationid="luciano" creationdate="20161209T165430Z">
+        <seg>In primo piano / Sullo sfondo</seg>
       </tuv>
     </tu>
     <tu>
