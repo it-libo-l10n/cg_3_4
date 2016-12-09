@@ -42250,6 +42250,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The defaults apply to all the drawing objects except text objects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161209T164606Z" creationid="luciano" creationdate="20161209T164606Z">
+        <seg>Le impostazioni predefinite si applicano a tutti gli oggetti di disegno, tranne gli oggetti di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The defined scenarios are listed, along with the comments that were entered when the scenarios were created.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T160122Z" creationid="michele" creationdate="20160531T160122Z">
@@ -44867,6 +44875,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They are not retained when you close the document, and they do not apply to any other document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161209T164718Z" creationid="luciano" creationdate="20161209T164510Z">
+        <seg>Non vengono mantenute quando chiudete il documento, e non si applicano a qualsiasi altro documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They are strictly for online use, and do not print.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160723T162948Z" creationid="Elisabetta" creationdate="20160723T162948Z">
@@ -46295,6 +46311,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161102T184945Z" creationid="Andrea" creationdate="20161102T184945Z">
         <seg>Per modificare le proprieta' della linea, selezionate la linea di tendenza e scegliete &lt;f0&gt;Formato della Linea di Tendenza&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change the properties for an existing drawing object, select the object and continue as described above.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161209T164658Z" creationid="luciano" creationdate="20161209T164658Z">
+        <seg>Per modificare le proprietà di un oggetto di disegno esistente, selezionate l'oggetto e continuate come descritto sopra.</seg>
       </tuv>
     </tu>
     <tu>
