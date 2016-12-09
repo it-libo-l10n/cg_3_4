@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Some tools have other requirements; see the Help or the &lt;f0&gt;Draw Guide&lt;/f0&gt; for details.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161209T163353Z" creationid="luciano" creationdate="20161209T163353Z">
+        <seg>(Alcuni strumenti hanno altri requisiti; per maggiori dettagli fate riferimento all'Aiuto o alla &lt;f0&gt;Guida di Draw&lt;/f0&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(The &lt;/f13&gt;&lt;is14/&gt;&lt;f15&gt;Apply Style list&lt;/f15&gt;&lt;ie16/&gt;&lt;f17&gt; may not be visible by default.) Click the down-arrow to the right of each box to open the list.&lt;/f17&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T145333Z" creationid="michele" creationdate="20160414T145333Z">
@@ -44027,6 +44035,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The selected drawing function remains active, so you can draw another object of the same type.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161209T163424Z" creationid="luciano" creationdate="20161209T163424Z">
+        <seg>La funzione di disegno selezionata rimane attiva, per poter inserire un altro oggetto dello stesso tipo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The selected range is added to the &lt;f1&gt;Consolidation ranges&lt;/f1&gt; list.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160526T152740Z" creationid="michele" creationdate="20160526T152740Z">
@@ -46183,6 +46199,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T082715Z" creationid="michele" creationdate="20160608T082559Z">
         <seg>Per calcolare il profitto, per prima cosa inserite un numero come quantità (oggetti venduti); in questo esempio, 2000 (cella B4).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To cancel the selected drawing function, press the &lt;f0&gt;Esc&lt;/f0&gt; key or click on the &lt;f1&gt;Select&lt;/f1&gt; icon (the arrow) on the Drawing toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161209T163453Z" creationid="luciano" creationdate="20161209T163453Z">
+        <seg>Per disattivare la funzione selezionata premete il tasto &lt;f0&gt;Esc&lt;/f0&gt; oppure fate clic sull'icona &lt;f1&gt;Seleziona&lt;/f1&gt; (la freccia) sulla barra degli strumenti Disegno.</seg>
       </tuv>
     </tu>
     <tu>
