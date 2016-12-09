@@ -6454,6 +6454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Set or change &lt;/f0&gt;&lt;is1/&gt;&lt;f2&gt;properties&lt;/f2&gt;&lt;ie3/&gt;&lt;f4&gt; for drawing objects&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161209T163935Z" creationid="luciano" creationdate="20161209T163935Z">
+        <seg>&lt;f0&gt;Impostare o modificare le &lt;/f0&gt;&lt;is1/&gt;&lt;f2&gt;proprietà&lt;/f2&gt;&lt;ie3/&gt;&lt;f4&gt; degli oggetti di disegno&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Shift&lt;/f0&gt;+&lt;f1&gt;z&lt;/f1&gt;+&lt;f2&gt;F5&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084253Z">
@@ -30913,6 +30921,22 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the Drawing Object Properties toolbar (&lt;t0&gt;Figure 129&lt;/t0&gt;), click on the icon for each property and select the value you want for that property.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161209T164136Z" creationid="luciano" creationdate="20161209T164136Z">
+        <seg>Sulla barra degli strumenti Proprietà oggetto di disegno (&lt;t0&gt;Figura 129&lt;/t0&gt;), fate clic sull'icona per ciascuna proprietà e selezionate il valore desiderato per quella proprietà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Drawing toolbar (&lt;t0&gt;Figure 128&lt;/t0&gt;), click the &lt;f1&gt;Select&lt;/f1&gt; tool.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161209T164113Z" creationid="luciano" creationdate="20161209T164113Z">
+        <seg>Sulla barra degli strumenti Disegno (&lt;t0&gt;Figura 128&lt;/t0&gt;), fate clic sullo strumento &lt;f1&gt;Seleziona&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the Export dialog, specify a file name for the exported document, then select the XHTML in the &lt;f4&gt;File format&lt;/f4&gt; list and click the &lt;f5&gt;Export&lt;/f5&gt; button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T151511Z" creationid="Luciano B." creationdate="20160329T151511Z">
@@ -46557,8 +46581,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>To display other icons, click the down-arrow at the right-hand end of the toolbar, select &lt;f0&gt;Visible Buttons&lt;/f0&gt;, and then choose the tools you want to appear on the toolbar.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161209T162546Z" creationid="luciano" creationdate="20161207T172429Z">
-        <seg>Per visualizzare le altre icone, fate clic sulla freccia in basso alla fine a destra della barra degli strumenti, selezionare &lt;f0&gt;Pulsanti visibili&lt;/ f0&gt;, e scegliete gli strumenti desiderate visualizzare sulla barra degli strumenti.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161209T164005Z" creationid="luciano" creationdate="20161207T172429Z">
+        <seg>Per visualizzare le altre icone, fate clic sulla freccia in basso alla fine a destra della barra degli strumenti, selezionare &lt;f0&gt;Pulsanti visibili&lt;/f0&gt;, e scegliete gli strumenti desiderate visualizzare sulla barra degli strumenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47663,6 +47687,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T141422Z" creationid="Marco Marega" creationdate="20160730T141333Z">
         <seg>Per impostare il formato di data predefinito utilizzato da Calc, andate in &lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Strumenti&gt; Opzioni&gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;LibreOffice&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; LibreOffice Calc &gt; Calcola&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To set the properties for a drawing object before you draw it:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161209T164053Z" creationid="luciano" creationdate="20161209T164053Z">
+        <seg>Per impostare le proprietà di un oggetto di disegno prima di crearlo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -52159,6 +52191,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T154435Z" creationid="Elisabetta" creationdate="20160726T154435Z">
         <seg>Potete spostarvi tra le occorrenze mediante il pulsante &lt;f0&gt;Cerca&lt;/f0&gt;, oppure evidenziare tutte le celle corrispondenti simultaneamente grazie al pulsante &lt;f1&gt;Cerca tutto&lt;/f1&gt;, quindi applicare un diverso formato o sostituire il contenuto delle celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can now change the properties (fill color, line type and weight, anchoring, and others) of the drawing object using either the &lt;is0/&gt;Drawing Object Properties toolbar&lt;ie1/&gt; (&lt;t2&gt;Figure 129&lt;/t2&gt;) or the choices and dialog boxes reached by right-clicking on the drawing object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161209T163901Z" creationid="luciano" creationdate="20161209T163901Z">
+        <seg>È ora possibile modificare le proprietà (colore di riempimento, tipo di linea e il spessore, l'ancoraggio, e altri) dell'oggetto disegnato utilizzando la &lt;is0/&gt;barra degli strumenti Proprietà oggetto di disegno&lt;ie1/&gt; (&lt;t2&gt;Figura 129&lt;/t2&gt;) o le scelte e le finestre di dialogo raggiungibili facendo clic destro sull'oggetto del disegno.</seg>
       </tuv>
     </tu>
     <tu>
