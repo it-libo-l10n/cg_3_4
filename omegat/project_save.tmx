@@ -11839,6 +11839,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Brings the image one level up in the stack (z‑axis).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T140628Z" creationid="luciano" creationdate="20161212T140628Z">
+        <seg>Innalza l'immagine di un livello nella pila (sull'asse z).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bruce Byfield</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084425Z">
@@ -17347,6 +17355,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T122139Z" creationid="michele" creationdate="20160525T122139Z">
         <seg>A seconda del file usato e del tipo di dato inserito, selezionare una direzione diversa può essere utile.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Depending on the number of overlapping objects, you may need to apply this option several times to obtain the desired result.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T140638Z" creationid="luciano" creationdate="20161212T140638Z">
+        <seg>A seconda del numero di oggetti sovrapposti, per ottenere il risultato desiderato potrebbe essere necessario ripetere l'operazione più volte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38601,10 +38617,26 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Send Backward</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T140644Z" creationid="luciano" creationdate="20161212T140644Z">
+        <seg>Porta più indietro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Send to Back</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161209T165218Z" creationid="luciano" creationdate="20161209T165218Z">
         <seg>Porta in fondo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sends the selected graphic to the bottom of the stack, so that other graphics and text cover it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T140704Z" creationid="luciano" creationdate="20161212T140704Z">
+        <seg>Posiziona l'immagine selezionata in basso nella pila, al di sotto di tutte le altre immagini e del testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43595,6 +43627,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The opposite of Bring Forward; sends the selected image one level down in the object stack.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T140654Z" creationid="luciano" creationdate="20161212T140654Z">
+        <seg>Funzione opposta di Porta più avanti; abbassa di un livello l'oggetto grafico selezionato rispetto agli altri nella pila.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The optional &lt;f3&gt;cell_text&lt;/f3&gt; argument is the text displayed in the cell.&lt;f4&gt; &lt;/f4&gt;If the &lt;f5&gt;cell_text&lt;/f5&gt; parameter is not specified, the &lt;f6&gt;URL&lt;/f6&gt; is displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T081339Z" creationid="Marco Marega" creationdate="20160821T081339Z">
@@ -46335,6 +46375,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T154637Z" creationid="Luciano B." creationdate="20160329T154637Z">
         <seg>Per&lt;i0/&gt; inviare il documento corrente nel formato OpenDocument:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To Background and To Foreground</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T140728Z" creationid="luciano" creationdate="20161212T140728Z">
+        <seg>Sullo sfondo e In primo piano</seg>
       </tuv>
     </tu>
     <tu>
