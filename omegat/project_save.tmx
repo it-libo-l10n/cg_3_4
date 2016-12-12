@@ -30587,8 +30587,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Note that the anchor symbol and the XXX have moved down to cell B4.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T145408Z" creationid="luciano" creationdate="20161212T145408Z">
-        <seg>Da notare che il simbolo dell'ancoraggio e le XXX sis sono spostate soto alla cella B4&lt;/f3&gt;</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T151235Z" creationid="luciano" creationdate="20161212T145408Z">
+        <seg>Da notare che il simbolo dell'ancoraggio e le XXX si sono spostate sotto alla cella B4&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -44631,6 +44631,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20160813T105236Z" creationid="Andrea" creationdate="20160813T105236Z">
         <seg>Il caso di utilizzo piu' semplice e piu' frequente e' l'analisi di un elenco in un foglio di calcolo Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The six options include three for aligning the graphics horizontally (left, center, right) and three for aligning the graphics vertically (top, center, bottom).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T151212Z" creationid="luciano" creationdate="20161212T151042Z">
+        <seg>Le sei opzioni comprendono tre per l'allineamento orizzontale (A sinistra, Centrato, A destra) e tre per l'allineamento verticale (In alto, Al centro, In basso).</seg>
       </tuv>
     </tu>
     <tu>
