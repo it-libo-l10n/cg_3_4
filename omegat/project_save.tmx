@@ -4830,6 +4830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Frame:&lt;/f0&gt; where the target of the hyperlink will open: pick among &lt;f1&gt;_blank&lt;/f1&gt; (opens in a new browser window), &lt;f2&gt;_self&lt;/f2&gt; (opens in the active browser window), &lt;f3&gt;_top&lt;/f3&gt; or &lt;f4&gt;_parent&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T153647Z" creationid="luciano" creationdate="20161212T153647Z">
+        <seg>&lt;f0&gt;Frame:&lt;/f0&gt; dove desiderate si apra la destinazione del collegamento ipertestuale: scegliete tra _blank (apertura in una nuova finestra del browser), _self (apertura nella finestra attiva del browser), _top or _parent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;From Calc 3.4, you can choose colors for the different sheet tabs.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T085343Z" creationid="michele" creationdate="20160524T085343Z">
@@ -6806,6 +6814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Text&lt;/f0&gt;: type the text that you want to be displayed when the mouse pointer is moved over the hotspot.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T153625Z" creationid="luciano" creationdate="20161212T153625Z">
+        <seg>&lt;f0&gt;Testo&lt;/f0&gt;: digitate il testo da mostrare quando il puntatore del mouse passa sopra l'hotspot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Text_1; text_2; ... text_30&lt;/f0&gt; are text passages that are to be combined into one string.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T143052Z" creationid="Marco Marega" creationdate="20160822T143052Z">
@@ -6938,6 +6954,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="mauri" changedate="20160226T193307Z">
         <seg>&lt;f0&gt;Il termine &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;grafici&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; si riferisce sia alle immagini che agli oggetti grafici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The value &lt;/f0&gt;&lt;f1&gt;_self&lt;/f1&gt;&lt;f2&gt; for the target frame will work just fine in the vast majority of occasions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T153819Z" creationid="luciano" creationdate="20161212T153819Z">
+        <seg>&lt;f0&gt;Il valore &lt;/f0&gt;&lt;f1&gt;_self&lt;/f1&gt;&lt;f2&gt; per il frame di destinazione dovrebbe funzionare nella maggior parte dei casi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52359,6 +52383,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T122730Z" creationid="michele" creationdate="20160524T122730Z">
         <seg>Inoltre è possibile aprire un documento esistente in uno dei seguenti modi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also point to an anchor in a document; to do this, write the address in this format: &lt;f1&gt;file:///&lt;path&gt;/document_name#anchor_name&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T153608Z" creationid="luciano" creationdate="20161212T153608Z">
+        <seg>È anche possibile puntare a un ancoraggio presente in un documento; per fare ciò, è sufficiente scrivere l'indirizzo in questo formato: &lt;f1&gt;file:///&lt;percorso&gt;/nome_documento#nome_ancora&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
