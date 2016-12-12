@@ -22127,6 +22127,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more control of the size of the object, use the Position and Size dialog (see “&lt;bf0&gt;Position and Size&lt;/bf0&gt;” on page &lt;bf1&gt;134&lt;/bf1&gt;) to set the width and height independently.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T110341Z" creationid="luciano" creationdate="20161212T110341Z">
+        <seg>Per un maggiore controllo delle dimensioni dell'oggetto, utilizzare la finestra di dialogo Posizione e dimensione (vedere "&lt;bf0&gt;Posizione e dimensione&lt;/bf0&gt;" a pagina &lt;bf1&gt;134&lt;/bf1&gt;) per impostare la larghezza e l'altezza in modo indipendente..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more control or to select other number formats, use the &lt;f0&gt;Numbers&lt;/f0&gt; tab (&lt;t1&gt;Figure 54&lt;/t1&gt;) of the Format Cells dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160721T150247Z" creationid="Elisabetta" creationdate="20160718T170352Z">
@@ -23035,6 +23043,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161130T163943Z" creationid="luciano" creationdate="20161130T163943Z">
         <seg>Raggruppare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Grouping drawing objects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T110606Z" creationid="luciano" creationdate="20161212T110606Z">
+        <seg>Raggruppare oggetti di disegno</seg>
       </tuv>
     </tu>
     <tu>
@@ -24443,6 +24459,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T133813Z" creationid="Marco Marega" creationdate="20160823T133813Z">
         <seg>Se il &lt;f1&gt;numero&lt;/f1&gt; è pari, il fattoriale viene calcolato come segue: n*(N-2)*(n-4)*...*4*2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the &lt;f2&gt;Keep ratio &lt;/f2&gt;&lt;f3&gt;option&lt;/f3&gt; is selected, then the two dimensions change so that the proportion is maintained, allowing for a scaled resizing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T110551Z" creationid="luciano" creationdate="20161212T110551Z">
+        <seg>Se l'opzione &lt;f2&gt;Mantieni rapporto&lt;/f2&gt;&lt;f3&gt; è&lt;/f3&gt; selezionata, le due dimensioni cambiano in modo proporzionale, permettendo un ridimensionamento in scala.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47083,6 +47107,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To group drawing objects:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T110615Z" creationid="luciano" creationdate="20161212T110615Z">
+        <seg>Per raggruppare oggetti di disegno:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To group images:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161130T164003Z" creationid="luciano" creationdate="20161130T164003Z">
@@ -54327,6 +54359,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20161002T181711Z" creationid="emanuelegiusti" creationdate="20160626T123935Z">
         <seg>griglie dei grafici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>grouping</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T110559Z" creationid="luciano" creationdate="20161212T110559Z">
+        <seg>raggruppamento</seg>
       </tuv>
     </tu>
     <tu>
