@@ -5262,6 +5262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;If two rows are inserted above the pictures, the picture anchored to a cell will shift down two rows and the anchor will change.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T145046Z" creationid="luciano" creationdate="20161212T145046Z">
+        <seg>&lt;f0&gt;Se si inseriscono due righe sopra le immagini, l'immagine ancorata alla cella si sposterà di due righe e l'ancora cambierà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If you choose &lt;/f0&gt;&lt;f1&gt;-new document-&lt;/f1&gt;&lt;f2&gt; as the location, a new spreadsheet will be created.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T135202Z" creationid="michele" creationdate="20160525T135202Z">
@@ -43859,6 +43867,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The picture anchored to the page will not move.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T145132Z" creationid="luciano" creationdate="20161212T145132Z">
+        <seg>L'immagine ancorata alla pagina non si muoverà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The picture on the right is anchored to the page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161212T144826Z" creationid="luciano" creationdate="20161212T144826Z">
@@ -45871,6 +45887,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20161002T181647Z" creationid="emanuelegiusti" creationdate="20160626T123450Z">
         <seg>Questo è utile se i vostri intervalli di dati sono più grandi dei nostri e la Creazione guidata grafico è in questo modo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is illustrated in &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figure 132&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T145252Z" creationid="luciano" creationdate="20161212T145252Z">
+        <seg>Questo è illustrato nella &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figura 132&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
