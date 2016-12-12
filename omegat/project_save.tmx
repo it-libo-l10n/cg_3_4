@@ -9015,6 +9015,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A graphic in the background will have &lt;f0&gt;To Foreground&lt;/f0&gt; as a menu item, instead of &lt;f1&gt;To Background&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T142305Z" creationid="luciano" creationdate="20161212T142305Z">
+        <seg>Un'immagine sullo sfondo avrà &lt;f0&gt;To Foreground&lt;/f0&gt; as a menu item, instead of &lt;f1&gt;To Background&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A gray line appears, running across the page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T153150Z" creationid="michele" creationdate="20160525T153150Z">
@@ -45805,8 +45813,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>This is not the same as Bring Forward and Send Backward, which set the order of a number of overlapping graphics.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T141913Z" creationid="luciano" creationdate="20161212T141741Z">
-        <seg>Questa non è la stessa funzione di di Porta oin primo piano e Porta in fondo, utilizzati per impstare l'ordine di soprapposizione di una serie di immagini.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T142317Z" creationid="luciano" creationdate="20161212T141741Z">
+        <seg>Questa non è la stessa funzione di di Porta in primo piano e Porta in fondo, utilizzati per impstare l'ordine di soprapposizione di una serie di immagini.</seg>
       </tuv>
     </tu>
     <tu>
