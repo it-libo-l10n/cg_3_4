@@ -3638,6 +3638,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Active&lt;/f0&gt; icon: toggles the status of a selected hotspot between active and inactive.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T153427Z" creationid="luciano" creationdate="20161212T153427Z">
+        <seg>Icona &lt;f0&gt;Attivo&lt;/f0&gt;: cambia lo stato dell'hotspot selezionato tra attivo e inattivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Address:&lt;/f0&gt; the address pointed by the hyperlink.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T153517Z" creationid="luciano" creationdate="20161212T153517Z">
+        <seg>&lt;f0&gt;Indirizzo:&lt;/f0&gt; l'indirizzo a cui punta il collegamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Advanced Filter&lt;/f0&gt;&lt;f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T162900Z" creationid="Elisabetta" creationdate="20160725T162900Z">
@@ -4634,6 +4650,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T164902Z">
         <seg>&lt;f0&gt;Modifica&lt;/f0&gt; contiene comandi per modificare il documento come &lt;f1&gt;annulla, Confronta documento&lt;/f1&gt;, e &lt;f2&gt; Trova e sostituisci.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Edit&lt;/f0&gt;, &lt;f1&gt;Move&lt;/f1&gt;, &lt;f2&gt;Insert&lt;/f2&gt;, &lt;f3&gt;Delete&lt;/f3&gt; &lt;f4&gt;Points&lt;/f4&gt;: advanced editing tools to manipulate the shape of a polygon hotspot.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T153405Z" creationid="luciano" creationdate="20161212T153405Z">
+        <seg>&lt;f0&gt;Modifica&lt;/f0&gt;, &lt;f1&gt;Sposta&lt;/f1&gt;, &lt;f2&gt;Inserisci&lt;/f2&gt;, &lt;f3&gt;Elimina&lt;/f3&gt; &lt;f4&gt;Punti&lt;/f4&gt;: strumenti avanzati di editing per manipolare un hotspot con forma poligonale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5654,6 +5678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Macro&lt;/f0&gt;: associates a macro with the hotspot instead of just associating an hyperlink.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T153451Z" creationid="luciano" creationdate="20161212T153451Z">
+        <seg>&lt;f0&gt;Macro&lt;/f0&gt;: associa una macro con l'hotspot, invece di un collegamento ipertestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Martin J Fox&lt;/f0&gt;&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090305Z">
@@ -6074,6 +6106,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T144232Z" creationid="luciano" creationdate="20160509T144232Z">
         <seg>&lt;f0&gt;Tabelle Pivot&lt;/f0&gt; Tasti di scelta rapida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Properties&lt;/f0&gt;: sets the hyperlink properties and adds the Name attribute to the hyperlink.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T153501Z" creationid="luciano" creationdate="20161212T153501Z">
+        <seg>&lt;f0&gt;Proprietà&lt;/f0&gt;: permette di impostare le proprietà del collegamento ipertestuale e aggiungere l'attributo Nome al collegamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11731,6 +11771,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161207T170252Z" creationid="luciano" creationdate="20161207T170252Z">
         <seg>Funzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Below the toolbar, specify for the selected hotspot:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T153511Z" creationid="luciano" creationdate="20161212T153511Z">
+        <seg>Sotto la barra degli strumenti, potete specificare per l'hotspot selezionato:</seg>
       </tuv>
     </tu>
     <tu>
@@ -38101,6 +38149,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T153714Z" creationid="Elisabetta" creationdate="20160725T153613Z">
         <seg>Selezionate la freccia a discesa nell'intestazione della colonna Titolo, quindi scegliete tutte le voci che corrispondono al titolo Sig.ra inserendo un segno di spunta nella relativa casella (come nella figura &lt;t0&gt;27&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the Edit Points tool to activate the other tools.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T153415Z" creationid="luciano" creationdate="20161212T153415Z">
+        <seg>Selezionate lo strumento Modifica Punti per rendere attivi gli altri strumenti.</seg>
       </tuv>
     </tu>
     <tu>
