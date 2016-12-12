@@ -11815,6 +11815,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bring Forward</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T140514Z" creationid="luciano" creationdate="20161212T140514Z">
+        <seg>Porta più avanti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bring to Front</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161209T165159Z" creationid="luciano" creationdate="20161209T165159Z">
@@ -12467,6 +12475,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161130T163831Z" creationid="luciano" creationdate="20161130T163831Z">
         <seg>Calc fornisce numerose funzionalità macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calc provides several options to re-arrange the order of images.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T140353Z" creationid="luciano" creationdate="20161212T140353Z">
+        <seg>Calc dispone di diverse opzioni per riorganizzare l'ordine delle immagini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19361,8 +19377,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;130&lt;/seq0&gt;: Layering effect</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T135942Z" creationid="luciano" creationdate="20161212T135942Z">
-        <seg>Figura &lt;seq0&gt;130&lt;/seq0&gt;: Effetto Layering effect</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T140235Z" creationid="luciano" creationdate="20161212T135942Z">
+        <seg>Figura &lt;seq0&gt;130&lt;/seq0&gt;: Effetto stratificazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -32521,6 +32537,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Places the image on top of any other graphics or text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T140508Z" creationid="luciano" creationdate="20161212T140508Z">
+        <seg>Posiziona l'immagine al di sopra di ogni altra immagine e sopra il testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Placing the mouse pointer over any of the icons displays a small box, called a &lt;is0/&gt;tooltip&lt;ie1/&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160323T164739Z">
@@ -45007,6 +45031,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161205T164309Z" creationid="Andrea" creationdate="20161205T164309Z">
         <seg>Queste opzioni non sono disponibili (non selezionabili) se viene scelto un diagramma bidimensionale.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These options can be accessed from both the Picture toolbar and the picture context menu:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T140454Z" creationid="luciano" creationdate="20161212T140454Z">
+        <seg>Queste opzioni sono accessibili sia dalla barra degli strumenti Immagine e dal menu contestuale dell'immagine:</seg>
       </tuv>
     </tu>
     <tu>
