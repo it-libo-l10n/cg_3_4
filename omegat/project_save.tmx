@@ -37769,6 +37769,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select one object, then hold down the &lt;f0&gt;Shift&lt;/f0&gt; key and select the others you want to include in the group.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T110644Z" creationid="luciano" creationdate="20161212T110644Z">
+        <seg>Selezionate un oggetto, quindi tenete premuto il tasto &lt;f0&gt;Maiusc&lt;/f0&gt; e selezionate gli altri oggetti che volete includere nel gruppo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select one of the cells that has been assigned conditional formatting.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T175058Z" creationid="Elisabetta" creationdate="20160722T175058Z">
@@ -41822,6 +41830,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20161122T131138Z" creationid="Andrea" creationdate="20160808T100410Z">
         <seg>Il confine dell'elenco viene identificato con la prima riga o colonna vuota rilevata, oppure con il limite sinistro o superiore del foglio di calcolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The bounding box expands to include all the selected objects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T110705Z" creationid="luciano" creationdate="20161212T110705Z">
+        <seg>Il riquadro di selezione si allarga per includere tutti gli oggetti selezionati.</seg>
       </tuv>
     </tu>
     <tu>
