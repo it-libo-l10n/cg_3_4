@@ -9017,8 +9017,8 @@
       <tuv lang="EN">
         <seg>A graphic in the background will have &lt;f0&gt;To Foreground&lt;/f0&gt; as a menu item, instead of &lt;f1&gt;To Background&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T142305Z" creationid="luciano" creationdate="20161212T142305Z">
-        <seg>Un'immagine sullo sfondo avrà &lt;f0&gt;To Foreground&lt;/f0&gt; as a menu item, instead of &lt;f1&gt;To Background&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T142547Z" creationid="luciano" creationdate="20161212T142305Z">
+        <seg>Un'immagine sullo sfondo avrà &lt;f0&gt;In primo piano&lt;/f0&gt; come voce di menu, invece di &lt;f1&gt;Sullo sfondo&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10699,6 +10699,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143012Z" creationid="steevie" creationdate="20160427T143012Z">
         <seg>Ancoraggior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Anchoring graphics</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T142648Z" creationid="luciano" creationdate="20161212T142648Z">
+        <seg>Ancorare le immagini</seg>
       </tuv>
     </tu>
     <tu>
@@ -53463,6 +53471,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143003Z" creationid="steevie" creationdate="20160427T143003Z">
         <seg>ancoraggio, visibile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>anchoring</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T142658Z" creationid="luciano" creationdate="20161212T142620Z">
+        <seg>ancorare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>anchoring of objects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T142608Z" creationid="luciano" creationdate="20161212T142608Z">
+        <seg>ancoraggio di un oggetto</seg>
       </tuv>
     </tu>
     <tu>
