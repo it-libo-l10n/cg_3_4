@@ -24199,6 +24199,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a graphic is anchored to cell B10, and a new row is inserted, the graphic will then be anchored to cell B11.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T144616Z" creationid="luciano" creationdate="20161212T144616Z">
+        <seg>Se un'immagine è ancorata alla cella B10, e si aggiunge una nuova riga, l'immagine sarà ancorata alla cella B11.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a group of cells is selected, they have a highlight color (usually gray), with the focus cell having a dark border.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T095430Z" creationid="michele" creationdate="20160525T095430Z">
@@ -45791,6 +45799,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T150200Z" creationid="michele" creationdate="20160531T150200Z">
         <seg>Questo si può facilmente evitare lasciando i valori correnti separati, e andando a creare un nuovo scenario con &lt;f0&gt;Ricopiare all'indietro&lt;/f0&gt;&lt;f1&gt; attivato, e poi modificare i valori solo quando state vedendo il nuovo scenario.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is equivalent to a relative reference.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T144631Z" creationid="luciano" creationdate="20161212T144631Z">
+        <seg>Questo è equivalente ad un riferimento relativo.</seg>
       </tuv>
     </tu>
     <tu>
