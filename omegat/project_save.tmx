@@ -3710,6 +3710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Apply&lt;/f0&gt; button: click this button to apply the changes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T152731Z" creationid="luciano" creationdate="20161212T152731Z">
+        <seg>Pulsante &lt;f0&gt;Applica&lt;/f0&gt;: fateci clic sopra per applicare le modifiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Array&lt;/f0&gt; is a square array that is to be inverted.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T133407Z" creationid="Marco Marega" creationdate="20160820T133407Z">
@@ -5538,6 +5546,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T125743Z" creationid="steevie" creationdate="20160421T125743Z">
         <seg>Per impostazione predefinita &lt;f0&gt;LibreOffice&lt;/f0&gt;&lt;f1&gt; salva i documenti nel &lt;/f1&gt;&lt;is2/&gt;&lt;f3&gt;Formato Open Document&lt;/f3&gt;&lt;ie4/&gt;&lt;f5&gt; (ODF) versione 1.2 Esteso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Load&lt;/f0&gt;&lt;f1&gt;,&lt;/f1&gt; &lt;f2&gt;Save&lt;/f2&gt;&lt;f3&gt;,&lt;/f3&gt; and &lt;f4&gt;Select&lt;/f4&gt; icons.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T152818Z" creationid="luciano" creationdate="20161212T152818Z">
+        <seg>Icone &lt;f0&gt;Apri,&lt;/f0&gt; &lt;f1&gt;Salva,&lt;/f1&gt; e &lt;f2&gt;Seleziona&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9043,6 +9059,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T145201Z" creationid="steevie" creationdate="20160503T145201Z">
         <seg>Una guida per utenti e programmatori di macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A hotspot is identified by a line indicating its shape.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T152712Z" creationid="luciano" creationdate="20161212T152712Z">
+        <seg>Un hotspot è identificato da una linea indicante la sua forma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19507,6 +19531,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161212T145430Z" creationid="luciano" creationdate="20161212T145430Z">
         <seg>Figura &lt;seq0&gt;132&lt;/seq0&gt;: Ancorare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;133&lt;/seq0&gt;: The dialog to create or edit an image map</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T152652Z" creationid="luciano" creationdate="20161212T152652Z">
+        <seg>Figura &lt;seq0&gt;133&lt;/seq0&gt;: La finestra di dialogo per creare o modificare una mappa immagine</seg>
       </tuv>
     </tu>
     <tu>
@@ -43531,6 +43563,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The main part of the dialog shows the image on which the hotspots are defined.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T152705Z" creationid="luciano" creationdate="20161212T152705Z">
+        <seg>L'area principale della finestra di dialogo mostra l'immagine sulla quale vengono definiti gli hotspot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The main section of the screen displays the &lt;i0/&gt;cells in the form of a grid, with each cell being at the intersection of a column and a row.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T084244Z" creationid="michele" creationdate="20160524T084244Z">
@@ -44879,6 +44919,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160423T145841Z" creationid="luciano" creationdate="20160423T145758Z">
         <seg>La barra del titolo per la Finestra di commento mostra la cella e le modifiche che state commentando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The toolbar at the top of the dialog contains the following tools:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T152720Z" creationid="luciano" creationdate="20161212T152720Z">
+        <seg>La barra degli strumenti nella parte superiore della finestra di dialogo contiene i seguenti strumenti:</seg>
       </tuv>
     </tu>
     <tu>
@@ -48715,6 +48763,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tools for drawing a hotspot shape: these tools work in exactly the same way as the corresponding tools in the Drawing toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T152833Z" creationid="luciano" creationdate="20161212T152833Z">
+        <seg>Strumenti per disegnare la forma di un hotspot: questi strumenti funzionano nello stesso identico modo in cui funzionano i corrispondenti strumenti nella barra degli strumenti Disegno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Total amount invested: &lt;f0&gt;10000&lt;/f0&gt;, in cell C4.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T144444Z" creationid="michele" creationdate="20160608T140222Z">
@@ -50983,6 +51039,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T151202Z" creationid="luciano" creationdate="20160424T135428Z">
         <seg>Una volta terminato, fate clic fuori dal commento per deselezionarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When done, click the &lt;f0&gt;Save&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; to save the imagemap to a file, then click the &lt;f3&gt;X&lt;/f3&gt; in the upper right corner to close the dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T152619Z" creationid="luciano" creationdate="20161212T152619Z">
+        <seg>Quando avete terminato, fate clic sull'icona &lt;f0&gt;Salva&lt;/f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; per salvare la mappa immagine in un file, quindi fate clic sulla &lt;f3&gt;X&lt;/f3&gt; nell'angolo in alto a destra per chiudere la finestra di dialogo.</seg>
       </tuv>
     </tu>
     <tu>
