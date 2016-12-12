@@ -45539,6 +45539,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This feature pushes a graphic behind the cells, allowing cells to be edited without affecting the graphic.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T142131Z" creationid="luciano" creationdate="20161212T142131Z">
+        <seg>Questa funzione spinge un'immagine dietro alle celle, permettendo di modificare le celle senza influenzare l'immagine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This field is blank when the spreadsheet is not in a typing mode (for example, when selecting cells).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T093232Z" creationid="michele" creationdate="20160524T093232Z">
@@ -45797,8 +45805,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>This is not the same as Bring Forward and Send Backward, which set the order of a number of overlapping graphics.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T141807Z" creationid="luciano" creationdate="20161212T141741Z">
-        <seg>Questa non è la stessa funzione di di Porta oin primo piano e Porta indietro, che impostare l'ordine di una serie di grafici sovrapposti.This is not the same as Bring Forward and Send Backward, which set the order of a number of overlapping graphics.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T141913Z" creationid="luciano" creationdate="20161212T141741Z">
+        <seg>Questa non è la stessa funzione di di Porta oin primo piano e Porta in fondo, utilizzati per impstare l'ordine di soprapposizione di una serie di immagini.</seg>
       </tuv>
     </tu>
     <tu>
