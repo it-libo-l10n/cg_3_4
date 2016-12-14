@@ -14841,8 +14841,8 @@
       <tuv lang="EN">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to rotate the image.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T155033Z" creationid="luciano" creationdate="20161130T155033Z">
-        <seg>Fare clic su &lt;f0&gt;OK&lt;/f0&gt; per ruotare l'immagine.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161214T110231Z" creationid="luciano" creationdate="20161130T155033Z">
+        <seg>Fate clic su &lt;f0&gt;OK&lt;/f0&gt; per ruotare l'immagine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25465,8 +25465,8 @@
       <tuv lang="EN">
         <seg>If you change your mind, click the &lt;f0&gt;Reset&lt;/f0&gt; button to return the settings to what they were when the dialog opened.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T155005Z" creationid="luciano" creationdate="20161130T154952Z">
-        <seg>Se si cambia idea, fare clic sul pulsante &lt;f0&gt;Ripristina&lt;/f0&gt; per riportare le impostazioni presenti all'apertura della finestra di dialogo.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161214T110224Z" creationid="luciano" creationdate="20161130T154952Z">
+        <seg>Se cambiate idea, fate clic sul pulsante &lt;f0&gt;Ripristina&lt;/f0&gt; per riportare le impostazioni presenti all'apertura della finestra di dialogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29442,8 +29442,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>Many of the options accessible from the Picture toolbar can also be reached by right-clicking on an image to pop up a context menu.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T155927Z" creationid="luciano" creationdate="20161130T155927Z">
-        <seg>Molte delle opzioni accessibili dalla barra degli strumenti Immagine possono essere raggiunte facendo clic destro sull'immagine e far apparire il menu contestuale.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161214T110339Z" creationid="luciano" creationdate="20161130T155927Z">
+        <seg>Molte delle opzioni accessibili dalla barra degli strumenti Immagine possono essere raggiunte con un clic destro sull'immagine facendo così comparire il menu contestuale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31955,8 +31955,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Opens a dialog where you can set the options for text that goes over a picture.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T160651Z" creationid="luciano" creationdate="20161130T160651Z">
-        <seg>Apre una finestra di dialogo in cui è possibile impostare le opzioni per il testo che da scrivere sull'immagine.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161214T110400Z" creationid="luciano" creationdate="20161130T160651Z">
+        <seg>Apre una finestra di dialogo in cui è possibile impostare le opzioni per il testo da scrivere sull'immagine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32869,6 +32869,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161127T190744Z" creationid="Andrea" creationdate="20161127T190744Z">
         <seg>Posizione e Dimensioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Position and Size of graphics</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161214T110505Z" creationid="luciano" creationdate="20161214T110505Z">
+        <seg>Posizione e Dimensioni delle immagini</seg>
       </tuv>
     </tu>
     <tu>
@@ -45293,8 +45301,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>There should be a cursor inside the graphic.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T160924Z" creationid="luciano" creationdate="20161130T160924Z">
-        <seg>Ci dovrebbe essere un cursore all'interno dell'immagine.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161214T110433Z" creationid="luciano" creationdate="20161130T160924Z">
+        <seg>Dovreste notare un cursore all'interno dell'immagine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48773,8 +48781,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>To write text over a graphic, click on the graphic to select it, and then press Enter.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T160832Z" creationid="luciano" creationdate="20161130T160832Z">
-        <seg>Per scrivere il testo su una immagine, fare clic sull'immagine per selezionarla e premere Invio.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161214T110413Z" creationid="luciano" creationdate="20161130T160832Z">
+        <seg>Per scrivere il testo su una immagine, fate clic sull'immagine per selezionarla e premete Invio.</seg>
       </tuv>
     </tu>
     <tu>
