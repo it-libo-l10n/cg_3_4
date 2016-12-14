@@ -15679,6 +15679,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clicking on a hotspot causes Calc to open the linked page in the appropriate program (for example, the default browser for an HTML page; &lt;f3&gt;LibreOffice&lt;/f3&gt; Calc for a .ODS file; a PDF viewer for a PDF file).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161214T131310Z" creationid="luciano" creationdate="20161214T131310Z">
+        <seg>Facendo clic su un hotspot Calc aprirà la pagina collegata con il programma appropriato (ad esempio, il browser predefinito per una pagina HTML; LibreOffice Calc per un file .ODS; un visualizzatore PDF per un file PDF).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clicking on a number at the top of the column, shrinks the structure of that element of the subtotal.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160530T155939Z" creationid="michele" creationdate="20160530T155939Z">
@@ -23803,6 +23811,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T185936Z" creationid="Marco Marega" creationdate="20160817T185936Z">
         <seg>Le vacanze possono essere detratte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hotspots are the graphic equivalent of text hyperlinks.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161214T131215Z" creationid="luciano" creationdate="20161214T131215Z">
+        <seg>Gli hotspot sono l'equivalente grafico dei collegamenti ipertestuali del testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52735,6 +52751,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161201T151719Z" creationid="steevie" creationdate="20160503T152656Z">
         <seg>É possibile creare un &lt;f0&gt;area database &lt;/f0&gt;, che possiede alcune funzionalità come database, oppure un &lt;f1&gt;Intervallo con nome&lt;/f1&gt;, che non le ha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can create hotspots of various shapes, and include several hotspots in the same image.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161214T131359Z" creationid="luciano" creationdate="20161214T131359Z">
+        <seg>Potete creare hotspot di varie forme e includere parecchi hotspot nella stessa immagine.</seg>
       </tuv>
     </tu>
     <tu>
