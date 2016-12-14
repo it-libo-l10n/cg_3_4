@@ -19537,8 +19537,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;125&lt;/seq0&gt;: The Crop dialog</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T164327Z" creationid="luciano" creationdate="20161129T164327Z">
-        <seg>Figura &lt;seq0&gt;125&lt;/seq0&gt;: Finestra di dialogo Taglia</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161214T105218Z" creationid="luciano" creationdate="20161129T164327Z">
+        <seg>Figura &lt;seq0&gt;125&lt;/seq0&gt;: Finestra di dialogo Ritaglia</seg>
       </tuv>
     </tu>
     <tu>
@@ -31163,8 +31163,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>On the &lt;bk0/&gt;Crop dialog, you can control the following parameters:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161128T163347Z" creationid="luciano" creationdate="20161128T163347Z">
-        <seg>Nella finestra di dialogo &lt;bk0/&gt;Taglia, è possibile controllare i seguenti parametri:</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161214T104941Z" creationid="luciano" creationdate="20161128T163347Z">
+        <seg>Nella finestra di dialogo &lt;bk0/&gt;Ritaglia, è possibile controllare i seguenti parametri:</seg>
       </tuv>
     </tu>
     <tu>
@@ -50917,16 +50917,16 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>When &lt;f0&gt;Keep image size&lt;/f0&gt; is selected, cropping enlarges (for positive cropping values), shrinks (for negative cropping values), or distorts of the image so that the image size remains constant.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T163800Z" creationid="luciano" creationdate="20161128T170610Z">
-        <seg>Se l'opzione &lt;f0&gt;Mantieni dimensione&lt;/f0&gt; è selezionata, il ritaglio produce un effetto di ingrandimento per valori di ritaglio positivi, un effetto di riduzione per valori di ritaglio negativi, oppure un effetto di distorsione (per valori non proporzionali tra loro), in modo che le dimensioni dell'immagine rimangano costanti</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161214T105053Z" creationid="luciano" creationdate="20161128T170610Z">
+        <seg>Se l'opzione &lt;f0&gt;Mantieni dimensione&lt;/f0&gt; è selezionata, il ritaglio produce un ingrandimento per valori di ritaglio positivi, una riduzione per valori di ritaglio negativi, oppure una distorsione (per valori non proporzionali tra loro), in modo che le dimensioni dell'immagine rimangano costanti</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>When &lt;f0&gt;Keep image size&lt;/f0&gt; is selected, the remaining part of the image is enlarged (when you enter positive values for cropping) or shrunk (when you enter negative values for cropping) so that the width and height of the image is not changed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T164157Z" creationid="luciano" creationdate="20161129T164157Z">
-        <seg>Se l'opzione &lt;f0&gt;Mantieni dimensione&lt;/f0&gt; è selezionata, la parte restante dell'immagine viene ingrandita (quando vengono inseriti valori positivi) oppure ridotta (quando vengono inseriti valori negativi), in modo che larghezza e altezza dell'immagine non vengano cambiate.</seg>
+      <tuv lang="IT-IT" changeid="luciano" changedate="20161214T105148Z" creationid="luciano" creationdate="20161129T164157Z">
+        <seg>Se l'opzione &lt;f0&gt;Mantieni dimensione&lt;/f0&gt; è selezionata, la parte restante dell'immagine viene ingrandita (quando vengono inseriti valori positivi) oppure ridotta (quando vengono inseriti valori negativi), in modo che larghezza e altezza dell'immagine cambino.</seg>
       </tuv>
     </tu>
     <tu>
