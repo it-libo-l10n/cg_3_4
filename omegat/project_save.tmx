@@ -13671,6 +13671,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changes made in this dialog affect the default chart colors for any chart you make in future.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161224T163007Z" creationid="Andrea" creationdate="20161224T163007Z">
+        <seg>Le modifiche eseguite in questa finestra di dialogo hanno effetto su qualsiasi diagramma voi creiate in futuro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changes the focus by moving backward through the areas and buttons of the dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T144557Z" creationid="luciano" creationdate="20160509T144435Z">
@@ -26139,6 +26147,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160505T074645Z" creationid="luciano" creationdate="20160428T153739Z">
         <seg>Se volete unire altri documenti, chiudete la finestra di dialogo e ripetete i punti 2 e 3.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want to modify the color scheme from the default, or you want to add extra chart colors, for the charts in all your documents, go to &lt;f0&gt;Tools &gt; Options &gt; Charts &lt;/f0&gt;&lt;f1&gt;&gt; Default Colors&lt;/f1&gt;, where such changes can be made.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161224T162859Z" creationid="Andrea" creationdate="20161224T162859Z">
+        <seg>Se volete modificare lo schema colori predefinito, o se volete aggiungere altri colori per il diagramma in tutti i vostri documenti, selezionate  &lt;f0&gt;Strumenti &gt; Opzioni &gt; Diagrammi &lt;/f0&gt;&lt;f1&gt;&gt; Colori Predefiniti&lt;/f1&gt;, dove e' possibile effettuare tali modifiche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55071,6 +55087,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160424T135604Z" creationid="luciano" creationdate="20160424T135604Z">
         <seg>formattazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>formatting 3D</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161224T163020Z" creationid="Andrea" creationdate="20161224T163020Z">
+        <seg>formattazione 3D</seg>
       </tuv>
     </tu>
     <tu>
