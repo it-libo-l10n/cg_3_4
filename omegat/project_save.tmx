@@ -4102,6 +4102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Choose &lt;/f0&gt;&lt;f1&gt;Format &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Chart Area&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161224T160010Z" creationid="Andrea" creationdate="20161224T160010Z">
+        <seg>&lt;f0&gt;Scegliete &lt;/f0&gt;&lt;f1&gt;Formato &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;  Area del Diagramma&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Choose &lt;/f0&gt;&lt;f1&gt;New sheet&lt;/f1&gt;&lt;f2&gt; and 1 as the &lt;/f2&gt;&lt;f3&gt;No.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160524T150653Z" creationid="antonio" creationdate="20160524T150653Z">
@@ -13747,6 +13755,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T151044Z" creationid="michele" creationdate="20160531T151044Z">
         <seg>Modifica scenari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changing the &lt;i0/&gt;chart area background</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161224T155700Z" creationid="Andrea" creationdate="20161224T155700Z">
+        <seg>Cambiare lo &lt;i0/&gt;sfondo dell'area del diagramma</seg>
       </tuv>
     </tu>
     <tu>
@@ -42358,6 +42374,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T155723Z" creationid="steevie" creationdate="20160418T155723Z">
         <seg>I colori modificati appaiono nel più basso tra i due riquadri di anteprima del colore, nella parte alta della pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The chart area is the area&lt;f0&gt; surrounding &lt;/f0&gt;the chart graphic, including the (optional) main title and key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161224T155929Z" creationid="Andrea" creationdate="20161224T155929Z">
+        <seg>L'area del diagramma e' l'area che&lt;f0&gt; circonda &lt;/f0&gt;il grafico, compresi il titolo principale e i tasti (facoltativi).</seg>
       </tuv>
     </tu>
     <tu>
