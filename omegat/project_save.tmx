@@ -44675,6 +44675,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The rotation axes always relate to the page, not to the axes of the chart.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161224T164827Z" creationid="Andrea" creationdate="20161224T164827Z">
+        <seg>Gli assi di rotazione fanno sempre riferimento alla pagina, non agli assi del diagramma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The rotations are applied in the following order: x first, then y, and z last.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161224T164614Z" creationid="Andrea" creationdate="20161224T164614Z">
+        <seg>Le rotazioni sono applicate nel seguente ordine: prima x, poi y, da ultimo z.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The row and column are integer values where ADDRESS(1; 1) returns &lt;f0&gt;$A$1&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T152329Z" creationid="steevie" creationdate="20161130T151916Z">
@@ -46287,6 +46303,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T203940Z" creationid="Elisabetta" creationdate="20160815T203940Z">
         <seg>Questo è un errore interno e non dovrebbe essere visualizzato in &lt;f0&gt;LibreOffice&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is different from some other chart programs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161224T164904Z" creationid="Andrea" creationdate="20161224T164904Z">
+        <seg>Cio' e' diverso da altri programmi di creazione diagrammi</seg>
       </tuv>
     </tu>
     <tu>
@@ -51467,6 +51491,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When shading is enabled and you rotate a chart, the lights are rotated as if they are fixed to the chart.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161224T164737Z" creationid="Andrea" creationdate="20161224T164737Z">
+        <seg>Con l'opzione ombreggiatura attivata, durante la rotazione di un diagramma le luci ruotano come se fossero solidali ad esso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When someone later opens the document on any computer with a recent version of &lt;f0&gt;LibreOffice&lt;/f0&gt;, the program will compute the checksum again and compare it with the stored checksum.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T161047Z" creationid="Luciano B." creationdate="20160329T161047Z">
@@ -52199,6 +52231,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160601T144752Z" creationid="michele" creationdate="20160601T144752Z">
         <seg>Con due variabili, dovrai evidenziare una tabella di celle in maniera tale che i valori alternativi per una variabile siano posizionati come intestazioni di colonna, e i valori alternativi  per le altre variabili fungono da intestazioni di righe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With x set to –90, the view is from the bottom of the chart.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161224T164528Z" creationid="Andrea" creationdate="20161224T164528Z">
+        <seg>Con x impostato a -90 la vista e' dal fondo del diagramma.</seg>
       </tuv>
     </tu>
     <tu>
