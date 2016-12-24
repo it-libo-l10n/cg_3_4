@@ -21359,6 +21359,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;86&lt;/seq0&gt;: Rotating a chart</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161224T164011Z" creationid="Andrea" creationdate="20161224T164011Z">
+        <seg>Figura &lt;seq0&gt;86&lt;/seq0&gt;: Rotazione di un diagramma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Selection of visible toolbar icons</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T144911Z" creationid="michele" creationdate="20160414T144911Z">
@@ -36945,6 +36953,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rotation&lt;i0/&gt; and &lt;is1/&gt;perspective</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161224T163638Z" creationid="Andrea" creationdate="20161224T163638Z">
+        <seg>Rotazione&lt;i0/&gt; e &lt;is1/&gt;prospettiva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rounds the given &lt;f0&gt;number &lt;/f0&gt;up.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Count&lt;/f2&gt; (optional) is the number of digits to which rounding up is to be done.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T140834Z" creationid="Marco Marega" creationdate="20160626T140620Z">
@@ -41454,6 +41470,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161008T164718Z" creationid="Andrea" creationdate="20161008T164718Z">
         <seg>Il titolo del diagramma (facoltativo) e la legenda (simboli) si trovano n.ell'area del diagramma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The 3D View dialog has three pages, where you can change the perspective of the chart, whether the chart uses the simple or realistic schemes, or your own custom scheme, and the illumination which controls where the shadows will fall.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161224T163541Z" creationid="Andrea" creationdate="20161224T163541Z">
+        <seg>La finestra di dialogo Vista 3D e' composta di tre pagine nelle quali potete modificare la prospettiva del diagramma, l'utilizzo dello schema semplice o realistico per il diagramma, il vostro schema personalizzato, e l'illuminazione che controlla la posizione delle ombre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48395,6 +48419,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To rotate a &lt;i0/&gt;3D chart or view it in perspective, enter the required values on the &lt;f1&gt;Perspective&lt;/f1&gt; page of the 3D View dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161224T163908Z" creationid="Andrea" creationdate="20161224T163908Z">
+        <seg>Per ruotare un &lt;i0/&gt;diagramma 3D o visualizzarlo in prospettiva, introducete i valori richiesti nella pagina &lt;f1&gt;Prospettiva&lt;/f1&gt; della finestra di dialogo Visualizzazione 3D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To save a spreadsheet &lt;i0/&gt;as a comma separated value (CSV) file:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T152732Z" creationid="michele" creationdate="20160524T152732Z">
@@ -49391,6 +49423,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T130613Z" creationid="steevie" creationdate="20160427T130613Z">
         <seg>Sezione Aggiornamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;f0&gt;&lt;f1&gt;Format &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; 3D View&lt;/f5&gt;&lt;/f4&gt; to fine tune &lt;i6/&gt;3D charts.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161224T163221Z" creationid="Andrea" creationdate="20161224T163221Z">
+        <seg>Usate &lt;f0&gt;&lt;f1&gt;Formato &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; Vista 3D&lt;/f5&gt;&lt;/f4&gt; per modifiche di dettaglio &lt;i6/&gt;ai diagrammi 3D.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52583,6 +52623,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T151656Z" creationid="luciano" creationdate="20160425T113800Z">
         <seg>Potete anche fare clic con il pulsante destro del mouse sul commento per visualizzare un menu di scelte, alcune delle quali portano a finestre di dialogo in cui è possibile mettere a punto la formattazione; queste finestre di dialogo sono anche discusse nel capitolo 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also rotate 3D charts interactively; see page &lt;bf2&gt;91&lt;/bf2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161224T163950Z" creationid="Andrea" creationdate="20161224T163950Z">
+        <seg>Potete anche ruotare diagrammi 3D in modalita' interattiva; vedi pagina &lt;bf2&gt;91&lt;/bf2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55899,6 +55947,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>perspective of chart</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161224T163613Z" creationid="Andrea" creationdate="20161224T163613Z">
+        <seg>prospettiva del diagramma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>pictures</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161129T165603Z" creationid="luciano" creationdate="20161129T165603Z">
@@ -56111,6 +56167,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161129T171917Z" creationid="luciano" creationdate="20161129T171917Z">
         <seg>ruotare immagini</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rotation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161224T163550Z" creationid="Andrea" creationdate="20161224T163550Z">
+        <seg>rotazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rotation and perspective</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161224T163654Z" creationid="Andrea" creationdate="20161224T163654Z">
+        <seg>rotazione e prospettiva</seg>
       </tuv>
     </tu>
     <tu>
