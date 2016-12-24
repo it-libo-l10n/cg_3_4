@@ -13711,6 +13711,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changing &lt;is0/&gt;colors</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161224T161559Z" creationid="Andrea" creationdate="20161224T161559Z">
+        <seg>Cambiare &lt;is0/&gt;i colori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changing &lt;is0/&gt;data ranges&lt;ie1/&gt; and &lt;is2/&gt;axes labels</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160626T121414Z" creationid="emanuelegiusti" creationdate="20160626T121414Z">
@@ -13785,8 +13793,8 @@
       <tuv lang="EN">
         <seg>Changing the chart &lt;is0/&gt;graphic background</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Andrea" changedate="20161224T161028Z" creationid="Andrea" creationdate="20161224T161028Z">
-        <seg>Modificare &lt;is0/&gt;lo sfondo grafico del diagramma</seg>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161224T161216Z" creationid="Andrea" creationdate="20161224T161028Z">
+        <seg>Modificare &lt;is0/&gt;l'immagine del diagramma</seg>
       </tuv>
     </tu>
     <tu>
@@ -14399,6 +14407,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Format &gt; Chart Wall&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161224T161252Z" creationid="Andrea" creationdate="20161224T161252Z">
+        <seg>Sceglete &lt;f0&gt;Formato &gt; Parete del Diagramma&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;Format&lt;/f0&gt; from the menu bar, or right-click to display a context menu relevant to the selected element.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161127T190413Z" creationid="Andrea" creationdate="20161127T190413Z">
@@ -14579,6 +14595,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T130756Z" creationid="steevie" creationdate="20160427T130756Z">
         <seg>Selezione quando &lt;i0/&gt;aggiornare i collegamenti all'apertura del documento: Sempre, su richiesta o mai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose your settings and click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161224T161533Z" creationid="Andrea" creationdate="20161224T161533Z">
+        <seg>Scegliete le impostazioni e fate click su &lt;f0&gt;OK&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41734,6 +41758,22 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T092158Z" creationid="michele" creationdate="20160524T092158Z">
         <seg>In Calc &lt;is0/&gt;la barra di stato&lt;ie1/&gt; fornisce informazioni sul foglio di calcolo e comodi strumenti per cambiare velocemente alcuni contenuti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Chart Wall d&lt;f1&gt;ialog&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;has the same formatting options as described in “&lt;rf3&gt;Changing the chart area background&lt;/rf3&gt;” above.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161224T161506Z" creationid="Andrea" creationdate="20161224T161506Z">
+        <seg>La f&lt;f1&gt;inestra&lt;/f1&gt;Parete del Diagramma&lt;f2&gt; &lt;/f2&gt;possiede le stesse opzioni di formattazione descritte in “&lt;rf3&gt;Modifica dello sfondo dell'area del diagramma&lt;/rf3&gt;” in precedenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Chart Wall is the area that contains the chart graphic.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Andrea" changedate="20161224T161158Z" creationid="Andrea" creationdate="20161224T161158Z">
+        <seg>La Parete del Diagramma e' l'area che contiene l'immagine del diagramma.</seg>
       </tuv>
     </tu>
     <tu>
