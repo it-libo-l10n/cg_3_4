@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10403,6 +10403,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20160129T124840Z">
         <seg>Tutti i marchi registrati citati in questo documento appartengono ai legittimi proprietari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All you have to do is add the arguments, and the calculation is automatically made for you.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20161228T220736Z" creationid="osvaldo" creationdate="20161228T220736Z">
+        <seg>Tutto ciò che dovete fare è aggiungere gli argomenti, e il calcolo verrà eseguito automaticamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23203,6 +23211,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T143209Z" creationid="steevie" creationdate="20160620T143209Z">
         <seg>Funzioni usate di frequente come funzioni database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Functions help you create the formulas needed to get the results that you are looking for.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20161228T220751Z" creationid="osvaldo" creationdate="20161228T220751Z">
+        <seg>Le funzioni vi aiutano a creare le formule necessarie per ottenere i risultati desiderati.</seg>
       </tuv>
     </tu>
     <tu>
