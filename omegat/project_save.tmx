@@ -25929,8 +25929,8 @@
       <tuv lang="EN">
         <seg>If you input a formula in cell C1 of &lt;f0&gt;=0.75*B1&lt;/f0&gt; (for example to calculate the value in Euros of the USD dollar amount in cell B1), you will have to edit the formula when the exchange rate changes from 0.75 to some other value.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20161228T224313Z" creationid="osvaldo" creationdate="20161228T223421Z">
-        <seg>Se viene inserita nella cella C1 la formula &lt;f0&gt;=0.75*B1&lt;/f0&gt; (per esempio per calcolare l'ammontare in Euro del valore in USD della cella B1), sarà poi necessario aggiornare il valore "0.75" in quando questo valore  have to edit the formula when the exchange rate changes from 0.75 to some other value.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20161229T134249Z" creationid="osvaldo" creationdate="20161228T223421Z">
+        <seg>Se viene inserita nella cella C1 la formula &lt;f0&gt;=0.75*B1&lt;/f0&gt; (per esempio per calcolare l'ammontare in Euro del valore in USD della cella B1), sarà poi necessario aggiornare il valore "0.75" quando il tasso di cambio verrà modificato.</seg>
       </tuv>
     </tu>
     <tu>
