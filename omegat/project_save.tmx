@@ -10015,6 +10015,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding up columns of data or selections of cells from a worksheet often results in errors due to omitting cells, wrongly specifying a range, or double-counting cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20161229T141452Z" creationid="osvaldo" creationdate="20161229T141452Z">
+        <seg>Sommare le colonne di dati o selezionare le celle da un foglio di lavoro si traduce spesso in errori dovuti alla omissione di celle, specificando in modo errato un intervallo o conteggiando due volte le celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adds all the numbers in a range of cells.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T145000Z" creationid="Marco Marega" creationdate="20160626T145000Z">
