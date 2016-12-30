@@ -7350,6 +7350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;While the &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;calculation on the left was accomplished in only one cell, the real power is shown on the right where the data is placed in cells and the calculation is performed using references back to the cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20161230T072610Z" creationid="osvaldo" creationdate="20161230T072610Z">
+        <seg>&lt;f0&gt;Mentre il &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;calcolo alla sinistra viene effettuato in una sola cella, il potere reale è mostrato nella destra dove i dati sono inseriti in celle ed il calcolo viene effettuato sfruttando i riferimenti alle celle stesse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Wildcards&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;(also known as &lt;is2/&gt;&lt;i3/&gt;&lt;f4&gt;regular expressions&lt;/f4&gt;&lt;ie5/&gt;) are combinations of characters that instruct &lt;f6&gt;LibreOffice&lt;/f6&gt; how to search for something.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T164437Z" creationid="Elisabetta" creationdate="20160726T164437Z">
