@@ -44603,6 +44603,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The plus sign indicates that the contents of cells B3 and B4 are to be added together and then have the result in the cell holding the formula.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20161230T073515Z" creationid="osvaldo" creationdate="20161230T073515Z">
+        <seg>Il segno più indica che i contenuti delle celle B3 e B4 devono essere sommati tra loro, ottenendo il risultato nella cella che ospita la formula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The pointer changes shape giving a graphical representation of the direction of the resizing.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161214T105510Z" creationid="luciano" creationdate="20161129T170858Z">
