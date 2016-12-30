@@ -18607,6 +18607,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Either way, you need to start a formula with one of the following symbols: =, + or –.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20161230T071049Z" creationid="osvaldo" creationdate="20161230T071049Z">
+        <seg>In entrambi i casi, è necessario iniziare una formula con uno dei seguenti simboli: =, + o –.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Either&lt;/f0&gt; a column or row description name could not be resolved, or the column, row, or sheet that contains a referenced cell is missing.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T195159Z" creationid="Elisabetta" creationdate="20160815T195159Z">
@@ -32457,6 +32465,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Operators in formulas</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20161230T071338Z" creationid="osvaldo" creationdate="20161230T071338Z">
+        <seg>Operatori nelle formule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Optimal</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T150004Z" creationid="michele" creationdate="20160525T150004Z">
@@ -40861,6 +40877,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T211904Z">
         <seg>Apertura di nuovi fogli di lavoro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Starting with anything else causes the formula to be treated as if it were text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20161230T071257Z" creationid="osvaldo" creationdate="20161230T071257Z">
+        <seg>Iniziando con qualsiasi altro carattere, la formula verrà interpretata come testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55525,8 +55549,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>formulas</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20160818T113249Z" creationid="osvaldo" creationdate="20160818T113249Z">
-        <seg>Formule</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20161230T071316Z" creationid="osvaldo" creationdate="20160818T113249Z">
+        <seg>formule</seg>
       </tuv>
     </tu>
     <tu>
@@ -56151,6 +56175,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T122659Z" creationid="michele" creationdate="20160524T122659Z">
         <seg>Apertura dei fogli elettronici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>operators in</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20161230T071307Z" creationid="osvaldo" creationdate="20161230T071307Z">
+        <seg>operatori in</seg>
       </tuv>
     </tu>
     <tu>
