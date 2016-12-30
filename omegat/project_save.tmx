@@ -22337,8 +22337,8 @@
       <tuv lang="EN">
         <seg>For example, set up a spreadsheet to calculate columns of figures, and use SUM to calculate the individual column totals.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20161229T141852Z" creationid="osvaldo" creationdate="20161229T141852Z">
-        <seg>Ad esempio, impostare un foglio di calcolo per calcolare colonne di cifre, e utilizzare SUM per calcolare i singoli totali di colonna.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20161230T064036Z" creationid="osvaldo" creationdate="20161229T141852Z">
+        <seg>Ad esempio, impostare un foglio di calcolo per calcolare colonne di cifre, e utilizzare SOMMA per calcolare i singoli totali di colonna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52679,6 +52679,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164259Z" creationid="steevie" creationdate="20160428T164259Z">
         <seg>Potete &lt;i0/&gt;aggiungere comandi ai menu forniti e ai menu da voi creati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can &lt;i0/&gt;enter formulas in two ways, either directly into the cell itself, or at the input line.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20161230T064015Z" creationid="osvaldo" creationdate="20161230T064015Z">
+        <seg>È possibile &lt;i0/&gt;inserire le formule in due modi, sia direttamente nella cella, o nella linea .</seg>
       </tuv>
     </tu>
     <tu>
