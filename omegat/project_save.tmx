@@ -27696,6 +27696,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this case, cells B3 and B4 were the data holders, with B5 the cell where the calculation was performed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20161230T072803Z" creationid="osvaldo" creationdate="20161230T072803Z">
+        <seg>In questo caso, le celle B3 e B4 contengono i dati, mentre B5 è la cella dove viene effettuato il calcolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this case, it may be quicker to review all of these changes at once, rather than one review at a time.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T152437Z" creationid="luciano" creationdate="20160428T152835Z">
@@ -31141,6 +31149,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160616T093844Z" creationid="luciano" creationdate="20160616T093844Z">
         <seg>Da notare che un intervallo di celle restituisce i dati come array di array, che è più ingombrante di trattarlo come un array con due dimensioni, come fatto &lt;t2&gt;Listato 5&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notice that the formula was shown as =B3+B4.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20161230T072940Z" creationid="osvaldo" creationdate="20161230T072905Z">
+        <seg>Da notare che la formula è mostrata come =B3+B4.</seg>
       </tuv>
     </tu>
     <tu>
