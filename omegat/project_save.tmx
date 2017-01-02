@@ -8679,6 +8679,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>=AVERAGE(BloodSugar)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170102T175310Z" creationid="osvaldo" creationdate="20170102T175310Z">
+        <seg>=MEDIA(BloodSugar)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>=B8-SUM(B10:B14)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170102T145252Z" creationid="osvaldo" creationdate="20170102T145252Z">
@@ -8827,6 +8835,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170102T144520Z" creationid="osvaldo" creationdate="20170102T144520Z">
         <seg>=ARROTONDA(A1,1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>=SUM(B1:B1048576 )</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170102T175204Z" creationid="osvaldo" creationdate="20170102T175204Z">
+        <seg>=SOMMA(B1:B1048576 )</seg>
       </tuv>
     </tu>
     <tu>
@@ -13433,8 +13449,8 @@
       <tuv lang="EN">
         <seg>Calculates the sum of cells B10 to B14 and adds the value to B8.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170102T175053Z" creationid="osvaldo" creationdate="20170102T145608Z">
-        <seg>Calcola la somma delle celle da B10 a B14 e aggiungexx tale valore a B8.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170102T175146Z" creationid="osvaldo" creationdate="20170102T145608Z">
+        <seg>Calcola la somma delle celle da B10 a B14 e addiziona tale valore a B8.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41229,6 +41245,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T154041Z" creationid="steevie" creationdate="20160620T154041Z">
         <seg>Somma la colonna B per nomi in Col.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sums all numbers in column B.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170102T175240Z" creationid="osvaldo" creationdate="20170102T175240Z">
+        <seg>Somma tutti i numeri nella colonna B.</seg>
       </tuv>
     </tu>
     <tu>
