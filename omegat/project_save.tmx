@@ -50707,6 +50707,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Users of Lotus 1-2-3, Quattro Pro and other spreadsheet software may be familiar with formulas that begin with +, -, =, (, @, ., $, or #.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170102T180149Z" creationid="osvaldo" creationdate="20170102T180149Z">
+        <seg>Gli utenti di Lotus 1-2-3, Quattro Pro ed altri software di fogli di calcolo possono essere familiari con formule che iniziano con +, -, =, (, @, ., $, or #.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Uses an index to return a value from a list of up to 30 values.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Index&lt;/f1&gt; is a reference or number between 1 and 30 indicating which value is to be taken from the list.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Value1; ... &lt;/f3&gt;&lt;f4&gt;value30&lt;/f4&gt; is the list of values entered as a reference to a cell or as individual values.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T165706Z" creationid="Marco Marega" creationdate="20160820T165706Z">
