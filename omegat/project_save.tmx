@@ -8679,6 +8679,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>=B8-SUM(B10:B14)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170102T145252Z" creationid="osvaldo" creationdate="20170102T145252Z">
+        <seg>=B8-SOMMA(B10:B14)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>=COUNTIF(B1:C16; "9.*")</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153839Z" creationid="steevie" creationdate="20160620T153839Z">
@@ -8819,6 +8827,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170102T144520Z" creationid="osvaldo" creationdate="20170102T144520Z">
         <seg>=ARROTONDA(A1,1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>=SUM(B8,SUM(B10:B14))</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170102T145406Z" creationid="osvaldo" creationdate="20170102T145406Z">
+        <seg>=SOMMA(B8,SOMMA(B10:B14))</seg>
       </tuv>
     </tu>
     <tu>
@@ -12943,6 +12959,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calculates B8 minus the sum of the cells B10 to B14.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170102T145339Z" creationid="osvaldo" creationdate="20170102T145339Z">
+        <seg>Calcola B8 meno la somma delle celle da B10 a B14.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calculates a variance based on the entire population.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number_1; number_2; ... number_30&lt;/f1&gt; are numerical values or ranges representing an entire population.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T180437Z" creationid="Marco Marega" creationdate="20160817T180348Z">
@@ -13403,6 +13427,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160815T133100Z" creationid="Marco Marega" creationdate="20160815T133100Z">
         <seg>Calcola la deviazione standard di una stima basata su di un campione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Valore 1; valore 2; ... valore 30&lt;/f1&gt; sono valori o intervalli che rappresentano un campione estratto dall'intera popolazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calculates the sum of cells B10 to B14 and adds the value to B8.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170102T145608Z" creationid="osvaldo" creationdate="20170102T145608Z">
+        <seg>Calcola la somma delle celle da B10 a B14 e aggiunge tale valore a B8.</seg>
       </tuv>
     </tu>
     <tu>
