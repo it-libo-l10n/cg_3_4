@@ -8775,6 +8775,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>=IF(C31&gt;140, "HIGH", "OK")</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170102T175646Z" creationid="osvaldo" creationdate="20170102T175646Z">
+        <seg>=SE(C31&gt;140, "ALTO", "OK")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>=INDEX((B2:G2;B5:G5); 1; 2)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T171517Z" creationid="steevie" creationdate="20161130T171517Z">
@@ -18059,6 +18067,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20161230T094026Z" creationid="osvaldo" creationdate="20161230T094026Z">
         <seg>Visualizza il risultato della moltiplicazione di A1 e A2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays the results of a conditional analysis of data from two sources.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170102T175755Z" creationid="osvaldo" creationdate="20170102T175755Z">
+        <seg>Mostra i risultati di un'analisi condizionale dei dati da due fonti.</seg>
       </tuv>
     </tu>
     <tu>
