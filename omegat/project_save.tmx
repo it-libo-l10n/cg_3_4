@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.1_0_9319:9320" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12745,8 +12745,8 @@
       <tuv lang="EN">
         <seg>Calc is often used to present data and make forecasts and predictions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="mauri" changedate="20160229T203812Z">
-        <seg>Calc è spesso usato per presentare dei dati...............?!?!!?.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170113T220436Z">
+        <seg>Calc è spesso usato per presentare dei dati e per effettuare stime e previsioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23689,8 +23689,8 @@
       <tuv lang="EN">
         <seg>Graphics in Calc</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160202T103012Z">
-        <seg>Grafica in Calc</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170113T220401Z">
+        <seg>Figure in Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -50829,8 +50829,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>Using Graphics in Calc</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160202T103003Z">
-        <seg>Uso della grafica in Calc</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170113T220353Z">
+        <seg>Uso di figure in Calc</seg>
       </tuv>
     </tu>
     <tu>
