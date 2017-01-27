@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.1_0_9319:9320" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.0_0_9507:9510" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10753,8 +10753,8 @@
       <tuv lang="EN">
         <seg>Although using graphics in Calc is very similar to using graphics in any other component of &lt;f0&gt;LibreOffice&lt;/f0&gt;, this chapter explains some of the differences in their use.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170113T221836Z" creationid="Marco Marega" creationdate="20170113T221836Z">
-        <seg>Anche se in Calc l'utilizzo delle figure è molto simile al loro utilizzo in qualsiasi altro componente di &lt;f0&gt;LibreOffice&lt;/f0&gt;, questo capitolo spiega alcune delle differenze nel loro utilizzo.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170127T202954Z" creationid="Marco Marega" creationdate="20170113T221836Z">
+        <seg>Anche se in Calc l'utilizzo delle figure è molto simile in qualsiasi altro componente di &lt;f0&gt;LibreOffice&lt;/f0&gt;, questo capitolo spiega alcune delle differenze nel loro utilizzo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44517,8 +44517,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>The most commonly used graphic formats are GIF, JPG, PNG, and BMP.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20160220T005633Z">
-        <seg>I formati di immagini più usati sono GIF, JPG, PNG e BMP.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170127T202825Z">
+        <seg>I formati immagine più usati sono GIF, JPG, PNG e BMP.</seg>
       </tuv>
     </tu>
     <tu>
