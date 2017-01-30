@@ -42722,6 +42722,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Link option is discussed below.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170130T212235Z" creationid="Marco Marega" creationdate="20170130T212235Z">
+        <seg>L'opzione Collega viene trattata in seguito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Move/Copy dialog provides the opportunity to specify exactly where you want the sheet to go (in the same or a different document, and what its name will be, at the same time as moving or copying occurs.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T134251Z" creationid="michele" creationdate="20160525T134251Z">
@@ -52279,6 +52287,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T130111Z" creationid="steevie" creationdate="20160427T130111Z">
         <seg>Quando l'opzione &lt;f0&gt;&lt;f1&gt;LibreOffice&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; Basic&lt;/f2&gt; (si veda sopra) &lt;f3&gt;non&lt;/f3&gt; è selezionata, l'opzione  &lt;f4&gt;Mostra avviso&lt;/f4&gt; diviene disponibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the &lt;f3&gt;Link&lt;/f3&gt; option is not selected, the picture is embedded in the Calc document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170130T212319Z" creationid="Marco Marega" creationdate="20170130T212319Z">
+        <seg>Quando l'opzione &lt;f3&gt;Collega&lt;/f3&gt; non è selezionata, l'immagine viene incorporata nel documento di Calc.</seg>
       </tuv>
     </tu>
     <tu>
