@@ -45051,6 +45051,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The picture will be anchored to the cell where it was dropped.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170130T213821Z" creationid="Marco Marega" creationdate="20170130T213821Z">
+        <seg>L'immagine sarà ancorata alla cella sulla quale l'avete rilasciata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The pictures above and below show the difference.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160314T141756Z">
@@ -47359,6 +47367,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20161122T131936Z" creationid="Andrea" creationdate="20160808T111254Z">
         <seg>Ciò significa che le funzioni descritte vengono eseguite correttamente solo in assenza di righe o colonne vuote.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This method always embeds (saves a copy of) the image file in the Calc document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170130T214025Z" creationid="Marco Marega" creationdate="20170130T214025Z">
+        <seg>Questo metodo incorpora sempre l'immagine (ne salva una copia) all'interno documento di Calc.</seg>
       </tuv>
     </tu>
     <tu>
