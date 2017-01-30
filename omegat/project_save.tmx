@@ -38689,6 +38689,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See “&lt;bf0&gt;Positioning graphics&lt;/bf0&gt;” on page &lt;bf1&gt;138&lt;/bf1&gt; for more about positioning and anchoring graphics.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170130T211838Z" creationid="Marco Marega" creationdate="20170130T211838Z">
+        <seg>Per maggiori informazioni su come posizionare ed ancorare le figure vedete “&lt;bf0&gt;Posizionare le figure&lt;/bf0&gt;” a pagina &lt;bf1&gt;138&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See “&lt;bf1&gt;Choosing a drag mode&lt;/bf1&gt;” for details.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T160053Z" creationid="michele" creationdate="20160525T160053Z">
@@ -44967,6 +44975,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161212T145132Z" creationid="luciano" creationdate="20161212T145132Z">
         <seg>L'immagine ancorata alla pagina non si muoverà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The picture is inserted into Calc floating above the cells and anchored to the cell in which the cursor was placed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170130T211723Z" creationid="Marco Marega" creationdate="20170130T211723Z">
+        <seg>L'immagine viene inserita in Calc fluttuante sopra alle celle ed è ancorata alla cella in cui si trovava il cursore.</seg>
       </tuv>
     </tu>
     <tu>
