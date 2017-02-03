@@ -3662,6 +3662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Advantage&lt;/f0&gt; – Linking can reduce the size of the document when it is saved, because the image file itself is not included.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170203T134606Z" creationid="Marco Marega" creationdate="20170203T134417Z">
+        <seg>&lt;f0&gt;Vantaggio&lt;/f0&gt; – i collegamenti possono ridurre le dimensioni del documento, dato che quando questo viene salvato l'immagine stessa non è inclusa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Advantage&lt;/f0&gt; – You can modify the image file separately without changing the document because the link to the file remains valid, and the modified image will appear when you next open the document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170203T134224Z" creationid="Marco Marega" creationdate="20170203T134224Z">
@@ -46727,6 +46735,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T102457Z">
         <seg>Questo libro, le altre guide utente di &lt;f0&gt;LibreOffice&lt;/f0&gt;, il sistema di aiuto integrato, e i sistemi di assistenza agli utilizzatori presuppongono che da parte vostra vi sia un minimo di familiarità con il vostro computer e con funzioni basilari quali l'avvio di un programma, l'apertura ed il salvataggio di un file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This can be a big advantage if you (or someone else, perhaps a graphic artist) is updating images.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170203T134344Z" creationid="Marco Marega" creationdate="20170203T134344Z">
+        <seg>Questo può essere un grande vantaggio se voi (o qualcun altro, come ad esempio un grafico) aggiornate le immagini.</seg>
       </tuv>
     </tu>
     <tu>
