@@ -4534,6 +4534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Disadvantage&lt;/f0&gt; – If you send the document to someone else, or move it to a different computer, you must also send the image files, or the receiver will not be able to see the linked images.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170203T135032Z" creationid="Marco Marega" creationdate="20170203T135032Z">
+        <seg>&lt;f0&gt;Inconveniente&lt;/f0&gt; – Se spedite il documento a qualcun altro, o lo spostaste su di un altro computer, dovete inviare anche i file delle immagini, altrimenti il destinatario non sarà in grado di visualizzare le immagini collegate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Display document title:&lt;/f0&gt; Causes the PDF viewer to display the document’s title in the title bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T160402Z" creationid="Luciano B." creationdate="20160326T160402Z">
@@ -12675,6 +12683,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T151404Z" creationid="Luciano B." creationdate="20160329T151404Z">
         <seg>LibreOffice può esportare file in XHTML, se è installato il filtro appropriato (predefinito su Mac e Linux; opzionale su Windows).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calc can handle quite large files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170203T134844Z" creationid="Marco Marega" creationdate="20170203T134844Z">
+        <seg>Calc può gestire file abbastanza grandi.</seg>
       </tuv>
     </tu>
     <tu>
