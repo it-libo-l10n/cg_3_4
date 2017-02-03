@@ -44026,6 +44026,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The file size is usually not a problem on a modern computer with a reasonable amount of memory, unless the document includes many large graphics files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170203T134812Z" creationid="Marco Marega" creationdate="20170203T134812Z">
+        <seg>Di solito le dimensioni del file non sono un problema su di un moderno computer con una discreta capacità di memoria, a meno che il documento non includa molti file grafici grandi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The filter descriptor must be modified before the filter is applied.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160517T132456Z" creationid="steevie" creationdate="20160517T132456Z">
