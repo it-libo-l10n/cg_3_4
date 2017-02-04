@@ -24519,6 +24519,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, this is not necessary, as &lt;f0&gt;LibreOffice&lt;/f0&gt; embeds only one copy of the image file in the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170204T164318Z" creationid="Marco Marega" creationdate="20170204T164318Z">
+        <seg>Questo non è necessario, in quanto &lt;f0&gt;LibreOffice&lt;/f0&gt; include nel documento una sola copia del file dell'immagine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, we will not always know what the contents should be.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20160818T114048Z" creationid="osvaldo" creationdate="20160818T114048Z">
@@ -52351,6 +52359,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20160808T140317Z" creationid="Andrea" creationdate="20160808T140317Z">
         <seg>Quando inserite dati non aggiungete strutture, gruppi o riepiloghi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When inserting the same image several times in the document, it might appear beneficial to create links.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170204T164150Z" creationid="Marco Marega" creationdate="20170204T164150Z">
+        <seg>Quando inserite la stessa immagine più volte nel documento, potrebbe sembravi utile creare dei collegamenti invece di incorporarla.</seg>
       </tuv>
     </tu>
     <tu>
