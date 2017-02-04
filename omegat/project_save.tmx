@@ -16055,6 +16055,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click to place the cursor where the graphic is to be inserted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170204T165908Z" creationid="Marco Marega" creationdate="20170204T165908Z">
+        <seg>Fate clic per posizionare il cursore nel punto in cui volete inserire l'immagine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click to toggle between &lt;f0&gt;INSRT&lt;/f0&gt; (&lt;f1&gt;Insert&lt;/f1&gt;) and &lt;f2&gt;OVER&lt;/f2&gt; (&lt;f3&gt;Overwrite&lt;/f3&gt;) modes when typing.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T093138Z" creationid="michele" creationdate="20160524T093138Z">
@@ -25511,6 +25519,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the application from which the graphic was copied is closed before the graphic is pasted into Calc, the image stored on the clipboard could be lost from the clipboard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170204T170152Z" creationid="Marco Marega" creationdate="20170204T170152Z">
+        <seg>Se chiudete l'applicazione dalla quale avete copiato l'immagine prima di incollarla in Calc, l'immagine memorizzata negli appunti potrebbe andare persa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the cell contains a number, the number will fill in series.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T173703Z" creationid="Elisabetta" creationdate="20160628T173703Z">
@@ -33969,6 +33985,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press &lt;f0&gt;Control+V&lt;/f0&gt; to insert the image.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170204T170007Z" creationid="Marco Marega" creationdate="20170204T170007Z">
+        <seg>Premete &lt;f0&gt;Ctrl+V&lt;/f0&gt; per inserirla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press Enter to move selection</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T131703Z" creationid="steevie" creationdate="20160427T131703Z">
@@ -41701,6 +41725,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160816T151939Z" creationid="antonio" creationdate="20160816T151939Z">
         <seg>Ritornate al foglio di lavoro originale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch to the Calc window.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170204T165844Z" creationid="Marco Marega" creationdate="20170204T165844Z">
+        <seg>Spostatevi nella finestra di Calc.</seg>
       </tuv>
     </tu>
     <tu>
