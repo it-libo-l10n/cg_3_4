@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Deleting one or more of the copies does not affect the others.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170204T164414Z" creationid="Marco Marega" creationdate="20170204T164414Z">
+        <seg>(La cancellazione di una o più copie non influisce sulle rimanenti.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Exception: see Tip below.)&lt;f1&gt; &lt;/f1&gt;To preserve the leading zero, for example for telephone area codes, type an apostrophe before the number, like this: &lt;f2&gt;'01481&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T161628Z" creationid="Elisabetta" creationdate="20160627T161628Z">
@@ -18975,6 +18983,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Embedding linked images</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170204T164506Z" creationid="Marco Marega" creationdate="20170204T164506Z">
+        <seg>Incorporare immagini collegate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Embedding spreadsheets</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160205T095933Z">
@@ -26531,6 +26547,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160723T163413Z" creationid="Elisabetta" creationdate="20160723T163413Z">
         <seg>Se non è più necessario visualizzare un gruppo, posizionatevi il cursore del mouse e selezionate la voce &lt;f0&gt;Dati &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Raggruppa e struttura &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Separa&lt;/f6&gt;&lt;f7&gt; oppure premete la combinazione di tasti &lt;/f7&gt;&lt;f8&gt;Ctrl+F12&lt;/f8&gt;&lt;f9&gt;.&lt;/f9&gt; Per rimuovere tutti i gruppi di un foglio, selezionate la voce &lt;f10&gt;Dati &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;&gt;&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; Raggruppa e struttura &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;&gt;&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt; Rimuovi&lt;/f16&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you originally linked the images, you can easily embed (save in the Calc document) one or more of them later if you wish.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170204T164735Z" creationid="Marco Marega" creationdate="20170204T164735Z">
+        <seg>Se in un primo momento avete collegato le immagini, in seguito, se volete, potete facilmente incorporarne una o più (salvandole nel documento di Calc).</seg>
       </tuv>
     </tu>
     <tu>
@@ -56023,6 +56047,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T154356Z" creationid="Luciano B." creationdate="20160326T154356Z">
         <seg>incorpora caratteri standard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>embedding</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170204T164427Z" creationid="Marco Marega" creationdate="20170204T164427Z">
+        <seg>incorporazione</seg>
       </tuv>
     </tu>
     <tu>
