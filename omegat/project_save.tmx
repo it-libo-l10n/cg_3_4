@@ -4536,8 +4536,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Disadvantage&lt;/f0&gt; – If you send the document to someone else, or move it to a different computer, you must also send the image files, or the receiver will not be able to see the linked images.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170203T135032Z" creationid="Marco Marega" creationdate="20170203T135032Z">
-        <seg>&lt;f0&gt;Inconveniente&lt;/f0&gt; – Se spedite il documento a qualcun altro, o lo spostaste su di un altro computer, dovete inviare anche i file delle immagini, altrimenti il destinatario non sarà in grado di visualizzare le immagini collegate.</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170204T163438Z" creationid="Marco Marega" creationdate="20170203T135032Z">
+        <seg>&lt;f0&gt;Inconveniente&lt;/f0&gt; – Se spedite il documento a qualcun altro, o lo spostate su di un altro computer, dovete inviare anche i file delle immagini, altrimenti il destinatario non sarà in grado di visualizzare quelle collegate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54951,6 +54951,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T142333Z" creationid="steevie" creationdate="20161130T142333Z">
         <seg>Vi serve un indice nell'intervallo piuttosto che il valore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You need to keep track of the location of the images and make sure the recipient knows where to put them on another machine, so the Calc document can find them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170204T163700Z" creationid="Marco Marega" creationdate="20170204T163700Z">
+        <seg>Dovete prendere nota della posizione delle immagini ed assicurarvi che il destinatario sappia dove salvarle su di un altro computer, in modo che il documento di Calc le possa ritrovare.</seg>
       </tuv>
     </tu>
     <tu>
