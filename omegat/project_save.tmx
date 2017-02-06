@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>% (Percent)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T152005Z" creationid="osvaldo" creationdate="20170206T152005Z">
+        <seg>% (Percento)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>'.Connection = com.sun.star.sheet.FilterConnection.AND</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135454Z" creationid="steevie" creationdate="20160511T135454Z">
@@ -302,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* (asterisk)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T151916Z" creationid="osvaldo" creationdate="20170206T151916Z">
+        <seg>* (asterisco)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* [ ] : and ' as the first or last character of the name.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160527T101024Z" creationid="antonio" creationdate="20160527T101024Z">
@@ -330,6 +346,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T180417Z" creationid="Marco Marega" creationdate="20160817T180417Z">
         <seg>.valore 30)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>/ (Slash)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T151952Z" creationid="osvaldo" creationdate="20170206T151952Z">
+        <seg>/ (Barra)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10191,6 +10215,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Addition</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T151813Z" creationid="osvaldo" creationdate="20170206T151813Z">
+        <seg>Addizione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adds all the numbers in a range of cells.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T145000Z" creationid="Marco Marega" creationdate="20160626T145000Z">
@@ -18275,6 +18307,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170102T175755Z" creationid="osvaldo" creationdate="20170102T175755Z">
         <seg>Mostra i risultati di un'analisi condizionale dei dati da due fonti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Division</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T151957Z" creationid="osvaldo" creationdate="20170206T151957Z">
+        <seg>Divisione</seg>
       </tuv>
     </tu>
     <tu>
@@ -31289,6 +31329,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Multiplication</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T151926Z" creationid="osvaldo" creationdate="20170206T151926Z">
+        <seg>Moltiplicazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Multiplies all cells of a data range where the cell contents match the &lt;f0&gt;search_criteria&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;The search supports regular expressions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T202756Z" creationid="Marco Marega" creationdate="20160819T202756Z">
@@ -31501,6 +31549,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T155223Z" creationid="michele" creationdate="20160531T155223Z">
         <seg>Navigatore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Negation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T151906Z" creationid="osvaldo" creationdate="20170206T151906Z">
+        <seg>Negazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -33161,6 +33217,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Operator</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T151750Z" creationid="osvaldo" creationdate="20170206T151750Z">
+        <seg>Operatore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Operator is missing; for example, &lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T201751Z" creationid="Elisabetta" creationdate="20160815T201751Z">
@@ -33789,6 +33853,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161224T160711Z" creationid="Andrea" creationdate="20161224T160711Z">
         <seg>I tratteggi sono probabilmente piu' utili dei colori se dovete stampare il diagramma in bianco e nero.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Percent</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T152014Z" creationid="osvaldo" creationdate="20170206T152014Z">
+        <seg>Percento</seg>
       </tuv>
     </tu>
     <tu>
@@ -41797,6 +41869,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160530T153548Z" creationid="michele" creationdate="20160530T153548Z">
         <seg>Sono utilizzati i Subtotali per le Vendite di ogni Dipendente e Categoria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Subtraction</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T151847Z" creationid="osvaldo" creationdate="20170206T151847Z">
+        <seg>Sottrazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -58319,6 +58399,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T154502Z" creationid="steevie" creationdate="20160428T154502Z">
         <seg>–</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>– (Minus)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T151858Z" creationid="osvaldo" creationdate="20170206T151858Z">
+        <seg>– (Meno)</seg>
       </tuv>
     </tu>
     <tu>
