@@ -11047,6 +11047,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An expression using the range operator has the following syntax:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T165417Z" creationid="osvaldo" creationdate="20170206T165417Z">
+        <seg>Una espressione che usa un operatore di intervallo ha la sintassi seguente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An identifier could not be evaluated: no valid reference, no valid domain name, no column/row label, no macro, incorrect decimal divider, add-in not found.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T195318Z" creationid="Elisabetta" creationdate="20160815T195318Z">
@@ -35401,6 +35409,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Range operator</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T165300Z" creationid="osvaldo" creationdate="20170206T165300Z">
+        <seg>Operatore di intervallo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Range section</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165446Z" creationid="Luciano B." creationdate="20160325T165446Z">
@@ -45903,6 +45919,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160527T154647Z" creationid="michele" creationdate="20160527T154543Z">
         <seg>L'area dati è selezionata dai dati filtrati, e la funzione è selezionata dalla lista di possibili funzioni come mostrato in nell'estratto dell'Help in Figura &lt;/f3&gt;&lt;f4&gt;&lt;t5&gt;230&lt;/t5&gt;&lt;/f4&gt;&lt;f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The range operator is written as colon.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T165341Z" creationid="osvaldo" creationdate="20170206T165341Z">
+        <seg>L'operatore di intervalllo si specifica con i due punti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57859,6 +57883,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>range operator</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T165227Z" creationid="osvaldo" creationdate="20170206T165227Z">
+        <seg>Operatore di intervallo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>range operators</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T165200Z" creationid="osvaldo" creationdate="20170206T165200Z">
@@ -57879,6 +57911,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160422T160716Z" creationid="luciano" creationdate="20160422T160716Z">
         <seg>registrazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>reference left : reference right</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T165449Z" creationid="osvaldo" creationdate="20170206T165449Z">
+        <seg>riferimento di sinistra : riferimento di destra</seg>
       </tuv>
     </tu>
     <tu>
