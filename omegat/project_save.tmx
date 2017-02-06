@@ -35553,6 +35553,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reference to a rectangle range with 6 cells, 2 column width × 3 row height.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T170322Z" creationid="osvaldo" creationdate="20170206T170322Z">
+        <seg>Riferimento ad un intervallo rettangolare con 6 celle, 2 colonne di larghezza × 3 righe di altezza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>References, such as when a cell references a cell, are too encapsulated or deeply nested.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T203915Z" creationid="Elisabetta" creationdate="20160815T203915Z">
@@ -53319,6 +53327,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160530T145651Z" creationid="michele" creationdate="20160530T145651Z">
         <seg>Quando fai clic su &lt;f1&gt;OK&lt;/f1&gt;, Calc aggiunge subtotali e risultati complessivi ai gruppi selezionati, usando gli stili di celle Risultati e Risultati2 per differenziare gli esiti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you click on the reference in the formula in the input line, a border indicates the rectangle.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T170443Z" creationid="osvaldo" creationdate="20170206T170443Z">
+        <seg>Quando si clicca sul riferimento nella formula nella linea di input, un bordo indica il rettangolo in questione.</seg>
       </tuv>
     </tu>
     <tu>
