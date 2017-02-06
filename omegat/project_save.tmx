@@ -49419,6 +49419,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To join these segments together, the formula also adds required spaces and punctuation enclosed within quotation marks, resulting in a formula of&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;=B2 &amp; " " &amp; C2 &amp; ", " &amp; D2&lt;/f2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T160345Z" creationid="osvaldo" creationdate="20170206T160345Z">
+        <seg>Per unire insieme questi segmenti, la formula aggiunge i necessari spazi e i caratteri di punteggiatura racchiudendoli tra apici, ottenendo la formula &lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;=B2 &amp; " " &amp; C2 &amp; ", " &amp; D2&lt;/f2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To jump to a specific cell in the current sheet, type its cell reference in the Column and Row boxes at the top of the Navigator and press the &lt;f0&gt;Enter&lt;/f0&gt; key; for example, in &lt;t1&gt;Figure 35&lt;/t1&gt; the cell reference is A7.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T160510Z" creationid="michele" creationdate="20160525T160510Z">
