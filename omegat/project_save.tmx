@@ -53419,6 +53419,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you enter B4:A2 or A4:B2 directly, then Calc will turn it to A2:B4.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T171148Z" creationid="osvaldo" creationdate="20170206T171148Z">
+        <seg>Quando di specifica direttamente B4:A2 o A4:B2,  Calc lo trasforma in A2:B4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you enter new data into a cell, the Sum and Equals buttons change to &lt;f0&gt;Cancel&lt;/f0&gt; and &lt;f1&gt;Accept&lt;/f1&gt; buttons &lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T083126Z" creationid="michele" creationdate="20160524T083126Z">
