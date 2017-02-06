@@ -8857,8 +8857,8 @@
       <tuv lang="EN">
         <seg>=IF(A2&gt;=0,"Positive","Negative")</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T150452Z" creationid="osvaldo" creationdate="20170206T150452Z">
-        <seg>=IF(A2&gt;=0,"Positivo","Negativo")</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T152751Z" creationid="osvaldo" creationdate="20170206T150452Z">
+        <seg>=SE(A2&gt;=0,"Positivo","Negativo")</seg>
       </tuv>
     </tu>
     <tu>
