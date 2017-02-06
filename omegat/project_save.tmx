@@ -9367,6 +9367,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A mathematical formula would look like +D2+C2 or +2*3.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T143159Z" creationid="osvaldo" creationdate="20170206T143159Z">
+        <seg>Una formula matematica sarebbe simile a +D2+C2 oppure +2*3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A maximum of eight rows can be used for the query, &lt;f0&gt;including&lt;/f0&gt; the header row.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T164731Z" creationid="Elisabetta" creationdate="20160725T164731Z">
@@ -23715,6 +23723,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T100026Z">
         <seg>Funzioni disponibili in Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Functions begin with the @ symbol such as @SUM(D2..D7), @COS(@DEGTORAD(30)) and @IRR(GUESS,CASHFLOWS).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T143310Z" creationid="osvaldo" creationdate="20170206T143310Z">
+        <seg>Funzioni che iniziano con il simbolo @, come ad esempio @SUM(D2..D7), @COS(@DEGTORAD(30)) e @IRR(GUESS,CASHFLOWS).</seg>
       </tuv>
     </tu>
     <tu>
