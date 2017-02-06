@@ -54875,6 +54875,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can use the following operator types in &lt;f0&gt;LibreOffice&lt;/f0&gt; Calc: arithmetic, comparative, text, and reference.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T150957Z" creationid="osvaldo" creationdate="20170206T150957Z">
+        <seg>Si possono usare i seguenti tipi di operatori in &lt;f0&gt;LibreOffice&lt;/f0&gt; Calc: arirmetici, confronto, testo, e riferimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can use this function to control error values in certain cells.&lt;f0&gt; &lt;/f0&gt;If an error occurs, the function returns a logical or numerical value.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Value&lt;/f2&gt; is any value or expression in which a test is performed to determine whether an error value not equal to #N/A is present.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T132248Z" creationid="Marco Marega" creationdate="20160819T132248Z">
@@ -55487,6 +55495,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160615T155607Z" creationid="luciano" creationdate="20160615T155607Z">
         <seg>argomenti nelle funzioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>arithmetic operators</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T151011Z" creationid="osvaldo" creationdate="20170206T151011Z">
+        <seg>Operatori aritmetici</seg>
       </tuv>
     </tu>
     <tu>
