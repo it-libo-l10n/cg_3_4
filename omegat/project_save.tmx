@@ -25383,6 +25383,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If cell A1 contains the numerical value 4 and cell B1 the numerical value 5, the above examples would yield results of FALSE, FALSE, TRUE, FALSE, TRUE, and TRUE.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T154504Z" creationid="osvaldo" creationdate="20170206T154504Z">
+        <seg>Se la cella A1 contiene il valore numerico 4 e la cella B1 il valore numerico 5, l'esempio precedente ritorna FALSO, FALSO, VERO, FALSO, VERO, e VERO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If cells are set to accept invalid content with a warning, rather than refusing it, you can use &lt;f0&gt;Tools &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Detective &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Mark Invalid Data&lt;/f6&gt; to find the cells with invalid data.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T090648Z" creationid="Elisabetta" creationdate="20160629T090648Z">
