@@ -12631,6 +12631,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>COUNT(A1:C3~B2:D2) returns 12 (=9+3), but it has only 10 cells when considered as the union of the two sets of cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T173641Z" creationid="osvaldo" creationdate="20170206T173641Z">
+        <seg>CONTA(A1:C3~B2:D2) fornisce 12 (=9+3), ma ha soltanto 10 celle quando lo si considera come l'unione dei due insiemi di celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>COUNT(value_1; value_2; ... value_30)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T093002Z" creationid="Marco Marega" creationdate="20160730T093002Z">
