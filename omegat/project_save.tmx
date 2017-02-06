@@ -45923,6 +45923,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The range operator builds a reference to the smallest range including both the cells referenced with the left reference and the cells referenced with the right reference.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T165714Z" creationid="osvaldo" creationdate="20170206T165714Z">
+        <seg>L'operatore di intervallo realizza il riferimento all'intervallo più piccolo che include sia le celle referenziate con il riferimento di sinistra, sia le celle referenziate con il riferimento di destra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The range operator is written as colon.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T165341Z" creationid="osvaldo" creationdate="20170206T165341Z">
