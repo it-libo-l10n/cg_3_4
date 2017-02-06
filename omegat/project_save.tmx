@@ -12879,6 +12879,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc has a &lt;is0/&gt;CONCATENATE&lt;ie1/&gt; function which performs the same operation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T160635Z" creationid="osvaldo" creationdate="20170206T160635Z">
+        <seg>Calc ha la funzione &lt;is0/&gt;CONCATENA&lt;ie1/&gt; che effettua la stessa operazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc has a good selection of regression types you can use for trend lines: &lt;f0&gt;linear, l&lt;/f0&gt;ogarithm, exponential, and power.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161102T182519Z" creationid="Andrea" creationdate="20161102T182519Z">
@@ -45927,6 +45935,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T124026Z" creationid="Marco Marega" creationdate="20160821T124026Z">
         <seg>Il risultato è la cella del vettore del risultato che ha lo stesso indice dell'istanza trovata nel vettore di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The result is the concatenation into a date formatted in a particular sequence.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T160539Z" creationid="osvaldo" creationdate="20170206T160539Z">
+        <seg>Il risultato è la concatenazione in una data, formattata secondo una particolare sequenza.</seg>
       </tuv>
     </tu>
     <tu>
