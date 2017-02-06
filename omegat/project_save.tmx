@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.0_0_9507:9510" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -51253,8 +51253,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>Users of Lotus 1-2-3, Quattro Pro and other spreadsheet software may be familiar with formulas that begin with +, -, =, (, @, ., $, or #.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170102T180149Z" creationid="osvaldo" creationdate="20170102T180149Z">
-        <seg>Gli utenti di Lotus 1-2-3, Quattro Pro ed altri software di fogli di calcolo possono essere familiari con formule che iniziano con +, -, =, (, @, ., $, or #.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T142820Z" creationid="osvaldo" creationdate="20170102T180149Z">
+        <seg>Gli utenti di Lotus 1-2-3, Quattro Pro ed altri software di fogli di calcolo possono essere familiari con formule che iniziano con +, -, =, (, @, ., $, oppure #.</seg>
       </tuv>
     </tu>
     <tu>
