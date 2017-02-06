@@ -32049,6 +32049,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notice that SUM(A1:C3,B2:D2) is different from SUM( A1:C3~B2:D2) although they give the same result.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T173746Z" creationid="osvaldo" creationdate="20170206T173746Z">
+        <seg>Da notare come SOMMA(A1:C3,B2:D2) sia differente da SOMMA( A1:C3~B2:D2) anche se danno lo stesso risultato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notice that a cell range returns data as an array of arrays, which is more cumbersome than treating it as an array with two dimensions as is done in &lt;t2&gt;Listing 5&lt;/t2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160616T093844Z" creationid="luciano" creationdate="20160616T093844Z">
