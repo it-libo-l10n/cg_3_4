@@ -35553,6 +35553,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reference to a cuboid range with 24 cells, 4 column width × 2 row height × 3 sheets depth.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T171009Z" creationid="osvaldo" creationdate="20170206T171009Z">
+        <seg>Referenzia un cuboide con intervallo di 24 celle, larghezza 4 colonne × altezza 2 righe × 3 fogli di profondità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reference to a rectangle range with 6 cells, 2 column width × 3 row height.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T170322Z" creationid="osvaldo" creationdate="20170206T170322Z">
@@ -40781,6 +40789,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T084524Z" creationid="michele" creationdate="20160524T084524Z">
         <seg>Schede dei fogli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sheet1.A3:Sheet3.D4</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T170756Z" creationid="osvaldo" creationdate="20170206T170756Z">
+        <seg>Foglio1.A3:Foglio3.D4</seg>
       </tuv>
     </tu>
     <tu>
