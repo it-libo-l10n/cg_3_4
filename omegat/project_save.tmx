@@ -27575,6 +27575,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In its simplest form a reference refers to a single cell, but references can also refer to a rectangle or cuboid range or a reference in a list of references.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T164436Z" creationid="osvaldo" creationdate="20170206T164436Z">
+        <seg>Nella sua forma più semplice un riferimento si riferisce ad una sinola cella, ma i riferimenti possono anche riferirsi ad un intervallo rettangolare o cuboide o a un riferimento in una lista di riferimenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In most cases we do not use the technical terms in this book, but it is useful to know them because the Help and other sources of information often use them.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084333Z">
@@ -48639,6 +48647,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164520Z" creationid="steevie" creationdate="20160428T164520Z">
         <seg>Per iniziare, selezionate il menu o sottomenu dall'elenco Menu nella parte alta della pagina Personalizza, quindi selezionate la voce nell'elenco delle Voci nell'area Contenuto menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To build such references you need reference operators.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T164529Z" creationid="osvaldo" creationdate="20170206T164529Z">
+        <seg>Per costruire tali riferimenti sono necessari operatori di riferimento.</seg>
       </tuv>
     </tu>
     <tu>
