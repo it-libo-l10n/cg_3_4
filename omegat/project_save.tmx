@@ -11071,6 +11071,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An individual cell is identified by the column identifier (letter) located along the top of the columns and a row identifier (number) found along the left-hand side of the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T164748Z" creationid="osvaldo" creationdate="20170206T164748Z">
+        <seg>Una singola cella è identificata dall'identificatore della colonna (lettera) posta in cima alle colonne, e un identificativo di riga (numero) che si trova lungo il lato destro del foglio di calcolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An x value of 90, with y and z set to 0, provides a view from the top of the chart.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161224T164453Z" creationid="Andrea" creationdate="20161224T164453Z">
@@ -32365,6 +32373,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T122223Z" creationid="michele" creationdate="20160524T122202Z">
         <seg>Su altri siti web potreste trovare collezioni di modelli pacchettizzate in file con estensione (.&lt;i3/&gt;&lt;f4&gt;OXT)&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On spreadsheets read from left to right, the upper left cell is A1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T164905Z" creationid="osvaldo" creationdate="20170206T164905Z">
+        <seg>Nei fogli di lavoro si legge da sinistra a destra, la cella in alto a sinistra è la A1.</seg>
       </tuv>
     </tu>
     <tu>
