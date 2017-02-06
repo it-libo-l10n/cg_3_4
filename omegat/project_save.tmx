@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.0_0_9507:9510" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6962,6 +6962,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160720T162704Z" creationid="briga" creationdate="20160720T162704Z">
         <seg>&lt;f0&gt;La scheda &lt;/f0&gt;&lt;f1&gt;Effetti carattere&lt;/f1&gt; &lt;f2&gt; offre ulteriori opzioni comprese sottolineato, barrato e colori.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;i1/&gt;Gallery is available in all components of &lt;f2&gt;LibreOffice&lt;/f2&gt;&lt;f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170206T220619Z" creationid="Marco Marega" creationdate="20170206T220619Z">
+        <seg>&lt;/f0&gt;La&lt;f0&gt;&lt;i1/&gt; Galleria è presente in tutti i componenti di &lt;f2&gt;LibreOffice&lt;/f2&gt;&lt;f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
