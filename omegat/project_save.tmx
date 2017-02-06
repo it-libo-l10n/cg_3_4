@@ -29040,6 +29040,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Intersection operator</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T174219Z" creationid="osvaldo" creationdate="20170206T174219Z">
+        <seg>Operatore di intersezione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Introducing Calc</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T211755Z">
@@ -43218,6 +43226,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;is0/&gt;&lt;is1/&gt;intersection operator&lt;ie2/&gt;&lt;ie3/&gt; is written as an exclamation mark.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T174311Z" creationid="osvaldo" creationdate="20170206T174311Z">
+        <seg>L' &lt;is0/&gt;&lt;is1/&gt;operatore di intersezione &lt;ie2/&gt;&lt;ie3/&gt; è scritto come un punto esclamativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;is0/&gt;relief options&lt;ie1/&gt; are embossed (raised text), engraved (sunken text), outline, and shadow.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160721T154549Z" creationid="Elisabetta" creationdate="20160721T154549Z">
@@ -46511,6 +46527,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160601T144345Z" creationid="michele" creationdate="20160601T144345Z">
         <seg>La seconda matrice viene cosi riempita con i risultati usando ogni valore alternativo al posto del valore originale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The second is a function call with 1 parameter, which is a reference list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T174152Z" creationid="osvaldo" creationdate="20170206T174152Z">
+        <seg>La seconda è una chiamata di funzione con 1 parametro, che è una lista di riferimento..</seg>
       </tuv>
     </tu>
     <tu>
