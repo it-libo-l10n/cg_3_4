@@ -9247,6 +9247,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A direct answer of TRUE or FALSE can be obtained by entering a formula such as &lt;f0&gt;=B6&gt;B12&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T153608Z" creationid="osvaldo" creationdate="20170206T153608Z">
+        <seg>Una risposta diretta VERO o FALSO si può ottenere immettendo una formula del tipo: &lt;f0&gt;=B6&gt;B12&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A document can be digitally signed only after it has been saved.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T094217Z" creationid="michele" creationdate="20160524T094217Z">
@@ -16305,8 +16313,8 @@
       <tuv lang="EN">
         <seg>Comparative operators are found in formulas that use the IF function and return either a true or false answer; for example, &lt;f0&gt;=IF(B6&gt;G12, 127, 0)&lt;/f0&gt; which, loosely translated, means if the contents of cell B6 are greater than the contents of cell G12, then return the number 127, otherwise return the number 0.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T152606Z" creationid="osvaldo" creationdate="20170206T152606Z">
-        <seg>Gli operatori di confronto si incontrano in formule che usano la funzione IF e ritornano un risultato che è o vero o falso; per esempio, &lt;f0&gt;=SE(B6&gt;G12, 127, 0)&lt;/f0&gt; which, loosely translated, means if the contents of cell B6 are greater than the contents of cell G12, then return the number 127, otherwise return the number 0.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T153447Z" creationid="osvaldo" creationdate="20170206T152606Z">
+        <seg>Gli operatori di confronto si incontrano in formule che usano la funzione SE e ritornano un risultato che è o vero o falso; per esempio, &lt;f0&gt;=SE(B6&gt;G12, 127, 0)&lt;/f0&gt; che liberamente tradotto significa: se i contenuti della cella B6 sono maggiori dei contenuti della cella G12, allora ritorna il numero 127, altrimenti ritorna il numero 0.</seg>
       </tuv>
     </tu>
     <tu>
