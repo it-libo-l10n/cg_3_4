@@ -78,6 +78,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>'February' !</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T135159Z" creationid="osvaldo" creationdate="20170207T135028Z">
+        <seg>'febbraio' !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>'Temperature'</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T135034Z" creationid="osvaldo" creationdate="20170207T135034Z">
+        <seg>'Temperatura'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(0 = Min, 1 = 25%, 2 = 50% (Median), 3 = 75% and 4 = Max.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160813T141926Z" creationid="Marco Marega" creationdate="20160813T141926Z">
@@ -26739,6 +26755,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T085001Z" creationid="Elisabetta" creationdate="20160629T085001Z">
         <seg>Alternativamente potete aprire una lista di scelta modificando le impostazioni di compatibilità da modalità &lt;f0&gt;Predefinita&lt;/f0&gt; a &lt;f1&gt;Retrocompatibilità OpenOffice.org&lt;/f1&gt; nel menu &lt;f2&gt;Strumenti &gt; Opzioni &gt; LibreOffice Calc &gt; Compatibilità&lt;/f2&gt;, quindi facendo clic in una cella vuota e premendo la combinazione &lt;f3&gt;Ctrl+D&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have columns labeled 'Temperature' and 'Precipitation' and the rows labeled 'January', 'February', 'March', and so on, then the following expression</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T135013Z" creationid="osvaldo" creationdate="20170207T135013Z">
+        <seg>Se ci sono colonne etichettate con 'Temperatura' e 'Precipitazione' e le righe sono etichettate  'Gennaio', 'Febbraio', 'Marzo', e così via, allora l'espressione:</seg>
       </tuv>
     </tu>
     <tu>
@@ -59079,6 +59103,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161008T164157Z" creationid="Andrea" creationdate="20161008T164157Z">
         <seg>pareti del diagramma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>will reference to the cell containing the temperature in February.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T135153Z" creationid="osvaldo" creationdate="20170207T135153Z">
+        <seg>farà riferimento alla cella contenente la temperatura in febbraio.</seg>
       </tuv>
     </tu>
     <tu>
