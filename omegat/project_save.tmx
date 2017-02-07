@@ -26079,6 +26079,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the references refer to single ranges, the result is a reference to a single range, containing all cells, which are both in the left reference and in the right reference.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T132733Z" creationid="osvaldo" creationdate="20170207T132733Z">
+        <seg>Se i riferimenti si riferiscono a singoli intervalli, il risultato è un riferimento a un singolo intervallo, contenente tutte le celle, che sono sia nel riferimento di sinistra che in quello di destra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the result of the iteration is lower than the minimum change value, then the iteration will stop.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145511Z" creationid="steevie" creationdate="20160427T145511Z">
