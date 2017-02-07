@@ -9223,6 +9223,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A column of figures might show amounts in US Dollars.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T145423Z" creationid="osvaldo" creationdate="20170207T145423Z">
+        <seg>Una colonna di cifre potrebbe mostrare delle somme in dollari US.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A confirmation dialog appears if you are about to overwrite an existing file, otherwise there will be no feedback and the file will be saved.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172529Z" creationid="steevie" creationdate="20160428T172529Z">
@@ -49339,6 +49347,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To convert these amounts to Euros it is necessary to multiply each dollar amount by the exchange rate.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T145522Z" creationid="osvaldo" creationdate="20170207T145522Z">
+        <seg>Per convertire questi importi in Euro è necessario moltiplicare ogni cifra in dollari per il tasso di cambio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To copy a style from one spreadsheet to another, or between a spreadsheet and a template, instead of recreating it in the second spreadsheet, use the Template Management dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160820T053559Z" creationid="briga" creationdate="20160820T053559Z">
@@ -56111,6 +56127,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T150000Z" creationid="luciano" creationdate="20160423T143803Z">
         <seg>Potreste volere spiegare le logica seguita per le modifiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may want to multiply a column of numbers by a fixed amount.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T145308Z" creationid="osvaldo" creationdate="20170207T145308Z">
+        <seg>Si potrebbe voler moltiplicare una colonna di numeri per una quantità fissa.</seg>
       </tuv>
     </tu>
     <tu>
