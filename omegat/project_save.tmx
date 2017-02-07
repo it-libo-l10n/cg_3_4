@@ -55619,6 +55619,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can use the intersection operator to refer a cell in a cross tabulation in an understandable way.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T134552Z" creationid="osvaldo" creationdate="20170207T134552Z">
+        <seg>È possibile utilizzare l'operatore di intersezione per fare riferimento in modo comprensibile ad una cella in una tabulazione incrociata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can use this function to control error values in certain cells.&lt;f0&gt; &lt;/f0&gt;If an error occurs, the function returns a logical or numerical value.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Value&lt;/f2&gt; is any value or expression in which a test is performed to determine whether an error value not equal to #N/A is present.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T132248Z" creationid="Marco Marega" creationdate="20160819T132248Z">
