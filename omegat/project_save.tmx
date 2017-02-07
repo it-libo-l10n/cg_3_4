@@ -10079,6 +10079,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Absolute, from cell E3 it is the cell D1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T181620Z" creationid="osvaldo" creationdate="20170207T181620Z">
+        <seg>Assoluto, dalla cella E3 è la cella D1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Accepting or rejecting changes</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160425T121754Z" creationid="luciano" creationdate="20160425T121754Z">
@@ -34337,6 +34345,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Partially absolute, from cell E3 it is the cell in column D and two rows above</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T181711Z" creationid="osvaldo" creationdate="20170207T181711Z">
+        <seg>Parzialmente assoluto, dalla  cella  E3è la cella in colonna  D e due righe sopra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Parts of the main Calc window</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T211829Z">
@@ -36069,6 +36085,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T140737Z" creationid="osvaldo" creationdate="20170207T140737Z">
         <seg>Riferimento relativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Relative, from cell E3 it is the cell one column to the left and two rows above</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T181553Z" creationid="osvaldo" creationdate="20170207T181553Z">
+        <seg>Relativo, dalla cella E3 è la cella che è una colonna a sinistra e due righe sopra</seg>
       </tuv>
     </tu>
     <tu>
