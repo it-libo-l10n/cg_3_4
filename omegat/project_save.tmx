@@ -45371,6 +45371,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The intersection operator (!) should have a higher precedence than the concatenation operator (~), but do not rely on precedence.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T135750Z" creationid="osvaldo" creationdate="20170207T135750Z">
+        <seg>L'operatore intersezione (!) dovrebbe avere precedenza maggiore rispetto all'operatore concatenazione (~), ma è meglio non fidarsi della precedenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The invisible “bounding box” (with the 8 colored handles) expands to include all the selected images.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161214T111139Z" creationid="luciano" creationdate="20161130T164947Z">
