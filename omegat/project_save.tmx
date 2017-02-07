@@ -20655,6 +20655,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;161&lt;/seq0&gt;: Relative references</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T143757Z" creationid="osvaldo" creationdate="20170207T143757Z">
+        <seg>Figura &lt;seq0&gt;161&lt;/seq0&gt;: Riferimenti relativi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Starting a new spreadsheet from a template</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T122647Z" creationid="michele" creationdate="20160524T122647Z">
@@ -48771,6 +48779,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This time the formula in cell C5 referred to cells C3 and C4.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T143728Z" creationid="osvaldo" creationdate="20170207T143728Z">
+        <seg>Questa volta la formula nella cella C5 fa riferimento alle celle C3 e C4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This time, the NumberFive() function works.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160615T150859Z" creationid="luciano" creationdate="20160615T150859Z">
@@ -53759,6 +53775,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160723T161957Z" creationid="Elisabetta" creationdate="20160723T161836Z">
         <seg>Alla chiusura della finestra, i controlli della struttura dei gruppi compaiono tra l'intestazione della riga o della colonna e il bordo della finestra di modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you copied the formula to another cell, the same procedure was used to calculate the value to put in that cell.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T143636Z" creationid="osvaldo" creationdate="20170207T143636Z">
+        <seg>Quando si copia la formula in un'altra cella, la stessa procedura viene usata per calcolare il valore da inserire in tale cella.</seg>
       </tuv>
     </tu>
     <tu>
