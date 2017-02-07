@@ -13039,6 +13039,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc has copied the formula using relative addressing - the formula in E3 is =D3*D2 and not what we want which is =D3*D1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T180304Z" creationid="osvaldo" creationdate="20170207T180304Z">
+        <seg>Calc ha copiato la formula utilizzando l'indirizzamento relativo - la formula in E3 è =D3*D2 e non quello che vogliamo, cioè =D3*D1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc has several types of &lt;is0/&gt;toolbars&lt;ie1/&gt;: docked (fixed in place), floating, and tear-off.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160323T164018Z">
@@ -16931,6 +16939,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133820Z" creationid="steevie" creationdate="20160517T133820Z">
         <seg>Copiare risultati filtrati in una diversa posizione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy it to cells E3 and E4.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T180416Z" creationid="osvaldo" creationdate="20170207T180416Z">
+        <seg>Copiala nelle celle E3 e E4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27739,6 +27755,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T140411Z" creationid="michele" creationdate="20160608T140411Z">
         <seg>Nelle celle C3, inserire la formula &lt;f0&gt;C4–C2&lt;/f0&gt; (ammontare totale – ammontare totale investito nel Fondo X) come totale investito nel Fondo Y.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In cell E2 edit the formula to be =D2*$D$1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T180354Z" creationid="osvaldo" creationdate="20170207T180354Z">
+        <seg>Nella cella E2 correggi la formula così: =D2*$D$1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46583,6 +46607,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T122919Z" creationid="michele" creationdate="20160525T122919Z">
         <seg>Il risultato sarà simile a quello mostrato nella parte sinistra della &lt;t0&gt;Figura 21&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The results are now 15 and 22.5 which are correct.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T180457Z" creationid="osvaldo" creationdate="20170207T180435Z">
+        <seg>I risultati sono ora 15 e 22.5 che sono corretti.</seg>
       </tuv>
     </tu>
     <tu>
