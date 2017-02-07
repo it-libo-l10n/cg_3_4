@@ -22391,6 +22391,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>First the intersections A2:B4!B2:C6, A2:B4!C1:D3, B1:C2!B2:C6 and B1:C2!C1:D3 are calculated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T133706Z" creationid="osvaldo" creationdate="20170207T133706Z">
+        <seg>Innanzitutto sono calcolate le intersezioni A2:B4!B2:C6, A2:B4!C1:D3, B1:C2!B2:C6 e B1:C2!C1:D3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>First, sort on column B descending and then column A ascending.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160616T094633Z" creationid="luciano" creationdate="20160616T094633Z">
@@ -48519,6 +48527,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T162826Z" creationid="Luciano B." creationdate="20160329T162826Z">
         <seg>In tal modo sarà rimosso qualsiasi nome presente in comandi di campo creati o modificati, saranno eliminate le date di modifica e stampa, il tempo di modifica sarà azzerato, la data di creazione sarà impostata alla data e ora corrente, e il numero di versione sarà riportato a 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This results in B2:B4, empty, B2:C2, and C1:C2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T133813Z" creationid="osvaldo" creationdate="20170207T133754Z">
+        <seg>Il risultato è B2:B4, vuoto, B2:C2, e C1:C2.</seg>
       </tuv>
     </tu>
     <tu>
