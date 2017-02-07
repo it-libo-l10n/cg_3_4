@@ -54035,6 +54035,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Whenever you copy this formula from cell B5 to another cell the result will always be the sum of the two numbers taken from the two cells one and two rows above the cell containing the formula.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T144916Z" creationid="osvaldo" creationdate="20170207T144916Z">
+        <seg>Quando si copia questa formula dalla cella B5  a un'altra cella il risultato sarà sempre la somma dei due numeri prelevati dalle due celle uno e due righe sopra la cella contenente la formula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Where applicable, the functionality is explained using both the GUI (Graphical User Interface) and macros.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T150312Z" creationid="steevie" creationdate="20160503T150013Z">
