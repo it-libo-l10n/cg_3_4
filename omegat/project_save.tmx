@@ -43234,6 +43234,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The $ signs before the D and the 1 convert the reference to cell D1 from relative to absolute or fixed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T180612Z" creationid="osvaldo" creationdate="20170207T180612Z">
+        <seg>Il carattere $ prima della D e dell'1 trasforma il riferimento alla cella D1da relativo ad assoluto o fisso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The (optional) chart title and the legend (key) are in the chart area.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161008T164718Z" creationid="Andrea" creationdate="20161008T164718Z">
