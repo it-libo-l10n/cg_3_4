@@ -26111,6 +26111,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the formula is copied to another cell the second part will always show $D$1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T180710Z" creationid="osvaldo" creationdate="20170207T180710Z">
+        <seg>De la formula è copiata in un'altra cella la seconda parte appare sempre essere $D$1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the height is present, then a range reference is returned rather than a cell reference.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T162902Z" creationid="steevie" creationdate="20161130T162902Z">
@@ -43236,8 +43244,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The $ signs before the D and the 1 convert the reference to cell D1 from relative to absolute or fixed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T180612Z" creationid="osvaldo" creationdate="20170207T180612Z">
-        <seg>Il carattere $ prima della D e dell'1 trasforma il riferimento alla cella D1da relativo ad assoluto o fisso.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T180626Z" creationid="osvaldo" creationdate="20170207T180612Z">
+        <seg>Il carattere $ prima della D e dell'1 trasforma il riferimento alla cella D1 da relativo ad assoluto o fisso.</seg>
       </tuv>
     </tu>
     <tu>
