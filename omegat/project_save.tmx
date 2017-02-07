@@ -16969,8 +16969,8 @@
       <tuv lang="EN">
         <seg>Copy the formula in cell E2 to cell E3.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T175945Z" creationid="osvaldo" creationdate="20170207T175945Z">
-        <seg>Copia la formulanella cella E2 to cell E3.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T180121Z" creationid="osvaldo" creationdate="20170207T175945Z">
+        <seg>Copia la formula dalla cella E2 alla cella E3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46471,6 +46471,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T161846Z" creationid="osvaldo" creationdate="20170206T161846Z">
         <seg>Il risultato visualizzato  in A6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The result is 200, clearly wrong!</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T180150Z" creationid="osvaldo" creationdate="20170207T180150Z">
+        <seg>Il risultato è 200, chiaramente sbagliato!</seg>
       </tuv>
     </tu>
     <tu>
