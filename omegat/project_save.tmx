@@ -35737,6 +35737,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>References are the way that we refer to the location of a particular cell in Calc and can be either relative (to the current cell) or absolute (a fixed amount).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T140645Z" creationid="osvaldo" creationdate="20170207T140645Z">
+        <seg>I riferimenti sono il modo con il quale facciamo riferimento alla posizione di una particolare cella in Calc e può essere sia relativo (alla cella corrente) o assoluto (una quantità fissa).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>References, such as when a cell references a cell, are too encapsulated or deeply nested.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T203915Z" creationid="Elisabetta" creationdate="20160815T203915Z">
@@ -35845,6 +35853,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T140338Z" creationid="osvaldo" creationdate="20170207T140338Z">
         <seg>Riferimenti relativi e assoluti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Relative referencing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T140737Z" creationid="osvaldo" creationdate="20170207T140737Z">
+        <seg>Riferimento relativo</seg>
       </tuv>
     </tu>
     <tu>
