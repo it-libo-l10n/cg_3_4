@@ -19663,6 +19663,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Entering the conversion formula into E2, correct result, then copying it to E3.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T181205Z" creationid="osvaldo" creationdate="20170207T181205Z">
+        <seg>Immetti la formula di conversione in E2, risultato corretto, poi copialo in E3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Entering the interest rate divided by the periods per year, can calculate the interest after each period.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;PV&lt;/f5&gt; is the present &lt;s6/&gt;value.&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;FV&lt;/f8&gt; is the desired future value of the investment.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T101833Z" creationid="Marco Marega" creationdate="20160703T101833Z">
@@ -45591,6 +45599,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T191502Z" creationid="Marco Marega" creationdate="20160817T191502Z">
         <seg>Il numero interno indicato come decimale è il risultato del sistema di date usato da &lt;f1&gt;LibreOffice&lt;/f1&gt; per valutare le date inserite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The interpretation of this formula is “take the value in the cell one column to the left in the same row and multiply it by the value in cell D1”.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T180927Z" creationid="osvaldo" creationdate="20170207T180927Z">
+        <seg>L'interpretazione di questa formula è “Prendi il valore nella cella che è una colonna a sinistra nella stessa riga e moltiplicalo per il valore nella cella D1”.</seg>
       </tuv>
     </tu>
     <tu>
