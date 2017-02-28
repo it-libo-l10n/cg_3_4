@@ -25367,6 +25367,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Identify categories</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T170134Z" creationid="Elisabetta Manuele" creationdate="20170228T170134Z">
+        <seg>Individua categorie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Identifying copies of spreadsheets</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160422T160307Z" creationid="luciano" creationdate="20160422T155632Z">
@@ -26347,6 +26355,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161010T142035Z" creationid="steevie" creationdate="20161010T142035Z">
         <seg>Se il valore da ricercare è trovato nella quarta cella dell'intervallo di ricerca, viene restituito il valore della quarta cella nell'intervallo di ritorno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the source data is not in the recommended form, this option tells the &lt;f0&gt;Pivot Table&lt;/f0&gt; to ignore empty rows.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T170124Z" creationid="Elisabetta Manuele" creationdate="20170228T170124Z">
+        <seg>Selezionando quest'opzione, la &lt;f0&gt;Tabella pivot&lt;/f0&gt; ignorerà le righe vuote, se i dati sorgente non sono espressi nella forma consigliata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27427,6 +27443,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T143433Z" creationid="steevie" creationdate="20160620T143433Z">
         <seg>Ignora celle vuote e contenenti testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ignore empty rows</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T165914Z" creationid="Elisabetta Manuele" creationdate="20170228T165914Z">
+        <seg>Ignora le righe vuote</seg>
       </tuv>
     </tu>
     <tu>
