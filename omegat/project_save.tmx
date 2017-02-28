@@ -19407,6 +19407,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable drill to details</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T172312Z" creationid="Elisabetta Manuele" creationdate="20170228T172312Z">
+        <seg>Attiva analisi dettagliata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable regular expressions in formulas</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T150244Z" creationid="steevie" creationdate="20160428T145721Z">
@@ -48267,6 +48275,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This cell is a convenient button for additional filtering options within the &lt;f2&gt;Pivot Table&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T172301Z" creationid="Elisabetta Manuele" creationdate="20170228T172301Z">
+        <seg>Questa cella consiste in un pratico pulsante per ulteriori opzioni di filtraggio da applicare alla &lt;f2&gt;Tabella pivot&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This change affects all open documents, not just the current one.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T101149Z" creationid="michele" creationdate="20160525T101149Z">
@@ -52527,6 +52543,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172702Z" creationid="steevie" creationdate="20160428T172702Z">
         <seg>Fate attenzione nell'utilizzare questa funzionalità, in quanto non verrà visualizzato alcun messaggio di conferma; i valori predefiniti verranno impostati senza ulteriori notifiche o azioni da parte dell'utente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use this option to add or hide the cell labeled &lt;f0&gt;Filter&lt;/f0&gt; above the &lt;f1&gt;Pivot Table&lt;/f1&gt; results.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T172142Z" creationid="Elisabetta Manuele" creationdate="20170228T172142Z">
+        <seg>La selezione di quest'opzione consente di aggiungere o nascondere la cella definita &lt;f0&gt;Filtro&lt;/f0&gt; in testa ai risultati della &lt;f1&gt;Tabella pivot&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
