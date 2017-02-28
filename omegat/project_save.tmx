@@ -20847,6 +20847,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;185&lt;/seq0&gt;: Example of data with missing entries in Column A</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T170855Z" creationid="Elisabetta Manuele" creationdate="20170228T170855Z">
+        <seg>Figura &lt;seq0&gt;185&lt;/seq0&gt;: esempio di dati con voci mancanti nella colonna A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T144321Z" creationid="michele" creationdate="20160524T144321Z">
@@ -26531,6 +26539,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T132445Z" creationid="steevie" creationdate="20160427T132445Z">
         <seg>Quando questa opzione &lt;f1&gt;non&lt;/f1&gt; è selezionata, premendo &lt;f2&gt;Invio&lt;/f2&gt; viene completato l'inserimento dati nella cella, ma non viene spostato il cursore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If this option is not chosen, then the &lt;f2&gt;Pivot Table&lt;/f2&gt; inserts &lt;f3&gt;(empty)&lt;/f3&gt; (see Figure &lt;t4&gt;187&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T170806Z" creationid="Elisabetta Manuele" creationdate="20170228T170806Z">
+        <seg>Se l'opzione non viene selezionata la &lt;f2&gt;tabella Pivot&lt;/f2&gt; inserisce la voce &lt;f3&gt;'vuoto'&lt;/f3&gt; tra parentesi (vuoto) (Figura &lt;t4&gt;187&lt;/t4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -54703,6 +54719,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T152803Z" creationid="Luciano B." creationdate="20160411T152803Z">
         <seg>Con il foglio elettronico aperto scegliete, &lt;f0&gt;Strumenti &gt; Condividi documento&lt;/f0&gt; per attivare le funzioni di collaborazione per questo documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With this option selected, if the source data has missing entries in a list and does not meet the recommended data structure (see &lt;t0&gt;Figure 185&lt;/t0&gt;), the &lt;f1&gt;Pivot Table&lt;/f1&gt; adds it to the listed category above it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T170547Z" creationid="Elisabetta Manuele" creationdate="20170228T170547Z">
+        <seg>Selezionando quest'opzione, se i dati sorgente contengono un elenco con voci mancanti, e quindi non soddisfano la struttura dati consigliata (Figura &lt;t0&gt;185&lt;/t0&gt;), la &lt;f1&gt;Tabella pivot&lt;/f1&gt; li assegnerà automaticamente alla categoria della riga superiore.</seg>
       </tuv>
     </tu>
     <tu>
