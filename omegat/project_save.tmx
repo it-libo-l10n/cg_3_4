@@ -26551,6 +26551,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If this function is disabled, the double-click will keep its usual edit function within a spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T183440Z" creationid="Elisabetta Manuele" creationdate="20170228T183440Z">
+        <seg>Se l'opzione è disattivata il doppio clic mantiene la normale funzione di modifica all'interno del foglio elettronico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If this is the case, then the four buttons at the left of the sheet tabs can move the tabs into view.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T122345Z" creationid="michele" creationdate="20160525T122345Z">
@@ -31444,6 +31452,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T160023Z" creationid="Elisabetta Manuele" creationdate="20170228T160023Z">
         <seg>Altre opzioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More settings for the fields: Field options</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T183603Z" creationid="Elisabetta Manuele" creationdate="20170228T183603Z">
+        <seg>Ulteriori impostazioni dei campi: Opzioni campo</seg>
       </tuv>
     </tu>
     <tu>
@@ -43270,6 +43286,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T151741Z" creationid="osvaldo" creationdate="20170206T151741Z">
         <seg>Tabella &lt;seq0&gt;9&lt;/seq0&gt;: Operatori aritmetici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Taking Figure &lt;t7&gt;183&lt;/t7&gt; as an example, if a pivot table uses more than one field (region and employee) and you double-click a left-most field (say, east), then this collapses the row, combining the totals for employees for that field and displaying the totals for &lt;f8&gt;east&lt;/f8&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T183409Z" creationid="Elisabetta Manuele" creationdate="20170228T183409Z">
+        <seg>Prendendo in considerazione la figura di esempio &lt;t7&gt;183&lt;/t7&gt;, nel caso in cui nella Tabella pivot siano presenti più campi (per es., Regione e Impiegato), un doppio clic sul campo visibile nella colonna più a sinistra (per es. quella denominata Est) produce una compressione della riga, quindi la combinazione dei risultati complessivi relativi alla voce Impiegati presenti in quel campo e la conseguente visualizzazione dei risultati complessivi relativi al campo &lt;f8&gt;Est&lt;/f8&gt;.</seg>
       </tuv>
     </tu>
     <tu>
