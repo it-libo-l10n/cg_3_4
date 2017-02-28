@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.1_0_9319:9320" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -43412,8 +43412,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Group and Outline&lt;/f0&gt; functionality for any time interval is not available.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Andrea" changedate="20160725T160406Z" creationid="Andrea" creationdate="20160725T160406Z">
-        <seg>La funzionalità &lt;f0&gt;Raggruppa e Struttura&lt;/f0&gt; per qualsiasi intervallo temporale non è disponibile.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T111346Z" creationid="Andrea" creationdate="20160725T160406Z">
+        <seg>La funzione &lt;f0&gt;Raggruppa e Struttura&lt;/f0&gt; non è disponibile per ogni intervallo temporale.</seg>
       </tuv>
     </tu>
     <tu>
