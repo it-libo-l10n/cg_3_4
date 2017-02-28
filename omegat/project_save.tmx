@@ -9463,6 +9463,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A list showing missing entries is also less useful, because you cannot use functions such as sorting or filtering.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T171521Z" creationid="Elisabetta Manuele" creationdate="20170228T171521Z">
+        <seg>Inoltre un elenco che presenta voci mancanti si rivela meno utile in quanto rende impossibile l'applicazione di funzioni come quelle di ordinamento e filtraggio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A manual break helps to ensure that your data prints properly.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153433Z">
@@ -10187,6 +10195,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160616T093947Z" creationid="luciano" creationdate="20160616T093947Z">
         <seg>Aggiungere la cella A2:C5 in ogni foglio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add filter</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T171939Z" creationid="Elisabetta Manuele" creationdate="20170228T171939Z">
+        <seg>Aggiungi filtro</seg>
       </tuv>
     </tu>
     <tu>
@@ -28123,6 +28139,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20160818T113720Z" creationid="osvaldo" creationdate="20160818T113705Z">
         <seg>Nei capitoli precedenti abbiamo inserito nelle celle uno dei due tipi fondamentali di dato : numeri e testo,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In some cases, an added total sum is meaningless, for example if your entries are accumulated or the result of comparisons.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T171921Z" creationid="Elisabetta Manuele" creationdate="20170228T171921Z">
+        <seg>In alcune circostanze l'aggiunta di un totale complessivo è irrilevante, per esempio nel caso in cui le voci siano accumulate o il risultato di comparazioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51547,6 +51571,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Total columns, Total rows</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T171538Z" creationid="Elisabetta Manuele" creationdate="20170228T171538Z">
+        <seg>Risultato complessivo colonne, Risultato complessivo righe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Traces dependents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T152711Z" creationid="luciano" creationdate="20160505T161915Z">
@@ -54743,6 +54775,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T152803Z" creationid="Luciano B." creationdate="20160411T152803Z">
         <seg>Con il foglio elettronico aperto scegliete, &lt;f0&gt;Strumenti &gt; Condividi documento&lt;/f0&gt; per attivare le funzioni di collaborazione per questo documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With these options you can decide if the &lt;f0&gt;Pivot Table&lt;/f0&gt; shows an extra row with the sums of each column, or if it adds on the very right a column with the sums of each row.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T171809Z" creationid="Elisabetta Manuele" creationdate="20170228T171809Z">
+        <seg>La selezione di queste opzioni nella &lt;f0&gt;Tabella pivot&lt;/f0&gt; consente di visualizzare una riga ulteriore contenente il totale relativo per ogni colonna, oppure una colonna contenente il totale relativo per ogni riga posizionata in fondo a destra.</seg>
       </tuv>
     </tu>
     <tu>
