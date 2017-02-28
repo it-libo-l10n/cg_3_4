@@ -11953,8 +11953,8 @@
       <tuv lang="EN">
         <seg>Avoid empty lines (for example for formatting).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Andrea" changedate="20160808T111344Z" creationid="Andrea" creationdate="20160808T111344Z">
-        <seg>Evitate righe vuote (per esempio dovute alla formattazione).</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T113522Z" creationid="Andrea" creationdate="20160808T111344Z">
+        <seg>quindi evitate righe vuote, dovute alla formattazione, per esempio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29714,8 +29714,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>It uses the following logic: Starting from the cell you have selected (which must be within your list), Calc checks the surrounding cells in all 4 directions (left, right, above, below).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20161122T124757Z" creationid="Andrea" creationdate="20160808T100145Z">
-        <seg>Viene adottata la logica seguente: iniziando dalla cella selezionata (che deve essere contenuta all'interno del vostro elenco), Calc controlla le celle circostanti in tutt'e quattro le direzioni (sinistra, destra, sopra, sotto).</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T113258Z" creationid="Andrea" creationdate="20160808T100145Z">
+        <seg>Viene adottata la logica seguente: a partire dalla cella selezionata (che deve essere contenuta all'interno del vostro elenco), Calc controlla le celle circostanti in tutt'e quattro le direzioni (sinistra, destra, sopra, sotto).</seg>
       </tuv>
     </tu>
     <tu>
@@ -32155,8 +32155,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>No empty rows or empty columns are allowed within lists.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Andrea" changedate="20160808T111616Z" creationid="Andrea" creationdate="20160808T111616Z">
-        <seg>Non potete usare righe o colonne vuote all'interno dei vostri elenchi.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T113623Z" creationid="Andrea" creationdate="20160808T111616Z">
+        <seg>Non sono consentite righe o colonne vuote all'interno di elenchi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48741,8 +48741,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>This means that the described functions can only work correctly if there are no empty rows or columns in your list.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20161122T131936Z" creationid="Andrea" creationdate="20160808T111254Z">
-        <seg>Ciò significa che le funzioni descritte vengono eseguite correttamente solo in assenza di righe o colonne vuote.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T113427Z" creationid="Andrea" creationdate="20160808T111254Z">
+        <seg>Ciò significa che le funzioni descritte vengono eseguite correttamente solo in assenza di righe o colonne vuote,</seg>
       </tuv>
     </tu>
     <tu>
@@ -55621,8 +55621,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>You can format your list by using cell formats.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20161122T132443Z" creationid="Andrea" creationdate="20160808T111508Z">
-        <seg>Potete applicare un formato agli elenchi ricorrendo a quello per le celle.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T113543Z" creationid="Andrea" creationdate="20160808T111508Z">
+        <seg>Potete applicare un formato agli elenchi ricorrendo a quello utilizzato per le celle.</seg>
       </tuv>
     </tu>
     <tu>
