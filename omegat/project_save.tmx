@@ -23623,6 +23623,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the source shown in Figure 3, the new sheet for the first table produced, would be named &lt;f10&gt;Pivot Table_Umsatzliste_1&lt;/f10&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T165812Z" creationid="Elisabetta Manuele" creationdate="20170228T165812Z">
+        <seg>La sorgente visualizzata nel campo 'Selezione da' della  Figura 3, rappresenta il nuovo foglio generato per la prima tabella e denominato &lt;f10&gt;Tabella pivot_lista_clienti_fatturato_1&lt;/f10&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For this chapter we will work with a budget proposal for a baseball team.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160422T160906Z" creationid="luciano" creationdate="20160422T160906Z">
@@ -46127,6 +46135,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T143220Z" creationid="michele" creationdate="20160531T143220Z">
         <seg>Il nuovo scenario si attiverà in automatico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The new sheet is named using the format &lt;f9&gt;Pivot Table_sheet name_X&lt;/f9&gt;; where X is the number of the table created, 1 for first, 2 for second and so on.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T165427Z" creationid="Elisabetta Manuele" creationdate="20170228T165427Z">
+        <seg>Il nome del nuovo foglio viene assegnato in base al formato &lt;f9&gt;Tabella pivot_Nome foglio_X&lt;/f9&gt;, dove X rappresenta il numero della tabella creata, 1 per la prima, 2 per la seconda, ecc.</seg>
       </tuv>
     </tu>
     <tu>
