@@ -21039,6 +21039,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;191&lt;/seq0&gt;: Example of a &lt;f1&gt;% of &lt;/f1&gt;&lt;f2&gt;analysis&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T162823Z" creationid="Elisabetta Manuele" creationdate="20170301T162823Z">
+        <seg>Figura &lt;seq0&gt;191&lt;/seq0&gt;: esempio di &lt;f2&gt;analisi&lt;/f2&gt; utilizzando il tipo &lt;f1&gt;% di&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;192&lt;/seq0&gt;: Example of &lt;f1&gt;% difference from&lt;/f1&gt;&lt;f2&gt; analysis&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T163020Z" creationid="Elisabetta Manuele" creationdate="20170301T163020Z">
+        <seg>Figura &lt;seq0&gt;192&lt;/seq0&gt;: esempio di &lt;f2&gt; analisi&lt;/f2&gt; utilizzando &lt;f1&gt;% Di differenza da&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Choosing options when exporting to Text CSV</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T152950Z" creationid="michele" creationdate="20160524T152950Z">
@@ -28632,6 +28648,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the Options dialog for the Row or Column Fields, you can choose to show subtotals for each category.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T163105Z" creationid="Elisabetta Manuele" creationdate="20170301T163105Z">
+        <seg>Nella finestra di dialogo Opzioni dei Campi riga e colonna, potete scegliere di visualizzare i subtotali per ogni categoria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the Options dialog of a &lt;i0/&gt;Data Field you can select the Sum function for accumulating the values from your data source.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T160031Z" creationid="Elisabetta Manuele" creationdate="20170301T160031Z">
@@ -34181,6 +34205,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T155917Z" creationid="Elisabetta Manuele" creationdate="20170301T155917Z">
         <seg>Opzioni dei Campi dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options for Row and Column Fields</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T163039Z" creationid="Elisabetta Manuele" creationdate="20170301T163039Z">
+        <seg>Opzioni dei Campi riga e colonna</seg>
       </tuv>
     </tu>
     <tu>
@@ -43009,6 +43041,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Subtotals are deactivated by default.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T163118Z" creationid="Elisabetta Manuele" creationdate="20170301T163118Z">
+        <seg>I subtotali sono disattivati per impostazione predefinita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Subtotals are implemented in two ways:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160527T151028Z" creationid="michele" creationdate="20160527T151028Z">
@@ -48423,6 +48463,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161209T164718Z" creationid="luciano" creationdate="20161209T164510Z">
         <seg>Non vengono mantenute quando chiudete il documento, e non si applicano a qualsiasi altro documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They are only useful if the values in one row or column field can be divided into subtotals for another (sub)field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T163136Z" creationid="Elisabetta Manuele" creationdate="20170301T163136Z">
+        <seg>La loro praticità si apprezza solo se i valori contenuti in un solo campo riga o colonna possono essere divisi per i subtotali di un altro (sotto)campo.</seg>
       </tuv>
     </tu>
     <tu>
