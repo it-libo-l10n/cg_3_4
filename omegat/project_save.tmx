@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.1_0_9319:9320" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.0_0_9507:9510" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12699,6 +12699,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T161219Z" creationid="Elisabetta" creationdate="20160627T161219Z">
         <seg>Per impostazione predefinita, i numeri sono allineati a destra e quelli negativi sono preceduti dal segno meno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, the Gallery is docked above the Calc workspace.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170301T213726Z" creationid="Marco Marega" creationdate="20170301T213726Z">
+        <seg>Per impostazione predefinita, la Galleria è agganciata al di sopra dello spazio di lavoro di Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51415,6 +51423,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160530T151031Z" creationid="michele" creationdate="20160530T151031Z">
         <seg>Inserire valori subtotali in un foglio:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To insert the picture, either right-click on the picture and choose &lt;f0&gt;Insert &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Copy&lt;/f3&gt; or click and drag the picture from the Gallery into the Calc document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170301T213559Z" creationid="Marco Marega" creationdate="20170301T213559Z">
+        <seg>Per inserire l'immagine, in alternativa fate clic con il tasto destro del mouse sulla figura e scegliete &lt;f0&gt;Inserisci &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Copia&lt;/f3&gt; oppure fate clic e trascinate l'immagine dalla Galleria nel documento di Calc.</seg>
       </tuv>
     </tu>
     <tu>
