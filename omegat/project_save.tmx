@@ -11735,6 +11735,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As mentioned above, the DataPilot dialog is very flexible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T170634Z" creationid="Elisabetta Manuele" creationdate="20170301T170634Z">
+        <seg>Come già accennato, la finestra di dialogo Tabella Pivot è molto flessibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As opposed to &lt;f1&gt;VLOOKUP&lt;/f1&gt; and HLOOKUP, search and result vectors may be at different positions; they do not have to be adjacent.&lt;f2&gt; &lt;/f2&gt;Additionally, the search vector for the LOOKUP must be sorted, otherwise the search will not return any usable results.&lt;f3&gt; &lt;/f3&gt;The search supports regular expressions.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Search_criterion&lt;/f5&gt; is the value to be searched for; entered either directly or as a reference.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Search_vector&lt;/f7&gt; is the single-row or single-column area to be searched.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Result_vector&lt;/f9&gt; is another single-row or single-column range from which the result of the function is taken.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T123917Z" creationid="Marco Marega" creationdate="20160821T123917Z">
@@ -44602,6 +44610,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Options dialog for Page Fields is the same as for Row and Column fields, even though it appears to be useless to have the same settings as described for the Row and Column fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T170354Z" creationid="Elisabetta Manuele" creationdate="20170301T170354Z">
+        <seg>La finestra di dialogo Opzioni dei Campi pagina è identica a quella dei Campi riga e colonna, sebbene appaia inutile condividerne le medesime impostazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Organizer tab for page styles is similar to the one shown for cell styles.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160616T191803Z" creationid="briga" creationdate="20160616T191803Z">
@@ -44622,6 +44638,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T164937Z" creationid="Luciano B." creationdate="20160325T164937Z">
         <seg>Si aprirà la finestra di dialogo Opzioni PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Page Field has the same properties as a Row or Column field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T170505Z" creationid="Elisabetta Manuele" creationdate="20170301T170505Z">
+        <seg>Il Campo pagina possiede le medesime proprietà del Campo riga o colonna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45782,6 +45806,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T174257Z" creationid="steevie" creationdate="20161130T174257Z">
         <seg>I campi vengono trattati come se fossero l'intera popolazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The fields keep the settings that you made for them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T170450Z" creationid="Elisabetta Manuele" creationdate="20170301T170450Z">
+        <seg>I campi mantengono le impostazioni assegnate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48511,6 +48543,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T151247Z" creationid="Luciano B." creationdate="20160329T151247Z">
         <seg>Le selezioni sono autoesplicative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These settings only take effect when you use the field not as a Page Field but as Row or Column field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T170517Z" creationid="Elisabetta Manuele" creationdate="20170301T170517Z">
+        <seg>Queste impostazioni risultano effettive solo se il campo viene utilizzato non come Pagina, ma come Campo Riga o Colonna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55291,6 +55331,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With the flexibility of the DataPilot you can switch the different fields between pages, columns or rows.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T170422Z" creationid="Elisabetta Manuele" creationdate="20170301T170422Z">
+        <seg>Grazie alla flessibilità della Tabella Pivot, potete commutare i vari campi da pagine, a colonne o righe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With the images selected, choose &lt;f0&gt;Format &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Group &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Group&lt;/f6&gt; from the menu bar.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161209T162353Z" creationid="luciano" creationdate="20161130T170514Z">
@@ -55431,6 +55479,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T212211Z">
         <seg>Lavorare con i fogli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Working with the results of the DataPilot (the &lt;f0&gt;Pivot Table)&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T170616Z" creationid="Elisabetta Manuele" creationdate="20170301T170616Z">
+        <seg>Utilizzo dei risultati della finestra &lt;f0&gt;Tabella pivot&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
