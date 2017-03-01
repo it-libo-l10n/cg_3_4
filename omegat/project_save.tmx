@@ -21239,6 +21239,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;206&lt;/seq0&gt;: &lt;f1&gt;Pivot Table&lt;/f1&gt; with nonscalar categories</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T174342Z" creationid="Elisabetta Manuele" creationdate="20170301T174342Z">
+        <seg>Figura &lt;seq0&gt;206&lt;/seq0&gt;: &lt;f1&gt;tabella pivot&lt;/f1&gt; contenente categorie non scalari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Two levels of password protection</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T090425Z" creationid="michele" creationdate="20160525T090425Z">
@@ -23783,6 +23791,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For grouping of non scalar categories, select in the result of the &lt;f0&gt;Pivot Table&lt;/f0&gt; all the individual field values that you want to put in the one group.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T174436Z" creationid="Elisabetta Manuele" creationdate="20170301T174436Z">
+        <seg>Per raggruppare categorie non scalari, all'interno dei risultati della &lt;f0&gt;tabella pivot&lt;/f0&gt; selezionate tutti i singoli valori dei campi da inserire in un gruppo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For help with &lt;f0&gt;LibreOffice’s&lt;/f0&gt; keyboard shortcuts or using LibreOffice with a keyboard only, search the Help supplied with LibreOffice (also available online at &lt;a1&gt;http://help.libreoffice.org&lt;/a1&gt;) using the “shortcut” or “&lt;f2&gt;accessibility” keywords.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160504T134857Z" creationid="luciano" creationdate="20160504T134606Z">
@@ -24771,6 +24787,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T115133Z" creationid="Andrea" creationdate="20160808T141756Z">
         <seg>Ottenere risultati mensili e' una delle caratteristiche essenziali di semplicità e rapidità della &lt;f2&gt;Tabella Pivot&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Given the input data shown in Figure &lt;t0&gt;205&lt;/t0&gt;, execute the &lt;f1&gt;Pivot Table&lt;/f1&gt; with Department in the Row Field and Sum (Sick Days) in the Data Field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T174605Z" creationid="Elisabetta Manuele" creationdate="20170301T174605Z">
+        <seg>Considerati i dati inseriti, evidenziati nella figura &lt;t0&gt;205&lt;/t0&gt;, eseguite la &lt;f1&gt;tabella pivot&lt;/f1&gt; impostando le voci Reparto nel Campo riga e Somma (Giorni di malattia) nel Campo dati. </seg>
       </tuv>
     </tu>
     <tu>
@@ -41249,6 +41273,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select with the mouse the Departments Accounting, Purchasing and Sales.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T174701Z" creationid="Elisabetta Manuele" creationdate="20170301T174701Z">
+        <seg>Selezionate le voci Reparti, Contabilità, Acquisti e Vendite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select, or click in a single cell in the range of cells that you want to calculate subtotals for, and then choose &lt;f0&gt;Data &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Subtotals&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160530T151501Z" creationid="michele" creationdate="20160530T151501Z">
@@ -47151,6 +47183,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T165740Z">
         <seg>Gli altri sono D12:F23 and H24:I25.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The output should look like that in Figure &lt;t2&gt;206&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T174643Z" creationid="Elisabetta Manuele" creationdate="20170301T174643Z">
+        <seg>Il risultato dovrebbe avere l'aspetto simile a quello della figura &lt;t2&gt;206&lt;/t2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57007,6 +57047,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T133958Z" creationid="Luciano B." creationdate="20160325T163832Z">
         <seg>Potete scegliere il tipo di Intestazione tra quelle predefinite nell'elenco a tendina, oppure inserirne una personalizzata utilizzando i pulsanti presenti immediatamente sotto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can select several non-contiguous cells in one step by pressing and holding the &lt;f0&gt;Control&lt;/f0&gt; key while left-clicking with the mouse.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T174505Z" creationid="Elisabetta Manuele" creationdate="20170301T174505Z">
+        <seg>Potete selezionare contemporaneamente più celle non adiacenti tenendo premuto il tasto &lt;f0&gt;Ctrl&lt;/f0&gt; mentre fate clic.</seg>
       </tuv>
     </tu>
     <tu>
