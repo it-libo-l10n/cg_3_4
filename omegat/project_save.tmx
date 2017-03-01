@@ -20911,6 +20911,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;188&lt;/seq0&gt;: Expanded dialog for a Data Field</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T160428Z" creationid="Elisabetta Manuele" creationdate="20170301T160428Z">
+        <seg>Figura &lt;seq0&gt;188&lt;/seq0&gt;: finestra di dialogo Campo dati estesa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T144321Z" creationid="michele" creationdate="20160524T144321Z">
@@ -23299,6 +23307,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161201T143057Z" creationid="steevie" creationdate="20161130T153615Z">
         <seg>Ad esempio RIGA, COLONNA, RIGHE, COLONNE non sono presentate, ma una persona curiosa potrebbe investigare queste funzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, the counting function can be useful for non-numerical data fields.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T160303Z" creationid="Elisabetta Manuele" creationdate="20170301T160303Z">
+        <seg>Per esempio, la funzione di conteggio può rivelarsi utile per campi dati non numerici.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28231,6 +28247,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the &lt;f0&gt;Displayed value&lt;/f0&gt; section, you can choose other possibilities for analysis by using the aggregate function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T160515Z" creationid="Elisabetta Manuele" creationdate="20170301T160515Z">
+        <seg>Nell'area &lt;f0&gt;Valore visualizzato&lt;/f0&gt; si possono scegliere altre possibilità di analisi grazie alla funzione Aggrega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the &lt;f0&gt;File name&lt;/f0&gt; box, type a name for the file.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T152810Z" creationid="michele" creationdate="20160524T152810Z">
@@ -28484,6 +28508,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160524T152744Z" creationid="luciano" creationdate="20160524T150717Z">
         <seg>Nella finestra di dialogo del Nuovo Modulo, digitate il nome o lasciate il nome Modulo1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Options dialog of a &lt;i0/&gt;Data Field you can select the Sum function for accumulating the values from your data source.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T160031Z" creationid="Elisabetta Manuele" creationdate="20170301T160031Z">
+        <seg>Nella finestra di dialogo Opzioni di un &lt;i0/&gt;Campo dati si può selezionare la funzione Somma per aggregare i valori ricavati dalla sorgente dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33133,6 +33165,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164400Z" creationid="steevie" creationdate="20160428T164400Z">
         <seg>Nella finestra di dialogo Personalizza, selezionate il menu nell'elenco dei Menu e fate clic sul pulsante &lt;f1&gt;Importa&lt;/f1&gt; nella sezione Contenuto del menu della finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Data Field dialog, click &lt;f0&gt;More&lt;/f0&gt; to see the &lt;f1&gt;Displayed value&lt;/f1&gt; section.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T160346Z" creationid="Elisabetta Manuele" creationdate="20170301T160346Z">
+        <seg>All'interno della finestra di dialogo Campo dati, fate clic sul pulsante &lt;f0&gt;Più&lt;/f0&gt; per visualizzare l'area &lt;f1&gt;Valore visualizzato&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56815,6 +56855,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161122T164341Z" creationid="luciano" creationdate="20160614T161102Z">
         <seg>Sarà necessario fare clic su &lt;f8&gt; Attiva macro &lt;/f8&gt;, o Calc non permetterà l'esecuzione di alcuna macro all'interno del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will often use the sum function, but other functions (like standard distribution or a counting function) are also available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T160108Z" creationid="Elisabetta Manuele" creationdate="20170301T160108Z">
+        <seg>La funzione Somma solitamente è la più utilizzata, ma ne sono presenti altre, tipo funzioni standard di distribuzione o di conteggio. </seg>
       </tuv>
     </tu>
     <tu>
