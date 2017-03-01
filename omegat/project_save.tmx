@@ -12327,6 +12327,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Before you can group, you have to produce a &lt;f0&gt;Pivot Table&lt;/f0&gt; with ungrouped data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T172655Z" creationid="Elisabetta Manuele" creationdate="20170301T172655Z">
+        <seg>Prima dell'operazione di raggruppamento è necessario generare una &lt;f0&gt;Tabella Pivot&lt;/f0&gt; contenente dati non raggruppati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Before you choose the &lt;f0&gt;Data&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Multiple Operations&lt;/f3&gt; option, be sure to select not only your list of alternative values but also the adjacent cells into which the results should be placed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160601T155320Z" creationid="michele" creationdate="20160601T155320Z">
@@ -18203,6 +18211,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160208T100105Z">
         <seg>Funzioni per data e ora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Date and time values can not be grouped in this release of Calc (see “&lt;rf0&gt;Important note&lt;/rf0&gt;” on page &lt;bf1&gt;200&lt;/bf1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T172628Z" creationid="Elisabetta Manuele" creationdate="20170301T172628Z">
+        <seg>La funzione di raggruppamento per i valori Data e Ora non è implementata nella presente versione di Calc (vd.: “&lt;rf0&gt;Nota importante&lt;/rf0&gt;” a pag. &lt;bf1&gt;200&lt;/bf1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -25347,6 +25363,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T082117Z" creationid="michele" creationdate="20160608T082117Z">
         <seg>A quanto ammonta il tuo profitto annuo se vendete una data quantità di giocattoli?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How the grouping function works is &lt;s8/&gt;&lt;t9/&gt;determined mainly by the type of values that have to be grouped.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T172507Z" creationid="Elisabetta Manuele" creationdate="20170301T172507Z">
+        <seg>L'azione della funzione di raggruppamento è &lt;s8/&gt;&lt;t9/&gt;determinata principalmente dal tipo di valori da raggruppare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48171,6 +48195,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The time needed for creating a &lt;f1&gt;Pivot Table&lt;/f1&gt; depends mostly on the number of columns and rows and not on the size of the basic data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T172729Z" creationid="Elisabetta Manuele" creationdate="20170301T172729Z">
+        <seg>Il tempo occorrente per la creazione di una &lt;f1&gt;Tabella Pivot&lt;/f1&gt; dipende principalmente dal numero di colonne e righe, non dalla dimensione dei dati di base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The title bar for the Comment dialog shows the cell and the change you are commenting on.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160423T145841Z" creationid="luciano" creationdate="20160423T145758Z">
@@ -55795,6 +55827,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can access grouping by selecting &lt;f0&gt;Data &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Group and Outline &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Group&lt;/f6&gt; from the menu bar, or by pressing &lt;f7&gt;F12&lt;/f7&gt; after selecting the correct cell area.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T172440Z" creationid="Elisabetta Manuele" creationdate="20170301T172440Z">
+        <seg>I gruppi sono accessibili scegliendo la voce &lt;f0&gt;Dati &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Raggruppa e struttura &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Gruppo&lt;/f6&gt; dalla barra dei menu, o premendo il tasto &lt;f7&gt;F12&lt;/f7&gt; dopo aver selezionato l'area celle appropriata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can access the &lt;f0&gt;LibreOffice&lt;/f0&gt; internal objects directly to manipulate a Calc document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160615T160925Z" creationid="luciano" creationdate="20160615T160925Z">
@@ -56707,6 +56747,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can only carry out grouping on an ungrouped &lt;f0&gt;Pivot Table&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T172305Z" creationid="Elisabetta Manuele" creationdate="20170301T172305Z">
+        <seg>Si possono applicare gruppi solo a &lt;f0&gt;Tabelle Pivot&lt;/f0&gt; non raggruppate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can only choose one option at a time.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161127T180815Z" creationid="Andrea" creationdate="20161127T180815Z">
@@ -57415,6 +57463,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T142333Z" creationid="steevie" creationdate="20161130T142333Z">
         <seg>Vi serve un indice nell'intervallo piuttosto che il valore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You need to distinguish between scalar values, or other values, such as text, that you want grouped.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T172533Z" creationid="Elisabetta Manuele" creationdate="20170301T172533Z">
+        <seg>È necessario operare una distinzione tra valori da raggruppare, se scalari o di altro tipo, per es., di testo.</seg>
       </tuv>
     </tu>
     <tu>
