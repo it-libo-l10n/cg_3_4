@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>% difference from</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T161722Z" creationid="Elisabetta Manuele" creationdate="20170301T161722Z">
+        <seg>% Di differenza da</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>% of</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T161023Z" creationid="Elisabetta Manuele" creationdate="20170301T161023Z">
@@ -12495,6 +12503,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Brigitte)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T161846Z" creationid="Elisabetta Manuele" creationdate="20170301T161846Z">
+        <seg> Brigitta).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bring Forward</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161212T140514Z" creationid="luciano" creationdate="20161212T140514Z">
@@ -24123,6 +24139,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161207T171907Z" creationid="luciano" creationdate="20161207T171907Z">
         <seg>Da file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From each result, its reference value is subtracted, and the difference is divided by the reference value (for example, sales of the employees as relative difference from the sales of Brigitte; see &lt;t0&gt;Figure 192&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T162028Z" creationid="Elisabetta Manuele" creationdate="20170301T162028Z">
+        <seg>Da ogni risultato viene sottratto il relativo valore di riferimento e la differenza viene divisa per il valore di riferimento (per es., le vendite realizzate dagli impiegati come differenza relativa rispetto alle vendite realizzate da Brigitta. Figura &lt;t0&gt;192&lt;/t0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -39057,6 +39081,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Running total in</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T162043Z" creationid="Elisabetta Manuele" creationdate="20170301T162043Z">
+        <seg>Totale in</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>S&lt;bk0/&gt;tatus bar</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T091807Z" creationid="michele" creationdate="20160524T091807Z">
@@ -41049,6 +41081,22 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selection of a field from the data source of the DataPilot (for example, date)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T162109Z" creationid="Elisabetta Manuele" creationdate="20170301T162109Z">
+        <seg>Selezione di un campo della sorgente dati contenuta nella finestra Tabella Pivot (per es., Data).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection of a field from the data source of the DataPilot (for example, employee)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T161815Z" creationid="Elisabetta Manuele" creationdate="20170301T161808Z">
+        <seg>Selezione di un campo della sorgente dati contenuta nella finestra Tabella Pivot (per es., Impiegato).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Selection of a field from the data source of the DataPilot (for example, employee).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T160901Z" creationid="Elisabetta Manuele" creationdate="20170301T160901Z">
@@ -41069,6 +41117,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T160925Z" creationid="Elisabetta Manuele" creationdate="20170301T160925Z">
         <seg>Selezione di un elemento del Campo base prescelto (per es., Brigitta).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection of an element from the selected base field (for example.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T161841Z" creationid="Elisabetta Manuele" creationdate="20170301T161812Z">
+        <seg>Selezione di un elemento del Campo base prescelto (per es.,</seg>
       </tuv>
     </tu>
     <tu>
@@ -47045,8 +47101,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>The result is a percentage ratio of the value of the base field to the base item (for example, sales result of the employee relative to the sales result of Brigitte; see &lt;t0&gt;Figure 191&lt;/t0&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T161517Z" creationid="Elisabetta Manuele" creationdate="20170301T161517Z">
-        <seg>Il risultato consiste nel rapporto percentuale del valore relativo al Campo base rispetto a quello relativo all'Elemento base (per es., il volume di vendita realizzato dagli impiegati in rapporto a quello realizzato da Brigitta. (Figura &lt;t0&gt;191&lt;/t0&gt;)</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T161707Z" creationid="Elisabetta Manuele" creationdate="20170301T161517Z">
+        <seg>Il risultato consiste nel rapporto percentuale del valore relativo al Campo base rispetto a quello relativo all'Elemento base (per es., il risultato delle vendite realizzato dagli impiegati in rapporto a quello realizzato da Brigitta. (Figura &lt;t0&gt;191&lt;/t0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
