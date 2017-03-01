@@ -42353,6 +42353,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some manipulation can also be carried out in the pivot table view.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T171544Z" creationid="Elisabetta Manuele" creationdate="20170301T171544Z">
+        <seg>Si possono inoltre apportare alcune elaborazioni nella visualizzazione Tabella Pivot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some manual formatting can be applied using toolbar icons.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160701T094837Z" creationid="Elisabetta" creationdate="20160701T094837Z">
@@ -45382,6 +45390,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160424T135323Z" creationid="luciano" creationdate="20160424T135323Z">
         <seg>Il cursore si trasforma nel cursore lampeggiante di immissione testo, e le Barra di formattazione cambia per mostrare gli attributi di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The cursor will change shape from its starting shape (horizontal or vertical block on the arrow head) to the opposite if moving to a different field, such as from row to column, and it is OK to drop.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T171646Z" creationid="Elisabetta Manuele" creationdate="20170301T171646Z">
+        <seg>Lo spostamento dei campi in un'altra posizione, per es. da una riga a una colonna, sarà possibile quando la barra orizzontale o verticale visibile sulla freccia del cursore modificherà la propria forma capovolgendosi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52515,6 +52531,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unused fields can be added, and fields removed in error can be replaced by dragging and dropping them into the positions required.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T171520Z" creationid="Elisabetta Manuele" creationdate="20170301T171520Z">
+        <seg>Si possono aggiungere campi non utilizzati e ripristinare quelli eliminati erroneamente trascinandoli nella posizione appropriata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Up arrow</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T144616Z" creationid="luciano" creationdate="20160509T144616Z">
@@ -55463,6 +55487,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T155044Z" creationid="Andrea" creationdate="20160828T213908Z">
         <seg>Per ogni impiegato sarà visibile l'elenco delle diverse regioni (Figura &lt;t3&gt;183&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Within the results table of the &lt;f0&gt;Pivot Table&lt;/f0&gt;, move one of the page, column, or row fields to a different position.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T171620Z" creationid="Elisabetta Manuele" creationdate="20170301T171620Z">
+        <seg>Nella tabella dei risultati della &lt;f0&gt;Tabella Pivot&lt;/f0&gt;, spostate uno dei campi pagina, colonna o riga in una posizione differente.</seg>
       </tuv>
     </tu>
     <tu>
