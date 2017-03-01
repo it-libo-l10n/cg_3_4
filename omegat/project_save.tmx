@@ -15303,6 +15303,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose the &lt;f0&gt;Data&lt;/f0&gt; &lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt;Group and Outline&lt;/f3&gt; &lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt; &lt;f6&gt;Group&lt;/f6&gt; from the Menu bar or press &lt;f7&gt;F12&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T174830Z" creationid="Elisabetta Manuele" creationdate="20170301T174830Z">
+        <seg>Selezionate la voce &lt;f0&gt;Dati &lt;/f0&gt; &lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt; Raggruppa e struttura &lt;/f3&gt; &lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt; &lt;f6&gt; Gruppo&lt;/f6&gt; dalla barra dei menu, o premete il tasto &lt;f7&gt;F12&lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose the &lt;is0/&gt;unit of measurement&lt;ie1/&gt; used in spreadsheets and the default tab stops distance.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T130557Z" creationid="steevie" creationdate="20160427T130557Z">
@@ -21243,6 +21251,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T174342Z" creationid="Elisabetta Manuele" creationdate="20170301T174342Z">
         <seg>Figura &lt;seq0&gt;206&lt;/seq0&gt;: &lt;f1&gt;tabella pivot&lt;/f1&gt; contenente categorie non scalari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;207&lt;/seq0&gt;: Summary of single categories in one group</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T175054Z" creationid="Elisabetta Manuele" creationdate="20170301T175054Z">
+        <seg>Figura &lt;seq0&gt;207&lt;/seq0&gt;: riepilogo delle singole categorie aggregate in un gruppo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;208&lt;/seq0&gt;: Grouping finished</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T175121Z" creationid="Elisabetta Manuele" creationdate="20170301T175121Z">
+        <seg>Figura &lt;seq0&gt;208&lt;/seq0&gt;: raggruppamento terminato</seg>
       </tuv>
     </tu>
     <tu>
@@ -36969,6 +36993,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repeat this for all groups that you want to create from the different categories (Select Assembly, Production and Warehouse and Group again.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T174934Z" creationid="Elisabetta Manuele" creationdate="20170301T174934Z">
+        <seg>Ripetete l'operazione per tutti i gruppi che desiderate creare dalle diverse categorie (selezionate le voci Montaggio, Produzione, Magazzino e scegliete nuovamente la voce Gruppo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repeats a character string by the given &lt;f0&gt;number&lt;/f0&gt; of copies.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T102424Z" creationid="Marco Marega" creationdate="20160823T102424Z">
@@ -47187,10 +47219,26 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The output should look like Figure &lt;t9&gt;208&lt;/t9&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T175006Z" creationid="Elisabetta Manuele" creationdate="20170301T175006Z">
+        <seg>Il risultato dovrebbe avere l'aspetto simile a quello della figura &lt;t9&gt;208&lt;/t9&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The output should look like that in Figure &lt;t2&gt;206&lt;/t2&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T174643Z" creationid="Elisabetta Manuele" creationdate="20170301T174643Z">
         <seg>Il risultato dovrebbe avere l'aspetto simile a quello della figura &lt;t2&gt;206&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The output should now look like that in Figure &lt;t8&gt;207&lt;/t8&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T174909Z" creationid="Elisabetta Manuele" creationdate="20170301T174909Z">
+        <seg>Il risultato dovrebbe ora avere l'aspetto simile a quello della figura &lt;t8&gt;207&lt;/t8&gt;.</seg>
       </tuv>
     </tu>
     <tu>
