@@ -86,6 +86,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>% of column</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T162323Z" creationid="Elisabetta Manuele" creationdate="20170301T162323Z">
+        <seg>% della colonna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>% of row</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T162250Z" creationid="Elisabetta Manuele" creationdate="20170301T162250Z">
+        <seg>% della riga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>% of total</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T162358Z" creationid="Elisabetta Manuele" creationdate="20170301T162358Z">
+        <seg>% del totale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>'.Connection = com.sun.star.sheet.FilterConnection.AND</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135454Z" creationid="steevie" creationdate="20160511T135454Z">
@@ -138,6 +162,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160820T052804Z" creationid="briga" creationdate="20160820T052804Z">
         <seg>(Solo per gli stili di cella) Se desiderate collegare il nuovo stile a uno esistente, selezionate quest'ultimo e quindi fate clic con il pulsante destro del mouse e scegliete la voce &lt;f0&gt;Nuovo&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(Default result x total result) / (row total x column total)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T162440Z" creationid="Elisabetta Manuele" creationdate="20170301T162440Z">
+        <seg>(Risultato originale x totale complessivo) / (Totale riga x totale colonna).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19255,6 +19287,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each result is added to the sum of the results for preceding items in the base field, in the base field's sort order, and the total sum is shown.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T162157Z" creationid="Elisabetta Manuele" creationdate="20170301T162157Z">
+        <seg>Ogni risultato viene aggiunto al totale dei risultati relativi agli elementi precedenti del Campo base, nell'ordine impostato in quest'ultimo, e viene visualizzata la somma totale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Each row in a range corresponds to a record and each cell corresponds to a field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T150222Z" creationid="steevie" creationdate="20160509T150222Z">
@@ -36713,6 +36753,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Results are always summed, even if a different summary function was used to get each result.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T162229Z" creationid="Elisabetta Manuele" creationdate="20170301T162229Z">
+        <seg>I risultati vengono sempre sommati, anche se per ottenerli singolarmente viene utilizzata una funzione di somma differente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Results to</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T160603Z" creationid="Elisabetta Manuele" creationdate="20170228T160603Z">
@@ -47095,6 +47143,30 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T183925Z" creationid="Marco Marega" creationdate="20160817T183925Z">
         <seg>Il risultato è una data che dista un determinato numero di &lt;f0&gt;Mesi&lt;/f0&gt; dalla &lt;f1&gt;data iniziale&lt;/f1&gt; inserita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The result is a percentage of the overall result (for example, the total sum).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T162416Z" creationid="Elisabetta Manuele" creationdate="20170301T162416Z">
+        <seg>Il risultato consiste in una percentuale del risultato complessivo (per es., la somma totale).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The result is a percentage of the total column value (for example, the column sum).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T162344Z" creationid="Elisabetta Manuele" creationdate="20170301T162344Z">
+        <seg>Il risultato consiste in una percentuale del valore totale della colonna (per es., il totale per colonna).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The result is a percentage of the value of the whole row (for example, the row sum).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T162308Z" creationid="Elisabetta Manuele" creationdate="20170301T162308Z">
+        <seg>Il risultato consiste in una percentuale del valore dell'intera riga (per es., il totale per riga).</seg>
       </tuv>
     </tu>
     <tu>
