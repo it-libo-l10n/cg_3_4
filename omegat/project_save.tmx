@@ -14135,6 +14135,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Categories containing text fields cannot create intervals.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T174008Z" creationid="Elisabetta Manuele" creationdate="20170301T174008Z">
+        <seg>Le categorie contenenti campi di testo non consentono la creazione di intervalli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Category</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160616T192628Z" creationid="briga" creationdate="20160616T192628Z">
@@ -21215,6 +21223,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;204&lt;/seq0&gt;: Grouping dialog with scalar categories</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T173747Z" creationid="Elisabetta Manuele" creationdate="20170301T173747Z">
+        <seg>Figura &lt;seq0&gt;204&lt;/seq0&gt;: finestra di dialogo 'Raggruppamento' con categorie scalari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;205&lt;/seq0&gt;: Database with nonscalar categories (departments)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T174209Z" creationid="Elisabetta Manuele" creationdate="20170301T174209Z">
+        <seg>Figura &lt;seq0&gt;205&lt;/seq0&gt;: database contenente categorie non scalari (Reparti)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Two levels of password protection</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T090425Z" creationid="michele" creationdate="20160525T090425Z">
@@ -24907,6 +24931,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T172204Z" creationid="Elisabetta Manuele" creationdate="20170301T172204Z">
         <seg>Raggruppare righe o colonne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Grouping without automatic creation of intervals</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T173951Z" creationid="Elisabetta Manuele" creationdate="20170301T173951Z">
+        <seg>Raggruppamento senza creazione automatica di intervalli</seg>
       </tuv>
     </tu>
     <tu>
@@ -29148,6 +29180,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161127T185222Z" creationid="Andrea" creationdate="20161127T185222Z">
         <seg>Nella lista a tendina:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the field &lt;f0&gt;Group by&lt;/f0&gt; you can enter the class size, this means the interval size (in this example groups of 10 km/h each).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T173902Z" creationid="Elisabetta Manuele" creationdate="20170301T173902Z">
+        <seg>Nell'area &lt;f0&gt;Raggruppa per&lt;/f0&gt; si può inserire la dimensione della classe, cioè l'ampiezza dell'intervallo (nell'esempio in questione i gruppi sono costituiti da un intervallo di valori di 10 Km/h ciascuno)</seg>
       </tuv>
     </tu>
     <tu>
@@ -41241,6 +41281,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selecting &lt;f0&gt;Data &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Group and Outline &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Group&lt;/f6&gt; from the menu bar, or pressing &lt;f7&gt;F12,&lt;/f7&gt; with more than one cell selected, groups those cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T174129Z" creationid="Elisabetta Manuele" creationdate="20170301T174129Z">
+        <seg>La selezione della voce &lt;f0&gt;Dati &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Raggruppa e struttura &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Gruppo&lt;/f6&gt; dalla barra dei menu, o la pressione del tasto &lt;f7&gt;F12&lt;/f7&gt;, consente di raggruppare più celle selezionate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Selecting &lt;f0&gt;Include formats&lt;/f0&gt; option gives consideration to the formatting attributes when sorting.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T133102Z" creationid="michele" creationdate="20160531T133102Z">
@@ -45702,6 +45750,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160527T133707Z" creationid="michele" creationdate="20160526T154901Z">
         <seg>L'impostazione predefinita è la Somma, che aggiunge il corrispondente valore delle celle delle Aree dati di sorgente e visualizza il risultato nell'area definita in Risultato a partire da.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The default setting is the whole range from smallest to largest value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T173820Z" creationid="Elisabetta Manuele" creationdate="20170301T173820Z">
+        <seg>Le impostazioni predefinite prevedono la copertura dell'intero intervallo che separa il valore minimo dal massimo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56547,6 +56603,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can define for each field (for example Department) which values you want to put together in one group.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T174027Z" creationid="Elisabetta Manuele" creationdate="20170301T174027Z">
+        <seg>Per ogni campo (per es.: Reparto) si possono specificare i valori da accorpare in un singolo gruppo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can define in which value range (start/end) the grouping should take place.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T173806Z" creationid="Elisabetta Manuele" creationdate="20170301T173806Z">
+        <seg>Si può definire l'intervallo di valori limite (Avvia/Termina) entro il quale effettuare il raggruppamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can define more than one page style for a spreadsheet and assign different page styles to different sheets.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T165312Z">
@@ -58967,6 +59039,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T173235Z" creationid="Elisabetta Manuele" creationdate="20170301T173235Z">
         <seg>raggruppare valori scalari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>group without intervals</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T173936Z" creationid="Elisabetta Manuele" creationdate="20170301T173936Z">
+        <seg>raggruppamento senza intervalli</seg>
       </tuv>
     </tu>
     <tu>
