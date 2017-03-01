@@ -41041,10 +41041,26 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selection of &lt;s0/&gt;a field from the data source of the DataPilot (for example, employee)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T161141Z" creationid="Elisabetta Manuele" creationdate="20170301T161141Z">
+        <seg>Selezione di un &lt;s0/&gt;campo della sorgente dati contenuta nella finestra Tabella Pivot (per es., Impiegato).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Selection of a field from the data source of the DataPilot (for example, employee).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T160901Z" creationid="Elisabetta Manuele" creationdate="20170301T160901Z">
         <seg>Selezione di un campo della sorgente dati contenuta nella Tabella Pivot (per es., Impiegato).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection of an element from the selected base field (for example, Brigitte)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T161221Z" creationid="Elisabetta Manuele" creationdate="20170301T161221Z">
+        <seg>Selezione di un elemento del Campo base prescelto (per es., Brigitta).</seg>
       </tuv>
     </tu>
     <tu>
@@ -47023,6 +47039,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T183925Z" creationid="Marco Marega" creationdate="20160817T183925Z">
         <seg>Il risultato è una data che dista un determinato numero di &lt;f0&gt;Mesi&lt;/f0&gt; dalla &lt;f1&gt;data iniziale&lt;/f1&gt; inserita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The result is a percentage ratio of the value of the base field to the base item (for example, sales result of the employee relative to the sales result of Brigitte; see &lt;t0&gt;Figure 191&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T161517Z" creationid="Elisabetta Manuele" creationdate="20170301T161517Z">
+        <seg>Il risultato consiste nel rapporto percentuale del valore relativo al Campo base rispetto a quello relativo all'Elemento base (per es., il volume di vendita realizzato dagli impiegati in rapporto a quello realizzato da Brigitta. (Figura &lt;t0&gt;191&lt;/t0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
