@@ -9959,6 +9959,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A well-structured database makes manual sorting within the &lt;f0&gt;Pivot Table&lt;/f0&gt; obsolete.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T175841Z" creationid="Elisabetta Manuele" creationdate="20170301T175841Z">
+        <seg>Un database ben strutturato rende obsoleto l'ordinamento manuale all'interno di una &lt;f0&gt;tabella pivot&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A – B (A, space, en-dash, space, B)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T171421Z" creationid="Elisabetta" creationdate="20160628T171421Z">
@@ -29264,6 +29272,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the example shown, you could add another column with the name Department, that has the correct entry for each person &lt;s1/&gt;based on whether the employee’s department belongs to the group Office or Technical.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T175929Z" creationid="Elisabetta Manuele" creationdate="20170301T175929Z">
+        <seg>Nell'esempio rappresentato potreste aggiungere un'ulteriore colonna Reparto che riporti una voce relativa a ogni impiegato &lt;s1/&gt;in base all'appartenenza del proprio reparto al gruppo Ufficio o Tecnico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the field &lt;f0&gt;Group by&lt;/f0&gt; you can enter the class size, this means the interval size (in this example groups of 10 km/h each).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T173902Z" creationid="Elisabetta Manuele" creationdate="20170301T173902Z">
@@ -42825,6 +42841,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sorting the result</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T180107Z" creationid="Elisabetta Manuele" creationdate="20170301T180107Z">
+        <seg>Ordinamento dei risultati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sorts are handy when you are searching for a particular item, and become even more powerful after you have filtered data.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T164941Z" creationid="Elisabetta" creationdate="20160725T164941Z">
@@ -46871,6 +46895,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160216T071803Z">
         <seg>La differenza principale fra di essi è che Rapporto è orientato in verticale laddove Predefinito ha un orientamento orizzontale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The mapping for this (1:n relationship) can be done easily with the VLOOKUP function from Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T175945Z" creationid="Elisabetta Manuele" creationdate="20170301T175945Z">
+        <seg>Si può facilmente stilarne una mappatura (relazione 1:n) con la funzione VLOOKUP di Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60479,6 +60511,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T151859Z" creationid="steevie" creationdate="20160428T151859Z">
         <seg>Ordina elenchi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sort results</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T180032Z" creationid="Elisabetta Manuele" creationdate="20170301T180032Z">
+        <seg>ordina risultati</seg>
       </tuv>
     </tu>
     <tu>
