@@ -18903,6 +18903,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double clicking &lt;f9&gt;Group 1&lt;/f9&gt; and &lt;f10&gt;Technical&lt;/f10&gt; collapses the entries, as shown in Figure &lt;t11&gt;210&lt;/t11&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T175701Z" creationid="Elisabetta Manuele" creationdate="20170301T175701Z">
+        <seg>Il doppio clic sulle voci &lt;f9&gt;Gruppo 1&lt;/f9&gt; e &lt;f10&gt;Tecnico&lt;/f10&gt; ha l'effetto di contrarre la visualizzazione delle voci, come in figura &lt;t11&gt;210&lt;/t11&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Double-click any of the elements—the title, the legend, or the chart graphic.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161205T225903Z" creationid="Andrea" creationdate="20161205T225903Z">
@@ -21271,10 +21279,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;209&lt;/seq0&gt;: Renamed groups and partial results</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T175731Z" creationid="Elisabetta Manuele" creationdate="20170301T175731Z">
+        <seg>Figura &lt;seq0&gt;209&lt;/seq0&gt;: gruppi rinominati e risultati parziali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Two levels of password protection</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T090425Z" creationid="michele" creationdate="20160525T090425Z">
         <seg>Figura &lt;seq0&gt;20&lt;/seq0&gt;: i due livelli di protezione password</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;210&lt;/seq0&gt;: Reduced to the new groups</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T175802Z" creationid="Elisabetta Manuele" creationdate="20170301T175802Z">
+        <seg>Figura &lt;seq0&gt;210&lt;/seq0&gt;: visualizzazione contratta dei nuovi gruppi</seg>
       </tuv>
     </tu>
     <tu>
@@ -24035,6 +24059,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T154329Z" creationid="Andrea" creationdate="20160828T212744Z">
         <seg>Per i Campi dati viene utilizzata una funzione aggregata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the following pictures, the dialog was called again (with a right-click, &lt;f3&gt;Edit Layout&lt;/f3&gt;) and by selecting the icon “&lt;f4&gt;Department 2&lt;/f4&gt;”, then &lt;f5&gt;Options&lt;/f5&gt;, and finally from the preferences menu &lt;s6/&gt;&lt;f7&gt;Automatic&lt;/f7&gt; was selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T175546Z" creationid="Elisabetta Manuele" creationdate="20170301T175546Z">
+        <seg>Per ottenere le immagini seguenti, è stata richiamata la finestra di dialogo tramite clic con il pulsante secondario del mouse e selezione della voce &lt;f3&gt;Modifica layout&lt;/f3&gt;, poi dell'icona “&lt;f4&gt;Reparto2&lt;/f4&gt;”. Quindi si è selezionata la voce &lt;f5&gt;Opzioni&lt;/f5&gt; e, al termine, la voce &lt;s6/&gt;&lt;f7&gt;Automatico&lt;/f7&gt; dal menu delle preferenze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44418,6 +44450,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f2&gt;Pivot Table&lt;/f2&gt; will remember these settings, even if you change the layout later on.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T175359Z" creationid="Elisabetta Manuele" creationdate="20170301T175359Z">
+        <seg>La &lt;f2&gt;tabella pivot&lt;/f2&gt; memorizza le nuove impostazioni anche in caso di futura modifica del layout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f3&gt;Pivot Table&lt;/f3&gt; can contain a lot of categories, depending on your data source.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T173126Z" creationid="Elisabetta Manuele" creationdate="20170301T173126Z">
@@ -49431,6 +49471,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T133248Z" creationid="Marco Marega" creationdate="20160820T133248Z">
         <seg>Questa funzione restituisce un valore nella cella attiva; non è necessario definire un intervallo per i risultati.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Matrice&lt;/f1&gt; è una matrice quadrata nella quale sono definiti i determinanti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This generated the partial sum results shown in Figure &lt;t8&gt;209&lt;/t8&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T175613Z" creationid="Elisabetta Manuele" creationdate="20170301T175613Z">
+        <seg>L'operazione ha così generato i risultati parziali del totale visibili nella figura &lt;t8&gt;209&lt;/t8&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56463,6 +56511,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20161002T182217Z" creationid="emanuelegiusti" creationdate="20161002T182217Z">
         <seg>Potete cambiare il tipo di grafico in qualunque momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change the default names for the groups and the newly created group field, by editing the name in the input field (for example changing '&lt;f0&gt;Group2&lt;/f0&gt;' to '&lt;f1&gt;Technical&lt;/f1&gt;').</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T175322Z" creationid="Elisabetta Manuele" creationdate="20170301T175322Z">
+        <seg>Potete modificare i nomi predefiniti dei gruppi vecchi e nuovi personalizzandoli nell'apposito campo di digitazione (per es., da '&lt;f0&gt;Gruppo2&lt;/f0&gt;' a '&lt;f1&gt;Tecnico&lt;/f1&gt;').</seg>
       </tuv>
     </tu>
     <tu>
