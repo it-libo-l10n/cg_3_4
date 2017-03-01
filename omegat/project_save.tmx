@@ -18023,6 +18023,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DataPilot</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T155947Z" creationid="Elisabetta Manuele" creationdate="20170301T155947Z">
+        <seg>Tabella Pivot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Database &lt;is0/&gt;preconditions</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T112924Z" creationid="Andrea" creationdate="20160808T094536Z">
@@ -18635,6 +18643,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170130T211112Z" creationid="Marco Marega" creationdate="20170130T211112Z">
         <seg>A questo punto non preoccupatevi troppo dell'esatto posizionamento dell'immagine; questo può essere modificato facilmente come descritto in “&lt;bf0&gt;Posizionare le figure&lt;/bf0&gt;” a pagina &lt;bf1&gt;138&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do this either by selecting a field and clicking on the &lt;f0&gt;Options&lt;/f0&gt; button in the DataPilot dialog, or by double-clicking on the appropriate field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T155825Z" creationid="Elisabetta Manuele" creationdate="20170301T155825Z">
+        <seg>Questo è possibile sia tramite selezione di un campo e successivo clic sul pulsante &lt;f0&gt;Opzioni&lt;/f0&gt;, visibile nella finestra di dialogo Tabella Pivot, sia tramite doppio clic sul campo appropriato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33993,6 +34009,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Options for Data Fields</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T155917Z" creationid="Elisabetta Manuele" creationdate="20170301T155917Z">
+        <seg>Opzioni dei Campi dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Or hover the mouse pointer over one of the images.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161130T170606Z" creationid="luciano" creationdate="20161130T170606Z">
@@ -46403,6 +46427,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The options available for fields put into the Data Fields differ from those put into the Row, Column, and Page Fields of the DataPilot dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T155858Z" creationid="Elisabetta Manuele" creationdate="20170301T155858Z">
+        <seg>Le opzioni disponibili per i campi inseriti nei Campi dati sono diverse da quelle per i campi inseriti nei Campi riga, colonna e pagina all'interno della finestra di dialogo Tabella Pivot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The options discussed in the previous section are valid for the Pivot Table in general.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T155702Z" creationid="Elisabetta Manuele" creationdate="20170301T155702Z">
+        <seg>Le opzioni trattate nella sezione precedente si riferiscono alla tabella Pivot in generale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The options selected on the Print dialog apply to this printing of this document only.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160314T131404Z">
@@ -55203,6 +55243,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also change settings for every field that you have added to the DataPilot dialog’s layout.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T155733Z" creationid="Elisabetta Manuele" creationdate="20170301T155733Z">
+        <seg>Le impostazioni sono modificabili per ogni campo aggiunto al layout della finestra di dialogo Tabella Pivot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also choose whether the error indicator shows both positive and negative errors, or only positive or only negative.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161127T180950Z" creationid="Andrea" creationdate="20161127T180950Z">
@@ -57511,6 +57559,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T172901Z" creationid="Elisabetta" creationdate="20160628T172901Z">
         <seg>inserimento dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>data fields</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T155930Z" creationid="Elisabetta Manuele" creationdate="20170301T155930Z">
+        <seg>campi dati</seg>
       </tuv>
     </tu>
     <tu>
