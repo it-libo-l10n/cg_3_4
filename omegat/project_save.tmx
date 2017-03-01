@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>% of</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T161023Z" creationid="Elisabetta Manuele" creationdate="20170301T161023Z">
+        <seg>% di</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>'.Connection = com.sun.star.sheet.FilterConnection.AND</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135454Z" creationid="steevie" creationdate="20160511T135454Z">
@@ -11231,6 +11239,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Analysis</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T160804Z" creationid="Elisabetta Manuele" creationdate="20170301T160804Z">
+        <seg>Analisi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Anchor</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143012Z" creationid="steevie" creationdate="20160427T143012Z">
@@ -12107,6 +12123,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084436Z">
         <seg>Barbara M Tobias&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Base field</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T160745Z" creationid="Elisabetta Manuele" creationdate="20170301T160745Z">
+        <seg>Campo base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Base item</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T160756Z" creationid="Elisabetta Manuele" creationdate="20170301T160756Z">
+        <seg>Elemento base</seg>
       </tuv>
     </tu>
     <tu>
@@ -18327,6 +18359,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Depending on the setting for &lt;f1&gt;Type&lt;/f1&gt;, you may have to choose definitions for &lt;f2&gt;Base field&lt;/f2&gt; and &lt;f3&gt;Base item&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T160612Z" creationid="Elisabetta Manuele" creationdate="20170301T160612Z">
+        <seg>In base all'impostazione della voce &lt;f1&gt;Tipo&lt;/f1&gt;, si possono selezionare ulteriori informazioni per un &lt;f2&gt;Campo base&lt;/f2&gt; e un &lt;f3&gt;Elemento base&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Depending on your settings in &lt;f0&gt;Tools &gt; Options &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;LibreOffice &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Security &gt;&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Macro Security&lt;/f5&gt;, Calc will display the warning shown in &lt;t6&gt;Figure 309&lt;/t6&gt; or the one shown in &lt;t7&gt;Figure 310&lt;/t7&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160614T160716Z" creationid="luciano" creationdate="20160614T160716Z">
@@ -18387,6 +18427,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170113T221250Z" creationid="Marco Marega" creationdate="20170113T221117Z">
         <seg>I diagrammi creati con gli strumenti di disegno di &lt;f0&gt;LibreOffice&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Difference from</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T160842Z" creationid="Elisabetta Manuele" creationdate="20170301T160842Z">
+        <seg>Differenza da</seg>
       </tuv>
     </tu>
     <tu>
@@ -20915,6 +20963,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T160428Z" creationid="Elisabetta Manuele" creationdate="20170301T160428Z">
         <seg>Figura &lt;seq0&gt;188&lt;/seq0&gt;: finestra di dialogo Campo dati estesa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;189&lt;/seq0&gt;: Example choices for Base field and item</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T160651Z" creationid="Elisabetta Manuele" creationdate="20170301T160651Z">
+        <seg>Figura &lt;seq0&gt;189&lt;/seq0&gt;: esempio di selezioni per Campo ed Elemento base</seg>
       </tuv>
     </tu>
     <tu>
@@ -32393,6 +32449,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Normal</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T160815Z" creationid="Elisabetta Manuele" creationdate="20170301T160815Z">
+        <seg>Normale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Normally, sorting the data causes the existing data to be replaced by the newly sorted data.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160510T135229Z" creationid="steevie" creationdate="20160510T135229Z">
@@ -40977,6 +41041,22 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selection of a field from the data source of the DataPilot (for example, employee).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T160901Z" creationid="Elisabetta Manuele" creationdate="20170301T160901Z">
+        <seg>Selezione di un campo della sorgente dati contenuta nella Tabella Pivot (per es., Impiegato).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection of an element from the selected base field (for example, Brigitte).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T160925Z" creationid="Elisabetta Manuele" creationdate="20170301T160925Z">
+        <seg>Selezione di un elemento del Campo base prescelto (per es., Brigitta).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Selects all cells containing data from the current cell to the end of the continuous range of data cells, in the direction of the arrow pressed.&lt;f0&gt; &lt;/f0&gt;If used to select rows and columns together, a rectangular cell range is selected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160504T161035Z" creationid="luciano" creationdate="20160504T161035Z">
@@ -41797,6 +41877,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T151559Z" creationid="steevie" creationdate="20160503T151559Z">
         <seg>Un foglio di calcolo come semplice pagella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Simple use of the chosen aggregate function (for example, sum).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T160832Z" creationid="Elisabetta Manuele" creationdate="20170301T160832Z">
+        <seg>Utilizzo semplice della funzione di aggregazione selezionata (per es., Somma).</seg>
       </tuv>
     </tu>
     <tu>
@@ -46971,6 +47059,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The result is the difference between the result of the Base field and the Base item (for example, sales volume of the employees against the sales volume of Brigitte; see &lt;t0&gt;Figure 190&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T161012Z" creationid="Elisabetta Manuele" creationdate="20170301T161012Z">
+        <seg>Il risultato consiste nella differenza tra il risultato relativo al Campo base e quello relativo all'Elemento base (per es., il volume di vendita realizzato dagli impiegati rispetto a quello realizzato da Brigitta. Figura &lt;t0&gt;190&lt;/t0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The result is the lowest common multiple of a list of numbers.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T130836Z" creationid="Marco Marega" creationdate="20160626T130836Z">
@@ -47551,6 +47647,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084135Z">
         <seg>La tabella che segue fornisce alcune sostituzioni comuni per le istruzioni di questo capitolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The table below lists the possible types of displayed value and associated base field and item, together with a note on usage.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T160722Z" creationid="Elisabetta Manuele" creationdate="20170301T160722Z">
+        <seg>La tabella seguente elenca i possibili tipi di valore visualizzato con i relativi Campo ed Elemento base, corredati da una nota d'uso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51799,6 +51903,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T125854Z" creationid="steevie" creationdate="20160421T125854Z">
         <seg>Due esempi notevoli sono i riferimenti incrociati alle intestazioni e la formattazione degli elenchi numerati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T160730Z" creationid="Elisabetta Manuele" creationdate="20170301T160730Z">
+        <seg>Tipo</seg>
       </tuv>
     </tu>
     <tu>
