@@ -9399,6 +9399,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A field removed in error cannot be recovered; it is necessary to return to the DataPilot to replace it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T172045Z" creationid="Elisabetta Manuele" creationdate="20170301T172045Z">
+        <seg>Un campo eliminato erroneamente non può essere ripristinato, a questo scopo è necessario tornare alla finestra Tabella Pivot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A file browser window opens.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T173315Z" creationid="steevie" creationdate="20160428T173315Z">
@@ -21151,6 +21159,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;200&lt;/seq0&gt;: Drag a row field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T171851Z" creationid="Elisabetta Manuele" creationdate="20170301T171851Z">
+        <seg>Figura &lt;seq0&gt;200&lt;/seq0&gt;: trascinamento di un campo riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;201&lt;/seq0&gt;: Field dragged out of the pivot table</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T172126Z" creationid="Elisabetta Manuele" creationdate="20170301T172126Z">
+        <seg>Figura &lt;seq0&gt;201&lt;/seq0&gt;: campo trascinato all'esterno della Tabella pivot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Two levels of password protection</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T090425Z" creationid="michele" creationdate="20160525T090425Z">
@@ -23711,6 +23735,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For many analyses or summaries, the categories have to be grouped.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T172226Z" creationid="Elisabetta Manuele" creationdate="20170301T172226Z">
+        <seg>Per effettuare molte analisi o riepiloghi le categorie devono essere raggruppate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For many people, Calc implements sufficient database functionality that no other database program or functionality is required.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T151211Z" creationid="steevie" creationdate="20160503T151211Z">
@@ -24811,6 +24843,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161212T110606Z" creationid="luciano" creationdate="20161212T110606Z">
         <seg>Raggruppare oggetti di disegno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Grouping rows or columns</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T172204Z" creationid="Elisabetta Manuele" creationdate="20170301T172204Z">
+        <seg>Raggruppare righe o colonne</seg>
       </tuv>
     </tu>
     <tu>
@@ -32805,6 +32845,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T091525Z" creationid="Elisabetta" creationdate="20160629T091525Z">
         <seg>È visibile l'opzione &lt;f1&gt;Accetta celle vuote&lt;/f1&gt; sotto la casella di riepilogo &lt;f2&gt;Permetti&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note the cursor shape</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T171734Z" creationid="Elisabetta Manuele" creationdate="20170301T171734Z">
+        <seg>Da notare la forma del cursore</seg>
       </tuv>
     </tu>
     <tu>
@@ -45386,6 +45434,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The cursor changes to that shown in &lt;t0&gt;Figure 201&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T172015Z" creationid="Elisabetta Manuele" creationdate="20170301T172015Z">
+        <seg>Il cursore assumerà la forma evidenziata nella figura &lt;t0&gt;201&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The cursor changes to the usual blinking text-entry cursor, and the Formatting toolbar changes to show text attributes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160424T135323Z" creationid="luciano" creationdate="20160424T135323Z">
@@ -56699,6 +56755,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can remove a column, row, or page field from the Pivot Table by clicking on it and dragging it out of the table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T171925Z" creationid="Elisabetta Manuele" creationdate="20170301T171925Z">
+        <seg>Potete eliminare un Campo colonna, riga o pagina dalla Tabella Pivot selezionandolo e trascinandolo all'esterno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can remove any user-defined (custom) styles; but before you do, you should make sure the styles are not in use.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160820T054234Z" creationid="briga" creationdate="20160820T054234Z">
@@ -58783,6 +58847,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20161002T181711Z" creationid="emanuelegiusti" creationdate="20160626T123935Z">
         <seg>griglie dei grafici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>group rows or columns</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T172150Z" creationid="Elisabetta Manuele" creationdate="20170301T172150Z">
+        <seg>raggruppare righe o colonne</seg>
       </tuv>
     </tu>
     <tu>
