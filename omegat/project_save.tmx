@@ -21055,6 +21055,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;193&lt;/seq0&gt;: No subdivision with only one row or column field</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T163312Z" creationid="Elisabetta Manuele" creationdate="20170301T163312Z">
+        <seg>Figura &lt;seq0&gt;193&lt;/seq0&gt;: nessuna suddivisione viene applicata con un unico campo riga o colonna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;194&lt;/seq0&gt;: Division of the regions for employees (two row fields) without subtotals</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T163404Z" creationid="Elisabetta Manuele" creationdate="20170301T163336Z">
+        <seg>Figura &lt;seq0&gt;194&lt;/seq0&gt;: divisione delle regioni per impiegati (due campi riga) senza subtotali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;195&lt;/seq0&gt;: Division of the regions for employees with subtotals &lt;s1/&gt;(by region)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T163503Z" creationid="Elisabetta Manuele" creationdate="20170301T163503Z">
+        <seg>Figura &lt;seq0&gt;195&lt;/seq0&gt;: divisione delle regioni per impiegati con subtotali &lt;s1/&gt;(per regione)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Choosing options when exporting to Text CSV</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T152950Z" creationid="michele" creationdate="20160524T152950Z">
@@ -24371,6 +24395,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T202004Z" creationid="Elisabetta" creationdate="20160815T202004Z">
         <seg>La funzione richiede più variabili di quelle fornite, ad esempio, AND() e OR().</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Functions are only available when &lt;f2&gt;User-defined&lt;/f2&gt; is selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T163723Z" creationid="Elisabetta Manuele" creationdate="20170301T163723Z">
+        <seg>Le funzioni appaiono disponibili solo se viene selezionata l'opzione &lt;f2&gt;Personalizzato&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28804,6 +28836,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160530T151650Z" creationid="michele" creationdate="20160530T151650Z">
         <seg>Nella finestra di dialogo Subtotali(&lt;t0&gt;Figura 231&lt;/t0&gt;), nel menu a tendina &lt;f1&gt;Raggruppa per&lt;/f1&gt; , seleziona la colonna che desideri utilizzare per raggruppare i subtotali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Subtotals section of the Data Field dialog, select the &lt;f0&gt;Automatic &lt;/f0&gt;option to calculate subtotals that can also be used for the data fields (see above).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T163542Z" creationid="Elisabetta Manuele" creationdate="20170301T163542Z">
+        <seg>Nell'area Totali parziali della finestra di dialogo Campo dati, selezionate l'opzione &lt;f0&gt;Automatico&lt;/f0&gt; per calcolare i subtotali utilizzabili anche per i campi dati (v. sopra).</seg>
       </tuv>
     </tu>
     <tu>
@@ -42157,6 +42197,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084342Z">
         <seg>Alcune finestre di dialogo possono rimanere aperte mentre lavorate, quindi potete spostarvi avanti e indietro tra la finestra di dialogo e il vostro documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some examples are shown in the next three figures.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T163233Z" creationid="Elisabetta Manuele" creationdate="20170301T163233Z">
+        <seg>Nelle tre figure sottostanti sono riportati alcuni esempi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55999,6 +56047,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160325T155946Z">
         <seg>Potete scegliere di stampare fogli singoli, multipli, e selezioni di celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can choose the type of subtotal by selecting &lt;f0&gt;User-defined&lt;/f0&gt;&lt;f1&gt; and then&lt;/f1&gt; clicking the type of subtotal you want to calculate from the list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T163653Z" creationid="Elisabetta Manuele" creationdate="20170301T163653Z">
+        <seg>Tra i vari tipi di subtotale selezionate l'opzione &lt;f0&gt;Personalizzato&lt;/f0&gt;,&lt;f1&gt;quindi&lt;/f1&gt; scegliete dall'elenco il tipo di subtotale desiderato.</seg>
       </tuv>
     </tu>
     <tu>
