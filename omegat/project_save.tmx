@@ -14943,6 +14943,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Data &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Group and Outline &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Group&lt;/f6&gt; from the menu bar or press &lt;f7&gt;F12&lt;/f7&gt;; you get the following dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T173653Z" creationid="Elisabetta Manuele" creationdate="20170301T173653Z">
+        <seg>Selezionando la voce &lt;f0&gt;Dati &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Raggruppa e struttura &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Gruppo&lt;/f6&gt; dalla barra dei menu, o premendo il tasto &lt;f7&gt;F12&lt;/f7&gt; si aprirà la finestra di dialogo seguente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;Data&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Consolidate&lt;/f3&gt; to open the Consolidate dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160526T084713Z" creationid="michele" creationdate="20160526T084645Z">
@@ -18153,8 +18161,8 @@
       <tuv lang="EN">
         <seg>DataPilot</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T155947Z" creationid="Elisabetta Manuele" creationdate="20170301T155947Z">
-        <seg>Tabella Pivot</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T173246Z" creationid="Elisabetta Manuele" creationdate="20170301T155947Z">
+        <seg>Tabella pivot</seg>
       </tuv>
     </tu>
     <tu>
@@ -21191,6 +21199,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;202&lt;/seq0&gt;: &lt;f1&gt;Pivot Table&lt;/f1&gt; without grouping (frequency of the km/h values of a radar control)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T173438Z" creationid="Elisabetta Manuele" creationdate="20170301T173438Z">
+        <seg>Figura &lt;seq0&gt;202&lt;/seq0&gt;: &lt;f1&gt;tabella pivot&lt;/f1&gt; senza raggruppamenti (frequenza dei valori di un controllo radar espressi in Km/h)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;203&lt;/seq0&gt;: &lt;f1&gt;Pivot Table&lt;/f1&gt; with grouping (classes of 10 km/h each)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T173529Z" creationid="Elisabetta Manuele" creationdate="20170301T173529Z">
+        <seg>Figura &lt;seq0&gt;203&lt;/seq0&gt;: &lt;f1&gt;tabella pivot&lt;/f1&gt; con raggruppamenti (classi di 10 Km/h ciascuna)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Two levels of password protection</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T090425Z" creationid="michele" creationdate="20160525T090425Z">
@@ -23011,6 +23035,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T140412Z" creationid="steevie" creationdate="20160427T140412Z">
         <seg>Per la &lt;f0&gt;stampa&lt;/f0&gt;, scegliete &lt;f1&gt;Formato &gt; Pagina &gt; Foglio&lt;/f1&gt; e contrassegnate l'opzione&lt;f2&gt;Griglia&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For &lt;i0/&gt;grouping scalar values, select a single cell in the row or column of the category to be grouped.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T173323Z" creationid="Elisabetta Manuele" creationdate="20170301T173323Z">
+        <seg>Per &lt;i0/&gt;raggruppare valori scalari, selezionate una cella della riga o della colonna relative alla categoria da raggruppare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24859,6 +24891,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161212T110606Z" creationid="luciano" creationdate="20161212T110606Z">
         <seg>Raggruppare oggetti di disegno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Grouping of categories with scalar values</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T173222Z" creationid="Elisabetta Manuele" creationdate="20170301T173222Z">
+        <seg>Raggruppare categorie con valori scalari</seg>
       </tuv>
     </tu>
     <tu>
@@ -58919,6 +58959,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T172150Z" creationid="Elisabetta Manuele" creationdate="20170301T172150Z">
         <seg>raggruppare righe o colonne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>group scalar values</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T173235Z" creationid="Elisabetta Manuele" creationdate="20170301T173235Z">
+        <seg>raggruppare valori scalari</seg>
       </tuv>
     </tu>
     <tu>
