@@ -9367,6 +9367,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A dialog appears allowing you to select the field to use for further subdivision.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T173552Z" creationid="Elisabetta Manuele" creationdate="20170303T173552Z">
+        <seg>Compare una finestra di dialogo che consente di selezionare il campo da utilizzare per un'ulteriore suddivisione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A dialog appears informing you that the Goal Seek was successful.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T131514Z" creationid="michele" creationdate="20160608T131514Z">
@@ -21455,6 +21463,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;214&lt;/seq0&gt;: Before the drill down for the category golfing</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T173516Z" creationid="Elisabetta Manuele" creationdate="20170303T173516Z">
+        <seg>Figura &lt;seq0&gt;214&lt;/seq0&gt;: prima dell'analisi dettagliata della categoria Golf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;215&lt;/seq0&gt;: Selecting the field for the subdivision</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T173805Z" creationid="Elisabetta Manuele" creationdate="20170303T173805Z">
+        <seg>Figura &lt;seq0&gt;215&lt;/seq0&gt;: selezione dei campi per la suddivisione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;216&lt;/seq0&gt;: After the drill down</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T173833Z" creationid="Elisabetta Manuele" creationdate="20170303T173833Z">
+        <seg>Figura &lt;seq0&gt;216&lt;/seq0&gt;: dopo l'analisi dettagliata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T095435Z" creationid="michele" creationdate="20160525T095435Z">
@@ -23571,6 +23603,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T135200Z" creationid="steevie" creationdate="20160504T134247Z">
         <seg>Ad esempio, create un intervallo chiamato &lt;f2&gt;Punteggi&lt;/f2&gt; e poi usate questa equazione: &lt;f3&gt;=SOMMA(Punteggi)&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, double-click on the cell with the value &lt;f0&gt;golfing.&lt;/f0&gt; In this instance the values that are aggregated within &lt;f1&gt;golfing&lt;/f1&gt; can be subdivided using another field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T173445Z" creationid="Elisabetta Manuele" creationdate="20170303T173445Z">
+        <seg>Per esempio, con un doppio clic sulla cella contenente la categoria &lt;f0&gt;Golf&lt;/f0&gt; è possibile generare una suddivisione dei valori aggregati &lt;f1&gt;al suo interno&lt;/f1&gt; ricorrendo a un altro campo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29652,6 +29692,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T141048Z" creationid="michele" creationdate="20160608T140857Z">
         <seg>In questo esempio la cella B4 contiene il valore totale degli interessi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this example, &lt;f0&gt;employee&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T173614Z" creationid="Elisabetta Manuele" creationdate="20170303T173614Z">
+        <seg>In questo esempio, il campo &lt;f0&gt;Impiegato&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51775,6 +51823,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160424T135553Z" creationid="luciano" creationdate="20160424T135553Z">
         <seg>Per nascondere nuovamente il commento, fate clic con il pulsante destro del mouse e deselezionate &lt;f0&gt;Mostra Commenti&lt;/f0&gt; nel &lt;f1&gt;menu contestuale&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To hide the details again, double-click on the cell &lt;f0&gt;golfing&lt;/f0&gt; or choose &lt;f1&gt;Data &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Group and Outline &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; Hide Details&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T173728Z" creationid="Elisabetta Manuele" creationdate="20170303T173728Z">
+        <seg>Per nascondere nuovamente i dettagli, fate doppio clic sulla cella &lt;f0&gt;Golf&lt;/f0&gt; o scegliete la voce &lt;f1&gt;Dati &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Raggruppa e struttura &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; Nascondi dettaglio&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
