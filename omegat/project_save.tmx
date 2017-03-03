@@ -21487,6 +21487,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;217&lt;/seq0&gt;: New table sheet after the drill down for a value in a data field</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T174355Z" creationid="Elisabetta Manuele" creationdate="20170303T174355Z">
+        <seg>Figura &lt;seq0&gt;217&lt;/seq0&gt;: nuovo foglio tabella dopo l'analisi dettagliata di un valore del campo dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T095435Z" creationid="michele" creationdate="20160525T095435Z">
@@ -22947,6 +22955,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160526T125859Z" creationid="steevie" creationdate="20160526T125859Z">
         <seg>I dati filtrati copiati in una nuova posizione possono essere selezionati, modificati e cancellati a piacere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filtering</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T174409Z" creationid="Elisabetta Manuele" creationdate="20170303T174409Z">
+        <seg>Filtro</seg>
       </tuv>
     </tu>
     <tu>
@@ -28863,6 +28879,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In our example, if we were to double-click on the cell with the value $18,741 from Figure &lt;t0&gt;214&lt;/t0&gt;, we would now have a new list of all data sets that are included in this value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T174241Z" creationid="Elisabetta Manuele" creationdate="20170303T174241Z">
+        <seg>In questo esempio, se facessimo doppio clic sulla cella della figura &lt;t0&gt;214&lt;/t0&gt;, contenente il valore € 35.741,90, otterremmo un nuovo elenco di tutti gli insiemi di dati inclusi in questo valore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In previous chapters, we have been entering one of two basic types of data into each cell: numbers and text.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20160818T113720Z" creationid="osvaldo" creationdate="20160818T113705Z">
@@ -29652,6 +29676,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20161230T072803Z" creationid="osvaldo" creationdate="20161230T072803Z">
         <seg>In questo caso, le celle B3 e B4 contengono i dati, mentre B5 è la cella dove viene effettuato il calcolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this case, drill down results in a listing of all data entries of the data source that aggregate to this value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T174142Z" creationid="Elisabetta Manuele" creationdate="20170303T174142Z">
+        <seg>In questo caso, suddividete i risultati in un elenco di tutte le voci dei dati relative alla sorgente e aggregate a questo valore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45546,6 +45578,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The active cell is a value of the Data Field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T174113Z" creationid="Elisabetta Manuele" creationdate="20170303T174113Z">
+        <seg>La cella attiva consiste in un valore del campo dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The actual behavior of the &lt;f0&gt;Copy back&lt;/f0&gt; setting depends on the cell protection, the sheet protection, and the &lt;f1&gt;Prevent changes&lt;/f1&gt; setting (see Table &lt;t2&gt;12&lt;/t2&gt; &lt;f3&gt;on page &lt;/f3&gt;&lt;f4&gt;&lt;t5&gt;233&lt;/t5&gt;&lt;/f4&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T150912Z" creationid="michele" creationdate="20160531T145750Z">
@@ -50243,6 +50283,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This list is displayed in a new sheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T174253Z" creationid="Elisabetta Manuele" creationdate="20170303T174253Z">
+        <seg>L'elenco sarà visibile in un nuovo foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This may be confusing at times, because although there may be a column break set on the page, when you go to &lt;f0&gt;Edit &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Manual Break&lt;/f3&gt;&lt;f4&gt;, the &lt;/f4&gt;&lt;f5&gt;Column break&lt;/f5&gt;&lt;f6&gt; choice may not be available (grayed out).&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T130947Z">
@@ -52327,6 +52375,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T154429Z" creationid="Elisabetta" creationdate="20160725T154429Z">
         <seg>Per rimuovere tutti i filtri contemporaneamente, selezionate l'area dati :A1:F14.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To remove the selection &lt;f3&gt;employee&lt;/f3&gt;, open the DataPilot dialog by right-clicking and choosing &lt;f4&gt;Edit Layout&lt;/f4&gt;, then delete the unwanted selection in the row or column field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T174054Z" creationid="Elisabetta Manuele" creationdate="20170303T174054Z">
+        <seg>Per annullare la selezione del campo &lt;f3&gt;Impiegato&lt;/f3&gt;, aprite la finestra di dialogo Tabella pivot facendo clic con il pulsante secondario del mouse e scegliendo la voce &lt;f4&gt;Modifica layout&lt;/f4&gt;, quindi eliminate la selezione non desiderata dal Campo riga o colonna.</seg>
       </tuv>
     </tu>
     <tu>
