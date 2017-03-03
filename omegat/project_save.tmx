@@ -14479,6 +14479,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changes in the source data could appear in two ways:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T184640Z" creationid="Elisabetta Manuele" creationdate="20170303T184640Z">
+        <seg>Eventuali modifiche apportate ai dati di origine possono essere visualizzate in due modi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changes made in Calc do not affect the original picture, whether it is embedded or linked.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170301T220236Z" creationid="Marco Marega" creationdate="20170301T220236Z">
@@ -58479,6 +58487,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T135404Z" creationid="michele" creationdate="20160531T135404Z">
         <seg>Almeno due celle devono essere selezionate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You must update (refresh) the &lt;f1&gt;Pivot Table&lt;/f1&gt; manually after changing any of the underlying data values.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T184623Z" creationid="Elisabetta Manuele" creationdate="20170303T184623Z">
+        <seg>La &lt;f1&gt;tabella pivot&lt;/f1&gt; deve essere aggiornata manualmente dopo la modifica di ogni valore dei dati di base.</seg>
       </tuv>
     </tu>
     <tu>
