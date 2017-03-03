@@ -10719,6 +10719,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After you have created the &lt;f0&gt;Pivot Table&lt;/f0&gt;, changes in the source data do not cause an automatic update in the resulting table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T184554Z" creationid="Elisabetta Manuele" creationdate="20170303T184554Z">
+        <seg>Dopo la creazione di una &lt;f0&gt;tabella pivot&lt;/f0&gt;, le modifiche apportate ai dati della sorgente non generano un aggiornamento automatico della tabella dei risultati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After you have defined a print range:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T161546Z">
@@ -20223,6 +20231,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Even if they are not called a filter, page fields are a practical way to filter the results.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T184411Z" creationid="Elisabetta Manuele" creationdate="20170303T184411Z">
+        <seg>Malgrado non possano definirsi filtri, i campi pagina rappresentano un valido sistema per filtrare i risultati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exact number of days in month, year has 360 days.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T153705Z" creationid="Marco Marega" creationdate="20160626T153705Z">
@@ -21507,6 +21523,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T174933Z" creationid="Elisabetta Manuele" creationdate="20170303T174933Z">
         <seg>Figura &lt;seq0&gt;218&lt;/seq0&gt;: campo Filtro nell'area superiore sinistra della &lt;f1&gt;tabella pivot&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;219&lt;/seq0&gt;: Dialog for defining the filter</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T184344Z" creationid="Elisabetta Manuele" creationdate="20170303T184344Z">
+        <seg>Figura &lt;seq0&gt;219&lt;/seq0&gt;: finestra di dialogo per specificare il filtro</seg>
       </tuv>
     </tu>
     <tu>
@@ -29204,6 +29228,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T174302Z" creationid="Elisabetta" creationdate="20160628T174302Z">
         <seg>Nella finestra di dialogo Riempi serie selezionate l'opzione &lt;f7&gt;Riempimento automatico&lt;/f7&gt; come &lt;f8&gt;Tipo di serie&lt;/f8&gt; e inserite come &lt;f9&gt;Valore iniziale&lt;/f9&gt; un elemento contenuto in una delle serie definite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Filter dialog, you can define up to 3 filter options that are used in the same way as Calc’s default filter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T184317Z" creationid="Elisabetta Manuele" creationdate="20170303T184317Z">
+        <seg>Nella finestra di dialogo Filtro, potete specificare fino a 3 opzioni di filtro, applicabili con le stesse modalità del filtro standard del programma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45642,6 +45674,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The advantage is that the filtering criteria used are clearly visible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T184427Z" creationid="Elisabetta Manuele" creationdate="20170303T184427Z">
+        <seg>Il vantaggio consiste nella piena visibilità dei criteri di filtro adottati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The amounts then had to be entered into the appropriate column.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20160808T141014Z" creationid="Andrea" creationdate="20160808T141014Z">
@@ -53539,6 +53579,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Updating (&lt;i0/&gt;refreshing) changed values</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T184519Z" creationid="Elisabetta Manuele" creationdate="20170303T184519Z">
+        <seg>&lt;i0/&gt;Aggiornare i valori modificati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Updating a spreadsheet from a changed template</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160823T062240Z" creationid="briga" creationdate="20160823T062240Z">
@@ -60815,6 +60863,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160527T105131Z" creationid="antonio" creationdate="20160527T105131Z">
         <seg>riferimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>refresh</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T184442Z" creationid="Elisabetta Manuele" creationdate="20170303T184442Z">
+        <seg>aggiornare</seg>
       </tuv>
     </tu>
     <tu>
