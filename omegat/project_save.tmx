@@ -21431,6 +21431,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;213&lt;/seq0&gt;: Options for a row or column field</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T172848Z" creationid="Elisabetta Manuele" creationdate="20170303T172848Z">
+        <seg>Figura &lt;seq0&gt;213&lt;/seq0&gt;: opzioni dei Campi riga e colonna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T095435Z" creationid="michele" creationdate="20160525T095435Z">
@@ -23235,6 +23243,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160723T130537Z" creationid="briga" creationdate="20160723T130537Z">
         <seg>Il piè di pagina viene impostato allo stesso modo dell'intestazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For &lt;f0&gt;&lt;f1&gt;Sort by&lt;/f1&gt;&lt;/f0&gt; choose either &lt;f2&gt;Ascending &lt;/f2&gt;or &lt;f3&gt;Descending&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T172650Z" creationid="Elisabetta Manuele" creationdate="20170303T172650Z">
+        <seg>Nell'area &lt;f0&gt;&lt;f1&gt;Ordina per&lt;/f1&gt;&lt;/f0&gt;, scegliete la casella &lt;f2&gt;Crescente&lt;/f2&gt; o &lt;f3&gt;Decrescente&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29048,6 +29064,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the Data Field dialog that opens, click &lt;f3&gt;Options&lt;/f3&gt; to display the Data Field Options dialog (&lt;t4&gt;Figure 213&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T172549Z" creationid="Elisabetta Manuele" creationdate="20170303T172549Z">
+        <seg>Nella finestra di dialogo Campo dati che si aprirà, selezionate il pulsante &lt;f3&gt;Opzioni&lt;/f3&gt; per far comparire la finestra di dialogo Opzioni per i Campi dati (Figura &lt;t4&gt;213&lt;/t4&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the DataPilot dialog (&lt;t0&gt;Figure 182&lt;/t0&gt;) are four white areas that show the layout of the result.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T153952Z" creationid="Andrea" creationdate="20160828T212142Z">
@@ -34005,6 +34029,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T081458Z" creationid="michele" creationdate="20160524T081458Z">
         <seg>Sul lato sinistro della  &lt;f0&gt; &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;Barra delle Formule&lt;/f2&gt; c'è una piccola casella di testo, chiamata &lt;f3&gt;Casella del Nome&lt;/f3&gt;, con una dentro la combinazione di una lettera e un numero , come per esempio &lt;f4&gt;A1&lt;/f4&gt;&lt;f5&gt; nella  &lt;/f5&gt;&lt;f6&gt;&lt;t7&gt;Figura 10&lt;/t7&gt;&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the left side is a drop-down list where you can choose the field this setting should apply to.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T172707Z" creationid="Elisabetta Manuele" creationdate="20170303T172707Z">
+        <seg>Sulla sinistra è visibile un elenco a discesa contenente il campo a cui applicare le impostazioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52563,6 +52595,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To sort automatically, right-click within the &lt;f0&gt;Pivot Table&lt;/f0&gt; and choose &lt;f1&gt;Edit Layout,&lt;/f1&gt; to open the DataPilot (&lt;t2&gt;Figure 182&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T172409Z" creationid="Elisabetta Manuele" creationdate="20170303T172409Z">
+        <seg>Per impostare un ordinamento automatico, fate clic con il pulsante secondario del mouse all'interno della &lt;f0&gt;tabella pivot&lt;/f0&gt; e selezionate la voce &lt;f1&gt;Modifica layout&lt;/f1&gt; per aprire la finestra di dialogo Tabella pivot (Figura &lt;t2&gt;182&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To sort the data in &lt;t0&gt;Table 13&lt;/t0&gt; on page &lt;t1&gt;296&lt;/t1&gt;, select the cells from A1 to G16—if you include the column headers, indicate this on the Options page of the sort dialog (see &lt;t2&gt;Figure 318&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T152653Z" creationid="steevie" creationdate="20160509T152443Z">
@@ -56203,6 +56243,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With this method you can specify that sorting does not happen according to the categories but according to the results of the data field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T172807Z" creationid="Elisabetta Manuele" creationdate="20170303T172807Z">
+        <seg>Questo metodo consente di determinare il tipo di ordinamento, non in base alle categorie, ma in base ai risultati relativi al campo dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With this option enabled, if you double-click on a single data cell, including a cell produced from &lt;f0&gt;Total columns&lt;/f0&gt; or &lt;f1&gt;Total rows&lt;/f1&gt;, in the &lt;f2&gt;Pivot Table&lt;/f2&gt; result, a new sheet opens giving a detailed &lt;t3/&gt;listing of the individual entry.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T172807Z" creationid="Elisabetta Manuele" creationdate="20170228T172807Z">
@@ -56231,6 +56279,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161224T164528Z" creationid="Andrea" creationdate="20161224T164528Z">
         <seg>Con x impostato a -90 la vista e' dal fondo del diagramma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Within the Layout area of the DataPilot, double-click the row or column field you want to sort.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T172450Z" creationid="Elisabetta Manuele" creationdate="20170303T172450Z">
+        <seg>Nell'area Layout della finestra Tabella pivot, fate doppio clic sul campo riga o colonna da ordinare.</seg>
       </tuv>
     </tu>
     <tu>
