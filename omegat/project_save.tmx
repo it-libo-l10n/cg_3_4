@@ -11439,6 +11439,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Another possibility is to keep the mouse button pressed on the cell you want to select, move the mouse to a neighbor cell and move back to your original cell before you release the mouse button.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T172237Z" creationid="Elisabetta Manuele" creationdate="20170303T172237Z">
+        <seg>In alternativa, mantenete premuto il pulsante del mouse sulla cella da selezionare, spostate il mouse su una cella adiacente e tornate a posizionarlo sulla cella di origine prima di rilasciare il pulsante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Another way to change the view is by splitting the window, also known as splitting the screen.&lt;f0&gt; &lt;/f0&gt;The screen can be split horizontally, vertically, or both.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T152459Z" creationid="michele" creationdate="20160525T152459Z">
@@ -12307,6 +12315,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T153416Z" creationid="Marco Marega" creationdate="20160626T153416Z">
         <seg>Basi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Be aware that in Calc a cell must be selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T171931Z" creationid="Elisabetta Manuele" creationdate="20170303T171931Z">
+        <seg>In Calc è necessario che la cella sia selezionata, </seg>
       </tuv>
     </tu>
     <tu>
@@ -30352,6 +30368,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is not enough that this cell contains the cell cursor.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T171942Z" creationid="Elisabetta Manuele" creationdate="20170303T171942Z">
+        <seg>non è sufficiente la semplice presenza del cursore al suo interno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is not necessary to password protect the document while preparing it for review.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T144950Z" creationid="luciano" creationdate="20160422T155548Z">
@@ -42961,6 +42985,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sort automatically</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T172257Z" creationid="Elisabetta Manuele" creationdate="20170303T172257Z">
+        <seg>Impostare un ordinamento automatico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sort automatically by choosing the options in the preferences dialog of the row or column field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T170040Z" creationid="Elisabetta Manuele" creationdate="20170303T170040Z">
@@ -45490,6 +45522,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The background of a selected cell is marked with a different color.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T172000Z" creationid="Elisabetta Manuele" creationdate="20170303T172000Z">
+        <seg>Lo sfondo di una cella selezionata è contrassegnato da un diverso colore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The basic outline controls have plus or minus signs at the start of the group to show or hide hidden cells.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160723T163041Z" creationid="Elisabetta" creationdate="20160723T163041Z">
@@ -45598,6 +45638,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T174708Z" creationid="steevie" creationdate="20161130T174708Z">
         <seg>L'intervallo di celle dovrebbe contenere l'intestazione delle colonne (vedi &lt;t0&gt;Listato 22&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The cell will be inserted above the cell on which you drop it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T171849Z" creationid="Elisabetta Manuele" creationdate="20170303T171849Z">
+        <seg>La cella viene inserita sopra a quella in cui viene trascinata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50679,6 +50727,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T135757Z" creationid="michele" creationdate="20160414T135757Z">
         <seg>Per accedere alle opzioni di personalizzazione, usa la freccia in basso alla fine dalla barra degli strumenti o sulla barra del titolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To achieve this, click in one cell with no extra key pressed and redo this by pressing also the &lt;f0&gt;Shift&lt;/f0&gt; or &lt;f1&gt;Ctrl&lt;/f1&gt; key.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T172050Z" creationid="Elisabetta Manuele" creationdate="20170303T172050Z">
+        <seg>A questo scopo fate clic all'interno di una singola cella senza premere ulteriori tasti, quindi ripetete la procedura premendo contemporaneamente i tasti &lt;f0&gt;Maiusc&lt;/f0&gt; o &lt;f1&gt;Ctrl&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56887,6 +56943,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T175322Z" creationid="Elisabetta Manuele" creationdate="20170301T175322Z">
         <seg>Potete modificare i nomi predefiniti dei gruppi vecchi e nuovi personalizzandoli nell'apposito campo di digitazione (per es., da '&lt;f0&gt;Gruppo2&lt;/f0&gt;' a '&lt;f1&gt;Tecnico&lt;/f1&gt;').</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change the order within the categories by moving the cells with the category values in the result table of the &lt;f0&gt;Pivot Table&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T171836Z" creationid="Elisabetta Manuele" creationdate="20170303T171836Z">
+        <seg>Potete modificare l'ordinamento delle categorie spostando le celle contenenti i valori delle categorie presenti nella tabella risultati della &lt;f0&gt;tabella pivot&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
