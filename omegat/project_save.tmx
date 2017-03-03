@@ -19255,6 +19255,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Drill allows you to show the related detailed data for a single, compressed value in the &lt;f0&gt;Pivot Table&lt;/f0&gt; result.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T173015Z" creationid="Elisabetta Manuele" creationdate="20170303T173015Z">
+        <seg>L'analisi dettagliata consente la visualizzazione nel dettaglio dei dati relativi a un singolo valore compresso contenuto nel risultato della &lt;f0&gt;tabella pivot&lt;/f0&gt;. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drilling&lt;bk0/&gt;&lt;re1/&gt; (showing details)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T172924Z" creationid="Elisabetta Manuele" creationdate="20170303T172924Z">
+        <seg>Analisi dettagliata&lt;bk0/&gt;&lt;re1/&gt; (o visualizzazione dettagli)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Drop-down list boxes appear at the top of each column.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T153446Z" creationid="Elisabetta" creationdate="20160725T153446Z">
@@ -29596,6 +29612,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20161230T072803Z" creationid="osvaldo" creationdate="20161230T072803Z">
         <seg>In questo caso, le celle B3 e B4 contengono i dati, mentre B5 è la cella dove viene effettuato il calcolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this case, drill means an additional breakdown into the categories of another field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T173244Z" creationid="Elisabetta Manuele" creationdate="20170303T173244Z">
+        <seg>In questo caso un'analisi dettagliata determina un'ulteriore suddivisione nelle categorie di un altro campo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45466,6 +45490,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The active cell is a row or column field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T173213Z" creationid="Elisabetta Manuele" creationdate="20170303T173213Z">
+        <seg>La cella attiva consiste in un campo riga o colonna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The actual behavior of the &lt;f0&gt;Copy back&lt;/f0&gt; setting depends on the cell protection, the sheet protection, and the &lt;f1&gt;Prevent changes&lt;/f1&gt; setting (see Table &lt;t2&gt;12&lt;/t2&gt; &lt;f3&gt;on page &lt;/f3&gt;&lt;f4&gt;&lt;t5&gt;233&lt;/t5&gt;&lt;/f4&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T150912Z" creationid="michele" creationdate="20160531T145750Z">
@@ -49067,6 +49099,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are two possibilities:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T173148Z" creationid="Elisabetta Manuele" creationdate="20170303T173148Z">
+        <seg>Sono disponibili due alternative:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are two ways to reference cells in other sheets: by entering the formula directly using the keyboard or by using the mouse.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="antonio" changedate="20160527T110251Z" creationid="antonio" creationdate="20160527T110251Z">
@@ -50767,6 +50807,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T172050Z" creationid="Elisabetta Manuele" creationdate="20170303T172050Z">
         <seg>A questo scopo fate clic all'interno di una singola cella senza premere ulteriori tasti, quindi ripetete la procedura premendo contemporaneamente i tasti &lt;f0&gt;Maiusc&lt;/f0&gt; o &lt;f1&gt;Ctrl&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To activate a drill, double-click on the cell or choose &lt;f1&gt;Data&lt;/f1&gt; &lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt; &lt;f4&gt;Group and Outline&lt;/f4&gt; &lt;f5&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;/f5&gt; &lt;f7&gt;Show Details&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T173137Z" creationid="Elisabetta Manuele" creationdate="20170303T173137Z">
+        <seg>Per attivarla, fate doppio clic sulla cella o scegliete la voce &lt;f1&gt;Dati&lt;/f1&gt; &lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt; &lt;f4&gt;Raggruppa e struttura&lt;/f4&gt; &lt;f5&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;/f5&gt; &lt;f7&gt;Mostra dettaglio&lt;/f7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
