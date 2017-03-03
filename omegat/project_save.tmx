@@ -11119,6 +11119,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although you can correct the number format manually, the correction stays in effect only until the next update.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T191159Z" creationid="Elisabetta Manuele" creationdate="20170303T191159Z">
+        <seg>Anche se il formato può essere corretto manualmente, la correzione avrà effetto solo fino all'aggiornamento successivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Although you can create a filter descriptor using any sheet cell range, the filter applies to the entire &lt;s2/&gt;sheet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T140625Z" creationid="steevie" creationdate="20160511T140625Z">
@@ -14307,6 +14315,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T194155Z" creationid="Elisabetta" creationdate="20160815T194155Z">
         <seg>Errore di cella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cell formatting</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T190814Z" creationid="Elisabetta Manuele" creationdate="20170303T190814Z">
+        <seg>Formattazione della cella</seg>
       </tuv>
     </tu>
     <tu>
@@ -24359,6 +24375,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the number format in the data field, Calc uses the number format that is used in the corresponding cell in the source list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T190957Z" creationid="Elisabetta Manuele" creationdate="20170303T190957Z">
+        <seg>Il formato assegnato ai numeri del campo dati dipende da quello applicato alla cella corrispondente dell'elenco di origine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For the simplest case, where data is contained in a Calc spreadsheet, Calc offers sorting functions that do not require the &lt;f0&gt;Pivot Table&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20161122T123810Z" creationid="Andrea" creationdate="20160808T095350Z">
@@ -24987,6 +25011,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T135844Z" creationid="michele" creationdate="20160608T135844Z">
         <seg>Il fondo X è un fondo a basso rischio con l'8% di interesse mentre il fondo Y è un fondo a rischio più alto che paga un interesse del 12%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fundamental changes to the data set collection means you must redo the &lt;f1&gt;Pivot Table&lt;/f1&gt; from the beginning.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T190753Z" creationid="Elisabetta Manuele" creationdate="20170303T190753Z">
+        <seg>Se vengono apportate modifiche sostanziali alla raccolta di dati, la &lt;f1&gt;tabella pivot&lt;/f1&gt; deve essere ricreata da zero.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25859,6 +25891,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T101440Z" creationid="michele" creationdate="20160525T101440Z">
         <seg>Se il nuovo documento è basato su un modello, tale scheda potrebbe contenere dei comandi di campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, if the result is a fraction or a percentage, the &lt;f0&gt;Pivot Table&lt;/f0&gt; does not recognize that this might be a problem; such results must either be without a unit or be displayed as a percentage.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T191138Z" creationid="Elisabetta Manuele" creationdate="20170303T191138Z">
+        <seg>Tuttavia, se il risultato è una frazione o una percentuale, la &lt;f0&gt;tabella pivot&lt;/f0&gt; non lo segnala come possibile problema, quindi potrebbe essere visualizzato privo di un'unità o come percentuale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28831,6 +28871,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In most cases, this is useful (for example, if the values are in the currency format, then the corresponding cell in the result area is also formatted as currency).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T191101Z" creationid="Elisabetta Manuele" creationdate="20170303T191101Z">
+        <seg>La maggior parte delle volte questa caratteristica si rivela utile (per esempio, se i valori sono espressi in formato valuta, anche quelli relativi all'area risultati della cella corrispondente presenteranno la stessa formattazione).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In most cases, you can interact only with the dialog (not the document itself) as long as the dialog remains open.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084336Z">
@@ -29724,6 +29772,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20161229T140443Z" creationid="osvaldo" creationdate="20161229T140443Z">
         <seg>In questo caso è generalmente più facile ripartire dall'inizio, sprecando il lavoro fatto in precedenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this case the change means that the &lt;f0&gt;Pivot Table&lt;/f0&gt; has to use a different area of the spreadsheet for its analysis.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T190724Z" creationid="Elisabetta Manuele" creationdate="20170303T190724Z">
+        <seg>In questo caso la modifica implica l'uso, da parte della &lt;f0&gt;tabella pivot&lt;/f0&gt;, di una diversa area del foglio elettronico per l'analisi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45898,6 +45954,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The cells in the results area of the &lt;f0&gt;Pivot Table&lt;/f0&gt; are automatically formatted in a simple format by Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T190855Z" creationid="Elisabetta Manuele" creationdate="20170303T190855Z">
+        <seg>Il programma applica automaticamente un formato semplice alle celle contenute nell'area risultati della &lt;f0&gt;tabella pivot&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The changed color appears in the lower of the two color preview boxes at the top.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T155723Z" creationid="steevie" creationdate="20160418T155723Z">
@@ -54619,6 +54683,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using shortcuts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T191208Z" creationid="Elisabetta Manuele" creationdate="20170303T191208Z">
+        <seg>Uso dei tasti di scelta rapida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using styles means that you stop saying “font size 14pt, Times New Roman, bold, &lt;/f2&gt;&lt;f3&gt;centered&lt;/f3&gt;&lt;f4&gt;”, and you start saying “Title” because you have defined the “Title” style to have those characteristics.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160215T071040Z">
@@ -57295,6 +57367,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T151157Z" creationid="steevie" creationdate="20160418T151148Z">
         <seg>È possibile modificare queste impostazioni in qualsiasi momento, o tramite questa finestra di dialogo oppure durante il processo di stampa (facendo clic sul pulsante &lt;f0&gt;Opzioni&lt;/f0&gt;nella finestra di dialogo Stampa).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change this formatting using all the tools in Calc, but note that if you make any change in the design of the &lt;f1&gt;Pivot Table&lt;/f1&gt; or any updates, the formatting will return to the format applied automatically by Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T190934Z" creationid="Elisabetta Manuele" creationdate="20170303T190934Z">
+        <seg>Questo è modificabile tramite gli strumenti di Calc, ma il programma ripristinerà il formato assegnato automaticamente, in caso di aggiornamenti o di modifiche apportate allo stile della &lt;f1&gt;tabella pivot&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
