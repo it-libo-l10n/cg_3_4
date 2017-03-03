@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.0_0_9507:9510" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.1_0_9319:9320" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -40945,6 +40945,22 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select sort order from drop-down menus on each column heading</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T170057Z" creationid="Elisabetta Manuele" creationdate="20170303T170057Z">
+        <seg>Selezionare il criterio di ordinamento dal menu a discesa in testa a ogni colonna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select sort order from drop-down menus on each column heading.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T165946Z" creationid="Elisabetta Manuele" creationdate="20170303T165946Z">
+        <seg>Selezionando il criterio di ordinamento dal menu a discesa in testa a ogni colonna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the &lt;/f2&gt;&lt;f3&gt;Replace&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; option for apostrophes to activate this function.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T162537Z" creationid="Elisabetta" creationdate="20160627T162537Z">
@@ -42913,6 +42929,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sort automatically by choosing the options in the preferences dialog of the row or column field.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T170040Z" creationid="Elisabetta Manuele" creationdate="20170303T170040Z">
+        <seg>Impostando un ordinamento automatico in base alle opzioni contenute nella finestra di dialogo delle preferenze per i campi riga o colonna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sort by the Name column</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161201T152331Z" creationid="steevie" creationdate="20160509T152731Z">
@@ -42933,6 +42957,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T152328Z" creationid="steevie" creationdate="20160428T152117Z">
         <seg>Le liste ordinate sono utilizzate non solo per l'ordinamento, ma anche per esempio per completare una serie di celle durante l'inserimento dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort manually by using drag and drop.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T170023Z" creationid="Elisabetta Manuele" creationdate="20170303T170023Z">
+        <seg>Impostando un ordinamento manuale tramite trascinamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45842,6 +45874,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The custom sorting dialog is shown in Figure &lt;t0&gt;212&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T170158Z" creationid="Elisabetta Manuele" creationdate="20170303T170158Z">
+        <seg>La finestra di dialogo dell'ordinamento personalizzato è rappresentata dalla Figura &lt;t0&gt;212&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The data is arranged in columns and you want to return data from the same column.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161010T140059Z" creationid="steevie" creationdate="20161010T140059Z">
@@ -47939,6 +47979,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The result of any &lt;f0&gt;Pivot Table&lt;/f0&gt; is sorted (categories) in columns and rows in ascending order.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T165901Z" creationid="Elisabetta Manuele" creationdate="20170303T165901Z">
+        <seg>Il risultato di ogni &lt;f0&gt;tabella pivot&lt;/f0&gt; viene impostato (come categoria) in colonne e righe in ordine ascendente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The result of such an expression is a reference list, which is an ordered list of references.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T172513Z" creationid="osvaldo" creationdate="20170206T172513Z">
@@ -48375,6 +48423,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T115445Z" creationid="Andrea" creationdate="20160813T105236Z">
         <seg>Il caso di utilizzo più semplice e frequente è l'analisi di un elenco in un foglio di calcolo Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The simplest way to sort entries is to click the arrow on the right side of the heading and check the box(es) for the desired sort order.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T170131Z" creationid="Elisabetta Manuele" creationdate="20170303T170131Z">
+        <seg>Il metodo più rapido di impostare un ordinamento consiste nel selezionare la piccola freccia sulla destra dell'intestazione, quindi la/e casella/e relativa/e all'ordinamento desiderato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56791,6 +56847,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T175322Z" creationid="Elisabetta Manuele" creationdate="20170301T175322Z">
         <seg>Potete modificare i nomi predefiniti dei gruppi vecchi e nuovi personalizzandoli nell'apposito campo di digitazione (per es., da '&lt;f0&gt;Gruppo2&lt;/f0&gt;' a '&lt;f1&gt;Tecnico&lt;/f1&gt;').</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change the sorting in three ways:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T165923Z" creationid="Elisabetta Manuele" creationdate="20170303T165923Z">
+        <seg>L'ordinamento può essere modificato in tre modi:</seg>
       </tuv>
     </tu>
     <tu>
