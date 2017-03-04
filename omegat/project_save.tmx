@@ -10519,6 +10519,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adjusts the border style of the selected image.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170304T225116Z" creationid="Marco Marega" creationdate="20170304T225116Z">
+        <seg>Regola lo stile del bordo dell'immagine selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Advanced filter properties.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160517T132514Z" creationid="steevie" creationdate="20160517T132514Z">
@@ -16723,6 +16731,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T194209Z" creationid="Elisabetta" creationdate="20160815T194209Z">
         <seg>Codice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Color</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170304T224931Z" creationid="Marco Marega" creationdate="20170304T224931Z">
+        <seg>Colore</seg>
       </tuv>
     </tu>
     <tu>
@@ -34825,6 +34841,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens the Color toolbar, described on page &lt;bf0&gt;131&lt;/bf0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170304T224950Z" creationid="Marco Marega" creationdate="20170304T224950Z">
+        <seg>Apre la barre degli strumenti Colore, descritta a pagina &lt;bf0&gt;131&lt;/bf0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opens the Flowchart toolbar of shapes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161207T171511Z" creationid="luciano" creationdate="20161207T171437Z">
@@ -40953,6 +40977,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See page &lt;bf0&gt;131&lt;/bf0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170304T225028Z" creationid="Marco Marega" creationdate="20170304T225028Z">
+        <seg>Vedete a pagina &lt;bf0&gt;131&lt;/bf0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See page &lt;bf0&gt;278&lt;/bf0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160422T153547Z" creationid="luciano" creationdate="20160422T153547Z">
@@ -42309,6 +42341,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145313Z" creationid="steevie" creationdate="20160427T145313Z">
         <seg>Imposta il numero massimo di passaggi di iterazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sets the transparency of the selected image.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170304T225032Z" creationid="Marco Marega" creationdate="20170304T225014Z">
+        <seg>Imposta la trasparenza dell'immagine selezionata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53359,6 +53399,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T160504Z" creationid="Luciano B." creationdate="20160326T160504Z">
         <seg>Transizioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Transparency</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170304T224956Z" creationid="Marco Marega" creationdate="20170304T224956Z">
+        <seg>Trasparenza</seg>
       </tuv>
     </tu>
     <tu>
