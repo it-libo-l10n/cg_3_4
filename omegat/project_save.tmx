@@ -10903,6 +10903,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allows image to float in the foreground or makes it part of the background (behind the cells).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170304T230047Z" creationid="Marco Marega" creationdate="20170304T230047Z">
+        <seg>Permetta all'immagine di fluttuare in primo piano oppure la fa diventare parte dello sfondo (dietro alle celle).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Also prevents changes to the settings described in this section while the sheet is protected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T150840Z" creationid="michele" creationdate="20160531T150840Z">
@@ -36273,6 +36281,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pushes the selected image to the rear of the stack.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170304T225832Z" creationid="Marco Marega" creationdate="20170304T225832Z">
+        <seg>Sposta l'immagine selezionata in fondo alla serie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>QUARTILE(data; type)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160813T141726Z" creationid="Marco Marega" creationdate="20160813T141726Z">
@@ -41029,6 +41045,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170304T225028Z" creationid="Marco Marega" creationdate="20170304T225028Z">
         <seg>Vedete a pagina &lt;bf0&gt;131&lt;/bf0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See page &lt;bf0&gt;138&lt;/bf0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170304T225755Z" creationid="Marco Marega" creationdate="20170304T225755Z">
+        <seg>Vedete a pagina &lt;bf0&gt;138&lt;/bf0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51175,6 +51199,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T104808Z" creationid="michele" creationdate="20160525T104808Z">
         <seg>Alla Cella A1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To Foreground / &lt;s0/&gt;Background</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170304T225852Z" creationid="Marco Marega" creationdate="20170304T225852Z">
+        <seg>In primo piano / &lt;s0/&gt;Sullo sfondo</seg>
       </tuv>
     </tu>
     <tu>
