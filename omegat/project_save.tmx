@@ -11409,8 +11409,8 @@
       <tuv lang="EN">
         <seg>Anchor</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143012Z" creationid="steevie" creationdate="20160427T143012Z">
-        <seg>Ancoraggior</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170304T225433Z" creationid="steevie" creationdate="20160427T143012Z">
+        <seg>Ancoraggio</seg>
       </tuv>
     </tu>
     <tu>
@@ -12731,6 +12731,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161212T140628Z" creationid="luciano" creationdate="20161212T140628Z">
         <seg>Innalza l'immagine di un livello nella pila (sull'asse z).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Brings the selected image to the front of the stack.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170304T225747Z" creationid="Marco Marega" creationdate="20170304T225747Z">
+        <seg>Porta l'immagine selezionata in cima alla serie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41025,6 +41033,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See page &lt;bf0&gt;139&lt;/bf0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170304T225619Z" creationid="Marco Marega" creationdate="20170304T225619Z">
+        <seg>Vedete a pagina &lt;bf0&gt;139&lt;/bf0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See page &lt;bf0&gt;278&lt;/bf0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160422T153547Z" creationid="luciano" creationdate="20160422T153547Z">
@@ -53335,6 +53351,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T090157Z" creationid="michele" creationdate="20160525T090157Z">
         <seg>Per abilitare la protezione in scrittura, fai clic sul pulsante&lt;f0&gt;+ Opzioni&lt;/f0&gt; e seleziona l'opzione &lt;f1&gt;Apri il file in sola lettura&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toggles between anchoring the image to the cell or to the page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170304T225609Z" creationid="Marco Marega" creationdate="20170304T225609Z">
+        <seg>Cambia l'ancoraggio dell'immagine alla cella o alla pagina.</seg>
       </tuv>
     </tu>
     <tu>
