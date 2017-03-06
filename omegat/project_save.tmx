@@ -21695,6 +21695,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;224&lt;/seq0&gt;: Error produced if date information is not entered in correctly</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T174905Z" creationid="Elisabetta Manuele" creationdate="20170306T174905Z">
+        <seg>Figura &lt;seq0&gt;224&lt;/seq0&gt;: errore causato dall'inserimento non corretto di informazioni relative alla data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;225&lt;/seq0&gt;: Defining the data to be consolidated</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160526T154200Z" creationid="michele" creationdate="20160526T154200Z">
@@ -29960,6 +29968,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the example of Figure &lt;t1&gt;224&lt;/t1&gt;, an error is returned when the date format does not match that of the data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T174735Z" creationid="Elisabetta Manuele" creationdate="20170306T174735Z">
+        <seg>Nell'esempio della figura &lt;t1&gt;224&lt;/t1&gt; viene restituito un errore se il formato data non corrisponde a quello dei dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the example shown, you could add another column with the name Department, that has the correct entry for each person &lt;s1/&gt;based on whether the employee’s department belongs to the group Office or Technical.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T175929Z" creationid="Elisabetta Manuele" creationdate="20170301T175929Z">
@@ -34861,6 +34877,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160611T085032Z" creationid="emanuelegiusti" creationdate="20160611T085032Z">
         <seg>Solo i tipi che sono adatti per il&lt;i0/&gt;3D (colonne, barre, torta, e Area) vi danno la possibilità di selezionare un aspetto 3D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only with the correct format is the result returned.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T174826Z" creationid="Elisabetta Manuele" creationdate="20170306T174826Z">
+        <seg>Il risultato viene restituito solo con un formato corretto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47607,6 +47631,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T143803Z" creationid="Marco Marega" creationdate="20160626T143803Z">
         <seg>La funzione restituisce il risultato 1 per il segno positivo, –1 per il segno negativo, e 0 per lo zero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The function will only recognize the date entry if it is &lt;s0/&gt;entered into the formula in exactly the same way that it appears in the data set from which the pivot table is produced.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T174631Z" creationid="Elisabetta Manuele" creationdate="20170306T174631Z">
+        <seg>La funzione riconoscerà la voce in formato data solo se &lt;s0/&gt;inserita nella formula rispecchiando esattamente la forma in cui compare all'interno dell'insieme di dati all'origine della tabella Pivot.</seg>
       </tuv>
     </tu>
     <tu>
