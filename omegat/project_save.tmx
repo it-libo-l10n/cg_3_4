@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.0_0_9507:9510" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.1_0_9319:9320" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23551,6 +23551,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For an explanation how to create keyboard shortcuts or add icons to toolbars, see Chapter 14, Setting Up and Customizing Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T170544Z" creationid="Elisabetta Manuele" creationdate="20170306T170544Z">
+        <seg>Per istruzioni sulla creazione dei tasti di scelta rapida o sull'aggiunta di icone alla barra strumenti, consultate il Capitolo 14, Configurare e personalizzare Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For arguments that you would like to change, you need to add two rules to define a range of possible values: the limiting conditions.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T132757Z" creationid="michele" creationdate="20160608T132757Z">
@@ -24223,6 +24231,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For grouping, a &lt;i0/&gt;shortcut is already defined: &lt;f1&gt;F12&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T170353Z" creationid="Elisabetta Manuele" creationdate="20170306T170353Z">
+        <seg>Per creare un gruppo, il &lt;i0/&gt;tasto di scelta rapida predefinito è &lt;f1&gt;F12&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For help with &lt;f0&gt;LibreOffice’s&lt;/f0&gt; keyboard shortcuts or using LibreOffice with a keyboard only, search the Help supplied with LibreOffice (also available online at &lt;a1&gt;http://help.libreoffice.org&lt;/a1&gt;) using the “shortcut” or “&lt;f2&gt;accessibility” keywords.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160504T134857Z" creationid="luciano" creationdate="20160504T134606Z">
@@ -24427,6 +24443,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20160808T135339Z" creationid="Andrea" creationdate="20160808T135339Z">
         <seg>Per eseguire un'operazione di ordinamento, filtraggio o uso di una &lt;f0&gt;Tabella Pivot&lt;/f0&gt;, selezionate sempre solo &lt;f1&gt;una&lt;/f1&gt; cella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For starting the &lt;f2&gt;Pivot Table&lt;/f2&gt;, you can define your own keyboard shortcut.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T170438Z" creationid="Elisabetta Manuele" creationdate="20170306T170438Z">
+        <seg>Per generare una &lt;f2&gt;tabella pivot&lt;/f2&gt; si può associare un tasto di scelta rapida personalizzato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28155,6 +28179,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T125935Z" creationid="steevie" creationdate="20160421T125935Z">
         <seg>Se intendete condividere documenti con persone che utilizzano editor che fanno ancora uso di versioni più vecchie di &lt;/f7&gt;&lt;f8&gt;LibreOffice&lt;/f8&gt;&lt;f9&gt;, salvate il documento usando la versione ODF 1.0/1.1.&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you prefer to have toolbar icons instead of keyboard shortcuts, you can create a user-defined symbol and add it to either your own custom made toolbar or the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T170512Z" creationid="Elisabetta Manuele" creationdate="20170306T170512Z">
+        <seg>Ma se preferite le icone sulla barra strumenti ai tasti di scelta rapida, potete creare un vostro simbolo da aggiungere alla barra strumenti Standard oppure a una barra personalizzata in base alle vostre esigenze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48243,6 +48275,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The problem</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T170717Z" creationid="Elisabetta Manuele" creationdate="20170306T170717Z">
+        <seg>Il problema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The problem can be restated as Search column A in the range A1:G16 for Fred and return the value in column F (column F is the sixth column).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151240Z" creationid="steevie" creationdate="20161130T143239Z">
@@ -54797,8 +54837,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>Using Pivot Table results elsewhere</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160205T095615Z">
-        <seg>Usare altrove i risultati di una tabella pivot</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T170642Z">
+        <seg>Applicare i risultati di una tabella pivot ad altre posizioni</seg>
       </tuv>
     </tu>
     <tu>
