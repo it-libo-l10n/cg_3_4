@@ -9007,6 +9007,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>=GETPIVOTDATA(A1,"sales employee[Hans] category[sailing]")</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T174446Z" creationid="Elisabetta Manuele" creationdate="20170306T174446Z">
+        <seg>=GETPIVOTDATA(A1,"vendite impiegato[Brigitta] categoria[vela]")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>=IF(A2&gt;=0,"Positive","Negative")</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T152751Z" creationid="osvaldo" creationdate="20170206T150452Z">
@@ -21679,6 +21687,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;223&lt;/seq0&gt;: Second syntax variation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T174510Z" creationid="Elisabetta Manuele" creationdate="20170306T174510Z">
+        <seg>Figura &lt;seq0&gt;223&lt;/seq0&gt;: sintassi seconda variante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;225&lt;/seq0&gt;: Defining the data to be consolidated</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160526T154200Z" creationid="michele" creationdate="20160526T154200Z">
@@ -24515,6 +24531,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T170438Z" creationid="Elisabetta Manuele" creationdate="20170306T170438Z">
         <seg>Per generare una &lt;f2&gt;tabella pivot&lt;/f2&gt; si può associare un tasto di scelta rapida personalizzato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the &lt;f0&gt;specifications&lt;/f0&gt;, enter a list separated by spaces to specify the value you want from the &lt;f1&gt;Pivot Table&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T174147Z" creationid="Elisabetta Manuele" creationdate="20170306T174147Z">
+        <seg>Le &lt;f0&gt;specificazioni&lt;/f0&gt; consistono in un elenco separato da spazi in grado di determinare il valore desiderato ricavabile dalla &lt;f1&gt;tabella pivot&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29916,6 +29940,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161127T185222Z" creationid="Andrea" creationdate="20161127T185222Z">
         <seg>Nella lista a tendina:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the example in Figure &lt;t0&gt;223&lt;/t0&gt;, where we want to get the partial sum of Hans for Sailing, the formula in cell &lt;f1&gt;C12&lt;/f1&gt; would look like this:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T174404Z" creationid="Elisabetta Manuele" creationdate="20170306T174404Z">
+        <seg>Nell'esempio della figura &lt;t0&gt;223&lt;/t0&gt;, per ottenere la somma parziale del ricavo di Brigitta relativamente alla voce Vela, la formula nella cella &lt;f1&gt;C12&lt;/f1&gt; avrà un aspetto analogo al seguente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -46202,6 +46234,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The argument &lt;f0&gt;&lt;f1&gt;Pivot Table&lt;/f1&gt;&lt;/f0&gt; has to be given in the same way as for the first syntax variation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T174058Z" creationid="Elisabetta Manuele" creationdate="20170306T174058Z">
+        <seg>L'argomento &lt;f0&gt;&lt;f1&gt;Tabella pivot&lt;/f1&gt;&lt;/f0&gt; ha la stessa valenza di quello relativo alla prima variante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The argument &lt;f0&gt;&lt;f1&gt;Pivot Table&lt;/f1&gt;&lt;/f0&gt; specifies the &lt;f2&gt;Pivot Table&lt;/f2&gt; that you want to use.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T173200Z" creationid="Elisabetta Manuele" creationdate="20170306T173200Z">
@@ -50923,6 +50963,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This list must contain the name of the data field, if there is more than one data field; otherwise it is not required.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T174216Z" creationid="Elisabetta Manuele" creationdate="20170306T174216Z">
+        <seg>Se nell'elenco sono presenti più campi, è necessario specificarne il nome, altrimenti può essere tralasciato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This may be confusing at times, because although there may be a column break set on the page, when you go to &lt;f0&gt;Edit &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Manual Break&lt;/f3&gt;&lt;f4&gt;, the &lt;/f4&gt;&lt;f5&gt;Column break&lt;/f5&gt;&lt;f6&gt; choice may not be available (grayed out).&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T130947Z">
@@ -53231,6 +53279,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T124631Z" creationid="michele" creationdate="20160525T124631Z">
         <seg>Per selezionare una singola riga, fate clic sul numero identificativo della riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To select a specific partial result, add more entries in the form of&lt;f2&gt; Field name[item]&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T174250Z" creationid="Elisabetta Manuele" creationdate="20170306T174250Z">
+        <seg>Per selezionare uno specifico risultato parziale, aggiungete altre voci espresse nella forma &lt;f2&gt;Nome di campo[oggetto]&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
