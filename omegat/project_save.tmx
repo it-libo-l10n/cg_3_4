@@ -23375,6 +23375,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>First syntax variation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T172732Z" creationid="Elisabetta Manuele" creationdate="20170306T172732Z">
+        <seg>Prima variante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>First the intersections A2:B4!B2:C6, A2:B4!C1:D3, B1:C2!B2:C6 and B1:C2!C1:D3 are calculated.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T133706Z" creationid="osvaldo" creationdate="20170207T133706Z">
@@ -25203,6 +25211,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T172349Z" creationid="Elisabetta Manuele" creationdate="20170306T172349Z">
         <seg>funzione GETPIVOTDATA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>GETPIVOTDATA(&lt;f0&gt;Pivot Table,&lt;/f0&gt; specification)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T172721Z" creationid="Elisabetta Manuele" creationdate="20170306T172721Z">
+        <seg>GETPIVOTDATA(&lt;f0&gt;tabella pivot&lt;/f0&gt;, specificazione)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>GETPIVOTDATA(target field, &lt;f0&gt;Pivot Table,&lt;/f0&gt; [ Field name / Element, ... ])</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T172650Z" creationid="Elisabetta Manuele" creationdate="20170306T172650Z">
+        <seg>GETPIVOTDATA(campo di destinazione, &lt;f0&gt;tabella pivot&lt;/f0&gt;, [Nome di campo / Elemento, ...])</seg>
       </tuv>
     </tu>
     <tu>
@@ -28491,6 +28515,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T143245Z" creationid="luciano" creationdate="20160509T143245Z">
         <seg>Se desiderate avere le funzionalità descritte in questa tabella, dovete creare una sequenze di tasti personalizzati, come spiegato nel Capitolo 14, Configurazione e Personalizzazione di Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If your &lt;f2&gt;Pivot Table&lt;/f2&gt; has only one data field, this entry is ignored, but you &lt;f3&gt;must&lt;/f3&gt; enter it anyway.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T172922Z" creationid="Elisabetta Manuele" creationdate="20170306T172922Z">
+        <seg>Se la &lt;f2&gt;tabella pivot&lt;/f2&gt; contiene solo un campo dati, questa voce viene ignorata, ma &lt;f3&gt;va comunque inserita&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45250,6 +45282,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;target field&lt;/f0&gt; specifies which data field of the &lt;f1&gt;Pivot Table&lt;/f1&gt; is used within the function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T172812Z" creationid="Elisabetta Manuele" creationdate="20170306T172812Z">
+        <seg>Il &lt;f0&gt;campo di destinazione&lt;/f0&gt; specifica quale campo dati della &lt;f1&gt;tabella pivot&lt;/f1&gt; viene utilizzato nella funzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;text&lt;/f0&gt; field is not case-sensitive.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T143438Z" creationid="Marco Marega" creationdate="20160822T143438Z">
@@ -49283,6 +49323,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The syntax has two variations:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T172559Z" creationid="Elisabetta Manuele" creationdate="20170306T172559Z">
+        <seg>La sintassi viene espressa in due varianti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The tab for the selected sheet becomes white (see &lt;t0&gt;Figure 23&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T125601Z" creationid="michele" creationdate="20160525T125601Z">
@@ -50423,6 +50471,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T214011Z" creationid="Marco Marega" creationdate="20160822T214011Z">
         <seg>Questa funzione può essere utilizzata per sostituire sia caratteri che numeri (questi vengono convertiti automaticamente in testo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This function can be used with formulas in Calc if you want to reuse the results from the &lt;f1&gt;Pivot Table&lt;/f1&gt; elsewhere in your spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T172544Z" creationid="Elisabetta Manuele" creationdate="20170306T172544Z">
+        <seg>Questa funzione è utilizzabile nelle formule per riassegnare inalterati i risultati dalla &lt;f1&gt;tabella pivot&lt;/f1&gt; a una diversa posizione del foglio di elettronico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54559,6 +54615,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160614T141253Z" creationid="luciano" creationdate="20160614T141253Z">
         <seg>Utilizzate questi passaggi per creare una semplice macro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the function GETPIVOTDATA to have a reference to a value inside the &lt;f0&gt;Pivot Table&lt;/f0&gt; by using the specific identifying categories for this value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T172509Z" creationid="Elisabetta Manuele" creationdate="20170306T172509Z">
+        <seg>La funzione GETPIVOTDATA consente di restituire un riferimento a un valore all'interno della &lt;f0&gt;tabella pivot&lt;/f0&gt; mediante specifiche categorie identificative di questo valore.</seg>
       </tuv>
     </tu>
     <tu>
