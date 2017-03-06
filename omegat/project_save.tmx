@@ -8999,6 +8999,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>=GETPIVOTDATA("sales",A1,"employee","Hans","category","sailing")</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T173919Z" creationid="Elisabetta Manuele" creationdate="20170306T173919Z">
+        <seg>=GETPIVOTDATA ("vendite",A1,"impiegato","Brigitta","categoria","vela")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>=IF(A2&gt;=0,"Positive","Negative")</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T152751Z" creationid="osvaldo" creationdate="20170206T150452Z">
@@ -21663,6 +21671,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;222&lt;/seq0&gt;: First syntax variation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T174005Z" creationid="Elisabetta Manuele" creationdate="20170306T174005Z">
+        <seg>Figura &lt;seq0&gt;222&lt;/seq0&gt;: sintassi prima variante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;225&lt;/seq0&gt;: Defining the data to be consolidated</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160526T154200Z" creationid="michele" creationdate="20160526T154200Z">
@@ -27999,6 +28015,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you enter only the first two arguments, then the function returns the &lt;f0&gt;total&lt;/f0&gt; result of the &lt;f1&gt;Pivot Table&lt;/f1&gt; (“Sum – sales” entered as the field, will return a value of 408,765).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T173633Z" creationid="Elisabetta Manuele" creationdate="20170306T173633Z">
+        <seg>Se inserite solo i primi due argomenti, la funzione restituisce il risultato &lt;f0&gt;totale&lt;/f0&gt; della &lt;f1&gt;tabella pivot&lt;/f1&gt; (“Somma – vendite” inserito come campo restituirà il valore di 375.429,04).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you export a spreadsheet containing multiple operations to Microsoft Excel, the location of the cells containing the formula must be fully defined relative to the data range.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160601T153129Z" creationid="michele" creationdate="20160601T153129Z">
@@ -29892,6 +29916,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161127T185222Z" creationid="Andrea" creationdate="20161127T185222Z">
         <seg>Nella lista a tendina:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the example in Figure &lt;t2&gt;222&lt;/t2&gt;, where we want to get the partial sum of Hans for sailing, the formula in cell &lt;f3&gt;C12&lt;/f3&gt; would look like this:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T173903Z" creationid="Elisabetta Manuele" creationdate="20170306T173903Z">
+        <seg>Nell'esempio della figura &lt;t2&gt;222&lt;/t2&gt;, per ottenere la somma parziale del ricavo di Brigitta relativamente alla voce Vela, la formula nella cella &lt;f3&gt;C12&lt;/f3&gt; avrà un aspetto analogo al seguente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40933,6 +40965,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160729T143834Z" creationid="Elisabetta" creationdate="20160729T143834Z">
         <seg>La ricerca tramite opzione  &lt;t0/&gt;&lt;f1&gt;Formule&lt;/f1&gt; di&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;SOMMA&lt;/f3&gt; restituirà il risultato di una cella contenente la formula &lt;f4&gt;=SOMMA(A1:A6)&lt;/f4&gt;, come pure quello di una cella con testo normale &lt;f5&gt;SOMMARIO&lt;/f5&gt;. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Second syntax variation</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T174021Z" creationid="Elisabetta Manuele" creationdate="20170306T174021Z">
+        <seg>Seconda variante</seg>
       </tuv>
     </tu>
     <tu>
@@ -57407,6 +57447,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161214T110733Z" creationid="luciano" creationdate="20161130T162227Z">
         <seg>E' possibile aggiungere metadati all'immagine sotto forma di titolo e di descrizione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can add more arguments as pairs with &lt;f0&gt;field name &lt;/f0&gt;and &lt;f1&gt;item&lt;/f1&gt; to retrieve specific partial sums.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T173820Z" creationid="Elisabetta Manuele" creationdate="20170306T173820Z">
+        <seg>Si possono aggiungere altri argomenti espressi in forma di &lt;f0&gt;nome di campo&lt;/f0&gt; - &lt;f1&gt;oggetto&lt;/f1&gt; per recuperare determinate somme parziali.</seg>
       </tuv>
     </tu>
     <tu>
