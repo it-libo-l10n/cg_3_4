@@ -21647,6 +21647,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;221&lt;/seq0&gt;: The value that you really want to use can be found now in a different location.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T172331Z" creationid="Elisabetta Manuele" creationdate="20170306T172331Z">
+        <seg>Figura &lt;seq0&gt;221&lt;/seq0&gt;: il valore da utilizzare ora può comparire in una diversa posizione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;225&lt;/seq0&gt;: Defining the data to be consolidated</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160526T154200Z" creationid="michele" creationdate="20160526T154200Z">
@@ -23935,6 +23943,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, in &lt;t2&gt;Figure 221&lt;/t2&gt;, the location is now &lt;f3&gt;C7&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T172247Z" creationid="Elisabetta Manuele" creationdate="20170306T172247Z">
+        <seg>Per esempio, nella figura &lt;t2&gt;221&lt;/t2&gt;, la posizione ora è la cella &lt;f3&gt;C5&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, in a table of numbers, you can show all the values above the average in green and all those below the average in red.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T173650Z" creationid="Elisabetta" creationdate="20160722T173650Z">
@@ -25179,6 +25195,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T103307Z" creationid="Marco Marega" creationdate="20160626T103307Z">
         <seg>MCD_ADD(numeri)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>GETPIVOTDATA function</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T172349Z" creationid="Elisabetta Manuele" creationdate="20170306T172349Z">
+        <seg>funzione GETPIVOTDATA</seg>
       </tuv>
     </tu>
     <tu>
@@ -46458,6 +46482,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The correct value is in a different location.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T172207Z" creationid="Elisabetta Manuele" creationdate="20170306T172207Z">
+        <seg>Il valore corretto si trova in un'altra posizione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The corresponding cell references in the target range are inserted in consecutive rows, which are automatically ordered and then hidden from view.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160527T135248Z" creationid="michele" creationdate="20160527T135248Z">
@@ -49143,6 +49175,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160425T114006Z" creationid="luciano" creationdate="20160425T114006Z">
         <seg>I piccoli indicatori di commento agli angoli delle celle possono essere difficili da vedere, quindi Calc fornisce un altro modo per trovarli, utilizzando il Navigatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The solution: Function &lt;i0/&gt;GETPIVOTDATA</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T172412Z" creationid="Elisabetta Manuele" creationdate="20170306T172412Z">
+        <seg>Soluzione: la funzione &lt;i0/&gt;GETPIVOTDATA</seg>
       </tuv>
     </tu>
     <tu>
@@ -59039,6 +59079,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170130T213051Z" creationid="Marco Marega" creationdate="20170130T213051Z">
         <seg>La vostra finestra di dialogo Inserisci immagine potrebbe apparire differente, rispetto a quella mostrata qui, a seconda del vostro sistema operativo e della vostra impostazione in &lt;f0&gt;Strumenti &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Opzioni&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;LibreOffice&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; Generale&lt;/f12&gt; del parametro Utilizza finestre di dialogo &lt;f13&gt;LibreOffice&lt;/f13&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your formula still references the cell &lt;f1&gt;C6&lt;/f1&gt; and therefore uses a wrong value.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T172154Z" creationid="Elisabetta Manuele" creationdate="20170306T172154Z">
+        <seg> La formula in oggetto fa ancora riferimento alla cella &lt;f1&gt;C6&lt;/f1&gt;, perciò presenterà un valore errato.</seg>
       </tuv>
     </tu>
     <tu>
