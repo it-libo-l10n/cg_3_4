@@ -19057,8 +19057,8 @@
       <tuv lang="EN">
         <seg>Do this either by selecting a field and clicking on the &lt;f0&gt;Options&lt;/f0&gt; button in the DataPilot dialog, or by double-clicking on the appropriate field.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T155825Z" creationid="Elisabetta Manuele" creationdate="20170301T155825Z">
-        <seg>Questo è possibile sia tramite selezione di un campo e successivo clic sul pulsante &lt;f0&gt;Opzioni&lt;/f0&gt;, visibile nella finestra di dialogo Tabella Pivot, sia tramite doppio clic sul campo appropriato.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T181643Z" creationid="Elisabetta Manuele" creationdate="20170301T155825Z">
+        <seg>Questo è possibile sia tramite selezione di un campo e successivo clic sul pulsante &lt;f0&gt;Opzioni&lt;/f0&gt;, visibile nella finestra di dialogo Tabella pivot, sia tramite doppio clic sul campo appropriato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27697,8 +27697,8 @@
       <tuv lang="EN">
         <seg>If this option is not chosen, then the &lt;f2&gt;Pivot Table&lt;/f2&gt; inserts &lt;f3&gt;(empty)&lt;/f3&gt; (see Figure &lt;t4&gt;187&lt;/t4&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T170806Z" creationid="Elisabetta Manuele" creationdate="20170228T170806Z">
-        <seg>Se l'opzione non viene selezionata la &lt;f2&gt;tabella Pivot&lt;/f2&gt; inserisce la voce &lt;f3&gt;'vuoto'&lt;/f3&gt; tra parentesi (vuoto) (Figura &lt;t4&gt;187&lt;/t4&gt;).</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T181448Z" creationid="Elisabetta Manuele" creationdate="20170228T170806Z">
+        <seg>Se l'opzione non viene selezionata la &lt;f2&gt;tabella pivot&lt;/f2&gt; inserisce la voce &lt;f3&gt;'vuoto'&lt;/f3&gt; tra parentesi (vuoto) (Figura &lt;t4&gt;187&lt;/t4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -42515,8 +42515,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Selection of a field from the data source of the DataPilot (for example, employee).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T160901Z" creationid="Elisabetta Manuele" creationdate="20170301T160901Z">
-        <seg>Selezione di un campo della sorgente dati contenuta nella Tabella Pivot (per es., Impiegato).</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T181734Z" creationid="Elisabetta Manuele" creationdate="20170301T160901Z">
+        <seg>Selezione di un campo della sorgente dati contenuta nella tabella pivot (per es., Impiegato).</seg>
       </tuv>
     </tu>
     <tu>
@@ -48349,16 +48349,16 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>The options available for fields put into the Data Fields differ from those put into the Row, Column, and Page Fields of the DataPilot dialog.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T155858Z" creationid="Elisabetta Manuele" creationdate="20170301T155858Z">
-        <seg>Le opzioni disponibili per i campi inseriti nei Campi dati sono diverse da quelle per i campi inseriti nei Campi riga, colonna e pagina all'interno della finestra di dialogo Tabella Pivot.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T181652Z" creationid="Elisabetta Manuele" creationdate="20170301T155858Z">
+        <seg>Le opzioni disponibili per i campi inseriti nei Campi dati sono diverse da quelle per i campi inseriti nei Campi riga, colonna e pagina all'interno della finestra di dialogo Tabella pivot.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The options discussed in the previous section are valid for the Pivot Table in general.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T155702Z" creationid="Elisabetta Manuele" creationdate="20170301T155702Z">
-        <seg>Le opzioni trattate nella sezione precedente si riferiscono alla tabella Pivot in generale.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T181619Z" creationid="Elisabetta Manuele" creationdate="20170301T155702Z">
+        <seg>Le opzioni trattate nella sezione precedente si riferiscono alla tabella pivot in generale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57661,8 +57661,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>You can also change settings for every field that you have added to the DataPilot dialog’s layout.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T155733Z" creationid="Elisabetta Manuele" creationdate="20170301T155733Z">
-        <seg>Le impostazioni sono modificabili per ogni campo aggiunto al layout della finestra di dialogo Tabella Pivot.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T181631Z" creationid="Elisabetta Manuele" creationdate="20170301T155733Z">
+        <seg>Le impostazioni sono modificabili per ogni campo aggiunto al layout della finestra di dialogo Tabella pivot.</seg>
       </tuv>
     </tu>
     <tu>
