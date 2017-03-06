@@ -45354,6 +45354,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Pivot Table&lt;/f0&gt; remembers your selection (in our example the field &lt;f1&gt;employee&lt;/f1&gt;) by adding and hiding the selected field, so that for the next drill down for a category in the field &lt;f2&gt;category&lt;/f2&gt; the dialog does not appear.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T175344Z" creationid="Elisabetta Manuele" creationdate="20170306T175344Z">
+        <seg>La &lt;f0&gt;tabella pivot&lt;/f0&gt; memorizza la selezione (nell'esempio in questione, il campo &lt;f1&gt;Impiegato&lt;/f1&gt;) aggiungendo e nascondendo il campo selezionato, cosicché, per la successiva analisi dettagliata di una voce nel campo &lt;f2&gt;categoria&lt;/f2&gt;, non comparirà la finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Sheet&lt;/f0&gt; tab of the Page Style dialog (&lt;t1&gt;Figure 144&lt;/t1&gt;) provides the following options.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T162301Z">
@@ -51431,6 +51439,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160723T165954Z" creationid="Elisabetta" creationdate="20160723T165954Z">
         <seg>Sono presenti tre tipi di filtri nel sottomenu &lt;f0&gt;Dati &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Filtro&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Through grouping you can produce the &lt;f2&gt;Pivot Table&lt;/f2&gt; with a small number of rows and columns.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T175528Z" creationid="Elisabetta Manuele" creationdate="20170306T175528Z">
+        <seg>Grazie al raggruppamento si può generare una &lt;f2&gt;tabella pivot&lt;/f2&gt; costituita da un ridotto numero di righe e colonne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58443,6 +58459,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can merge the results in classes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T175604Z" creationid="Elisabetta Manuele" creationdate="20170306T175604Z">
+        <seg>I risultati si possono accorpare in classi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can modify the Menu bar, as discussed in Chapter 14, Setting Up and Customizing Calc.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T164357Z">
@@ -58493,8 +58517,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>You can only carry out grouping on an ungrouped &lt;f0&gt;Pivot Table&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T172305Z" creationid="Elisabetta Manuele" creationdate="20170301T172305Z">
-        <seg>Si possono applicare gruppi solo a &lt;f0&gt;Tabelle Pivot&lt;/f0&gt; non raggruppate.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T175615Z" creationid="Elisabetta Manuele" creationdate="20170301T172305Z">
+        <seg>Si possono applicare gruppi solo a &lt;f0&gt;tabelle pivot&lt;/f0&gt; non raggruppate.</seg>
       </tuv>
     </tu>
     <tu>
