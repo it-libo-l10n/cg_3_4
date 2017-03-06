@@ -9465,8 +9465,8 @@
       <tuv lang="EN">
         <seg>A field removed in error cannot be recovered; it is necessary to return to the DataPilot to replace it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T172045Z" creationid="Elisabetta Manuele" creationdate="20170301T172045Z">
-        <seg>Un campo eliminato erroneamente non può essere ripristinato, a questo scopo è necessario tornare alla finestra Tabella Pivot.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T182113Z" creationid="Elisabetta Manuele" creationdate="20170301T172045Z">
+        <seg>Un campo eliminato erroneamente non può essere ripristinato, a questo scopo è necessario tornare alla finestra Tabella pivot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12481,8 +12481,8 @@
       <tuv lang="EN">
         <seg>Before you can group, you have to produce a &lt;f0&gt;Pivot Table&lt;/f0&gt; with ungrouped data.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T172655Z" creationid="Elisabetta Manuele" creationdate="20170301T172655Z">
-        <seg>Prima dell'operazione di raggruppamento è necessario generare una &lt;f0&gt;Tabella Pivot&lt;/f0&gt; contenente dati non raggruppati.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T182201Z" creationid="Elisabetta Manuele" creationdate="20170301T172655Z">
+        <seg>Prima dell'operazione di raggruppamento è necessario generare una &lt;f0&gt;tabella pivot&lt;/f0&gt; contenente dati non raggruppati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33699,8 +33699,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Normally, the &lt;f0&gt;Pivot Table&lt;/f0&gt; does not show a row or column for categories that have no entries in the underlying database.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T163828Z" creationid="Elisabetta Manuele" creationdate="20170301T163828Z">
-        <seg>Solitamente la &lt;f0&gt;tabella Pivot&lt;/f0&gt; non consente la visualizzazione di righe o colonne per le categorie prive delle voci corrispondenti nel database sottostante.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T181847Z" creationid="Elisabetta Manuele" creationdate="20170301T163828Z">
+        <seg>Solitamente la &lt;f0&gt;tabella pivot&lt;/f0&gt; non consente la visualizzazione di righe o colonne per le categorie prive delle voci corrispondenti nel database sottostante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42499,8 +42499,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Selection of a field from the data source of the DataPilot (for example, date)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T162109Z" creationid="Elisabetta Manuele" creationdate="20170301T162109Z">
-        <seg>Selezione di un campo della sorgente dati contenuta nella finestra Tabella Pivot (per es., Data).</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T181808Z" creationid="Elisabetta Manuele" creationdate="20170301T162109Z">
+        <seg>Selezione di un campo della sorgente dati contenuta nella finestra Tabella pivot (per es., Data).</seg>
       </tuv>
     </tu>
     <tu>
@@ -43539,8 +43539,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Some functions of the DataPilot dialog can only be used with the Pivot Table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T170740Z" creationid="Elisabetta Manuele" creationdate="20170301T170740Z">
-        <seg>Alcune funzioni della finestra di dialogo Tabella Pivot sono utilizzabili solo con la Tabella Pivot.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T181951Z" creationid="Elisabetta Manuele" creationdate="20170301T170740Z">
+        <seg>Alcune funzioni della finestra di dialogo Tabella pivot sono utilizzabili solo con la tabella pivot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43587,8 +43587,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Some manipulation can also be carried out in the pivot table view.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T171544Z" creationid="Elisabetta Manuele" creationdate="20170301T171544Z">
-        <seg>Si possono inoltre apportare alcune elaborazioni nella visualizzazione Tabella Pivot.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T182018Z" creationid="Elisabetta Manuele" creationdate="20170301T171544Z">
+        <seg>Si possono inoltre apportare alcune elaborazioni nella visualizzazione Tabella pivot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47845,8 +47845,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>The layout of the &lt;f0&gt;Pivot Table&lt;/f0&gt; can be changed quickly and easily by drag and drop.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T170901Z" creationid="Elisabetta Manuele" creationdate="20170301T170901Z">
-        <seg>La disposizione dei campi nella &lt;f0&gt;Tabella Pivot&lt;/f0&gt; è facilmente e rapidamente modificabile con un semplice trascinamento.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T182003Z" creationid="Elisabetta Manuele" creationdate="20170301T170901Z">
+        <seg>La disposizione dei campi nella &lt;f0&gt;Tabella pivot&lt;/f0&gt; è facilmente e rapidamente modificabile con un semplice trascinamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49629,8 +49629,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>The time needed for creating a &lt;f1&gt;Pivot Table&lt;/f1&gt; depends mostly on the number of columns and rows and not on the size of the basic data.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T172729Z" creationid="Elisabetta Manuele" creationdate="20170301T172729Z">
-        <seg>Il tempo occorrente per la creazione di una &lt;f1&gt;Tabella Pivot&lt;/f1&gt; dipende principalmente dal numero di colonne e righe, non dalla dimensione dei dati di base.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T182217Z" creationid="Elisabetta Manuele" creationdate="20170301T172729Z">
+        <seg>Il tempo occorrente per la creazione di una &lt;f1&gt;tabella pivot&lt;/f1&gt; dipende principalmente dal numero di colonne e righe, non dalla dimensione dei dati di base.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57197,8 +57197,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>With the flexibility of the DataPilot you can switch the different fields between pages, columns or rows.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T170422Z" creationid="Elisabetta Manuele" creationdate="20170301T170422Z">
-        <seg>Grazie alla flessibilità della Tabella Pivot, potete commutare i vari campi da pagine, a colonne o righe.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T181915Z" creationid="Elisabetta Manuele" creationdate="20170301T170422Z">
+        <seg>Grazie alla flessibilità della tabella pivot, potete commutare i vari campi da pagine, a colonne o righe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57309,8 +57309,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>Within the results table of the &lt;f0&gt;Pivot Table&lt;/f0&gt;, move one of the page, column, or row fields to a different position.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T171620Z" creationid="Elisabetta Manuele" creationdate="20170301T171620Z">
-        <seg>Nella tabella dei risultati della &lt;f0&gt;Tabella Pivot&lt;/f0&gt;, spostate uno dei campi pagina, colonna o riga in una posizione differente.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T182036Z" creationid="Elisabetta Manuele" creationdate="20170301T171620Z">
+        <seg>Nella tabella dei risultati della &lt;f0&gt;tabella pivot&lt;/f0&gt;, spostate uno dei campi pagina, colonna o riga in una posizione differente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58605,8 +58605,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>You can remove a column, row, or page field from the Pivot Table by clicking on it and dragging it out of the table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T171925Z" creationid="Elisabetta Manuele" creationdate="20170301T171925Z">
-        <seg>Potete eliminare un Campo colonna, riga o pagina dalla Tabella Pivot selezionandolo e trascinandolo all'esterno.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T182058Z" creationid="Elisabetta Manuele" creationdate="20170301T171925Z">
+        <seg>Potete eliminare un Campo colonna, riga o pagina dalla tabella pivot selezionandolo e trascinandolo all'esterno.</seg>
       </tuv>
     </tu>
     <tu>
