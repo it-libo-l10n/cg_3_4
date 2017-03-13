@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11201,8 +11201,8 @@
       <tuv lang="EN">
         <seg>Always put in parentheses the part that is to be calculated first.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T135946Z" creationid="osvaldo" creationdate="20170207T135946Z">
-        <seg>Mettere sempre tra parentesi la parte che deve essere calcolata per primat.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170313T104504Z" creationid="osvaldo" creationdate="20170207T135946Z">
+        <seg>Mettere sempre tra parentesi la parte che deve essere calcolata per prima.</seg>
       </tuv>
     </tu>
     <tu>
