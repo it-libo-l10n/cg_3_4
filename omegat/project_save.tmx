@@ -11679,10 +11679,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Applies a Charcoal Sketch look to the image.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170317T205853Z" creationid="Marco Marega" creationdate="20170317T205853Z">
+        <seg>Conferisce all'immagine un aspetto simile ad uno schizzo a carboncino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Applies a Gaussian Blur to the image which softens edges.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170317T205116Z" creationid="Marco Marega" creationdate="20170317T205116Z">
         <seg>Applica all'immagine una sfocatura gaussiana che ammorbidisce i contorni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Applies a Pop Art style to the image.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170317T205753Z" creationid="Marco Marega" creationdate="20170317T205753Z">
+        <seg>Applica uno stile Pop Art all'immagine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15027,6 +15043,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T200725Z" creationid="Elisabetta" creationdate="20160815T200725Z">
         <seg>Il carattere di una formula non è valido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Charcoal Sketch</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170317T205818Z" creationid="Marco Marega" creationdate="20170317T205818Z">
+        <seg>Carboncino</seg>
       </tuv>
     </tu>
     <tu>
@@ -31208,6 +31232,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It makes photos look like paintings.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170317T205728Z" creationid="Marco Marega" creationdate="20170317T205728Z">
+        <seg>Fa sembrare le foto come dei dipinti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It may be any positive integer between 2 and 36.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T141936Z" creationid="Marco Marega" creationdate="20160822T141936Z">
@@ -35257,6 +35289,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens a dialog to determine the number of poster colors.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170317T205625Z" creationid="Marco Marega" creationdate="20170317T205625Z">
+        <seg>Visualizza una finestra di dialogo per definire il numero di colori del poster.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opens a dialog where you can set the options for text that goes over a picture.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161214T110400Z" creationid="luciano" creationdate="20161130T160651Z">
@@ -36297,6 +36337,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pop Art</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170317T205758Z" creationid="Marco Marega" creationdate="20170317T205758Z">
+        <seg>Pop Art</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Position and Size</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161127T190744Z" creationid="Andrea" creationdate="20161127T190744Z">
@@ -36341,6 +36389,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160423T122633Z" creationid="luciano" creationdate="20160423T122633Z">
         <seg>Gli snacks per il dopo partita possono essere acquistati dai genitori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Posterize</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170317T205541Z" creationid="Marco Marega" creationdate="20170317T205541Z">
+        <seg>Posterizza</seg>
       </tuv>
     </tu>
     <tu>
@@ -50759,6 +50815,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20160129T124230Z">
         <seg>Il presente documento è rilasciato sotto Copyright &lt;f0&gt;©&lt;/f0&gt; 2012 dei collaboratori di seguito elencati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This effect is based on the reduction of the number of colors.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170317T205651Z" creationid="Marco Marega" creationdate="20170317T205651Z">
+        <seg>Questo effetto si basa sulla riduzione del numero dei colori.</seg>
       </tuv>
     </tu>
     <tu>
