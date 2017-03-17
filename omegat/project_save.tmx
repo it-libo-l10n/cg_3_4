@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.0_0_9507:9510" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12521,8 +12521,8 @@
       <tuv lang="EN">
         <seg>Behavior</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161207T170252Z" creationid="luciano" creationdate="20161207T170252Z">
-        <seg>Funzione</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170317T203612Z" creationid="luciano" creationdate="20161207T170252Z">
+        <seg>Comportamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -18545,8 +18545,8 @@
       <tuv lang="EN">
         <seg>Default</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T154138Z" creationid="steevie" creationdate="20160428T154138Z">
-        <seg>Predefinito</seg>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170317T203615Z" creationid="steevie" creationdate="20160428T154138Z">
+        <seg>Predefinita</seg>
       </tuv>
     </tu>
     <tu>
@@ -25543,6 +25543,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Grayscale</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170317T203646Z" creationid="Marco Marega" creationdate="20170317T203646Z">
+        <seg>Scala di grigi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Greater than</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T153943Z" creationid="osvaldo" creationdate="20170206T153943Z">
@@ -31372,6 +31380,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161128T170028Z" creationid="luciano" creationdate="20161128T170028Z">
         <seg>Mantieni scala / Mantieni dimensione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keeps the picture the same as it was inserted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170317T203637Z" creationid="Marco Marega" creationdate="20170317T203637Z">
+        <seg>Mantiene la figura così come viene inserita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43293,6 +43309,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161009T210154Z" creationid="Andrea" creationdate="20161009T210154Z">
         <seg>Visualizza le etichette dei punti dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shows the picture in gradual shades of gray.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170317T203724Z" creationid="Marco Marega" creationdate="20170317T203724Z">
+        <seg>Visualizza l'immagine in gradazioni di grigio.</seg>
       </tuv>
     </tu>
     <tu>
