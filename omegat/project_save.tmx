@@ -11671,10 +11671,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Applies a Gaussian Blur to the image which softens edges.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170317T205116Z" creationid="Marco Marega" creationdate="20170317T205116Z">
+        <seg>Applica all'immagine una sfocatura gaussiana che ammorbidisce i contorni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Applies a style to the cell containing the formula.&lt;f0&gt; &lt;/f0&gt;After a set amount of time, another style can be applied.&lt;f1&gt; &lt;/f1&gt;This function always returns the value 0, allowing it to be added to another function without changing the value.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Style&lt;/f3&gt; is the name of a cell style assigned to the cell.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Time&lt;/f5&gt; is an optional time range in seconds.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Style2&lt;/f7&gt; is the optional name of a cell style assigned to the cell after a certain amount of time has passed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T210941Z" creationid="Marco Marega" creationdate="20160821T210941Z">
         <seg>Applica uno stile alla cella che contiene la formula.&lt;f0&gt; &lt;/f0&gt;Dopo un determinato ammontare di tempo è possibile applicare un altro stile.&lt;f1&gt; &lt;/f1&gt;Questa funzione restituisce sempre il valore 0, permettendo così di sommarla ad un'altra funzione senza cambiarne il valore.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Stile&lt;/f3&gt; è il nome dello stile assegnato alla cella.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Tempo&lt;/f5&gt; è un lasso di tempo facoltativo espresso in secondi.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Stile 2&lt;/f7&gt; è facoltativo ed è il nome di uno stile da assegnare alla cella dopo che è trascorso un determinato periodo di tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Applies crude noise reduction.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170317T205235Z" creationid="Marco Marega" creationdate="20170317T205235Z">
+        <seg>Applica una riduzione del rumore di fondo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30880,6 +30896,22 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Invert</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170317T204940Z" creationid="Marco Marega" creationdate="20170317T204940Z">
+        <seg>Inverti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inverts the colors in the picture like a negative.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170317T205000Z" creationid="Marco Marega" creationdate="20170317T205000Z">
+        <seg>Inverte i colori dell'immagine, come in un negativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>IsCaseSensitive</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133133Z" creationid="steevie" creationdate="20160517T133133Z">
@@ -37841,6 +37873,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove Noise</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170317T205216Z" creationid="Marco Marega" creationdate="20170317T205216Z">
+        <seg>Elimina rumore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove an auto filter by repeating the steps to create the auto filter—in other words, the menu option acts as a toggle to turn the auto filter on and off.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160510T143950Z" creationid="steevie" creationdate="20160510T143950Z">
@@ -43025,6 +43065,22 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sharpen</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170317T205138Z" creationid="Marco Marega" creationdate="20170317T205138Z">
+        <seg>Aumenta nitidezza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sharpens the image.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170317T205155Z" creationid="Marco Marega" creationdate="20170317T205155Z">
+        <seg>Aumenta la nitidezza dell'immagine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>She also has a good idea of the company’s income in the first three quarters, because of the contracts that are already signed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T105435Z" creationid="michele" creationdate="20160608T105435Z">
@@ -43501,6 +43557,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133656Z" creationid="steevie" creationdate="20160517T133656Z">
         <seg>SkipDuplicates</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Smooth</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170317T205016Z" creationid="Marco Marega" creationdate="20170317T205016Z">
+        <seg>Smorza</seg>
       </tuv>
     </tu>
     <tu>
