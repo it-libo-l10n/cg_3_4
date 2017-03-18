@@ -11743,6 +11743,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Applying &lt;f0&gt;LibreOffice&lt;/f0&gt; picture filters to any image consecutively will progressively degrade the quality of the image.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170318T164645Z" creationid="Marco Marega" creationdate="20170318T164645Z">
+        <seg>Applicando consecutivamente i filtri di &lt;f0&gt;LibreOffice&lt;/f0&gt; ad un'immagine, la sua qualità degraderà progressivamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Applying &lt;i0/&gt;page styles</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160509T075440Z" creationid="briga" creationdate="20160509T075440Z">
@@ -48775,6 +48783,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161212T145132Z" creationid="luciano" creationdate="20161212T145132Z">
         <seg>L'immagine ancorata alla pagina non si muoverà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The picture filters used in Calc utilize what is known as a Destructive Editing algorithm, whereby each filter is applied to the image immediately, changing the original data of the image.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170318T164900Z" creationid="Marco Marega" creationdate="20170318T164900Z">
+        <seg>I filtri grafici usati in Calc utilizzano quello che è conosciuto come algoritmo di Editing distruttivo, con il quale ogni filtro viene applicato all'immagine immediatamente, modificando i suoi dati originari.</seg>
       </tuv>
     </tu>
     <tu>
