@@ -16281,8 +16281,8 @@
       <tuv lang="EN">
         <seg>Click on cell F3 (where the balance is) in the &lt;f0&gt;Checking Account&lt;/f0&gt; sheet.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="antonio" changedate="20160816T142346Z" creationid="antonio" creationdate="20160816T142346Z">
-        <seg>Fate clic sulla cella F3 (dove il saldo è) nel foglio &lt;f0&gt;Verifica Conto&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170518T170448Z" creationid="antonio" creationdate="20160816T142346Z">
+        <seg>Fate clic sulla cella F3 (contenente il saldo) del foglio &lt;f0&gt;Conto corrente&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16761,8 +16761,8 @@
       <tuv lang="EN">
         <seg>Click the green checkmark in the input line, or press the keyboard &lt;f0&gt;Enter&lt;/f0&gt; key to finish.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="antonio" changedate="20160816T143132Z" creationid="antonio" creationdate="20160816T143132Z">
-        <seg>Fare clic sul segno di spunta verde nella riga di digitazione, o premi sul tasto &lt;f0&gt;Invio&lt;/f0&gt; della tastiera per finire.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170518T170814Z" creationid="antonio" creationdate="20160816T143132Z">
+        <seg>Fate clic sul segno di spunta verde accanto alla riga di digitazione, o premete il tasto &lt;f0&gt;Invio&lt;/f0&gt; per terminare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22137,16 +22137,16 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;254&lt;/seq0&gt;: Click on the checking account tab</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="antonio" changedate="20160816T142232Z" creationid="antonio" creationdate="20160816T142232Z">
-        <seg>Figura &lt;seq0&gt;254&lt;/seq0&gt;: Fate clic sulla scheda verifica conto</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170518T170410Z" creationid="antonio" creationdate="20160816T142232Z">
+        <seg>Figura &lt;seq0&gt;254&lt;/seq0&gt;: clic sulla scheda Conto corrente</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;255&lt;/seq0&gt;: Cell reference selected</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="antonio" changedate="20160816T142842Z" creationid="antonio" creationdate="20160816T142842Z">
-        <seg>Figura &lt;seq0&gt;255&lt;/seq0&gt;: Cella selezionata di riferimento</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170518T170710Z" creationid="antonio" creationdate="20160816T142842Z">
+        <seg>Figura &lt;seq0&gt;255&lt;/seq0&gt;: cella di riferimento selezionata</seg>
       </tuv>
     </tu>
     <tu>
@@ -45748,8 +45748,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Summary&lt;/f0&gt;&lt;f1&gt; sheet should now look like &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;Figure 256&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="antonio" changedate="20160816T143254Z" creationid="antonio" creationdate="20160816T143254Z">
-        <seg>Il foglio di&lt;f0&gt;Riepilogo&lt;/f0&gt;&lt;f1&gt; dovrebbe assomigliare alla &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;Figura 256&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170518T170853Z" creationid="antonio" creationdate="20160816T143254Z">
+        <seg>Il foglio di&lt;f0&gt;Riepilogo&lt;/f0&gt;&lt;f1&gt; avere l'aspetto simile a quello della figura &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;256&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -48853,8 +48853,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>The phrase &lt;f1&gt;'Checking Account'.F3&lt;/f1&gt; should appear in the input line as in &lt;t2&gt;Figure 255&lt;/t2&gt; and the selected cell is bordered in red.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="antonio" changedate="20160816T142813Z" creationid="antonio" creationdate="20160816T142813Z">
-        <seg>La frase &lt;f1&gt;'Verifica conto'.F3&lt;/f1&gt; dovrebbe apparire nella riga di digitazione &lt;t2&gt;Figura 255&lt;/t2&gt; e la cella selezionata è delemitata in rosso.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170518T170646Z" creationid="antonio" creationdate="20160816T142813Z">
+        <seg>La stringa &lt;f1&gt;'Conto corrente'.F3&lt;/f1&gt; dovrebbe essere visibile nella riga di digitazione come da figura &lt;t2&gt;255&lt;/t2&gt; e la cella selezionata comparirà delimitata di rosso.</seg>
       </tuv>
     </tu>
     <tu>
