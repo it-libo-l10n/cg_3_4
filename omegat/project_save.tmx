@@ -6744,8 +6744,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;So, you can fill in the Savings Account cell reference by just typing it in.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="antonio" changedate="20160816T144822Z" creationid="antonio" creationdate="20160816T144822Z">
-        <seg>&lt;f0&gt;Così, potete inserire nella cella di riferimento del Conto di Risparmio digitando in essa.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170518T171304Z" creationid="antonio" creationdate="20160816T144822Z">
+        <seg>&lt;f0&gt;Così, potete compilare il riferimento di cella relativo al Conto di deposito semplicemente digitandovi all'interno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12065,8 +12065,8 @@
       <tuv lang="EN">
         <seg>Assuming that the balance is in the same cell (&lt;/f0&gt;&lt;f1&gt;F3&lt;/f1&gt;&lt;f2&gt;) in the &lt;/f2&gt;&lt;f3&gt;Savings Account&lt;/f3&gt;&lt;f4&gt; sheet, the cell reference should be &lt;/f4&gt;&lt;f5&gt;='Savings Account'.F3&lt;/f5&gt; (see Figure &lt;t6&gt;257&lt;/t6&gt;&lt;f7&gt;).&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="antonio" changedate="20160816T145209Z" creationid="antonio" creationdate="20160816T145209Z">
-        <seg>Supponendo che il saldo è nella stessa cella (&lt;/f0&gt;&lt;f1&gt;F3&lt;/f1&gt;&lt;f2&gt;) nel foglio &lt;/f2&gt;&lt;f3&gt;Conto di Risparmio&lt;/f3&gt;&lt;f4&gt;, la cella di riferimento dovrebbe essere &lt;/f4&gt;&lt;f5&gt;='Conto di Risparmio'.F3&lt;/f5&gt; (vedere Figura &lt;t6&gt;257&lt;/t6&gt;&lt;f7&gt;).&lt;/f7&gt;</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170518T171700Z" creationid="antonio" creationdate="20160816T145209Z">
+        <seg>Supponendo che il saldo si trovi nella stessa cella (&lt;/f0&gt;&lt;f1&gt;F3&lt;/f1&gt;&lt;f2&gt;) del foglio &lt;/f2&gt;&lt;f3&gt;Conto di deposito&lt;/f3&gt;&lt;f4&gt;, il riferimento di cella dovrebbe apparire come &lt;/f4&gt;&lt;f5&gt;='Conto di deposito'.F3&lt;/f5&gt; (vd. figura &lt;t6&gt;257&lt;/t6&gt;&lt;/f7&gt;).&lt;f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17897,8 +17897,8 @@
       <tuv lang="EN">
         <seg>Creating the reference with the keyboard</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="antonio" changedate="20160816T143747Z" creationid="antonio" creationdate="20160816T143747Z">
-        <seg>Creare il riferimento con la tastiera</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170518T170936Z" creationid="antonio" creationdate="20160816T143747Z">
+        <seg>Creare riferimenti con la tastiera</seg>
       </tuv>
     </tu>
     <tu>
@@ -22153,8 +22153,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;256&lt;/seq0&gt;: Finished checking account reference</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="antonio" changedate="20160816T143722Z" creationid="antonio" creationdate="20160816T143722Z">
-        <seg>Figura &lt;seq0&gt;256&lt;/seq0&gt;: Foglio di verifica conto finito</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170518T170919Z" creationid="antonio" creationdate="20160816T143722Z">
+        <seg>Figura &lt;seq0&gt;256&lt;/seq0&gt;: riferimento finale Conto corrente</seg>
       </tuv>
     </tu>
     <tu>
@@ -25129,8 +25129,8 @@
       <tuv lang="EN">
         <seg>From &lt;f0&gt;&lt;t1&gt;Figure 256&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;,&lt;/f2&gt; you can deduce how the cell reference is constructed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="antonio" changedate="20160816T143858Z" creationid="antonio" creationdate="20160816T143858Z">
-        <seg>Dalla &lt;f0&gt;&lt;t1&gt;Figura 256&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;,&lt;/f2&gt; potete dedurre come sono costruite le celle di riferimento.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170518T171018Z" creationid="antonio" creationdate="20160816T143858Z">
+        <seg>Dalla &lt;f0&gt;figura &lt;t1&gt;256&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;,&lt;/f2&gt; potete dedurre come sono costituite le celle di riferimento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34131,8 +34131,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Notice that they are separated by a period.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="antonio" changedate="20160816T144115Z" creationid="antonio" creationdate="20160816T144115Z">
-        <seg>Si noti che sono separati da un periodo.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170518T171122Z" creationid="antonio" creationdate="20160816T144115Z">
+        <seg>Si noti che sono separati da un punto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49157,8 +49157,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>The reference has two parts: the sheet name (&lt;f3&gt;‘Checking Account’&lt;/f3&gt;) and the cell reference (&lt;f4&gt;F3&lt;/f4&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="antonio" changedate="20160816T144017Z" creationid="antonio" creationdate="20160816T144017Z">
-        <seg>Il riferimento ha due parti: il nome del foglio (&lt;f3&gt;‘Verifica Conto’&lt;/f3&gt;) e il riferimento della cella (&lt;f4&gt;F3&lt;/f4&gt;).</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170518T171108Z" creationid="antonio" creationdate="20160816T144017Z">
+        <seg>Il riferimento consta di due parti: il nome del foglio (&lt;f3&gt;‘Conto corrente’&lt;/f3&gt;) e il riferimento alla cella (&lt;f4&gt;F3&lt;/f4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -49725,8 +49725,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>The sheet name is in single quotes because it contains a space, and the mandatory period (.) always falls outside any quotes.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="antonio" changedate="20160816T144425Z" creationid="antonio" creationdate="20160816T144425Z">
-        <seg>Il nome del foglio è tra virgolette singole perchè contiene uno spazio, e il periodo obbligatorio (.) cade sempre fuori di qualsiasi virgoletta.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170518T171219Z" creationid="antonio" creationdate="20160816T144425Z">
+        <seg>Il nome del foglio è racchiuso tra virgolette singole perché contiene uno spazio, e il punto obbligatorio (.) si trova sempre all'esterno delle virgolette.</seg>
       </tuv>
     </tu>
     <tu>
