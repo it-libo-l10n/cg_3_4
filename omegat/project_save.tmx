@@ -15655,6 +15655,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Insert&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Link to External Data&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T162837Z" creationid="Elisabetta Manuele" creationdate="20170519T162837Z">
+        <seg>Scegliete la voce &lt;f0&gt;Inserisci&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Collegamento ai dati esterni&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;Tools &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Cell Contents &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; AutoCalculate&lt;/f6&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T173812Z" creationid="Elisabetta" creationdate="20160722T173812Z">
@@ -26591,6 +26599,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, if the file has several tables, and you want to pick only one of them, you may not be able to easily determine which is which; in that case, the Navigator method may be easier.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T162538Z" creationid="Elisabetta Manuele" creationdate="20170519T162538Z">
+        <seg>Tuttavia se il file contiene più tabelle e desiderate sceglierne solo una, l'operazione potrebbe rivelarsi poco agevole, in questo caso sarebbe consigliabile optare per il metodo tramite Navigatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, if the new document is based on a template, this page may contain fields.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T101440Z" creationid="michele" creationdate="20160525T101440Z">
@@ -29107,6 +29123,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T172922Z" creationid="Elisabetta Manuele" creationdate="20170306T172922Z">
         <seg>Se la &lt;f2&gt;tabella pivot&lt;/f2&gt; contiene solo un campo dati, questa voce viene ignorata, ma &lt;f3&gt;va comunque inserita&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If your file has named ranges or named tables, and you know the name of the range or table you want to link to, using the External Data dialog method is quick and easy.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T162510Z" creationid="Elisabetta Manuele" creationdate="20170519T162510Z">
+        <seg>Se il file contiene tabelle o intervalli denominati e ne conoscete il nome, allora il metodo di collegamento tramite finestra di dialogo Dati esterni si rivela semplice e rapido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35113,6 +35137,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the External Data dialog, type the URL of the source document or select it from the drop-down list if it's listed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T162929Z" creationid="Elisabetta Manuele" creationdate="20170519T162929Z">
+        <seg>Nella finestra di dialogo Dati esterni, digitate l'URL del documento sorgente o, se presente, selezionatela dall'elenco a discesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the Filter tab of this dialog (not shown here), you can choose how to filter the list of changes: by date, author, cell range, or comments containing specific terms.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160428T151513Z" creationid="luciano" creationdate="20160428T151513Z">
@@ -35589,6 +35621,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160423T123316Z" creationid="luciano" creationdate="20160423T123230Z">
         <seg>Aprite il Foglio del Bilancio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the Calc document where the external data is to be inserted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T162702Z" creationid="Elisabetta Manuele" creationdate="20170519T162702Z">
+        <seg>Aprite il documento di Calc in cui inserire i dati esterni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42573,6 +42613,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T123417Z" creationid="michele" creationdate="20160525T123417Z">
         <seg>Selezionate la cella che si troverà ad uno degli angoli dell'intervallo di celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the cell where the upper left-hand cell of the external data is to be inserted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T162753Z" creationid="Elisabetta Manuele" creationdate="20170519T162753Z">
+        <seg>Selezionate la cella in cui inserire l'angolo superiore sinistro di quella contenente i dati esterni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51803,6 +51851,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is the target document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T162725Z" creationid="Elisabetta Manuele" creationdate="20170519T162725Z">
+        <seg>Si tratta del documento di destinazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is useful if you have very specific requirements for data in your chart, as you can include or leave out these ranges.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160626T123153Z" creationid="emanuelegiusti" creationdate="20160626T123153Z">
@@ -56303,6 +56359,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161130T171826Z" creationid="luciano" creationdate="20161130T155134Z">
         <seg>Usare il menu contestuale &lt;i0/&gt;&lt;is1/&gt; delle immagini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the &lt;is0/&gt;&lt;is1/&gt;External Data dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T162629Z" creationid="Elisabetta Manuele" creationdate="20170519T162629Z">
+        <seg>Metodo della &lt;is0/&gt;&lt;is1/&gt;finestra di dialogo Dati esterni</seg>
       </tuv>
     </tu>
     <tu>
