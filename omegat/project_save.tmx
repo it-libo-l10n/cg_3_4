@@ -4366,6 +4366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Click the &lt;/f0&gt;&lt;f1&gt;New&lt;/f1&gt;&lt;f2&gt; button (below the list of registered databases) to open the Create Database Link dialog (&lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Figure 270&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;).&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T174923Z" creationid="Elisabetta Manuele" creationdate="20170519T174923Z">
+        <seg>&lt;f0&gt;2) Fate clic sul pulsante &lt;/f0&gt;&lt;f1&gt;Nuovo&lt;/f1&gt;&lt;f2&gt; (sotto all'elenco dei database registrati) per aprire la finestra di dialogo Crea il collegamento del database (&lt;/f2&gt;&lt;f3&gt;Figura &lt;t4&gt;270&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;).&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Click the &lt;/f0&gt;&lt;f1&gt;Save New Version&lt;/f1&gt;&lt;f2&gt; button to save a new version.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T141417Z" creationid="luciano" creationdate="20160429T141417Z">
@@ -20535,6 +20543,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter the location of the database file, or click &lt;f0&gt;Browse&lt;/f0&gt; to open a file browser and select the database file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T175019Z" creationid="Elisabetta Manuele" creationdate="20170519T175019Z">
+        <seg>Inserite la posizione del file di database o fate clic sul pulsante &lt;f0&gt;Sfoglia&lt;/f0&gt; per aprire la finestra di esplorazione file e selezionarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter the name in the Name box when you create the sheet, or</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T140637Z" creationid="michele" creationdate="20160525T140637Z">
@@ -22579,6 +22595,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T133945Z" creationid="michele" creationdate="20160525T133945Z">
         <seg>Figura &lt;seq0&gt;26&lt;/seq0&gt;: Finestra di dialogo Inserisci foglio </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;270&lt;/seq0&gt;: Registering databases</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T174947Z" creationid="Elisabetta Manuele" creationdate="20170519T174947Z">
+        <seg>Figura &lt;seq0&gt;270&lt;/seq0&gt;: registrare i database</seg>
       </tuv>
     </tu>
     <tu>
@@ -55447,6 +55471,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163552Z" creationid="steevie" creationdate="20160428T163552Z">
         <seg>Digitate un nome per il nuovo menu nel campo &lt;f0&gt;Nome del menu&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type a name to use as the registered name for the database and click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T175048Z" creationid="Elisabetta Manuele" creationdate="20170519T175048Z">
+        <seg>Digitate un nome da utilizzare come nome registrato per il database e scegliete &lt;f0&gt;OK&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
