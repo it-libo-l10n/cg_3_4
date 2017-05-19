@@ -32648,6 +32648,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make sure that the folder structure on your computer is the same as the file structure on your web server if you save your links as relative to the file system and you are going to upload pages to the Internet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T091853Z" creationid="Elisabetta Manuele" creationdate="20170519T091853Z">
+        <seg>Se salvate i collegamenti come relativi al file system e avete intenzione di eseguire il caricamento delle pagine su Internet, assicuratevi che la struttura delle cartelle del vostro computer corrisponda a quella dei file presente nel vostro server web.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make sure the remaining ranges only have a single comma as a separator and that there is not a comma at the end of the sequence.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T103723Z">
@@ -57351,6 +57359,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160426T154534Z" creationid="luciano" creationdate="20160426T154534Z">
         <seg>Quando si riceve di ritorno un documento modificato, la bellezza del sistema di registrazione delle modifiche diventa evidente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you rest the mouse pointer on a hyperlink, a help tip displays the absolute reference, since LibreOffice uses absolute path names internally.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T092003Z" creationid="Elisabetta Manuele" creationdate="20170519T092003Z">
+        <seg>Quando mantenete il puntatore del mouse su un collegamento ipertestuale, un suggerimento visualizza il riferimento assoluto, poiché LibreOffice al proprio interno utilizza nomi di percorso assoluti.</seg>
       </tuv>
     </tu>
     <tu>
