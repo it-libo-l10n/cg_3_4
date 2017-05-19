@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(To register means to tell LibreOffice what type of data source it is and where the file is located.) The way to do this depends on whether or not the data source is a database in *.odb format.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T174448Z" creationid="Elisabetta Manuele" creationdate="20170519T174448Z">
+        <seg>(ciò significa comunicare a LibreOffice il tipo e l'ubicazione del file sorgente). Il metodo di registrazione varia in base alla sorgente dati, cioè se si tratta di un database in formato *.odb oppure no.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(To use other data sources, including database files in LibreOffice Base, see “&lt;bf1&gt;Linking to registered data sources&lt;/bf1&gt;” on page &lt;bf2&gt;258&lt;/bf2&gt;.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T162411Z" creationid="Elisabetta Manuele" creationdate="20170519T162411Z">
@@ -15447,6 +15455,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;&lt;f1&gt;Tools&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Options&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &gt; LibreOffice&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; Base&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;Databases&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;.&lt;/f14&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T174811Z" creationid="Elisabetta Manuele" creationdate="20170519T174811Z">
+        <seg>Scegliete il menu &lt;f0&gt;&lt;f1&gt;Strumenti&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Opzioni&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &gt; LibreOffice&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; Base&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; &gt; &lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;Database&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;.&lt;/f14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;Data &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Group and Outline &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Group&lt;/f6&gt; from the menu bar or press &lt;f7&gt;F12&lt;/f7&gt;; you get the following dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T173653Z" creationid="Elisabetta Manuele" creationdate="20170301T173653Z">
@@ -22543,6 +22559,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;268&lt;/seq0&gt;: Using the Navigator to find a data range name</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T174202Z" creationid="Elisabetta Manuele" creationdate="20170519T174202Z">
+        <seg>Figura &lt;seq0&gt;268&lt;/seq0&gt;: trovare un nome d'area tramite Navigatore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;269&lt;/seq0&gt;: Using the Name box to find a data range name</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T174231Z" creationid="Elisabetta Manuele" creationdate="20170519T174231Z">
+        <seg>Figura &lt;seq0&gt;269&lt;/seq0&gt;: trovare un nome d'area tramite casella Nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;26&lt;/seq0&gt;: Insert Sheet dialog</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T133945Z" creationid="michele" creationdate="20160525T133945Z">
@@ -23971,6 +24003,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T133706Z" creationid="osvaldo" creationdate="20170207T133706Z">
         <seg>Innanzitutto sono calcolate le intersezioni A2:B4!B2:C6, A2:B4!C1:D3, B1:C2!B2:C6 e B1:C2!C1:D3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>First you need to register the data source with &lt;f0&gt;LibreOffice&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T174409Z" creationid="Elisabetta Manuele" creationdate="20170519T174409Z">
+        <seg>In primo luogo dovete registrare la sorgente dati in &lt;f0&gt;LibreOffice&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -49899,6 +49939,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The range name can also be selected from this drop-down list to highlight it on the page.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T174130Z" creationid="Elisabetta Manuele" creationdate="20170519T174130Z">
+        <seg>dal cui elenco a discesa può inoltre essere selezionato per essere evidenziato sulla pagina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The range operator builds a reference to the smallest range including both the cells referenced with the left reference and the cells referenced with the right reference.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T165714Z" creationid="osvaldo" creationdate="20170206T165714Z">
@@ -54383,6 +54431,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T150647Z" creationid="Marco Marega" creationdate="20160819T150647Z">
         <seg>Per riferirsi ad un colonna utilizzando il nome della sua intestazione, inserite tra virgolette il nome dell'intestazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To register a data source that is in *.odb format:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T174503Z" creationid="Elisabetta Manuele" creationdate="20170519T174503Z">
+        <seg>Per registrare una sorgente dati in formato *odb procedete nel modo seguente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -58963,6 +59019,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can access a variety of databases and other &lt;i0/&gt;&lt;i1/&gt;data sources and link them into Calc documents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T174336Z" creationid="Elisabetta Manuele" creationdate="20170519T174336Z">
+        <seg>Potete avere accesso a un'ampia gamma di database e ad altre &lt;i0/&gt;&lt;i1/&gt;sorgenti dati da collegare a documenti Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can access grouping by selecting &lt;f0&gt;Data &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Group and Outline &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Group&lt;/f6&gt; from the menu bar, or by pressing &lt;f7&gt;F12&lt;/f7&gt; after selecting the correct cell area.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T172440Z" creationid="Elisabetta Manuele" creationdate="20170301T172440Z">
@@ -61643,6 +61707,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>data source</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T174300Z" creationid="Elisabetta Manuele" creationdate="20170519T174300Z">
+        <seg>sorgente dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>database</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T145404Z" creationid="steevie" creationdate="20160509T145404Z">
@@ -63183,6 +63255,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T184442Z" creationid="Elisabetta Manuele" creationdate="20170303T184442Z">
         <seg>aggiornare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>registering</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T174303Z" creationid="Elisabetta Manuele" creationdate="20170519T174303Z">
+        <seg>registrazione</seg>
       </tuv>
     </tu>
     <tu>
