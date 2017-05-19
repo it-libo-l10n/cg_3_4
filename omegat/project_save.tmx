@@ -4670,6 +4670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Document&lt;/f0&gt;: the hyperlink points to a place in either the current document or another existing document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T094950Z" creationid="Elisabetta Manuele" creationdate="20170519T094950Z">
+        <seg>&lt;f0&gt;Documento&lt;/f0&gt;: il collegamento ipertestuale rimanda a un altro documento o a un altro punto nel documento corrente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Documentation for LibreOffice is available at &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;http://www.libreoffice.org/get-help/documentation&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20161104T101720Z" creationid="osvaldo" creationdate="20161104T101720Z">
@@ -5582,6 +5590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Internet&lt;/f0&gt;: the hyperlink points to a web address, normally starting with http://</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T094233Z" creationid="Elisabetta Manuele" creationdate="20170519T094233Z">
+        <seg>&lt;f0&gt;Internet&lt;/f0&gt;: il collegamento ipertestuale rimanda a un indirizzo web, che inizia normalmente con http://</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;IsArray&lt;/f0&gt; checks to see if the argument is a single value, or an array.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160615T153218Z" creationid="luciano" creationdate="20160615T153218Z">
@@ -5858,6 +5874,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161214T131718Z" creationid="luciano" creationdate="20161212T153451Z">
         <seg>&lt;f0&gt;Macro&lt;/f0&gt;: associa una macro con l'hotspot al posto di un collegamento ipertestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Mail &amp; News&lt;/f0&gt;: the hyperlink opens an email message that is pre-addressed to a particular recipient.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T094246Z" creationid="Elisabetta Manuele" creationdate="20170519T094246Z">
+        <seg>&lt;f0&gt;Mail e News&lt;/f0&gt;: il collegamento ipertestuale apre un messaggio di posta elettronica già indirizzato a uno specifico destinatario</seg>
       </tuv>
     </tu>
     <tu>
@@ -22255,6 +22279,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;260&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T094140Z" creationid="Elisabetta Manuele" creationdate="20170519T094140Z">
+        <seg>Figura &lt;seq0&gt;260&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;26&lt;/seq0&gt;: Insert Sheet dialog</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T133945Z" creationid="michele" creationdate="20160525T133945Z">
@@ -26491,6 +26523,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T130131Z" creationid="michele" creationdate="20160608T130131Z">
         <seg>In ogni caso, vorreste sapere quanto debba essere modificato l'investimento in capitale C per ottenere un particolare ritorni I. Per questo esempio, calcola quanto capitale C è necessario per ottenere un ritorno annuale di 15.000€.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hyperlink dialog showing details for Internet links</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T094201Z" creationid="Elisabetta Manuele" creationdate="20170519T094201Z">
+        <seg>finestra di dialogo Collegamento ipertestuale con i dettagli per i collegamenti di tipo Internet</seg>
       </tuv>
     </tu>
     <tu>
@@ -34989,6 +35029,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T172707Z" creationid="Elisabetta Manuele" creationdate="20170303T172707Z">
         <seg>Sulla sinistra è visibile un elenco a discesa contenente il campo a cui applicare le impostazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the left side, select one of the four categories of hyperlinks:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T094216Z" creationid="Elisabetta Manuele" creationdate="20170519T094216Z">
+        <seg>Sul lato sinistro potete selezionare una delle quattro categorie di collegamento ipertestuale:</seg>
       </tuv>
     </tu>
     <tu>
@@ -54191,6 +54239,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T081957Z" creationid="michele" creationdate="20160524T081957Z">
         <seg>Alla destra della casella del nome &lt;f0&gt; ci sono il &lt;/f0&gt;&lt;is1/&gt;&lt;f2&gt;la Creazione Guidata delle Funzioni &lt;/f2&gt;&lt;ie3/&gt;&lt;f4&gt;, &lt;/f4&gt;&lt;f5&gt;la Somma&lt;/f5&gt;&lt;f6&gt;, e &lt;/f6&gt;&lt;f7&gt;le Funzioni&lt;/f7&gt;&lt;f8&gt;.&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To turn existing text into a link, highlight it before opening the dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T094128Z" creationid="Elisabetta Manuele" creationdate="20170519T094128Z">
+        <seg>Per trasformare del testo esistente in un collegamento, selezionatelo prima di aprire la finestra di dialogo.</seg>
       </tuv>
     </tu>
     <tu>
