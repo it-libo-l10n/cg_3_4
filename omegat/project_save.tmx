@@ -20399,6 +20399,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter the URL as the file name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T163500Z" creationid="Elisabetta Manuele" creationdate="20170519T163500Z">
+        <seg>Inserite l'URL come nome file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter the cell reference to the formula in the &lt;f4&gt;Formulas&lt;/f4&gt; field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T100138Z" creationid="michele" creationdate="20160608T100138Z">
@@ -23535,6 +23543,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File selections from the drop-down list will load automatically.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T163134Z" creationid="Elisabetta Manuele" creationdate="20170519T163134Z">
+        <seg>La selezione del file dall'elenco a discesa verrà caricata automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fill in the form on this page.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T150910Z" creationid="steevie" creationdate="20160418T150557Z">
@@ -24123,6 +24139,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20161002T175505Z" creationid="emanuelegiusti" creationdate="20161002T175505Z">
         <seg>Per facilità di stima dei dati è anche possibile visualizzare le griglie degli assi X o Y selezionando l'opzione &lt;f1&gt;Mostrare griglie&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For entries typed in, press &lt;f0&gt;Enter&lt;/f0&gt; on completion.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T163059Z" creationid="Elisabetta Manuele" creationdate="20170519T163059Z">
+        <seg>Una volta terminato di inserire la voce, premete il tasto &lt;f0&gt;Invio&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27971,6 +27995,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T170124Z" creationid="Elisabetta Manuele" creationdate="20170228T170124Z">
         <seg>Selezionando quest'opzione, la &lt;f0&gt;Tabella pivot&lt;/f0&gt; ignorerà le righe vuote, se i dati sorgente non sono espressi nella forma consigliata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the source document is a Web page, choose &lt;f2&gt;Web Page Query (Open&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Office&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; Calc)&lt;/f5&gt; as the file type (see &lt;t6&gt;Figure 262&lt;/t6&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T163424Z" creationid="Elisabetta Manuele" creationdate="20170519T163424Z">
+        <seg>Se il documento sorgente è rappresentato da una pagina Web, scegliete &lt;f2&gt;Ricerca pagina Web (Open&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Office&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; Calc)&lt;/f5&gt; come tipo di file (vd. figura &lt;t6&gt;262&lt;/t6&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -43133,6 +43165,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T133437Z" creationid="michele" creationdate="20160531T133437Z">
         <seg>Selezionando Sequenza d'ordine definita dell'utente si ordina d'accordo con uno dei degli elenchi personalizzati definiti in &lt;f0&gt;Strumenti&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Opzioni&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &gt; LibreOffice&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Calc&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; &gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;Ordina Elenchi&lt;/f9&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selecting a file and then pressing &lt;f1&gt;Insert&lt;/f1&gt; loads the list of available tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T163302Z" creationid="Elisabetta Manuele" creationdate="20170519T163302Z">
+        <seg>La selezione di un file e il clic successivo sul pulsante &lt;f1&gt;Inserisci&lt;/f1&gt; consentiranno di caricare l'elenco delle tabelle disponibili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58727,6 +58767,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161102T183317Z" creationid="Andrea" creationdate="20161102T183317Z">
         <seg>Potete anche scegliere se visualizzare l'equazione per la linea di tendenza e il coefficiente di determinazione (R&lt;/f22&gt;&lt;f23&gt;2&lt;/f23&gt;&lt;f24&gt;).&lt;/f24&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also click the [&lt;f0&gt;...&lt;/f0&gt;] button to open the Insert (file selection) dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T163226Z" creationid="Elisabetta Manuele" creationdate="20170519T163226Z">
+        <seg>Si può anche fare clic sul pulsante [&lt;f0&gt;...&lt;/f0&gt;] per aprire la finestra di dialogo Inserisci (selezione file).</seg>
       </tuv>
     </tu>
     <tu>
