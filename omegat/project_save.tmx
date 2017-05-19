@@ -7054,6 +7054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Text&lt;/f0&gt; specifies the text that will be visible to the user.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T100450Z" creationid="Elisabetta Manuele" creationdate="20170519T100450Z">
+        <seg>&lt;f0&gt;Testo&lt;/f0&gt; permette di definire il testo visibile all'utente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Text&lt;/f0&gt;: type the text that you want to be displayed when the mouse pointer is moved over the hotspot.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161212T153625Z" creationid="luciano" creationdate="20161212T153625Z">
@@ -22335,6 +22343,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;261&lt;/seq0&gt;: Hyperlink as button</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T100422Z" creationid="Elisabetta Manuele" creationdate="20170519T100422Z">
+        <seg>Figura &lt;seq0&gt;261&lt;/seq0&gt;: collegamento come pulsante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;26&lt;/seq0&gt;: Insert Sheet dialog</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T133945Z" creationid="michele" creationdate="20160525T133945Z">
@@ -28371,6 +28387,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T135128Z" creationid="michele" creationdate="20160525T135128Z">
         <seg>Se non inserite un nome, Calc crea un nome predefinito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you do not enter anything here, Calc will use the full URL or path as the link text.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T100520Z" creationid="Elisabetta Manuele" creationdate="20170519T100520Z">
+        <seg>Se non inserite nulla in questo campo, LibreOffice utilizzerà l'URL o il percorso completo come testo del collegamento.</seg>
       </tuv>
     </tu>
     <tu>
