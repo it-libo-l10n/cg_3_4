@@ -4310,6 +4310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Click &lt;/f0&gt;&lt;f1&gt;Next&lt;/f1&gt;&lt;f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T175535Z" creationid="Elisabetta Manuele" creationdate="20170519T175535Z">
+        <seg>&lt;f0&gt;Fate clic su &lt;/f0&gt;&lt;f1&gt;Avanti&lt;/f1&gt;&lt;f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Click &lt;/f0&gt;&lt;f1&gt;OK&lt;/f1&gt;&lt;f2&gt; to insert the sheet.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170518T161052Z" creationid="antonio" creationdate="20160524T150911Z">
@@ -15599,6 +15607,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;File&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;New&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Database&lt;/f6&gt; to open the Database Wizard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T175317Z" creationid="Elisabetta Manuele" creationdate="20170519T175317Z">
+        <seg>Selezionate il menu &lt;f0&gt;File&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Nuovo&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Database&lt;/f6&gt; per aprire la Creazione guidata database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;Format &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; AutoFormat&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T170237Z" creationid="Elisabetta" creationdate="20160722T170237Z">
@@ -22607,6 +22623,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;271&lt;/seq0&gt;: Registering a database using the Database Wizard</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T175522Z" creationid="Elisabetta Manuele" creationdate="20170519T175522Z">
+        <seg>Figura &lt;seq0&gt;271&lt;/seq0&gt;: registrare un database tramite Creazione guidata database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;27&lt;/seq0&gt;: Dragging a sheet to move it</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T134230Z" creationid="michele" creationdate="20160525T134230Z">
@@ -24419,6 +24443,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T091703Z" creationid="Elisabetta" creationdate="20160629T091703Z">
         <seg>Per esempio, la figura &lt;t1&gt;45&lt;/t1&gt; presenta i criteri appropriati per una cella che contiene un intervallo di celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, Microsoft Access and other Microsoft products are not among the choices if you are using Linux.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T175416Z" creationid="Elisabetta Manuele" creationdate="20170519T175416Z">
+        <seg>Per esempio, Microsoft Access e altri prodotti Microsoft non compariranno tra le scelte in un sistema Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30107,6 +30139,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T174241Z" creationid="Elisabetta Manuele" creationdate="20170303T174241Z">
         <seg>In questo esempio, se facessimo doppio clic sulla cella della figura &lt;t0&gt;214&lt;/t0&gt;, contenente il valore € 35.741,90, otterremmo un nuovo elenco di tutti gli insiemi di dati inclusi in questo valore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In our example, we chose dBASE.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T175447Z" creationid="Elisabetta Manuele" creationdate="20170519T175447Z">
+        <seg>Nell'esempio sottostante abbiamo optato per dBASE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42537,6 +42577,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Connect to an existing database&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T175334Z" creationid="Elisabetta Manuele" creationdate="20170519T175334Z">
+        <seg>Selezionate l'opzione &lt;f0&gt;Collega a un database esistente&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f0&gt;Data &gt; Filter &gt; &lt;/f0&gt;&lt;f1&gt;Advanced Filter&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T163904Z" creationid="Elisabetta" creationdate="20160725T163904Z">
@@ -46634,6 +46682,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f1&gt;OK&lt;/f1&gt; button is enabled only when both fields are filled in.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T175133Z" creationid="Elisabetta Manuele" creationdate="20170519T175133Z">
+        <seg>Il pulsante &lt;f1&gt;OK&lt;/f1&gt; diverrà attivo solo al termine della compilazione di entrambi i campi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f2&gt;OK&lt;/f2&gt; button then becomes available.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T164533Z" creationid="Elisabetta Manuele" creationdate="20170519T164533Z">
@@ -47738,6 +47794,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The choices for database type depend on your operating system.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T175352Z" creationid="Elisabetta Manuele" creationdate="20170519T175352Z">
+        <seg>La scelta relativa al tipo di database dipende dal sistema operativo in uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The choices in the &lt;f0&gt;Other&lt;/f0&gt; &lt;f1&gt;options&lt;/f1&gt; section determine whether quoted data will always be imported as text, and whether Calc will automatically detect all number formats, including special number formats such as dates, time, and scientific notation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T135123Z" creationid="michele" creationdate="20160524T134801Z">
@@ -48102,6 +48166,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T150111Z" creationid="Marco Marega" creationdate="20160819T150111Z">
         <seg>Le funzioni di database utilizzano i seguenti parametri comuni:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The database is added to the list of registered databases.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T175108Z" creationid="Elisabetta Manuele" creationdate="20170519T175108Z">
+        <seg>Il database sarà aggiunto all'elenco di quelli registrati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54455,6 +54527,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T150647Z" creationid="Marco Marega" creationdate="20160819T150647Z">
         <seg>Per riferirsi ad un colonna utilizzando il nome della sua intestazione, inserite tra virgolette il nome dell'intestazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To register a data source that is &lt;f0&gt;not&lt;/f0&gt; in *.odb format:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T175203Z" creationid="Elisabetta Manuele" creationdate="20170519T175203Z">
+        <seg>Per registrare una sorgente dati in formato &lt;f0&gt;diverso da&lt;/f0&gt; *odb procedete nel modo seguente:</seg>
       </tuv>
     </tu>
     <tu>
