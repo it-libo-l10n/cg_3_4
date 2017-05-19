@@ -5166,6 +5166,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;HTML_all&lt;/f0&gt; – designates the entire document</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T173315Z" creationid="Elisabetta Manuele" creationdate="20170519T173315Z">
+        <seg>&lt;f0&gt;HTML_all&lt;/f0&gt; – indicante l'intero documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;HTML_tables&lt;/f0&gt; – designates all HTML tables in the document</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T173341Z" creationid="Elisabetta Manuele" creationdate="20170519T173341Z">
+        <seg>&lt;f0&gt;HTML_tables&lt;/f0&gt; – indicante tutte le tabelle HTML all'interno del documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;HYPGEOMDIST&lt;/f0&gt;(X; n_sample; successes; n_population)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T134737Z" creationid="Marco Marega" creationdate="20160730T134737Z">
@@ -26695,6 +26711,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How to &lt;i0/&gt;find the required data range or table</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T173143Z" creationid="Elisabetta Manuele" creationdate="20170519T173143Z">
+        <seg>&lt;i0/&gt;Trovare le aree dati o le tabelle richieste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, Calc opens hyperlinks using a single click, regardless of the selection for this option.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T122715Z" creationid="steevie" creationdate="20160421T122702Z">
@@ -27875,6 +27899,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20161230T090359Z" creationid="osvaldo" creationdate="20161230T090359Z">
         <seg>Se i dati necessari sono in diversi fogli, verranno referenziati facendo riferimento al nome dei fogli di lavoro, per esempio &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;=SOMMA(&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Foglio2.B12&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;+&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;Foglio3.A11&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;)&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;.&lt;/f13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the data tables in the source HTML document have been given names (using the ID attribute on the TABLE tag), or the external spreadsheet includes named ranges, those names appear in the list along with the ranges Calc has sequentially numbered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T173843Z" creationid="Elisabetta Manuele" creationdate="20170519T173843Z">
+        <seg>Nel caso in cui alle tabelle del documento HTML sorgente siano state attribuite denominazioni (mediante attributo ID per il tag TABLE), o i fogli di lavoro esterni includano intervalli denominati, i nomi compariranno nell'elenco unitamente agli intervalli numerati in sequenza dal programma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31548,6 +31580,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170113T221957Z" creationid="Marco Marega" creationdate="20170113T221957Z">
         <seg>Tratta inoltre alcune delle più avanzate funzioni grafiche e di come queste possono ulteriormente migliorare il vostro foglio di lavoro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It also created two additional range names (not visible in the illustration):</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T173238Z" creationid="Elisabetta Manuele" creationdate="20170519T173238Z">
+        <seg>Ha quindi generato due ulteriori nomi dell'area (non visibili nell'illustrazione):</seg>
       </tuv>
     </tu>
     <tu>
@@ -48274,6 +48314,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The examples above show that the import filter gave names to the data ranges (tables) in the sample web page starting from &lt;f0&gt;HTML_1&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T173223Z" creationid="Elisabetta Manuele" creationdate="20170519T173223Z">
+        <seg>Gli esempi precedenti indicano che il filtro di importazione ha attribuito delle denominazioni alle aree dati (tabelle), all'interno della pagina Web campione, iniziando con &lt;f0&gt;HTML_1&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The existing &lt;/f3&gt;&lt;is4/&gt;&lt;f5&gt;cell reference&lt;/f5&gt;&lt;ie6/&gt;&lt;f7&gt; will be highlighted.&lt;/f7&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Type the cell reference of the cell you want to go to and press &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Enter&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T091927Z" creationid="michele" creationdate="20160525T091927Z">
@@ -61979,6 +62027,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>find required range</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T173112Z" creationid="Elisabetta Manuele" creationdate="20170519T173112Z">
+        <seg>trovare aree dati richieste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>finding</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160425T113827Z" creationid="luciano" creationdate="20160425T113827Z">
@@ -62453,8 +62509,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>linking to external data</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170518T151905Z" creationid="Elisabetta Manuele" creationdate="20170518T151905Z">
-        <seg>Collegare dati esterni</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T173119Z" creationid="Elisabetta Manuele" creationdate="20170518T151905Z">
+        <seg>collegare dati esterni</seg>
       </tuv>
     </tu>
     <tu>
