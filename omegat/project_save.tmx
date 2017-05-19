@@ -16119,6 +16119,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to close the dialog and insert the linked data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T164628Z" creationid="Elisabetta Manuele" creationdate="20170519T164628Z">
+        <seg>Fate clic su &lt;f0&gt;OK&lt;/f0&gt; per chiudere la finestra di dialogo e inserire il dati collegati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to close the dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T143204Z" creationid="michele" creationdate="20160531T143204Z">
@@ -22451,6 +22459,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T164127Z" creationid="Elisabetta Manuele" creationdate="20170519T164127Z">
         <seg>Figura &lt;seq0&gt;263&lt;/seq0&gt;: finestra di dialogo Opzioni di importazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;264&lt;/seq0&gt;: Selecting a table or range in a source document from the Web</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T164848Z" creationid="Elisabetta Manuele" creationdate="20170519T164848Z">
+        <seg>Figura &lt;seq0&gt;264&lt;/seq0&gt;: selezionare una tabella o un intervallo di celle contenuti in un documento sorgente di un indirizzo Web</seg>
       </tuv>
     </tu>
     <tu>
@@ -35713,6 +35729,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open the Calc spreadsheet in which the external data is to be inserted (target document).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T164937Z" creationid="Elisabetta Manuele" creationdate="20170519T164937Z">
+        <seg>Aprite il foglio di lavoro in cui inserire i dati esterni (documento di destinazione).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open the Navigator</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084254Z">
@@ -35757,6 +35781,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160526T084633Z" creationid="michele" creationdate="20160526T084633Z">
         <seg>Aprite il documento contenete gli intervalli di celle da consolidare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the document from which the external data is to be taken (source document).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T164956Z" creationid="Elisabetta Manuele" creationdate="20170519T164956Z">
+        <seg>Aprite il documento dal quale estrarre i dati esterni (documento sorgente).</seg>
       </tuv>
     </tu>
     <tu>
@@ -46370,6 +46402,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f2&gt;OK&lt;/f2&gt; button then becomes available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T164533Z" creationid="Elisabetta Manuele" creationdate="20170519T164533Z">
+        <seg>Il pulsante &lt;f2&gt;OK&lt;/f2&gt; è ora disponibile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f2&gt;Option Explicit&lt;/f2&gt; statement forces all variables to be declared before they are used.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160614T155515Z" creationid="luciano" creationdate="20160614T155515Z">
@@ -56525,8 +56565,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>Using the &lt;is0/&gt;Navigator</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160525T153659Z" creationid="michele" creationdate="20160525T153659Z">
-        <seg>Usare il &lt;is0/&gt;Navigatore</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T164910Z" creationid="michele" creationdate="20160525T153659Z">
+        <seg>Metodo del &lt;is0/&gt;Navigatore</seg>
       </tuv>
     </tu>
     <tu>
@@ -59079,6 +59119,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T155319Z" creationid="steevie" creationdate="20160428T155319Z">
         <seg>Potete anche impostare questa griglia per essere in linea con le linee di cattura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also specify that the ranges or tables are updated every (number of) seconds.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T164558Z" creationid="Elisabetta Manuele" creationdate="20170519T164558Z">
+        <seg>Potete anche applicare alle aree di cella o alle tabelle un intervallo di aggiornamento di un certo numero di secondi.</seg>
       </tuv>
     </tu>
     <tu>
