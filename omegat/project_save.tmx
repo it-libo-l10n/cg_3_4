@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(To use other data sources, including database files in LibreOffice Base, see “&lt;bf1&gt;Linking to registered data sources&lt;/bf1&gt;” on page &lt;bf2&gt;258&lt;/bf2&gt;.)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T162411Z" creationid="Elisabetta Manuele" creationdate="20170519T162411Z">
+        <seg>(per utilizzare altre sorgenti dati, compresi file di database di LibreOffice Base, consultate la sezione “&lt;bf1&gt;Collegarsi a sorgenti dati registrate&lt;/bf1&gt;”, a pag. &lt;bf2&gt;258&lt;/bf2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(You can also use &lt;f1&gt;File &gt; Save&lt;/f1&gt; the first time you save a new document.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T085343Z" creationid="michele" creationdate="20160525T085343Z">
@@ -59323,6 +59331,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can do this in two ways: using the External Data dialog or using the Navigator.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T162433Z" creationid="Elisabetta Manuele" creationdate="20170519T162433Z">
+        <seg>I metodi di inserimento sono i seguenti: tramite finestra di dialogo Dati esterni o tramite Navigatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can dock the Navigator to either side of the main Calc window or leave it floating.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T154712Z" creationid="michele" creationdate="20160525T154712Z">
@@ -59917,8 +59933,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>You can use the same method to insert data located within named ranges from a &lt;f0&gt;LibreOffice&lt;/f0&gt; Calc or Microsoft Excel spreadsheet, into a Calc spreadsheet.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T114021Z" creationid="Elisabetta Manuele" creationdate="20170519T114021Z">
-        <seg>Potete servirvi dello stesso metodo per inserire in un foglio Calc dati contenuti all'interno di intervalli di celle denominati generati da un foglio di lavoro &lt;f0&gt;LibreOffice&lt;/f0&gt; Calc o Microsoft Excel.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T162241Z" creationid="Elisabetta Manuele" creationdate="20170519T114021Z">
+        <seg>Potete servirvi dello stesso metodo per inserire in un foglio Calc dati contenuti all'interno di intervalli di celle denominati generati da un foglio di lavoro &lt;f0&gt;LibreOffice&lt;/f0&gt; Calc o Microsoft Excel</seg>
       </tuv>
     </tu>
     <tu>
