@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(The built-in Bibliography database is included in the list.)&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T180930Z" creationid="Elisabetta Manuele" creationdate="20170519T180930Z">
+        <seg>incluso il database integrato Bibliography.&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(The cells can be highlighted after opening the Define Names dialog as well.)&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T152518Z">
@@ -314,6 +322,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T171450Z" creationid="steevie" creationdate="20160428T171450Z">
         <seg>(questo esempio utilizza uno stile di cella, ma potete anche scegliere uno stile di pagina). L'elenco &lt;f0&gt;Funzione&lt;/f0&gt; visualizzerà i nomi degli stili disponibili per la categoria selezionata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(This has been done for the Automobile database in &lt;t3&gt;Figure 272&lt;/t3&gt;.) &lt;f4&gt;Click on the &lt;/f4&gt;&lt;f5&gt;+&lt;/f5&gt;&lt;f6&gt; symbol &lt;/f6&gt;&lt;f7&gt;next to Tables to view the individual tables&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T181228Z" creationid="Elisabetta Manuele" creationdate="20170519T181228Z">
+        <seg>(questa è la procedura seguita per il database Automobile, visibile nella figura &lt;t3&gt;272&lt;/t3&gt;). &lt;f4&gt;Fate clic sul &lt;/f4&gt;&lt;f5&gt;simbolo&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;accanto al termine Tabelle per visualizzare le singole tabelle&lt;/f7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6334,6 +6350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Open a document in Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T180628Z" creationid="Elisabetta Manuele" creationdate="20170519T180628Z">
+        <seg>&lt;f0&gt;Aprite un documento con Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Open in full screen mode:&lt;/f0&gt; Causes the PDF viewer to open full-screen instead of in a smaller window.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T160339Z" creationid="Luciano B." creationdate="20160326T160339Z">
@@ -7466,6 +7490,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160701T100501Z" creationid="Elisabetta" creationdate="20160701T100220Z">
         <seg>&lt;f0&gt;Per impostare il testo in modo che si interrompa alla fine della cella, &lt;/f0&gt;&lt;f1&gt;fate clic con il pulsante secondario del mouse&lt;/f1&gt;&lt;f2&gt; su quest'ultima e selezionate &lt;/f2&gt;&lt;f3&gt;Formatta Celle&lt;/f3&gt; (oppure scegliete la voce &lt;f4&gt;Formato &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; Celle&lt;/f7&gt; nella barra del menu, o premete i tasti &lt;f8&gt;Ctrl+1&lt;/f8&gt;)&lt;f9&gt;. Nella scheda &lt;/f9&gt;&lt;f10&gt;Allineamento&lt;/f10&gt;&lt;f11&gt;&lt;/f11&gt;&lt;f12&gt; (&lt;/f12&gt;&lt;f13&gt;Figura &lt;t14&gt;49&lt;/t14&gt;&lt;/f13&gt;&lt;f15&gt;), all'interno dell'area Proprietà, selezionate l'opzione &lt;/f15&gt;&lt;f16&gt;Scorrimento testo automatico&lt;/f16&gt;&lt;f17&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;To view each database, click on the &lt;/f0&gt;&lt;f1&gt;+ &lt;/f1&gt;&lt;f2&gt;symbol to the left of the name of the database&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T181018Z" creationid="Elisabetta Manuele" creationdate="20170519T181018Z">
+        <seg>&lt;f0&gt;Per visualizzare ogni database fate clic sul &lt;/f0&gt;&lt;f1&gt;simbolo&lt;/f1&gt;&lt;f2&gt; presente a sinistra del nome del database&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9723,6 +9755,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160823T060907Z" creationid="briga" creationdate="20160823T060907Z">
         <seg>Sotto il nome della cartella appare un elenco di tutti i modelli contenuti in quella cartella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A list of registered databases is in the Data Explorer area on the left.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T180910Z" creationid="Elisabetta Manuele" creationdate="20170519T180910Z">
+        <seg>Sulla sinistra, nell'area Explorer dati, comparirà un elenco di database registrati,</seg>
       </tuv>
     </tu>
     <tu>
@@ -46962,6 +47002,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Data Source View pane opens above the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T180830Z" creationid="Elisabetta Manuele" creationdate="20170519T180830Z">
+        <seg>Nella parte superiore del foglio di lavoro si aprirà il riquadro Visualizza sorgente dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The DataPilot always uses the complete list that was selected when it was started.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T174757Z" creationid="Elisabetta Manuele" creationdate="20170303T174757Z">
@@ -55315,6 +55363,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To view the data sources available, press &lt;/f0&gt;&lt;f1&gt;F4&lt;/f1&gt;&lt;f2&gt; or select &lt;/f2&gt;&lt;f3&gt;View&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Data Sources&lt;/f6&gt;&lt;f7&gt; from the menu bar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T180808Z" creationid="Elisabetta Manuele" creationdate="20170519T180808Z">
+        <seg>Per visualizzare le sorgenti dati a disposizione premete &lt;/f0&gt;&lt;f1&gt;F4&lt;/f1&gt;&lt;f2&gt; oppure selezionate la voce &lt;/f2&gt;&lt;f3&gt;Visualizza&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Sorgenti dati&lt;/f6&gt;&lt;f7&gt; dalla barra dei menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To view the template’s properties, click the &lt;f0&gt;Document Properties&lt;/f0&gt; icon.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160823T054207Z" creationid="briga" creationdate="20160823T054207Z">
@@ -57463,6 +57519,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160425T115825Z" creationid="luciano" creationdate="20160425T115825Z">
         <seg>Visualizzare le modifiche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Viewing data sources</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T180606Z" creationid="Elisabetta Manuele" creationdate="20170519T180606Z">
+        <seg>Visualizzazione delle sorgenti dati</seg>
       </tuv>
     </tu>
     <tu>
