@@ -9847,6 +9847,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A relative hyperlink says, &lt;f0&gt;Here is how to get there starting from where you are now&lt;/f0&gt; (meaning from the folder in which your current document is saved) while an absolute hyperlink says, &lt;f1&gt;Here is how to get there no matter where you start from&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T090736Z" creationid="Elisabetta Manuele" creationdate="20170519T090736Z">
+        <seg>Un collegamento ipertestuale relativo indica &lt;f0&gt;la posizione di un file a partire dalla posizione corrente nell'albero del file system&lt;/f0&gt; (cioè dalla cartella in cui è salvato il documento corrente), mentre un collegamento ipertestuale assoluto indica &lt;f1&gt;la posizione di un file a partire dalla radice del file system&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A relative link will stop working only if the start and target locations change relative to each other.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T090758Z" creationid="Elisabetta Manuele" creationdate="20170519T090758Z">
+        <seg>Un collegamento relativo non funzionerà più se le posizioni di partenza e di destinazione cambiano l'una rispetto all'altra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A relatively common source of errors is to inadvertently declare a list by mistake and then sort the list.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T113925Z" creationid="Andrea" creationdate="20160808T135602Z">
@@ -11259,6 +11275,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T174729Z" creationid="Elisabetta Manuele" creationdate="20170303T174729Z">
         <seg>Un filtro automatico o un filtro standard applicato al foglio non produce alcun effetto sul processo di analisi della Tabella pivot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An absolute link will stop working only if the target is moved.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T090746Z" creationid="Elisabetta Manuele" creationdate="20170519T090746Z">
+        <seg>Un collegamento assoluto non funzionerà più se la destinazione viene spostata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24519,6 +24543,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance, if you have two spreadsheets in the same folder linked to each other and you move the entire folder to a new location, a relative hyperlink will not break.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T090850Z" creationid="Elisabetta Manuele" creationdate="20170519T090850Z">
+        <seg>Ad esempio, se avete due fogli di lavoro nella stessa cartella, collegati l'uno all'altro, e spostate la cartella in una nuova posizione, un collegamento assoluto non funzionerà più, mentre un collegamento relativo continuerà a funzionare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, let us assume you have a series of values such as, A1, A2, A3, A4, A5, A6, ..., A19, A20, A21.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T170555Z" creationid="Elisabetta" creationdate="20160725T170555Z">
@@ -26431,10 +26463,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hyperlinks can be stored within your file as either relative or absolute.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T090628Z" creationid="Elisabetta Manuele" creationdate="20170519T090628Z">
+        <seg>I collegamenti ipertestuali memorizzati in un file possono essere relativi o assoluti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hyperlinks can be used in Calc to jump to a different location from within a spreadsheet and can lead to other parts of the current file, to different files or even to web sites.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="antonio" changedate="20160919T124600Z" creationid="antonio" creationdate="20160919T124600Z">
-        <seg>I collegamenti ipertestuali possono essere utilizzati in Calc per saltare a una posizione diversa all'interno di un foglio di lavoro e possono portare ad altre parti dle file corrente, a file diversi o anche a siti web.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T090603Z" creationid="antonio" creationdate="20160919T124600Z">
+        <seg>I collegamenti ipertestuali vengono impiegati per passare a una posizione diversa all'interno di un foglio di lavoro, ad altre parti del file attivo, a file diversi o anche a siti web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52295,6 +52335,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T095702Z" creationid="michele" creationdate="20160524T095702Z">
         <seg>Per modificare l'ingrandimento della visualizzazione, trascina il cursore dello Zoom o fai clic sui simboli + e -.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change the way that LibreOffice stores the hyperlinks in your file, select &lt;f0&gt;Tools&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Options&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Load/Save&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; &gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;General&lt;/f9&gt; and choose if you want URLs saved relatively when referencing the &lt;f10&gt;File System&lt;/f10&gt;, or the &lt;f11&gt;Internet&lt;/f11&gt;, or both.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T091002Z" creationid="Elisabetta Manuele" creationdate="20170519T091002Z">
+        <seg>Per cambiare il modo in cui LibreOffice memorizza i collegamenti ipertestuali nei file, selezionate il menu &lt;f0&gt;Strumenti &gt; Opzioni &gt; Carica/Salva &gt; Generale&lt;/f0&gt; e scegliete se salvare gli URL in modo relativo, quando fanno riferimento al &lt;f1&gt;File System&lt;/f1&gt;, a &lt;f2&gt;Internet&lt;/f2&gt; o a entrambi.</seg>
       </tuv>
     </tu>
     <tu>
