@@ -4870,6 +4870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Events&lt;/f0&gt; button: this button will be activated to allow Calc to react to events for which the user has written some code (macro).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T105948Z" creationid="Elisabetta Manuele" creationdate="20170519T105948Z">
+        <seg>Il pulsante &lt;f0&gt;Eventi&lt;/f0&gt; diverrà attivo per permettere al programma di rispondere a eventi per i quali l'utente ha scritto del codice (macro).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Export automatically inserted &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;blank pages&lt;/f2&gt;: Not available in Calc.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160326T154336Z" creationid="Luciano B." creationdate="20160326T154336Z">
@@ -5986,6 +5994,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160711T122403Z" creationid="Marco Marega" creationdate="20160711T122403Z">
         <seg>&lt;f0&gt;VAN&lt;/f0&gt;(Tasso; valore_1; valore_2; ... valore_30)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Name&lt;/f0&gt; is applicable to HTML documents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T105819Z" creationid="Elisabetta Manuele" creationdate="20170519T105819Z">
+        <seg>&lt;f0&gt;Nome&lt;/f0&gt; è utilizzabile con i documenti HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9615,6 +9631,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A hyperlink button is a type of form control.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T110049Z" creationid="Elisabetta Manuele" creationdate="20170519T110049Z">
+        <seg>Un pulsante collegamento ipertestuale è un tipo di controllo formulario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A list box containing all the text, or entries formatted as text, found in the current column is displayed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T084748Z" creationid="Elisabetta" creationdate="20160629T084748Z">
@@ -12091,6 +12115,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T172219Z" creationid="Elisabetta" creationdate="20160722T172219Z">
         <seg>Quando viene selezionato un tema, alcune delle proprietà degli stili utente vengono applicate al foglio elettronico attivo. Le modifiche saranno immediatamente visibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As with all form controls, it can be anchored or positioned by right-clicking on the button in design mode.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T110119Z" creationid="Elisabetta Manuele" creationdate="20170519T110119Z">
+        <seg>Come per tutti i controlli di tipo formulario, il pulsante può essere ancorato o posizionato con un clic destro in modalità bozza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31600,6 +31632,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It specifies text that will be added as a &lt;f1&gt;NAME&lt;/f1&gt; attribute in the HTML code behind the hyperlink.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T105835Z" creationid="Elisabetta Manuele" creationdate="20170519T105835Z">
+        <seg>Definisce il testo che sarà aggiunto come attributo &lt;f1&gt;Name&lt;/f1&gt; nel codice HTML del collegamento ipertestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It uses the following logic: Starting from the cell you have selected (which must be within your list), Calc checks the surrounding cells in all 4 directions (left, right, above, below).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T113258Z" creationid="Andrea" creationdate="20160808T100145Z">
@@ -33248,6 +33288,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>More information about forms can be found in Chapter 15 of the &lt;f0&gt;Writer Guide&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T110152Z" creationid="Elisabetta Manuele" creationdate="20170519T110152Z">
+        <seg>Per ulteriori informazioni riguardo ai formulari consultate il Capitolo 15 della &lt;f0&gt;Guida a Writer&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>More options</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T160023Z" creationid="Elisabetta Manuele" creationdate="20170228T160023Z">
@@ -34285,6 +34333,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160729T143945Z" creationid="Elisabetta" creationdate="20160729T143945Z">
         <seg>Non verranno trovate celle vuote neppure nella sola ricerca all’interno di una selezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that if the link is relative and you move the file, this text will not change, though the target will.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T105753Z" creationid="Elisabetta Manuele" creationdate="20170519T105753Z">
+        <seg>Da notare che se il collegamento è relativo e voi spostate il file, il testo non cambierà, sebbene cambi la destinazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51383,6 +51439,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T145108Z" creationid="Marco Marega" creationdate="20160822T145108Z">
         <seg>Questa funzione distingue tra maiuscole e minuscole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This function is not covered in this chapter.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T110022Z" creationid="Elisabetta Manuele" creationdate="20170519T110022Z">
+        <seg>Questa funzione non è descritta nella presente Guida.</seg>
       </tuv>
     </tu>
     <tu>
