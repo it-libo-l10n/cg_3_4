@@ -20103,6 +20103,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Editing hyperlinks</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T110417Z" creationid="Elisabetta Manuele" creationdate="20170519T110417Z">
+        <seg>Modificare collegamenti ipertestuali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Effect</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084143Z">
@@ -24963,6 +24971,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T154329Z" creationid="Andrea" creationdate="20160828T212744Z">
         <seg>Per i Campi dati viene utilizzata una funzione aggregata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the button to work , the spreadsheet must &lt;f0&gt;not&lt;/f0&gt; be in design mode.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T110223Z" creationid="Elisabetta Manuele" creationdate="20170519T110223Z">
+        <seg>Per un corretto funzionamento del pulsante, il foglio di lavoro &lt;f0&gt;non&lt;/f0&gt; deve essere aperto in modalità bozza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53163,6 +53179,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To edit an existing link, place the cursor anywhere in the link and click &lt;f0&gt;&lt;f1&gt;the &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Hyperlink&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;icon &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;&lt;df10&gt;&lt;di11/&gt;&lt;/df10&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f12&gt;&lt;f13&gt; on the Standard toolb&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;ar&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt; or select &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;Edit&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; &gt; &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;Hyperlink&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt; from the menu bar&lt;/f25&gt;&lt;/f24&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T110802Z" creationid="Elisabetta Manuele" creationdate="20170519T110802Z">
+        <seg>Per modificare un collegamento ipertestuale posizionate il cursore in qualsiasi punto del testo del collegamento e fate clic sull'icona &lt;f0&gt;&lt;f1&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Collegamento ipertestuale&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;&lt;df10&gt;&lt;di11/&gt;&lt;/df10&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f12&gt;&lt;f13&gt; nella barra strumenti Standard&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;, oppure selezionate la voce &lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;Modifica&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt; &gt; &lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;Collegamento ipertestuale&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt; dalla barra dei menu&lt;/f25&gt;&lt;/f24&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To edit inside the Input line area, click in the area, then type your changes.&lt;f6&gt; &lt;/f6&gt;To edit within the current cell, just &lt;f7&gt;double-click&lt;/f7&gt; the cell.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T083900Z" creationid="michele" creationdate="20160524T083900Z">
@@ -54455,6 +54479,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T081957Z" creationid="michele" creationdate="20160524T081957Z">
         <seg>Alla destra della casella del nome &lt;f0&gt; ci sono il &lt;/f0&gt;&lt;is1/&gt;&lt;f2&gt;la Creazione Guidata delle Funzioni &lt;/f2&gt;&lt;ie3/&gt;&lt;f4&gt;, &lt;/f4&gt;&lt;f5&gt;la Somma&lt;/f5&gt;&lt;f6&gt;, e &lt;/f6&gt;&lt;f7&gt;le Funzioni&lt;/f7&gt;&lt;f8&gt;.&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To toggle design mode on and off, view the Form Controls toolbar (&lt;f1&gt;View&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt; &gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;Toolbars&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt; &gt; &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;Form Controls&lt;/f7&gt;&lt;f8&gt;) and click the &lt;/f8&gt;&lt;f9&gt;Design Mode On/Off&lt;/f9&gt;&lt;f10&gt; button &lt;/f10&gt;&lt;f11&gt;&lt;df12&gt;&lt;di13/&gt;&lt;/df12&gt;&lt;/f11&gt;&lt;f14&gt;.&lt;/f14&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T110410Z" creationid="Elisabetta Manuele" creationdate="20170519T110410Z">
+        <seg>Per attivare e disattivare la modalità bozza, accedete alla barra strumenti Controlli per formulario (&lt;f1&gt;Visualizza&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt; &gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;Barre degli strumenti&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt; &gt; &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;Controlli per formulario&lt;/f7&gt;&lt;f8&gt;) e fate clic sul pulsante &lt;/f8&gt;&lt;f9&gt;Modo bozza On/Off&lt;/f9&gt;&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;&lt;df12&gt;&lt;di13/&gt;&lt;/df12&gt;&lt;/f11&gt;&lt;f14&gt;.&lt;/f14&gt;</seg>
       </tuv>
     </tu>
     <tu>
