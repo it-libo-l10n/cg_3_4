@@ -13703,6 +13703,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc will always display an absolute hyperlink.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T091400Z" creationid="Elisabetta Manuele" creationdate="20170519T091054Z">
+        <seg>Calc visualizza sempre collegamenti ipertestuali assoluti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc works with elements called &lt;i0/&gt;&lt;f1&gt;spreadsheets&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T162028Z">
@@ -19283,6 +19291,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T150907Z" creationid="steevie" creationdate="20161130T150907Z">
         <seg>I segni di dollaro sono usati affinché la formula possa essere copiata ed incollata in una posizione differente e continuare a riferirsi agli stessi valori in &lt;t1&gt;Tabella 21&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don’t be alarmed when it does this even when you have saved a relative hyperlink—this ‘absolute’ target address will be updated if you move the file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T091503Z" creationid="Elisabetta Manuele" creationdate="20170519T091503Z">
+        <seg>Non preoccupatevi se, pur avendo salvato un collegamento relativo, vi compare un collegamento assoluto: l'indirizzo 'assoluto' della destinazione verrà aggiornato, se spostate il file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52341,8 +52357,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>To change the way that LibreOffice stores the hyperlinks in your file, select &lt;f0&gt;Tools&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Options&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Load/Save&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; &gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;General&lt;/f9&gt; and choose if you want URLs saved relatively when referencing the &lt;f10&gt;File System&lt;/f10&gt;, or the &lt;f11&gt;Internet&lt;/f11&gt;, or both.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T091002Z" creationid="Elisabetta Manuele" creationdate="20170519T091002Z">
-        <seg>Per cambiare il modo in cui LibreOffice memorizza i collegamenti ipertestuali nei file, selezionate il menu &lt;f0&gt;Strumenti &gt; Opzioni &gt; Carica/Salva &gt; Generale&lt;/f0&gt; e scegliete se salvare gli URL in modo relativo, quando fanno riferimento al &lt;f1&gt;File System&lt;/f1&gt;, a &lt;f2&gt;Internet&lt;/f2&gt; o a entrambi.</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T091340Z" creationid="Elisabetta Manuele" creationdate="20170519T091002Z">
+        <seg>Per cambiare il modo in cui LibreOffice memorizza i collegamenti ipertestuali nei file, selezionate il menu &lt;f0&gt;Strumenti&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Opzioni&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Carica/Salva&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; &gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;Generale&lt;/f9&gt; e scegliete se salvare gli URL in modo relativo, quando fanno riferimento al &lt;f10&gt;File System&lt;/f10&gt;, a &lt;f11&gt;Internet&lt;/f11&gt; o a entrambi.</seg>
       </tuv>
     </tu>
     <tu>
