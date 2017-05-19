@@ -12111,6 +12111,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As much formatting as possible is retained while the filter intentionally does not import any images.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T164300Z" creationid="Elisabetta Manuele" creationdate="20170519T164300Z">
+        <seg>La formattazione verrà conservata il più possibile, mentre il filtro non importerà volutamente alcuna immagine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As opposed to &lt;f1&gt;VLOOKUP&lt;/f1&gt; and HLOOKUP, search and result vectors may be at different positions; they do not have to be adjacent.&lt;f2&gt; &lt;/f2&gt;Additionally, the search vector for the LOOKUP must be sorted, otherwise the search will not return any usable results.&lt;f3&gt; &lt;/f3&gt;The search supports regular expressions.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Search_criterion&lt;/f5&gt; is the value to be searched for; entered either directly or as a reference.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Search_vector&lt;/f7&gt; is the single-row or single-column area to be searched.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Result_vector&lt;/f9&gt; is another single-row or single-column range from which the result of the function is taken.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T123917Z" creationid="Marco Marega" creationdate="20160821T123917Z">
@@ -16091,6 +16099,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T164637Z" creationid="Elisabetta" creationdate="20160725T164637Z">
         <seg>Infine fate clic su &lt;f0&gt;OK.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; and Calc loads the list of available tables (&lt;t1&gt;Figure 264&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T164209Z" creationid="Elisabetta Manuele" creationdate="20170519T164209Z">
+        <seg>Fate clic su &lt;f0&gt;OK&lt;/f0&gt; e il programma caricherà l'elenco delle tabelle disponibili (Figura &lt;t1&gt;264&lt;/t1&gt;). </seg>
       </tuv>
     </tu>
     <tu>
@@ -22427,6 +22443,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T163620Z" creationid="Elisabetta Manuele" creationdate="20170519T163620Z">
         <seg>Figura &lt;seq0&gt;262&lt;/seq0&gt;: scelta della voce Ricerca pagina Web per collegare i dati direttamente a una pagina Web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;263&lt;/seq0&gt;: Import Options dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T164127Z" creationid="Elisabetta Manuele" creationdate="20170519T164127Z">
+        <seg>Figura &lt;seq0&gt;263&lt;/seq0&gt;: finestra di dialogo Opzioni di importazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -29923,6 +29947,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T170519Z" creationid="Elisabetta" creationdate="20160722T170405Z">
         <seg>Nella casella &lt;f0&gt;&lt;f1&gt;Nome&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;della finestra di dialogo Aggiungi formattazione automatica, assegnate un nome descrittivo al nuovo formato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the &lt;f0&gt;Available tables/range&lt;/f0&gt; list, select the named ranges or tables you want to insert (hold &lt;f1&gt;Ctrl&lt;/f1&gt; to select multiple entries).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T164510Z" creationid="Elisabetta Manuele" creationdate="20170519T164510Z">
+        <seg>Nell'elenco &lt;f0&gt;Sezioni/tabelle disponibili&lt;/f0&gt;, selezionate gli intervalli con nome o le tabelle da inserire (mantenete premuto il tasto &lt;f1&gt;Ctrl&lt;/f1&gt; per selezionare più voci).</seg>
       </tuv>
     </tu>
     <tu>
@@ -42345,6 +42377,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f2&gt;Automatic&lt;/f2&gt; to let Calc import the data directly, or select &lt;f3&gt;Custom&lt;/f3&gt; and choose from the drop-down list of languages available.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T164026Z" creationid="Elisabetta Manuele" creationdate="20170519T164026Z">
+        <seg>Scegliete l'opzione &lt;f2&gt;Automatico&lt;/f2&gt; per affidare al programma l'importazione diretta dei dati, o &lt;f3&gt;Personalizzato&lt;/f3&gt; per selezionare personalmente una lingua dall'elenco a discesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f2&gt;Maximum&lt;/f2&gt; or &lt;f3&gt;Minimum&lt;/f3&gt; if the target cell value needs to be one of those extremes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T142950Z" creationid="michele" creationdate="20160608T142935Z">
@@ -48174,6 +48214,22 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170203T134812Z" creationid="Marco Marega" creationdate="20170203T134812Z">
         <seg>Di solito le dimensioni del file non sono un problema su di un moderno computer con una discreta capacità di memoria, a meno che il documento non includa molti file grafici grandi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The filter additionally creates two entries to the list: HTML_all to permit selection of the entire document, and HTML_tables to permit selection of all the tables.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T164408Z" creationid="Elisabetta Manuele" creationdate="20170519T164341Z">
+        <seg>Il filtro aggiungerà due ulteriori voci all'elenco: HTML_all, per consentire la selezione dell'intero documento, e HTML_tables, per la selezione di tutte le tabelle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The filter can create names for cell ranges as they are imported.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T164235Z" creationid="Elisabetta Manuele" creationdate="20170519T164235Z">
+        <seg>Il filtro consente di creare nomi per gli intervalli di cella durante la fase di importazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58999,6 +59055,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T085236Z" creationid="michele" creationdate="20160524T085236Z">
         <seg>Potete selezionare più schede contemporaneamente tenendo premuto &lt;f3&gt;&lt;f4&gt;Ctrll&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; mentre fate clic sui nomi&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also select the option to have Calc recognise special numbers such as dates on import.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T164048Z" creationid="Elisabetta Manuele" creationdate="20170519T164048Z">
+        <seg>Potete anche selezionare l'opzione per assegnare al programma il compito di riconoscere numeri speciali come le date, in fase di importazione.</seg>
       </tuv>
     </tu>
     <tu>
