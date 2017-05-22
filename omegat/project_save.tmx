@@ -3838,6 +3838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Add the &lt;/f0&gt;&lt;f1&gt;Form Navigation&lt;/f1&gt;&lt;f2&gt; toolbar: &lt;/f2&gt;&lt;f3&gt;View&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Toolbars&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; &gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;Form Navigation&lt;/f9&gt;&lt;f10&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170522T181130Z" creationid="Elisabetta Manuele" creationdate="20170522T181130Z">
+        <seg>&lt;f0&gt;Aprite la &lt;/f0&gt;&lt;f1&gt;barra Navigazione Formulario&lt;/f1&gt;&lt;f2&gt; tramite menu &lt;/f2&gt;&lt;f3&gt;Visualizza&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Barre degli strumenti&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; &gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;Navigazione Formulario&lt;/f9&gt;&lt;f10&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Address:&lt;/f0&gt; the address pointed by the hyperlink.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161212T153517Z" creationid="luciano" creationdate="20161212T153517Z">
@@ -4450,6 +4458,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T083004Z" creationid="michele" creationdate="20160524T083004Z">
         <seg>&lt;f0&gt;Facendo clic sul pulsante &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Funzione&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; si inserisce un uguale (=) nella cella selezionata &lt;/f3&gt; e nella riga di digitazione, permettendo l'inserimento di una formula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Close the Data Source window: press &lt;/f0&gt;&lt;f1&gt;F4&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170522T180657Z" creationid="Elisabetta Manuele" creationdate="20170522T180657Z">
+        <seg>&lt;f0&gt;Chiudete la finestra Sorgente dati premendo il tasto &lt;/f0&gt;&lt;f1&gt;F4&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6802,6 +6818,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T145809Z" creationid="Marco Marega" creationdate="20160626T145809Z">
         <seg>&lt;f0&gt;SOMMA.Q&lt;/f0&gt;(numero_1; numero_2; ... numero_30)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Save the spreadsheet and click the &lt;/f0&gt;&lt;f1&gt;Edit File&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;button &lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt; on the Standard toolbar, to make the spreadsheet read-only.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170522T180819Z" creationid="Elisabetta Manuele" creationdate="20170522T180819Z">
+        <seg>&lt;f0&gt;Salvate il foglio di lavoro e fate clic sul pulsante &lt;/f0&gt;&lt;f1&gt;Modifica file&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt; &lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt; nella barra degli strumenti standard per impostare il foglio in sola lettura. </seg>
       </tuv>
     </tu>
     <tu>
@@ -11187,6 +11211,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20161230T073610Z" creationid="osvaldo" creationdate="20161230T073610Z">
         <seg>Tutte le formule sono costruite su questo concetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All of the fields will show the value for the data of the first record you selected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170522T180850Z" creationid="Elisabetta Manuele" creationdate="20170522T180850Z">
+        <seg>Tutti i campi visualizzeranno il valore relativo ai dati del primo record selezionato.</seg>
       </tuv>
     </tu>
     <tu>
