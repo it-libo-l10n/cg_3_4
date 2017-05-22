@@ -12871,6 +12871,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Below the &lt;f0&gt;records is the Form Navigation bar, which shows which record is selected and the total number of records.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170522T172608Z" creationid="Elisabetta Manuele" creationdate="20170522T172608Z">
+        <seg>Sotto ai &lt;f0&gt;record di dati è visibile la barra di Navigazione formulario che visualizza l'insieme totale dei record e quelli selezionati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Below the toolbar, specify for the selected hotspot:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161214T132700Z" creationid="luciano" creationdate="20161212T153511Z">
@@ -20311,6 +20319,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Editing data sources</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170522T172745Z" creationid="Elisabetta Manuele" creationdate="20170522T172745Z">
+        <seg>Modifica delle sorgenti dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Editing hyperlinks</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T110417Z" creationid="Elisabetta Manuele" creationdate="20170519T110417Z">
@@ -22707,6 +22723,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T181245Z" creationid="Elisabetta Manuele" creationdate="20170519T181245Z">
         <seg>Figura &lt;seq0&gt;272&lt;/seq0&gt;: database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;273&lt;/seq0&gt;: Data Source View navigation buttons</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170522T172733Z" creationid="Elisabetta Manuele" creationdate="20170522T172733Z">
+        <seg>Figura &lt;seq0&gt;273&lt;/seq0&gt;: pulsanti di navigazione all'interno della Visualizzazione sorgenti dati</seg>
       </tuv>
     </tu>
     <tu>
@@ -28759,6 +28783,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you cannot save your edits, you need to open &lt;s0/&gt;the database in Base and edit it there; see “&lt;bf1&gt;Launching Base to work on data sources&lt;/bf1&gt;”.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170522T173332Z" creationid="Elisabetta Manuele" creationdate="20170522T173332Z">
+        <seg>Se risulta impossibile salvare le modifiche apportate, è necessario aprire il &lt;s0/&gt;database in LibreOffice Base e procedere alla modifica all'interno di quest'ultimo. Consultate la sezione “&lt;bf1&gt;Avvio di Base per lavorare con sorgenti dati&lt;/bf1&gt;”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you change your mind, click the &lt;f0&gt;Reset&lt;/f0&gt; button to return the settings to what they were when the dialog opened.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161214T110224Z" creationid="luciano" creationdate="20161130T154952Z">
@@ -30059,6 +30091,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T123745Z" creationid="michele" creationdate="20160524T123745Z">
         <seg>In ciascun caso, viene visualizzata la finestra di dialogo Apri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In editable data sources, records can be edited, added, or deleted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170522T172913Z" creationid="Elisabetta Manuele" creationdate="20170522T172913Z">
+        <seg>Nelle sorgenti dati modificabili i record si possono modificare, aggiungere o eliminare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44785,6 +44825,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some data sources (such as spreadsheets) cannot be edited in the data source view.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170522T172842Z" creationid="Elisabetta Manuele" creationdate="20170522T172842Z">
+        <seg>Alcune sorgenti dati (per esempio i fogli di lavoro) non possono essere modificate all'interno della finestra Visualizza sorgenti dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some dialogs can be left open as you work, so you can switch back and forth between the dialog and your document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084342Z">
@@ -49271,6 +49319,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170317T210249Z" creationid="Marco Marega" creationdate="20170317T210249Z">
         <seg>Più grandi sono i singoli rettangoli, minori sono i dettagli che l'immagine mantiene.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The last is for adding new records.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170522T172707Z" creationid="Elisabetta Manuele" creationdate="20170522T172707Z">
+        <seg>L'ultimo è predisposto per l'aggiunta di nuovi record.&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -55263,6 +55319,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T104609Z" creationid="michele" creationdate="20160525T104609Z">
         <seg>Alla riga successiva che contenga dati nella stessa colonna o alla Riga 1048576</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To the right are five small buttons; the first four move backwards or forwards through the records, or to the beginning or end.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170522T172650Z" creationid="Elisabetta Manuele" creationdate="20170522T172650Z">
+        <seg>Sulla destra si notano 5 piccoli pulsanti i cui primi quattro permettono di spostarsi indietro o avanti attraverso i record, oppure direttamente all'inizio o alla fine.</seg>
       </tuv>
     </tu>
     <tu>
