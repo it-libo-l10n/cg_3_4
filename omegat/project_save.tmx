@@ -48474,6 +48474,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The data in the fields changes to correspond to the data for that particular record number.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170522T181555Z" creationid="Elisabetta Manuele" creationdate="20170522T181555Z">
+        <seg>I dati dei campi variano in base al contenuto del record selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The data is arranged in columns and you want to return data from the same column.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161010T140059Z" creationid="steevie" creationdate="20161010T140059Z">
@@ -59947,6 +59955,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also search for a specific record, sort and filter records, and do other tasks using this toolbar.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170522T181633Z" creationid="Elisabetta Manuele" creationdate="20170522T181633Z">
+        <seg>Grazie alla barra potete anche cercare un record specifico, ordinare e filtrare i record ed eseguire altre operazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also select a contiguous range of cells by first clicking in the &lt;f0&gt;STD&lt;/f0&gt; field on the status bar and changing it to &lt;f1&gt;EXT&lt;/f1&gt;, before clicking in the opposite corner of the range of cells.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T123300Z" creationid="michele" creationdate="20160525T123300Z">
@@ -64365,8 +64381,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>spreadsheets</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160322T161157Z">
-        <seg>fogli elettronici</seg>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170522T181646Z">
+        <seg>fogli di lavoro</seg>
       </tuv>
     </tu>
     <tu>
