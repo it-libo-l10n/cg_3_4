@@ -2398,6 +2398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170522T175940Z" creationid="Elisabetta Manuele" creationdate="20170522T175940Z">
+        <seg>&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f2&gt;&lt;/f1&gt;To change the default color for grid points, click the down-arrow by the color and select a new color from the drop-down list.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T124521Z" creationid="steevie" creationdate="20160421T124521Z">
@@ -6478,6 +6486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Press &lt;/f0&gt;&lt;f1&gt;F4&lt;/f1&gt;&lt;f2&gt; to open the database source window and select the table containing the data you want to use.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170522T175648Z" creationid="Elisabetta Manuele" creationdate="20170522T175648Z">
+        <seg>&lt;f0&gt;Premete il tasto &lt;/f0&gt;&lt;f1&gt;F4&lt;/f1&gt;&lt;f2&gt; per aprire la finestra sorgente dati e selezionate la tabella dei dati che desiderate utilizzare.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Properties&lt;/f0&gt;: sets the hyperlink properties and adds the Name attribute to the hyperlink.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161212T153501Z" creationid="luciano" creationdate="20161212T153501Z">
@@ -7514,6 +7530,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161129T171246Z" creationid="luciano" creationdate="20161129T171246Z">
         <seg>&lt;f0&gt;Per mantenere le proporzioni originali dell'immagine, fate &lt;/f0&gt;&lt;f1&gt;Maiusc+clic&lt;/f1&gt;&lt;f2&gt; su una delle maniglie d'angolo, quindi trascinate fin dove occorre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;To select multiple adjacent rows, hold down the &lt;/f0&gt;&lt;f1&gt;Shift&lt;/f1&gt;&lt;f2&gt; key while clicking the gray box of the rows you need.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170522T175936Z" creationid="Elisabetta Manuele" creationdate="20170522T175936Z">
+        <seg>&lt;f0&gt;Per selezionare più righe adiacenti, tenete premuto il tasto &lt;/f0&gt;&lt;f1&gt;Maiusc&lt;/f1&gt;&lt;f2&gt; mentre fate clic nel riquadro grigio delle righe desiderate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;To select multiple separate rows, hold down the &lt;/f0&gt;&lt;f1&gt;Control&lt;/f1&gt;&lt;f2&gt; key while selecting the rows.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170522T180021Z" creationid="Elisabetta Manuele" creationdate="20170522T180021Z">
+        <seg>&lt;f0&gt;Per selezionare più righe separate tenete premuto il tasto &lt;/f0&gt;&lt;f1&gt;Ctrl &lt;/f1&gt;&lt;f2&gt; durante la selezione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17171,6 +17203,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160614T163604Z" creationid="luciano" creationdate="20160614T163604Z">
         <seg>Fare clic sul simbolo di espansione (solitamente segno + o triangolo) vicino a AuthorsCalcMacros per caricare la libreria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the gray box to the left of the row you want to select if only selecting one row.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170522T175836Z" creationid="Elisabetta Manuele" creationdate="20170522T175836Z">
+        <seg>Fate clic nel riquadro grigio a sinistra della riga da selezionare, per la selezione di una sola riga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43513,6 +43553,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the rows of data you want to add to the spreadsheet:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170522T175709Z" creationid="Elisabetta Manuele" creationdate="20170522T175709Z">
+        <seg>Selezionate le righe dei dati da inserire nel foglio di lavoro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the sheet (&lt;f0&gt;Savings Account&lt;/f0&gt;) and then the reference cell (&lt;f1&gt;F3&lt;/f1&gt;).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T085617Z" creationid="antonio" creationdate="20160816T151135Z">
@@ -46686,6 +46734,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T171230Z" creationid="Elisabetta" creationdate="20160628T171230Z">
         <seg>Testo inserito:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That row is highlighted.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170522T175841Z" creationid="Elisabetta Manuele" creationdate="20170522T175841Z">
+        <seg>Questa riga risulterà evidenziata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50879,6 +50935,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160526T152740Z" creationid="michele" creationdate="20160526T152740Z">
         <seg>L'area dati selezionata viene aggiunta alla lista delle &lt;f1&gt;Aree di consolidamento&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The selected rows are highlighted.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170522T180053Z" creationid="Elisabetta Manuele" creationdate="20170522T180053Z">
+        <seg>Le righe verranno evidenziate.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
