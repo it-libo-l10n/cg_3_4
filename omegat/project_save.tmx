@@ -5614,6 +5614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;If the object inserted is handled by &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;LibreOffice&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, then the transition to the program to manipulate the object will be seamless; in other cases the object opens in a new window and an option in the File menu becomes available to update the object you inserted.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T175154Z" creationid="Elisabetta Manuele" creationdate="20170523T175154Z">
+        <seg>&lt;f0&gt;Se l'oggetto inserito viene gestito da &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;LibreOffice&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, allora la transizione al programma per la sua gestione sarà fluida; altrimenti l'oggetto verrà aperto in una nuova finestra e un'opzione nel menu File diventerà disponibile per aggiornare l'oggetto inserito.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;If the sheet is not protected, then &lt;/f0&gt;&lt;f1&gt;Prevent changes &lt;/f1&gt;&lt;f2&gt;does not have any effect, and all scenario properties can be changed.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T153224Z" creationid="michele" creationdate="20160531T153224Z">
@@ -11659,6 +11667,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T173945Z" creationid="Elisabetta" creationdate="20160722T173945Z">
         <seg>Un metodo semplice per definire gli stili richiesti è assegnare il formato desiderato a una cella, quindi fare clic sull'icona &lt;f0&gt;Nuovo stile dalla selezione&lt;/f0&gt; all'interno della finestra Stile e formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An empty container is placed in the slide.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T174609Z" creationid="Elisabetta Manuele" creationdate="20170523T174609Z">
+        <seg>Nella diapositiva comparirà un contenitore vuoto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19871,6 +19887,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double-click on the OLE object to enter the edit mode of the object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T174636Z" creationid="Elisabetta Manuele" creationdate="20170523T174636Z">
+        <seg>Fate doppio clic sull'oggetto OLE per accedere alla modalità di modifica dell'oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Double-click on the cell style name.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160505T074328Z" creationid="briga" creationdate="20160505T074328Z">
@@ -22923,6 +22947,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170522T172733Z" creationid="Elisabetta Manuele" creationdate="20170522T172733Z">
         <seg>Figura &lt;seq0&gt;273&lt;/seq0&gt;: pulsanti di navigazione all'interno della Visualizzazione sorgenti dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;274&lt;/seq0&gt;: Insert OLE object dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T174355Z" creationid="Elisabetta Manuele" creationdate="20170523T174355Z">
+        <seg>Figura &lt;seq0&gt;274&lt;/seq0&gt;: finestra di dialogo Inserisci oggetto OLE</seg>
       </tuv>
     </tu>
     <tu>
@@ -43009,6 +43041,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Create new&lt;/f0&gt; and select the object type among the available options.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T174551Z" creationid="Elisabetta Manuele" creationdate="20170523T174551Z">
+        <seg>Selezionate l'opzione &lt;f0&gt;Crea nuovo&lt;/f0&gt;, quindi il tipo di oggetto desiderato tra le opzioni disponibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f0&gt;Data &gt; Filter &gt; &lt;/f0&gt;&lt;f1&gt;Advanced Filter&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T163904Z" creationid="Elisabetta" creationdate="20160725T163904Z">
@@ -48010,6 +48050,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The application devoted to handling that type of file will open the object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T174654Z" creationid="Elisabetta Manuele" creationdate="20170523T174654Z">
+        <seg>L'applicazione dedicata alla gestione di quel tipo di file aprirà l'oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The argument &lt;f0&gt;&lt;f1&gt;Pivot Table&lt;/f1&gt;&lt;/f0&gt; has to be given in the same way as for the first syntax variation.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T174058Z" creationid="Elisabetta Manuele" creationdate="20170306T174058Z">
@@ -48838,6 +48886,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T135149Z" creationid="michele" creationdate="20160524T135149Z">
         <seg>l'individuazione dipende dalla lingua impostata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The dialog below opens.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T174324Z" creationid="Elisabetta Manuele" creationdate="20170523T174324Z">
+        <seg>Si aprirà la finestra di dialogo seguente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53983,6 +54039,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T135438Z" creationid="steevie" creationdate="20160504T135438Z">
         <seg>Per creare un intervallo con nome, selezionate l'intervallo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To create a new object:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T174440Z" creationid="Elisabetta Manuele" creationdate="20170523T174440Z">
+        <seg>Per creare un oggetto OLE nuovo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -60647,6 +60711,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T163458Z" creationid="Elisabetta" creationdate="20160726T163458Z">
         <seg>Potete modificare il testo, quindi fare clic nuovamente su &lt;f1&gt;Cerca&lt;/f1&gt; per spostarvi alla cella selezionata successiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can either create a new OLE object or create from a file.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T174415Z" creationid="Elisabetta Manuele" creationdate="20170523T174415Z">
+        <seg>Potete creare un oggetto OLE nuovo o ricavarlo da un file.</seg>
       </tuv>
     </tu>
     <tu>
