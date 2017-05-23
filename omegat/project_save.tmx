@@ -13271,6 +13271,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>But if the original Calc spreadsheet is updated, the changes are automatically made in the Writer document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T164243Z" creationid="Elisabetta Manuele" creationdate="20170523T164243Z">
+        <seg>Ma se il foglio di lavoro originale viene aggiornato, le modifiche si riflettono automaticamente nel documento Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>But if you find unexplained changes appearing in your document, this is a good place to look to find the cause.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T161340Z" creationid="steevie" creationdate="20160428T161340Z">
@@ -24839,6 +24847,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if a Calc spreadsheet is pasted into a Writer document as a DDE object, then the spreadsheet cannot be edited in the Writer document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T164219Z" creationid="Elisabetta Manuele" creationdate="20170523T164219Z">
+        <seg>Per esempio, se un foglio di lavoro viene incollato in un documento Writer come oggetto DDE, esso non è modificabile all'interno del documento Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if a cell contains &lt;f1&gt;red [hard line break] clay&lt;/f1&gt; then a search for &lt;f2&gt;d$&lt;/f2&gt; replacing with &lt;f3&gt;al&lt;/f3&gt; leaves the cell with &lt;f4&gt;real [hard line break] clay&lt;/f4&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T171216Z" creationid="Elisabetta" creationdate="20160726T171216Z">
@@ -28587,6 +28603,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T135636Z" creationid="michele" creationdate="20160524T135636Z">
         <seg>Se il foglio di lavoro non è stato ancora salvato, ognuna di queste azioni aprirà la finestra Salva come.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the spreadsheet is inserted as a Linked OLE object into the Writer document, then the spreadsheet can be edited in the Writer as well as in the Calc document and both documents are in sync with each other.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T164912Z" creationid="Elisabetta Manuele" creationdate="20170523T164912Z">
+        <seg>Se il foglio di lavoro viene inserito nel documento Writer come oggetto OLE collegato, la sua modifica sarà consentita e sincronizzata in entrambi i documenti, Writer e Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45761,6 +45785,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spreadsheets can be embedded in other LibreOffice files.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T163904Z" creationid="Elisabetta Manuele" creationdate="20170523T163904Z">
+        <seg>I fogli di lavoro si possono incorporare in altri file LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spreadsheets can be saved in three ways.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T135348Z" creationid="michele" creationdate="20160524T135348Z">
@@ -48806,6 +48838,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161008T170557Z" creationid="Andrea" creationdate="20161008T170557Z">
         <seg>Le finestre di dialogo relative a Titoli, Legenda, Assi e Griglia sono auto esplicative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The difference between a DDE object and a Linked OLE object is that a Linked OLE object can be edited from the document in which it is added as a link, but a DDE object cannot.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T164144Z" creationid="Elisabetta Manuele" creationdate="20170523T164144Z">
+        <seg>La differenza tra un oggetto DDE e un oggetto OLE collegato risiede nel fatto che un oggetto OLE collegato è modificabile all'interno del documento in cui è stato inserito come collegamento, mentre per un oggetto DDE non è possibile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52743,6 +52783,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161214T112700Z" creationid="luciano" creationdate="20161212T141741Z">
         <seg>Questa non è la stessa funzione di di Porta in primo piano e Porta in fondo, utilizzati per impostare l'ordine di soprapposizione di una serie di immagini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is often used in Writer or Impress documents so that Calc data can be used in a text document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T163946Z" creationid="Elisabetta Manuele" creationdate="20170523T163946Z">
+        <seg>Un pratica comune con i documenti Writer o Impress per consentire l'utilizzo dei dati di Calc in un documento di testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60535,6 +60583,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161201T152546Z" creationid="steevie" creationdate="20160510T135548Z">
         <seg>Potete sia indicare un indirizzo di destinazione (ad esempio Foglio3.A1) che selezionare un intervallo predefinito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can embed the spreadsheet as either an &lt;f0&gt;OLE&lt;/f0&gt; or &lt;f1&gt;DDE&lt;/f1&gt; object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T164030Z" creationid="Elisabetta Manuele" creationdate="20170523T164030Z">
+        <seg>Il foglio di lavoro può essere incorporato come oggetto &lt;f0&gt;OLE&lt;/f0&gt; o &lt;f1&gt;DDE&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
