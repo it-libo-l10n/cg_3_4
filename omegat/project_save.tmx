@@ -29647,6 +29647,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want to edit the embedded spreadsheet, double-click on the object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T165933Z" creationid="Elisabetta Manuele" creationdate="20170523T165933Z">
+        <seg>Se desiderate modificare il foglio di lavoro incorporato fate doppio clic sull'oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to go back to working with the *.ods version of your spreadsheet, you must open it again.&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T144313Z" creationid="michele" creationdate="20160524T144313Z">
@@ -33092,6 +33100,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170130T214054Z" creationid="Marco Marega" creationdate="20170130T214054Z">
         <seg>Collegare un file di immagine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Linking inserts information which will be updated with any subsequent changes to the original file, while embedding inserts a static copy of the data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T165911Z" creationid="Elisabetta Manuele" creationdate="20170523T165911Z">
+        <seg>L'operazione di collegamento inserisce delle informazioni che verranno aggiornate ad ogni successiva modifica del file originale, mentre l'azione di incorporamento inserisce una copia statica dei dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37501,6 +37517,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T131152Z" creationid="michele" creationdate="20160608T131152Z">
         <seg>Posiziona il cursore nel campo &lt;f0&gt;Cella variabile&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Place the cursor in the document and location you want the OLE object to be.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T170014Z" creationid="Elisabetta Manuele" creationdate="20170523T170014Z">
+        <seg>Posizionate il cursore nel documento e nel punto in cui desiderate inserire l'oggetto OLE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43053,6 +43077,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153608Z">
         <seg>Selezionate &lt;f0&gt;Inserisci &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Interruzione di pagina&lt;/f3&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Insert&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Object&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;OLE Object&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T174307Z" creationid="Elisabetta Manuele" creationdate="20170523T174307Z">
+        <seg>Selezionate il menu &lt;f0&gt;Inserisci&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Oggetto&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;OLE&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54343,6 +54375,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T092746Z" creationid="michele" creationdate="20160524T092746Z">
         <seg>Per modificare lo stile di pagina, &lt;f1&gt;doppio-clic&lt;/f1&gt; su questo campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To embed a spreadsheet as an OLE object in a presentation:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T165954Z" creationid="Elisabetta Manuele" creationdate="20170523T165954Z">
+        <seg>Per incorporare un foglio di lavoro come oggetto OLE in una presentazione seguite questa procedura:</seg>
       </tuv>
     </tu>
     <tu>
