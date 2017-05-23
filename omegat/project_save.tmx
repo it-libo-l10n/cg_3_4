@@ -10239,6 +10239,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A section of the inserted file is shown in the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T175614Z" creationid="Elisabetta Manuele" creationdate="20170523T175614Z">
+        <seg>Nel documento comparirà una sezione del file inserito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A setting of 90% works well with photographs (small file size, little perceptible loss).&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165933Z" creationid="Luciano B." creationdate="20160325T165933Z">
@@ -16531,6 +16539,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172525Z" creationid="steevie" creationdate="20160428T172525Z">
         <seg>Fate clic su &lt;f0&gt;Salva&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Search&lt;/f0&gt;, select the required file in the Open dialog, then click &lt;f1&gt;Open&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T175558Z" creationid="Elisabetta Manuele" creationdate="20170523T175558Z">
+        <seg>Fate clic sul pulsante &lt;f0&gt;Cerca&lt;/f0&gt; e selezionate il file desiderato nella finestra di dialogo Apri, quindi scegliete il pulsante &lt;f1&gt;Apri&lt;/f1&gt;. </seg>
       </tuv>
     </tu>
     <tu>
@@ -22955,6 +22971,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T174355Z" creationid="Elisabetta Manuele" creationdate="20170523T174355Z">
         <seg>Figura &lt;seq0&gt;274&lt;/seq0&gt;: finestra di dialogo Inserisci oggetto OLE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;275&lt;/seq0&gt;: Inserting an object as a link</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T175645Z" creationid="Elisabetta Manuele" creationdate="20170523T175645Z">
+        <seg>Figura &lt;seq0&gt;275&lt;/seq0&gt;: inserire un oggetto come collegamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -35529,6 +35553,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OLE object</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T175719Z" creationid="Elisabetta Manuele" creationdate="20170523T175719Z">
+        <seg>oggetto OLE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OLE objects can be linked to a target document or be embedded in the target document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T165828Z" creationid="Elisabetta Manuele" creationdate="20170523T165828Z">
@@ -36953,6 +36985,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other OLE objects</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T175735Z" creationid="Elisabetta Manuele" creationdate="20170523T175735Z">
+        <seg>Altri oggetti OLE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other customizations are made easy by extensions that you can install from the &lt;f0&gt;LibreOffice&lt;/f0&gt; website or from other providers.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T144400Z" creationid="steevie" creationdate="20160418T144400Z">
@@ -37045,6 +37085,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T132245Z" creationid="Marco Marega" creationdate="20160820T132210Z">
         <seg>Altrimenti, saranno visibili anche altri dati statistici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Otherwise, the object will be embedded.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T175509Z" creationid="Elisabetta Manuele" creationdate="20170523T175509Z">
+        <seg>altrimenti l'oggetto verrà incorporato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54811,6 +54859,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To insert the object as a link, select the &lt;f0&gt;Link to file&lt;/f0&gt; option.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T175501Z" creationid="Elisabetta Manuele" creationdate="20170523T175439Z">
+        <seg>Per inserire un oggetto come collegamento selezionate l'opzione &lt;f0&gt;Collega a file&lt;/f0&gt;,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To insert the picture, either right-click on the picture and choose &lt;f0&gt;Insert &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Copy&lt;/f3&gt; or click and drag the picture from the Gallery into the Calc document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170301T213559Z" creationid="Marco Marega" creationdate="20170301T213559Z">
@@ -63863,6 +63919,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160614T141154Z" creationid="luciano" creationdate="20160614T141154Z">
         <seg>gestione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>other (Windows)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T175714Z" creationid="Elisabetta Manuele" creationdate="20170523T175714Z">
+        <seg>altri (Windows)</seg>
       </tuv>
     </tu>
     <tu>
