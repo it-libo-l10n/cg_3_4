@@ -59619,6 +59619,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With DDE, objects are linked through file reference, but not embedded.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T110242Z" creationid="Elisabetta Manuele" creationdate="20170524T110242Z">
+        <seg>Con DDE gli oggetti sono collegati tramite riferimento a file, ma non incorporati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With Right-angled axes enabled, you can rotate the chart contents only in the X and Y direction; that is, parallel to the chart borders.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161224T164351Z" creationid="Andrea" creationdate="20161224T164351Z">
@@ -60735,6 +60743,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170957Z" creationid="steevie" creationdate="20160428T170957Z">
         <seg>È possibile configurare delle combinazioni di tasti per assegnare rapidamente gli stili in un documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can create DDE links either within Calc cells in a Calc sheet, or in Calc cells in another LibreOffice doc such as in Writer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T111947Z" creationid="Elisabetta Manuele" creationdate="20170524T111947Z">
+        <seg>Potete generare collegamenti DDE in celle di un foglio Calc o in celle di Calc inserite in un altro documento LibreOffice, come Writer.</seg>
       </tuv>
     </tu>
     <tu>
