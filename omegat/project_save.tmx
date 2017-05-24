@@ -25423,6 +25423,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance, if you insert a spreadsheet into a Writer document, you can essentially treat it as a Writer table (with a little more power).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T105558Z" creationid="Elisabetta Manuele" creationdate="20170524T105558Z">
+        <seg>Per esempio, se inserite un foglio di lavoro in un documento Writer, sostanzialmente potrà essere considerato come una tabella di Writer (solo un po' più efficace).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, let us assume you have a series of values such as, A1, A2, A3, A4, A5, A6, ..., A19, A20, A21.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T170555Z" creationid="Elisabetta" creationdate="20160725T170555Z">
@@ -28299,6 +28307,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T110958Z" creationid="Elisabetta Manuele" creationdate="20170519T110958Z">
         <seg>Se il collegamento ipertestuale è in formato pulsante, per modificarlo è necessario che il foglio di lavoro sia aperto in Modalità bozza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the OLE object is not linked, it can be edited in the new document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T105534Z" creationid="Elisabetta Manuele" creationdate="20170524T105534Z">
+        <seg>Se l'oggetto OLE non è collegato si può modificare in un nuovo documento. </seg>
       </tuv>
     </tu>
     <tu>
@@ -33180,6 +33196,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161209T165221Z" creationid="luciano" creationdate="20161209T165221Z">
         <seg>Spessore linea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Linked OLE object</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T105634Z" creationid="Elisabetta Manuele" creationdate="20170524T105634Z">
+        <seg>Oggetto OLE collegato</seg>
       </tuv>
     </tu>
     <tu>
@@ -54571,6 +54595,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To edit it, double-click on it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T105616Z" creationid="Elisabetta Manuele" creationdate="20170524T105616Z">
+        <seg>Potete modificarlo con un doppio clic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To edit the page style, &lt;f1&gt;double-click&lt;/f1&gt; on this field.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T092746Z" creationid="michele" creationdate="20160524T092746Z">
@@ -58879,6 +58911,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170301T213807Z" creationid="Marco Marega" creationdate="20170301T213807Z">
         <seg>Quando il puntatore prende la forma di linee parallele con delle frecce, fate clic e trascinate verso il basso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the spreadsheet OLE object is linked, if you change it in Writer it will change in Calc; if you change it in Calc, it will change in Writer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T105716Z" creationid="Elisabetta Manuele" creationdate="20170524T105716Z">
+        <seg>Se l'oggetto OLE del foglio di lavoro è collegato, una sua modifica apportata in Writer si rifletterà in Calc, e viceversa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63615,6 +63655,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084507Z">
         <seg>licenza di LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>linked</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T105624Z" creationid="Elisabetta Manuele" creationdate="20170524T105624Z">
+        <seg>collegato</seg>
       </tuv>
     </tu>
     <tu>
