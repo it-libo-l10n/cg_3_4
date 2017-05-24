@@ -18119,6 +18119,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copy them: &lt;f0&gt;Edit &gt; Copy&lt;/f0&gt; or &lt;f1&gt;Ctrl+C&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T112241Z" creationid="Elisabetta Manuele" creationdate="20170524T112241Z">
+        <seg>Copiatele tramite menu &lt;f0&gt;Modifica &gt; Copia&lt;/f0&gt; o combinazione di tasti &lt;f1&gt;Ctrl+C&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>CopyOutputData</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160517T132704Z" creationid="steevie" creationdate="20160517T132704Z">
@@ -18355,6 +18363,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160823T053640Z" creationid="briga" creationdate="20160823T053640Z">
         <seg>Creazione di un &lt;i0/&gt;foglio di lavoro da un modello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating a DDE link &lt;is0/&gt;in Calc&lt;ie1/&gt; is similar to creating a cell reference.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T112109Z" creationid="Elisabetta Manuele" creationdate="20170524T112109Z">
+        <seg>La procedura per generare un collegamento DDE &lt;is0/&gt;in Calc&lt;ie1/&gt; è simile a quella per creare un riferimento di cella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18931,6 +18947,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T105918Z" creationid="Elisabetta Manuele" creationdate="20170524T105918Z">
         <seg>collegamento DDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DDE link in Calc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T112038Z" creationid="Elisabetta Manuele" creationdate="20170524T112008Z">
+        <seg>Collegamento DDE all'interno di un documento Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -30155,6 +30179,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T165936Z" creationid="Elisabetta" creationdate="20160726T165936Z">
         <seg>In Calc le espressioni regolari vengono applicate a ogni cella separatamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In Calc, select the cells that you want to make the DDE link to.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T112153Z" creationid="Elisabetta Manuele" creationdate="20170524T112153Z">
+        <seg>In Calc selezionate le celle alle quali desiderate che il collegamento DDE faccia riferimento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50719,6 +50751,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151240Z" creationid="steevie" creationdate="20161130T143239Z">
         <seg>Il problema può essere riformulato come Cerca nell intervallo A1:G16 Francesco nella colonna A e riporta Il valore nella colonna F (la colonna F è la sesta colonna).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The process is a little different, but the result is the same.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T112126Z" creationid="Elisabetta Manuele" creationdate="20170524T112126Z">
+        <seg>Si differenzia leggermente, ma il risultato è lo stesso.</seg>
       </tuv>
     </tu>
     <tu>
