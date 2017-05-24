@@ -4598,6 +4598,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;DDE&lt;/f0&gt; is an acronym for &lt;i1/&gt;Dynamic Data Exchange, a mechanism whereby selected data in document &lt;f2&gt;A&lt;/f2&gt; can be pasted into document &lt;f3&gt;B&lt;/f3&gt; as a linked, ‘live’ copy of the original.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T110115Z" creationid="Elisabetta Manuele" creationdate="20170524T110115Z">
+        <seg>&lt;f0&gt;DDE&lt;/f0&gt; è un acronimo per &lt;i1/&gt;Dynamic Data Exchange (scambio dinamico dati), un meccanismo per cui dati selezionati in un documento &lt;f2&gt;A&lt;/f2&gt; possono essere incollati in un documento &lt;f3&gt;B&lt;/f3&gt; come copia collegata, ‘attiva’, dell'originale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;DEVSQ&lt;/f0&gt;(number_1; number_2; ... number_30)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T100905Z" creationid="Marco Marega" creationdate="20160730T100905Z">
@@ -18911,6 +18919,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DDE is a predecessor of OLE.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T110220Z" creationid="Elisabetta Manuele" creationdate="20170524T110220Z">
+        <seg>DDE è un predecessore di OLE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DDE link</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T105918Z" creationid="Elisabetta Manuele" creationdate="20170524T105918Z">
+        <seg>collegamento DDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DDE(server; file; range;&lt;f0&gt; &lt;/f0&gt;mode)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T074808Z" creationid="Marco Marega" creationdate="20160821T074808Z">
@@ -20211,6 +20235,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160526T083219Z" creationid="michele" creationdate="20160526T083219Z">
         <seg>Tramite la consolidazione, il contenuto delle celle di svariati fogli può essere combinato in una singola area.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dynamic Data Exchange (DDE)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T105945Z" creationid="Elisabetta Manuele" creationdate="20170524T105945Z">
+        <seg>Dynamic Dati Exchange (DDE)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29343,6 +29375,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have a linked OLE spreadsheet object in an open Writer document and then open the same spreadsheet in Calc, the Calc spreadsheet will be a read-only copy.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T105904Z" creationid="Elisabetta Manuele" creationdate="20170524T105904Z">
+        <seg>Se un oggetto OLE collegato, ricavato da un foglio di lavoro, si trova in un documento Writer aperto, volendo aprire lo stesso foglio di lavoro in Calc esso avrà proprietà di sola lettura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have a lot of sheets, then some of the sheet tabs may be hidden behind the horizontal scroll bar at the bottom of the screen.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T122343Z" creationid="michele" creationdate="20160525T122343Z">
@@ -32532,6 +32572,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T113258Z" creationid="Andrea" creationdate="20160808T100145Z">
         <seg>Viene adottata la logica seguente: a partire dalla cella selezionata (che deve essere contenuta all'interno del vostro elenco), Calc controlla le celle circostanti in tutt'e quattro le direzioni (sinistra, destra, sopra, sotto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It would be used, for example, in a report written in Writer containing time‑varying data, such as sales results sourced from a Calc spreadsheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T110137Z" creationid="Elisabetta Manuele" creationdate="20170524T110137Z">
+        <seg>È utilizzabile, per esempio, per un report redatto in Writer e contenente dati soggetti a variazioni di tempo, come volumi di vendita ricavati da un foglio di calcolo Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47562,6 +47610,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The DDE link ensures that, as the source spreadsheet is updated so is the report, thus reducing the scope for error and reducing the work involved in keeping the Writer document up to date.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T110205Z" creationid="Elisabetta Manuele" creationdate="20170524T110205Z">
+        <seg>Il collegamento DDE assicura che un eventuale aggiornamento del foglio di lavoro sorgente si rifletta automaticamente sul report,riducendo così il margine d'errore e l'impegno nel mantenere aggiornato il documento Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Data Source View pane opens above the spreadsheet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T180830Z" creationid="Elisabetta Manuele" creationdate="20170519T180830Z">
@@ -52487,6 +52543,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170203T134344Z" creationid="Marco Marega" creationdate="20170203T134344Z">
         <seg>Questo può essere un grande vantaggio se voi (o qualcun altro, come ad esempio un grafico) aggiornate le immagini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This can be a very powerful tool if you create reports in Writer using Calc data, and want to make a quick change without opening Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T105813Z" creationid="Elisabetta Manuele" creationdate="20170524T105813Z">
+        <seg>Si può rivelare uno strumento davvero efficace per la creazione di report in Writer con dati ricavati da Calc, oltre che per una rapida modifica senza aprire Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61103,6 +61167,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161127T180815Z" creationid="Andrea" creationdate="20161127T180815Z">
         <seg>Potete scegliere solo un'opzione alla volta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can only edit one copy of a spreadsheet at a time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T105836Z" creationid="Elisabetta Manuele" creationdate="20170524T105836Z">
+        <seg>Si può modificare soltanto una copia del foglio di lavoro alla volta.</seg>
       </tuv>
     </tu>
     <tu>
