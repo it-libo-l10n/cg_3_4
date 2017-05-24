@@ -16639,6 +16639,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f2&gt;OK&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T112430Z" creationid="Elisabetta Manuele" creationdate="20170524T112430Z">
+        <seg>Fate clic su &lt;f2&gt;OK&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f3&gt;OK&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T175408Z" creationid="Elisabetta" creationdate="20160722T175408Z">
@@ -18955,6 +18963,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T112038Z" creationid="Elisabetta Manuele" creationdate="20170524T112008Z">
         <seg>Collegamento DDE all'interno di un documento Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DDE link in Writer</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T112637Z" creationid="Elisabetta Manuele" creationdate="20170524T112637Z">
+        <seg>Collegamento DDE all'interno di un documento Writer</seg>
       </tuv>
     </tu>
     <tu>
@@ -23071,6 +23087,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;278&lt;/seq0&gt;: Location of Link option on Paste Special dialog in Calc</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T112616Z" creationid="Elisabetta Manuele" creationdate="20170524T112616Z">
+        <seg>Figura &lt;seq0&gt;278&lt;/seq0&gt;: posizione dell'opzione Collegamento nella finestra di dialogo Incolla speciale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;27&lt;/seq0&gt;: Dragging a sheet to move it</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T134230Z" creationid="michele" creationdate="20160525T134230Z">
@@ -26575,6 +26599,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to the place in the spreadsheet where you want the link to be.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T112300Z" creationid="Elisabetta Manuele" creationdate="20170524T112300Z">
+        <seg>Accedete al punto del foglio di lavoro in cui desiderate posizionare il collegamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to the source document, which you opened in Calc.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T173942Z" creationid="Elisabetta Manuele" creationdate="20170519T173942Z">
@@ -29639,6 +29671,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you now edit the original cells, the linked cells will update.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T112517Z" creationid="Elisabetta Manuele" creationdate="20170524T112517Z">
+        <seg>Se ora modificate le celle originali, si aggiorneranno anche quelle collegate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you originally linked the images, you can easily embed (save in the Calc document) one or more of them later if you wish.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170204T164735Z" creationid="Marco Marega" creationdate="20170204T164735Z">
@@ -30186,6 +30226,14 @@
         <seg>In Calc, select the cells that you want to make the DDE link to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T112153Z" creationid="Elisabetta Manuele" creationdate="20170524T112153Z">
+        <seg>In Calc selezionate le celle alle quali desiderate che il collegamento DDE faccia riferimento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In Calc, select the cells to make the DDE link to.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T112737Z" creationid="Elisabetta Manuele" creationdate="20170524T112737Z">
         <seg>In Calc selezionate le celle alle quali desiderate che il collegamento DDE faccia riferimento.</seg>
       </tuv>
     </tu>
@@ -43313,6 +43361,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Edit&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Paste Special&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T112335Z" creationid="Elisabetta Manuele" creationdate="20170524T112335Z">
+        <seg>Scegliete il menu &lt;f0&gt;Modifica &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Incolla speciale&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f0&gt;Format &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Page&lt;/f3&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T165559Z">
@@ -48490,6 +48546,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The cells now reference the copied data, and the formula bar shows a reference beginning with &lt;f0&gt;{=DDE&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T112501Z" creationid="Elisabetta Manuele" creationdate="20170524T112501Z">
+        <seg>Le celle faranno ora riferimento ai dati copiati e la barra di calcolo indicherà un riferimento che inizia con &lt;f0&gt;{=DDE&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The changed color appears in the lower of the two color preview boxes at the top.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T155723Z" creationid="steevie" creationdate="20160418T155723Z">
@@ -50751,6 +50815,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151240Z" creationid="steevie" creationdate="20161130T143239Z">
         <seg>Il problema può essere riformulato come Cerca nell intervallo A1:G16 Francesco nella colonna A e riporta Il valore nella colonna F (la colonna F è la sesta colonna).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The process for creating a DDE link from Calc to Writer is similar to creating a link within Calc.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T112718Z" creationid="Elisabetta Manuele" creationdate="20170524T112718Z">
+        <seg>La procedura per generare un collegamento DDE da Calc a Writer è simile a quella per creare un collegamento all'interno di Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58955,6 +59027,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When the Paste Special dialog opens, select the &lt;f0&gt;Link&lt;/f0&gt; option on the bottom left of the dialog (&lt;t1&gt;Figure 278&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T112426Z" creationid="Elisabetta Manuele" creationdate="20170524T112426Z">
+        <seg>All'apertura della finestra di dialogo Incolla speciale, selezionate l'opzione &lt;f0&gt;Collegamento&lt;/f0&gt; in basso a sinistra (Figura &lt;t1&gt;278&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When the cell displaying the &lt;f0&gt;#REF&lt;/f0&gt; error code in &lt;t1&gt;Figure 348&lt;/t1&gt; is selected, the status bar displays the error message as shown in &lt;t2&gt;Figure 349&lt;/t2&gt;.&lt;f3&gt; &lt;/f3&gt;This message is more descriptive than the message displayed in the cell, but it still may not provide enough information to correctly diagnose the problem.&lt;f4&gt; &lt;/f4&gt;For fuller explanations, consult the following tables and the Help topic, &lt;f5&gt;Error Codes in &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;LibreOffice&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; Calc&lt;/f8&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T193838Z" creationid="Elisabetta" creationdate="20160815T193838Z">
@@ -63607,6 +63687,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160827T072841Z" creationid="briga" creationdate="20160827T072841Z">
         <seg>importare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>in Writer</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T112623Z" creationid="Elisabetta Manuele" creationdate="20170524T112623Z">
+        <seg>in Writer</seg>
       </tuv>
     </tu>
     <tu>
