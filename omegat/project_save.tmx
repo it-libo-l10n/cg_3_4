@@ -15447,6 +15447,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chapter &lt;f0&gt;11 &lt;s1/&gt;&lt;/f0&gt;&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T113127Z" creationid="Elisabetta Manuele" creationdate="20170524T113127Z">
+        <seg>Capitolo &lt;f0&gt;11 &lt;s1/&gt;&lt;/f0&gt;&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chapter &lt;f0&gt;12 &lt;s1/&gt;&lt;/f0&gt;&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161122T163948Z" creationid="luciano" creationdate="20161122T163948Z">
@@ -18123,6 +18131,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T180121Z" creationid="osvaldo" creationdate="20170207T175945Z">
         <seg>Copia la formula dalla cella E2 alla cella E3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy them.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T112751Z" creationid="Elisabetta Manuele" creationdate="20170524T112751Z">
+        <seg>Copiatele.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23095,6 +23111,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;279&lt;/seq0&gt;: Paste Special dialog in Writer, with DDE link selected</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T113116Z" creationid="Elisabetta Manuele" creationdate="20170524T113116Z">
+        <seg>Figura &lt;seq0&gt;279&lt;/seq0&gt;: finestra di dialogo Incolla speciale in Writer, con l'opzione Collegamento DDE selezionata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;27&lt;/seq0&gt;: Dragging a sheet to move it</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T134230Z" creationid="michele" creationdate="20160525T134230Z">
@@ -26603,6 +26627,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T112300Z" creationid="Elisabetta Manuele" creationdate="20170524T112300Z">
         <seg>Accedete al punto del foglio di lavoro in cui desiderate posizionare il collegamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to the place in your Writer document where you want the DDE link.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T112851Z" creationid="Elisabetta Manuele" creationdate="20170524T112851Z">
+        <seg>Accedete al punto del documento Writer in cui desiderate posizionare il collegamento DDE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35513,6 +35545,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Now the link has been created in Writer.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T113020Z" creationid="Elisabetta Manuele" creationdate="20170524T113020Z">
+        <seg>Avete generato il collegamento in Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Now the profits are listed in column E and the annual profit per item in column F.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T104026Z" creationid="michele" creationdate="20160608T093537Z">
@@ -43309,6 +43349,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T174551Z" creationid="Elisabetta Manuele" creationdate="20170523T174551Z">
         <seg>Selezionate l'opzione &lt;f0&gt;Crea nuovo&lt;/f0&gt;, quindi il tipo di oggetto desiderato tra le opzioni disponibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;DDE Link&lt;/f0&gt; (&lt;t1&gt;Figure 279&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T112959Z" creationid="Elisabetta Manuele" creationdate="20170524T112959Z">
+        <seg>3) Selezionate &lt;f0&gt;Collegamento DDE&lt;/f0&gt; (Figura &lt;t1&gt;279&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -59015,6 +59063,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170130T212319Z" creationid="Marco Marega" creationdate="20170130T212319Z">
         <seg>Quando l'opzione &lt;f3&gt;Collega&lt;/f3&gt; non è selezionata, l'immagine viene incorporata nel documento di Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the Calc spreadsheet is updated, the table in Writer is automatically updated.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T113040Z" creationid="Elisabetta Manuele" creationdate="20170524T113040Z">
+        <seg>All'aggiornamento del foglio di lavoro di Calc si aggiornerà automaticamente la tabella di Writer.</seg>
       </tuv>
     </tu>
     <tu>
