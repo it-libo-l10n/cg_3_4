@@ -29839,6 +29839,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you select or deselect a combination of options that is not given by the Realistic or Simple schemes, you create a Custom scheme.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170626T163547Z" creationid="Administrator" creationdate="20170626T163547Z">
+        <seg>Se selezionate o deselezionate una combinazione di opzioni diversa dagli schemi Realistico o Semplice, state creando uno schema Personalizzato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you select the query range with the mouse, which in our example is A25:F26, then during the selection, it is outlined in red.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T164236Z" creationid="Elisabetta" creationdate="20160725T164236Z">
@@ -37345,6 +37353,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Otherwise, a flat method is used.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170626T163916Z" creationid="Administrator" creationdate="20170626T163916Z">
+        <seg>Altrimenti viene usato un metodo semplice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Otherwise, if a need for printing does arise, you may lose time to trial and error.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160216T072304Z">
@@ -43477,6 +43493,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T134652Z" creationid="michele" creationdate="20160525T134652Z">
         <seg>Selezionate &lt;f0&gt;Sposta/Copia Foglio&lt;/f0&gt; dal menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Shading&lt;/f0&gt; to use the Gouraud method for rendering the surface.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170626T163843Z" creationid="Administrator" creationdate="20170626T163843Z">
+        <seg>Selezionate &lt;f0&gt;Ombreggiatura&lt;/f0&gt; per usare il metodo Gouraud di resa delle superfici.</seg>
       </tuv>
     </tu>
     <tu>
