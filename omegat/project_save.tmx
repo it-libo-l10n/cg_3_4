@@ -47946,6 +47946,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Gouraud method applies gradients for a smoother, more realistic look.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170626T164355Z" creationid="Administrator" creationdate="20170626T164355Z">
+        <seg>Il metodo Gouraud usa sfumature per un aspetto piu liscio e realistico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Grid page defines the grid settings for spreadsheets.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T155121Z" creationid="steevie" creationdate="20160428T155121Z">
@@ -49410,6 +49418,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The edges are visible, soft gradients and spot lights are not possible.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170626T164159Z" creationid="Administrator" creationdate="20170626T164159Z">
+        <seg>I bordi sono visibili, non sono possibili sfumature o illuminazione a spot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The effect is that copies of the identified ranges are stacked with their top left corners at the specified result position, and the selected operation is used in each cell to calculate the result value.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160526T084557Z" creationid="michele" creationdate="20160526T084557Z">
@@ -49735,6 +49751,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161201T140800Z" creationid="steevie" creationdate="20160620T152449Z">
         <seg>I primi due argomenti per SOMMA.SE hanno lo stesso scopo di quelli di CONTA.SE: l'intervallo contenente le celle in cui effettuare la ricerca ed il criterio di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The flat method sets a single color and brightness for each polygon.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170626T164021Z" creationid="Administrator" creationdate="20170626T164021Z">
+        <seg>Il metodo semplice imposta un singolo colore e un singolo livello di luminosita' per ciascun poligono.</seg>
       </tuv>
     </tu>
     <tu>
