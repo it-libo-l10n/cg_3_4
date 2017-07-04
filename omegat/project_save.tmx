@@ -4366,6 +4366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Choosing &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Format &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; Axis &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt; Y Axis&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; from the Menu bar, opens the dialog shown in &lt;/f11&gt;&lt;f12&gt;&lt;t13&gt;Figure 89&lt;/t13&gt;&lt;/f12&gt;&lt;f14&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170704T102937Z" creationid="Administrator" creationdate="20170704T102937Z">
+        <seg>&lt;f0&gt;Scegliendo &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Formattazione &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; Assi &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt; Asse Y&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; dalla Barra Menu, si apre la finestra di dialogo mostrata in &lt;/f11&gt;&lt;f12&gt;&lt;t13&gt;Figura 89&lt;/t13&gt;&lt;/f12&gt;&lt;f14&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Click &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;OK&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt; to accept the change.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170850Z" creationid="steevie" creationdate="20160428T170850Z">
@@ -24275,6 +24283,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Administrator" changedate="20170626T165748Z" creationid="Administrator" creationdate="20170626T165748Z">
         <seg>Figura &lt;seq0&gt;88&lt;/seq0&gt;: Impostazioni per l'illuminazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;89&lt;/seq0&gt;: Formatting for Y axis scales</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170704T103122Z" creationid="Administrator" creationdate="20170704T103122Z">
+        <seg>Figura &lt;seq0&gt;89&lt;/seq0&gt;: Formattazione della scala dell'asse Y</seg>
       </tuv>
     </tu>
     <tu>
@@ -49766,6 +49782,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T174257Z" creationid="steevie" creationdate="20161130T174257Z">
         <seg>I campi vengono trattati come se fossero l'intera popolazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The fields available on this dialog depend on the type of chart and whether it is 2D or 3D.&lt;/f14&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170704T103044Z" creationid="Administrator" creationdate="20170704T103044Z">
+        <seg>I campi disponibili in questa finestra di dialogo dipendono dal tipo di grafico, e se e' un grafico 2D o 3D.&lt;/f14&gt;</seg>
       </tuv>
     </tu>
     <tu>
