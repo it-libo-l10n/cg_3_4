@@ -7318,6 +7318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Positioning&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; page allows you to set where this axis crosses the other and the position of the labels and the interval marks for the axis.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170704T104225Z" creationid="Administrator" creationdate="20170704T104225Z">
+        <seg>&lt;f0&gt;La pagina &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Posizionamento&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; permette di impostare dove un asse incrocia l'altro, la posizione delle etichette e i segni di intervallo degli assi.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Print in reverse page order&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; option can be selected with any of the above options.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T100414Z">
@@ -24319,6 +24327,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;90&lt;/seq0&gt;: Formatting axis labels</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170704T104029Z" creationid="Administrator" creationdate="20170704T104029Z">
+        <seg>Figura &lt;seq0&gt;90&lt;/seq0&gt;: Formattazione delle etichette degli assi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Apply Style, Font Name and Font Size lists</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T145427Z" creationid="michele" creationdate="20160414T145427Z">
@@ -36205,6 +36221,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160314T133518Z">
         <seg>Nella scheda &lt;f0&gt;Generale&lt;/f0&gt; della finestra di dialogo Stampa (&lt;t1&gt;Figura 134&lt;/t1&gt;), potete scegliere:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the &lt;f0&gt;Label&lt;/f0&gt; page (&lt;t1&gt;Figure 90&lt;/t1&gt;), you can choose whether to show or hide the labels, how to handle them when they will not all fit neatly into one row (for example, if the words are too long)&lt;f2&gt;, and whether to have them at an angle to the axis.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170704T104000Z" creationid="Administrator" creationdate="20170704T104000Z">
+        <seg>Sulla pagina &lt;f0&gt;Etichette&lt;/f0&gt; (&lt;t1&gt;Figura 90&lt;/t1&gt;), potete visualizzare o nascondere le etichette, come trattarle quando non ci stanno in una sola riga (per esempio se le parole sono troppo lunghe)&lt;f2&gt;, e se visualizzarle inclinate rispetto all'asse.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
