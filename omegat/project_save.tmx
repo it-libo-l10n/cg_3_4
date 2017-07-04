@@ -2494,6 +2494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f3&gt;You must first deselect the &lt;f4&gt;Automatic&lt;/f4&gt; option in order to modify the value for any scale.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170704T103549Z" creationid="Administrator" creationdate="20170704T103549Z">
+        <seg>&lt;/f3&gt;E' necessario deselezionare l'opzione &lt;f4&gt;Automatica&lt;/f4&gt; prima di modificare i valori per qualsiasi scala.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f4&gt;&lt;a6&gt;&lt;f7&gt;http://wiki.documentfoundation.org/Faq&lt;/f7&gt;&lt;/a6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T083847Z">
@@ -6410,6 +6418,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161224T160508Z" creationid="Andrea" creationdate="20161224T160508Z">
         <seg>&lt;f0&gt;Nella pagina &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Area&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; potete cambiare i colori o scegliere un tratteggio, un'immagine bitmap o qualche sfumatura predefinita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;On the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Scale&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; page, you can choose to change the default linear scale to a logarithmic one, the maximum and minimum scale values, and the major and minor increments (intervals) of the scale.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170704T103419Z" creationid="Administrator" creationdate="20170704T103419Z">
+        <seg>&lt;f0&gt;Nella pagina &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Scala&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; potete modificare la scala lineare predefinita in una scala logaritmica, i valori massimo e minimo per la scala, e gli incrementi (intervalli) maggiore e minore per la scala.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62351,6 +62367,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T114422Z" creationid="Andrea" creationdate="20160808T140515Z">
         <seg>Sono stati creati diversi fogli, per esempio uno per ogni gruppo di articoli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may also choose to reverse the direction of the scale.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170704T103626Z" creationid="Administrator" creationdate="20170704T103626Z">
+        <seg>Potete anche invertire la direzione della scala.</seg>
       </tuv>
     </tu>
     <tu>
