@@ -19943,6 +19943,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Division and multiplication are performed before addition or subtraction.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170804T210730Z" creationid="osvaldo" creationdate="20170804T210730Z">
+        <seg>Divisione e moltiplicazione vengono effettuate prima di addizioni o sottrazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Division by 0, or another calculation that results in an overflow of the defined value range (a value too big or too small).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T201334Z" creationid="Elisabetta" creationdate="20160815T201334Z">
