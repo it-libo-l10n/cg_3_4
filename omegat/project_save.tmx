@@ -53675,6 +53675,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is of limited value in more complicated formulas; it is usually quicker to edit the formula by hand.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170804T204505Z" creationid="osvaldo" creationdate="20170804T204505Z">
+        <seg>+This is of limited value in more complicated formulas; it is usually quicker to edit the formula by hand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is often used in Writer or Impress documents so that Calc data can be used in a text document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T161618Z" creationid="Elisabetta Manuele" creationdate="20170523T163946Z">
@@ -54645,8 +54653,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>To change references in formulas highlight the cell and press Shift-F4 to cycle through the four different types of references.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170804T204224Z" creationid="osvaldo" creationdate="20170804T204224Z">
-        <seg>Per cambiare i riferimenti nelle formule evidenziare la cella e premere Maiusc-F4 per visuaizzare ciclicamente i quattro diversi tipi di riferimenti.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170804T204532Z" creationid="osvaldo" creationdate="20170804T204224Z">
+        <seg>Per cambiare i riferimenti nelle formule evidenziare la cella e premere Maiusc+F4 per visuaizzare ciclicamente i quattro diversi tipi di riferimenti.</seg>
       </tuv>
     </tu>
     <tu>
