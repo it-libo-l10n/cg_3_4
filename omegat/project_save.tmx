@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -54639,6 +54639,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T090616Z" creationid="michele" creationdate="20160525T090616Z">
         <seg>Per cambiare una &lt;is0/&gt;password&lt;ie1/&gt; esistente mentre il documento è aperto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change references in formulas highlight the cell and press Shift-F4 to cycle through the four different types of references.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170804T204224Z" creationid="osvaldo" creationdate="20170804T204224Z">
+        <seg>Per cambiare i riferimenti nelle formule evidenziare la cella e premere Maiusc-F4 per visuaizzare ciclicamente i quattro diversi tipi di riferimenti.</seg>
       </tuv>
     </tu>
     <tu>
