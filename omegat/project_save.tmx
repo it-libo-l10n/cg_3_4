@@ -13951,6 +13951,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc evaluates the entire formula, then based upon programming precedence breaks the formula down executing multiplication and division operations before other operations.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170804T212602Z" creationid="osvaldo" creationdate="20170804T212602Z">
+        <seg>Calc calcola l'intera formula, poi, in base alla precedenza della programmazione, suddivide la formula, eseguendo le operazioni di moltiplicazione e divisione prima delle altre operazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc finds and marks the changes as follows:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T134002Z" creationid="luciano" creationdate="20160429T134002Z">
