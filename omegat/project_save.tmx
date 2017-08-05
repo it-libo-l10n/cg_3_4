@@ -29680,6 +29680,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you drag the worksheets around to different locations among the tabs, the function returns the number referring to the current position of this worksheet.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170805T153445Z" creationid="osvaldo" creationdate="20170805T153445Z">
+        <seg>Se si trascinano i fogli di lavoro in diverse posizioni tra le schede, la funzione restituisce il numero che si riferisce alla posizione corrente di questo foglio di lavoro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you enter only the first two arguments, then the function returns the &lt;f0&gt;total&lt;/f0&gt; result of the &lt;f1&gt;Pivot Table&lt;/f1&gt; (“Sum – sales” entered as the field, will return a value of 408,765).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T173633Z" creationid="Elisabetta Manuele" creationdate="20170306T173633Z">
