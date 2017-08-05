@@ -9039,6 +9039,15 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0/&gt;There are several worksheets in each book and they are numbered from the left: Sheet1, Sheet2, and so forth.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170805T153225Z" creationid="osvaldo" creationdate="20170805T153225Z">
+        <seg>&lt;s0/&gt;Ci sono diversi fogli di lavoro in ogni libro e sono numerati da sinistra: Foglio1, Foglio2 e così via.
+.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0/&gt;Using LOOKUP without a return range is the same as using HLOOKUP or VLOOKUP with a column index of 1.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161010T141326Z" creationid="steevie" creationdate="20161010T141128Z">
@@ -50399,6 +50408,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T173410Z" creationid="Elisabetta" creationdate="20160722T173410Z">
         <seg>La funzione si attiva selezionando la voce &lt;f0&gt;Strumenti &gt; Opzioni &gt; LibreOffice Calc &gt; Vista&lt;/f0&gt;, quindi &lt;f1&gt;Evidenzia valori&lt;/f1&gt; nell'area &lt;f2&gt;Mostra&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The function named SHEET() returns the sheet number (position) in the collection of spreadsheets.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170805T153057Z" creationid="osvaldo" creationdate="20170805T153057Z">
+        <seg>La funzione chiamata FOGLIO()  restituisce il numero di foglio (posizione) nella raccolta di fogli di calcolo.</seg>
       </tuv>
     </tu>
     <tu>
