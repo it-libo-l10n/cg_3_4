@@ -29688,6 +29688,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you drag Sheet 1 to be positioned between sheets 2 and 3 then the value changes to 2, it is now the second sheet in the order.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170912T095917Z" creationid="osvaldo" creationdate="20170912T095917Z">
+        <seg>Se si trascina il Foglio1 per essere posizionato tra Foglio2 e Foglio3, allora il valore cambia a 2, essendo il secondo foglio nell'ordine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you drag the worksheets around to different locations among the tabs, the function returns the number referring to the current position of this worksheet.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170805T153445Z" creationid="osvaldo" creationdate="20170805T153445Z">
