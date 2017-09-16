@@ -43098,6 +43098,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SUM() on the other hand adds groups of contiguous ranges of numbers together.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170916T180706Z" creationid="osvaldo" creationdate="20170916T180706Z">
+        <seg>SOMMA() on the other hand adds groups of contiguous ranges of numbers together.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SUM(D4:E4)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T163638Z" creationid="steevie" creationdate="20161130T163638Z">
