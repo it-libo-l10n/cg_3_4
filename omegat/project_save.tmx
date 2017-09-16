@@ -43100,8 +43100,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>SUM() on the other hand adds groups of contiguous ranges of numbers together.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170916T180734Z" creationid="osvaldo" creationdate="20170916T180706Z">
-        <seg>SOMMA() on the other h.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170916T204015Z" creationid="osvaldo" creationdate="20170916T180706Z">
+        <seg>SOMMA() d'altro canto somma insieme gruppi di serie contigue di numeri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54502,8 +54502,16 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>This operator adds two numbers together for a result.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170916T180258Z" creationid="osvaldo" creationdate="20170916T180258Z">
-        <seg>Questo operatore aggiunge due numeri tra loro.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170916T204158Z" creationid="osvaldo" creationdate="20170916T180258Z">
+        <seg>Questo operatore aggiunge due numeri tra loro per dare un risultato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This operator multiplies two numbers together for a result.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170916T204144Z" creationid="osvaldo" creationdate="20170916T204144Z">
+        <seg>Questo operatore moltiplica due numeri tra loro per dare un risultato.</seg>
       </tuv>
     </tu>
     <tu>
