@@ -5950,6 +5950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;LibreOffice&lt;/f0&gt; default is to paste all the attributes of the original cell(s) - formats, notes, objects, text strings and numbers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170916T173942Z" creationid="osvaldo" creationdate="20170916T173942Z">
+        <seg>Il comportamento predefinito di &lt;f0&gt;LibreOffice&lt;/f0&gt; è quello di copiare tutti gli attributi della(e) cella(e) originaria(e) - formati, note, oggetti, stringhe di testo e numeri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;LibreOffice&lt;/f0&gt; documents are &lt;is1/&gt;XML&lt;ie2/&gt; files.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T130049Z" creationid="steevie" creationdate="20160421T130049Z">
@@ -48543,6 +48551,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160425T113447Z" creationid="luciano" creationdate="20160425T113447Z">
         <seg>La barra degli strumenti Formattazione cambia per mostrare molte delle opzioni di formattazione del commento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Function Wizard can also be used to accomplish the linking.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170916T174207Z" creationid="osvaldo" creationdate="20170916T174207Z">
+        <seg>Il collegamento può anche essere eseguito utilizzando la funzionalità guidata.</seg>
       </tuv>
     </tu>
     <tu>
