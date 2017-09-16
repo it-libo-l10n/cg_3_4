@@ -38106,6 +38106,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PRODUCT() does the same for multiplying that SUM() does for adding.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170916T204254Z" creationid="osvaldo" creationdate="20170916T204254Z">
+        <seg>PRODUCT() effettua la stessa funzione per la moltiplicazione di quello che SUM() fa per l'addizione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PRODUCT(number 1 to 30)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T133742Z" creationid="Marco Marega" creationdate="20160626T133742Z">
