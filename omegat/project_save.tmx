@@ -9306,8 +9306,8 @@
       <tuv lang="EN">
         <seg>= DCOUNT (Database,Database field,Search_criteria)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T172730Z" creationid="steevie" creationdate="20161130T172730Z">
-        <seg>= DCOUNT (Database,Database field,Search_criteria)</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170917T170017Z" creationid="steevie" creationdate="20161130T172730Z">
+        <seg>= DB.CONTA.NUMERI (Database,campo Database,criteri)</seg>
       </tuv>
     </tu>
     <tu>
