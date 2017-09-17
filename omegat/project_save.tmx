@@ -25224,6 +25224,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For compatibility, functions and their arguments in Calc have almost identical names to their counterparts in Microsoft Excel.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170917T164421Z" creationid="osvaldo" creationdate="20170917T164421Z">
+        <seg>Per ragioni di compatibilità, le funzioni e i loro argomenti in Calc hanno quasi sempre lo stesso nome dei corrispondenti in Microsoft Excel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For details, see Chapter 10, Printing, Exporting, and E-mailing, in the &lt;f0&gt;Getting Started&lt;/f0&gt; guide.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T160634Z" creationid="Luciano B." creationdate="20160329T160634Z">
@@ -27788,6 +27796,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160421T122715Z" creationid="steevie" creationdate="20160421T122702Z">
         <seg>Tuttavia, Calc apre i collegamenti ipertestuali con un solo click, qualsiasi sia la scelta per questa opzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, both Excel and Calc have functions that the other lacks.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170917T164536Z" creationid="osvaldo" creationdate="20170917T164536Z">
+        <seg>Comunque, sia Excel che Calc hanno funzioni che all'altro mancano.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36446,6 +36462,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T203823Z" creationid="Elisabetta" creationdate="20160815T203823Z">
         <seg>Questo codice di errore è obsoleto, ma può comunque essere generato da documenti datati, se il risultato è una formula proveniente da un'area.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Occasionally, functions with the same names in Calc and Excel have different arguments, or slightly different names for the same argument—neither of which can be imported to the other.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170917T164711Z" creationid="osvaldo" creationdate="20170917T164711Z">
+        <seg>Occasionalmente, le funzioni con gli stessi nomi in Calc ed Excel hanno argomenti diversi o nomi leggermente diversi per lo stesso argomento - nessuno dei quali può essere importato nell'altro.</seg>
       </tuv>
     </tu>
     <tu>
