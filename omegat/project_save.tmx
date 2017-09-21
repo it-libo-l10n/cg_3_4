@@ -9466,8 +9466,8 @@
       <tuv lang="EN">
         <seg>=IF(AVERAGE(A1:A3) &gt;85, "Congratulations!</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170921T104313Z" creationid="osvaldo" creationdate="20170921T104313Z">
-        <seg>=SE(AVERAGE(A1:A3) &gt;85, "Congratulations!</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170921T104356Z" creationid="osvaldo" creationdate="20170921T104313Z">
+        <seg>=SE(MEDIA(A1:A3) &gt;85, "Congratulazioni!</seg>
       </tuv>
     </tu>
     <tu>
