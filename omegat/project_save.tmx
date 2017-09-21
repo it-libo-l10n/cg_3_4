@@ -30832,6 +30832,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In A4, you can create a nested formula that begins by averaging the results of the quizzes with the formula &lt;f0&gt;=AVERAGE(A1:A3)&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170921T102808Z" creationid="osvaldo" creationdate="20170921T102808Z">
+        <seg>In A4, è possibile creare una formula annidata che inizia con il calcolo della media dei risultati dei quiz con la formula &lt;f0&gt;=MEDIA(A1:A3)&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In Calc 3.4, each sheet can have a maximum of 1,048,576 rows (65,536 rows in Calc 3.2 and earlier) and a maximum of 1024 columns.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T162904Z">
