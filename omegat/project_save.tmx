@@ -37330,6 +37330,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once open, the Function Wizard provides the same help features as the Function List, but adds fields in which you can see the result of a completed function, as well as the result of any larger formula of which it is part.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170921T125937Z" creationid="osvaldo" creationdate="20170921T125937Z">
+        <seg>Una volta aperta, la Creazione guidata funzioni fornisce le stesse funzioni di aiuto dell'elenco delle funzioni, ma aggiunge i campi in cui è possibile visualizzare il risultato di una funzione completata, nonché il risultato di una formula più grande di cui fa parte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once opened, there are no restrictions on what the user can do with the document (for example, print, copy, or change it).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T150546Z" creationid="Luciano B." creationdate="20160329T150546Z">
@@ -56856,6 +56864,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T161415Z" creationid="Elisabetta" creationdate="20160726T161415Z">
         <seg>Per aprire la finestra di dialogo Cerca e sostituisci selezionate il menu &lt;f0&gt;Modifica &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Trova e sostituisci,&lt;/f3&gt;&lt;f4&gt; o servitevi della combinazione di tasti appropriata per la versione di Calc in uso (Consultate la sezione “&lt;/f4&gt;&lt;f5&gt;&lt;rf6&gt;Tasto di scelta rapida Cerca e sostituisci&lt;/rf6&gt;&lt;/f5&gt;&lt;f7&gt;”, nota a pagina &lt;/f7&gt;&lt;f8&gt;&lt;rf9&gt;73&lt;/rf9&gt;&lt;/f8&gt;&lt;f10&gt;).&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To open the Function Wizard, choose &lt;f4&gt;Insert &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; Function&lt;/f7&gt;, or click the &lt;f8&gt;fx&lt;/f8&gt; button on the Function tool bar, or press &lt;f9&gt;Ctrl+F2&lt;/f9&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170921T125846Z" creationid="osvaldo" creationdate="20170921T125846Z">
+        <seg>Per aprire la procedura guidata, scegliere &lt;f4&gt;Inserisci &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; funzione&lt;/f7&gt;, oppure fare clic sul &lt;f8&gt;fx&lt;/f8&gt; sulla barra degli strumenti Funzione, o premere &lt;f9&gt;(Ctrl)+F2&lt;/f9&gt;.</seg>
       </tuv>
     </tu>
     <tu>
