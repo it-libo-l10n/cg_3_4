@@ -50900,6 +50900,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The formula then uses the &lt;f0&gt;IF&lt;/f0&gt; function to give the student feedback that depends upon the average grade on the quizzes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170921T103418Z" creationid="osvaldo" creationdate="20170921T103418Z">
+        <seg>La formula utilizza quindi la funzione &lt;f0&gt;SE&lt;/f0&gt; per fornire allo studente un riscontro che dipende dalla difficoltà media dei test.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The formula within the cell returns a value that does not correspond to the definition of the formula or functions used.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T195004Z" creationid="Elisabetta" creationdate="20160815T195004Z">
