@@ -9464,6 +9464,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>=IF(AVERAGE(A1:A3) &gt;85, "Congratulations!</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170921T104313Z" creationid="osvaldo" creationdate="20170921T104313Z">
+        <seg>=SE(AVERAGE(A1:A3) &gt;85, "Congratulations!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>=IF(C31&gt;140, "HIGH", "OK")</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170102T175646Z" creationid="osvaldo" creationdate="20170102T175646Z">
@@ -50407,6 +50415,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161201T153602Z" creationid="steevie" creationdate="20160511T141619Z">
         <seg>Lo spazio vuoto può trovarsi in qualsiasi foglio in qualsiasi posizione del documento Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The entire formula would read:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170921T104257Z" creationid="osvaldo" creationdate="20170921T104257Z">
+        <seg>L'intera formula verrebbe formulata come:</seg>
       </tuv>
     </tu>
     <tu>
