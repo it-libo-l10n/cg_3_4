@@ -36282,6 +36282,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notice that the nested formula for the average does not require its own equal sign.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170921T114850Z" creationid="osvaldo" creationdate="20170921T114850Z">
+        <seg>Si noti che la formula annidata per la media non richiede un proprio segno di uguale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notice that the sheets here are not in number order.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T122421Z" creationid="michele" creationdate="20160525T122421Z">
@@ -51712,6 +51720,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151254Z" creationid="steevie" creationdate="20161130T143302Z">
         <seg>La soluzione più ovvia è &lt;f2&gt;=CERCA.VERT("Francesco"; A2:G16; 6)&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The one at the start of the equation is enough for both formulas.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170921T114931Z" creationid="osvaldo" creationdate="20170921T114931Z">
+        <seg>Quello all'inizio dell'equazione è sufficiente per entrambe le formule.</seg>
       </tuv>
     </tu>
     <tu>
