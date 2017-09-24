@@ -5214,6 +5214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Formulas that do more than a simple calculation or summation of rows or columns of values usually take a number of arguments.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170924T153315Z" creationid="osvaldo" creationdate="20170924T153315Z">
+        <seg>&lt;f0&gt;Le formule che fanno più di un semplice calcolo o una somma di righe o colonne di valori di solito richiedono un certo numero di argomenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Frame:&lt;/f0&gt; where the target of the hyperlink will open: pick among &lt;f1&gt;_blank&lt;/f1&gt; (opens in a new browser window), &lt;f2&gt;_self&lt;/f2&gt; (opens in the active browser window), &lt;f3&gt;_top&lt;/f3&gt; or &lt;f4&gt;_parent&lt;/f4&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161212T154618Z" creationid="luciano" creationdate="20161212T153647Z">
