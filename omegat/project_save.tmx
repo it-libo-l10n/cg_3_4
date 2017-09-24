@@ -8110,6 +8110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;You&lt;/f0&gt; might be aware that you cannot use negative values or zero values for a particular argument, but if someone else inputs such a value will your formula be robust or simply return a standard (and often not too helpful) Err: message?</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170924T161057Z" creationid="osvaldo" creationdate="20170924T161016Z">
+        <seg>&lt;f0&gt;Tu&lt;/f0&gt; potresti essere consapevole che non è possibile utilizzare valori negativi o valori zero per un argomento specifico, ma se qualcun altro inserisce un tale valore, la tua formula sarà robusta o semplicemente restituirà un messaggio standard (e spesso non troppo utile) Err: ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;ZTEST&lt;/f0&gt;(data; number; sigma)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T181131Z" creationid="Marco Marega" creationdate="20160817T181041Z">
@@ -33405,6 +33413,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T101137Z" creationid="michele" creationdate="20160524T101055Z">
         <seg>Indica che &lt;f3&gt;LibreOffice&lt;/f3&gt; è stato caricato ed è pronto per essere usato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is a good idea to trap errors using some form of logic statements or with conditional formatting.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170924T161218Z" creationid="osvaldo" creationdate="20170924T161218Z">
+        <seg>È consigliabile intercettare gli errori utilizzando una qualche forma di istruzione logica o usando la formattazione condizionale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58984,6 +59000,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125326Z" creationid="steevie" creationdate="20160517T125326Z">
         <seg>Uso di un filtro speciale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use comments and notes liberally to document your work.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170924T160649Z" creationid="osvaldo" creationdate="20170924T160649Z">
+        <seg>Utilizza liberamente commenti e note per documentare il tuo lavoro.</seg>
       </tuv>
     </tu>
     <tu>
