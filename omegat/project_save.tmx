@@ -51572,6 +51572,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The formula is then copied over the remainder of Column D. The meaning of this formula roughly would be: &lt;s1/&gt;“If C3 is greater than 0, then compute B3 divided by C3, otherwise enter ‘No Report’”.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170925T175850Z" creationid="osvaldo" creationdate="20170925T175850Z">
+        <seg>La formula viene quindi copiata nel resto della colonna D. Il significato di questa formula sarebbe: &lt;s1/&gt; "Se C3 è maggiore di 0, calcolare B3 diviso per C3, altrimenti inserire 'No Report'".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The formula must use at least two variables, the alternative values for which &lt;f0&gt;&lt;f1&gt;should&lt;/f1&gt;&lt;/f0&gt; be arranged so that one set is along a single row and the other set appears in a single column.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T094458Z" creationid="michele" creationdate="20160608T094148Z">
