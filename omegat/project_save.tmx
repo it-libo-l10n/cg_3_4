@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(a) Cursor placed in cell</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170925T202422Z" creationid="osvaldo" creationdate="20170925T202422Z">
+        <seg>(a) Cursore posto in una cella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(left) One selected cell and (right) a group of selected cells</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T095502Z" creationid="michele" creationdate="20160525T095502Z">
@@ -9348,6 +9356,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160526T084800Z" creationid="michele" creationdate="20160526T084800Z">
         <seg>La &lt;t4&gt;Figura 225&lt;/t4&gt; mostra la finestra di dialogo dopo aver effettuato le modifiche descritte sotto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t8&gt;Figure 177&lt;/t8&gt; (below and next page) shows a simple example of tracing precedents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170925T202336Z" creationid="osvaldo" creationdate="20170925T202336Z">
+        <seg>&lt;t8&gt;Figura 177&lt;/t8&gt; (sotto e pagina successiva) mostra un semplice esempio di tracciamento di precedenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39374,6 +39390,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T131152Z" creationid="michele" creationdate="20160608T131152Z">
         <seg>Posiziona il cursore nel campo &lt;f0&gt;Cella variabile&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Place the cursor in the cell in question and then choose &lt;f0&gt;Tools &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Detective &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Trace Precedents&lt;/f6&gt; from the menu bar or press &lt;f7&gt;Shift+F7&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170925T202227Z" creationid="osvaldo" creationdate="20170925T202227Z">
+        <seg>Posizionare il cursore nella cella in questione e quindi scegliere &lt;f0&gt;Strumenti &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Detective &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Individua Precedenti&lt;/f6&gt; dalla barra del menù oppure premere &lt;f7&gt;Shift+F7&lt;/f7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
