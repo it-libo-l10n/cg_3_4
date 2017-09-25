@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>#VALUE No result&lt;ie0/&gt; and &lt;is1/&gt;#REF Incorrect references</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170925T181154Z" creationid="osvaldo" creationdate="20170925T181154Z">
+        <seg>#VALORE Nessun risultato&lt;ie0/&gt; e &lt;is1/&gt;#RIF riferimenti errati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>$US10.00 would be multiplied by 0.75 to convert to Euros, in this case Eur7.50.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T145652Z" creationid="osvaldo" creationdate="20170207T145652Z">
@@ -48915,6 +48923,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The #Value error is also very common.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170925T181249Z" creationid="osvaldo" creationdate="20170925T181249Z">
+        <seg>Anche l'errore #Valore errato è molto comune.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The $ signs before the D and the 1 convert the reference to cell D1 from relative to absolute or fixed.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T180626Z" creationid="osvaldo" creationdate="20170207T180612Z">
@@ -51598,8 +51614,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>The formula is then copied over the remainder of Column D. The meaning of this formula roughly would be: &lt;s1/&gt;“If C3 is greater than 0, then compute B3 divided by C3, otherwise enter ‘No Report’”.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170925T175850Z" creationid="osvaldo" creationdate="20170925T175850Z">
-        <seg>La formula viene quindi copiata nel resto della colonna D. Il significato di questa formula sarebbe: &lt;s1/&gt; "Se C3 è maggiore di 0, calcolare B3 diviso per C3, altrimenti inserire 'No Report'".</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170925T181031Z" creationid="osvaldo" creationdate="20170925T175850Z">
+        <seg>La formula viene quindi copiata nel resto della colonna D. Il significato di questa formula sarebbe: &lt;s1/&gt; "Se C3 è maggiore di 0, calcolare B3 diviso per C3, altrimenti inserire 'Nessun rapporto'".</seg>
       </tuv>
     </tu>
     <tu>
