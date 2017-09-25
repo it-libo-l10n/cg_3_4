@@ -33617,6 +33617,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It can also be used for tracing errors, marking invalid data (that is, information in cells that is not in the proper format for a function’s argument), or even for removing precedents and dependents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170925T201534Z" creationid="osvaldo" creationdate="20170925T201534Z">
+        <seg>Può anche essere utilizzato per tracciare gli errori, contrassegnando i dati non validi (cioè le informazioni nelle celle non presenti nel formato appropriato per l'argomento di una funzione) o anche per rimuovere precedenti e dipendenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It can be advantageous to select multiple sheets at times when you want to make changes to many sheets at once.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T124747Z" creationid="michele" creationdate="20160525T124747Z">
@@ -37790,6 +37798,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T150613Z" creationid="steevie" creationdate="20160503T150613Z">
         <seg>D'altra parte, se volete imparare di più sulle macro, potete fare riferimento al libro di Andrew Pitonyak&lt;f0&gt;OpenOffice.org Macros Explained&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the spreadsheet, you will see lines ending in circles to indicate precedents, and lines ending in arrows for dependents.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170925T201713Z" creationid="osvaldo" creationdate="20170925T201713Z">
+        <seg>Sul foglio di calcolo verranno visualizzate linee che terminano in cerchi per indicare precedenti e linee che terminano in frecce per dipendenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51996,6 +52012,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The lines show the flow of information.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170925T201735Z" creationid="osvaldo" creationdate="20170925T201735Z">
+        <seg>Le linee mostrano il flusso di informazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The list includes all the main menus as well as sub-menus, that is menus that are contained under another menu.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163149Z" creationid="steevie" creationdate="20160428T163149Z">
@@ -58480,6 +58504,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T084731Z" creationid="Elisabetta" creationdate="20160629T084731Z">
         <seg>Per creare una lista di scelta fate &lt;f0&gt;clic con il pulsante secondario del mouse&lt;/f0&gt; su una cella vuota e scegliete la voce &lt;f1&gt;Lista di scelta&lt;/f1&gt; dal menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To use the Detective, select a cell with a formula, then start the Detective.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170925T201625Z" creationid="osvaldo" creationdate="20170925T201625Z">
+        <seg>Per utilizzare il Detective, selezionare una cella con una formula, quindi avviare il Detective.</seg>
       </tuv>
     </tu>
     <tu>
