@@ -44210,6 +44210,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SUM, PRODUCT, and QUOTIENT are useful for entering ranges of cells in the same way as any other function, with arguments in brackets after the function name.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170925T204551Z" creationid="osvaldo" creationdate="20170925T204551Z">
+        <seg>SOMMA, PRODOTTO e QUOZIENTE sono utili per immettere intervalli di celle allo stesso modo di qualsiasi altra funzione, con argomenti tra parentesi dopo il nome della funzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SUMIF</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151439Z" creationid="steevie" creationdate="20160620T151439Z">
