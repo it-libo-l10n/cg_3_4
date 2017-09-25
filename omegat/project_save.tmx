@@ -51524,6 +51524,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The formula &lt;f0&gt;=IF(C3&gt;0, B3/C3, "No Report")&lt;/f0&gt; can be entered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170925T175548Z" creationid="osvaldo" creationdate="20170925T175548Z">
+        <seg>Può essere inserita la formula &lt;f0&gt;=SE(C3&gt;0, B3/C3, "Nessun rapporto")&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The formula &lt;f0&gt;=VLOOKUP(83; $Sheet2.$A$2:$B$7; 2)&lt;/f0&gt; is an obvious solution.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T150136Z" creationid="steevie" creationdate="20161130T150136Z">
