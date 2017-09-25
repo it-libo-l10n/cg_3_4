@@ -9362,8 +9362,8 @@
       <tuv lang="EN">
         <seg>&lt;t8&gt;Figure 177&lt;/t8&gt; (below and next page) shows a simple example of tracing precedents.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170925T202336Z" creationid="osvaldo" creationdate="20170925T202336Z">
-        <seg>&lt;t8&gt;Figura 177&lt;/t8&gt; (sotto e pagina successiva) mostra un semplice esempio di tracciamento di precedenti.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170925T202640Z" creationid="osvaldo" creationdate="20170925T202336Z">
+        <seg>&lt;t8&gt;Figura 177&lt;/t8&gt; (sotto e pagina successiva) mostra un semplice esempio di individuazione di precedenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23076,6 +23076,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170925T181531Z" creationid="osvaldo" creationdate="20170925T181531Z">
         <seg>Figura &lt;seq0&gt;176&lt;/seq0&gt;: immesso valore errato che causa l'errore #VALORE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;177&lt;/seq0&gt;: Tracing precedents using the Detective</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170925T202624Z" creationid="osvaldo" creationdate="20170925T202459Z">
+        <seg>Figura &lt;seq0&gt;177&lt;/seq0&gt;: Individuazione dei precedenti utilizzando il detective</seg>
       </tuv>
     </tu>
     <tu>
@@ -65100,6 +65108,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>b) Initiate trace by clicking Trace Precedents</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170925T202604Z" creationid="osvaldo" creationdate="20170925T202604Z">
+        <seg>b) Inizia la traccia facendo clic su Individua Precedenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>background</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160720T162959Z" creationid="briga" creationdate="20160720T162959Z">
@@ -65136,6 +65152,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170924T163741Z" creationid="osvaldo" creationdate="20170924T163039Z">
         <seg>dividere in più parti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>c) Source area highlighted in blue, with arrow pointing to the calculation cell</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170925T202735Z" creationid="osvaldo" creationdate="20170925T202735Z">
+        <seg>c) Zona di origine evidenziata in blu, con freccia che punta alla cella di calcolo</seg>
       </tuv>
     </tu>
     <tu>
