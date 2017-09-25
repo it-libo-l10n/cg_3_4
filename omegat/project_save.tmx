@@ -32,8 +32,8 @@
       <tuv lang="EN">
         <seg>#NAME?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T195205Z" creationid="Elisabetta" creationdate="20160815T195205Z">
-        <seg>#NAME?</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170925T174334Z" creationid="Elisabetta" creationdate="20160815T195205Z">
+        <seg>#NOME?</seg>
       </tuv>
     </tu>
     <tu>
@@ -42,6 +42,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T194707Z" creationid="Elisabetta" creationdate="20160815T194707Z">
         <seg>#NUM!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>#REF</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170925T174345Z" creationid="osvaldo" creationdate="20170925T174345Z">
+        <seg>#RIF</seg>
       </tuv>
     </tu>
     <tu>
@@ -56,8 +64,8 @@
       <tuv lang="EN">
         <seg>#VALUE</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T194934Z" creationid="Elisabetta" creationdate="20160815T194733Z">
-        <seg>#VALUE</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170925T174400Z" creationid="Elisabetta" creationdate="20160815T194733Z">
+        <seg>#VALORE</seg>
       </tuv>
     </tu>
     <tu>
@@ -12874,8 +12882,8 @@
       <tuv lang="EN">
         <seg>At other times, a cell or range used may have the wrong format, such as text instead of numbers.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170924T180956Z" creationid="osvaldo" creationdate="20170924T180956Z">
-        <seg>Altre volte, una cella o un intervallo utilizzato può avere il formato errato, ad esempio il testo invece dei numeri.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170925T174513Z" creationid="osvaldo" creationdate="20170924T180956Z">
+        <seg>Altre volte, una cella o un intervallo utilizzato può avere il formato errato, ad esempio testo invece che numeri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35675,8 +35683,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>Most error messages indicate a problem with how the formula was input, although several indicate that you have run up against a limitation of either Calc or its current settings.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170924T175644Z" creationid="osvaldo" creationdate="20170924T175644Z">
-        <seg>La maggior parte dei messaggi di errore indica un problema di come è stata inserita la formula, anche se alcuni indicano che avete incontrato una limitazione di Calc o delle sue impostazioni correnti.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170925T174237Z" creationid="osvaldo" creationdate="20170924T175644Z">
+        <seg>La maggior parte dei messaggi di errore indica un problema di come è stata inserita la formula, anche se alcuni indicano che si è incontrata una limitazione di Calc o delle sue impostazioni correnti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53934,8 +53942,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>The value may be entered incorrectly; for example, double-quotation marks may be missing around the value.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170924T180904Z" creationid="osvaldo" creationdate="20170924T180904Z">
-        <seg>Il valore può essere stato immesso in modo non corretto; per esempio,  potrebbero mancare intorno al valore le doppie virgolette .</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170925T174432Z" creationid="osvaldo" creationdate="20170924T180904Z">
+        <seg>Il valore può essere stato immesso in modo non corretto; per esempio,  potrebbero mancare intorno al valore le doppie virgolette.</seg>
       </tuv>
     </tu>
     <tu>
