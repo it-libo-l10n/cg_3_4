@@ -12792,6 +12792,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As an alternative to ROUNDDOWN when working with decimals, you can use TRUNC (short for truncate).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T201045Z" creationid="osvaldo" creationdate="20170926T201045Z">
+        <seg>In alternativa a ARROTONDA.DIFETTO quando si lavora con i decimali, è possibile utilizzare TRONCA (abbreviazione di troncamento).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As an example, &lt;t0&gt;Figure 348&lt;/t0&gt; shows the error code returned when a column is too narrow to display the entire formatted date.&lt;f1&gt; &lt;/f1&gt;The date displayed within the input line, 04/05/1998, would fit within the cell without a problem, but&lt;f2&gt; t&lt;/f2&gt;he format used by the cell produces the date value &lt;f3&gt;Sunday, April 05, 1998&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T193413Z" creationid="Elisabetta" creationdate="20160815T193413Z">
@@ -30544,6 +30552,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are not working with decimals, you might choose to use INT (short for integer), which takes only the number argument.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T201309Z" creationid="osvaldo" creationdate="20170926T201309Z">
+        <seg>Se non si sta lavorando con i decimali, è possibile scegliere di utilizzare INT (abbreviazione per intero), che prende solo l'argomento numero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are presenting data that has a known possibility of error, such as social surveys using a particular sampling method, or you want to show the measuring accuracy of the tool you used, you may wish to show error bars on the chart.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161127T180606Z" creationid="Andrea" creationdate="20161127T180606Z">
@@ -34421,6 +34437,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T105835Z" creationid="Elisabetta Manuele" creationdate="20170519T105835Z">
         <seg>Definisce il testo che sarà aggiunto come attributo &lt;f1&gt;Name&lt;/f1&gt; nel codice HTML del collegamento ipertestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It takes exactly the same arguments as ROUNDDOWN, so which function you use is a matter of choice.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T201213Z" creationid="osvaldo" creationdate="20170926T201213Z">
+        <seg>Prevede esattamente gli stessi argomenti di ARROTONDA.DIFETTO, quindi quale funzione utilizzare è una questione di preferenza.</seg>
       </tuv>
     </tu>
     <tu>
