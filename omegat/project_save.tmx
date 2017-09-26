@@ -13656,6 +13656,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Both LARGE and SMALL are handy as a permanent control, since, by changing the rank argument, you can quickly scan multiple results.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T055346Z" creationid="osvaldo" creationdate="20170926T055346Z">
+        <seg>Sia GRANDE che PICCOLO sono pratici come controlli permanenti, poiché, modificando l'argomento di rango, è possibile eseguire la scansione rapida di più risultati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Both of them returned their revised budget to you at the same time.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160428T152155Z" creationid="luciano" creationdate="20160428T152155Z">
@@ -28496,6 +28504,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, if the rank is 2, then the result is the second largest result.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T055148Z" creationid="osvaldo" creationdate="20170926T055148Z">
+        <seg>Tuttavia, se il rango è 2, il risultato è il secondo risultato più grande.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, if the result is a fraction or a percentage, the &lt;f0&gt;Pivot Table&lt;/f0&gt; does not recognize that this might be a problem; such results must either be without a unit or be displayed as a percentage.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T191138Z" creationid="Elisabetta Manuele" creationdate="20170303T191138Z">
@@ -29876,6 +29892,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T135016Z" creationid="steevie" creationdate="20160427T134856Z">
         <seg>Se l'intervallo A1:B1 è citato e una nuova riga viene inserita al di sotto della 1, il riferimento non è esteso, poiché vi è solo una cella nella direzione verticale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the rank is 1 used with LARGE, you get the same result as you would with MAX.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T055120Z" creationid="osvaldo" creationdate="20170926T055120Z">
+        <seg>Se il rango è 1 ed è usato con GRANDE, si otterrà lo stesso risultato di MAX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47238,6 +47262,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160216T071017Z">
         <seg>Come negli stili di paragrafo in &lt;f0&gt;LibreOffice&lt;/f0&gt; Writer, gli stili di cella sono il tipo di stille più basico in Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Similarly, a rank of 2 used with SMALL gives you the second smallest number.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T055220Z" creationid="osvaldo" creationdate="20170926T055220Z">
+        <seg>Allo stesso modo, un rango di 2 usato con PICCOLO ti dà il secondo numero più piccolo.</seg>
       </tuv>
     </tu>
     <tu>
