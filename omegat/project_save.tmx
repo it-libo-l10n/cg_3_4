@@ -37146,6 +37146,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that the result for types 1 through 3 may not represent an actual item entered.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T125428Z" creationid="osvaldo" creationdate="20170926T125428Z">
+        <seg>Si noti che il risultato dei tipi da 1 a 3 può non rappresentare un elemento effettivamente immesso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that there is a slider between the horizontal scrollbar and the sheet tabs that may be set to one end.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T144324Z" creationid="steevie" creationdate="20160427T143852Z">
@@ -40310,6 +40318,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160813T141940Z" creationid="Marco Marega" creationdate="20160813T141940Z">
         <seg>RANGO(valore; dati; tipo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>RANK: The position of a given entry in the entire list, measured either from top to bottom or bottom to top.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T125631Z" creationid="osvaldo" creationdate="20170926T125631Z">
+        <seg>RANGO: La posizione di una data voce nell'intera lista, misurata dall'alto verso il basso o dal basso verso l'alto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65064,6 +65080,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T172533Z" creationid="Elisabetta Manuele" creationdate="20170301T172533Z">
         <seg>È necessario operare una distinzione tra valori da raggruppare, se scalari o di altro tipo, per es., di testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You need to enter the cell address for the entry, the range of entries, and the type of rank (&lt;f0&gt;0&lt;/f0&gt; for the rank from the highest, or &lt;f1&gt;1&lt;/f1&gt; for the rank from the bottom.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T125723Z" creationid="osvaldo" creationdate="20170926T125723Z">
+        <seg>\You need to enter the cell address for the entry, the range of entries, and the type of rank (&lt;f0&gt;0&lt;/f0&gt; for the rank from the highest, or &lt;f1&gt;1&lt;/f1&gt; for the rank from the bottom.</seg>
       </tuv>
     </tu>
     <tu>
