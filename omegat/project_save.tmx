@@ -47218,6 +47218,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Similarly, to find the highest or lowest entry, you can use MIN or MAX.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T053729Z" creationid="osvaldo" creationdate="20170926T053729Z">
+        <seg>Analogamente, per trovare la voce maggiore o minore è possibile utilizzare MIN o MAX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Simon Brydon</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160130T090305Z">
@@ -48422,6 +48430,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170318T165030Z" creationid="Marco Marega" creationdate="20170318T165030Z">
         <seg>Trasformazioni ripetute fanno si che residuino sempre meno dati originali, compromettendo quindi la qualità dell'immagine inserita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Such reasons explain the existence of a function like COUNT, which does no more than give the total number of entries in the designated cell range.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T053739Z" creationid="osvaldo" creationdate="20170926T053558Z">
+        <seg>Tali motivi spiegano l'esistenza di una funzione come CONTA, che non fa altro che fornire il numero totale di voci nell'intervallo di celle specificato.</seg>
       </tuv>
     </tu>
     <tu>
