@@ -26600,6 +26600,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance, the formula =ROUND((SUM(A1,A2)) adds the figures in cells A1 and A2, then rounds them off to the nearest whole number.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T192223Z" creationid="osvaldo" creationdate="20170926T192223Z">
+        <seg>Ad esempio, la formula =ARROTONDA((SUM (A1,A2)) aggiunge le cifre nelle celle A1 e A2, poi le arrotonda al numero intero più vicino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For many analyses or summaries, the categories have to be grouped.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T172226Z" creationid="Elisabetta Manuele" creationdate="20170301T172226Z">
@@ -28492,6 +28500,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T133900Z" creationid="steevie" creationdate="20160427T133900Z">
         <seg>Tuttavia, celle che possiedono già un formato speciale non saranno modificate da questa funzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, even though you do not need to work with exact figures every day, you may still want to refer to them occasionally.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T192427Z" creationid="osvaldo" creationdate="20170926T192427Z">
+        <seg>Tuttavia, anche se non è necessario lavorare con cifre esatte ogni giorno, si può ancora voler fare riferimento a loro occasionalmente.</seg>
       </tuv>
     </tu>
     <tu>
