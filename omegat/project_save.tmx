@@ -28488,6 +28488,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, at times, you may not want to follow these rules.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T193059Z" creationid="osvaldo" creationdate="20170926T193059Z">
+        <seg>Tuttavia, a volte, non si desidera seguire queste regole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, both Excel and Calc have functions that the other lacks.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170917T164536Z" creationid="osvaldo" creationdate="20170917T164536Z">
@@ -55816,6 +55824,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T133248Z" creationid="Marco Marega" creationdate="20160820T133248Z">
         <seg>Questa funzione restituisce un valore nella cella attiva; non è necessario definire un intervallo per i risultati.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Matrice&lt;/f1&gt; è una matrice quadrata nella quale sono definiti i determinanti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This function will round off a number according to the usual rules of symmetric arithmetic rounding: a decimal place of .4 or less gets rounded down, while one of .5 or more gets rounded up.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T193030Z" creationid="osvaldo" creationdate="20170926T193030Z">
+        <seg>Questa funzione arrotonderà un numero secondo le regole usuali di arrotondamento aritmetico simmetrico: una cifra decimale di .4 o meno viene arrotondato verso il basso, mentre uno di .5 o più viene arrotondato verso l'alto.</seg>
       </tuv>
     </tu>
     <tu>
