@@ -29576,6 +29576,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If that is the case, then you are probably better off separating the two functions, placing =SUM(A1,A2) in cell A3, and =ROUND (A3) in A4, and clearly labelling each function.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T192535Z" creationid="osvaldo" creationdate="20170926T192535Z">
+        <seg>Se è così, allora probabilmente è meglio separare le due funzioni, immettendo = SOMMA(A1, A2) nella cella A3 e = ARROTONDA(A3) in A4 e indicando chiaramente ogni funzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the &lt;/f4&gt;&lt;f5&gt;Keys&lt;/f5&gt;&lt;f6&gt; list is empty, it indicates that the chosen key combination is free for use.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170918Z" creationid="steevie" creationdate="20160428T170918Z">
@@ -44170,6 +44178,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rounding methods</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T192624Z" creationid="osvaldo" creationdate="20170926T192624Z">
+        <seg>Metodi di arrotondamento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rounding off numbers</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T141338Z" creationid="osvaldo" creationdate="20170926T141338Z">
@@ -52800,6 +52816,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T173009Z" creationid="Elisabetta" creationdate="20160628T173009Z">
         <seg>La soluzione più semplice è quella di trascinare dati da una cella all'altra con il mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The most basic function for rounding numbers in Calc is &lt;is0/&gt;ROUND&lt;ie1/&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T192728Z" creationid="osvaldo" creationdate="20170926T192728Z">
+        <seg>La funzione fondamentale per l'arrotondamento dei numeri in Calc è &lt;is0/&gt;ARROTONDA&lt;ie1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68081,6 +68105,14 @@ ordine di calcolo</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Administrator" changedate="20170626T215106Z" creationid="Administrator" creationdate="20170626T215106Z">
         <seg>rotazione, interattiva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rounding methods</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T192556Z" creationid="osvaldo" creationdate="20170926T192556Z">
+        <seg>metodo di arrotondamento</seg>
       </tuv>
     </tu>
     <tu>
