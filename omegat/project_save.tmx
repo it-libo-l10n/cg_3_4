@@ -13584,6 +13584,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Besides number and significance, both CEILING and FLOOR include an optional argument called mode, which takes a value of 0 or 1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T205435Z" creationid="osvaldo" creationdate="20170926T205435Z">
+        <seg>Oltre al numero e al significato, sia il CEILING che FLOOR includono un argomento opzionale denominato modo, che richiede un valore di 0 o 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Besides the cell range, you enter the type of Quartile: 0 for the lowest entry, 1 for the value of 25%, 2 for the value of 50%, 3 for 75%, and 4 for the highest entry.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T125224Z" creationid="osvaldo" creationdate="20170926T125224Z">
@@ -29532,6 +29540,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170924Z" creationid="steevie" creationdate="20160428T170924Z">
         <seg>Se così non fosse, e desiderate riassegnare una combinazione di tasti di scelta rapida già in uso, dovete prima &lt;/f6&gt;eliminare&lt;f7&gt; la combinazione di t&lt;/f7&gt;asti&lt;f8&gt; esistente.&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If mode is set to 0, and both the number and the significance are negative numbers, then the result of either function is rounded up; if it is set to 1, and both the number and the significance are negative numbers, then the results are rounded down.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T205950Z" creationid="osvaldo" creationdate="20170926T205950Z">
+        <seg>If modo è impostato a 0, e sia il numero che la significanza sono numeri negativi, il risultato di entrambe le funzioni è arrotondato; se è impostato a 1, e sia il numero che la significanza sono numeri negativi, allora il risultato  è arrotondato per difetto.</seg>
       </tuv>
     </tu>
     <tu>
