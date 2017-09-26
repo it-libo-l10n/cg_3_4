@@ -13536,6 +13536,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Besides the cell range, you enter the type of Quartile: 0 for the lowest entry, 1 for the value of 25%, 2 for the value of 50%, 3 for 75%, and 4 for the highest entry.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T125224Z" creationid="osvaldo" creationdate="20170926T125224Z">
+        <seg>Oltre all'intervallo di celle, si immette il tipo di Quartile: 0 per la voce più bassa, 1 per il valore del 25%, 2 per il valore del 50%, 3 per il 75% e 4 per la più alta voce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Better use of OFFSET.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T164311Z" creationid="steevie" creationdate="20161130T161339Z">
@@ -40214,6 +40222,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160813T141726Z" creationid="Marco Marega" creationdate="20160813T141726Z">
         <seg>QUARTILE(dati; tipo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>QUARTILE:The entry at a set position in the array of numbers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T125001Z" creationid="osvaldo" creationdate="20170926T125001Z">
+        <seg>QUARTILE: La voce in una posizione impostata nella matrice dei numeri.</seg>
       </tuv>
     </tu>
     <tu>
