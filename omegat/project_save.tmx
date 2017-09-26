@@ -11648,6 +11648,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All three of these functions require the single argument of number—the cell or number to be rounded.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T193736Z" creationid="osvaldo" creationdate="20170926T193736Z">
+        <seg>Tutte e tre queste funzioni richiedono come unico argomento il numero: la cella o il numero da arrotondare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All trademarks within this guide belong to their legitimate owners.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20160129T124840Z">
@@ -33173,6 +33181,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170925T201127Z" creationid="osvaldo" creationdate="20170925T201127Z">
         <seg>In questi casi, si consiglia di utilizzare il sottomenu sotto &lt;f0&gt;Strumenti &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Detective&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In these cases, you might prefer to use &lt;is2/&gt;ROUNDUP&lt;ie3/&gt; or &lt;is4/&gt;ROUNDDOWN&lt;ie5/&gt;, which, as their names suggest, round a number to the nearest integer above or below it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T193635Z" creationid="osvaldo" creationdate="20170926T193635Z">
+        <seg>In questi casi, è preferibile utilizzare &lt;is2/&gt;ARROTONDA:ECCESSO&lt;ie3/&gt; o &lt;is4/&gt;ARROTONDA.DIFETTO&lt;ie5/&gt;, che, come suggeriscono i loro nomi, arrotondano un numero all'intero più vicino al di sopra o al di sotto.</seg>
       </tuv>
     </tu>
     <tu>
