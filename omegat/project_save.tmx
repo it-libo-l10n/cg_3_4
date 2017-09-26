@@ -26576,6 +26576,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance, if number was set to 1, then 48.65 would round to 48.7 with ROUND or ROUNDUP and to 48.6 with ROUNDDOWN.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T200854Z" creationid="osvaldo" creationdate="20170926T200854Z">
+        <seg>Ad esempio, se Numero è stato impostato su 1, allora 48.65 si arrotonda a 48.7 con ROUND o ROUNDUP e a 48.6 con ROUNDDOWN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, if you are one of those contractors who bills a full hour for any fraction of an hour you work, you would want to always round up so you did not lose any money.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T193319Z" creationid="osvaldo" creationdate="20170926T193319Z">
