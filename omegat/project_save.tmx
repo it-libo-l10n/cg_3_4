@@ -31976,6 +31976,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In other words, to enter the equivalent of =SUM (A1:A3), you would need to type =A1+A2+A3.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T052128Z" creationid="osvaldo" creationdate="20170926T052128Z">
+        <seg>In altre parole,per inserire l'equivalente di =SOMMA (A1:A3), si dovrebbe digitare =A1+A2+A3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In other words, you are not likely to hear someone refer to a column of data as a single database record.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T152223Z" creationid="steevie" creationdate="20160503T152223Z">
@@ -52352,6 +52360,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170922T052232Z" creationid="osvaldo" creationdate="20170922T052232Z">
         <seg>Il principale vantaggio rispetto all'elenco delle funzioni è che ogni argomento viene inserito nel proprio campo, rendendone più facile la gestione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The main disadvantage of using arithmetical operators is that you cannot directly use a range of cells.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T051944Z" creationid="osvaldo" creationdate="20170926T051944Z">
+        <seg>Lo svantaggio principale di utilizzare gli operatori aritmetici è che non è possibile utilizzare direttamente un intervallo di celle.</seg>
       </tuv>
     </tu>
     <tu>
