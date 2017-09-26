@@ -28472,6 +28472,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, for the rest of us, there are simpler statistical functions that you can quickly learn to use.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T123109Z" creationid="osvaldo" creationdate="20170926T123109Z">
+        <seg>Tuttavia, per il resto di noi, ci sono funzioni statistiche più semplici che si possono rapidamente imparare ad usare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, if outline groups are nested, the controls have numbered buttons for hiding the different levels.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160723T163121Z" creationid="Elisabetta" creationdate="20160723T163121Z">
@@ -31792,6 +31800,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition, you can get other information about the data set:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T124120Z" creationid="osvaldo" creationdate="20170926T124120Z">
+        <seg>Inoltre, è possibile ottenere altre informazioni sull'insieme di dati:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In all cases you should adopt the basic principles of formula creation described previously.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170924T170339Z" creationid="osvaldo" creationdate="20170924T170339Z">
@@ -32100,6 +32116,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T175447Z" creationid="Elisabetta Manuele" creationdate="20170519T175447Z">
         <seg>Nell'esempio sottostante abbiamo optato per dBASE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In particular, if you need an average, you have a number to choose from.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T123320Z" creationid="osvaldo" creationdate="20170926T123320Z">
+        <seg>In particolare, se si ha bisogno di una media, si ha un numero da scegliere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35337,6 +35361,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>MEDIAN: The entry that is exactly half way between the highest and lowest number in a list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T124600Z" creationid="osvaldo" creationdate="20170926T124600Z">
+        <seg>MEDIANA: La voce che è esattamente a metà tra il numero più alto e quello più basso in un elenco..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>MID(text; start; number)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T213815Z" creationid="Marco Marega" creationdate="20160822T213222Z">
@@ -35405,6 +35437,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T191205Z" creationid="Marco Marega" creationdate="20160807T191205Z">
         <seg>MODA(numero_1; numero_2; ... numero_30)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MODE: The most common entry in a list of numbers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T124759Z" creationid="osvaldo" creationdate="20170926T124759Z">
+        <seg>MODA: La voce più comune in un elenco di numeri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64060,6 +64100,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can find the arithmetical mean—that is, the result when you add all entries in a list then divided by the number of entries by enter a range of numbers when using AVERAGE, or AVERAGE A to include text entries and to give them a value of zero.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T124005Z" creationid="osvaldo" creationdate="20170926T124005Z">
+        <seg>È possibile trovare la media aritmetica -- ovvero il risultato che si ottiene quando si sommano tutte le voci in un elenco e poi si divide per il numero di voci, inserendo una serie di numeri quando si utilizza MEDIA o MEDIA.VALORI per includere le voci di testo e per dare loro il valore zero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can format your list by using cell formats.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T113543Z" creationid="Andrea" creationdate="20160808T111508Z">
@@ -65080,6 +65128,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170916T095723Z" creationid="osvaldo" creationdate="20170916T095723Z">
         <seg>Apparirà il seguente messaggio::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You would need to be an expert to want to find the Poisson Distribution of a sample, or to find the skew or negative binomial of a distribution (and, if you are, you will find functions in Calc for such things).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T074725Z" creationid="osvaldo" creationdate="20170926T074725Z">
+        <seg>Si dovrebbe essere esperti per calcolare la distribuzione di Poisson di un campione o per calcolare la deviazione o la distribuzione binomiale negativa (e, se lo siete, troverete funzioni in Calc adatte per tali scopi).</seg>
       </tuv>
     </tu>
     <tu>
