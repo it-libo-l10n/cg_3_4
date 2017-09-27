@@ -60718,8 +60718,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>Used with only this argument, all three functions round to the nearest whole number, so that 46.5 would round to 47 with ROUND or ROUNDUP and 46 with ROUNDDOWN.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T200443Z" creationid="osvaldo" creationdate="20170926T200443Z">
-        <seg>Utilizzate solo con questo argomento, tutte e tre le funzioni arrotondano al numero intero più vicino, in modo che 46.5 viene arrotondato a 47 con ROUND o ROUNDUP e a 46 con ROUNDDOWN.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T032901Z" creationid="osvaldo" creationdate="20170926T200443Z">
+        <seg>Utilizzate solo con questo argomento, tutte e tre le funzioni arrotondano al numero intero più vicino, in modo che 46,5 viene arrotondato a 47 con ARROTONDA o ARROTONDA.ECCESSO e a 46 con ARROTONDA.DIFETTO.</seg>
       </tuv>
     </tu>
     <tu>
