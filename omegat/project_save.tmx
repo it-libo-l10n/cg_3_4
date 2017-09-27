@@ -31576,6 +31576,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you wish to test using regular expressions, try the COUNTIF function: COUNTIF(A1,"r.d") will return 1 or 0, interpreted as TRUE or FALSE in formulas like =IF(COUNTIF(A1,"r.d"),"hooray","boo").</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T132314Z" creationid="osvaldo" creationdate="20170927T132314Z">
+        <seg>Se si vuole verificare usando le espressioni regolari, provare la funzione CONTA.SE: CONTA.SE(A1,"r.d") ritornerà 1 o 0, interpretata come VERO o FALSO in formule del tipo =IF(CONTA.SE(A1,"r.d"),"hooray","boo").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you wish to use this function to its full extent, we strongly recommend that that you upgrade to LibreOffice version 3.5, which fully implements Pivot Table's functionality.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T180258Z" creationid="Andrea" creationdate="20160725T163244Z">
