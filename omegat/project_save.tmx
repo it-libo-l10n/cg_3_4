@@ -12202,8 +12202,8 @@
       <tuv lang="EN">
         <seg>An expression using the intersection operator has the following syntax:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T174420Z" creationid="osvaldo" creationdate="20170206T174420Z">
-        <seg>Una espressione scritta usando l'operatore di  intersezione ha ls seguente sintassi:</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T203615Z" creationid="osvaldo" creationdate="20170206T174420Z">
+        <seg>Una espressione scritta usando l'operatore di  intersezione ha la seguente sintassi:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13922,8 +13922,8 @@
       <tuv lang="EN">
         <seg>But if you name the cell B4 for example with &lt;f0&gt;_start&lt;/f0&gt; and A2 with &lt;f1&gt;_end&lt;/f1&gt;, you can use &lt;f2&gt;_start:_end&lt;/f2&gt; without any error.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T171618Z" creationid="osvaldo" creationdate="20170206T171618Z">
-        <seg>Ma se si chiama la cella B4 per esempio con &lt;f0&gt;_start&lt;/f0&gt; e A2 con &lt;f1&gt;_end&lt;/f1&gt;, si può usare &lt;f2&gt;_start:_end&lt;/f2&gt; senza nessun errore.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T203402Z" creationid="osvaldo" creationdate="20170206T171618Z">
+        <seg>Ma se si chiama la cella B4 per esempio con &lt;f0&gt;_inizio&lt;/f0&gt; e A2 con &lt;f1&gt;_fine&lt;/f1&gt;, si può usare &lt;f2&gt;_inizio:_fine&lt;/f2&gt; senza nessun errore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54550,8 +54550,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>The second is a function call with 1 parameter, which is a reference list.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T174152Z" creationid="osvaldo" creationdate="20170206T174152Z">
-        <seg>La seconda è una chiamata di funzione con 1 parametro, che è una lista di riferimento..</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T203553Z" creationid="osvaldo" creationdate="20170206T174152Z">
+        <seg>La seconda è una chiamata di funzione con 1 parametro, che è una lista di riferimento.</seg>
       </tuv>
     </tu>
     <tu>
