@@ -23280,6 +23280,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;179&lt;/seq0&gt;: Using the &lt;is1/&gt;COUNTIF&lt;ie2/&gt; function</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T125216Z" creationid="osvaldo" creationdate="20170927T125216Z">
+        <seg>Figura &lt;seq0&gt;179&lt;/seq0&gt;: Uso della funzione &lt;is1/&gt;CONTA.SE&lt;ie2/&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Text Import dialog, with Comma (,) selected as the separator and double quotation mark (“) as the text delimiter.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T125813Z" creationid="michele" creationdate="20160524T125813Z">
@@ -29772,6 +29780,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T192535Z" creationid="osvaldo" creationdate="20170926T192535Z">
         <seg>Se è così, allora probabilmente è meglio separare le due funzioni, immettendo = SOMMA(A1, A2) nella cella A3 e = ARROTONDA(A3) in A4 e indicando chiaramente ogni funzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If that setting &lt;f5&gt;is&lt;/f5&gt; selected, then it can be overcome by wrapping the expression thus: =COUNTIF(A1:A6,".*r.d.*").</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T125136Z" creationid="osvaldo" creationdate="20170927T125136Z">
+        <seg>Se tale opzione &lt;f5&gt;è&lt;/f5&gt; selezionata, allora può essere superato avvolgendo l'espressione tra apici in questo modo: =CONTA.SE(A1:A6,".*r.d.*").</seg>
       </tuv>
     </tu>
     <tu>
