@@ -10992,6 +10992,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Activating the &lt;f0&gt;Enable regular expressions in formulas&lt;/f0&gt; option means all the above functions will require any regular expression special characters (such as parentheses) used in strings within formulas, to be preceded by a backslash, despite not being part of a regular expression.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T134758Z" creationid="osvaldo" creationdate="20170927T134758Z">
+        <seg>Attivando l'opzione &lt;f0&gt;Permetti espressioni regolari nelle formule&lt;/f0&gt; significa che le precedenti funzioni richiederanno che tutti i caratteri speciali usati in stringhe entro le formule (come le parentesi) siano precedute da barra anche se non sono parte di una espressione regolare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add a tilde (~) in front of the letter that you want to use as an accelerator.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164229Z" creationid="steevie" creationdate="20160428T164229Z">
