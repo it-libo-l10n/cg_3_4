@@ -13586,8 +13586,8 @@
       <tuv lang="EN">
         <seg>Besides number and significance, both CEILING and FLOOR include an optional argument called mode, which takes a value of 0 or 1.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T030621Z" creationid="osvaldo" creationdate="20170926T205435Z">
-        <seg>Oltre al numero e alla significatività, sia il CEILING che FLOOR includono un argomento opzionale denominato modo, che richiede un valore di 0 o 1.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T035444Z" creationid="osvaldo" creationdate="20170926T205435Z">
+        <seg>Oltre al numero e al peso, sia CEILING che FLOOR includono un argomento opzionale denominato modo, che richiede un valore di 0 o 1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18530,8 +18530,8 @@
       <tuv lang="EN">
         <seg>Conversely, if you are building customized computers and completed 4.5 in a day, your client would only be interested in the number ready to ship, so you might use FLOOR in a report of your progress.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T030757Z" creationid="osvaldo" creationdate="20170926T205117Z">
-        <seg>Al contrario, se si sta costruendo dei computer personalizzati e se ne completano 4,5 in un giorno, il cliente sarebbe solo interessato al numero di quelli pronti per la spedizione, pertanto si potrebbe usare FLOOR in un report del lavoro svolto.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T035410Z" creationid="osvaldo" creationdate="20170926T205117Z">
+        <seg>Al contrario, se si stanno realizzando dei computer personalizzati e se ne completano 4,5 in un giorno, il cliente sarebbe solo interessato al numero di quelli pronti per la spedizione, pertanto si potrebbe usare FLOOR in un report del lavoro svolto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29546,8 +29546,8 @@
       <tuv lang="EN">
         <seg>If mode is set to 0, and both the number and the significance are negative numbers, then the result of either function is rounded up; if it is set to 1, and both the number and the significance are negative numbers, then the results are rounded down.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T030554Z" creationid="osvaldo" creationdate="20170926T205950Z">
-        <seg>Se modo è impostato a 0, e sia il numero che la significatività sono numeri negativi, il risultato di entrambe le funzioni è arrotondato; se è impostato a 1, e sia il numero che la significatività sono numeri negativi, allora il risultato  è arrotondato per difetto.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T035531Z" creationid="osvaldo" creationdate="20170926T205950Z">
+        <seg>Se modo è impostato a 0, e sia il numero che il peso sono numeri negativi, il risultato di entrambe le funzioni è arrotondato in eccesso; se è impostato a 1, e sia il numero che il peso sono numeri negativi, allora il risultato  è arrotondato per difetto.</seg>
       </tuv>
     </tu>
     <tu>
