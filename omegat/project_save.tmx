@@ -26626,8 +26626,8 @@
       <tuv lang="EN">
         <seg>For instance, if number was set to 1, then 48.65 would round to 48.7 with ROUND or ROUNDUP and to 48.6 with ROUNDDOWN.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T200854Z" creationid="osvaldo" creationdate="20170926T200854Z">
-        <seg>Ad esempio, se Numero è stato impostato su 1, allora 48.65 si arrotonda a 48.7 con ROUND o ROUNDUP e a 48.6 con ROUNDDOWN.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T032239Z" creationid="osvaldo" creationdate="20170926T200854Z">
+        <seg>Ad esempio, se Numero è stato impostato su 1, allora 48,65 si arrotonda a 48,7 con ROUND o ROUNDUP e a 48,6 con ROUNDDOWN.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55982,8 +55982,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>This function will round off a number according to the usual rules of symmetric arithmetic rounding: a decimal place of .4 or less gets rounded down, while one of .5 or more gets rounded up.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T193030Z" creationid="osvaldo" creationdate="20170926T193030Z">
-        <seg>Questa funzione arrotonderà un numero secondo le regole usuali di arrotondamento aritmetico simmetrico: una cifra decimale di .4 o meno viene arrotondato verso il basso, mentre uno di .5 o più viene arrotondato verso l'alto.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T032308Z" creationid="osvaldo" creationdate="20170926T193030Z">
+        <seg>Questa funzione arrotonderà un numero secondo le regole usuali di arrotondamento aritmetico simmetrico: una cifra decimale di 0,4 o meno viene arrotondato verso il basso, mentre uno di 0,5 o più viene arrotondato verso l'alto.</seg>
       </tuv>
     </tu>
     <tu>
