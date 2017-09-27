@@ -63604,6 +63604,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Writing Add-ins requires knowledge of the C++ language, the &lt;/f3&gt;&lt;f4&gt;LibreOffice&lt;/f4&gt;&lt;f5&gt; SDK, and is for experienced programmers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T135721Z" creationid="osvaldo" creationdate="20170927T135721Z">
+        <seg>La scrittura di componenti aggiuntivi richiede la conoscenza del linguaggio C ++, SDK &lt;/f3&gt; &lt;f4&gt; LibreOffice &lt;/f4&gt; &lt;f5&gt; ed è destinato a programmatori esperti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Writing macros that act like built-in functions</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160615T160350Z" creationid="luciano" creationdate="20160615T160350Z">
