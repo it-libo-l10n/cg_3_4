@@ -51883,6 +51883,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The difference between MROUND and CEILING and FLOOR is that MROUND rounds up or down using symmetric arithmetic rounding.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T042341Z" creationid="osvaldo" creationdate="20170927T042139Z">
+        <seg>La differenza tra ARROTONDA.MULTIPLO, ARROTONDA.ECCESSO e ARROTONDA.DIFETTO è che ARROTONDA.MULTIPLO arrotonda in eccesso o in difetto utilizzando l'arrotondamento aritmetico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The difference between a DDE object and a Linked OLE object is that a Linked OLE object can be edited from the document in which it is added as a link, but a DDE object cannot.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T164144Z" creationid="Elisabetta Manuele" creationdate="20170523T164144Z">
