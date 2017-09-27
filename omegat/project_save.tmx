@@ -26626,8 +26626,8 @@
       <tuv lang="EN">
         <seg>For instance, if number was set to 1, then 48.65 would round to 48.7 with ROUND or ROUNDUP and to 48.6 with ROUNDDOWN.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T032239Z" creationid="osvaldo" creationdate="20170926T200854Z">
-        <seg>Ad esempio, se Numero è stato impostato su 1, allora 48,65 si arrotonda a 48,7 con ROUND o ROUNDUP e a 48,6 con ROUNDDOWN.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T033248Z" creationid="osvaldo" creationdate="20170926T200854Z">
+        <seg>Ad esempio, se Numero è stato impostato su 1, allora 48,65 si arrotonda a 48,7 con ARROTONDA o ARROTONDA.PER.ECC e a 48,6 con ARROTONDA.PER.DIF.</seg>
       </tuv>
     </tu>
     <tu>
