@@ -31368,6 +31368,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want the answers to be consistent between the two spreadsheets, set the mode in Calc to -1.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T035951Z" creationid="osvaldo" creationdate="20170927T035951Z">
+        <seg>Se si desidera che le risposte siano coerenti tra i due fogli di calcolo, impostare modo in Calc a -1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want the argument to remain unchanged, you must enter a rule that specifically states that the cell should be equal to its current entry.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160608T132626Z" creationid="michele" creationdate="20160608T132626Z">
@@ -39188,8 +39196,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Options are the &lt;is0/&gt;CEILING&lt;ie1/&gt; and &lt;is2/&gt;FLOOR&lt;ie3/&gt; functions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T034749Z" creationid="osvaldo" creationdate="20170926T201758Z">
-        <seg>in alternativa ci sono le funzioni &lt;is0/&gt;CEILING&lt;ie1/&gt; e &lt;is2/&gt;FLOOR&lt;ie3/&gt;.</seg>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T040210Z" creationid="osvaldo" creationdate="20170926T201758Z">
+        <seg>in alternativa ci sono le funzioni &lt;is0/&gt;ARROTONDA.ECCESSO&lt;ie1/&gt; e &lt;is2/&gt;ARROTONDA.DIFETTO&lt;ie3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
