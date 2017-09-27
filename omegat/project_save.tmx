@@ -26208,6 +26208,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if the number is 77 and the multiple is 5, then MROUND gives a result of 75.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T042458Z" creationid="osvaldo" creationdate="20170927T042458Z">
+        <seg>Per esempio, se il numero è 77 ed il multiplo è 5, allora ARROTONDA.MULTIPLO fornisce il risultato di 75.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if the top two rows of the sheet as well as column A need to be printed on all pages, do the following:</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T101806Z">
@@ -28660,6 +28668,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T162538Z" creationid="Elisabetta Manuele" creationdate="20170519T162538Z">
         <seg>Tuttavia se il file contiene più tabelle e desiderate sceglierne solo una, l'operazione potrebbe rivelarsi poco agevole, in questo caso sarebbe consigliabile optare per il metodo tramite Navigatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, if the multiple is changed to 7, then MROUND’s result becomes 77.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T042544Z" creationid="osvaldo" creationdate="20170927T042544Z">
+        <seg>Tuttavia, se il multiplo è cambiato a 7, il risultato di ARROTONDA.MULTIPLO diventa 77.</seg>
       </tuv>
     </tu>
     <tu>
