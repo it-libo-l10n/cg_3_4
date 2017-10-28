@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_0_9954:9957" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(For large time series a line chart would be better.) It is the default chart type, as it is one of the most useful charts and the easiest to understand.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170713T152936Z" creationid="Administrator" creationdate="20170713T152936Z">
+        <seg>(Per serie temporali di grandi dimensioni i diagrammi a barre sono piu' indicati). E' il tipo di grafico predefinito, dal momento che e' uno dei grafici piu' utili e piu' facili da capire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(In &lt;t0&gt;Figure 266&lt;/t0&gt;, the source is named &lt;f1&gt;actives&lt;/f1&gt;.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T170833Z" creationid="Elisabetta Manuele" creationdate="20170519T170833Z">
@@ -254,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Left): Plain net chart without grids and with just points, no lines.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171003T104608Z" creationid="Administrator" creationdate="20171003T104335Z">
+        <seg>(A sinistra): Diagramma reticolare semplice con soli punti, senza griglie ne' linee  .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Note that you can only reapply styles.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160823T060630Z" creationid="briga" creationdate="20160823T060630Z">
@@ -274,6 +290,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T091351Z" creationid="Elisabetta" creationdate="20160629T091240Z">
         <seg>(la ripetizione del comando &lt;f2&gt;Evidenzia i dati non validi&lt;/f2&gt; nel sottomenu Detective &lt;s3/&gt;eliminerà il cerchio che racchiude i dati non validi proprio perché non sono più tali). Per &lt;t4/&gt;estendere una regola di validità alle altre celle, scegliete la voce &lt;f5&gt;Modifica &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; Incolla speciale &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; Incolla formato&lt;/f11&gt; o &lt;f12&gt;Incolla tutto&lt;/f12&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(Right): Net chart with lines, points and grid.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171003T104657Z" creationid="Administrator" creationdate="20171003T104657Z">
+        <seg>(A destra): Diagramma reticolare con linee, punti e griglia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1326,6 +1350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>2D pie chart with one part of the pie exploded: Choose &lt;f0&gt;&lt;f1&gt;Insert&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;Legend&lt;/f9&gt;&lt;/f8&gt; and deselect the &lt;f10&gt;Display legend&lt;/f10&gt; box.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170823T133954Z" creationid="Administrator" creationdate="20170823T133954Z">
+        <seg>Grafico a torta in 2D con un settore della torta esploso: Selezionate &lt;f0&gt;&lt;f1&gt;Inserimento&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;Legenda&lt;/f9&gt;&lt;/f8&gt; e deselezionate il riquadro &lt;f10&gt;Mostra legenda&lt;/f10&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>3</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T151641Z" creationid="steevie" creationdate="20160503T151641Z">
@@ -1666,6 +1698,30 @@
       </tuv>
       <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20161002T181409Z" creationid="emanuelegiusti" creationdate="20160611T084438Z">
         <seg>grafico 3D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3D lines confuse the viewer, so just using a thicker line often works better.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170928T104621Z" creationid="Administrator" creationdate="20170928T104341Z">
+        <seg>Le linee 3D confondono chi guarda, percio' usare una linea piu' spessa spesso e' meglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3D pie chart with different fill effects in each portion of the pie: Choose &lt;f0&gt;Insert &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Data&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;labels &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;and select&lt;/f8&gt;&lt;/f7&gt; &lt;f9&gt;show value as percentage&lt;/f9&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170916T135939Z" creationid="Administrator" creationdate="20170916T135939Z">
+        <seg>Grafici a torta 3D con effetti di riempimento differenti per ogni porzione: Selezionate &lt;f0&gt;Inserimento &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Dati&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;etichette &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;e selezionate&lt;/f8&gt;&lt;/f7&gt; &lt;f9&gt;mostrare valori come percentuale&lt;/f9&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3D pie chart with realistic schema and illumination: Choose &lt;f0&gt;&lt;f1&gt;Format&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;3D view &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;Illumination&lt;/f15&gt;&lt;/f14&gt; where you can change the direction of the light, the color of the ambient light, and the depth of the shade.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170823T135133Z" creationid="Administrator" creationdate="20170823T135133Z">
+        <seg>Grafico a torta in 3D con disposizione e illuminazione realistici: Selezionate&lt;f0&gt;&lt;f1&gt;Formato&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;Vista 3D &lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt; &lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;Illuminazione&lt;/f15&gt;&lt;/f14&gt; dove potete modificare la direzione della luce, il colore della luce ambiente e la profondita' delle ombre,</seg>
       </tuv>
     </tu>
     <tu>
@@ -4118,6 +4174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Bar charts&lt;/f0&gt; are excellent for giving an immediate visual impact for data comparison in cases when time is not an important factor, for example, when comparing the popularity of a few products in a marketplace.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170816T105140Z" creationid="Administrator" creationdate="20170816T103401Z">
+        <seg>I &lt;f0&gt;Grafici a Barre&lt;/f0&gt; sono indicati per ottenere un impatto visivo immediato in caso di confronto fra dati dove il fattore tempo non e' importante, per esempio quando si voglia confrontare la popolarita' di alcuni prodotti nel loro mercato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Be careful when reassigning your operating system’s or &lt;/f0&gt;&lt;f1&gt;LibreOffice&lt;/f1&gt;&lt;f2&gt;’s predefined shortcut keys.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170153Z" creationid="steevie" creationdate="20160428T170123Z">
@@ -4578,6 +4642,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170522T180657Z" creationid="Elisabetta Manuele" creationdate="20170522T180657Z">
         <seg>&lt;f0&gt;Chiudete la finestra Sorgente dati premendo il tasto &lt;/f0&gt;&lt;f1&gt;F4&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Column charts&lt;/f0&gt; are commonly used for data that shows trends over time.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170816T102801Z" creationid="Administrator" creationdate="20170713T152555Z">
+        <seg>I &lt;f0&gt;Grafici a colonna&lt;/f0&gt; di solito vengono usati per rappresentare l'andamento dei dati nel tempo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5178,6 +5250,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20161002T175848Z" creationid="emanuelegiusti" creationdate="20161002T175848Z">
         <seg>&lt;f0&gt;Figura &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;79&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Titoli, legenda and griglie&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Figure &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;97&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Area charts—the good, the bad, and the ugly&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170916T141340Z" creationid="Administrator" creationdate="20170916T141340Z">
+        <seg>&lt;f0&gt;Figura &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;97&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Grafici ad area - il buono, il brutto e il cattivo&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Figure &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;99&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Line charts&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170928T104645Z" creationid="Administrator" creationdate="20170928T104645Z">
+        <seg>&lt;f0&gt;Figura &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;99&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Grafici a linee&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6662,6 +6750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Pie charts&lt;/f0&gt; are excellent when you need to compare proportions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170816T105159Z" creationid="Administrator" creationdate="20170816T105058Z">
+        <seg>&lt;f0&gt;I grafici a torta&lt;/f0&gt; sono indicati quando e' necessario confrontare proporzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Pivot table&lt;/f0&gt; shortcuts</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T144232Z" creationid="luciano" creationdate="20160509T144232Z">
@@ -6986,6 +7082,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170522T180819Z" creationid="Elisabetta Manuele" creationdate="20170522T180819Z">
         <seg>&lt;f0&gt;Salvate il foglio di lavoro e fate clic sul pulsante &lt;/f0&gt;&lt;f1&gt;Modifica file&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt; &lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt; nella barra degli strumenti standard per impostare il foglio in sola lettura. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Scatter charts&lt;/f0&gt; are great for visualizing data that you have not had time to analyze, and they may be the best for data when you have a constant value against which to compare the data; for example, weather data, reactions under different acidity levels, conditions at altitude, or any data which matches two series of numeric data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170928T105156Z" creationid="Administrator" creationdate="20170928T105156Z">
+        <seg>I&lt;f0&gt;grafici a dispersione&lt;/f0&gt; sono ottimi per visualizzare dati che non avete avuto il tempo di analizzare e possono essere la scelta migliore per dati da confrontare con un valore di riferimento fisso; per esempio dati metereologici, reazioni a livelli di acidita' diversi, condizioni a diverse altezze o qualsiasi situazione in cui si debbano confrontare due serie di dati numerici.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9184,6 +9288,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t0&gt;Figure 102&lt;/t0&gt; shows two types of net charts:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171003T104519Z" creationid="Administrator" creationdate="20171003T104222Z">
+        <seg>La&lt;t0&gt;Figura 102&lt;/t0&gt; mostra due tipi di diagrammi reticolare:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t0&gt;Figure 124&lt;/t0&gt; shows the Picture toolbar when it is floating.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170302T221822Z" creationid="Marco Marega" creationdate="20170302T221822Z">
@@ -9388,6 +9500,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160526T084800Z" creationid="michele" creationdate="20160526T084800Z">
         <seg>La &lt;t4&gt;Figura 225&lt;/t4&gt; mostra la finestra di dialogo dopo aver effettuato le modifiche descritte sotto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t6&gt;Figure 100&lt;/t6&gt; shows a comparison of three currencies with the Japanese Yen.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171003T102154Z" creationid="Administrator" creationdate="20171003T102154Z">
+        <seg>La&lt;t6&gt;Figura 100&lt;/t6&gt; mostra un confronto tra tre valute e lo Yen giapponese.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9744,10 +9864,50 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A &lt;f0&gt;bubble chart&lt;/f0&gt; is a variation of a scatter chart in which the data points are replaced with bubbles.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171003T102755Z" creationid="Administrator" creationdate="20171003T102755Z">
+        <seg>tipoUn &lt;f0&gt;diagramma a bolla&lt;/f0&gt; e' un  di diagramma a dispersione nel quale i dati invece che da punti sono rappresentati da bolle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A &lt;f0&gt;column and line chart&lt;/f0&gt; is a combination of two other chart types.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171014T103901Z" creationid="Administrator" creationdate="20171014T103901Z">
+        <seg>Un &lt;f0&gt;diagramma a colonna e lineare&lt;/f0&gt; e' la combinazione di due altri tipi di diagramma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A &lt;f0&gt;dialog&lt;/f0&gt; is a special type of window.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084325Z">
         <seg>Una &lt;f0&gt;finestra di dialogo&lt;/f0&gt; è un tipo speciale di finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A &lt;f0&gt;line chart&lt;/f0&gt; is a time series with a progression.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170928T102823Z" creationid="Administrator" creationdate="20170928T102823Z">
+        <seg>Un &lt;f0&gt;grafico a linee&lt;/f0&gt; e' una serie temporale con una progressione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A &lt;f0&gt;net chart&lt;/f0&gt; is similar to a polar or radar chart.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171003T104426Z" creationid="Administrator" creationdate="20171003T103502Z">
+        <seg>Un &lt;f0&gt;diagramma reticolare&lt;/f0&gt; e' simile ad un diagramma polare o radar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A &lt;f0&gt;stock chart&lt;/f0&gt; is a specialized column graph specifically for stocks and shares.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171014T101550Z" creationid="Administrator" creationdate="20171014T101550Z">
+        <seg>Un &lt;f0&gt;diagramma quotazioni&lt;/f0&gt; e' un grafico a colonna specializzato specificamente per quotazioni e azioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9844,6 +10004,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170518T163246Z" creationid="antonio" creationdate="20160527T102537Z">
         <seg>Un registro base si può visualizzare nella figura &lt;t0&gt;251&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A better solution is shown in Chart 2.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170921T080156Z" creationid="Administrator" creationdate="20170921T080156Z">
+        <seg>Una soluzione migliore e' mostrata nel diagramma 2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10372,6 +10540,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T121912Z" creationid="michele" creationdate="20160524T121912Z">
         <seg>Si aprirà un nuovo foglio di calcolo basato sul modello selezionato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A nice touch is that &lt;f0&gt;LibreOffice&lt;/f0&gt; Chart color-codes the rising and falling shares: white for rising and black for falling in the candlestick chart, and red and blue in the traditional line chart.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171014T103708Z" creationid="Administrator" creationdate="20171014T103708Z">
+        <seg>Un tocco simpatico e' il fatto che i Diagrammi &lt;f0&gt;LibreOffice&lt;/f0&gt; codificano i colori per le quotazioni in rialzo o in ribasso: bianco per quotazioni in rialzo e nero per quotazioni in ribasso nei diagrammi a candela, rosso e blu nei tradizionali diagrammi lineari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11384,6 +11560,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After deselecting the Y axis grid, right-click on each data series in turn and choose &lt;f0&gt;Format Data Series&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170921T082251Z" creationid="Administrator" creationdate="20170921T080353Z">
+        <seg>Dopo aver deselezionato la griglia dell'asse y fate clic col pulsante destro del mouse a turno su ciascuna serie di dati e selezionate &lt;f0&gt;Formattazione Serie di Dati&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After entering data, you can format and display it in various ways.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160627T160646Z" creationid="Elisabetta" creationdate="20160627T160646Z">
@@ -11444,6 +11628,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160428T151648Z" creationid="luciano" creationdate="20160428T151648Z">
         <seg>Dopo aver specificato i criteri del filtro, tornate alla scheda Lista per visualizzare i risultati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After setting up the basic chart using the Chart Wizard, do this:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170921T075802Z" creationid="Administrator" creationdate="20170921T075802Z">
+        <seg>Dopo aver impostato il diagramma iniziale usando la Procedura Guidata, fate cosi'::</seg>
       </tuv>
     </tu>
     <tu>
@@ -12012,6 +12204,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170313T104504Z" creationid="osvaldo" creationdate="20170207T135946Z">
         <seg>Mettere sempre tra parentesi la parte che deve essere calcolata per prima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An &lt;f0&gt;area chart&lt;/f0&gt; is a version of a line or column graph.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170916T141059Z" creationid="Administrator" creationdate="20170916T141059Z">
+        <seg>Un &lt;f0&gt;grafico ad area&lt;/f0&gt; e' una versione di un grafico lineare o a colonna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12720,6 +12920,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Area charts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170916T140957Z" creationid="Administrator" creationdate="20170916T140957Z">
+        <seg>Grafici ad area</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Area charts have a greater visual impact than a line chart, but the data you use will make a difference.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170916T141255Z" creationid="Administrator" creationdate="20170916T141255Z">
+        <seg>I grafici ad area hanno un impatto visivo maggiore di un grafico lineare, ma la scelta dei dati fa la differenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Areas</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T163734Z" creationid="Luciano B." creationdate="20160325T163734Z">
@@ -12872,6 +13088,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As in the other LibreOffice components, you can use the drawing toolbar to add simple shapes such as lines, rectangles, and text objects, or more complex shapes such as symbols or block arrows.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170705T145000Z" creationid="Administrator" creationdate="20170705T145000Z">
+        <seg>Come negli altri componenti di LibreOffice, potete usare la barra oggetti disegno per aggiungere forme semplici quali linee, rettangoli e oggetti di testo, o forme piu' complesse quali simboli o frecce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As is common with other spreadsheet programs, &lt;f0&gt;LibreOffice&lt;/f0&gt; Calc can be enhanced by user-defined functions or add-ins.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T135017Z" creationid="osvaldo" creationdate="20170927T135017Z">
@@ -12912,10 +13136,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As shown in &lt;t0&gt;Figure 97&lt;/t0&gt;, an area chart is sometimes tricky to use.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170916T141446Z" creationid="Administrator" creationdate="20170916T141446Z">
+        <seg>Come mostrato in &lt;t0&gt;Figura 97&lt;/t0&gt;, un grafico ad area talvolta puo' essere difficile da usare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As soon as you select a theme, some of the properties of the custom styles are applied to the open spreadsheet and are immediately visible.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T172219Z" creationid="Elisabetta" creationdate="20160722T172219Z">
         <seg>Quando viene selezionato un tema, alcune delle proprietà degli stili utente vengono applicate al foglio elettronico attivo. Le modifiche saranno immediatamente visibili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As the Chart Wizard guesses the series that you wish to include in your pie chart, you might need to adjust this initially on the Data Ranges page of the Wizard if you know you want a pie chart,&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;or by using the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Format &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; Data Ranges &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; Data Series&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;dialog.&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170816T110450Z" creationid="Administrator" creationdate="20170816T110450Z">
+        <seg> Dal momento che la creazione guidata grafici tira a indovinare le serie che volete inserire nel vostro grafico a torta, all'inizio potreste doverne scegliere altre nella pagina Intervallo Dati della procedura guidata se siete sicuri di volere un grafico a torta,&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;oppure usando la finestra di dialogo &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Formato &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; Intervallo Dati &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; Serie di Dati&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;.&lt;/f13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As the data overlaps, some of it is missing behind the first data series.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170921T080049Z" creationid="Administrator" creationdate="20170921T080049Z">
+        <seg>Mentre i dati si sovrappongono, alcuni di essi scompaiono dietro la prima serie di dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12940,6 +13188,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T040232Z" creationid="osvaldo" creationdate="20170926T203333Z">
         <seg>Come si può immaginare dai nomi, ARROTONDA.ECCESSO arrotonda per eccesso e ARROTONDA.DIFETTO per difetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As you can see, the legend turns into labels on the z-axis.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170921T082204Z" creationid="Administrator" creationdate="20170921T082204Z">
+        <seg>xCome potete vedere la legenda si trasforma in etichette lungo l'asse z.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13272,6 +13528,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Axes colors and labels changed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171003T104728Z" creationid="Administrator" creationdate="20171003T104728Z">
+        <seg>I colori e le etichette delle aree sono cambiati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Axis</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161128T221735Z" creationid="Andrea" creationdate="20161128T221735Z">
@@ -13372,6 +13636,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T154255Z" creationid="steevie" creationdate="20160428T154255Z">
         <seg>Backspace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bar charts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170713T153018Z" creationid="Administrator" creationdate="20170713T153018Z">
+        <seg>Grafici a barre</seg>
       </tuv>
     </tu>
     <tu>
@@ -13556,6 +13828,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160425T115756Z" creationid="luciano" creationdate="20160425T115756Z">
         <seg>Dato che lo sponsor ha registrato le variazioni con Calc, potete facilmente vedere quali modifiche sono state fatte e decidere come agire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Before and after values can be plotted on the same chart, or perhaps expected and real results, so that differences can be compared.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171003T104145Z" creationid="Administrator" creationdate="20171003T104145Z">
+        <seg>Valori prima e dopo possono essere rappresentati sullo stesso diagramma, oppure risultati attesi ed effettivi, in modo da poter confrontare le differenze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13912,6 +14192,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bubble charts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171003T102532Z" creationid="Administrator" creationdate="20171003T102532Z">
+        <seg>diagrammi a bolla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bubble charts are often used to present financial data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171003T103126Z" creationid="Administrator" creationdate="20171003T103126Z">
+        <seg>I diagrammi a bolla sono usati spesso per presentare dati finanziari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>But if the original Calc spreadsheet is updated, the changes are automatically made in the Writer document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T164243Z" creationid="Elisabetta Manuele" creationdate="20170523T164243Z">
@@ -13940,6 +14236,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T173338Z" creationid="osvaldo" creationdate="20170206T173338Z">
         <seg>ma non si tratta dell'unione dei due insiemi 'riferimento sinistro' e 'riferimento destro', come si intende normalmente nella teoria degli insiemi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But overall, though it is visually more appealing, it is more difficult to see the point you are trying to make with the data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170921T082600Z" creationid="Administrator" creationdate="20170921T082600Z">
+        <seg>Nel complesso tuttavia, benche' piu' accattivante dal punto di vista grafico, questa soluzione rende difficile far capire quello che volete spiegare con i dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16272,6 +16576,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chart area color = gradient.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171003T104801Z" creationid="Administrator" creationdate="20171003T104801Z">
+        <seg>Colore dell'area del diagramma = sfumatura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chart floor</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161008T170006Z" creationid="Andrea" creationdate="20161008T170006Z">
@@ -16768,6 +17080,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f11&gt;&lt;f12&gt;Insert&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt; &lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;&gt;&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt; &lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;Data Labels&lt;/f20&gt;&lt;/f19&gt; and choose &lt;f21&gt;Show value as number&lt;/f21&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170823T134114Z" creationid="Administrator" creationdate="20170823T134114Z">
+        <seg>Selezionate &lt;f11&gt;&lt;f12&gt;Inserimento&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt; &lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;&gt;&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt; &lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;Etichette Dati&lt;/f20&gt;&lt;/f19&gt; e selezionate &lt;f21&gt;Mostra valori come numeri&lt;/f21&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f1&gt;Tools &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Options &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; Load/Save &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; General&lt;/f10&gt; and select the &lt;f11&gt;Load printer settings with the document&lt;/f11&gt; option.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160313T142216Z">
@@ -16784,6 +17104,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose Column and Line chart type with two lines and the data series in rows.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171020T170150Z" creationid="Administrator" creationdate="20171020T170150Z">
+        <seg>Scegliete il tipo di diagramma a Colonne e Linee, con due linee e le serie di dati nelle righe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose either &lt;f0&gt;Insert &gt; Columns &lt;/f0&gt;or&lt;f1&gt; Insert &gt; Rows&lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T131120Z" creationid="michele" creationdate="20160525T131120Z">
@@ -16792,10 +17120,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose one of the preset gradient patterns and make it lighter by going to the &lt;f2&gt;Transparency&lt;/f2&gt; tab and making the gradient 50% transparent.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171020T171749Z" creationid="Administrator" creationdate="20171020T171527Z">
+        <seg>Scegliete uno dei modelli di sfumatura predefinita e rendetelo piu' chiaro scegliendo la linguetta &lt;f2&gt;Trasparenza&lt;/f2&gt; e impostando trasparenza 50% per la sfumatura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose the &lt;f0&gt;Data&lt;/f0&gt; &lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt;Group and Outline&lt;/f3&gt; &lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt; &lt;f6&gt;Group&lt;/f6&gt; from the Menu bar or press &lt;f7&gt;F12&lt;/f7&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T174830Z" creationid="Elisabetta Manuele" creationdate="20170301T174830Z">
         <seg>Selezionate la voce &lt;f0&gt;Dati &lt;/f0&gt; &lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt; &lt;f3&gt; Raggruppa e struttura &lt;/f3&gt; &lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt; &lt;f6&gt; Gruppo&lt;/f6&gt; dalla barra dei menu, o premete il tasto &lt;f7&gt;F12&lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose the &lt;i1/&gt;&lt;f2&gt;3D Look&lt;/f2&gt; option and select &lt;f3&gt;Realistic&lt;/f3&gt; from the drop-down list.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170921T081648Z" creationid="Administrator" creationdate="20170921T081648Z">
+        <seg>Selezionate l'opzione &lt;i1/&gt;&lt;f2&gt;Aspetto 3D&lt;/f2&gt; poi &lt;f3&gt;Realistico&lt;/f3&gt; dalla lista a tendina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16892,6 +17236,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160823T055303Z" creationid="briga" creationdate="20160823T055303Z">
         <seg>Scegliendo una cartella (categoria) appropriata, sarà più facile trovare il modello quando vorrete utilizzarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choosing and formatting &lt;is0/&gt;symbols</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170705T143301Z" creationid="Administrator" creationdate="20170705T143301Z">
+        <seg>Scelta e formattazione &lt;is0/&gt;dei simboli</seg>
       </tuv>
     </tu>
     <tu>
@@ -17608,6 +17960,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the chart to select it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170713T144540Z" creationid="Administrator" creationdate="20170713T144540Z">
+        <seg>Fate clic sul diagramma per selezionarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the comment itself.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160425T113242Z" creationid="luciano" creationdate="20160425T113242Z">
@@ -17708,6 +18068,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160425T114300Z" creationid="luciano" creationdate="20160425T114300Z">
         <seg>Fate clic su questo contrassegno per visualizzare una lista di commenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click once on the chart to select it.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170705T152651Z" creationid="Administrator" creationdate="20170705T152651Z">
+        <seg>Fate clic una volta sul diagramma per selezionarlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18272,10 +18640,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Column and line charts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171014T103757Z" creationid="Administrator" creationdate="20171014T103757Z">
+        <seg>Diagrammi a colonna e lineari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Column break</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153831Z">
         <seg>Interruzione di colonna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Column charts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170713T152448Z" creationid="Administrator" creationdate="20170713T152448Z">
+        <seg>Grafici a colonna</seg>
       </tuv>
     </tu>
     <tu>
@@ -20768,6 +21152,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Donut charts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170916T140452Z" creationid="Administrator" creationdate="20170916T140452Z">
+        <seg>Grafici a ciambella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Donut charts are a variation on the pie chart.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170916T140530Z" creationid="Administrator" creationdate="20170916T140530Z">
+        <seg>I grafici a ciambella sono una variante dei grafici a torta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Don’t be alarmed when it does this even when you have saved a relative hyperlink—this ‘absolute’ target address will be updated if you move the file.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T153236Z" creationid="Elisabetta Manuele" creationdate="20170519T091503Z">
@@ -20880,6 +21280,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double-click the chart to put it into edit mode.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170704T203734Z" creationid="Administrator" creationdate="20170704T203734Z">
+        <seg>Fate doppio clic sul grafico per abilitare la modalita' modifica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Double-click the folder that contains the template that you want to use.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160823T054112Z" creationid="briga" creationdate="20160823T054112Z">
@@ -20948,6 +21356,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170522T180541Z" creationid="Elisabetta Manuele" creationdate="20170522T180541Z">
         <seg>Trascinate il riquadro grigio nel punto del foglio di lavoro in cui desiderate visualizzarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drag it out with the mouse and then, if necessary, increase the size of the chart wall.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170916T135703Z" creationid="Administrator" creationdate="20170916T135703Z">
+        <seg>Trascinatela fuori con il mouse e poi, se del caso, aumentate le dimensioni della parete del grafico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21576,6 +21992,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Either or both the size and position can be protected so that they cannot be accidentally changed.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170713T151607Z" creationid="Administrator" creationdate="20170713T151607Z">
+        <seg>Le dimensioni e la posizione possono essere protette entrambe o singolarmente in modo che non possano essere modificate per errore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Either way, you need to start a formula with one of the following symbols: =, + or –.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20161230T071049Z" creationid="osvaldo" creationdate="20161230T071049Z">
@@ -22192,6 +22616,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Even though the table presents the monthly series, the chart does not.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171003T102239Z" creationid="Administrator" creationdate="20171003T102239Z">
+        <seg>Sebbene la tabella presenti le serie temporali, il diagramma non lo fa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Even with all the tools available in Calc to help you to enter formulas, making mistakes is easy.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170924T172135Z" creationid="osvaldo" creationdate="20170924T172135Z">
@@ -22684,6 +23116,70 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T133348Z" creationid="michele" creationdate="20160414T133315Z">
         <seg>Fig&lt;f0&gt;ura &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;3&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;: Barra degli strumenti Tavolozza&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;f0&gt;&lt;seq1&gt;100&lt;/seq1&gt;&lt;/f0&gt;&lt;f2&gt;: A particularly volatile time in the world currency market.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171003T102507Z" creationid="Administrator" creationdate="20171003T102507Z">
+        <seg>Figura &lt;f0&gt;&lt;seq1&gt;100&lt;/seq1&gt;&lt;/f0&gt;&lt;f2&gt;: Un momento particolarmente volatile sul mercato valutario mondiale.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;f0&gt;&lt;seq1&gt;102&lt;/seq1&gt;&lt;/f0&gt;&lt;f2&gt;: Two net diagrams showing totally fabricated data from totally fictional experiments.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171003T105155Z" creationid="Administrator" creationdate="20171003T105155Z">
+        <seg>Figura &lt;f0&gt;&lt;seq1&gt;102&lt;/seq1&gt;&lt;/f0&gt;&lt;f2&gt;: Due diagrammi reticolari che rappresentano dati totalmente inventati da esperimenti di totale fantasia.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;f0&gt;&lt;seq1&gt;104&lt;/seq1&gt;&lt;/f0&gt;&lt;f2&gt;: Adjusting data series for stock charts.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171014T103208Z" creationid="Administrator" creationdate="20171014T103208Z">
+        <seg>Figura &lt;f0&gt;&lt;seq1&gt;104&lt;/seq1&gt;&lt;/f0&gt;&lt;f2&gt;: Adattamento delle serie di dati per un diagramma quotazioni.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;f0&gt;&lt;seq1&gt;93&lt;/seq1&gt;&lt;/f0&gt;&lt;f2&gt;: Three bar graph treatments.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170816T102920Z" creationid="Administrator" creationdate="20170816T102920Z">
+        <seg>Figura &lt;f0&gt;&lt;seq1&gt;93&lt;/seq1&gt;&lt;/f0&gt;&lt;f2&gt;: Tre grafici a barre.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;f0&gt;&lt;seq1&gt;98&lt;/seq1&gt;&lt;/f0&gt;&lt;f2&gt;: Stacked and percentage stacked area charts&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170921T082920Z" creationid="Administrator" creationdate="20170921T082920Z">
+        <seg>Figura &lt;f0&gt;&lt;seq1&gt;98&lt;/seq1&gt;&lt;/f0&gt;&lt;f2&gt;: grafici ad aree sovrapposte e ad aree sovrapposte con percentuale&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;101&lt;/seq0&gt;: Bubble chart showing three data series</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171003T103353Z" creationid="Administrator" creationdate="20171003T103353Z">
+        <seg>Figura &lt;seq0&gt;101&lt;/seq0&gt;: Diagramma a bolla che rappresenta tre serie di dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;103&lt;/seq0&gt;: Filled net or radar chart</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171014T101335Z" creationid="Administrator" creationdate="20171014T101335Z">
+        <seg>Figura &lt;seq0&gt;103&lt;/seq0&gt;: Diagramma reticolare o radar con riempimento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;105&lt;/seq0&gt;: Column and line chart</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171020T171141Z" creationid="Administrator" creationdate="20171020T171141Z">
+        <seg>Figura &lt;seq0&gt;105&lt;/seq0&gt;: Diagramma a colonna e linea</seg>
       </tuv>
     </tu>
     <tu>
@@ -25328,6 +25824,46 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;91&lt;/seq0&gt;: Symbol selection</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170705T144706Z" creationid="Administrator" creationdate="20170705T144706Z">
+        <seg>Figura &lt;seq0&gt;91&lt;/seq0&gt;: Selezione dei simboli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;92&lt;/seq0&gt;: Defining the position and size of an object</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170713T145541Z" creationid="Administrator" creationdate="20170713T145541Z">
+        <seg>Figura &lt;seq0&gt;92&lt;/seq0&gt;: Definizione della posizione e delle dimensioni di un oggetto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;94&lt;/seq0&gt;: Pie charts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170816T105707Z" creationid="Administrator" creationdate="20170816T105707Z">
+        <seg>Figura &lt;seq0&gt;94&lt;/seq0&gt;: Grafici a torta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;95&lt;/seq0&gt;: Choosing a donut chart</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170916T140831Z" creationid="Administrator" creationdate="20170916T140831Z">
+        <seg>Figura &lt;seq0&gt;95&lt;/seq0&gt;: Scegliere un grafico a ciambella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;96&lt;/seq0&gt;: Examples of donut charts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170916T140858Z" creationid="Administrator" creationdate="20170916T140858Z">
+        <seg>Figura &lt;seq0&gt;96&lt;/seq0&gt;: Esempi di grafici a ciambella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Apply Style, Font Name and Font Size lists</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T145427Z" creationid="michele" creationdate="20160414T145427Z">
@@ -25760,6 +26296,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Font and Font Effects let you format among others, such things as font family, size, color and style&lt;/f15&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170704T205650Z" creationid="Administrator" creationdate="20170704T205650Z">
+        <seg>Caratteri ed Effetti Tipografici permettono di modificare, tra le altre cose, la famiglia di caratteri, le sue dimensioni, il colore e lo stile&lt;/f15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Font effects</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160720T155501Z" creationid="briga" creationdate="20160720T155501Z">
@@ -25984,6 +26528,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For details, see the Help.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170713T152417Z" creationid="Administrator" creationdate="20170713T152417Z">
+        <seg>Per ulteriori dettagli fate riferimento alla Guida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For each cell in the search range that matches the search criteria, the corresponding cell in the sum range is added into the sum.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153518Z" creationid="steevie" creationdate="20160620T153518Z">
@@ -26028,6 +26580,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T125939Z" creationid="osvaldo" creationdate="20170927T045431Z">
         <seg>Per esempio =CONTA.SE(A1:A6,"r.d") con selezionato &lt;f0&gt;Permetti espressioni regolari nelle formule&lt;/f0&gt;, conterà le celle nell'intervallo A1:A6 che contengono &lt;f1&gt;red&lt;/f1&gt; e &lt;f2&gt;ROD&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example in June all three values are added together and that number represents 100%.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170928T102457Z" creationid="Administrator" creationdate="20170928T102457Z">
+        <seg>Per esempio in giugno tutti e tre i valori sono sommati insieme e quel numero rappresenta il 100%.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26180,6 +26740,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160823T060138Z" creationid="briga" creationdate="20160823T060138Z">
         <seg>Per esempio, di seguito è riportato un elenco (non completo) delle impostazioni che possono essere incluse in documenti Calc e poi salvate come modello per un uso successivo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, comparisons of departmental spending: what the department spent on different items or what different departments spent.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170816T105438Z" creationid="Administrator" creationdate="20170816T105438Z">
+        <seg>Per esempio, confronto delle spese per reparto: spese del reparto per differenti articoli o confronto delle spese di diversi reparti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26960,10 +27528,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more variety, choose 3D Look.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170916T140758Z" creationid="Administrator" creationdate="20170916T140758Z">
+        <seg>Per maggiore varieta' scegliete Aspetto 3D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For novices, functions are one of the most intimidating features of Calc.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170928T194248Z" creationid="osvaldo" creationdate="20170925T203509Z">
         <seg>Per i novizi, le funzioni sono una delle caratteristiche di Calc che mette in soggezione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For one we chose a bitmap, for another a gradient and for the third we used the &lt;f11&gt;&lt;f12&gt;Transparency&lt;/f12&gt;&lt;/f11&gt; tab and adjusted the transparency to 50%.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170916T140437Z" creationid="Administrator" creationdate="20170916T140437Z">
+        <seg>Per una abbiamo scelto un bitmap, per un'altra una sfumatura e per la terza abbiamo usato la scheda &lt;f11&gt;&lt;f12&gt;Transparenza&lt;/f12&gt;&lt;/f11&gt; e impostato la trasparenza al 50%.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27036,6 +27620,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T154329Z" creationid="Andrea" creationdate="20160828T212744Z">
         <seg>Per i Campi dati viene utilizzata una funzione aggregata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the background, highlight the chart wall, right-click and choose &lt;f0&gt;Format Wall&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171020T171300Z" creationid="Administrator" creationdate="20171020T171300Z">
+        <seg>Per lo sfondo, evidenziate la parete del grafico, fate clic con il pulsante destro e scegliete &lt;f0&gt;Formato Parete&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27196,6 +27788,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T102502Z">
         <seg>Formattazione diagrammi in 3D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Formatting &lt;is0/&gt;&lt;is1/&gt;&lt;i2/&gt;data labels</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170704T203504Z" creationid="Administrator" creationdate="20170704T203504Z">
+        <seg>Formattazione &lt;is0/&gt;&lt;is1/&gt;&lt;i2/&gt;delle etichette dati</seg>
       </tuv>
     </tu>
     <tu>
@@ -27848,6 +28448,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Gallery of &lt;i0/&gt;chart types</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170713T151817Z" creationid="Administrator" creationdate="20170713T151817Z">
+        <seg>Galleria di &lt;i0/&gt;tipi di grafico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Gallery of chart types</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T102600Z">
@@ -27908,6 +28516,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T193100Z" creationid="Elisabetta" creationdate="20160815T193100Z">
         <seg>In linea generale, se l'errore si verifica nella cella selezionata (o in quella contenente il cursore), il messaggio di errore compare nella barra di stato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Generally, between three and eight axes are best; any more and this type of chart becomes confusing.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171003T103946Z" creationid="Administrator" creationdate="20171003T103946Z">
+        <seg>Generalmente il numero migliore di assi e' fra tre e otto; un numero maggiore rende questo tipo di diagrammi confusi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28076,6 +28692,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T154026Z" creationid="osvaldo" creationdate="20170206T154026Z">
         <seg>Maggiore o uguale a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Green sizing handles appear around the chart.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170705T152755Z" creationid="Administrator" creationdate="20170705T152755Z">
+        <seg>Maniglie di manipolazione verdi compaiono attorno al diagramma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28448,6 +29072,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hierarchical axis labels</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170705T142334Z" creationid="Administrator" creationdate="20170705T142334Z">
+        <seg>Etichette assi gerarchiche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Higher dpi settings greatly increase the size of the exported file.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T170050Z" creationid="Luciano B." creationdate="20160325T170050Z">
@@ -28612,6 +29244,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161214T131215Z" creationid="luciano" creationdate="20161214T131215Z">
         <seg>Gli hotspot sono l'equivalente grafico dei collegamenti ipertestuali del testo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hover the mouse pointer anywhere over the chart.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170713T144015Z" creationid="Administrator" creationdate="20170713T144015Z">
+        <seg>Passate il pntatore del mouse sopra qualsiasi parte del diagramma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30424,6 +31064,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the text needs to be abbreviated, or if it did not label your graph as you were expecting, you need to change it in the original data table.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170705T142250Z" creationid="Administrator" creationdate="20170705T142250Z">
+        <seg>Se il testo deve essere abbreviato, o le etichette non sono quelle che vi aspettavate, dovete modificarlo nella tabella dati originale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the underlying data or the layout of the &lt;f0&gt;Pivot Table&lt;/f0&gt; changes, then you must take into account that the sales value for Hans might appear in a different cell.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T171403Z" creationid="Elisabetta Manuele" creationdate="20170306T171403Z">
@@ -30788,6 +31436,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T150006Z" creationid="michele" creationdate="20160531T150006Z">
         <seg>Se stai visualizzando uno scenario che ha &lt;f0&gt;Ricopiare all'indietro&lt;/f0&gt; attivato e &lt;s1/&gt;successivamente crea un nuovo scenario modificando i valori e selezionando &lt;f2&gt;&lt;f3&gt;Strumenti&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Scenari&lt;/f7&gt;&lt;/f6&gt;, potreste inavvertitamente sovrascrivere i valori nel primo scenario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you cannot move an object, check to see if its position is protected.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170713T151738Z" creationid="Administrator" creationdate="20170713T151738Z">
+        <seg>Se non potete spostare un oggetto, controllate che la sua posizione non sia proetta</seg>
       </tuv>
     </tu>
     <tu>
@@ -31584,6 +32240,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want to separate out one of the pieces, click on it carefully; you should see a wire frame highlight.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170916T135600Z" creationid="Administrator" creationdate="20170916T135600Z">
+        <seg>Se volete separare una delle parti, fatevi clic sopra con attenzione; dovreste vedere un'evidenziazione sotto forma di reticolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to use macros written in Microsoft Excel using the VBA macro code in &lt;f0&gt;LibreOffice&lt;/f0&gt;, you must first edit the code in the &lt;f1&gt;LibreOffice&lt;/f1&gt; Basic IDE editor.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160322T161038Z">
@@ -31668,6 +32332,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T172922Z" creationid="Elisabetta Manuele" creationdate="20170306T172922Z">
         <seg>Se la &lt;f2&gt;tabella pivot&lt;/f2&gt; contiene solo un campo dati, questa voce viene ignorata, ma &lt;f3&gt;va comunque inserita&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If your aim is to accentuate one piece of the pie, you can separate out one piece by carefully highlighting it after you have finished with the Chart Wizard, and dragging it out of the group.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170823T133521Z" creationid="Administrator" creationdate="20170823T133521Z">
+        <seg>Se il vostro scopo e' di evidenziare un settore della torta, potete separarlo evidenziandolo accuratamente dopo aver terminato con la Creazione guidata grafico e trascinandolo fuori dal gruppo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32272,6 +32944,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In contrast to line charts, the x-axis are the left to right labels, which usually indicate a time series.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170928T105324Z" creationid="Administrator" creationdate="20170928T105324Z">
+        <seg>Contrariamente ai grafici a linee, sull'asse x ci sono le etichette da sinistra a destra che di solito indicano una serie temporale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In contrast, one result of the &lt;f1&gt;Pivot Table&lt;/f1&gt; is that you can get results for each employee if you have entered everything in one column.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T180732Z" creationid="Andrea" creationdate="20160808T141300Z">
@@ -32328,6 +33008,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In fact the Japanese Yen does not appear; it is merely used as the constant series that all the other data series are compared against.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171003T102405Z" creationid="Administrator" creationdate="20171003T102405Z">
+        <seg>Di fatto lo Yen giapponese non compare mai; e' semplicemente usato come una serie costante con la quale sono confrontate le altre serie di dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In general, if you need to create complex drawings, it is recommended to use &lt;f0&gt;LibreOffice&lt;/f0&gt; Draw or another drawing program.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161207T165318Z" creationid="luciano" creationdate="20161207T165318Z">
@@ -32348,6 +33036,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T193239Z" creationid="osvaldo" creationdate="20170206T164436Z">
         <seg>Nella sua forma più semplice un riferimento si riferisce ad una singola cella, ma i riferimenti possono anche riferirsi ad un intervallo rettangolare o cuboide o a un riferimento in una lista di riferimenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In line and scatter charts the symbols representing the points can be changed to a different symbol shape or color through the object properties dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170705T143755Z" creationid="Administrator" creationdate="20170705T143755Z">
+        <seg>Nei diagrammi in linea e a dispersione e' possibile modificare la forma o il colore dei simboli che rappresentano i punti nella finestra di dialogo proprieta' degli oggetti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33689,6 +34385,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Include the legend key as part of the label</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170704T210148Z" creationid="Administrator" creationdate="20170704T210148Z">
+        <seg>Includere la legenda come parte dell'etichetta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Increases the height of current row.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T142210Z" creationid="luciano" creationdate="20160509T142210Z">
@@ -34313,6 +35017,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It can then be tilted, given shadows, and generally turned into a work of art.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170816T110818Z" creationid="Administrator" creationdate="20170816T110818Z">
+        <seg>Lo potete inclinare, dargli ombreggiature diverse, e in generale trasformarlo in un'opera d'arte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It cannot be removed in C2.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160722T163831Z" creationid="Elisabetta" creationdate="20160722T163821Z">
@@ -34429,6 +35141,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160414T133246Z" creationid="michele" creationdate="20160414T133246Z">
         <seg>Si visualizza facendo clic sul piccolo triangolo sulla destra dell'icona della barra degli strumenti Bordi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is ideal for raw data, and&lt;f1&gt;&lt;f2&gt; u&lt;/f2&gt;&lt;/f1&gt;seful for charts with plentiful data that show trends or changes over time where you want to emphasize continuity.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170928T103113Z" creationid="Administrator" creationdate="20170928T103113Z">
+        <seg>E' ideale per dati grezzi e&lt;f1&gt;&lt;f2&gt; u&lt;/f2&gt;&lt;/f1&gt;tile per grafici con grandi quantita' di dati che mostrino tendenze o cambiamenti nel tempo dove vogliate mettere in risalto la continuita'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34585,6 +35305,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is useful for combining two distinct but related data series, for example sales over time (column) and the profit margin trends (line).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171020T165403Z" creationid="Administrator" creationdate="20171020T165403Z">
+        <seg>E' utile per combinare due serie di dati distinte ma in relazione tra di loro, come per esempio vendite per periodo (colonna) e andamento del margine di profitto (riga).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is useful to institute checks in your spreadsheets.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20161229T141606Z" creationid="osvaldo" creationdate="20161229T141606Z">
@@ -34625,6 +35353,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It may be useful where you wish to emphasize volume of change.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170916T141141Z" creationid="Administrator" creationdate="20170916T141141Z">
+        <seg>Puo' essere utile per evidenziare il volume del cambiamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It might be a good idea to always use the upper left corner cell of your &lt;f5&gt;Pivot Table&lt;/f5&gt;, so you can be sure that the cell will always be within your &lt;f6&gt;Pivot Table,&lt;/f6&gt; even if the layout changes.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T173438Z" creationid="Elisabetta Manuele" creationdate="20170306T173438Z">
@@ -34661,6 +35397,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T145308Z" creationid="steevie" creationdate="20160418T145308Z">
         <seg>Reimposta le opzioni sui valori presenti all'apertura di &lt;f1&gt;LibreOffice&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It shows the relations of three variables in two dimensions.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171003T102829Z" creationid="Administrator" creationdate="20171003T102829Z">
+        <seg>Mostra le relazioni di tre variabili in due dimensioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34725,6 +35469,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T144835Z" creationid="steevie" creationdate="20160427T144835Z">
         <seg>Sezione Riferimenti circolari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Its important to remember that while your data can be presented with a number of different charts, the message you want to convey to your audience dictates the chart you ultimately use.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170713T152121Z" creationid="Administrator" creationdate="20170713T152121Z">
+        <seg>E' importante ricordare che, sebbene i vostri dati possano essere presentati con diversi tipi di grafico, e' il messaggio che volete trasmettere al vostro pubblico che in definitiva impone il tipo di grafico da usare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34861,6 +35613,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20161002T181115Z" creationid="emanuelegiusti" creationdate="20160611T083333Z">
         <seg>Basta che stiate attenti a non aver inserito il titolo del vostro grafico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Just do not clutter it so much that your message is lost, and be careful that tilting does not distort the relative size of the segments.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170823T132858Z" creationid="Administrator" creationdate="20170823T132858Z">
+        <seg>Evitate di annegare il messaggio in mezzo a troppi elementi e in particolare fate attenzione a non distorcere le dimensioni relative dei segmenti quando inclinate il grafico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35389,6 +36149,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161209T165221Z" creationid="luciano" creationdate="20161209T165221Z">
         <seg>Spessore linea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Line charts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170928T102735Z" creationid="Administrator" creationdate="20170928T102735Z">
+        <seg>Grafici a linee</seg>
       </tuv>
     </tu>
     <tu>
@@ -36041,6 +36809,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make your choices on this dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170713T144745Z" creationid="Administrator" creationdate="20170713T144745Z">
+        <seg>Fate le vostre scelte in questa finestra di dialogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Makes the picture into a watermark that blends into the background.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170317T204221Z" creationid="Marco Marega" creationdate="20170317T204221Z">
@@ -36061,6 +36837,14 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170917T173258Z" creationid="osvaldo" creationdate="20170917T173258Z">
         <seg>molti  argomenti sono numeri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Many charts have varieties which have this option.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170928T102622Z" creationid="Administrator" creationdate="20170928T102622Z">
+        <seg>Molti grafici comprendono varianti con questa opzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36970,6 +37754,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Multiple columns of categories are displayed in a hierarchical manner at the axis as shown.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170705T142544Z" creationid="Administrator" creationdate="20170705T142544Z">
+        <seg>Colonne di categorie multiple vengono visualizzate in modo gerarchico lungo gli assi, come illustrato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Multiple columns or rows</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T124634Z" creationid="michele" creationdate="20160525T124634Z">
@@ -37302,6 +38094,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170917T174650Z" creationid="osvaldo" creationdate="20170917T174650Z">
         <seg>Funzioni annidate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Net charts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171003T104406Z" creationid="Administrator" creationdate="20171003T103421Z">
+        <seg>Diagrammi reticolari</seg>
       </tuv>
     </tu>
     <tu>
@@ -37762,6 +38562,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Now, right-click on the X axis and choose &lt;f2&gt;Format Axis&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170921T082232Z" creationid="Administrator" creationdate="20170921T080705Z">
+        <seg>Ora fate clic con il pulante destro del mouse sull'asse x e selezionate &lt;f2&gt;Formattazione Asse&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Now, you want to review those changes and accept or reject the counter proposal.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160425T115635Z" creationid="luciano" creationdate="20160425T115635Z">
@@ -38050,6 +38858,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Of course the x-axis represents a time series.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171014T101932Z" creationid="Administrator" creationdate="20171014T101932Z">
+        <seg>Naturalmente l'asse x rappresenta una serie temporale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Of course, in this example you would have to tidy the worksheet up by removing the zeros in the non-formatted rows.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170916T173602Z" creationid="osvaldo" creationdate="20170916T173602Z">
@@ -38102,6 +38918,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T164506Z" creationid="Elisabetta" creationdate="20160725T164506Z">
         <seg>Al termine dell'operazione l'area selezionata compare evidenziata da un bordo blu intorno alle celle e la finestra di dialogo Filtro speciale indica l'area in termini assoluti tramite il simbolo del dollaro ($), nei riferimenti (Figura &lt;t0&gt;69&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On line charts, the x-axis is ideal to represent time series data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170928T103203Z" creationid="Administrator" creationdate="20170928T103203Z">
+        <seg>Nei grafici a linee l'asse x e' ideale per rappresentare serie temporali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38258,6 +39082,22 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the &lt;f1&gt;Area&lt;/f1&gt; tab, change the drop-down box to show Gradient.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171020T171538Z" creationid="Administrator" creationdate="20171020T171437Z">
+        <seg>Nella linguetta &lt;f1&gt;Area&lt;/f1&gt; , modificate il menu a discesa affinche' mostri Sfumatura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the &lt;f1&gt;Transparency&lt;/f1&gt; tab, set Transparency to 50%.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170921T080442Z" creationid="Administrator" creationdate="20170921T080442Z">
+        <seg>Sulla scheda &lt;f1&gt;Trasparenza&lt;/f1&gt; impostate la trasparenza al 50%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the &lt;f4&gt;General&lt;/f4&gt; tab, uncheck &lt;f5&gt;Apply user data&lt;/f5&gt; and then click the &lt;f6&gt;Reset&lt;/f6&gt; button.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T162723Z" creationid="Luciano B." creationdate="20160329T162723Z">
@@ -38354,6 +39194,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the Data Labels tab, you can choose whether to:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170704T205914Z" creationid="Administrator" creationdate="20170704T205914Z">
+        <seg>Sulla linguetta Etichette Dati, potete decidere se:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the Data Series page, you can fine tune the data that you want to include in the chart.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160626T122658Z" creationid="emanuelegiusti" creationdate="20160626T122658Z">
@@ -38426,10 +39274,26 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the Label tab, choose &lt;f3&gt;Tile&lt;/f3&gt; in the &lt;f4&gt;Order&lt;/f4&gt; section and set the Text orientation to 55 degrees.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170921T081219Z" creationid="Administrator" creationdate="20170921T081219Z">
+        <seg>Sulla scheda Etichetta selezionate &lt;f3&gt;Affianca&lt;/f3&gt; nella sezione &lt;f4&gt;Ordinamento&lt;/f4&gt; e impostate l'orientamento del testo a 55 gradi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the Libraries tab, select the document to contain the macro.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160614T144853Z" creationid="luciano" creationdate="20160614T144706Z">
         <seg>Nella scheda Librerie, scegliete il documento che contiene le macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Line page of the Data Series dialog, in the Icon section, choose from the drop-down list &lt;f0&gt;Select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Symbols&lt;/f3&gt;.&lt;f4&gt; &lt;/f4&gt;Here&lt;f5&gt; you can choose no symbol, a symbol from an&lt;/f5&gt; inbuilt selection, a more exciting range from the gallery, or if you have pictures you need to use instead, you can insert them using &lt;f6&gt;Select &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; From file&lt;/f9&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170705T144640Z" creationid="Administrator" creationdate="20170705T144640Z">
+        <seg>Nella pagina Linea della finestra dialogo Serie Dati, nella sezione Icona, dalla lista a tendina scegliete &lt;f0&gt;Selezione &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Simboli&lt;/f3&gt;.&lt;f4&gt; &lt;/f4&gt;Qui&lt;f5&gt; potete scegliere nessun simbolo, un simbolo da una selezione &lt;/f5&gt; predefinita, un simbolo piu' eccitante dalla galleria di simboli, o se invece dovete usare immagini vostre potete inserirle utilizzando &lt;f6&gt;Selezione &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; da file&lt;/f9&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38626,6 +39490,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On this tab there are a few things to change: The colors should match the products.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171020T170824Z" creationid="Administrator" creationdate="20171020T170824Z">
+        <seg>In questa linguetta ci sono alcune cose da modificare: i colori dovrebbero corrispondere ai prodotti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once a data source has been registered, it can be used by any LibreOffice component (f&lt;f0&gt;or example&lt;/f0&gt; Calc).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T180539Z" creationid="Elisabetta Manuele" creationdate="20170519T180539Z">
@@ -38742,6 +39614,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160826T083813Z" creationid="briga" creationdate="20160826T083813Z">
         <seg>Uno dei maggiori vantaggi dell'utilizzo dei modelli è la facilità di aggiornamento degli stili in più di un documento, come descritto a pagina &lt;bf0&gt;118&lt;/bf0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One or more data series can be included in a single chart.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171003T103042Z" creationid="Administrator" creationdate="20171003T103042Z">
+        <seg>Una o piu' serie di dati possono essere rappresentate in un singolo diagramma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39570,10 +40450,26 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other varieties of net chart show the data series as stacked numbers or stacked percentages.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171014T101121Z" creationid="Administrator" creationdate="20171014T101121Z">
+        <seg>Altre varianti di diagrammi reticolare mostrano le serie di dati sotto forma di pile di numeri o pile di percentuali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other ways of entering formulas are shown in &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Table 8&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20161230T073710Z" creationid="osvaldo" creationdate="20161230T073710Z">
         <seg>Altri modi di immettere formule sono mostrati in &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Tabella 8&lt;/t4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other ways of visualizing the same data series are represented by the stacked area chart or the percentage stacked area chart.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170921T082801Z" creationid="Administrator" creationdate="20170921T082801Z">
+        <seg>Altri modi di visualizzare le stesse serie di dati sono rappresentati dai grafici ad aree sovrapposte o ad aree sovrapposte con percentuale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39590,6 +40486,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="emanuelegiusti" changedate="20160626T123829Z" creationid="emanuelegiusti" creationdate="20160626T123829Z">
         <seg>In caso contrario, Calc assume che si sta aggiungendo alla stessa serie di dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Otherwise the chart may be indecipherable.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171014T102927Z" creationid="Administrator" creationdate="20171014T102927Z">
+        <seg>In caso contrario il diagramma potrebbe risultare indecifrabile.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39978,6 +40882,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Partial transparency is often best for showing all the series.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171014T101254Z" creationid="Administrator" creationdate="20171014T101254Z">
+        <seg>La trasparenza parziale e' spesso la scelta migliore per rappresentare tutte le serie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Partially absolute, from cell E3 it is the cell in column D and two rows above</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170928T172416Z" creationid="osvaldo" creationdate="20170207T181711Z">
@@ -40110,6 +41022,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170302T221508Z" creationid="Marco Marega" creationdate="20170302T221508Z">
         <seg>I pulsanti di controllo della barra degli strumenti Immagine possono anche essere aggiunti alla barra degli strumenti Standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pie charts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170816T104946Z" creationid="Administrator" creationdate="20170816T104946Z">
+        <seg>Grafici a torta</seg>
       </tuv>
     </tu>
     <tu>
@@ -40258,6 +41178,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Points changed to fancy 3D ones.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171003T104942Z" creationid="Administrator" creationdate="20171003T104942Z">
+        <seg>Punti modificati con fantasiose rappresentazioni 3D.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Polygon</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161207T172801Z" creationid="luciano" creationdate="20161207T172801Z">
@@ -40282,10 +41210,26 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Position and Size dialog for chart</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170713T144318Z" creationid="Administrator" creationdate="20170713T144318Z">
+        <seg>Finestra di dialogo Posizione e Dimensioni per diagramma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Position and Size of graphics</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161214T110505Z" creationid="luciano" creationdate="20161214T110505Z">
         <seg>Posizione e Dimensioni delle immagini</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Position is defined as an X,Y coordinate relative to a fixed point (the &lt;f0&gt;base point&lt;/f0&gt;), typically located at the upper left of the document.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170713T145026Z" creationid="Administrator" creationdate="20170713T145026Z">
+        <seg>La posizione e' definita come un sistema di coordinate X Y rispetto ad un punto fisso (il &lt;f0&gt;punto base&lt;/f0&gt;), si trova normalmente nell'angolo superiore sinistro del documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41910,6 +42854,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161129T171055Z" creationid="luciano" creationdate="20161129T171055Z">
         <seg>Rilasciate il pulsante del mouse quando raggiungete il risultato desiderato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Release the mouse button when the chart is in the desired position.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170713T144232Z" creationid="Administrator" creationdate="20170713T144232Z">
+        <seg>Rilasciate il bottone del mouse quando il diagramma e' nella posizione desiderata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44466,6 +45418,22 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click and choose &lt;f0&gt;Position and Size&lt;/f0&gt; from the &lt;f1&gt;context&lt;/f1&gt; menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170713T144708Z" creationid="Administrator" creationdate="20170713T144708Z">
+        <seg>Fate clic col pulsante destro e scegliete &lt;f0&gt;Posizione e Dimensioni&lt;/f0&gt; dal &lt;f1&gt;menu contestuale&lt;/f1&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click on a data label.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170704T203815Z" creationid="Administrator" creationdate="20170704T203815Z">
+        <seg>Clic con il tasto destro su un'etichetta di dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click on a sheet tab, select &lt;f0&gt;Rename Sheet&lt;/f0&gt; from the &lt;f1&gt;context&lt;/f1&gt; menu and replace the existing name.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170518T162648Z" creationid="antonio" creationdate="20160527T100806Z">
@@ -44478,6 +45446,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T085835Z" creationid="michele" creationdate="20160524T085835Z">
         <seg>Facendo clic con il tasto destro su una linguetta e selezionando &lt;/f0&gt;&lt;f1&gt;Colore scheda&lt;/f1&gt;&lt;f2&gt; dal menu&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;contestuale&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; apre una tavolozza di colori (vedi &lt;/f5&gt;&lt;f6&gt;&lt;t7&gt;Figura 11&lt;/t7&gt;&lt;/f6&gt;&lt;f8&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click on the Y axis and choose &lt;f0&gt;Delete Major Grid&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170921T075932Z" creationid="Administrator" creationdate="20170921T075932Z">
+        <seg>Fate clic con il pulsante destro del mouse sull'asse Y e selezionate &lt;f0&gt;Cancellazione Griglia Principale&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45150,6 +46126,22 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T164052Z">
         <seg>Scala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scatter charts may surprise those unfamiliar with how they work.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170928T105419Z" creationid="Administrator" creationdate="20170928T105419Z">
+        <seg>I grafici a dispersione possono sorprendere coloro che non sanno come funzionano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scatter or &lt;is0/&gt;XY charts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170928T104735Z" creationid="Administrator" creationdate="20170928T104735Z">
+        <seg>Grafici a dispersione o &lt;is0/&gt;XY</seg>
       </tuv>
     </tu>
     <tu>
@@ -46122,6 +47114,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select it to keep the ratio of width to height fixed while you change the size of an object.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170713T151340Z" creationid="Administrator" creationdate="20170713T151340Z">
+        <seg>Selezionatela per mantenere fisso il rapporto tra larghezza e altezza mentre modificate le dimensioni di un oggetto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select one image, then hold down the &lt;f0&gt;Shift&lt;/f0&gt; key and click in turn on each of the others that you want to include in the group.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161214T111125Z" creationid="luciano" creationdate="20161130T164828Z">
@@ -46270,6 +47270,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T134712Z" creationid="michele" creationdate="20160525T134712Z">
         <seg>Selezionate l'azione: &lt;f0&gt;Sposta&lt;/f0&gt; o &lt;f1&gt;Copia&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the appropriate options.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170713T151632Z" creationid="Administrator" creationdate="20170713T151632Z">
+        <seg>Selezionate le opzioni appropriate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46462,6 +47470,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160725T150113Z" creationid="Elisabetta" creationdate="20160725T150113Z">
         <seg>Selezionate un'area dati da filtrare, per es., dalla cella A1 alla F15.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the data series you wish to change, right-click, and choose &lt;f0&gt;Format &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Data Series&lt;/f3&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170705T144006Z" creationid="Administrator" creationdate="20170705T144006Z">
+        <seg>Selezionate la serie di dati che volete modificare, fatevi sopra clic con il pulsante destro e selezionate &lt;f0&gt;Formattazione &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Serie Dati&lt;/f3&gt; dal menu contestuale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47746,6 +48762,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Show numeric values as a percentage or a number</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170704T210104Z" creationid="Administrator" creationdate="20170704T210104Z">
+        <seg>Visualizzare i valori numerici come percentuale o come numeri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show overwrite warning when pasting data</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T135419Z" creationid="steevie" creationdate="20160427T135419Z">
@@ -47758,6 +48782,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160425T121312Z" creationid="luciano" creationdate="20160425T121312Z">
         <seg>Visualizza modifiche rifiutate  - Sono visualizzate solo le modifiche che vengono rifiutate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show the labels as text</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170704T210009Z" creationid="Administrator" creationdate="20170704T210009Z">
+        <seg>Visualizzare le etichette come testo</seg>
       </tuv>
     </tu>
     <tu>
@@ -48006,6 +49038,22 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170317T205016Z" creationid="Marco Marega" creationdate="20170317T205016Z">
         <seg>Smorza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So both Ark Manufacturing and profit are blue and Prall is red.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171020T171007Z" creationid="Administrator" creationdate="20171020T171007Z">
+        <seg>Quindi sia i costi che i profitti di Ark Manufacturing sono blu ed i costi e profitti di Prall sono rossi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So for example you might have two columns with two lines to represent two product lines with the sales figures and profit margins of both.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171020T165651Z" creationid="Administrator" creationdate="20171020T165651Z">
+        <seg>Cosi' per esempio potreste avere due colonne e due righe che rappresentano due linee di prodotto con i dati delle vendite e dei margini di profitto di entrambe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49006,6 +50054,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084431Z">
         <seg>Stigant Fyrwitful</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stock charts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171014T101404Z" creationid="Administrator" creationdate="20171014T101404Z">
+        <seg>Diagrammi quotazioni</seg>
       </tuv>
     </tu>
     <tu>
@@ -50067,6 +51123,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Keep ratio&lt;/f0&gt; option is very useful.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170713T151236Z" creationid="Administrator" creationdate="20170713T151236Z">
+        <seg>L'opzione &lt;f0&gt;Proporzionale&lt;/f0&gt; e' molto utile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Multiple Operations&lt;/f0&gt; command produces a list of results adjacent to your alternative values by running the formula against each of these alternatives.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160601T155132Z" creationid="michele" creationdate="20160601T155132Z">
@@ -50651,6 +51715,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Label tab is shown in &lt;t0&gt;Figure 82&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170704T205807Z" creationid="Administrator" creationdate="20170704T205807Z">
+        <seg>La linguetta Etichette e' visualizzata in &lt;t0&gt;Figura 82&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Language setting controls the local settings for the different formats such as the date order and the currency marker.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160721T151029Z" creationid="Elisabetta" creationdate="20160721T151029Z">
@@ -50671,6 +51743,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084044Z">
         <seg>Il sito web di LibreOffice nella vostra lingua.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Line page lets you set the attributes for the line used for the vertical axis.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170704T191208Z" creationid="Administrator" creationdate="20170704T191208Z">
+        <seg>La pagina Linea permette di impostare gli attributi della linea usata come asse verticale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50759,6 +51839,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160614T163000Z" creationid="luciano" creationdate="20160614T163000Z">
         <seg>La funzione NumberFive() è memorizzata nella libreria AuthorsCalcMacros, che non è caricata automaticamente quando il documento viene aperto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Numbers page lets you set the number attributes for the number style used on the axis.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170704T191419Z" creationid="Administrator" creationdate="20170704T191419Z">
+        <seg>La pagina Numeri permette di impostare gli attributi di stile per i numeri usati per gli assi. </seg>
       </tuv>
     </tu>
     <tu>
@@ -51379,6 +52467,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The change in base point position lasts only as long as you have the dialog open; when you close this dialog, Calc resets the base point to the standard position.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170713T145911Z" creationid="Administrator" creationdate="20170713T145911Z">
+        <seg>Il cambiamento nella posizione del punto base e' attivo solo fino a quando la finestra di dialogo e' aperta. Calc ripristina il punto base nella posizione standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The changed color appears in the lower of the two color preview boxes at the top.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T155723Z" creationid="steevie" creationdate="20160418T155723Z">
@@ -51395,10 +52491,26 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The chart in &lt;t0&gt;Figure 105&lt;/t0&gt; has manufacturing cost and profit data for two products, over a period of time (six months in 2007).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171020T165839Z" creationid="Administrator" creationdate="20171020T165839Z">
+        <seg>Il diagramma in &lt;t0&gt;Figura 105&lt;/t0&gt; riporta il costo di produzione e i dati di profitto per due prodotti per un determinato periodo di empo (sei mesi nel 2007).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The chart should now be surrounded by a gray border.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161008T163206Z" creationid="Andrea" creationdate="20161008T163206Z">
         <seg>A questo punto il grafico dovrebbe essere circondato da un bordo grigio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The chart updates as you make changes, so you can immediately see the effects.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170916T135348Z" creationid="Administrator" creationdate="20170916T135348Z">
+        <seg>Il grafico si aggiorna durante le modifiche, cosi' potete vedere gli effetti immediatamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51787,6 +52899,22 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The data required for these charts is quite specialized, with series for opening price, closing price, and high and low prices.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171014T101853Z" creationid="Administrator" creationdate="20171014T101853Z">
+        <seg>I dati richiesti per questi diagammi sono molto specialistici, con serie per prezzi di apertura, di chiusura, massimi e minimi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The data series dialog for a bubble chart has an entry to define the data range for the bubbles and their sizes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171003T103315Z" creationid="Administrator" creationdate="20171003T103315Z">
+        <seg>La finestra di dialogo serie di dati di un diagramma a bolla contiene un campo per definire l'intervallo dei dati per le bolle, e le loro dimensioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The data source could be an external file or database.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T113042Z" creationid="Andrea" creationdate="20160808T095123Z">
@@ -52163,6 +53291,14 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The effects achieved in &lt;t0&gt;Figure 94&lt;/t0&gt; are explained below.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170823T133730Z" creationid="Administrator" creationdate="20170823T133730Z">
+        <seg>Gli effetti ottenuti nella &lt;t0&gt;Figura 94&lt;/t0&gt; sono spiegati di seguito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The element will be highlighted with green squares.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Administrator" changedate="20170630T100331Z" creationid="Administrator" creationdate="20170630T100331Z">
@@ -52427,10 +53563,26 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The first chart is achieved quite simply by using the chart wizard with &lt;f0&gt;Insert &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Grids&lt;/f3&gt;, deselecting y-axis, and using &lt;f4&gt;Insert &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; Mean Value Lines.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170816T104424Z" creationid="Administrator" creationdate="20170816T103845Z">
+        <seg>Il primo grafico si ottiene molto semplicemente usando la creazione guidata grafici eseguendo&lt;f0&gt;Inserimento &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Griglia&lt;/f3&gt;, deselezionando l'asse y, e usando &lt;f4&gt;Inserimento &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; Linee Valore Medio.&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first column is the searched column, so the text &lt;f3&gt;Bob&lt;/f3&gt; is returned.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161201T161742Z" creationid="steevie" creationdate="20161010T133426Z">
         <seg>La prima colonna è quella in cui avviene la ricerca, così viene restituito il testo &lt;f3&gt;Bianca&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first does what it says: each number of each series is added to the others so that it shows an overall volume but not a comparison of the data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170928T102235Z" creationid="Administrator" creationdate="20170928T102235Z">
+        <seg>Il primo fa quello che dice: ogni numero di ogni serie e' sommato agli altri cosi' da visualizzare il volume generale ma non il confronto fra i dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52568,6 +53720,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T165916Z" creationid="Elisabetta" creationdate="20160726T165916Z">
         <seg>Gli argomenti seguenti possono interessare gli utenti di Calc:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following sections present examples of the types of charts that Calc provides, with some of the tweaks that each sort can have and some notes as to what purpose you might have for that chart type.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170713T152342Z" creationid="Administrator" creationdate="20170713T152342Z">
+        <seg>Le sezioni seguenti presentano alcuni esempi dei grafici messi a disposizione da Calc, con qualche trucco per ognuno di essi e alcune note riguardo allo scopo di ciascun tipo di grafico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52884,6 +54044,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The individual values are a percentage of that.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170928T102533Z" creationid="Administrator" creationdate="20170928T102533Z">
+        <seg>I valori individuali sono una percentuale di quel numero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The information on the &lt;f0&gt;General&lt;/f0&gt; page and the &lt;f1&gt;Statistics&lt;/f1&gt; page is generated by the program.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T102037Z" creationid="michele" creationdate="20160525T102037Z">
@@ -52976,6 +54144,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T091309Z" creationid="Marco Marega" creationdate="20160703T091309Z">
         <seg>La vita utile deve essere inserita nella stessa unità di misura del periodo di ammortamento.&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Mese&lt;/f10&gt; (facoltativo) indica il numero di mesi nel primo anno di ammortamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The lines are different colors at this stage and do not reflect the product relationships.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171020T170426Z" creationid="Administrator" creationdate="20171020T170426Z">
+        <seg>A questo punto le linee sono ancora di colori differenti e non riflettono il rapporto fra i prodotti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The lines need to be more noticeable so make the lines thicker by increasing the width to 0.08.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171020T171110Z" creationid="Administrator" creationdate="20171020T171110Z">
+        <seg>Le linee devono essere piu' marcate percio' rendetele piu' spesse aumentando la larghezza a 0.08.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53724,6 +54908,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The percentage stacked chart shows each value in the series as a part of the whole.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170928T102347Z" creationid="Administrator" creationdate="20170928T102347Z">
+        <seg>Il grafico ad aree sovrapposte con percentuale mostra ciascun valore della serie come parte del tutto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The period must be entered in the same time unit as the life.&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;Factor&lt;/f8&gt; (optional) is the factor by which depreciation decreases.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T092716Z" creationid="Marco Marega" creationdate="20160703T092716Z">
@@ -53796,6 +54988,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The pieces will decrease in size, so you need to highlight the chart wall and drag it at a corner to increase the size.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170823T134727Z" creationid="Administrator" creationdate="20170823T134727Z">
+        <seg>I settori saranno di dimensioni decrescenti, percio' dovrete evidenziare il grafico e trascinarlo in un angolo per aumentarne le dimensioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The plus sign indicates that the contents of cells B3 and B4 are to be added together and then have the result in the cell holding the formula.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20161230T073515Z" creationid="osvaldo" creationdate="20161230T073515Z">
@@ -53812,10 +55012,26 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The poles of the net chart are equivalent to the y-axes of other charts.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171003T104455Z" creationid="Administrator" creationdate="20171003T103820Z">
+        <seg>I poli del diagramma reticolare sono equivalenti agli assi y degli altri diagrammi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The position of the imaginary light source that determines the type of shadow can be chosen.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170317T210046Z" creationid="Marco Marega" creationdate="20170317T210046Z">
         <seg>La posizione di un'ipotetica sorgente luminosa determina il tipo di ombra che si può scegliere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The possible base point positions correspond to the handles on the selection frame, plus a central point.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170713T145718Z" creationid="Administrator" creationdate="20170713T145718Z">
+        <seg>Le posizioni possibili per il punto base corrispondono alle maniglie sulle cornici di selezione, piu' un punto centrale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54108,6 +55324,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The rest of the rows of data are then compared against the first row data.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171003T102105Z" creationid="Administrator" creationdate="20171003T102105Z">
+        <seg>I dati delle altre righe vengono poi confrontati con i dati della prima riga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The result can be a maximum of 255 characters.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T102516Z" creationid="Marco Marega" creationdate="20160823T102516Z">
@@ -54372,6 +55596,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The sample table for this chapter needed to be changed to fit the data series.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171014T103105Z" creationid="Administrator" creationdate="20171014T103105Z">
+        <seg>E' stato necessario modificare la tabella di esempio per questo capitolo perche' si adattasse alle serie temporali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The search criteria can be a number, expression, text string, or even a regular expression.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T152124Z" creationid="steevie" creationdate="20160620T152114Z">
@@ -54556,6 +55788,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The second chart is the &lt;i0/&gt;3D option in the chart wizard with a simple border and the 3D chart area twisted around.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170816T104652Z" creationid="Administrator" creationdate="20170816T104339Z">
+        <seg>Il secondo grafico e' &lt;i0/&gt;l'opzione 3D nella creazione guidata grafici, con un semplice bordo e l'area del grafico 3D da un'altra prospettiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The second is a function call with 1 parameter, which is a reference list.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T203553Z" creationid="osvaldo" creationdate="20170206T174152Z">
@@ -54656,6 +55896,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T092634Z" creationid="michele" creationdate="20160524T092634Z">
         <seg>Il numero sequenziale potrebbe non corrispondere con il nome assegnato nella linguetta del foglio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The series can also be &lt;i0/&gt;filled with a color (&lt;t1&gt;Figure 103&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171014T101203Z" creationid="Administrator" creationdate="20171014T101203Z">
+        <seg>Le serie possono anche essere &lt;i0/&gt;riempite con un colore (&lt;t1&gt;Figura 103&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -54932,6 +56180,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The text for labels is taken from the spreadsheet data and it cannot be changed here.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170704T210405Z" creationid="Administrator" creationdate="20170704T210405Z">
+        <seg>Il testo per le etichette e' preso dai dati del foglio di calcolo e non puo' essere modificato qui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The text in the labels must be identical, so that rows or columns can be accurately matched.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160527T141202Z" creationid="michele" creationdate="20160527T141202Z">
@@ -54980,6 +56236,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The third chart is an attempt to get rid of the legend and put labels showing the names of the companies on the axis instead.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170816T104843Z" creationid="Administrator" creationdate="20170816T104843Z">
+        <seg>Il terzo grafico e' il tentativo di eliminare la legenda e inserire al suo posto sull'asse i nomi delle aziende.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The time needed for creating a &lt;f1&gt;Pivot Table&lt;/f1&gt; depends mostly on the number of columns and rows and not on the size of the basic data.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T182217Z" creationid="Elisabetta Manuele" creationdate="20170301T172729Z">
@@ -55024,6 +56288,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170518T163352Z" creationid="antonio" creationdate="20160527T102830Z">
         <seg>È stato aggiunto il saldo complessivo nella cella F3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The transparency makes it easy to see the data hidden behind the first data series.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170921T080612Z" creationid="Administrator" creationdate="20170921T080612Z">
+        <seg>La trasparenza facilita la visualizzazione dei dati nascosti dietro la prima serie di dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55212,6 +56484,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then carefully select each of the pieces so that it has a wire frame highlight and right-click to get the object properties dialog; choose the &lt;f10&gt;Area&lt;/f10&gt; tab.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170916T140235Z" creationid="Administrator" creationdate="20170916T140235Z">
+        <seg>Poi selezionate con attenzione ciascuna porzione in modo che sia evidenziata da un reticolo e date clic con il pulsante destro per attivare la finestra di dialogo delle proprieta' dell'oggetto; selezionate la scheda &lt;f10&gt;Area&lt;/f10&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then carefully select the piece you wish to highlight, move the cursor to the edge of the piece and click (the piece will have nine green highlight squares to mark it), and then drag it out from the rest of the pieces.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170823T134545Z" creationid="Administrator" creationdate="20170823T134545Z">
+        <seg>In seguito selezionate accuratamente il settore che volete evidenziare, spostate il cursore sul bordo del settore, fate clic (il settore apparira' circondato da nove quadrati verdi per evidenziarlo) e poi trascinatelo fuori dagli altri settori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then choose &lt;f0&gt;File &gt; Save As&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T143231Z" creationid="michele" creationdate="20160524T143231Z">
@@ -55232,6 +56520,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161008T163232Z" creationid="Andrea" creationdate="20161008T163232Z">
         <seg>Ora eseguite una delle seguenti operazioni:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then give it a title to highlight the aspect you want to show.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171020T170256Z" creationid="Administrator" creationdate="20171020T170256Z">
+        <seg>Inserite ora un titolo per evidenziare l'aspetto che volete mostrare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55476,6 +56772,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These choices are the same as those shown in &lt;t0&gt;Figure 82&lt;/t0&gt; on page &lt;t1&gt;84&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170704T210259Z" creationid="Administrator" creationdate="20170704T210259Z">
+        <seg>Queste scelte sono uguali a quelle mostrate nella &lt;t0&gt;Figura 82&lt;/t0&gt; di pagina &lt;t1&gt;84&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These colors are stored in your color palette and are then available in all components of &lt;f4&gt;LibreOffice&lt;/f4&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T151805Z" creationid="steevie" creationdate="20160418T151805Z">
@@ -55644,6 +56948,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They are best for charts that have a relatively small number of data points.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170713T152659Z" creationid="Administrator" creationdate="20170713T152659Z">
+        <seg>Sono indicati per grafici con un numero relativamente ridotto di punti dato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They are not retained when you close the document, and they do not apply to any other document.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161209T164718Z" creationid="luciano" creationdate="20161209T164510Z">
@@ -55672,6 +56984,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160213T105131Z">
         <seg>Questi utenti sono abituati a redigere documenti considerandone le caratteristiche &lt;f0&gt;fisiche&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They are useful for comparing data that are not time series, but show different circumstances, such as variables in a scientific experiment or direction.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171003T104439Z" creationid="Administrator" creationdate="20171003T103730Z">
+        <seg>Sono utili per confrontare dati non appartenenti a serie temporali, ma che mostrano diverse circostanze, come ad esempio variabili di un esperimento scientifico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55712,6 +57032,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T143613Z" creationid="luciano" creationdate="20160509T143613Z">
         <seg>Si devono utilizzare i tasti numerici sopra le lettere della tastiera alfanumerica principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They work best with smaller numbers of values, about half a dozen; more than this and the visual impact begins to fade.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170816T105638Z" creationid="Administrator" creationdate="20170816T105638Z">
+        <seg>Funzionano meglio con un basso numero di valori, una mezza dozzina circa; piu' di cosi', e l'effetto visivo comincia a scemare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Things to do with lines: thicken them, make them &lt;i0/&gt;3D, smooth the contours, just use points.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170928T104513Z" creationid="Administrator" creationdate="20170928T104321Z">
+        <seg>Cose da fare con le linee: renderle piu' spesse, renderle&lt;i0/&gt;3D, smorzare i contorni, usare semplicemente punti	. </seg>
       </tuv>
     </tu>
     <tu>
@@ -56476,6 +57812,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is not what you want.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170921T080113Z" creationid="Administrator" creationdate="20170921T080113Z">
+        <seg>Questo non e' l'effetto desiderato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is of limited value in more complicated formulas; it is usually quicker to edit the formula by hand.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170804T205115Z" creationid="osvaldo" creationdate="20170804T204505Z">
@@ -56624,6 +57968,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T130947Z">
         <seg>Questo potrebbe in alcuni casi causare confusione, perché in presenza di una Interruzione di Colonna nella pagina, andando in  &lt;f0&gt;Modifica &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Interruzione manuale di Pagina&lt;/f3&gt;&lt;f4&gt;, la scelta &lt;/f4&gt;&lt;f5&gt;Interruzione di Colonna&lt;/f5&gt;&lt;f6&gt; potrebbe essere non disponibile (visualizzata in grigio).&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This may be one good reason to use transparency values in an area chart.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170916T141540Z" creationid="Administrator" creationdate="20170916T141540Z">
+        <seg>Questa puo' essere una buona ragione per usare valori di trasparenza in un grafico ad area.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56788,6 +58140,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This opens a dialog with several tabs where you can change the color of the label text, the size of the font, and other attributes.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170704T204028Z" creationid="Administrator" creationdate="20170704T204028Z">
+        <seg>Questa azione apre una finestra di dialogo con diverse linguette dalle quali e' possibile modificare il colore del testo delle etichette, le dimensioni del carattere ed altri attributi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This opens the Border/Background dialog.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T152449Z">
@@ -56880,6 +58240,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T153725Z" creationid="steevie" creationdate="20160428T153725Z">
         <seg>Questa pagina fornisce una veloce modalità per passare dalle scorciatoie di tastiera predefinite per Calc in LibreOffice a quelle di OpenOffice.org.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This places the long labels at an angle.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170921T081319Z" creationid="Administrator" creationdate="20170921T081319Z">
+        <seg>Cio' fa ruotare parzialmente le etichette lunghe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57176,6 +58544,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160820T053950Z" creationid="briga" creationdate="20160820T053950Z">
         <seg>Per &lt;f0&gt;copiare&lt;/f0&gt; uno stile, mantenete premuto il tasto &lt;f1&gt;Ctrl&lt;/f1&gt; mentre trascinate il nome dello stile prescelto da un elenco all'altro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To &lt;f0&gt;increase or decrease the size&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;of the chart, click and drag one of the markers in one of the four corners of the chart.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170713T143651Z" creationid="Administrator" creationdate="20170713T143651Z">
+        <seg>Per &lt;f0&gt;aumentare o diminuire le dimensioni&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;del diagramma, fate clic su uno dei contrassegni ai quattro angoli del diagramma e trascinatelo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To &lt;f2&gt;maintain the correct ratio&lt;/f2&gt; of the sides, hold the &lt;f3&gt;Shift&lt;/f3&gt; key down while you click and drag.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170713T143828Z" creationid="Administrator" creationdate="20170713T143828Z">
+        <seg>Per &lt;f2&gt;maintenere il corretto rapporto&lt;/f2&gt; tra le dimensioni, tentete premuto il tasto &lt;f3&gt;Shift&lt;/f3&gt; mentre fate clic e trascinate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57724,10 +59108,34 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To create one, choose Pie in the Chart Wizard dialog, and choose the third or fourth type of pie chart.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170916T140725Z" creationid="Administrator" creationdate="20170916T140725Z">
+        <seg>Per crearne uno scegliete Torta nella creazione guidata grafico e selezionate il terzo o quarto tipo di grafico a torta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To create the reference with the mouse, both spreadsheets need to be open.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170518T172334Z" creationid="antonio" creationdate="20160816T150236Z">
         <seg>Per creare il riferimento mediante il mouse, entrambi i fogli di lavoro devono essere aperti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To create the third variation, after doing the steps above, right-click and choose &lt;f0&gt;Chart Type&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170921T081521Z" creationid="Administrator" creationdate="20170921T081521Z">
+        <seg>Per creare la terza variante dopo aver eseguito i passi precedenti fate clic con il pulsante destro del mouse e selezionate &lt;f0&gt;Tipo di grafico&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To create this chart, first highlight the table and start the Chart Wizard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171020T165949Z" creationid="Administrator" creationdate="20171020T165949Z">
+        <seg>Per creare questo diagramma, in primo luogo evidenziate la tabella e richiamate la Procedura Guidata Diagrammi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58260,6 +59668,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To format the drawing objects, right-click and choose from the context menu.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170705T152121Z" creationid="Administrator" creationdate="20170705T152121Z">
+        <seg>Per formattare gli oggetti disegno, fate clic con il pulsante destro e scegliete dal menu contestuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To get an idea of what nested functions can do, imagine that you are designing a self-directed learning module.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170921T102204Z" creationid="osvaldo" creationdate="20170921T102204Z">
@@ -58272,6 +59688,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T173417Z" creationid="steevie" creationdate="20160428T173417Z">
         <seg>Per ottenere le estensioni presenti nell'archivio, potete aprire il Gestore estensioni e fare clic sul collegamento &lt;f0&gt;Ulteriori estensioni in linea&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To get that automatically while creating a chart, make sure that all the first columns (or rows) contain text and not only numbers.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170705T142728Z" creationid="Administrator" creationdate="20170705T142728Z">
+        <seg>Per ottenere automaticamentecolonne di categorie multiple, assicuratevi che tutte le prime colonne (o righe) contengano testo e non solo numeri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58548,6 +59972,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To make the chart look cleaner without the grid, go to &lt;f0&gt;Insert &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Grids&lt;/f3&gt; and deselect the X-axis option.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171020T171939Z" creationid="Administrator" creationdate="20171020T171939Z">
+        <seg>Per rendere il diagramma piu' pulito senza griglia, selezionate &lt;f0&gt;Inserimento &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Griglia&lt;/f3&gt; e deselezionate l'opzione asse X.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To make these changes, use the record changes feature in Calc.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T145710Z" creationid="luciano" creationdate="20160423T123048Z">
@@ -58584,6 +60016,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160509T075917Z" creationid="briga" creationdate="20160509T075917Z">
         <seg>Per modificare uno stile, fate clic con il pulsante destro del mouse sul suo nome nella finestra Stile e formattazione e selezionate &lt;f0&gt;Modifica&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To move a chart interactively:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170713T143905Z" creationid="Administrator" creationdate="20170713T143905Z">
+        <seg>:Spostamento interattivo di un diagramma</seg>
       </tuv>
     </tu>
     <tu>
@@ -58972,6 +60412,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To resize a chart interactively:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170705T152621Z" creationid="Administrator" creationdate="20170705T152621Z">
+        <seg>Per modificare le dimensioni di un diagramma in modo interattivo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To resize a print range, edit the data in the text box for the range.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T103827Z">
@@ -58984,6 +60432,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161129T170659Z" creationid="luciano" creationdate="20161129T170659Z">
         <seg>Per ridimensionare un'immagine:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To resize or move a chart using the Position and Size dialog:</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170713T144516Z" creationid="Administrator" creationdate="20170713T144516Z">
+        <seg>Per modificare le dimensioni o spostare un diagramma usando la finestra di dialogo Posizione e Dimensioni</seg>
       </tuv>
     </tu>
     <tu>
@@ -59872,6 +61328,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170302T222159Z" creationid="Marco Marega" creationdate="20170302T222159Z">
         <seg>A partire da questa è possibile aprire altre due barre degli strumenti: la barra dei Filtri Grafici, che a sua volta può essere sganciata e posizionata altrove nella finestra, e la barra del Colore, la quale invece si apre come barra degli strumenti fluttuante separata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Two variables are used for the position on the X-axis and Y-axis, while the third is shown as the relative size of each bubble.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171003T102959Z" creationid="Administrator" creationdate="20171003T102959Z">
+        <seg>Due variabili sono usate per la posizione sugli assi x e y, la terza e' rappresentata dalla dimensione relativa di ciascuna bolla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60884,6 +62348,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use these additional shapes to add explanatory notes to your chart, for example.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170705T152011Z" creationid="Administrator" creationdate="20170705T152011Z">
+        <seg>Per esempio potete utilizzare queste forme aggiuntive per aggiungere note esplicative ai vostri diagrammi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use these choices to arrange overlapping data series.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161128T221540Z" creationid="Andrea" creationdate="20161128T221540Z">
@@ -61376,6 +62848,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T130855Z" creationid="michele" creationdate="20160525T130855Z">
         <seg>Usare il menu &lt;f0&gt;Inserisci&lt;/f0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the &lt;i0/&gt;&lt;is1/&gt;Position and Size dialog</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170713T144409Z" creationid="Administrator" creationdate="20170713T144409Z">
+        <seg>Utilizzo della &lt;i0/&gt;&lt;is1/&gt;finestra di dialogo Posizione e Dimensioni dialog</seg>
       </tuv>
     </tu>
     <tu>
@@ -62020,6 +63500,30 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We also adjusted the 3D angle of the disc in the &lt;f16&gt;Perspective&lt;/f16&gt;&lt;f17&gt; &lt;/f17&gt;dialog on the same set of tabs.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170916T135206Z" creationid="Administrator" creationdate="20170916T135206Z">
+        <seg>Abbiamo anche modificato l'angolo 3D del disco nella finestra di dialogo &lt;f16&gt;Prospettiva&lt;/f16&gt;&lt;f17&gt; &lt;/f17&gt;dello stesso insieme di schede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We also changed the colors to a hatch pattern.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170816T104921Z" creationid="Administrator" creationdate="20170816T104921Z">
+        <seg>Abbiamo anche cambiato i colori inserendo un tratteggio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We also twisted the chart area around and gave the chart wall a picture of the sky.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170921T082100Z" creationid="Administrator" creationdate="20170921T082100Z">
+        <seg> Abbiamo anche attribuito una torsione all'area del grafico e inserito un'immagine del cielo sulla parete del grafico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We also want to name each of &lt;/f0&gt;&lt;f1&gt;these sheets for the account they represent: Summary, Checking Account, Savings Account, Credit Card 1, Credit Card 2, and Car Loan.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170518T160115Z" creationid="antonio" creationdate="20160524T144651Z">
@@ -62436,6 +63940,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When it changes to the &lt;f0&gt;move &lt;/f0&gt;&lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt; cursor, click and drag the chart to its new location.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170713T144133Z" creationid="Administrator" creationdate="20170713T144133Z">
+        <seg>Quando si trasforma nel cursore &lt;f0&gt;spostamento &lt;/f0&gt;&lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt; fate clic sul diagramma e trascinatelo nella nuova posizione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When moving or copying sheets between different spreadsheets, be sure that both documents are open.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T134254Z" creationid="michele" creationdate="20160525T134254Z">
@@ -62836,6 +64348,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you do this you might need to enlarge the chart area again to regain the original size of the pieces.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170823T133648Z" creationid="Administrator" creationdate="20170823T133648Z">
+        <seg>Per fare questo potreste aver bisogno di allargare di nuovo l'area del grafico per ottenere le dimensioni originali dei settori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you enter B4:A2 or A4:B2 directly, then Calc will turn it to A2:B4.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T171148Z" creationid="osvaldo" creationdate="20170206T171148Z">
@@ -62856,6 +64376,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160423T143626Z" creationid="luciano" creationdate="20160423T143626Z">
         <seg>Una volta terminato di modificare il documento, potete inviarlo all'allenatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you finish with the Chart Wizard, highlight the chart, click on the line, right-click and chose &lt;f1&gt;Format Data Series&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171020T170639Z" creationid="Administrator" creationdate="20171020T170639Z">
+        <seg>Quando avete finito con la Procedura Guidata Diagrammi evidenziate il diagramma, fate clic sulla linea, poi clic con il pulsante destro e scegliete &lt;f1&gt;Formattazione Serie di Dati&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63060,6 +64588,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you set up a stock chart in the Chart Wizard, the Data Series dialog is very important.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171014T102642Z" creationid="Administrator" creationdate="20171014T102642Z">
+        <seg>Quando impostate un diagramma quotazioni nella Procedura Guidata, la finestra di dialogo Serie di Dati e' molto importante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you successfully save a shared spreadsheet, the document shows the latest version of all changes saved by all users.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T144624Z" creationid="luciano" creationdate="20160414T155615Z">
@@ -63176,6 +64712,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T152050Z" creationid="steevie" creationdate="20160503T152050Z">
         <seg>Valter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>While constructing the chart, if you choose &lt;f0&gt;&lt;f1&gt;Data Range &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; Data series in rows&lt;/f5&gt;&lt;/f4&gt;, the first row of data represents the x-axis.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171003T101918Z" creationid="Administrator" creationdate="20171003T101918Z">
+        <seg>Durante l'impostazione del diagramma, se scegliete &lt;f0&gt;&lt;f1&gt;Intervallo Dati&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; Serie di dati in righe &lt;/f5&gt;&lt;/f4&gt;, la prima riga di dati rappresenta l'asse x.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63916,6 +65460,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also choose to set the ranges for categories to multiple columns on the Data Series page in the Wizard or the Data Ranges dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170705T143235Z" creationid="Administrator" creationdate="20170705T143235Z">
+        <seg>Potete anche decidere di impostare gli intervalli per le categorie su colonne multiple nella pagina Dati Serie nel Wizard o nella finestra di dialogo Intervalli Dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also choose whether the error indicator shows both positive and negative errors, or only positive or only negative.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Andrea" changedate="20161127T180950Z" creationid="Andrea" creationdate="20161127T180950Z">
@@ -64412,10 +65964,34 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can choose in the Chart Wizard to explode the pie chart, but this is an all or nothing option.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170823T133130Z" creationid="Administrator" creationdate="20170823T133130Z">
+        <seg>La Creazione guidata grafico permette di esplodere la torta, ma cio' vale per tutti i settori o per nessuno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can choose properties for the labels of the data series.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170704T203634Z" creationid="Administrator" creationdate="20170704T203634Z">
+        <seg>E' possibile scegliere le proprieta' per le etichette delle serie di dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can choose single sheets, multiple sheets, and selections of cells for printing.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160325T155946Z">
         <seg>Potete scegliere di stampare fogli singoli, multipli, e selezioni di celle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can choose the number of columns and lines in the Chart Wizard.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171020T165501Z" creationid="Administrator" creationdate="20171020T165501Z">
+        <seg>Potete scegliere il numero di righe e colonne nella Procedura Guidata Diagrammi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64440,6 +66016,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160429T144517Z" creationid="luciano" creationdate="20160414T155415Z">
         <seg>Potete scegliere di cancellare il comando Salva momentaneamente, o riprovare a salvarlo successivamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can choose traditional lines, candlestick, and two-column type charts.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171014T101727Z" creationid="Administrator" creationdate="20171014T101727Z">
+        <seg>Potete scegliere tra diagrammi a linee tradizionali, a candela oppure del tipo a due colonne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64624,6 +66208,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T132923Z" creationid="michele" creationdate="20160531T132923Z">
         <seg>Potete definire le regole secondo le quali ordinare in &lt;f3&gt;Dati &gt; Ordina &gt; Opzioni&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can do some interesting things with a pie chart, especially if you make it into a &lt;i0/&gt;3D chart.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170816T110642Z" creationid="Administrator" creationdate="20170816T110642Z">
+        <seg>Potete fare cose interessanti con un grafico a torta, soprattutto se lo trasformate in un &lt;i0/&gt;diagramma 3D.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65004,6 +66596,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can resize or move all elements of a chart at the same time, in two ways: interactively, or by using the Position and Size dialog.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170705T152414Z" creationid="Administrator" creationdate="20170705T152414Z">
+        <seg>Potete spostare o modificare le dimensioni di tutti gli elementi di un grafico contemporaneamente in due modi: in modo interattivo oppure usando la finestra di dialogo Posizione e Dimensione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can return to this dialog at any time and change the information you entered.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160525T101656Z" creationid="michele" creationdate="20160525T101656Z">
@@ -65216,6 +66816,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161207T165906Z" creationid="luciano" creationdate="20161207T165906Z">
         <seg>E' possibile staccare questa barra e spostarla in una posizione più pratica nella finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can temporarily change this base point to make positioning or dimensioning simpler (click on the spot corresponding to the location of the base point in either of the two selection windows on the right side of the dialog&lt;f1&gt;—&lt;/f1&gt;upper for positioning or lower for dimensioning).</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170713T145500Z" creationid="Administrator" creationdate="20170713T145500Z">
+        <seg>Potete temporaneamente modificare questo punto base per rendere piu' semplice il posizionamento o il ridimensionamento (fate clic sul punto corrispondente al punto base in una qualsiasi delle due finestre di selezione sulla destra della finestra di dialogo&lt;f1&gt;—&lt;/f1&gt;superiore per il posizionamento o inferiore per il ridimensionamento).</seg>
       </tuv>
     </tu>
     <tu>
@@ -65684,6 +67292,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You may wish to use a combination of both methods: interactive for quick and easy change, then the dialog for precise sizing and positioning.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170705T152547Z" creationid="Administrator" creationdate="20170705T152547Z">
+        <seg>Potete utilizzare una combinazione di entrambi i metodi: interattivo per modifiche facili e veloci, poi la finestra di dialogo per posizionamento e ridimensionamento precisi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You might want to avoid updating links when opening documents if they often contain many charts or linked graphics that would slow down loading.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160427T131223Z" creationid="steevie" creationdate="20160427T131223Z">
@@ -65760,6 +67376,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170204T163700Z" creationid="Marco Marega" creationdate="20170204T163700Z">
         <seg>Dovete prendere nota della posizione delle immagini ed assicurarvi che il destinatario sappia dove salvarle su di un altro computer, in modo che il documento di Calc le possa ritrovare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You need to tell it which series is for the opening price, closing price, high and low price of the stock and so on.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171014T102849Z" creationid="Administrator" creationdate="20171014T102849Z">
+        <seg>Nella finestra dovete indicare quali serie rappresentano il prezzo di apertura, di chiusura, massimo, minimo delle quotazioni e cosi' via.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66100,6 +67724,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>area chart</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170921T081337Z" creationid="Administrator" creationdate="20170921T081337Z">
+        <seg>grafico ad area</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>area charts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170916T140943Z" creationid="Administrator" creationdate="20170916T140943Z">
+        <seg>Grafico ad area</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>arguments</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160615T155545Z" creationid="luciano" creationdate="20160615T151006Z">
@@ -66260,6 +67900,22 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>bar chart</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170816T103858Z" creationid="Administrator" creationdate="20170816T103858Z">
+        <seg>grafico a barre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bar charts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170713T152954Z" creationid="Administrator" creationdate="20170713T152954Z">
+        <seg>grafici a barre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>basic arithmetic</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170925T204005Z" creationid="osvaldo" creationdate="20170925T204005Z">
@@ -66296,6 +67952,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170924T163741Z" creationid="osvaldo" creationdate="20170924T163039Z">
         <seg>dividere in più parti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bubble charts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171003T102520Z" creationid="Administrator" creationdate="20171003T102520Z">
+        <seg>Diagrammi a bolla</seg>
       </tuv>
     </tu>
     <tu>
@@ -66449,6 +68113,22 @@ ordine del calcolo</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160418T151337Z" creationid="steevie" creationdate="20160418T151337Z">
         <seg>colori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>column and line charts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171014T103737Z" creationid="Administrator" creationdate="20171014T103737Z">
+        <seg>diagrammi a colonna e lineari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>column charts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170713T152432Z" creationid="Administrator" creationdate="20170713T152432Z">
+        <seg>grafici a colonna</seg>
       </tuv>
     </tu>
     <tu>
@@ -67165,6 +68845,14 @@ ordine del calcolo</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>filled net charts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171003T105259Z" creationid="Administrator" creationdate="20171003T105259Z">
+        <seg>Riempimento di diagrammi reticolari. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>filtering</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160723T163445Z" creationid="steevie" creationdate="20160510T140724Z">
@@ -67709,6 +69397,22 @@ ordine del calcolo</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>line chart</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170928T103217Z" creationid="Administrator" creationdate="20170928T103217Z">
+        <seg>grafici a lineet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>line charts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170928T102719Z" creationid="Administrator" creationdate="20170928T102719Z">
+        <seg>grafici a linee</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>linked</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T105624Z" creationid="Elisabetta Manuele" creationdate="20170524T105624Z">
@@ -68005,6 +69709,14 @@ ordine del calcolo</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>net charts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171003T104350Z" creationid="Administrator" creationdate="20171003T103407Z">
+        <seg>diagrammi reticolari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>non-linked</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T104611Z" creationid="Elisabetta Manuele" creationdate="20170524T104611Z">
@@ -68265,6 +69977,22 @@ ordine del calcolo</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20161129T165603Z" creationid="luciano" creationdate="20161129T165603Z">
         <seg>foto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>pie chart</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170816T110504Z" creationid="Administrator" creationdate="20170816T110504Z">
+        <seg>grafico a torta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>pie charts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170816T104933Z" creationid="Administrator" creationdate="20170816T104933Z">
+        <seg>grafici a torta</seg>
       </tuv>
     </tu>
     <tu>
@@ -68669,6 +70397,14 @@ ordine del calcolo</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>scatter charts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20170928T104708Z" creationid="Administrator" creationdate="20170928T104708Z">
+        <seg>grafici a dispersione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>scenarios</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160531T155219Z" creationid="michele" creationdate="20160531T155219Z">
@@ -68953,6 +70689,14 @@ ordine del calcolo</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160524T093659Z" creationid="michele" creationdate="20160524T093659Z">
         <seg>indicatore della barra di stato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>stock charts</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Administrator" changedate="20171014T101350Z" creationid="Administrator" creationdate="20171014T101350Z">
+        <seg>diagrammi quotazioni</seg>
       </tuv>
     </tu>
     <tu>
