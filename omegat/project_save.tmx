@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_6_r9896:9964" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_0_9954:9957" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7546,6 +7546,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160824T073353Z" creationid="briga" creationdate="20160824T073353Z">
         <seg>&lt;f0&gt;La prossima volta che create un documento da &lt;/f0&gt;&lt;f1&gt;File &gt; Nuovo&lt;/f1&gt;&lt;f2&gt;,&lt;/f2&gt;&lt;f3&gt; il documento verrà creato dal modello predefinito di &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;LibreOffice&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; per i fogli elettronici&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The other tabs on the dialog, &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Line&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Numbers&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Font&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; and &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Font&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Effects&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; are pretty straightforward and need little explanation.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171028T083701Z" creationid="Marco Marega" creationdate="20171028T083701Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
