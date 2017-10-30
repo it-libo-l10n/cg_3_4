@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2496,8 +2496,8 @@
       <tuv lang="EN">
         <seg>&lt;/f1&gt;&lt;f2&gt;The contributors to that book are listed on page &lt;/f2&gt;&lt;f3&gt;&lt;bf4&gt;13&lt;/bf4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160130T090437Z">
-        <seg>&lt;/f1&gt;&lt;f2&gt;I collaboratori di tale Guida sono elencati a pagina &lt;/f2&gt;&lt;f3&gt;&lt;bf4&gt;13&lt;/bf4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171030T164809Z">
+        <seg>?????????????&lt;/f1&gt;&lt;f2&gt;I collaboratori di tale Guida sono elencati a pagina &lt;/f2&gt;&lt;f3&gt;&lt;bf4&gt;13&lt;/bf4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23098,8 +23098,8 @@
       <tuv lang="EN">
         <seg>Feedback</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20171029T153134Z">
-        <seg>???????????????Commenti e suggerimenti</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171030T164530Z">
+        <seg>Commenti e suggerimenti</seg>
       </tuv>
     </tu>
     <tu>
