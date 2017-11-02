@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -62718,8 +62718,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>Using Styles and Templates in Calc</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20171101T162024Z">
-        <seg>?????????????????Uso di Stili e Modelli in Calc</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171102T100430Z">
+        <seg>Uso di stili e modelli in Calc</seg>
       </tuv>
     </tu>
     <tu>
