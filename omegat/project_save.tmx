@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -27114,8 +27114,8 @@
       <tuv lang="EN">
         <seg>For example, you can help with producing and maintaining written user documentation, producing video tutorials, and other user support services.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160210T084626Z">
-        <seg>Ad esempio, potete contribuire producendo a manutenendo documentazione scritta per gli utenti, realizzando delle guide in video e altri servizi di supporto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20171115T110513Z">
+        <seg>Ad esempio, potete contribuire alla produzione e al mantenimento della documentazione per gli utenti, alla produzione di tutorial video e ad altri tipi di supporto all'utente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66350,8 +66350,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>You can help with the development and user support of LibreOffice in many ways, and you do not need to be a programmer.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171114T173153Z">
-        <seg>?????????????????????Potete contribuire allo sviluppo e al supporto degli utenti di LibreOffice in molti modi, senza necessariamente essere un programmatore.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20171115T110230Z">
+        <seg>È possibile contribuire allo sviluppo e al supporto degli utenti di LibreOffice in molti modi, senza necessariamente essere un programmatore.</seg>
       </tuv>
     </tu>
     <tu>
