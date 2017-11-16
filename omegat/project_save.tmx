@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -30138,8 +30138,8 @@
       <tuv lang="EN">
         <seg>If any part of the Calc window in &lt;t0&gt;Figure 2&lt;/t0&gt; is not shown, you can display it using the View menu.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160322T163355Z">
-        <seg>Nel caso qualche componente della finestra di Calc in &lt;t0&gt;Figura 2&lt;/t0&gt; non sia visualizzata, puoi visualizzarla usando il menu Visualizza.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171116T083846Z">
+        <seg>???????????????Nel caso qualche componente della finestra di Calc in &lt;t0&gt;Figura 2&lt;/t0&gt; non sia visualizzata, puoi visualizzarla usando il menu Visualizza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63662,8 +63662,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>When Calc is started, the &lt;i0/&gt;main window looks similar to &lt;t1&gt;Figure 2&lt;/t1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20171115T152816Z">
-        <seg>?????????????????Quando Calc viene avviato, la &lt;i0/&gt;finestra principale appare come in &lt;t1&gt;Figura 2&lt;/t1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171116T083839Z">
+        <seg>Quando Calc viene avviato, la &lt;i0/&gt;finestra principale appare come in &lt;t1&gt;Figura 2&lt;/t1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
