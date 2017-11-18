@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_6_r9896:9964" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -27906,8 +27906,8 @@
       <tuv lang="EN">
         <seg>Four&lt;f0&gt; &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;toolbars&lt;/f2&gt; are located under the Menu bar by default: the Standard tool&lt;f3&gt;bar, the Find toolbar, the Formatting toolbar, and the Formula Bar.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171117T152552Z">
-        <seg>??????????????Quattro&lt;f0&gt; &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;barre degli strumenti&lt;/f2&gt; sono posizionate sotto barra dei menu in maniera predefinita: la barra degli strumenti Standard&lt;f3&gt;, quella di ricerca, quella di formattazione, e quella delle formule.&lt;/f3&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20171118T231404Z">
+        <seg>??????????????Quattro&lt;f0&gt; &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;barre degli strumenti&lt;/f2&gt; sono posizionate la sotto barra dei menu per impostazione predefinita: la barra degli strumenti Standard&lt;f3&gt;, quella di Ricerca, quella di Formattazione, e quella delle formule.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
