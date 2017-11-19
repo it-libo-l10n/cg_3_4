@@ -3376,8 +3376,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Using &lt;/f1&gt;&lt;/f0&gt;&lt;is2/&gt;&lt;is3/&gt;&lt;f4&gt;&lt;f5&gt;manual line breaks&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160701T101307Z" creationid="Elisabetta" creationdate="20160701T101307Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;&lt;is2/&gt;Interruzioni di riga manuali &lt;/f1&gt;&lt;/f0&gt;&lt;is3/&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20171119T181257Z" creationid="Elisabetta" creationdate="20160701T101307Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Interruzioni di riga manuali &lt;/f1&gt;&lt;/f0&gt;&lt;is2/&gt;&lt;is3/&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7602,14 +7602,6 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160824T073353Z" creationid="briga" creationdate="20160824T073353Z">
         <seg>&lt;f0&gt;La prossima volta che create un documento da &lt;/f0&gt;&lt;f1&gt;File &gt; Nuovo&lt;/f1&gt;&lt;f2&gt;,&lt;/f2&gt;&lt;f3&gt; il documento verrà creato dal modello predefinito di &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;LibreOffice&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; per i fogli elettronici&lt;/f6&gt;.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>&lt;f0&gt;The other tabs on the dialog, &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Line&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Numbers&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;Font&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; and &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;Font&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;Effects&lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt; are pretty straightforward and need little explanation.</seg>
-      </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20171028T083701Z" creationid="Marco Marega" creationdate="20171028T083701Z">
-        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -18498,8 +18490,8 @@
       <tuv lang="EN">
         <seg>Clicking on a hotspot causes Calc to open the linked page in the appropriate program (for example, the default browser for an HTML page; &lt;f3&gt;LibreOffice&lt;/f3&gt; Calc for a .ODS file; a PDF viewer for a PDF file).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161214T131310Z" creationid="luciano" creationdate="20161214T131310Z">
-        <seg>Facendo clic su un hotspot Calc aprirà la pagina collegata con il programma appropriato (ad esempio, il browser predefinito per una pagina HTML; LibreOffice Calc per un file .ODS; un visualizzatore PDF per un file PDF).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20171119T181350Z" creationid="luciano" creationdate="20161214T131310Z">
+        <seg>Facendo clic su un hotspot Calc aprirà la pagina collegata con il programma appropriato (ad esempio, il browser predefinito per una pagina HTML; &lt;f3&gt;LibreOffice&lt;/f3&gt; Calc per un file .ODS; un visualizzatore PDF per un file PDF).</seg>
       </tuv>
     </tu>
     <tu>
@@ -40348,8 +40340,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Other information (the name of the person on the Created and Modified lines of the &lt;f2&gt;General&lt;/f2&gt; page) is derived from the User Data page in &lt;f3&gt;Tools &gt; Options&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160525T102135Z" creationid="michele" creationdate="20160525T102135Z">
-        <seg>Altre informazioni (il nome della persona sulle righe Creato e Modificato della scheda &lt;f3&gt;Generale&lt;/f3&gt;) sono derivate dalla scheda Dati utente sotto &lt;f3&gt;Strumenti &gt; Opzioni &lt;/f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20171119T181208Z" creationid="michele" creationdate="20160525T102135Z">
+        <seg>Altre informazioni (il nome della persona sulle righe Creato e Modificato della scheda &lt;f2&gt;Generale&lt;/f2&gt;) sono derivate dalla scheda Dati utente sotto &lt;f3&gt;Strumenti &gt; Opzioni &lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47772,16 +47764,16 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Selecting &lt;f1&gt;Results to&lt;/f1&gt; as &lt;f2&gt;– undefined –&lt;/f2&gt; and entering a cell reference tells the &lt;f3&gt;Pivot Table&lt;/f3&gt; where to show the results.&lt;t4/&gt; &lt;s5/&gt;An error dialog is displayed if you fail to enter a cell reference.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T164125Z" creationid="Elisabetta Manuele" creationdate="20170228T164125Z">
-        <seg>Scegliendo la voce &lt;f2&gt;– Non definito &lt;/f2&gt;– per l'opzione &lt;f1&gt;Risultato in&lt;/f1&gt; e inserendo il riferimento a una cella, vengono fornite alla &lt;f3&gt;Tabella pivot&lt;/f3&gt; indicazioni sull'area in cui saranno visibili i risultati.&lt;t4/&gt; &lt;s5/&gt;La comparsa di una finestra di errore indica che si sono commesse inesattezze nell'inserire riferimenti di cella.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20171119T181440Z" creationid="Elisabetta Manuele" creationdate="20170228T164125Z">
+        <seg>Scegliendo la voce &lt;f1&gt;– Non definito &lt;/f1&gt;– per l'opzione &lt;f2&gt;Risultato in&lt;/f2&gt; e inserendo il riferimento a una cella, vengono fornite alla &lt;f3&gt;Tabella pivot&lt;/f3&gt; indicazioni sull'area in cui saranno visibili i risultati.&lt;t4/&gt; &lt;s5/&gt;La comparsa di una finestra di errore indica che si sono commesse inesattezze nell'inserire riferimenti di cella.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Selecting &lt;f6&gt;Results to&lt;/f6&gt; as &lt;f7&gt;- new sheet –&lt;/f7&gt; &lt;s8/&gt;adds a new sheet to the spreadsheet file and places the results there.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T165119Z" creationid="Elisabetta Manuele" creationdate="20170228T165119Z">
-        <seg>Scegliendo la voce &lt;f7&gt;– Nuovo foglio –&lt;/f7&gt; per l'opzione &lt;f6&gt;Risultato in&lt;/f6&gt; &lt;s8/&gt;viene inserito un nuovo foglio al file del foglio di lavoro in cui saranno visualizzati i risultati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20171119T181523Z" creationid="Elisabetta Manuele" creationdate="20170228T165119Z">
+        <seg>Scegliendo la voce &lt;f6&gt;– Nuovo foglio –&lt;/f6&gt; per l'opzione &lt;f7&gt;Risultato in&lt;/f7&gt; &lt;s8/&gt;viene inserito un nuovo foglio al file del foglio di lavoro in cui saranno visualizzati i risultati.</seg>
       </tuv>
     </tu>
     <tu>
