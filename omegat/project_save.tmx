@@ -17274,8 +17274,8 @@
       <tuv lang="EN">
         <seg>Click &lt;f0&gt;&lt;f1&gt;∑&lt;/f1&gt;&lt;/f0&gt; into the current cell totals the numbers in the cells above the current cell.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160524T082622Z" creationid="michele" creationdate="20160524T082622Z">
-        <seg>Fare clic su&lt;f0&gt;&lt;f1&gt;∑&lt;/f1&gt;&lt;/f0&gt; somma le celle superiori nella cella selezionata.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171121T121013Z" creationid="michele" creationdate="20160524T082622Z">
+        <seg>Facendo clic sul pulsante &lt;f0&gt;&lt;f1&gt;∑&lt;/f1&gt;&lt;/f0&gt; verranno sommati nella cella corrente i numeri presenti nelle celle al di sopra della cella corrente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31034,8 +31034,8 @@
       <tuv lang="EN">
         <seg>If there are no numbers above the current cell, then the cells to the left are placed in the Sum formula.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160524T082715Z" creationid="michele" creationdate="20160524T082715Z">
-        <seg>Se non ci fossero numeri sopra la cella selezionata, le celle sulla sinistra di quella selezionata saranno prese in considerazione.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171121T121334Z" creationid="michele" creationdate="20160524T082715Z">
+        <seg>Se non vi fossero numeri al di sopra della cella corrente, nella formula della Somma verranno inserite le celle alla sua sinistra.</seg>
       </tuv>
     </tu>
     <tu>
