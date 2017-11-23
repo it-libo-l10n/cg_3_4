@@ -48500,8 +48500,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Sheet sequence number (&lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171122T170803Z" creationid="michele" creationdate="20160524T092418Z">
-        <seg>?????????????Numero sequenza dei fogli(&lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;)</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171123T121137Z" creationid="michele" creationdate="20160524T092418Z">
+        <seg>Numero di sequenza dei fogli (&lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -48780,8 +48780,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Shows the sequence number of the current sheet and the total number of sheets in the spreadsheet.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160524T092533Z" creationid="michele" creationdate="20160524T092533Z">
-        <seg>Mostra il numero del foglio corrente e il numero totale dei fogli in un foglio di lavoro.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171123T121134Z" creationid="michele" creationdate="20160524T092533Z">
+        <seg>Mostra il numero di sequenza del foglio corrente e il numero totale dei fogli in un foglio di lavoro.</seg>
       </tuv>
     </tu>
     <tu>
