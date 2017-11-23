@@ -18466,8 +18466,8 @@
       <tuv lang="EN">
         <seg>Click to toggle between &lt;f0&gt;INSRT&lt;/f0&gt; (&lt;f1&gt;Insert&lt;/f1&gt;) and &lt;f2&gt;OVER&lt;/f2&gt; (&lt;f3&gt;Overwrite&lt;/f3&gt;) modes when typing.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171123T140909Z" creationid="michele" creationdate="20160524T093138Z">
-        <seg>????????????Fare clic per passare alternativamente alle modalità &lt;f0&gt;INSRT&lt;/f0&gt; (&lt;f1&gt;inserimento&lt;/f1&gt;) e &lt;f2&gt;OVER&lt;/f2&gt; (&lt;f3&gt;Sovrascrittura&lt;/f3&gt;).</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171123T143521Z" creationid="michele" creationdate="20160524T093138Z">
+        <seg>Fate clic per commutare tra le modalità di digitazione &lt;f0&gt;INS&lt;/f0&gt; (&lt;f1&gt;Inserimento&lt;/f1&gt;) e &lt;f2&gt;SSC&lt;/f2&gt; (&lt;f3&gt;Sovrascrittura&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -57414,8 +57414,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>This field is blank when the spreadsheet is not in a typing mode (for example, when selecting cells).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160524T093232Z" creationid="michele" creationdate="20160524T093232Z">
-        <seg>Questo campo è vuoto quando il foglio non è in modalità digitazione (per esempio, quando si selezionano delle celle).</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171123T143527Z" creationid="michele" creationdate="20160524T093232Z">
+        <seg>??????????????Questo campo è vuoto quando il foglio non è in modalità digitazione (per esempio, quando si selezionano delle celle).</seg>
       </tuv>
     </tu>
     <tu>
