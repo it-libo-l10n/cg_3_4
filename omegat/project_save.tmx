@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_6_r9896:9964" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -57534,8 +57534,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>This icon replaces the standard icon &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt; if changes to the spreadsheet have not been saved.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171124T145601Z" creationid="michele" creationdate="20160524T093647Z">
-        <seg>????????????????Questa icona sostituisce l'icona predefinita &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt; se le modifiche al foglio di lavoro non sono state salvate.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20171124T185439Z" creationid="michele" creationdate="20160524T093647Z">
+        <seg>Questa icona sostituisce l'icona standard &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt; se le modifiche al foglio di lavoro non sono state salvate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68503,8 +68503,8 @@ ordine del calcolo</seg>
       <tuv lang="EN">
         <seg>digital signature</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160524T093705Z" creationid="michele" creationdate="20160524T093705Z">
-        <seg>Firma digitale</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20171124T185519Z" creationid="michele" creationdate="20160524T093705Z">
+        <seg>firma digitale</seg>
       </tuv>
     </tu>
     <tu>
