@@ -31546,8 +31546,8 @@
       <tuv lang="EN">
         <seg>If you do not select &lt;f0&gt;Text CSV (*csv;*txt) &lt;/f0&gt;as the file type when opening the file, the document opens in Writer, not Calc.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160524T135251Z" creationid="michele" creationdate="20160524T135251Z">
-        <seg>Se non si seleziona &lt;f0&gt;Text CSV (*csv;*txt) &lt;/f0&gt;come il tipo di file da aprire, il documento si aprirà in Writer e non in Calc.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171130T160105Z" creationid="michele" creationdate="20160524T135251Z">
+        <seg>?????????????????Se non si seleziona &lt;f0&gt;Text CSV (*csv;*txt) &lt;/f0&gt;come il tipo di file da aprire, il documento si aprirà in Writer e non in Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52477,8 +52477,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The choices in the &lt;f0&gt;Other&lt;/f0&gt; &lt;f1&gt;options&lt;/f1&gt; section determine whether quoted data will always be imported as text, and whether Calc will automatically detect all number formats, including special number formats such as dates, time, and scientific notation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20171119T162151Z" creationid="michele" creationdate="20160524T134801Z">
-        <seg>Le scelte nell'opzione &lt;f0&gt;Altro&lt;/f0&gt; &lt;f1&gt;&lt;/f1&gt;determina se i dati tra virgolette saranno sempre importati come testo, e se Calc determinerà automaticamente i formati dei numeri, incluso numeri speciali come data, ora e notazione scientifica.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171130T155824Z" creationid="michele" creationdate="20160524T134801Z">
+        <seg>Le scelte nella sezione &lt;f0&gt;Altre&lt;/f0&gt; &lt;f1&gt;opzioni&lt;/f1&gt; determinano se i dati tra virgolette saranno sempre importati come testo, e se Calc rileverà automaticamente tutti i formati numerici, inclusi formati di numeri speciali come data, ora e notazione scientifica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53069,8 +53069,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The detection depends on the language settings.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160524T135149Z" creationid="michele" creationdate="20160524T135149Z">
-        <seg>l'individuazione dipende dalla lingua impostata.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171130T160032Z" creationid="michele" creationdate="20160524T135149Z">
+        <seg>L'individuazione dipende dalle impostazioni della lingua.</seg>
       </tuv>
     </tu>
     <tu>
