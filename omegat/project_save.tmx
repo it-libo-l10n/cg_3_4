@@ -30930,16 +30930,16 @@
       <tuv lang="EN">
         <seg>If the spreadsheet has been previously saved, then saving it using the &lt;f0&gt;Save&lt;/f0&gt; (or &lt;f1&gt;Save All&lt;/f1&gt;) command will overwrite an existing copy.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160524T135856Z" creationid="michele" creationdate="20160524T135856Z">
-        <seg>Se il foglio di lavoro è già stato salvato i comandi &lt;f0&gt;Salva&lt;/f0&gt; (o &lt;f1&gt;Salva tutto&lt;/f1&gt;) sovrascriveranno le copie precedenti.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171130T170239Z" creationid="michele" creationdate="20160524T135856Z">
+        <seg>??????????????????Se il foglio di lavoro è già stato salvato i comandi &lt;f0&gt;Salva&lt;/f0&gt; (o &lt;f1&gt;Salva tutto&lt;/f1&gt;) sovrascriveranno le copie precedenti.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If the spreadsheet has not been saved previously, then each of these actions will open the Save As dialog.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160524T135636Z" creationid="michele" creationdate="20160524T135636Z">
-        <seg>Se il foglio di lavoro non è stato ancora salvato, ognuna di queste azioni aprirà la finestra Salva come.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171130T170015Z" creationid="michele" creationdate="20160524T135636Z">
+        <seg>Se il foglio di lavoro non è stato salvato in precedenza, ognuna di queste operazioni aprirà la finestra di dialogo Salva con nome.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56614,8 +56614,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>There you can specify the spreadsheet name and the location in which to save it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160524T140603Z" creationid="michele" creationdate="20160524T135734Z">
-        <seg>LÌ potete specificare il nome del foglio di lavoro e il percorso dove salvare il file.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171130T170231Z" creationid="michele" creationdate="20160524T135734Z">
+        <seg>LÌ potete specificare il nome del foglio elettronico e la posizione in cui salvare il file.</seg>
       </tuv>
     </tu>
     <tu>
