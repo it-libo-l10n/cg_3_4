@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_6_r9896:9964" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -59686,8 +59686,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>To have Calc save documents by default in a Microsoft Excel file format, go to &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; General&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171201T135700Z" creationid="michele" creationdate="20160524T144426Z">
-        <seg>???????????????????&lt;f0&gt;Strumenti &gt; Opzioni &gt; Carica/Salva &gt; Generale&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20171201T233729Z" creationid="michele" creationdate="20160524T144426Z">
+        <seg>Per fare in modo che Calc salvi in modo predefinito i documenti in un formato file di Microsoft Excel utilizzate &lt;f0&gt;Strumenti &gt; Opzioni &gt; Carica/salva &gt; Generale&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
