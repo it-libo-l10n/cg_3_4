@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_6_r9896:9964" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19946,8 +19946,8 @@
       <tuv lang="EN">
         <seg>Customizing&lt;i0/&gt; the effect of the &lt;f1&gt;Enter&lt;/f1&gt; key</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160525T105543Z" creationid="michele" creationdate="20160525T105543Z">
-        <seg>personalizzare&lt;i0/&gt; l'effetto del tasto &lt;f1&gt;Invio&lt;/f1&gt; key</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20171205T231919Z" creationid="michele" creationdate="20160525T105543Z">
+        <seg>Personalizzare&lt;i0/&gt; l'effetto del tasto &lt;f1&gt;Invio&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22146,8 +22146,8 @@
       <tuv lang="EN">
         <seg>Enter key</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171205T150247Z" creationid="michele" creationdate="20160525T105525Z">
-        <seg>?????????????????Tasto Invio</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20171205T231643Z" creationid="michele" creationdate="20160525T105525Z">
+        <seg>Tasto Invio</seg>
       </tuv>
     </tu>
     <tu>
@@ -66062,8 +66062,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>You can customize the direction in which the &lt;f0&gt;Enter&lt;/f0&gt; key moves the focus, by selecting &lt;f1&gt;Tools &gt; Options &gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;LibreOffice&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Calc &gt; General&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160525T110100Z" creationid="michele" creationdate="20160525T110100Z">
-        <seg>Puoi personalizzare la direzione nella quale il tasto &lt;f0&gt;invio&lt;/f0&gt; sposta la selezione, selezionando &lt;f1&gt;Strumenti &gt; Opzioni &gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;LibreOffice&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Calc &gt; Generale&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20171205T231924Z" creationid="michele" creationdate="20160525T110100Z">
+        <seg>???????????????????Puoi personalizzare la direzione nella quale il tasto &lt;f0&gt;invio&lt;/f0&gt; sposta la selezione, selezionando &lt;f1&gt;Strumenti &gt; Opzioni &gt; &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;LibreOffice&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Calc &gt; Generale&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -68263,8 +68263,8 @@ ordine del calcolo</seg>
       <tuv lang="EN">
         <seg>customizing</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T162357Z" creationid="steevie" creationdate="20160428T162357Z">
-        <seg>Personalizzare</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20171205T231657Z" creationid="steevie" creationdate="20160428T162357Z">
+        <seg>personalizzazione</seg>
       </tuv>
     </tu>
     <tu>
