@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_6_r9896:9964" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5520,8 +5520,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Home&lt;/f0&gt; moves the focus to the start of a row.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171204T174236Z" creationid="michele" creationdate="20160525T095710Z">
-        <seg>??????????????Il tasto &lt;f0&gt;Inizio&lt;/f0&gt; sposta la selezione all'inizio della riga.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171205T083836Z" creationid="michele" creationdate="20160525T095710Z">
+        <seg>Il tasto &lt;f0&gt;Home&lt;/f0&gt; sposta la selezione all'inizio della riga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18626,8 +18626,8 @@
       <tuv lang="EN">
         <seg>Combinations of &lt;f0&gt;Control&lt;/f0&gt; &lt;s1/&gt;(often represented on keyboards as &lt;f2&gt;Ctrl&lt;/f2&gt;) and &lt;f3&gt;Alt&lt;/f3&gt; with &lt;f4&gt;Home&lt;/f4&gt;, &lt;f5&gt;End&lt;/f5&gt;, &lt;f6&gt;Page Down (PgDn)&lt;/f6&gt;, &lt;f7&gt;Page Up (PgUp)&lt;/f7&gt;, and the arrow keys move the focus of the current cell in other ways.&lt;f8&gt; &lt;/f8&gt;&lt;t9&gt;Table 2&lt;/t9&gt; describes the keyboard shortcuts for moving about a spreadsheet.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160525T100410Z" creationid="michele" creationdate="20160525T100410Z">
-        <seg>La combinazione di &lt;f0&gt;Ctrl&lt;/f0&gt; &lt;s1/&gt;(spesso rappresntato sulla tastiera con la scritta &lt;f2&gt;Ctrl&lt;/f2&gt;) e &lt;f3&gt;Alt&lt;/f3&gt; con &lt;f4&gt;(Home)&lt;/f4&gt;, &lt;f5&gt;(End)&lt;/f5&gt;, &lt;f6&gt;Page Down (PgDn)&lt;/f6&gt;, &lt;f7&gt;Page Up (PgUp)&lt;/f7&gt;, e dei tasti freccia spostano la selezione dalla cella corrente in altre direzioni.&lt;f8&gt; &lt;/f8&gt;&lt;t9&gt;Tabella 2&lt;/t9&gt; descrive le scorciatoie da tastiera per spostarsi in un foglio di calcolo.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171205T084227Z" creationid="michele" creationdate="20160525T100410Z">
+        <seg>???????????????La combinazione di &lt;f0&gt;Ctrl&lt;/f0&gt; &lt;s1/&gt;(spesso rappresntato sulla tastiera con la scritta &lt;f2&gt;Ctrl&lt;/f2&gt;) e &lt;f3&gt;Alt&lt;/f3&gt; con &lt;f4&gt;(Home)&lt;/f4&gt;, &lt;f5&gt;(End)&lt;/f5&gt;, &lt;f6&gt;Page Down (PgDn)&lt;/f6&gt;, &lt;f7&gt;Page Up (PgUp)&lt;/f7&gt;, e dei tasti freccia spostano la selezione dalla cella corrente in altre direzioni.&lt;f8&gt; &lt;/f8&gt;&lt;t9&gt;Tabella 2&lt;/t9&gt; descrive le scorciatoie da tastiera per spostarsi in un foglio di calcolo.</seg>
       </tuv>
     </tu>
     <tu>
