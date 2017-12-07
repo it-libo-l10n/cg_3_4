@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15954,8 +15954,8 @@
       <tuv lang="EN">
         <seg>Cells can be selected using a number of methods and in a variety of combinations and quantities.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160525T122903Z" creationid="michele" creationdate="20160525T122903Z">
-        <seg>Le celle possono essere selezionate usando una serie di metodi e una varietà di combinazioni e quantità.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171207T083049Z" creationid="michele" creationdate="20160525T122903Z">
+        <seg>?????????????????Le celle possono essere selezionate usando una serie di metodi e una varietà di combinazioni e quantità.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47844,8 +47844,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Selecting items in a sheet or spreadsheet</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20171206T140234Z">
-        <seg>?????????????????Selezionare elementi in un singolo foglio o in un intero foglio elettronico</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171207T083021Z">
+        <seg>Selezionare elementi in un singolo foglio o in un intero foglio elettronico</seg>
       </tuv>
     </tu>
     <tu>
