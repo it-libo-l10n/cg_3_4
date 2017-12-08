@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_6_r9896:9964" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -60494,8 +60494,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>To select a single column, click on the column identifier letter (see &lt;t0&gt;Figure 2&lt;/t0&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171207T172133Z" creationid="michele" creationdate="20160525T124628Z">
-        <seg>??????????????Per selezionare una singola colonna, fate clic sulla lettera identificativa della colonna (si veda la &lt;t0&gt;Figura 2&lt;/t0&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20171208T180945Z" creationid="michele" creationdate="20160525T124628Z">
+        <seg>Per selezionare una singola colonna, fate clic sulla lettera identificativa della colonna (vedere la &lt;t0&gt;Figura 24&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
