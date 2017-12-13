@@ -12650,8 +12650,8 @@
       <tuv lang="EN">
         <seg>Apart from the first character of the sheet name, allowed characters are letters, numbers, spaces, and the underscore character.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160525T145208Z" creationid="michele" creationdate="20160525T145208Z">
-        <seg>A parte il primo carattere del nome del foglio, i caratteri permessi includono lettere, numeri, spazi, e caratteri sottolineati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20171213T110551Z" creationid="michele" creationdate="20160525T145208Z">
+        <seg>A parte il primo carattere del nome del foglio, i caratteri permessi includono lettere, numeri, spazi e il trattino basso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48476,8 +48476,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Sheet names must start with either a letter or a number; other characters including spaces are not allowed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20171213T105904Z" creationid="michele" creationdate="20160525T145139Z">
-        <seg>Il nome dei fogli deve cominciare con una lettera o con un numero; altri caratteri incluso gli spazi non sono permessi.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20171213T110211Z" creationid="michele" creationdate="20160525T145139Z">
+        <seg>I nomi dei fogli devono iniziare con una lettera o un numero; altri caratteri, inclusi gli spazi, non sono permessi.</seg>
       </tuv>
     </tu>
     <tu>
