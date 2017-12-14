@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -32746,8 +32746,8 @@
       <tuv lang="EN">
         <seg>In addition to using the Zoom slider on the Status bar (see page &lt;bf0&gt;24&lt;/bf0&gt;), you can open the Zoom &lt;is1/&gt;dialog&lt;ie2/&gt; and make a selection on the left-hand side.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160525T145500Z" creationid="michele" creationdate="20160525T145500Z">
-        <seg>Otre all'uso del cursore dello Zoom sulla barra di stato (vedi pagina &lt;bf0&gt;24&lt;/bf0&gt;), puoi aprire la finestra di &lt;is1/&gt;dialogo &lt;ie2/&gt; Zoom ed effettuare una selezione sul lato sinistro.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171214T082921Z" creationid="michele" creationdate="20160525T145500Z">
+        <seg>????????????Otre all'uso del cursore dello Zoom sulla barra di stato (vedi pagina &lt;bf0&gt;24&lt;/bf0&gt;), puoi aprire la finestra di &lt;is1/&gt;dialogo &lt;ie2/&gt; Zoom ed effettuare una selezione sul lato sinistro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62110,8 +62110,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>Use the &lt;is0/&gt;zoom&lt;ie1/&gt; function to change the view to show more or fewer cells in the window.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20171213T110735Z" creationid="michele" creationdate="20160525T145245Z">
-        <seg>????????????????????Usate la funzione &lt;is0/&gt;zoom&lt;ie1/&gt; per modificare la visualizzazione e mostrare più o meno celle nella finestra.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171214T082903Z" creationid="michele" creationdate="20160525T145245Z">
+        <seg>Usate la funzione &lt;is0/&gt;zoom&lt;ie1/&gt; per modificare la visualizzazione e mostrare più o meno celle nella finestra.</seg>
       </tuv>
     </tu>
     <tu>
