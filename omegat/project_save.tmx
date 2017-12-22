@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17762,8 +17762,8 @@
       <tuv lang="EN">
         <seg>Click in the cell and type in the number using the number keys on either the main keyboard or the numeric keypad.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171221T173043Z" creationid="Elisabetta" creationdate="20160627T161106Z">
-        <seg>????????????????Selezionate la cella e digitate il numero servendovi dei tasti numerici situati nella parte superiore della tastiera o utilizzando il tastierino numerico.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20171221T235604Z" creationid="Elisabetta" creationdate="20160627T161106Z">
+        <seg>Selezionate la cella e digitate il numero servendovi dei tasti numerici situati nella parte superiore della tastiera o utilizzando il tastierino numerico.</seg>
       </tuv>
     </tu>
     <tu>
