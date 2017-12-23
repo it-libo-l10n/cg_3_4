@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_6_r9896:9964" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -32290,8 +32290,8 @@
       <tuv lang="EN">
         <seg>If “smart quotes” are used for apostrophes, the apostrophe remains visible in the cell.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171222T142605Z" creationid="Elisabetta" creationdate="20160627T162330Z">
-        <seg>???????????????????Utilizzando le “virgolette curve” invece degli apici, l'apostrofo iniziale resterà visibile, all'interno della cella.&lt;/f2&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20171223T183848Z" creationid="Elisabetta" creationdate="20160627T162330Z">
+        <seg>Se si utilizzano i doppi apici (virgolette), questi rimangono visibili nella cella.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
