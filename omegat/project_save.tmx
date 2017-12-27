@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22322,8 +22322,8 @@
       <tuv lang="EN">
         <seg>Entering data into a spreadsheet can be very labor-intensive, but Calc provides several tools for removing some of the drudgery from input.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171227T162338Z" creationid="Elisabetta" creationdate="20160628T172942Z">
-        <seg>???????????????????L'inserimento dei dati in un foglio elettronico si può rivelare un procedimento impegnativo, ma vengono forniti diversi strumenti per semplificarne la gestione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20171227T181044Z" creationid="Elisabetta" creationdate="20160628T172942Z">
+        <seg>L'inserimento dei dati in un foglio elettronico si può rivelare un procedimento impegnativo, ma vengono forniti diversi strumenti per semplificarne la gestione.</seg>
       </tuv>
     </tu>
     <tu>
