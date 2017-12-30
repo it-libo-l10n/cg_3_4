@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -67230,8 +67230,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>You might want to enter the same information in the same cell on multiple sheets, for example to set up standard listings for a group of individuals or organizations.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="ldaghino" changedate="20171229T135133Z" creationid="Elisabetta" creationdate="20160629T085137Z">
-        <seg>?????????????????Potrebbe essere necessario inserire gli stessi dati nella medesima cella in più fogli, ad esempio per preparare elenchi standard per un gruppo di individui od organizzazioni.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20171230T101618Z" creationid="Elisabetta" creationdate="20160629T085137Z">
+        <seg>Potrebbe essere necessario inserire gli stessi dati nella medesima cella in più fogli, ad esempio per preparare elenchi standard per un gruppo di individui od organizzazioni.</seg>
       </tuv>
     </tu>
     <tu>
