@@ -20586,8 +20586,8 @@
       <tuv lang="EN">
         <seg>Depending on how validation is set up, the tool can also define the range of values that can be entered and provide help messages that explain the content rules you have set up for the cell and what users should do when they enter invalid content.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T090340Z" creationid="Elisabetta" creationdate="20160629T090340Z">
-        <seg>A seconda delle impostazioni di convalida, lo strumento permette anche di definire l'intervallo di valori da inserire, inoltre fornisce messaggi di aiuto che specificano le regole di contenuto impostate per la cella e le operazioni che gli utenti dovrebbero eseguire nel caso in cui inserissero contenuti non validi.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20171230T112947Z" creationid="Elisabetta" creationdate="20160629T090340Z">
+        <seg>???????????????A seconda delle impostazioni di convalida, lo strumento permette anche di definire l'intervallo di valori da inserire, inoltre fornisce messaggi di aiuto che specificano le regole di contenuto impostate per la cella e le operazioni che gli utenti dovrebbero eseguire nel caso in cui inserissero contenuti non validi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26618,8 +26618,8 @@
       <tuv lang="EN">
         <seg>For example, a cell might require a date or a whole number, with no alphabetic characters or decimal points; or a cell may not be left empty.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T090303Z" creationid="Elisabetta" creationdate="20160629T090303Z">
-        <seg>Ad esempio, una cella potrebbe richiedere una data o un numero intero, senza caratteri alfabetici o punti decimali, oppure l'inserimento obbligatorio di dati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20171230T112941Z" creationid="Elisabetta" creationdate="20160629T090303Z">
+        <seg>Ad esempio, una cella potrebbe richiedere una data o un numero intero, senza caratteri alfabetici o punti decimali; oppure potrebbe richiedere l'inserimento obbligatorio di dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60982,8 +60982,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>To validate new data entered by a user, select a cell and use &lt;f0&gt;Data &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Validity&lt;/f3&gt; to define the type of contents that can be entered in that cell.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T090222Z" creationid="Elisabetta" creationdate="20160629T090222Z">
-        <seg>Per convalidare nuovi dati inseriti da un utente, selezionate una cella e scegliete la voce &lt;f0&gt;Dati &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Validità&lt;/f3&gt; per definire il tipo di contenuti da inserire nella cella.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20171230T112805Z" creationid="Elisabetta" creationdate="20160629T090222Z">
+        <seg>Per validare nuovi dati inseriti da un utente, selezionate una cella e scegliete la voce &lt;f0&gt;Dati &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Validità&lt;/f3&gt; per definire il tipo di contenuti che possono essere inseriti nella cella.</seg>
       </tuv>
     </tu>
     <tu>
