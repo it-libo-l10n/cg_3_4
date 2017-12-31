@@ -288,8 +288,8 @@
       <tuv lang="EN">
         <seg>(Repeating the Detective’s &lt;f2&gt;Mark Invalid Data&lt;/f2&gt; command &lt;s3/&gt;removes the invalid data circle, because the data is no longer invalid.) If you want to &lt;t4/&gt;copy a validity rule with the rest of the cell, use &lt;f5&gt;Edit &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; Paste Special &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; Paste Formats&lt;/f11&gt; or &lt;f12&gt;Paste All&lt;/f12&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T091351Z" creationid="Elisabetta" creationdate="20160629T091240Z">
-        <seg>(la ripetizione del comando &lt;f2&gt;Evidenzia i dati non validi&lt;/f2&gt; nel sottomenu Detective &lt;s3/&gt;eliminerà il cerchio che racchiude i dati non validi proprio perché non sono più tali). Per &lt;t4/&gt;estendere una regola di validità alle altre celle, scegliete la voce &lt;f5&gt;Modifica &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; Incolla speciale &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; Incolla formato&lt;/f11&gt; o &lt;f12&gt;Incolla tutto&lt;/f12&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20171231T124924Z" creationid="Elisabetta" creationdate="20160629T091240Z">
+        <seg>(la ripetizione del comando &lt;f2&gt;Evidenzia i dati non validi&lt;/f2&gt; nel sottomenu Detective &lt;s3/&gt;eliminerà il cerchio che racchiude i dati non validi, proprio perché non sono più tali). Per &lt;t4/&gt;copiare una regola di validità, insieme al resto della cella, scegliete la voce &lt;f5&gt;Modifica &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; Incolla speciale &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;&gt;&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; Formati&lt;/f11&gt; oppure &lt;f12&gt;Incolla tutto&lt;/f12&gt;.</seg>
       </tuv>
     </tu>
     <tu>
