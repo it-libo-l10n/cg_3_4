@@ -26730,8 +26730,8 @@
       <tuv lang="EN">
         <seg>For example, if a cell contains &lt;f2&gt;red [hard line break] clay&lt;/f2&gt; then searching for &lt;f3&gt;d\nc&lt;/f3&gt; and entering nothing in the &lt;f4&gt;Replace with&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;box&lt;/f6&gt; leaves the cell containing &lt;f7&gt;relay&lt;/f7&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180126T174130Z" creationid="Elisabetta" creationdate="20160726T170956Z">
-        <seg>?????????????????Per esempio, se una cella contiene i termini &lt;f2&gt;terra [interruzione riga] rosa&lt;/f2&gt; la ricerca mediante &lt;f3&gt;a\nr&lt;/f3&gt;, eseguita lasciando vuoto il campo della casella &lt;f4&gt;Sostituisci con&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;, restituirà il risultato di una cella contenente il testo &lt;f7&gt;terrosa&lt;/f7&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180126T192336Z" creationid="Elisabetta" creationdate="20160726T170956Z">
+        <seg>Per esempio, se una cella contiene i termini &lt;f2&gt;terra [interruzione riga] rosa&lt;/f2&gt;, la ricerca di &lt;f3&gt;a\nr&lt;/f3&gt;, eseguita lasciando vuoto il campo della casella &lt;f4&gt;Sostituisci con&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;, restituirà (premendo il pulsante Sostituisci) il risultato di una cella contenente il testo &lt;f7&gt;terrosa&lt;/f7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
