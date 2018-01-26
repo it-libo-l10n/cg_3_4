@@ -26938,8 +26938,8 @@
       <tuv lang="EN">
         <seg>For example, searching for &lt;f0&gt;brown&lt;/f0&gt; will result in highlighting a cell containing &lt;f1&gt;redbrown clay&lt;/f1&gt;, and choosing nothing in the &lt;f2&gt;Replace with&lt;/f2&gt; box leaves the cell containing &lt;f3&gt;red clay&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T170359Z" creationid="Elisabetta" creationdate="20160726T170359Z">
-        <seg>Per esempio, la ricerca della parola &lt;f0&gt;mattone&lt;/f0&gt; otterrà il risultato di evidenziare una cella contenente il testo &lt;f1&gt;argilla rosso mattone&lt;/f1&gt;, ma, lasciando vuoto il campo della casella &lt;f2&gt;Sostituisci con&lt;/f2&gt;, all'interno della cella resterà il testo &lt;f3&gt;argilla rosso&lt;/f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180126T142026Z" creationid="Elisabetta" creationdate="20160726T170359Z">
+        <seg>Per esempio, ricercando la parola &lt;f0&gt;mattone&lt;/f0&gt; si otterrà il risultato di evidenziare una cella contenente il testo &lt;f1&gt;argilla rosso mattone&lt;/f1&gt;, e, lasciando vuoto il campo della casella &lt;f2&gt;Sostituisci con&lt;/f2&gt;, all'interno della cella resterà il testo &lt;f3&gt;argilla rosso&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29858,8 +29858,8 @@
       <tuv lang="EN">
         <seg>If Find is used twice in a row, and the second time the &lt;f0&gt;Current selection only&lt;/f0&gt; box is activated, then the second search will evaluate the &lt;f1&gt;whole&lt;/f1&gt; of each selected cell, &lt;f2&gt;not&lt;/f2&gt; just the strings that caused the cells to be selected in the first search.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T170546Z" creationid="Elisabetta" creationdate="20160726T170546Z">
-        <seg>Se l'opzione Cerca viene utilizzata due volte in una riga e la seconda volta viene selezionata la casella &lt;f0&gt;Solo nella selezione&lt;/f0&gt;, la seconda ricerca prenderà in considerazione l’&lt;f1&gt;intera&lt;/f1&gt; cella evidenziata, &lt;f2&gt;non&lt;/f2&gt; soltanto le stringhe di testo trovato che hanno consentito l'evidenziazione della cella nella prima ricerca.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180126T142030Z" creationid="Elisabetta" creationdate="20160726T170546Z">
+        <seg>??????????????Se l'opzione Cerca viene utilizzata due volte in una riga e la seconda volta viene selezionata la casella &lt;f0&gt;Solo nella selezione&lt;/f0&gt;, la seconda ricerca prenderà in considerazione l’&lt;f1&gt;intera&lt;/f1&gt; cella evidenziata, &lt;f2&gt;non&lt;/f2&gt; soltanto le stringhe di testo trovato che hanno consentito l'evidenziazione della cella nella prima ricerca.</seg>
       </tuv>
     </tu>
     <tu>
