@@ -26722,8 +26722,8 @@
       <tuv lang="EN">
         <seg>For example, if a cell contains &lt;f1&gt;red [hard line break] clay&lt;/f1&gt; then a search for &lt;f2&gt;d$&lt;/f2&gt; replacing with &lt;f3&gt;al&lt;/f3&gt; leaves the cell with &lt;f4&gt;real [hard line break] clay&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180126T192928Z" creationid="Elisabetta" creationdate="20160726T171216Z">
-        <seg>??????????????Per esempio, se una cella contiene il testo &lt;f1&gt;terra [interruzione riga] rossa&lt;/f1&gt;, una ricerca mediante &lt;f2&gt;rra$&lt;/f2&gt; e una sostituzione con &lt;f3&gt;glia&lt;/f3&gt; restituirà il risultato di una cella contenente il testo &lt;f4&gt;teglia [interruzione riga] rossa&lt;/f4&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180126T200417Z" creationid="Elisabetta" creationdate="20160726T171216Z">
+        <seg>Per esempio, se una cella contiene il testo &lt;f1&gt;terra [interruzione riga] rossa&lt;/f1&gt;, una ricerca di &lt;f2&gt;rra$&lt;/f2&gt; e una sostituzione con &lt;f3&gt;glia&lt;/f3&gt; restituirà il risultato di una cella contenente il testo &lt;f4&gt;teglia [interruzione riga] rossa&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
