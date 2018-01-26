@@ -352,8 +352,8 @@
       <tuv lang="EN">
         <seg>(The regular expression &lt;f5&gt;r.d&lt;/f5&gt; means the system will try to match &lt;f6&gt;r&lt;/f6&gt; followed by any other character followed by &lt;f7&gt;d&lt;/f7&gt;.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T170205Z" creationid="Elisabetta" creationdate="20160726T170205Z">
-        <seg>(L'espressione regolare &lt;f5&gt;r.sso&lt;/f5&gt; indica che il sistema cercherà di trovare una corrispondenza del carattere &lt;f6&gt;r&lt;/f6&gt; seguito da tutti i possibili caratteri che precedono &lt;f7&gt;sso&lt;/f7&gt;.)</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180126T121021Z" creationid="Elisabetta" creationdate="20160726T170205Z">
+        <seg>???????????????(L'espressione regolare &lt;f5&gt;r.sso&lt;/f5&gt; indica che il sistema cercherà di trovare una corrispondenza del carattere &lt;f6&gt;r&lt;/f6&gt; seguito da tutti i possibili caratteri che precedono &lt;f7&gt;sso&lt;/f7&gt;.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -57950,8 +57950,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>This means that a search for &lt;f0&gt;r.d&lt;/f0&gt; will match &lt;f1&gt;red&lt;/f1&gt; in cell A1 but will not match &lt;f2&gt;r&lt;/f2&gt; in cell A2 and &lt;f3&gt;d&lt;/f3&gt; (or &lt;f4&gt;ed&lt;/f4&gt;) in cell A3.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180126T102426Z" creationid="Elisabetta" creationdate="20160726T170109Z">
-        <seg>??????????????????Ciò significa che la ricerca di &lt;f0&gt;r.sso&lt;/f0&gt; troverà una corrispondenza della parola &lt;f1&gt;rosso&lt;/f1&gt; nella cella A1, ma non del carattere &lt;f2&gt;r&lt;/f2&gt; nella cella A2, né di &lt;f3&gt;o&lt;/f3&gt; (oppure di &lt;f4&gt;sso&lt;/f4&gt;) nella cella A3.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180126T121016Z" creationid="Elisabetta" creationdate="20160726T170109Z">
+        <seg>Ciò significa che la ricerca di &lt;f0&gt;r.sso&lt;/f0&gt; troverà una corrispondenza della parola &lt;f1&gt;rosso&lt;/f1&gt; nella cella A1, ma non del carattere &lt;f2&gt;r&lt;/f2&gt; nella cella A2, né di &lt;f3&gt;o&lt;/f3&gt; (oppure di &lt;f4&gt;sso&lt;/f4&gt;) nella cella A3.</seg>
       </tuv>
     </tu>
     <tu>
