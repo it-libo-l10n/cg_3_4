@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -29858,8 +29858,8 @@
       <tuv lang="EN">
         <seg>If Find is used twice in a row, and the second time the &lt;f0&gt;Current selection only&lt;/f0&gt; box is activated, then the second search will evaluate the &lt;f1&gt;whole&lt;/f1&gt; of each selected cell, &lt;f2&gt;not&lt;/f2&gt; just the strings that caused the cells to be selected in the first search.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180126T153804Z" creationid="Elisabetta" creationdate="20160726T170546Z">
-        <seg>???????????????Se la ricerca viene effettuata per due volte di seguito, e la seconda volta viene spuntata l'opzione &lt;f0&gt;Solo nella selezione&lt;/f0&gt;, la seconda ricerca prenderà in considerazione l’&lt;f1&gt;intera&lt;/f1&gt; cella selezionata, &lt;f2&gt;non&lt;/f2&gt; soltanto le stringhe di testo trovato che hanno determinato la selezione della cella nella prima ricerca.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180126T164310Z" creationid="Elisabetta" creationdate="20160726T170546Z">
+        <seg>Se la ricerca viene effettuata per due volte di seguito, e la seconda volta viene spuntata l'opzione &lt;f0&gt;Solo nella selezione&lt;/f0&gt;, la seconda ricerca prenderà in considerazione l’&lt;f1&gt;intera&lt;/f1&gt; cella selezionata, &lt;f2&gt;non&lt;/f2&gt; soltanto le stringhe di testo trovato che hanno determinato la selezione della cella nella prima ricerca.</seg>
       </tuv>
     </tu>
     <tu>
