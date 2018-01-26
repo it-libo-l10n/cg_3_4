@@ -26730,8 +26730,8 @@
       <tuv lang="EN">
         <seg>For example, if a cell contains &lt;f2&gt;red [hard line break] clay&lt;/f2&gt; then searching for &lt;f3&gt;d\nc&lt;/f3&gt; and entering nothing in the &lt;f4&gt;Replace with&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;box&lt;/f6&gt; leaves the cell containing &lt;f7&gt;relay&lt;/f7&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160726T170956Z" creationid="Elisabetta" creationdate="20160726T170956Z">
-        <seg>Per esempio, se una cella contiene i termini &lt;f2&gt;terra [interruzione riga] rosa&lt;/f2&gt; la ricerca mediante &lt;f3&gt;a\nr&lt;/f3&gt;, eseguita lasciando vuoto il campo della casella &lt;f4&gt;Sostituisci con&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;, restituirà il risultato di una cella contenente il testo &lt;f7&gt;terrosa&lt;/f7&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180126T174130Z" creationid="Elisabetta" creationdate="20160726T170956Z">
+        <seg>?????????????????Per esempio, se una cella contiene i termini &lt;f2&gt;terra [interruzione riga] rosa&lt;/f2&gt; la ricerca mediante &lt;f3&gt;a\nr&lt;/f3&gt;, eseguita lasciando vuoto il campo della casella &lt;f4&gt;Sostituisci con&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;, restituirà il risultato di una cella contenente il testo &lt;f7&gt;terrosa&lt;/f7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29858,8 +29858,8 @@
       <tuv lang="EN">
         <seg>If Find is used twice in a row, and the second time the &lt;f0&gt;Current selection only&lt;/f0&gt; box is activated, then the second search will evaluate the &lt;f1&gt;whole&lt;/f1&gt; of each selected cell, &lt;f2&gt;not&lt;/f2&gt; just the strings that caused the cells to be selected in the first search.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180126T164310Z" creationid="Elisabetta" creationdate="20160726T170546Z">
-        <seg>Se la ricerca viene effettuata per due volte di seguito, e la seconda volta viene spuntata l'opzione &lt;f0&gt;Solo nella selezione&lt;/f0&gt;, la seconda ricerca prenderà in considerazione l’&lt;f1&gt;intera&lt;/f1&gt; cella selezionata, &lt;f2&gt;non&lt;/f2&gt; soltanto le stringhe di testo trovato che hanno determinato la selezione della cella nella prima ricerca.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180126T173901Z" creationid="Elisabetta" creationdate="20160726T170546Z">
+        <seg>Se la ricerca viene effettuata per due volte di seguito (usando il pulsante Cerca tutto), e la seconda volta viene spuntata l'opzione &lt;f0&gt;Solo nella selezione&lt;/f0&gt;, la seconda ricerca prenderà in considerazione l’&lt;f1&gt;intera&lt;/f1&gt; cella selezionata, &lt;f2&gt;non&lt;/f2&gt; soltanto le stringhe di testo trovato che hanno determinato la selezione della cella nella prima ricerca.</seg>
       </tuv>
     </tu>
     <tu>
