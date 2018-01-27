@@ -46276,8 +46276,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Searching with the &lt;t0/&gt;&lt;f1&gt;Formulas&lt;/f1&gt; option for&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;SUM&lt;/f3&gt; would find a cell containing the formula &lt;f4&gt;=SUM(A1:A6)&lt;/f4&gt; as well as a cell containing the simple text &lt;f5&gt;SUMMARY&lt;/f5&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180127T022144Z" creationid="Elisabetta" creationdate="20160729T143834Z">
-        <seg>??????????????????La ricerca tramite opzione  &lt;t0/&gt;&lt;f1&gt;Formule&lt;/f1&gt; di&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;SOMMA&lt;/f3&gt; restituirà il risultato di una cella contenente la formula &lt;f4&gt;=SOMMA(A1:A6)&lt;/f4&gt;, come pure quello di una cella con testo normale &lt;f5&gt;SOMMARIO&lt;/f5&gt;. </seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180127T134814Z" creationid="Elisabetta" creationdate="20160729T143834Z">
+        <seg>La ricerca tramite l'opzione &lt;t0/&gt;&lt;f1&gt;Formule&lt;/f1&gt; di&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;SOMMA&lt;/f3&gt; restituirà il risultato di una cella contenente la formula &lt;f4&gt;=SOMMA(A1:A6)&lt;/f4&gt;, come pure quello di una cella con testo normale &lt;f5&gt;SOMMARIO&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
