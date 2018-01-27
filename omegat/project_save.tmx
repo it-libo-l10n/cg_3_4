@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_6_r9896:9964" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -46276,8 +46276,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Searching with the &lt;t0/&gt;&lt;f1&gt;Formulas&lt;/f1&gt; option for&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;SUM&lt;/f3&gt; would find a cell containing the formula &lt;f4&gt;=SUM(A1:A6)&lt;/f4&gt; as well as a cell containing the simple text &lt;f5&gt;SUMMARY&lt;/f5&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160729T143834Z" creationid="Elisabetta" creationdate="20160729T143834Z">
-        <seg>La ricerca tramite opzione  &lt;t0/&gt;&lt;f1&gt;Formule&lt;/f1&gt; di&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;SOMMA&lt;/f3&gt; restituirà il risultato di una cella contenente la formula &lt;f4&gt;=SOMMA(A1:A6)&lt;/f4&gt;, come pure quello di una cella con testo normale &lt;f5&gt;SOMMARIO&lt;/f5&gt;. </seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180127T022144Z" creationid="Elisabetta" creationdate="20160729T143834Z">
+        <seg>??????????????????La ricerca tramite opzione  &lt;t0/&gt;&lt;f1&gt;Formule&lt;/f1&gt; di&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;SOMMA&lt;/f3&gt; restituirà il risultato di una cella contenente la formula &lt;f4&gt;=SOMMA(A1:A6)&lt;/f4&gt;, come pure quello di una cella con testo normale &lt;f5&gt;SOMMARIO&lt;/f5&gt;. </seg>
       </tuv>
     </tu>
     <tu>
@@ -62454,8 +62454,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>Using &lt;f0&gt;\n&lt;/f0&gt; in the &lt;f1&gt;Replace with&lt;/f1&gt; box will replace with the literal characters &lt;f2&gt;\n&lt;/f2&gt;, not a hard line break.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180126T200713Z" creationid="Elisabetta" creationdate="20160729T143309Z">
-        <seg>???????????????????L'inserimento del carattere speciale &lt;f0&gt;\n&lt;/f0&gt; nel campo della casella &lt;f1&gt;Sostituisci con&lt;/f1&gt; restituirà il risultato di un carattere normale &lt;f2&gt;\n&lt;/f2&gt;, non inserirà un'interruzione di riga.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180127T021857Z" creationid="Elisabetta" creationdate="20160729T143309Z">
+        <seg>L'inserimento del carattere speciale &lt;f0&gt;\n&lt;/f0&gt; nella casella &lt;f1&gt;Sostituisci con&lt;/f1&gt; restituirà il risultato dei normali caratteri &lt;f2&gt;\n&lt;/f2&gt;, non inserirà un'interruzione di riga.</seg>
       </tuv>
     </tu>
     <tu>
