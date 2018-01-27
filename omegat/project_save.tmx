@@ -26018,8 +26018,8 @@
       <tuv lang="EN">
         <seg>Finding cell contents using the regular expression &lt;f0&gt;.+&lt;/f0&gt; (or similar) and replacing them with &lt;f1&gt;&amp;&lt;/f1&gt; effectively re-enters the cell contents without any formatting.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160729T144040Z" creationid="Elisabetta" creationdate="20160729T144040Z">
-        <seg>La ricerca di contenuti di celle tramite espressione regolare &lt;f0&gt;.+&lt;/f0&gt; (o simili) e la loro relativa sostituzione con il carattere &lt;f1&gt;&amp;&lt;/f1&gt; ha come effetto il reinserimento dei contenuti cella privi di formattazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180127T135602Z" creationid="Elisabetta" creationdate="20160729T144040Z">
+        <seg>La ricerca di contenuti di celle tramite l'espressione regolare &lt;f0&gt;.+&lt;/f0&gt; (o simili) e la loro relativa sostituzione con il carattere &lt;f1&gt;&amp;&lt;/f1&gt; ha come effetto il reinserimento dei contenuti cella privi di formattazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46252,8 +46252,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Searching for the regular expression &lt;f0&gt;^$&lt;/f0&gt; will not find empty cells.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160729T143859Z" creationid="Elisabetta" creationdate="20160729T143859Z">
-        <seg>La ricerca tramite espressione regolare &lt;f0&gt;^$&lt;/f0&gt; non restituirà il risultato di trovare celle vuote.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180127T135611Z" creationid="Elisabetta" creationdate="20160729T143859Z">
+        <seg>La ricerca tramite l'espressione regolare &lt;f0&gt;^$&lt;/f0&gt; non restituirà il risultato di trovare celle vuote.</seg>
       </tuv>
     </tu>
     <tu>
