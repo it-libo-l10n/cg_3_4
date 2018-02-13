@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4392,8 +4392,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Chart Floor&lt;/f0&gt;&lt;f1&gt; and &lt;/f1&gt;&lt;f2&gt;3D View&lt;/f2&gt;&lt;f3&gt; are only available for a 3D chart.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180211T113952Z" creationid="Andrea" creationdate="20161205T164113Z">
-        <seg>???????????????????????&lt;f0&gt;Pavimento del Diagramma&lt;/f0&gt;&lt;f1&gt; e &lt;/f1&gt;&lt;f2&gt;Vista 3D &lt;/f2&gt;&lt;f3&gt; sono disponibili solo per un diagramma tridimensionale.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180213T084015Z" creationid="Andrea" creationdate="20161205T164113Z">
+        <seg>&lt;f0&gt;Pavimento del grafico&lt;/f0&gt;&lt;f1&gt; e &lt;/f1&gt;&lt;f2&gt;Vista 3D&lt;/f2&gt;&lt;f3&gt; sono disponibili solo per i diagrammi tridimensionali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56766,8 +56766,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>These options are unavailable (grayed out) if a 2D chart is selected.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Andrea" changedate="20161205T164309Z" creationid="Andrea" creationdate="20161205T164309Z">
-        <seg>Queste opzioni non sono disponibili (non selezionabili) se viene scelto un diagramma bidimensionale.&lt;/f3&gt;</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180213T084419Z" creationid="Andrea" creationdate="20161205T164309Z">
+        <seg>Queste opzioni non sono disponibili (in grigio) se viene selezionato un diagramma in 2D.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
