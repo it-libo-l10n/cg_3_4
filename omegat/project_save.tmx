@@ -29514,8 +29514,8 @@
       <tuv lang="EN">
         <seg>However, you cannot resize the title or the key.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Andrea" changedate="20161205T231358Z" creationid="Andrea" creationdate="20161205T231358Z">
-        <seg>Comunque non potete modificare le dimensioni di titolo e chiave.&lt;/f2&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180215T111628Z" creationid="Andrea" creationdate="20161205T231358Z">
+        <seg>Non è comunque possibile modificare le dimensioni di titolo o legenda.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -67640,6 +67640,14 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160330T085132Z" creationid="briga" creationdate="20160330T085132Z">
         <seg>applicando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>area background</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180215T111630Z" creationid="luke" creationdate="20180215T111630Z">
+        <seg>area background</seg>
       </tuv>
     </tu>
     <tu>
