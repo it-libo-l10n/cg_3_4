@@ -2592,8 +2592,8 @@
       <tuv lang="EN">
         <seg>&lt;/f3&gt;You must first deselect the &lt;f4&gt;Automatic&lt;/f4&gt; option in order to modify the value for any scale.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Administrator" changedate="20170704T103549Z" creationid="Administrator" creationdate="20170704T103549Z">
-        <seg>&lt;/f3&gt;E' necessario deselezionare l'opzione &lt;f4&gt;Automatica&lt;/f4&gt; prima di modificare i valori per qualsiasi scala.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180228T173647Z" creationid="Administrator" creationdate="20170704T103549Z">
+        <seg>&lt;/f3&gt;È necessario deselezionare l'opzione &lt;f4&gt;Automatico&lt;/f4&gt; per poter modificare i valori per qualsiasi scala.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6568,8 +6568,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;On the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Scale&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; page, you can choose to change the default linear scale to a logarithmic one, the maximum and minimum scale values, and the major and minor increments (intervals) of the scale.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180228T173125Z" creationid="Administrator" creationdate="20170704T103419Z">
-        <seg>&lt;f0&gt;Nella scheda &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Scala&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; potete modificare la scala lineare predefinita in una scala logaritmica, i valori massimo e minimo per la scala, e gli incrementi (intervalli) maggiore e minore per la scala.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180228T173447Z" creationid="Administrator" creationdate="20170704T103419Z">
+        <seg>&lt;f0&gt;Nella scheda &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Scala&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; potete modificare la scala lineare predefinita in una scala logaritmica, i valori massimo e minimo per la scala, nonché gli incrementi (intervalli) maggiore e minore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51669,8 +51669,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The Line page lets you set the attributes for the line used for the vertical axis.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Administrator" changedate="20170704T191208Z" creationid="Administrator" creationdate="20170704T191208Z">
-        <seg>La pagina Linea permette di impostare gli attributi della linea usata come asse verticale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180228T173728Z" creationid="Administrator" creationdate="20170704T191208Z">
+        <seg>??????????????La pagina Linea permette di impostare gli attributi della linea usata come asse verticale.</seg>
       </tuv>
     </tu>
     <tu>
