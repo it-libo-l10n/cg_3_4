@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -59598,8 +59598,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>To format the drawing objects, right-click and choose from the context menu.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Administrator" changedate="20170705T152121Z" creationid="Administrator" creationdate="20170705T152121Z">
-        <seg>Per formattare gli oggetti disegno, fate clic con il pulsante destro e scegliete dal menu contestuale.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180305T102516Z" creationid="Administrator" creationdate="20170705T152121Z">
+        <seg>????????????????Per formattare gli oggetti disegno, fate clic con il pulsante destro e scegliete dal menu contestuale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62278,8 +62278,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>Use these additional shapes to add explanatory notes to your chart, for example.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180304T110041Z" creationid="Administrator" creationdate="20170705T152011Z">
-        <seg>?????????????????Per esempio potete utilizzare queste forme aggiuntive per aggiungere note esplicative ai vostri diagrammi.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180305T102512Z" creationid="Administrator" creationdate="20170705T152011Z">
+        <seg>Ad esempio potete utilizzare queste forme aggiuntive per inserire note esplicative ai vostri diagrammi.</seg>
       </tuv>
     </tu>
     <tu>
