@@ -13098,8 +13098,8 @@
       <tuv lang="EN">
         <seg>As the Chart Wizard guesses the series that you wish to include in your pie chart, you might need to adjust this initially on the Data Ranges page of the Wizard if you know you want a pie chart,&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;or by using the &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Format &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; Data Ranges &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; Data Series&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;dialog.&lt;/f13&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180309T091959Z" creationid="Administrator" creationdate="20170816T110450Z">
-        <seg>???????????Dal momento che la Procedura guidata grafico tenta di indovinare le serie che desiderate inserire nel diagramma a torta, all'inizio potreste dover regolare le serie di dati nella scheda Intervallo dati della procedura guidata se siete sicuri di volere un diagramma a torta,&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;oppure usando la finestra di dialogo &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Formato &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; Intervallo dati &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; Serie di dati&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;/f12&gt;&lt;f13&gt;.&lt;/f13&gt;</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180309T103049Z" creationid="Administrator" creationdate="20170816T110450Z">
+        <seg>Dal momento che la Creazione guidata grafico tenta di indovinare le serie di dati che desiderate inserire nel diagramma a torta, all'inizio potreste dover regolare le serie nella scheda Serie di dati della procedura guidata, se siete sicuri di volere un diagramma a torta,&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;oppure usando la finestra di dialogo &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;Formato &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; Aree dati &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt; Serie di dati&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;/f12&gt;&lt;f13&gt;.&lt;/f13&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -66142,8 +66142,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>You can do some interesting things with a pie chart, especially if you make it into a &lt;i0/&gt;3D chart.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Administrator" changedate="20170816T110642Z" creationid="Administrator" creationdate="20170816T110642Z">
-        <seg>Potete fare cose interessanti con un grafico a torta, soprattutto se lo trasformate in un &lt;i0/&gt;diagramma 3D.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180309T103114Z" creationid="Administrator" creationdate="20170816T110642Z">
+        <seg>?????????????Potete fare cose interessanti con un grafico a torta, soprattutto se lo trasformate in un &lt;i0/&gt;diagramma 3D.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69919,8 +69919,8 @@ ordine del calcolo</seg>
       <tuv lang="EN">
         <seg>pie chart</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Administrator" changedate="20170816T110504Z" creationid="Administrator" creationdate="20170816T110504Z">
-        <seg>grafico a torta</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180309T103103Z" creationid="Administrator" creationdate="20170816T110504Z">
+        <seg>diagramma a torta</seg>
       </tuv>
     </tu>
     <tu>
