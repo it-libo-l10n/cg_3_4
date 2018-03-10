@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -32274,8 +32274,8 @@
       <tuv lang="EN">
         <seg>If your aim is to accentuate one piece of the pie, you can separate out one piece by carefully highlighting it after you have finished with the Chart Wizard, and dragging it out of the group.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180309T115345Z" creationid="Administrator" creationdate="20170823T133521Z">
-        <seg>????????????Se il vostro scopo e' di evidenziare un settore della torta, potete separarlo evidenziandolo accuratamente dopo aver terminato con la Creazione guidata grafico e trascinandolo fuori dal gruppo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180310T094641Z" creationid="Administrator" creationdate="20170823T133521Z">
+        <seg>Se il vostro scopo è quello di evidenziare un settore della torta, potete separarlo evidenziandolo e trascinandolo fuori dal gruppo, dopo aver terminato la Creazione guidata grafico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64278,8 +64278,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>When you do this you might need to enlarge the chart area again to regain the original size of the pieces.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Administrator" changedate="20170823T133648Z" creationid="Administrator" creationdate="20170823T133648Z">
-        <seg>Per fare questo potreste aver bisogno di allargare di nuovo l'area del grafico per ottenere le dimensioni originali dei settori.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180310T094647Z" creationid="Administrator" creationdate="20170823T133648Z">
+        <seg>????????????????Per fare questo potreste aver bisogno di allargare di nuovo l'area del grafico per ottenere le dimensioni originali dei settori.</seg>
       </tuv>
     </tu>
     <tu>
