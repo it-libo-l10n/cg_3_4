@@ -7040,8 +7040,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Scatter charts&lt;/f0&gt; are great for visualizing data that you have not had time to analyze, and they may be the best for data when you have a constant value against which to compare the data; for example, weather data, reactions under different acidity levels, conditions at altitude, or any data which matches two series of numeric data.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180315T084027Z" creationid="Administrator" creationdate="20170928T105156Z">
-        <seg>????I&lt;f0&gt;grafici a dispersione&lt;/f0&gt; sono ottimi per visualizzare dati che non avete avuto il tempo di analizzare e possono essere la scelta migliore per dati da confrontare con un valore di riferimento fisso; per esempio dati metereologici, reazioni a livelli di acidita' diversi, condizioni a diverse altezze o qualsiasi situazione in cui si debbano confrontare due serie di dati numerici.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180315T090051Z" creationid="Administrator" creationdate="20170928T105156Z">
+        <seg>I &lt;f0&gt;diagrammi a dispersione&lt;/f0&gt; sono ottimi per visualizzare dati che non avete avuto il tempo di analizzare e possono essere la scelta migliore per dati da confrontare con un valore di riferimento fisso; ad esempio dati meteorologici, reazioni a differenti livelli di acidità, condizioni a diverse altezze o qualsiasi dato da confrontare con due serie di dati numerici.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32882,8 +32882,8 @@
       <tuv lang="EN">
         <seg>In contrast to line charts, the x-axis are the left to right labels, which usually indicate a time series.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Administrator" changedate="20170928T105324Z" creationid="Administrator" creationdate="20170928T105324Z">
-        <seg>Contrariamente ai grafici a linee, sull'asse x ci sono le etichette da sinistra a destra che di solito indicano una serie temporale.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180315T090236Z" creationid="Administrator" creationdate="20170928T105324Z">
+        <seg>Contrariamente ai diagrammi a linee, sull'asse x sono presenti le didascalie da sinistra a destra, che solitamente indicano una serie temporale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46068,8 +46068,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Scatter charts may surprise those unfamiliar with how they work.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Administrator" changedate="20170928T105419Z" creationid="Administrator" creationdate="20170928T105419Z">
-        <seg>I grafici a dispersione possono sorprendere coloro che non sanno come funzionano.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180315T090401Z" creationid="Administrator" creationdate="20170928T105419Z">
+        <seg>I diagrammi a dispersione possono sorprendere coloro che non ne conoscono il funzionamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64646,8 +64646,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>While constructing the chart, if you choose &lt;f0&gt;&lt;f1&gt;Data Range &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; Data series in rows&lt;/f5&gt;&lt;/f4&gt;, the first row of data represents the x-axis.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Administrator" changedate="20171003T101918Z" creationid="Administrator" creationdate="20171003T101918Z">
-        <seg>Durante l'impostazione del diagramma, se scegliete &lt;f0&gt;&lt;f1&gt;Intervallo Dati&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; Serie di dati in righe &lt;/f5&gt;&lt;/f4&gt;, la prima riga di dati rappresenta l'asse x.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180315T090406Z" creationid="Administrator" creationdate="20171003T101918Z">
+        <seg>????Durante l'impostazione del diagramma, se scegliete &lt;f0&gt;&lt;f1&gt;Intervallo Dati&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; Serie di dati in righe &lt;/f5&gt;&lt;/f4&gt;, la prima riga di dati rappresenta l'asse x.</seg>
       </tuv>
     </tu>
     <tu>
