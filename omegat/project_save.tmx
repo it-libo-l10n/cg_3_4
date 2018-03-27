@@ -4312,8 +4312,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;CUMPRINC&lt;/f0&gt;(rate; NPER; PV; S; E; type)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160702T090110Z" creationid="Marco Marega" creationdate="20160702T090110Z">
-        <seg>&lt;f0&gt;CAP.CUM&lt;/f0&gt;(tasso interesse; &lt;f1&gt;numero rate&lt;/f1&gt;; &lt;f2&gt;valore attuale&lt;/f2&gt;; periodo iniziale; periodo finale; tipo)</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180327T070014Z" creationid="Marco Marega" creationdate="20160702T090110Z">
+        <seg>&lt;f0&gt;CAP.CUM&lt;/f0&gt;(tasso interesse; numero rate; valore attuale; periodo iniziale; periodo finale; tipo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14522,16 +14522,16 @@
       <tuv lang="EN">
         <seg>CUMIPMT_ADD(rate; NPER; PV; start_period; end_period; type)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160702T085356Z" creationid="Marco Marega" creationdate="20160702T085356Z">
-        <seg>&lt;f0&gt;INT.CUMUL_ADD&lt;/f0&gt;(tasso interesse; &lt;f1&gt;numero rate&lt;/f1&gt;; &lt;f2&gt;valore attuale&lt;/f2&gt;; periodo iniziale; periodo finale; tipo)</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180327T070002Z" creationid="Marco Marega" creationdate="20160702T085356Z">
+        <seg>INT.CUMUL_ADD(tasso interesse; numero rate; valore attuale; periodo iniziale; periodo finale; tipo)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>CUMPRINC_ADD(rate; NPER; PV; start_period; end_period; type)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160702T090522Z" creationid="Marco Marega" creationdate="20160702T090522Z">
-        <seg>&lt;f0&gt;CAP.CUM_ADD&lt;/f0&gt;(tasso interesse; &lt;f1&gt;numero rate&lt;/f1&gt;; &lt;f2&gt;valore attuale&lt;/f2&gt;; periodo iniziale; periodo finale; tipo)</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180327T070020Z" creationid="Marco Marega" creationdate="20160702T090522Z">
+        <seg>CAP.CUM_ADD(tasso interesse; numero rate; valore attuale; periodo iniziale; periodo finale; tipo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15186,8 +15186,8 @@
       <tuv lang="EN">
         <seg>Calculates the accumulated interest for a period.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Rate&lt;/f1&gt; is the interest rate for each period.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;NPER&lt;/f3&gt; is the total number of payment periods.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160702T090323Z" creationid="Marco Marega" creationdate="20160702T085628Z">
-        <seg>Calcola l'ammontare complessivo degli interessi cumulati per un investimento.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Tasso interesse&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; il tasso interesse periodico.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Numero rate&lt;/f4&gt;&lt;f5&gt; è&lt;/f5&gt; il numero complessivo di rate nel periodo di pagamento.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180327T070008Z" creationid="Marco Marega" creationdate="20160702T085628Z">
+        <seg>Calcola l'ammontare complessivo degli interessi cumulati per un investimento.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Tasso interesse&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; il tasso interesse periodico.&lt;f3&gt; &lt;/f3&gt;Numero rate è il numero complessivo di rate nel periodo di pagamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44060,8 +44060,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Returns the decimal number for the octal &lt;f0&gt;number&lt;/f0&gt; entered.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Number&lt;/f2&gt; is the octal number.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T150009Z" creationid="Marco Marega" creationdate="20160823T150009Z">
-        <seg>Restituisce il numero decimale corrispondente al &lt;f0&gt;numero&lt;/f0&gt; ottale inserito.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Numero&lt;/f2&gt;&lt;f3&gt; è&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;il numero ottale.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180327T070024Z" creationid="Marco Marega" creationdate="20160823T150009Z">
+        <seg>Restituisce il numero decimale corrispondente al &lt;f0&gt;numero&lt;/f0&gt; ottale inserito.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Numero&lt;/f2&gt; è il numero ottale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44348,8 +44348,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Returns the inverse hyperbolic tangent of the given number.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T150058Z" creationid="Marco Marega" creationdate="20160625T150058Z">
-        <seg>Restituisce l'inverso della tangente iperbolica del &lt;f0&gt;numero&lt;/f0&gt; dato.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180327T065954Z" creationid="Marco Marega" creationdate="20160625T150058Z">
+        <seg>Restituisce l'inverso della tangente iperbolica del numero dato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59518,8 +59518,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>To expand the Gallery without affecting the workspace, undock it so it floats over the workspace.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170301T214015Z" creationid="Marco Marega" creationdate="20170301T214015Z">
-        <seg>&lt;f0&gt;Per espandere la Galleria senza compromettere lo spazio di lavoro, sganciatela in modo che sia fluttuante e sovrapposta allo spazio di lavoro.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180327T065939Z" creationid="Marco Marega" creationdate="20170301T214015Z">
+        <seg>Per espandere la Galleria senza compromettere lo spazio di lavoro, sganciatela in modo che sia fluttuante e sovrapposta allo spazio di lavoro.</seg>
       </tuv>
     </tu>
     <tu>
