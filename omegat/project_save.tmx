@@ -31842,8 +31842,8 @@
       <tuv lang="EN">
         <seg>If you link cell styles, then when you change the base style (for example, by changing the font from Times to Helvetica), all the linked styles will change as well.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160616T192321Z" creationid="briga" creationdate="20160616T192321Z">
-        <seg>Se uno stile di cella è basato su un altro, quando cambiate lo stile di base (ad esempio modificando il tipo di carattere da Times a Helvetica), tutti gli stili basati su di esso cambieranno di conseguenza.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180331T112957Z" creationid="briga" creationdate="20160616T192321Z">
+        <seg>????????????????Se uno stile di cella è basato su un altro, quando cambiate lo stile di base (ad esempio modificando il tipo di carattere da Times a Helvetica), tutti gli stili basati su di esso cambieranno di conseguenza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58134,8 +58134,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>This option is only available for cell styles; page styles cannot be linked.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160616T192224Z" creationid="briga" creationdate="20160616T192224Z">
-        <seg>Questa opzione è disponibile solo per gli stili di cella: gli stili di pagina non possono essere basati su altri.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180331T112949Z" creationid="briga" creationdate="20160616T192224Z">
+        <seg>Questa opzione è disponibile solo per gli stili di cella; gli stili di pagina non possono essere basati su altri stili.</seg>
       </tuv>
     </tu>
     <tu>
