@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_6_r9896:9964" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -27122,8 +27122,8 @@
       <tuv lang="EN">
         <seg>For example, you can make a new style called &lt;f0&gt;red&lt;/f0&gt;, in which the only change you want to make is for the cell text to be red.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180401T171502Z" creationid="briga" creationdate="20160616T192442Z">
-        <seg>????????????????Ad esempio, potete creare un nuovo stile chiamato &lt;f0&gt;rosso&lt;/f0&gt;, nel quale l'unica modifica che volete applicare è che il testo della cella sia rosso.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180401T195512Z" creationid="briga" creationdate="20160616T192442Z">
+        <seg>Ad esempio, potete creare un nuovo stile chiamato &lt;f0&gt;rosso&lt;/f0&gt;, nel quale l'unica modifica è quella del testo della cella in rosso.</seg>
       </tuv>
     </tu>
     <tu>
