@@ -5480,8 +5480,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Here you can specify whether to apply the formatting to right (odd) pages only, left (even) pages only, or both right and left &lt;/f0&gt;&lt;f1&gt;pages that use the current page style.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180405T140516Z" creationid="briga" creationdate="20160723T125406Z">
-        <seg>????&lt;f0&gt;Qui potete specificare se volete applicare la formattazione solo alle pagine sinistre (pari), solo a quelle destre (dispari), o entrambe le &lt;/f0&gt;&lt;f1&gt;pagine che usano lo stile di pagina corrente.&lt;/f1&gt;</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180405T143621Z" creationid="briga" creationdate="20160723T125406Z">
+        <seg>&lt;f0&gt;Qui potete specificare se applicare la formattazione solo alle pagine destre (dispari), solo alle pagine sinistre (pari), o sia le pagine destre e sinistre &lt;/f0&gt;&lt;f1&gt;che usano lo stile di pagina corrente.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -53542,8 +53542,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>The first page of a document is assumed to be an odd page.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160723T125541Z" creationid="briga" creationdate="20160723T125541Z">
-        <seg>La prima pagina di un documento si assume sia dispari.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180405T143914Z" creationid="briga" creationdate="20160723T125541Z">
+        <seg>Si assume che la prima pagina di un documento sia una pagina dispari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57062,8 +57062,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>This area specifies the page numbering style for this page style.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160723T125631Z" creationid="briga" creationdate="20160723T125631Z">
-        <seg>Qui potete specificare lo stile di numerazione pagina.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180405T145218Z" creationid="briga" creationdate="20160723T125631Z">
+        <seg>In questa area potete specificare lo stile di numerazione di pagina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58150,8 +58150,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>This option specifies the alignment options for the cells on a printed page, either horizontal or vertical.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160723T125757Z" creationid="briga" creationdate="20160723T125757Z">
-        <seg>Questa opzione indica la scelta di allineamento per le celle su una pagina stampata, orizzontale o verticale.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180405T145352Z" creationid="briga" creationdate="20160723T125757Z">
+        <seg>????????????????Questa opzione indica la scelta di allineamento per le celle su una pagina stampata, orizzontale o verticale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70671,8 +70671,8 @@ ordine del calcolo</seg>
       <tuv lang="EN">
         <seg>table alignment</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160723T125639Z" creationid="briga" creationdate="20160723T125639Z">
-        <seg>Allineamento tabella</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180405T145238Z" creationid="briga" creationdate="20160723T125639Z">
+        <seg>allineamento tabella</seg>
       </tuv>
     </tu>
     <tu>
