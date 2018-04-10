@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_6_r9896:9964" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -66502,8 +66502,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>You can remove any user-defined (custom) styles; but before you do, you should make sure the styles are not in use.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160820T054234Z" creationid="briga" creationdate="20160820T054234Z">
-        <seg>Potete eliminare gli stili personalizzati; ma prima di eseguire questa operazione, dovete verificare che lo stile da rimuovere non sia in uso nel documento corrente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180410T205001Z" creationid="briga" creationdate="20160820T054234Z">
+        <seg>????????????????Potete eliminare gli stili personalizzati; ma prima di eseguire questa operazione, dovete verificare che lo stile da rimuovere non sia in uso nel documento corrente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66958,8 +66958,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>You cannot remove (delete) any of Calc’s predefined styles, even if you are not using them.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180410T085644Z" creationid="briga" creationdate="20160820T054210Z">
-        <seg>????????????????Non potete rimuovere nessuno degli stili di Calc predefiniti, nemmeno se inutilizzati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180410T204953Z" creationid="briga" creationdate="20160820T054210Z">
+        <seg>Non è possibile rimuovere nessuno degli stili predefiniti di Calc, nemmeno se inutilizzati.</seg>
       </tuv>
     </tu>
     <tu>
