@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_6_r9896:9964" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -43052,8 +43052,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Replacing styles (and then deleting the unwanted ones) can be very useful if you are dealing with a spreadsheet that has been worked on by several people.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160823T053409Z" creationid="briga" creationdate="20160823T053409Z">
-        <seg>Sostituire gli stili (e quindi cancellare gli indesiderati) può essere molto utile se avete a che fare con un foglio di lavoro usato da diverse persone.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180411T092921Z" creationid="briga" creationdate="20160823T053409Z">
+        <seg>????Sostituire gli stili (e quindi cancellare gli indesiderati) può essere molto utile se avete a che fare con un foglio di lavoro usato da diverse persone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66502,8 +66502,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>You can remove any user-defined (custom) styles; but before you do, you should make sure the styles are not in use.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180410T205001Z" creationid="briga" creationdate="20160820T054234Z">
-        <seg>????????????????Potete eliminare gli stili personalizzati; ma prima di eseguire questa operazione, dovete verificare che lo stile da rimuovere non sia in uso nel documento corrente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180411T092848Z" creationid="briga" creationdate="20160820T054234Z">
+        <seg>È comunque possibile eliminare gli stili personalizzati; ma prima di eseguire questa operazione, occorre verificare che lo stile da rimuovere non sia in uso.</seg>
       </tuv>
     </tu>
     <tu>
