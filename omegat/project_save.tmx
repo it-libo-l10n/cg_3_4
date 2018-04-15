@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>' set UpdateFromTemplate &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180415T120539Z" creationid="luke" creationdate="20180415T120539Z">
+        <seg>' set UpdateFromTemplate &lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>'.Connection = com.sun.star.sheet.FilterConnection.AND</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135454Z" creationid="steevie" creationdate="20160511T135454Z">
@@ -9220,6 +9228,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T191841Z" creationid="Marco Marega" creationdate="20160807T191841Z">
         <seg>&lt;s2/&gt;Se più valori hanno la stessa frequenza, viene restituito il valore più basso.&lt;f3&gt; &lt;/f3&gt;Se nessun valore appare almeno due volte, viene generato un errore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s3/&gt;"com.sun.star.document.Settings" ) &lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180415T120642Z" creationid="luke" creationdate="20180415T120642Z">
+        <seg>&lt;s3/&gt;"com.sun.star.document.Settings" ) &lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22040,6 +22056,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>End Sub 'FixDocV3</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180415T120724Z" creationid="luke" creationdate="20180415T120724Z">
+        <seg>End Sub 'FixDocV3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ensure that the columns have labels (we will use our sales data example again).</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="michele" changedate="20160530T151211Z" creationid="michele" creationdate="20160530T151211Z">
@@ -22858,8 +22882,8 @@
       <tuv lang="EN">
         <seg>Extension Manager</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160824T065915Z" creationid="briga" creationdate="20160824T065915Z">
-        <seg>Gestore estensioni</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180415T120851Z" creationid="briga" creationdate="20160824T065915Z">
+        <seg>????????????????Gestore estensioni</seg>
       </tuv>
     </tu>
     <tu>
@@ -30514,8 +30538,8 @@
       <tuv lang="EN">
         <seg>If the Edit button is not active, click &lt;f1&gt;New&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180415T115920Z" creationid="briga" creationdate="20160824T065806Z">
-        <seg>????Se invece il pulsante Modifica non è attivo, fate clic su &lt;f1&gt;Nuovo&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180415T120417Z" creationid="briga" creationdate="20160824T065806Z">
+        <seg>Se invece il pulsante Modifica non è attivo, fate clic su &lt;f1&gt;Nuovo&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50046,6 +50070,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160215T071129Z">
         <seg>Gli stili consentono di migliorare la coerenza nel documento e possono velocizzare notevolmente la formattazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sub FixDocV3 &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180415T120426Z" creationid="luke" creationdate="20180415T120426Z">
+        <seg>Sub FixDocV3 &lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -69673,6 +69705,22 @@ ordine del calcolo</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20171222T001857Z" creationid="Elisabetta" creationdate="20160627T161255Z">
         <seg>numeri, inserimento di dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>oDocSettings = ThisComponent.createInstance( _ &lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180415T120621Z" creationid="luke" creationdate="20180415T120621Z">
+        <seg>oDocSettings = ThisComponent.createInstance( _ &lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>oDocSettings.UpdateFromTemplate = True &lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180415T120704Z" creationid="luke" creationdate="20180415T120704Z">
+        <seg>oDocSettings.UpdateFromTemplate = True &lt;br5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
