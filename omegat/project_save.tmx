@@ -7608,8 +7608,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The next time that you create a spreadsheet by choosing &lt;/f0&gt;&lt;f1&gt;File &gt; New&lt;/f1&gt;&lt;f2&gt;,&lt;/f2&gt;&lt;f3&gt; it will be created from &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;LibreOffice&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;’s default template for spreadsheets.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160824T073353Z" creationid="briga" creationdate="20160824T073353Z">
-        <seg>&lt;f0&gt;La prossima volta che create un documento da &lt;/f0&gt;&lt;f1&gt;File &gt; Nuovo&lt;/f1&gt;&lt;f2&gt;,&lt;/f2&gt;&lt;f3&gt; il documento verrà creato dal modello predefinito di &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;LibreOffice&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; per i fogli elettronici&lt;/f6&gt;.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180419T091107Z" creationid="briga" creationdate="20160824T073353Z">
+        <seg>&lt;f0&gt;La volta successiva che create un foglio elettronico tramite la voce &lt;/f0&gt;&lt;f1&gt;File &gt; Nuovo&lt;/f1&gt;&lt;f2&gt;,&lt;/f2&gt;&lt;f3&gt; il documento verrà creato dal modello predefinito di &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;LibreOffice&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; per i fogli elettronici.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13210,8 +13210,8 @@
       <tuv lang="EN">
         <seg>Associating a spreadsheet with a different template</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160202T102925Z">
-        <seg>Associazione di un foglio di lavoro a un modello differente</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180419T091152Z">
+        <seg>Associazione di un foglio elettronico a un modello differente</seg>
       </tuv>
     </tu>
     <tu>
@@ -13346,8 +13346,8 @@
       <tuv lang="EN">
         <seg>At times you might want to &lt;i0/&gt;associate a spreadsheet with a different template, or perhaps you are working with a spreadsheet that did not start from a template but you now want it associated with a template.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160826T083805Z" creationid="briga" creationdate="20160826T083805Z">
-        <seg>A volte potreste volere &lt;i0/&gt;associare un foglio elettronico con un modello differente, o forse state lavorando con un foglio di lavoro che non si basa su un modello, ma ora volete associarlo ad uno.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180419T091246Z" creationid="briga" creationdate="20160826T083805Z">
+        <seg>????????????????A volte potreste volere &lt;i0/&gt;associare un foglio elettronico con un modello differente, o forse state lavorando con un foglio di lavoro che non si basa su un modello, ma ora volete associarlo ad uno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18146,8 +18146,8 @@
       <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Commands&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;button and choose &lt;f2&gt;Reset Default Template &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; Spreadsheet&lt;/f5&gt; from the drop-down menu.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160824T073243Z" creationid="briga" creationdate="20160824T073243Z">
-        <seg>Fate clic sul pulsante &lt;f0&gt;Comandi&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt; e scegliete &lt;f2&gt;Ripristina modello predefinito&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;Foglio elettronico&lt;/f5&gt; dal menu a comparsa.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180419T090606Z" creationid="briga" creationdate="20160824T073243Z">
+        <seg>Fate clic sul pulsante &lt;f0&gt;Comandi&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;e scegliete &lt;f2&gt;Ripristina il modello predefinito &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; Foglio elettronico&lt;/f5&gt; dal menu a comparsa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60206,8 +60206,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>To re-enable &lt;f0&gt;LibreOffice&lt;/f0&gt;’s default spreadsheet template as the default:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180419T084953Z" creationid="briga" creationdate="20160824T073144Z">
-        <seg>????Per ripristinare il modello predefinito di foglio elettronico di &lt;f0&gt;LibreOffice&lt;/f0&gt; come modello predefinito per un tipo di documento:</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180419T090216Z" creationid="briga" creationdate="20160824T073144Z">
+        <seg>Per ripristinare il modello del foglio elettronico predefinito fornito da &lt;f0&gt;LibreOffice&lt;/f0&gt; come modello predefinito:</seg>
       </tuv>
     </tu>
     <tu>
@@ -67814,8 +67814,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>associate spreadsheet with different template</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160826T083703Z" creationid="briga" creationdate="20160826T083703Z">
-        <seg>associazione di un foglio di lavoro a un modello differente</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180419T091211Z" creationid="briga" creationdate="20160826T083703Z">
+        <seg>associazione di un foglio elettronico a un modello differente</seg>
       </tuv>
     </tu>
     <tu>
