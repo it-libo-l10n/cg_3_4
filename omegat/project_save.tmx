@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_6_r9896:9964" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4008,8 +4008,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;All the actions made by the &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Commands&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; button in the Template Management &lt;/f3&gt;&lt;f4&gt;dialog&lt;/f4&gt;&lt;f5&gt; can be made as well by right-clicking on the templates or the folders.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160826T091332Z" creationid="briga" creationdate="20160826T091332Z">
-        <seg>&lt;f0&gt;Tutte le azioni eseguite con il pulsante &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Comandi&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; nella finestra di &lt;/f3&gt;&lt;f4&gt;dialogo&lt;/f4&gt;&lt;f5&gt; Gestione dei modelli possono essere eseguite facendo clic con il tasto destro del mouse sui modelli o sulle cartelle.&lt;/f5&gt;</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180423T071353Z" creationid="briga" creationdate="20160826T091332Z">
+        <seg>????&lt;f0&gt;Tutte le azioni eseguite con il pulsante &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Comandi&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; nella finestra di &lt;/f3&gt;&lt;f4&gt;dialogo&lt;/f4&gt;&lt;f5&gt; Gestione dei modelli possono essere eseguite facendo clic con il tasto destro del mouse sui modelli o sulle cartelle.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27194,8 +27194,8 @@
       <tuv lang="EN">
         <seg>For example, you might have one template folder for report templates and another for letter templates.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160826T090749Z" creationid="briga" creationdate="20160826T090749Z">
-        <seg>Per esempio, potreste avere una cartella per i modelli di rapporti e un'altra per i modelli di lettere.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180423T070830Z" creationid="briga" creationdate="20160826T090749Z">
+        <seg>Per esempio, è possibile avere una cartella per i modelli di rapporti e un'altra per i modelli di lettere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52013,8 +52013,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The Template Management dialog opens.&lt;/f12&gt;&lt;/f11&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160826T091242Z" creationid="briga" creationdate="20160826T091242Z">
-        <seg>Si apre la finestra di dialogo Gestore dei modelli.&lt;/f12&gt;&lt;/f11&gt;</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180423T071340Z" creationid="briga" creationdate="20160826T091242Z">
+        <seg>Si aprirà la finestra di dialogo Gestione dei modelli.&lt;/f12&gt;&lt;/f11&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -58758,8 +58758,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>To begin, choose &lt;f0&gt;File &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Templates &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Organize&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; from the &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;menu bar&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160826T091232Z" creationid="briga" creationdate="20160826T091232Z">
-        <seg>Per cominciare, scegliete &lt;f0&gt;File &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Modelli &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Gestisci &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; dal &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;menu principale&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180423T071230Z" creationid="briga" creationdate="20160826T091232Z">
+        <seg>Per cominciare, scegliete &lt;f0&gt;File &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Modelli &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Gestisci&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; dalla &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;barra dei menu&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66086,8 +66086,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>You can create new template folders and use them to &lt;i2/&gt;organize your templates, and import templates into those folders.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180422T204109Z" creationid="briga" creationdate="20160826T090728Z">
-        <seg>????????????????Potete creare nuove cartelle di modelli e usarle per &lt;i2/&gt;gestire i vostri modelli, nonché importare altri modelli in queste cartelle.</seg>
+      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180423T070727Z" creationid="briga" creationdate="20160826T090728Z">
+        <seg>Potete creare nuove cartelle di modelli e usarle per &lt;i2/&gt;gestire i vostri modelli, nonché importare altri modelli in queste cartelle.</seg>
       </tuv>
     </tu>
     <tu>
