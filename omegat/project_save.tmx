@@ -7256,8 +7256,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;T&lt;/f0&gt;o create a link to the file containing the image instead of saving a copy of the image in the Calc document, use the Insert picture dialog and &lt;i1/&gt;select the &lt;f2&gt;Link&lt;/f2&gt; option.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170203T133540Z" creationid="Marco Marega" creationdate="20170203T133540Z">
-        <seg>&lt;f0&gt;P&lt;/f0&gt;er  creare un collegamento al file che contiene l'immagine, anziché salvarne una copia all'interno del documento di Calc,  utilizzate la finestra di dialogo Inserisci immagine e &lt;i1/&gt;selezionate l'opzione &lt;f2&gt;Collega&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180501T124910Z" creationid="Marco Marega" creationdate="20170203T133540Z">
+        <seg>????????????????&lt;f0&gt;P&lt;/f0&gt;er  creare un collegamento al file che contiene l'immagine, anziché salvarne una copia all'interno del documento di Calc,  utilizzate la finestra di dialogo Inserisci immagine e &lt;i1/&gt;selezionate l'opzione &lt;f2&gt;Collega&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21290,8 +21290,8 @@
       <tuv lang="EN">
         <seg>Drag and drop</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180429T134717Z" creationid="Marco Marega" creationdate="20170130T210816Z">
-        <seg>Il trascinamento</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180501T124206Z" creationid="Marco Marega" creationdate="20170130T210816Z">
+        <seg>Trascinamento</seg>
       </tuv>
     </tu>
     <tu>
@@ -36147,8 +36147,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>Linking an image file</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170130T214054Z" creationid="Marco Marega" creationdate="20170130T214054Z">
-        <seg>Collegare un file di immagine</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180501T124855Z" creationid="Marco Marega" creationdate="20170130T214054Z">
+        <seg>Collegare un file immagine</seg>
       </tuv>
     </tu>
     <tu>
@@ -39700,8 +39700,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Open a file browser window and locate the image you want to insert.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170130T213306Z" creationid="Marco Marega" creationdate="20170130T213306Z">
-        <seg>Aprite la finestra di un file manager e trovare l'immagine che volete inserire.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180501T124330Z" creationid="Marco Marega" creationdate="20170130T213306Z">
+        <seg>Aprite una finestra di esplorazione file e trovate l'immagine che volete inserire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54926,8 +54926,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>The picture will be anchored to the cell where it was dropped.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170130T213821Z" creationid="Marco Marega" creationdate="20170130T213821Z">
-        <seg>L'immagine sarà ancorata alla cella sulla quale l'avete rilasciata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180501T124613Z" creationid="Marco Marega" creationdate="20170130T213821Z">
+        <seg>L'immagine sarà ancorata alla cella sulla quale è stata rilasciata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58014,8 +58014,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>This method always embeds (saves a copy of) the image file in the Calc document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170130T214025Z" creationid="Marco Marega" creationdate="20170130T214025Z">
-        <seg>Questo metodo incorpora sempre l'immagine (ne salva una copia) all'interno documento di Calc.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180501T124824Z" creationid="Marco Marega" creationdate="20170130T214025Z">
+        <seg>Questo metodo incorpora il file immagine (ne salva una copia) nel documento di Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67430,8 +67430,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>Your Insert Picture dialog may look quite different from the one shown here, depending on your operating system and your choice in &lt;f0&gt;Tools &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Options &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;LibreOffice&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; General&lt;/f12&gt; of whether to use the &lt;f13&gt;LibreOffice&lt;/f13&gt; Open and Save dialogs.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180501T123223Z" creationid="Marco Marega" creationdate="20170130T213051Z">
-        <seg>La vostra finestra di dialogo Inserisci immagine potrebbe apparire differente rispetto a quella mostrata qui, a seconda del vostro sistema operativo e delle impostazioni in &lt;f0&gt;Strumenti &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Opzioni &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;LibreOffice&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; Generale&lt;/f12&gt;, riguardo all'utilizzo delle finestre di dialogo di &lt;f13&gt;LibreOffice&lt;/f13&gt; per l'apertura e il salvataggio dei documenti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180501T124122Z" creationid="Marco Marega" creationdate="20170130T213051Z">
+        <seg>La vostra finestra di dialogo Inserisci immagine potrebbe apparire differente rispetto a quella mostrata qui, a seconda del vostro sistema operativo e delle impostazioni in &lt;f0&gt;Strumenti &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Opzioni &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;LibreOffice&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; Generale&lt;/f12&gt; (impostazioni relative all'utilizzo delle finestre di dialogo di &lt;f13&gt;LibreOffice&lt;/f13&gt; per l'apertura e il salvataggio dei documenti).</seg>
       </tuv>
     </tu>
     <tu>
@@ -68575,8 +68575,8 @@ ordine del calcolo</seg>
       <tuv lang="EN">
         <seg>drag and drop</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170130T213125Z" creationid="Marco Marega" creationdate="20170130T213106Z">
-        <seg>per trascinamento</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180501T124145Z" creationid="Marco Marega" creationdate="20170130T213106Z">
+        <seg>trascinamento</seg>
       </tuv>
     </tu>
     <tu>
