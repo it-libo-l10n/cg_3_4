@@ -4928,8 +4928,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Disadvantage&lt;/f0&gt; – If you send the document to someone else, or move it to a different computer, you must also send the image files, or the receiver will not be able to see the linked images.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170204T163438Z" creationid="Marco Marega" creationdate="20170203T135032Z">
-        <seg>&lt;f0&gt;Inconveniente&lt;/f0&gt; – Se spedite il documento a qualcun altro, o lo spostate su di un altro computer, dovete inviare anche i file delle immagini, altrimenti il destinatario non sarà in grado di visualizzare quelle collegate.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180502T104154Z" creationid="Marco Marega" creationdate="20170203T135032Z">
+        <seg>&lt;f0&gt;Svantaggio&lt;/f0&gt; – Se inviate il documento a qualcun altro, o lo spostate su un altro computer, dovete inviare anche i file delle immagini, altrimenti il destinatario non sarà in grado di visualizzare le immagini collegate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27202,8 +27202,8 @@
       <tuv lang="EN">
         <seg>For example, you might keep images in a subfolder named Images (under the folder containing the Calc document); the recipient of the Calc file needs to put the images in a subfolder with the same name (under the folder containing the Calc document).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170204T163954Z" creationid="Marco Marega" creationdate="20170204T163954Z">
-        <seg>Ad esempio potreste tenerle in una sottocartella denominata Immagini (all'interno della cartella che contiene il documento di Calc); il destinatario del file Calc dovrà posizionare le immagini in una sottocartella con lo stesso nome (sempre all'interno della cartella che contiene il documento di Calc).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180502T105005Z" creationid="Marco Marega" creationdate="20170204T163954Z">
+        <seg>Ad esempio, potreste tenere le immagini in una sottocartella chiamata Immagini (all'interno della cartella che contiene il documento di Calc); il destinatario del file Calc dovrà posizionare le immagini in una sottocartella con lo stesso nome e nella stessa posizione relativamente al documento di Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63894,8 +63894,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>When inserting the same image several times in the document, it might appear beneficial to create links.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170204T164150Z" creationid="Marco Marega" creationdate="20170204T164150Z">
-        <seg>Quando inserite la stessa immagine più volte nel documento, potrebbe sembravi utile creare dei collegamenti invece di incorporarla.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180502T105011Z" creationid="Marco Marega" creationdate="20170204T164150Z">
+        <seg>???????????????????Quando inserite la stessa immagine più volte nel documento, potrebbe sembravi utile creare dei collegamenti invece di incorporarla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67334,8 +67334,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>You need to keep track of the location of the images and make sure the recipient knows where to put them on another machine, so the Calc document can find them.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170204T163700Z" creationid="Marco Marega" creationdate="20170204T163700Z">
-        <seg>Dovete prendere nota della posizione delle immagini ed assicurarvi che il destinatario sappia dove salvarle su di un altro computer, in modo che il documento di Calc le possa ritrovare.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180502T104604Z" creationid="Marco Marega" creationdate="20170204T163700Z">
+        <seg>Dovete prendere nota della posizione delle immagini e assicurarvi che il destinatario sappia dove salvarle su un altro computer, in modo che il documento di Calc, quando viene aperto, le possa ritrovare.</seg>
       </tuv>
     </tu>
     <tu>
