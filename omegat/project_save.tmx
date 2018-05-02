@@ -3960,16 +3960,16 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Advantage&lt;/f0&gt; – Linking can reduce the size of the document when it is saved, because the image file itself is not included.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170203T134606Z" creationid="Marco Marega" creationdate="20170203T134417Z">
-        <seg>&lt;f0&gt;Vantaggio&lt;/f0&gt; – i collegamenti possono ridurre le dimensioni del documento, dato che quando questo viene salvato l'immagine stessa non è inclusa.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180502T102312Z" creationid="Marco Marega" creationdate="20170203T134417Z">
+        <seg>&lt;f0&gt;Vantaggio&lt;/f0&gt; – Con il collegamento si possono ridurre le dimensioni del documento quando viene salvato, poiché non si include il file dell'immagine.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Advantage&lt;/f0&gt; – You can modify the image file separately without changing the document because the link to the file remains valid, and the modified image will appear when you next open the document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180502T083256Z" creationid="Marco Marega" creationdate="20170203T134224Z">
-        <seg>????&lt;f0&gt;Vantaggio&lt;/f0&gt; – Potete modificare il file con l'immagine separatamente, senza cambiare il documento in quanto il collegamento al file rimane valido, e la prossima volta che aprirete il documento apparirà  l'immagine modificata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180502T093328Z" creationid="Marco Marega" creationdate="20170203T134224Z">
+        <seg>&lt;f0&gt;Vantaggio&lt;/f0&gt; – Potete modificare il file dell'immagine separatamente senza dover modificare il documento perché il collegamento al file rimane attivo; quando poi riaprirete il documento vedrete l'immagine modificata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53421,8 +53421,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The file size is usually not a problem on a modern computer with a reasonable amount of memory, unless the document includes many large graphics files.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170203T134812Z" creationid="Marco Marega" creationdate="20170203T134812Z">
-        <seg>Di solito le dimensioni del file non sono un problema su di un moderno computer con una discreta capacità di memoria, a meno che il documento non includa molti file grafici grandi.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180502T102629Z" creationid="Marco Marega" creationdate="20170203T134812Z">
+        <seg>Le dimensioni del file in genere non sono un problema su computer moderni con una discreta capacità di memoria, a meno che il documento non includa molte immagini di grosse dimensioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57166,8 +57166,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>This can be a big advantage if you (or someone else, perhaps a graphic artist) is updating images.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170203T134344Z" creationid="Marco Marega" creationdate="20170203T134344Z">
-        <seg>Questo può essere un grande vantaggio se voi (o qualcun altro, come ad esempio un grafico) aggiornate le immagini.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180502T093505Z" creationid="Marco Marega" creationdate="20170203T134344Z">
+        <seg>Questo può essere un grande vantaggio se l'autore del documento (o qualcun altro, per esempio un grafico) aggiorna le immagini.</seg>
       </tuv>
     </tu>
     <tu>
