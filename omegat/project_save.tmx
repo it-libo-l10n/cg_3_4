@@ -16738,8 +16738,8 @@
       <tuv lang="EN">
         <seg>Choose &lt;f0&gt;Edit &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Links&lt;/f3&gt; from the menu bar.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170204T164826Z" creationid="Marco Marega" creationdate="20170204T164826Z">
-        <seg>Selezionate &lt;f0&gt;Modifica &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Collegamenti&lt;/f3&gt; dalla barra dei menu.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180503T070216Z" creationid="Marco Marega" creationdate="20170204T164826Z">
+        <seg>Scegliete &lt;f0&gt;Modifica &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Collegamenti&lt;/f3&gt; dalla barra dei menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23290,8 +23290,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;122&lt;/seq0&gt;: The Edit Links dialog</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170204T165227Z" creationid="Marco Marega" creationdate="20170204T165227Z">
-        <seg>Figura &lt;seq0&gt;122&lt;/seq0&gt;: la finestra di dialogo Modifica collegamenti</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180503T070754Z" creationid="Marco Marega" creationdate="20170204T165227Z">
+        <seg>Figura &lt;seq0&gt;122&lt;/seq0&gt;: finestra di dialogo Modifica collegamenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -28554,8 +28554,8 @@
       <tuv lang="EN">
         <seg>Going the other way, from embedded to linked, is not so easy—you must delete and reinsert each image, one at a time, selecting the &lt;f0&gt;Link&lt;/f0&gt; &lt;f1&gt;option&lt;/f1&gt; when you do so.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170402T205702Z" creationid="Marco Marega" creationdate="20170204T165356Z">
-        <seg>Il procedimento inverso, da incorporata a collegata, non è altrettanto semplice: dovete cancellare e reinserire ogni immagine, una per volta, selezionando l'opzione &lt;f0&gt;Collega&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180503T071118Z" creationid="Marco Marega" creationdate="20170204T165356Z">
+        <seg>Il procedimento inverso, da incorporato a collegato, non è altrettanto semplice: bisogna cancellare e reinserire ogni immagine, una per volta, selezionando l'opzione &lt;f0&gt;Collega&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31938,8 +31938,8 @@
       <tuv lang="EN">
         <seg>If you originally linked the images, you can easily embed (save in the Calc document) one or more of them later if you wish.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180503T065107Z" creationid="Marco Marega" creationdate="20170204T164735Z">
-        <seg>????Se in un primo momento avete collegato le immagini, in seguito, se volete, potete facilmente incorporarne una o più (salvandole nel documento di Calc).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180503T065805Z" creationid="Marco Marega" creationdate="20170204T164735Z">
+        <seg>Se in un primo momento avete collegato le immagini, potete in seguito facilmente incorporarle (salvandole nel documento di Calc).</seg>
       </tuv>
     </tu>
     <tu>
@@ -51525,8 +51525,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The Edit Links dialog shows all the linked files.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170204T164845Z" creationid="Marco Marega" creationdate="20170204T164845Z">
-        <seg>La finestra Modifica collegamenti mostra tutti i file collegati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180503T070403Z" creationid="Marco Marega" creationdate="20170204T164845Z">
+        <seg>La finestra di dialogo Modifica collegamenti mostra tutti i file collegati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62990,8 +62990,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>Using the clipboard, you can copy images into a Calc document from another Calc document, from another component of &lt;f0&gt;LibreOffice&lt;/f0&gt; (Writer, Draw, and so on), and from other programs.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170204T165631Z" creationid="Marco Marega" creationdate="20170204T165631Z">
-        <seg>Utilizzando gli appunti, potete copiare immagini da un documento all'altro di Calc, da un altro componente di &lt;f0&gt;LibreOffice&lt;/f0&gt; (Writer, Draw, e così via) e da altri programmi.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180503T071200Z" creationid="Marco Marega" creationdate="20170204T165631Z">
+        <seg>?????????????????Utilizzando gli appunti, potete copiare immagini da un documento all'altro di Calc, da un altro componente di &lt;f0&gt;LibreOffice&lt;/f0&gt; (Writer, Draw, e così via) e da altri programmi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69271,8 +69271,8 @@ ordine del calcolo</seg>
       <tuv lang="EN">
         <seg>inserting from the clipboard</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170204T165418Z" creationid="Marco Marega" creationdate="20170204T165418Z">
-        <seg>inserimento  dagli appunti</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180503T071139Z" creationid="Marco Marega" creationdate="20170204T165418Z">
+        <seg>inserimento dagli appunti</seg>
       </tuv>
     </tu>
     <tu>
