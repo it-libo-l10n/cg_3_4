@@ -50140,8 +50140,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Successive transformations result in less and less original data remaining, thus compromising the quality of the inserted picture.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170318T165030Z" creationid="Marco Marega" creationdate="20170318T165030Z">
-        <seg>Trasformazioni ripetute fanno si che residuino sempre meno dati originali, compromettendo quindi la qualità dell'immagine inserita.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180512T103650Z" creationid="Marco Marega" creationdate="20170318T165030Z">
+        <seg>??????????????????????Trasformazioni ripetute fanno si che residuino sempre meno dati originali, compromettendo quindi la qualità dell'immagine inserita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54902,8 +54902,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>The picture filters used in Calc utilize what is known as a Destructive Editing algorithm, whereby each filter is applied to the image immediately, changing the original data of the image.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170318T164900Z" creationid="Marco Marega" creationdate="20170318T164900Z">
-        <seg>I filtri grafici usati in Calc utilizzano quello che è conosciuto come algoritmo di Editing distruttivo, con il quale ogni filtro viene applicato all'immagine immediatamente, modificando i suoi dati originari.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180512T103642Z" creationid="Marco Marega" creationdate="20170318T164900Z">
+        <seg>I filtri grafici presenti in Calc utilizzano quello che è conosciuto come algoritmo di editing distruttivo, con il quale ogni filtro viene applicato all'immagine immediatamente, modificando i suoi dati originali.</seg>
       </tuv>
     </tu>
     <tu>
