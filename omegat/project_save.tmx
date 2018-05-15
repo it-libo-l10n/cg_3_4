@@ -34755,8 +34755,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>Instead, in the Crop dialog, specify how far from the top, bottom, left and right borders of the image the crop should be, as illustrated in &lt;t0&gt;Figure 125&lt;/t0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180515T075056Z" creationid="luciano" creationdate="20161128T093947Z">
-        <seg>????È possibile invece specificare, nella finestra di dialogo Ritaglia, quanto distante dal bordo superiore, inferiore, sinistro e destro dell'immagine dovrebbe essere il ritaglio, come illustrato nella &lt;t0&gt;Figura 125&lt;/t0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T080017Z" creationid="luciano" creationdate="20161128T093947Z">
+        <seg>È possibile invece specificare, nella finestra di dialogo Taglia, la distanza dal bordo superiore, inferiore, sinistro e destro dell'immagine a cui effettuare il ritaglio, come illustrato nella &lt;t0&gt;Figura 125&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38924,8 +38924,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>On the &lt;bk0/&gt;Crop dialog, you can control the following parameters:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161214T104941Z" creationid="luciano" creationdate="20161128T163347Z">
-        <seg>Nella finestra di dialogo &lt;bk0/&gt;Ritaglia, è possibile controllare i seguenti parametri:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T080808Z" creationid="luciano" creationdate="20161128T163347Z">
+        <seg>Nella finestra di dialogo &lt;bk0/&gt;Taglia, è possibile controllare i seguenti parametri:</seg>
       </tuv>
     </tu>
     <tu>
@@ -39396,8 +39396,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>On the thumbnail in the figure, notice that the cropped selection is highlighted with an inner rectangle.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161214T104837Z" creationid="luciano" creationdate="20161128T163235Z">
-        <seg>Nella miniatura in figura, si noti che la selezione ritagliata è evidenziata con un rettangolo all'interno.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T080306Z" creationid="luciano" creationdate="20161128T163235Z">
+        <seg>Notate che, nella miniatura in figura, la selezione ritagliata è evidenziata con un rettangolo interno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63646,8 +63646,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>When &lt;f0&gt;Keep scale&lt;/f0&gt; is selected (default), cropping the image does not change the scale of the picture.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T163737Z" creationid="luciano" creationdate="20161128T170448Z">
-        <seg>Se l'opzione &lt;f0&gt;Mantieni scala&lt;/f0&gt; è selezionata (opzione predefinita), il ritaglio dell'immagine non modificherà la scala dell'immagine.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T080853Z" creationid="luciano" creationdate="20161128T170448Z">
+        <seg>???????????????????????Se l'opzione &lt;f0&gt;Mantieni scala&lt;/f0&gt; è selezionata (opzione predefinita), il ritaglio dell'immagine non modificherà la scala dell'immagine.</seg>
       </tuv>
     </tu>
     <tu>
