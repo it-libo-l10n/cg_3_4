@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_6_r9896:9964" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18322,8 +18322,8 @@
       <tuv lang="EN">
         <seg>Click the Crop icon &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt; to open a dialog where you can select which portion of the image you want to remove from view.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180514T213317Z" creationid="Marco Marega" creationdate="20170319T212615Z">
-        <seg>??????????????????Fate clic sull'icona Taglia immagine &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt; per aprire una finestra di dialogo attraverso la quale potrete selezionare quale porzione dell'immagine volete rimuovere dalla visualizzazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T074902Z" creationid="Marco Marega" creationdate="20170319T212615Z">
+        <seg>Fate clic sull'icona Taglia immagine &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt; per aprire una finestra di dialogo attraverso la quale potete selezionare la porzione dell'immagine da rimuovere dalla visualizzazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34755,8 +34755,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>Instead, in the Crop dialog, specify how far from the top, bottom, left and right borders of the image the crop should be, as illustrated in &lt;t0&gt;Figure 125&lt;/t0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161214T104751Z" creationid="luciano" creationdate="20161128T093947Z">
-        <seg>E' possibile invece specificare, nella finestra di dialogo Ritaglia, quanto distante dal bordo superiore, inferiore, sinistro e destro dell'immagine dovrebbe essere il ritaglio, come illustrato nella &lt;t0&gt;Figura 125&lt;/t0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180515T075056Z" creationid="luciano" creationdate="20161128T093947Z">
+        <seg>????È possibile invece specificare, nella finestra di dialogo Ritaglia, quanto distante dal bordo superiore, inferiore, sinistro e destro dell'immagine dovrebbe essere il ritaglio, come illustrato nella &lt;t0&gt;Figura 125&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
