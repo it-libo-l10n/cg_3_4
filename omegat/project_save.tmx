@@ -23314,8 +23314,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;125&lt;/seq0&gt;: The Crop dialog</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161214T105218Z" creationid="luciano" creationdate="20161129T164327Z">
-        <seg>Figura &lt;seq0&gt;125&lt;/seq0&gt;: Finestra di dialogo Ritaglia</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180516T103731Z" creationid="luciano" creationdate="20161129T164327Z">
+        <seg>Figura &lt;seq0&gt;125&lt;/seq0&gt;: finestra di dialogo Taglia</seg>
       </tuv>
     </tu>
     <tu>
@@ -26682,7 +26682,7 @@
       <tuv lang="EN">
         <seg>For example, a value of &lt;f0&gt;3cm&lt;/f0&gt; in the &lt;f1&gt;Left&lt;/f1&gt; box cuts 3 cm from the left side of the picture.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161128T172112Z" creationid="luciano" creationdate="20161128T172112Z">
+      <tuv lang="IT-IT" changeid="luke" changedate="20180516T103943Z" creationid="luciano" creationdate="20161128T172112Z">
         <seg>Ad esempio, con un valore di &lt;f0&gt;3 cm&lt;/f0&gt; nel campo &lt;f1&gt;A sinistra&lt;/f1&gt; l'immagine verrà tagliata di 3 cm a partire dal lato sinistro.</seg>
       </tuv>
     </tu>
@@ -35923,7 +35923,7 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>Left, Right, Top, and Bottom</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161128T172001Z" creationid="luciano" creationdate="20161128T172001Z">
+      <tuv lang="IT-IT" changeid="luke" changedate="20180516T103920Z" creationid="luciano" creationdate="20161128T172001Z">
         <seg>A sinistra, A destra, In alto, In basso</seg>
       </tuv>
     </tu>
@@ -52733,8 +52733,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The cropped shape is always a rectangle; more complex cropped shapes are not possible in Calc.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T164803Z" creationid="luciano" creationdate="20161129T164803Z">
-        <seg>La forma ritagliata è sempre un rettangolo; forme di ritaglio più complesse non sono possibili in Calc.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180516T104135Z" creationid="luciano" creationdate="20161129T164803Z">
+        <seg>????????????????????La forma ritagliata è sempre un rettangolo; forme di ritaglio più complesse non sono possibili in Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62262,8 +62262,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>Use the thumbnail next to these fields to determine the correct amount by which to crop.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T164703Z" creationid="luciano" creationdate="20161129T164703Z">
-        <seg>Utilizzare la miniatura accanto a questi campi per determinare la giusta quantità con cui ritagliare..</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180516T104130Z" creationid="luciano" creationdate="20161129T164703Z">
+        <seg>Usate l'anteprima accanto a questi campi per determinare i valori corretti di ritaglio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63630,16 +63630,16 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>When &lt;f0&gt;Keep image size&lt;/f0&gt; is selected, cropping enlarges (for positive cropping values), shrinks (for negative cropping values), or distorts of the image so that the image size remains constant.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180516T094220Z" creationid="luciano" creationdate="20161128T170610Z">
-        <seg>????Se l'opzione &lt;f0&gt;Mantieni dimensione&lt;/f0&gt; è selezionata, il ritaglio produce un ingrandimento per valori di ritaglio positivi, una riduzione per valori di ritaglio negativi, oppure una distorsione (per valori non proporzionali tra loro), in modo che le dimensioni dell'immagine rimangano costanti</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180516T101223Z" creationid="luciano" creationdate="20161128T170610Z">
+        <seg>Se è selezionata l'opzione &lt;f0&gt;Mantieni dimensione&lt;/f0&gt;, il ritaglio produce un ingrandimento per valori di ritaglio positivi, una riduzione per valori di ritaglio negativi, oppure una distorsione (per valori non proporzionali tra loro), in modo che le dimensioni dell'immagine rimangano costanti.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>When &lt;f0&gt;Keep image size&lt;/f0&gt; is selected, the remaining part of the image is enlarged (when you enter positive values for cropping) or shrunk (when you enter negative values for cropping) so that the width and height of the image is not changed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161214T105148Z" creationid="luciano" creationdate="20161129T164157Z">
-        <seg>Se l'opzione &lt;f0&gt;Mantieni dimensione&lt;/f0&gt; è selezionata, la parte restante dell'immagine viene ingrandita (quando vengono inseriti valori positivi) oppure ridotta (quando vengono inseriti valori negativi), in modo che larghezza e altezza dell'immagine cambino.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180516T103649Z" creationid="luciano" creationdate="20161129T164157Z">
+        <seg>Se l'opzione &lt;f0&gt;Mantieni dimensione&lt;/f0&gt; è selezionata, la parte restante dell'immagine viene ingrandita (quando vengono inseriti valori positivi) oppure ridotta (quando vengono inseriti valori negativi), in modo che larghezza e altezza dell'immagine rimangano inalterate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63654,8 +63654,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>When &lt;f0&gt;Keep scale&lt;/f0&gt; is selected, the size of the image also changes, so in this example the width will be reduced by 3 cm.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T163820Z" creationid="luciano" creationdate="20161129T163619Z">
-        <seg>Se l'opzione &lt;f0&gt;Mantieni scala&lt;/f0&gt; è selezionata, le dimensioni dell'immagine vengono modificate, pertanto in questo esempio la larghezza dell'immagine verrà ridotta di 3 cm.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180516T102745Z" creationid="luciano" creationdate="20161129T163619Z">
+        <seg>Se l'opzione &lt;f0&gt;Mantieni scala&lt;/f0&gt; è selezionata, anche le dimensioni dell'immagine vengono modificate; pertanto, in questo esempio, la larghezza verrebbe ridotta di 3 cm.</seg>
       </tuv>
     </tu>
     <tu>
