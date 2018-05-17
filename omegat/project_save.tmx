@@ -17714,8 +17714,8 @@
       <tuv lang="EN">
         <seg>Click and drag to resize the picture.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T170919Z" creationid="luciano" creationdate="20161129T170919Z">
-        <seg>Fate clic e, mantenendo premuto il pulsante sinistro del mouse, trascinate la maniglia per ridimensionare l'immagine.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180517T064605Z" creationid="luciano" creationdate="20161129T170919Z">
+        <seg>Fate clic e trascinate per ridimensionare l'immagine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18442,7 +18442,7 @@
       <tuv lang="EN">
         <seg>Click the picture, if necessary, to show the colored resizing handles.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T170754Z" creationid="luciano" creationdate="20161129T170710Z">
+      <tuv lang="IT-IT" changeid="luke" changedate="20180517T064256Z" creationid="luciano" creationdate="20161129T170710Z">
         <seg>Fate clic sull'immagine in modo da visualizzare le maniglie di ridimensionamento colorate.</seg>
       </tuv>
     </tu>
@@ -31514,8 +31514,8 @@
       <tuv lang="EN">
         <seg>If you crop an image in Calc, the picture itself is not affected.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180516T221001Z" creationid="luciano" creationdate="20161129T165313Z">
-        <seg>????????????????????????Se ritagliate una immagine in Calc, l'immagine stessa non viene interessata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180517T063514Z" creationid="luciano" creationdate="20161129T165313Z">
+        <seg>Se ritagliate un'immagine in Calc, l'immagine stessa non viene alterata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31658,8 +31658,8 @@
       <tuv lang="EN">
         <seg>If you export the document to HTML, the full original image is exported, not the cropped image.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T165529Z" creationid="luciano" creationdate="20161129T165529Z">
-        <seg>Se esportate il documento in HTML,  viene esportata l'immagine originale, non soltanto la parte ritagliata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180517T064016Z" creationid="luciano" creationdate="20161129T165529Z">
+        <seg>Se esportate il documento in HTML, viene esportata l'intera immagine originale, non soltanto la parte ritagliata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39652,8 +39652,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Only the area displayed is altered.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T165447Z" creationid="luciano" creationdate="20161129T165408Z">
-        <seg>Viene modificate solo l'area visualizzata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180517T063548Z" creationid="luciano" creationdate="20161129T165408Z">
+        <seg>Viene modificata solo l'area visualizzata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41204,8 +41204,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Position the pointer over one of the resizing handles.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T170818Z" creationid="luciano" creationdate="20161129T170818Z">
-        <seg>Posizionate il puntatore sopra una delle maniglie di ridimensionamento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180517T064351Z" creationid="luciano" creationdate="20161129T170818Z">
+        <seg>Posizionate il puntatore sopra una delle maniglie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43124,8 +43124,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Resizing a bit-mapped (raster) image such as a photograph adversely affects the resolution, causing some degree of blurring.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161214T105918Z" creationid="luciano" creationdate="20161129T171501Z">
-        <seg>Ridimensionare un'immagine bitmap (raster) come una fotografia influenza negativamente la risoluzione, causando un'immagine sfocata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180517T065312Z" creationid="luciano" creationdate="20161129T171501Z">
+        <seg>???????????????????Ridimensionare un'immagine bitmap (raster) come una fotografia influenza negativamente la risoluzione, causando un'immagine sfocata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43148,8 +43148,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Resizing&lt;i0/&gt; an image</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T165630Z" creationid="luciano" creationdate="20161129T165630Z">
-        <seg>Ridimensionare &lt;i0/&gt;un'immagine</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180517T064105Z" creationid="luciano" creationdate="20161129T165630Z">
+        <seg>Ridimensionare&lt;i0/&gt; un'immagine</seg>
       </tuv>
     </tu>
     <tu>
@@ -52669,8 +52669,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The corner handles resize both the width and the height of the graphic object simultaneously, while the other four handles only resize one dimension at a time.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161129T171157Z" creationid="luciano" creationdate="20161129T171157Z">
-        <seg>Le maniglie poste agli angoli consentono il ridimensionamento simultaneo dell'altezza e della larghezza dell'immagine, mentre le altre quattro consentono di modificare una sola dimensione alla volta.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180517T064945Z" creationid="luciano" creationdate="20161129T171157Z">
+        <seg>Le maniglie agli angoli permettono di ridimensionare simultaneamente sia la larghezza che l'altezza dell'immagine, mentre le altre quattro maniglie permettono di modificare solo una dimensione alla volta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54966,8 +54966,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>The pointer changes shape giving a graphical representation of the direction of the resizing.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161214T105510Z" creationid="luciano" creationdate="20161129T170858Z">
-        <seg>Il puntatore cambierà forma in una che indica la direzione di ridimensionamento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180517T064451Z" creationid="luciano" creationdate="20161129T170858Z">
+        <seg>Il puntatore cambia forma, rappresentando graficamente la direzione del ridimensionamento.</seg>
       </tuv>
     </tu>
     <tu>
