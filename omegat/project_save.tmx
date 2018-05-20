@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_6_r9896:9964" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -36827,8 +36827,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>Many of the options accessible from the Picture toolbar can also be reached by right-clicking on an image to pop up a context menu.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180519T103923Z" creationid="luciano" creationdate="20161130T155927Z">
-        <seg>????????????????????????????Molte delle opzioni accessibili dalla barra degli strumenti Immagine possono essere raggiunte con un clic destro sull'immagine facendo così comparire il menu contestuale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180520T031849Z" creationid="luciano" creationdate="20161130T155927Z">
+        <seg>Molte delle opzioni accessibili dalla barra degli strumenti Immagine possono essere raggiunte anche con un clic destro del mouse sull'immagine, facendo così comparire il menu contestuale.</seg>
       </tuv>
     </tu>
     <tu>
