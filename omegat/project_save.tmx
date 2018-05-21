@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_6_r9896:9964" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23330,8 +23330,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;127&lt;/seq0&gt;: Position and Size dialog</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T161412Z" creationid="luciano" creationdate="20161130T161412Z">
-        <seg>Figura &lt;seq0&gt;127&lt;/seq0&gt;: Finestra di dialogo Posizione e Dimensione</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180521T070458Z" creationid="luciano" creationdate="20161130T161412Z">
+        <seg>Figura &lt;seq0&gt;127&lt;/seq0&gt;: finestra di dialogo Posizione e dimensione</seg>
       </tuv>
     </tu>
     <tu>
@@ -40108,8 +40108,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Opens the dialog shown below where you can change the size, location, rotation, slant and corner radius of the image.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180520T033402Z" creationid="luciano" creationdate="20161130T161342Z">
-        <seg>???????????????????????Apre la finestra di dialogo mostrata di seguito in cui è possibile modificare la dimensione, posizione, rotazione e angolo di inclinazione dell'immagine.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180521T070430Z" creationid="luciano" creationdate="20161130T161342Z">
+        <seg>Apre la finestra di dialogo mostrata di seguito, in cui è possibile modificare dimensioni, posizione, rotazione, inclinazione e raggio d'angolo dell'immagine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43092,8 +43092,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Resets the dimensions of the image to the values when it was originally inserted into the document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161214T110621Z" creationid="luciano" creationdate="20161130T162129Z">
-        <seg>Ripristina le dimensioni dell'immagine ai valori originali di quando è stata inserita nel documento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180521T070906Z" creationid="luciano" creationdate="20161130T162129Z">
+        <seg>Ripristina le dimensioni dell'immagine ai valori originali presenti all'inserimento nel documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57606,8 +57606,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>This information is used by accessibility tools (such as screen reader software) and as ALT (alternative) attributes if you export the document to HTML.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T162404Z" creationid="luciano" creationdate="20161130T162404Z">
-        <seg>Queste informazioni vengono usate da strumenti di accessibilità (come per esempio il software di lettura dello schermo) e come attributi ALT (alternativa) se si esporta il documento in formato HTML.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180521T071124Z" creationid="luciano" creationdate="20161130T162404Z">
+        <seg>Queste informazioni vengono usate da strumenti di accessibilità (come per esempio i software di lettura dello schermo) e come attributi ALT (alternativi) se esportate il documento in formato HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63814,8 +63814,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>When collaborating with a team on a large, multi-page publication, it may be beneficial to give graphics, figures, and other objects meaningful names and descriptions to aid in clear communication.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161214T111011Z" creationid="luciano" creationdate="20161130T163413Z">
-        <seg>Quando si lavora in maniera collaborativa a grandi pubblicazioni multi-pagina, può essere utile dare nomi significativi e descrizioni a immagini, figure e altri oggetti per una chiara comunicazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180521T071353Z" creationid="luciano" creationdate="20161130T163413Z">
+        <seg>?????????????????????????Quando si lavora in maniera collaborativa a grandi pubblicazioni multi-pagina, può essere utile dare nomi significativi e descrizioni a immagini, figure e altri oggetti per una chiara comunicazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65326,16 +65326,16 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>You can add a custom name to be assigned to the image, to make it easier to find in the Navigator.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T162544Z" creationid="luciano" creationdate="20161130T162544Z">
-        <seg>E' possibile inserire un nome personalizzato all'immagine, per renderla più facile da trovare nel Navigatore</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180521T071344Z" creationid="luciano" creationdate="20161130T162544Z">
+        <seg>È possibile assegnare un nome personalizzato all'immagine, per renderne più facile la ricerca nel Navigatore.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>You can add metadata in the form of a title and description to the image.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161214T110733Z" creationid="luciano" creationdate="20161130T162227Z">
-        <seg>E' possibile aggiungere metadati all'immagine sotto forma di titolo e di descrizione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180521T070949Z" creationid="luciano" creationdate="20161130T162227Z">
+        <seg>È possibile aggiungere metadati all'immagine sotto forma di titolo e descrizione.</seg>
       </tuv>
     </tu>
     <tu>
