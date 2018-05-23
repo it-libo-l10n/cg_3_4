@@ -11546,8 +11546,8 @@
       <tuv lang="EN">
         <seg>After images are grouped, the context menu provides other choices (&lt;f0&gt;Ungroup&lt;/f0&gt; and &lt;f1&gt;Edit Group&lt;/f1&gt;) and the &lt;f2&gt;Format &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; Group&lt;/f5&gt; menu includes &lt;f6&gt;Ungroup&lt;/f6&gt; and &lt;f7&gt;Enter Group&lt;/f7&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161130T171258Z" creationid="luciano" creationdate="20161130T171134Z">
-        <seg>Dopo che le immagini sono ragguppate, il menu contestuale fornisce altra scelte (&lt;f0&gt;Separa&lt;/f0&gt; e &lt;f1&gt;Modifica gruppo&lt;/f1&gt;) e il menu &lt;f2&gt;Formato &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; Raggruppa&lt;/f5&gt; include &lt;f6&gt;Separa&lt;/f6&gt; e &lt;f7&gt;Inserisci gruppo&lt;/f7&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180523T101726Z" creationid="luciano" creationdate="20161130T171134Z">
+        <seg>????????Dopo che le immagini sono ragguppate, il menu contestuale fornisce altra scelte (&lt;f0&gt;Separa&lt;/f0&gt; e &lt;f1&gt;Modifica gruppo&lt;/f1&gt;) e il menu &lt;f2&gt;Formato &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; Raggruppa&lt;/f5&gt; include &lt;f6&gt;Separa&lt;/f6&gt; e &lt;f7&gt;Inserisci gruppo&lt;/f7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64078,8 +64078,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>When the pointer changes shape from an arrow to a hand, right-click and choose &lt;f0&gt;Group &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Group&lt;/f3&gt; from the &lt;f4&gt;context&lt;/f4&gt; menu.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161214T111213Z" creationid="luciano" creationdate="20161130T170741Z">
-        <seg>Quando il puntatore cambia forma da freccia a mano, fate clic col pulsante destro del mouse e scegliete &lt;f0&gt;Raggruppa &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Raggruppa&lt;/f3&gt; dal menu &lt;f4&gt;contestuale&lt;/f4&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180523T101552Z" creationid="luciano" creationdate="20161130T170741Z">
+        <seg>Quando il puntatore cambia forma da freccia a mano, fate clic con il pulsante destro del mouse e scegliete la voce &lt;f0&gt;Raggruppa &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Raggruppa&lt;/f3&gt; dal menu &lt;f4&gt;contestuale&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66974,8 +66974,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>You cannot include drawing objects in a group with pictures.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161214T111236Z" creationid="luciano" creationdate="20161130T170831Z">
-        <seg>Non è possibile includere oggetti di disegno in un gruppo con immagini</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180523T101723Z" creationid="luciano" creationdate="20161130T170831Z">
+        <seg>Non è possibile includere oggetti di disegno in un gruppo contenente immagini.</seg>
       </tuv>
     </tu>
     <tu>
