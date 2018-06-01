@@ -7168,8 +7168,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Set or change &lt;/f0&gt;&lt;is1/&gt;&lt;f2&gt;properties&lt;/f2&gt;&lt;ie3/&gt;&lt;f4&gt; for drawing objects&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161209T163935Z" creationid="luciano" creationdate="20161209T163935Z">
-        <seg>&lt;f0&gt;Impostare o modificare le &lt;/f0&gt;&lt;is1/&gt;&lt;f2&gt;proprietà&lt;/f2&gt;&lt;ie3/&gt;&lt;f4&gt; degli oggetti di disegno&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180601T074400Z" creationid="luciano" creationdate="20161209T163935Z">
+        <seg>????&lt;f0&gt;Impostare o modificare le &lt;/f0&gt;&lt;is1/&gt;&lt;f2&gt;proprietà&lt;/f2&gt;&lt;ie3/&gt;&lt;f4&gt; degli oggetti di disegno&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -58798,8 +58798,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>To cancel the selected drawing function, press the &lt;f0&gt;Esc&lt;/f0&gt; key or click on the &lt;f1&gt;Select&lt;/f1&gt; icon (the arrow) on the Drawing toolbar.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180601T065758Z" creationid="luciano" creationdate="20161209T163453Z">
-        <seg>????Per disattivare la funzione selezionata premete il tasto &lt;f0&gt;Esc&lt;/f0&gt; oppure fate clic sull'icona &lt;f1&gt;Seleziona&lt;/f1&gt; (la freccia) sulla barra degli strumenti Disegno.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180601T073525Z" creationid="luciano" creationdate="20161209T163453Z">
+        <seg>Per disattivare la funzione di disegno selezionata premete il tasto &lt;f0&gt;Esc&lt;/f0&gt; oppure fate clic sull'icona &lt;f1&gt;Seleziona&lt;/f1&gt; (la freccia) sulla barra degli strumenti Disegno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66446,8 +66446,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>You can now change the properties (fill color, line type and weight, anchoring, and others) of the drawing object using either the &lt;is0/&gt;Drawing Object Properties toolbar&lt;ie1/&gt; (&lt;t2&gt;Figure 129&lt;/t2&gt;) or the choices and dialog boxes reached by right-clicking on the drawing object.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161209T163901Z" creationid="luciano" creationdate="20161209T163901Z">
-        <seg>È ora possibile modificare le proprietà (colore di riempimento, tipo di linea e il spessore, l'ancoraggio, e altri) dell'oggetto disegnato utilizzando la &lt;is0/&gt;barra degli strumenti Proprietà oggetto di disegno&lt;ie1/&gt; (&lt;t2&gt;Figura 129&lt;/t2&gt;) o le scelte e le finestre di dialogo raggiungibili facendo clic destro sull'oggetto del disegno.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180601T074355Z" creationid="luciano" creationdate="20161209T163901Z">
+        <seg>Si possono cambiare le proprietà dell'oggetto di disegno (colore di riempimento, tipo e spessore della linea, ancoraggio e altre) sia utilizzando la barra degli strumenti &lt;is0/&gt;Proprietà oggetto di disegno&lt;ie1/&gt; (&lt;t2&gt;Figura 129&lt;/t2&gt;) sia utilizzando le selezioni e le finestre di dialogo elencate nel menu che compare facendo clic con il pulsante destro del mouse sull'oggetto di disegno.</seg>
       </tuv>
     </tu>
     <tu>
