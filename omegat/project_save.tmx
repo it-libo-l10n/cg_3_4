@@ -12402,8 +12402,8 @@
       <tuv lang="EN">
         <seg>An image or a drawing object can be sent to the background as well.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T141636Z" creationid="luciano" creationdate="20161212T141636Z">
-        <seg>Un'immagine o un oggetto di disegno possono essere usati come sfondo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180606T073326Z" creationid="luciano" creationdate="20161212T141636Z">
+        <seg>Un'immagine o un oggetto di disegno possono anche essere usati come sfondo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14130,8 +14130,8 @@
       <tuv lang="EN">
         <seg>Brings the image one level up in the stack (z‑axis).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180605T065947Z" creationid="luciano" creationdate="20161212T140628Z">
-        <seg>???????????????????????Innalza l'immagine di un livello nella pila (sull'asse z).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180606T071428Z" creationid="luciano" creationdate="20161212T140628Z">
+        <seg>Innalza l'immagine di un livello nella pila (sull'asse z).</seg>
       </tuv>
     </tu>
     <tu>
@@ -48044,8 +48044,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Send Backward</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T140644Z" creationid="luciano" creationdate="20161212T140644Z">
-        <seg>Porta più indietro</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180606T071700Z" creationid="luciano" creationdate="20161212T140644Z">
+        <seg>Porta indietro</seg>
       </tuv>
     </tu>
     <tu>
@@ -54702,8 +54702,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>The opposite of Bring Forward; sends the selected image one level down in the object stack.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T140654Z" creationid="luciano" creationdate="20161212T140654Z">
-        <seg>Funzione opposta di Porta più avanti; abbassa di un livello l'oggetto grafico selezionato rispetto agli altri nella pila.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180606T073054Z" creationid="luciano" creationdate="20161212T140654Z">
+        <seg>Funzione opposta a quella di Porta avanti; abbassa di un livello l'immagine selezionata rispetto alle altre nella pila.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57766,8 +57766,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>This is not the same as Bring Forward and Send Backward, which set the order of a number of overlapping graphics.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161214T112700Z" creationid="luciano" creationdate="20161212T141741Z">
-        <seg>Questa non è la stessa funzione di di Porta in primo piano e Porta in fondo, utilizzati per impostare l'ordine di soprapposizione di una serie di immagini.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180606T073331Z" creationid="luciano" creationdate="20161212T141741Z">
+        <seg>?????????????????????????Questa non è la stessa funzione di di Porta in primo piano e Porta in fondo, utilizzati per impostare l'ordine di soprapposizione di una serie di immagini.</seg>
       </tuv>
     </tu>
     <tu>
