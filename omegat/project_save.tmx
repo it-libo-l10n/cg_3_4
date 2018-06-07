@@ -10234,8 +10234,8 @@
       <tuv lang="EN">
         <seg>A graphic in the background will have &lt;f0&gt;To Foreground&lt;/f0&gt; as a menu item, instead of &lt;f1&gt;To Background&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161214T112726Z" creationid="luciano" creationdate="20161212T142305Z">
-        <seg>Un'immagine sullo sfondo avrà &lt;f0&gt;In primo piano&lt;/f0&gt; come voce di menu, al posto di &lt;f1&gt;Sullo sfondo&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180607T064618Z" creationid="luciano" creationdate="20161212T142305Z">
+        <seg>Un'immagine sullo sfondo avrà la voce &lt;f0&gt;In primo piano&lt;/f0&gt; come voce di menu, al posto della voce &lt;f1&gt;Sullo sfondo&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12490,16 +12490,16 @@
       <tuv lang="EN">
         <seg>Anchoring a graphic to the page allows it to be positioned in a specific place on the page.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T143702Z" creationid="luciano" creationdate="20161212T143702Z">
-        <seg>L'ancoraggio di un'immagine alla pagina permette all'immagine di essere posizionata in una posizione specifica nella pagina.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180607T064828Z" creationid="luciano" creationdate="20161212T143702Z">
+        <seg>???????????????????????L'ancoraggio di un'immagine alla pagina permette all'immagine di essere posizionata in una posizione specifica nella pagina.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Anchoring graphics</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T142648Z" creationid="luciano" creationdate="20161212T142648Z">
-        <seg>Ancorare le immagini</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180607T064706Z" creationid="luciano" creationdate="20161212T142648Z">
+        <seg>Ancoraggio delle immagini</seg>
       </tuv>
     </tu>
     <tu>
@@ -57438,8 +57438,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>This feature pushes a graphic behind the cells, allowing cells to be edited without affecting the graphic.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T142131Z" creationid="luciano" creationdate="20161212T142131Z">
-        <seg>Questa funzione spinge un'immagine dietro alle celle, permettendo di modificare le celle senza influenzare l'immagine</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180607T064340Z" creationid="luciano" creationdate="20161212T142131Z">
+        <seg>Questa funzione spinge invece un'immagine dietro le celle, permettendo di modificare le celle senza influenzare l'immagine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57766,8 +57766,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>This is not the same as Bring Forward and Send Backward, which set the order of a number of overlapping graphics.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180606T073331Z" creationid="luciano" creationdate="20161212T141741Z">
-        <seg>?????????????????????????Questa non è la stessa funzione di di Porta in primo piano e Porta in fondo, utilizzati per impostare l'ordine di soprapposizione di una serie di immagini.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180607T064121Z" creationid="luciano" creationdate="20161212T141741Z">
+        <seg>Questa funzione è diversa da Porta in primo piano e Porta in fondo, che impostano l'ordine di sovrapposizione di una serie di immagini.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67630,8 +67630,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>anchoring</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T142658Z" creationid="luciano" creationdate="20161212T142620Z">
-        <seg>ancorare</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180607T064637Z" creationid="luciano" creationdate="20161212T142620Z">
+        <seg>ancoraggio</seg>
       </tuv>
     </tu>
     <tu>
