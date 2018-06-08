@@ -12482,16 +12482,16 @@
       <tuv lang="EN">
         <seg>Anchoring a graphic to a cell ensures that the graphic always stays with the content it is originally anchored to.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161214T112826Z" creationid="luciano" creationdate="20161212T144236Z">
-        <seg>L'ancoraggio di una immagine ad una cella assicura che l'immagine rimarrà sempre assieme al contenuto a cui era stata ancorata all'origine.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180608T072640Z" creationid="luciano" creationdate="20161212T144236Z">
+        <seg>L'ancoraggio di un'immagine a una cella assicura che l'immagine rimanga sempre assieme al contenuto a cui è stata ancorata in origine.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Anchoring a graphic to the page allows it to be positioned in a specific place on the page.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180607T064828Z" creationid="luciano" creationdate="20161212T143702Z">
-        <seg>???????????????????????L'ancoraggio di un'immagine alla pagina permette all'immagine di essere posizionata in una posizione specifica nella pagina.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180608T064055Z" creationid="luciano" creationdate="20161212T143702Z">
+        <seg>L'ancoraggio di un'immagine alla pagina permette all'immagine di essere posizionata in un punto specifico nella pagina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26890,8 +26890,8 @@
       <tuv lang="EN">
         <seg>For example, in &lt;t0&gt;Figure 131&lt;/t0&gt; the picture on the left is anchored &lt;f1&gt;To Cell&lt;/f1&gt; B2 (XXX shows where the picture is anchored).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T144809Z" creationid="luciano" creationdate="20161212T144809Z">
-        <seg>Per esempio, in &lt;t0&gt;Figura 131&lt;/t0&gt; l'immagine a sinistra è ancorata &lt;f1&gt;Alla cella&lt;/f1&gt; B2 (XXX indica dove l'immagine è ancorata).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180608T072807Z" creationid="luciano" creationdate="20161212T144809Z">
+        <seg>????????????????????????Per esempio, in &lt;t0&gt;Figura 131&lt;/t0&gt; l'immagine a sinistra è ancorata &lt;f1&gt;Alla cella&lt;/f1&gt; B2 (XXX indica dove l'immagine è ancorata).</seg>
       </tuv>
     </tu>
     <tu>
@@ -53910,8 +53910,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>The graphic will always stay by cell B10 if that is where it is placed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T143937Z" creationid="luciano" creationdate="20161212T143937Z">
-        <seg>L'immagine resterà sempre nella cella B10 se questo è dove era stata posizionata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180608T064858Z" creationid="luciano" creationdate="20161212T143937Z">
+        <seg>L'immagine resterà sempre nella cella B10 se questo è il punto in cui è stata posizionata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57662,16 +57662,16 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>This is equivalent to a relative reference.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T144631Z" creationid="luciano" creationdate="20161212T144631Z">
-        <seg>Questo è equivalente ad un riferimento relativo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180608T072759Z" creationid="luciano" creationdate="20161212T144631Z">
+        <seg>Questo è equivalente a un riferimento relativo.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>This is equivalent to an absolute reference.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T143843Z" creationid="luciano" creationdate="20161212T143843Z">
-        <seg>Questo è equivalente ad un riferimento assoluto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180608T064740Z" creationid="luciano" creationdate="20161212T143843Z">
+        <seg>Questo è equivalente a un riferimento assoluto.</seg>
       </tuv>
     </tu>
     <tu>
