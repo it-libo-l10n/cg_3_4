@@ -5328,8 +5328,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Frame:&lt;/f0&gt; where the target of the hyperlink will open: pick among &lt;f1&gt;_blank&lt;/f1&gt; (opens in a new browser window), &lt;f2&gt;_self&lt;/f2&gt; (opens in the active browser window), &lt;f3&gt;_top&lt;/f3&gt; or &lt;f4&gt;_parent&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T154618Z" creationid="luciano" creationdate="20161212T153647Z">
-        <seg>&lt;f0&gt;Frame:&lt;/f0&gt; dove desiderate si apra la destinazione del collegamento ipertestuale: scegliete tra &lt;f1&gt;_blank&lt;/f1&gt; (si apre in una nuova finestra del browser), &lt;f2&gt;_self&lt;/f2&gt; (apertura nella finestra attiva del browser), &lt;f3&gt;_top&lt;/f3&gt; or &lt;f4&gt;_parent&lt;/f4&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180615T073214Z" creationid="luciano" creationdate="20161212T153647Z">
+        <seg>&lt;f0&gt;Frame:&lt;/f0&gt; la destinazione desiderata del collegamento ipertestuale: scegliete fra &lt;f1&gt;_blank&lt;/f1&gt; (si apre in una nuova finestra del browser), &lt;f2&gt;_self&lt;/f2&gt; (apertura nella finestra attiva del browser), &lt;f3&gt;_top&lt;/f3&gt; oppure &lt;f4&gt;_parent&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18322,8 +18322,8 @@
       <tuv lang="EN">
         <seg>Click the &lt;i0/&gt;&lt;f1&gt;Print File Directly&lt;/f1&gt; icon &lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt; to send the entire document to the default printer defined for your computer.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160405T160630Z">
-        <seg>Fate clic sull'icona &lt;i0/&gt;&lt;f1&gt;Stampa direttamente il file&lt;/f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt; per inviare l'intero documento alla stampante predefinita del vostro computer.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180615T073940Z">
+        <seg>??????????????????????Fate clic sull'icona &lt;i0/&gt;&lt;f1&gt;Stampa direttamente il file&lt;/f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt; per inviare l'intero documento alla stampante predefinita del vostro computer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35267,8 +35267,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>It is therefore not recommended to use the other choices unless absolutely necessary.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161212T153929Z" creationid="luciano" creationdate="20161212T153929Z">
-        <seg>E' comunque sconsigliato utilizzare le altre opzioni, a meno che il loro utilizzo non sia assolutamente necessario.&lt;/f2&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180615T073851Z" creationid="luciano" creationdate="20161212T153929Z">
+        <seg>È quindi sconsigliabile utilizzare le altre opzioni, a meno che non sia strettamente necessario.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -65606,8 +65606,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>You can also point to an anchor in a document; to do this, write the address in this format: &lt;f1&gt;file:///&lt;path&gt;/document_name#anchor_name&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180612T091859Z" creationid="luciano" creationdate="20161212T153608Z">
-        <seg>?????????????????????È anche possibile puntare a un ancoraggio presente in un documento; per fare ciò, è sufficiente scrivere l'indirizzo in questo formato: &lt;f1&gt;file:///&lt;percorso&gt;/nome_documento#nome_ancora&lt;/f1&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180615T072252Z" creationid="luciano" creationdate="20161212T153608Z">
+        <seg>È anche possibile puntare a un ancoraggio presente in un documento; è sufficiente scrivere l'indirizzo in questo formato: &lt;f1&gt;file:///&lt;percorso&gt;/nome_documento#nome_ancora&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -70023,8 +70023,8 @@ ordine del calcolo</seg>
       <tuv lang="EN">
         <seg>print file directly</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160313T142049Z">
-        <seg>Stampa il file direttamente</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180615T073933Z">
+        <seg>stampa il file direttamente</seg>
       </tuv>
     </tu>
     <tu>
