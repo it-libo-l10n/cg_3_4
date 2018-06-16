@@ -17058,8 +17058,8 @@
       <tuv lang="EN">
         <seg>Choose &lt;f1&gt;Tools &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Options &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; Load/Save &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; General&lt;/f10&gt; and select the &lt;f11&gt;Load printer settings with the document&lt;/f11&gt; option.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160313T142216Z">
-        <seg>Andate in&lt;f1&gt; Strumenti &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Opzioni &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; Carica/Salva &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; Generale&lt;/f10&gt; e selezionate l'opzione &lt;f11&gt;Carica le impostazioni della stampante assieme al documento.&lt;/f11&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180616T120435Z">
+        <seg>?????Andate in&lt;f1&gt; Strumenti &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Opzioni &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; Carica/Salva &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;&gt;&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; Generale&lt;/f10&gt; e selezionate l'opzione &lt;f11&gt;Carica le impostazioni della stampante assieme al documento.&lt;/f11&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18322,8 +18322,8 @@
       <tuv lang="EN">
         <seg>Click the &lt;i0/&gt;&lt;f1&gt;Print File Directly&lt;/f1&gt; icon &lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt; to send the entire document to the default printer defined for your computer.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180615T073940Z">
-        <seg>??????????????????????Fate clic sull'icona &lt;i0/&gt;&lt;f1&gt;Stampa direttamente il file&lt;/f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt; per inviare l'intero documento alla stampante predefinita del vostro computer.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180616T120024Z">
+        <seg>Fate clic sull'icona &lt;i0/&gt;&lt;f1&gt;Stampa direttamente il file&lt;/f1&gt; &lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt; per inviare l'intero documento alla stampante predefinita del computer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65822,8 +65822,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>You can change the action of the &lt;f0&gt;Print File Directly&lt;/f0&gt; icon, to send the document to the printer defined for the document, instead of the default printer for the computer.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160405T161218Z">
-        <seg>È possibile modificare l'azione associata all'icona &lt;f0&gt;Stampa direttamente il file&lt;/f0&gt; per inviare il documento alla stampante predefinita per il documento invece che alla stampante predefinita del computer.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180616T120431Z">
+        <seg>È possibile modificare l'azione associata all'icona &lt;f0&gt;Stampa direttamente il file&lt;/f0&gt; per inviare il documento alla stampante specificata per il documento, invece che alla stampante predefinita del computer.</seg>
       </tuv>
     </tu>
     <tu>
