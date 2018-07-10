@@ -5968,8 +5968,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;It may become necessary to remove a defined print range, for example if the whole sheet needs to be printed later, or you no longer wish to print some of the added ranges&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T164744Z">
-        <seg>&lt;f0&gt;Potreste avere bisogno di rimuovere un'area di stampa già definita, per esempio se l'intero foglio deve essere stampanto successivamente, oppure se non volete più stampare alcune aree aggiunte&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180710T103210Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaa&lt;f0&gt;Potreste avere bisogno di rimuovere un'area di stampa già definita, per esempio se l'intero foglio deve essere stampanto successivamente, oppure se non volete più stampare alcune aree aggiunte&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29098,8 +29098,8 @@
       <tuv lang="EN">
         <seg>Highlight the range of cells to be added to the print range.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180710T093718Z">
-        <seg>aaaaaaaaaaaaaEvidenziate l'intervallo di celle da aggiungere all'area di stampa.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180710T102021Z">
+        <seg>Evidenziate l'intervallo di celle da aggiungere all'area di stampa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52133,8 +52133,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The additional print range will print as a separate page, even if both ranges are on the same sheet.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T161832Z">
-        <seg>L'area di stampa aggiuntiva sarà stampata in una pagina separata, anche se entrambe le aree si trovano sullo stesso foglio.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180710T103012Z">
+        <seg>L'area di stampa aggiuntiva verrà stampata in una pagina separata, anche se entrambe le aree si trovano sul medesimo foglio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54846,7 +54846,7 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>The page break lines display on the screen around this new addition.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T163405Z">
+      <tuv lang="IT-IT" changeid="luke" changedate="20180710T102920Z">
         <seg>Le linee di interruzione di pagina saranno visibili sullo schermo attorno alla nuova aggiunta.</seg>
       </tuv>
     </tu>
@@ -57038,8 +57038,8 @@ Il primo è delimitato dalla cella A3 ($A$3) in alto a sinistra e dalla cella C9
       <tuv lang="EN">
         <seg>This adds the extra cells to the print range.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160318T161704Z">
-        <seg>In questo modo saranno aggiunte all'area di stampa le ulteriori celle.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180710T102229Z">
+        <seg>In tal modo verranno aggiunte all'area di stampa le ulteriori celle.</seg>
       </tuv>
     </tu>
     <tu>
