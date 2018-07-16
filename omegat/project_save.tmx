@@ -13778,8 +13778,8 @@
       <tuv lang="EN">
         <seg>Because defined print ranges are formatted with automatic page breaks, they can be viewed by using the Page Break Preview screen, select &lt;f0&gt;View &gt;&lt;/f0&gt;&lt;f1&gt; Page Break Preview&lt;/f1&gt; from the menu bar.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180716T103850Z">
-        <seg>aaaaPoiché le aree di stampa definite sono formattate con interruzioni di pagina automatiche, si possono visualizzare mediante l'Anteprima dell'interruzione di pagina, selezionando &lt;f0&gt;Visualizza &gt;&lt;/f0&gt;&lt;f1&gt; Anteprima interruzioni di pagina&lt;/f1&gt; dalla barra dei menu.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180716T121506Z">
+        <seg>Poiché le aree di stampa definite sono formattate con interruzioni di pagina automatiche, si possono visualizzare mediante l'Anteprima dell'interruzione di pagina, selezionando &lt;f0&gt;Visualizza &gt;&lt;/f0&gt;&lt;f1&gt; Anteprima impaginazione&lt;/f1&gt; dalla barra dei menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23458,16 +23458,16 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;140&lt;/seq0&gt;: The defined print range</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T110254Z">
-        <seg>Figura &lt;seq0&gt;140&lt;/seq0&gt;: L'area di stampa definita</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180716T121604Z">
+        <seg>Figura &lt;seq0&gt;140&lt;/seq0&gt;: area di stampa definita</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;141&lt;/seq0&gt;: The preview screen for the defined print range.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T110347Z">
-        <seg>Figura &lt;seq0&gt;141&lt;/seq0&gt;: La videata di anteprima per l'area di stampa definita.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180716T121759Z">
+        <seg>Figura &lt;seq0&gt;141&lt;/seq0&gt;: schermata di anteprima per l'area di stampa definita</seg>
       </tuv>
     </tu>
     <tu>
@@ -55029,8 +55029,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The print ranges are outlined by default with a blue border, and contain a centered page number in gray.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160322T110508Z">
-        <seg>Le aree di stampa sono delineate di default con un bordo blu, e contengono un numero di pagina centrato di colore grigio.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180716T121807Z">
+        <seg>aaaaaaaaaaaaaaLe aree di stampa sono delineate di default con un bordo blu, e contengono un numero di pagina centrato di colore grigio.</seg>
       </tuv>
     </tu>
     <tu>
