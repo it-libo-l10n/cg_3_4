@@ -16978,8 +16978,8 @@
       <tuv lang="EN">
         <seg>Choose &lt;f0&gt;Tools &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Options &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;LibreOffice&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; Appearance&lt;/f12&gt; and scroll down to the Spreadsheet section.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T154141Z">
-        <seg>Scegliete &lt;f0&gt;Strumenti &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Opzioni &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;LibreOffice&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; Aspetto&lt;/f12&gt; e scorrete verso il basso, fino alla sezione Foglio elettronico.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180721T135239Z">
+        <seg>aaaaaaaaaaaaaScegliete &lt;f0&gt;Strumenti &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Opzioni &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;LibreOffice&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;&gt;&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; Aspetto&lt;/f12&gt; e scorrete verso il basso, fino alla sezione Foglio elettronico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18618,8 +18618,8 @@
       <tuv lang="EN">
         <seg>Column break</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153831Z">
-        <seg>Interruzione di colonna</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180721T134823Z">
+        <seg>Interruzione colonna</seg>
       </tuv>
     </tu>
     <tu>
@@ -26802,8 +26802,8 @@
       <tuv lang="EN">
         <seg>For example, if the active cell is H15, then the break is created between columns G and H.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153939Z">
-        <seg>Ad esempio, se la cella attiva è la H15, l'interruzione verrà creata tra le colonne G ed H.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180721T135057Z">
+        <seg>Ad esempio, se la cella attiva è la H15, l'interruzione verrà creata tra le colonne G e H.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47764,8 +47764,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Selecting &lt;f0&gt;Column Break&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;creates a page break to the left of the selected cell.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T153926Z">
-        <seg>Selezionando &lt;f0&gt;Interruzione di colonna&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;sarà creata un'interruzione di pagina alla sinistra della cella selezionata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180721T135008Z">
+        <seg>Selezionando &lt;f0&gt;Interruzione colonna&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;verrà creata un'interruzione di pagina alla sinistra della cella selezionata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47796,8 +47796,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Selecting &lt;f0&gt;Row Break&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;creates a page break above the selected cell.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180721T115454Z">
-        <seg>aaaaaaaaaaaaSelezionando &lt;f0&gt;Interruzione di riga&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;sarà creata un'interruzione di pagina sopra la cella selezionata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180721T134725Z">
+        <seg>Selezionando &lt;f0&gt;Interruzione riga&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;verrà creata un'interruzione di pagina sopra la cella selezionata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60477,8 +60477,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>To see page break lines more easily on screen, you can change their color.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160323T154009Z">
-        <seg>Per visualizzare più facilmente le interruzioni di pagina sullo schermo, potete cambiare il loro colore.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180721T135235Z">
+        <seg>Per distinguere più facilmente le linee delle interruzioni di pagina sullo schermo, potete cambiarne il colore.</seg>
       </tuv>
     </tu>
     <tu>
