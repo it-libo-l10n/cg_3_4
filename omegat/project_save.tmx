@@ -5272,8 +5272,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Fit print range(s) to width/height&lt;/f0&gt;&lt;f1&gt;—defines how high and wide the printout will be, in number of pages.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180722T130514Z">
-        <seg>aaaa&lt;f0&gt;Adatta area di stampa in larghezza/altezza&lt;/f0&gt;&lt;f1&gt;—definisce quanto sarà alta e larga, in pagine, l'area di stampa.&lt;/f1&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180722T133612Z">
+        <seg>&lt;f0&gt;Adatta area di stampa a larghezza/altezza&lt;/f0&gt;&lt;f1&gt;—definisce l'altezza e la larghezza, in pagine, dell'area di stampa.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28922,16 +28922,16 @@
       <tuv lang="EN">
         <seg>Headers and footers are assigned to a page style.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T165232Z">
-        <seg>Intestazioni e piè di pagina fanno riferimento ad uno stile di pagina.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180722T133845Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaaIntestazioni e piè di pagina fanno riferimento ad uno stile di pagina.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Headers and footers are predefined pieces of text that are printed at the top or bottom of a sheet outside of the sheet area.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160324T165141Z">
-        <seg>Intestazioni e piè di pagina sono parti di testo predefinite che sono stampate all'inizio e alla fine del foglio, fuori dall'area della pagina.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180722T133724Z">
+        <seg>Intestazioni e piè di pagina sono parti di testo predefinite che vengono stampate alla sommità e in fondo al foglio, fuori dall'area della pagina.</seg>
       </tuv>
     </tu>
     <tu>
