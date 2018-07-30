@@ -4024,8 +4024,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;All&lt;/f0&gt;: Exports the entire document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165455Z" creationid="Luciano B." creationdate="20160325T165455Z">
-        <seg>&lt;f0&gt;Tutto&lt;/f0&gt;: Esporta l'intero documento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180730T073548Z" creationid="Luciano B." creationdate="20160325T165455Z">
+        <seg>&lt;f0&gt;Tutto&lt;/f0&gt;: esporta l'intero documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6704,8 +6704,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Pages&lt;/f0&gt;: To export a range of pages, use the format &lt;f1&gt;3-6&lt;/f1&gt; (pages 3 to 6).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T165522Z" creationid="Luciano B." creationdate="20160325T165522Z">
-        <seg>&lt;f0&gt;Pagine&lt;/f0&gt;: Per esportare un intervallo di pagine usate il formato &lt;f1&gt;3-6&lt;/f1&gt; (pagine da 3 a 6).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180730T073552Z" creationid="Luciano B." creationdate="20160325T165522Z">
+        <seg>aaaaaa&lt;f0&gt;Pagine&lt;/f0&gt;: Per esportare un intervallo di pagine usate il formato &lt;f1&gt;3-6&lt;/f1&gt; (pagine da 3 a 6).</seg>
       </tuv>
     </tu>
     <tu>
@@ -23522,8 +23522,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;148&lt;/seq0&gt;: General page of PDF Options dialog</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180728T133444Z" creationid="Luciano B." creationdate="20160325T165429Z">
-        <seg>aaaaaaaaaaaaaaaFigura &lt;seq0&gt;148&lt;/seq0&gt;: finestra di dialogo Opzioni PDF, scheda Generale</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180730T073132Z" creationid="Luciano B." creationdate="20160325T165429Z">
+        <seg>Figura &lt;seq0&gt;148&lt;/seq0&gt;: scheda Generale della finestra di dialogo Opzioni PDF</seg>
       </tuv>
     </tu>
     <tu>
@@ -40550,6 +40550,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160721T154210Z" creationid="Elisabetta" creationdate="20160721T154210Z">
         <seg>Effetto sopralineato e sottolineato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PDF</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180730T073144Z" creationid="luke" creationdate="20180730T073144Z">
+        <seg>PDF</seg>
       </tuv>
     </tu>
     <tu>
