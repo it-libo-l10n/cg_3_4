@@ -2832,8 +2832,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Create PDF &lt;/f1&gt;&lt;/f0&gt;&lt;is2/&gt;&lt;f3&gt;&lt;f4&gt;form&lt;/f4&gt;&lt;/f3&gt;&lt;ie5/&gt;&lt;f6&gt;&lt;f7&gt; - Submit format:&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; Choose the format for submitting forms from within the PDF file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T173207Z" creationid="Luciano B." creationdate="20160325T171904Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Crea formulario PDF&lt;/f1&gt;&lt;/f0&gt;&lt;is2/&gt;&lt;f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;ie5/&gt;&lt;f6&gt;&lt;f7&gt; - Formato di invio dati:&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; Scegliete il formato per l'invio dei formulari dal file PDF.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180801T103652Z" creationid="Luciano B." creationdate="20160325T171904Z">
+        <seg>aaaaaaaaaaaaaaaaaaa&lt;f0&gt;&lt;f1&gt;Crea formulario PDF&lt;/f1&gt;&lt;/f0&gt;&lt;is2/&gt;&lt;f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;/f3&gt;&lt;ie5/&gt;&lt;f6&gt;&lt;f7&gt; - Formato di invio dati:&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; Scegliete il formato per l'invio dei formulari dal file PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3328,8 +3328,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Tagged PDF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;: Tagged PDF contains information about the structure of the document’s contents.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160325T171732Z" creationid="Luciano B." creationdate="20160325T171732Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;PDF con tag&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;: Un PDF con tag contiene informazioni relative alla struttura dei contenuti del documento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180801T103024Z" creationid="Luciano B." creationdate="20160325T171732Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;PDF con tag&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;: un PDF con tag contiene informazioni relative alla struttura dei contenuti del documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32018,8 +32018,8 @@
       <tuv lang="EN">
         <seg>If you select PDF/A-1a, the forbidden elements are grayed-out (not available).&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180801T091514Z" creationid="Luciano B." creationdate="20160325T171651Z">
-        <seg>aaaaSe selezionate PDF/A-1a, gli elementi tralasciati saranno in grigio (non disponibili).&lt;/f6&gt;&lt;/f5&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180801T102517Z" creationid="Luciano B." creationdate="20160325T171651Z">
+        <seg>Se selezionate PDF/A-1a, gli elementi tralasciati saranno in grigio (non disponibili).&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -57229,8 +57229,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>This can help to display the document on devices with different screens, and when using screen reader software.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T141423Z" creationid="Luciano B." creationdate="20160325T171814Z">
-        <seg>Ciò può essere utile per la visualizzazione del documento su dispositivi con schermi differenti, e quando vengono usati programmi appositi per la lettura sullo schermo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180801T103454Z" creationid="Luciano B." creationdate="20160325T171814Z">
+        <seg>Ciò può essere utile per la visualizzazione del documento su dispositivi con schermi differenti, e se vengono usati software appositi per la lettura dello schermo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58165,8 +58165,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>This option can increase file sizes significantly.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160406T141521Z" creationid="Luciano B." creationdate="20160325T171836Z">
-        <seg>Questa opzione può far aumentare in modo significativo le dimensioni del file.&lt;/f2&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180801T103645Z" creationid="Luciano B." creationdate="20160325T171836Z">
+        <seg>Questa opzione può far incrementare in modo significativo le dimensioni del file.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
