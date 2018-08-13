@@ -5240,8 +5240,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;File &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Send &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; E-mail as OpenDocument Spreadsheet&lt;/f6&gt; has the same effect.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T160014Z" creationid="Luciano B." creationdate="20160329T160014Z">
-        <seg>&lt;f0&gt;File &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Invia &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; E-mail come foglio elettronico OpenDocument&lt;/f6&gt; funziona allo stesso modo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180813T074949Z" creationid="Luciano B." creationdate="20160329T160014Z">
+        <seg>Tramite la voce di menu &lt;f0&gt;File &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Invia &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; E-mail come foglio elettronico OpenDocument&lt;/f6&gt; si ottiene lo stesso risultato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31442,8 +31442,8 @@
       <tuv lang="EN">
         <seg>If you choose &lt;f0&gt;E-mail as Microsoft Excel&lt;/f0&gt;, &lt;f1&gt;LibreOffice&lt;/f1&gt; first creates a file in Excel format and then opens your e-mail program with the *.XLS file attached.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T160245Z" creationid="Luciano B." creationdate="20160329T160245Z">
-        <seg>Se scegliete &lt;f0&gt;E-mail come Microsoft Excel&lt;/f0&gt;, &lt;f1&gt;LibreOffice&lt;/f1&gt; creerò prima un file nel formato Excel e quindi aprirà il vostro programma di posta allegando il file *.XLS.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180813T074952Z" creationid="Luciano B." creationdate="20160329T160245Z">
+        <seg>aaaaaaaaaaaaaaaSe scegliete &lt;f0&gt;E-mail come Microsoft Excel&lt;/f0&gt;, &lt;f1&gt;LibreOffice&lt;/f1&gt; creerò prima un file nel formato Excel e quindi aprirà il vostro programma di posta allegando il file *.XLS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34315,8 +34315,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>In your e-mail program, enter the recipient, subject, and any text you want to add, then send the e-mail.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180813T072038Z" creationid="Luciano B." creationdate="20160329T155348Z">
-        <seg>aaaaNel vostro programma di posta, inserite il destinatario, il soggetto e ogni parte di testo che volete aggiungere, quindi inviate il messaggio.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180813T074509Z" creationid="Luciano B." creationdate="20160329T155348Z">
+        <seg>Nel programma di posta elettronica inserite il destinatario, l'oggetto e ogni parte di testo che volete aggiungere, quindi inviate la e-mail.</seg>
       </tuv>
     </tu>
     <tu>
