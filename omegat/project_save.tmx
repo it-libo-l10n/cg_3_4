@@ -21538,8 +21538,8 @@
       <tuv lang="EN">
         <seg>E-mailing a spreadsheet to &lt;is0/&gt;several recipients</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T160419Z" creationid="Luciano B." creationdate="20160329T160419Z">
-        <seg>Inviare per e-mail un documento&lt;is0/&gt; a diversi destinatari</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180814T070154Z" creationid="Luciano B." creationdate="20160329T160419Z">
+        <seg>Invio tramite e-mail di un foglio elettronico &lt;is0/&gt;a diversi destinatari</seg>
       </tuv>
     </tu>
     <tu>
@@ -48892,8 +48892,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Similarly, if you choose &lt;f0&gt;E-mail as PDF&lt;/f0&gt;, &lt;f1&gt;LibreOffice&lt;/f1&gt; first creates a PDF using your default PDF settings (as when using the &lt;f2&gt;Export Directly as PDF&lt;/f2&gt; toolbar button) and then opens your email program with the *.PDF file attached.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180814T062441Z" creationid="Luciano B." creationdate="20160329T160410Z">
-        <seg>aaaaAllo stesso modo, se scegliete &lt;f0&gt;E-mail come PDF&lt;/f0&gt;, &lt;f1&gt;LibreOffice&lt;/f1&gt; creerà prima un PDF usando le vostre impostazioni PDF predefinite (le stesse che usate con il pulsante &lt;f2&gt;Esporta direttamente come file PDF&lt;/f2&gt;) e poi aprirà il vostro programma di posta, allegando il file *,PDF.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180814T065957Z" creationid="Luciano B." creationdate="20160329T160410Z">
+        <seg>Allo stesso modo, se scegliete &lt;f0&gt;Via e-mail come PDF&lt;/f0&gt;, &lt;f1&gt;LibreOffice&lt;/f1&gt; creerà prima un PDF usando le impostazioni PDF predefinite (come per il comando &lt;f2&gt;Esporta direttamente come file PDF&lt;/f2&gt;) e poi aprirà il programma di posta elettronica, allegando il file *.PDF in un nuovo messaggio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59405,8 +59405,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>To e-mail a document to several recipients, you can use the features in your e-mail program or you can use &lt;f0&gt;LibreOffice&lt;/f0&gt; Writer’s mail merge facilities to extract email addresses from an address book.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T160502Z" creationid="Luciano B." creationdate="20160329T160502Z">
-        <seg>Per inviare un documento tramite posta elettronica a più destinatari, potete utilizzare le funzionalità del vostro programma di posta oppure la stampa in serie di &lt;f0&gt;LibreOffice&lt;/f0&gt; per estrarre gli indirizzi di posta elettronica da una rubrica.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180814T070156Z" creationid="Luciano B." creationdate="20160329T160502Z">
+        <seg>aaaaPer inviare un documento tramite posta elettronica a più destinatari, potete utilizzare le funzionalità del vostro programma di posta oppure la stampa in serie di &lt;f0&gt;LibreOffice&lt;/f0&gt; per estrarre gli indirizzi di posta elettronica da una rubrica.</seg>
       </tuv>
     </tu>
     <tu>
