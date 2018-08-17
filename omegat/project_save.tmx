@@ -26362,8 +26362,8 @@
       <tuv lang="EN">
         <seg>For a more detailed description of how to get and manage a certificate, and signature validation, see “Using Digital Signatures” in the &lt;f0&gt;LibreOffice&lt;/f0&gt; Help.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T161347Z" creationid="Luciano B." creationdate="20160329T161347Z">
-        <seg>Per una descrizione più dettagliata di come ottenere e operare con un certificato, e per la validazione della firma, vedere "Applicare le firme digitali" nell'Help di &lt;f0&gt;LibreOffice&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180817T072434Z" creationid="Luciano B." creationdate="20160329T161347Z">
+        <seg>aaaaPer una descrizione più dettagliata di come ottenere e operare con un certificato, e per la validazione della firma, vedere "Applicare le firme digitali" nell'Help di &lt;f0&gt;LibreOffice&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38868,16 +38868,16 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>On Solaris and Linux systems, files that are supplied by Thunderbird, Mozilla or Firefox are used.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T161319Z" creationid="Luciano B." creationdate="20160329T161319Z">
-        <seg>Su sistemi Solaris e Linux, vengono utilizzati i file forniti da Thunderbird, Mozilla o Firefox.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180817T072431Z" creationid="Luciano B." creationdate="20160329T161319Z">
+        <seg>Su sistemi Solaris e Linux, vengono utilizzati i file forniti dai software Thunderbird, Mozilla o Firefox.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>On Windows operating systems, the Windows features of validating a signature are used.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160329T161300Z" creationid="Luciano B." creationdate="20160329T161300Z">
-        <seg>Sui sistemi operativi Windows vengono utilizzate le funzionalità di convalida della firma digitale fornite da Windows.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180817T072339Z" creationid="Luciano B." creationdate="20160329T161300Z">
+        <seg>Sui sistemi operativi Windows vengono utilizzate le funzionalità di convalida della firma digitale fornite dal sistema operativo stesso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64613,8 +64613,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Whenever someone changes something in the document, this change breaks the digital signature.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180816T100918Z" creationid="Luciano B." creationdate="20160329T161246Z">
-        <seg>aaaaaaaaaaaaaaOgni volta che qualcuno cambia qualcosa nel documento, queste variazioni modificano la firma digitale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180817T071905Z" creationid="Luciano B." creationdate="20160329T161246Z">
+        <seg>Ogni volta che qualcuno cambia qualcosa nel documento, tale modifica invalida la firma digitale.</seg>
       </tuv>
     </tu>
     <tu>
