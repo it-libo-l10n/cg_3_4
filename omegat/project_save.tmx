@@ -31809,8 +31809,8 @@
       <tuv lang="EN">
         <seg>If you input a formula in cell C1 of &lt;f0&gt;=0.75*B1&lt;/f0&gt; (for example to calculate the value in Euros of the USD dollar amount in cell B1), you will have to edit the formula when the exchange rate changes from 0.75 to some other value.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180823T094315Z" creationid="osvaldo" creationdate="20161228T223421Z">
-        <seg>aaaaaaaaaaaaaaaaaaSe viene inserita nella cella C1 la formula &lt;f0&gt;=0.75*B1&lt;/f0&gt; (per esempio per calcolare l'ammontare in Euro del valore in USD della cella B1), sarà poi necessario aggiornare il valore "0.75" quando il tasso di cambio verrà modificato.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180824T073210Z" creationid="osvaldo" creationdate="20161228T223421Z">
+        <seg>Se inserite nella cella C1 la formula &lt;f0&gt;=0.75*B1&lt;/f0&gt; (ad esempio per calcolare il valore in Euro dell'ammontare inserito in dollari USD della cella B1), dovrete poi modificare la formula quando il tasso di cambio passa da 0.75 a un altro valore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35122,8 +35122,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>It is much easier to set up an input cell with the exchange rate and reference that cell in any formula needing the exchange rate.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20161229T134549Z" creationid="osvaldo" creationdate="20161229T134549Z">
-        <seg>È molto più facile impostare una cella con il valore del tasso di cambio e fare riferimento a questa cella ogni volta che nella formula è richiesto il tasso di cambio.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180824T073213Z" creationid="osvaldo" creationdate="20161229T134549Z">
+        <seg>aaaaaaaaaaaÈ molto più facile impostare una cella con il valore del tasso di cambio e fare riferimento a questa cella ogni volta che nella formula è richiesto il tasso di cambio.</seg>
       </tuv>
     </tu>
     <tu>
