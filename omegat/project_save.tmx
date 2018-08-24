@@ -8600,8 +8600,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;What-if&lt;/f1&gt; type calculations are also simplified: what if the exchange rate varies from 0.75 to 0.70 or 0.80?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T142105Z" creationid="osvaldo" creationdate="20161229T134813Z">
-        <seg>Anche i calcoli del tipo &lt;f1&gt;Cosa-se&lt;/f1&gt; sono semplificati: cosa succede se il tasso di cambio varia da 0.75 a 0.70 o 0.80?</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180824T080356Z" creationid="osvaldo" creationdate="20161229T134813Z">
+        <seg>aaaaAnche i calcoli del tipo &lt;f1&gt;Cosa-se&lt;/f1&gt; sono semplificati: cosa succede se il tasso di cambio varia da 0.75 a 0.70 o 0.80?</seg>
       </tuv>
     </tu>
     <tu>
@@ -35122,8 +35122,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>It is much easier to set up an input cell with the exchange rate and reference that cell in any formula needing the exchange rate.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180824T073213Z" creationid="osvaldo" creationdate="20161229T134549Z">
-        <seg>aaaaaaaaaaaÈ molto più facile impostare una cella con il valore del tasso di cambio e fare riferimento a questa cella ogni volta che nella formula è richiesto il tasso di cambio.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180824T080354Z" creationid="osvaldo" creationdate="20161229T134549Z">
+        <seg>È invece molto più facile impostare una cella contenente solo il valore del tasso di cambio e fare riferimento a questa cella in ogni formula in cui è richiesto il tasso di cambio.</seg>
       </tuv>
     </tu>
     <tu>
