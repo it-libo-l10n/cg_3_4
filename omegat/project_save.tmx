@@ -30689,8 +30689,8 @@
       <tuv lang="EN">
         <seg>If the data needed was in different worksheets, they would be referenced by referring to the name of the worksheet, for example&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;=SUM(&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Sheet2.B12&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;+&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;Sheet3.A11&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;)&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;.&lt;/f13&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180830T083507Z" creationid="osvaldo" creationdate="20161230T090359Z">
-        <seg>aaaaSe i dati necessari sono in diversi fogli, verranno referenziati facendo riferimento al nome dei fogli di lavoro, per esempio &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;=SOMMA(&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Foglio2.B12&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;+&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;Foglio3.A11&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;)&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;.&lt;/f13&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180830T090415Z" creationid="osvaldo" creationdate="20161230T090359Z">
+        <seg>Se i dati necessari si trovano in fogli differenti, verranno referenziati facendo riferimento al nome dei fogli di lavoro, per esempio&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;=SOMMA(&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Foglio2.B12&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;+&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;Foglio3.A11&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;)&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;.&lt;/f13&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -59532,8 +59532,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>To enter the = symbol for a purpose other than creating a formula as described in this chapter, type an apostrophe or single quotation mark before the =.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T145641Z" creationid="osvaldo" creationdate="20161230T090653Z">
-        <seg>Per inserire il simbolo = per scopi diversi dalla creazione di una formula, come descritto nel presente capitolo, digitare un apostrofo o un apice prima di =.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180830T090505Z" creationid="osvaldo" creationdate="20161230T090653Z">
+        <seg>aaaaaaaaPer inserire il simbolo = per scopi diversi dalla creazione di una formula, come descritto nel presente capitolo, digitare un apostrofo o un apice prima di =.</seg>
       </tuv>
     </tu>
     <tu>
