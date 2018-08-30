@@ -7672,8 +7672,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;These cell references allow formulas to use data from anywhere in the worksheet being worked on or from any other worksheet in the workbook that is opened.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180830T081226Z" creationid="osvaldo" creationdate="20161230T074212Z">
-        <seg>aaaaaaaaaa&lt;f0&gt;Questi riferimenti di cella consentono alle formule di utilizzare i dati da qualsiasi parte del foglio di lavoro che si sta modificando o da qualsiasi altro foglio di lavoro nella cartella che è aperta.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180830T083501Z" creationid="osvaldo" creationdate="20161230T074212Z">
+        <seg>&lt;f0&gt;I riferimenti di cella consentono alle formule di utilizzare dati presenti in qualsiasi parte del foglio di lavoro che si sta modificando o in qualsiasi altro foglio nella cartella di lavoro aperta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30689,8 +30689,8 @@
       <tuv lang="EN">
         <seg>If the data needed was in different worksheets, they would be referenced by referring to the name of the worksheet, for example&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;=SUM(&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Sheet2.B12&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;+&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;Sheet3.A11&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;)&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;.&lt;/f13&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20161230T090359Z" creationid="osvaldo" creationdate="20161230T090359Z">
-        <seg>Se i dati necessari sono in diversi fogli, verranno referenziati facendo riferimento al nome dei fogli di lavoro, per esempio &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;=SOMMA(&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Foglio2.B12&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;+&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;Foglio3.A11&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;)&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;.&lt;/f13&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180830T083507Z" creationid="osvaldo" creationdate="20161230T090359Z">
+        <seg>aaaaSe i dati necessari sono in diversi fogli, verranno referenziati facendo riferimento al nome dei fogli di lavoro, per esempio &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt;=SOMMA(&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;Foglio2.B12&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;+&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;Foglio3.A11&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;)&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;.&lt;/f13&gt;</seg>
       </tuv>
     </tu>
     <tu>
