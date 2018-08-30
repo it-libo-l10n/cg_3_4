@@ -15769,8 +15769,8 @@
       <tuv lang="EN">
         <seg>Calculation by Reference</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20161230T093640Z" creationid="osvaldo" creationdate="20161230T093640Z">
-        <seg>Calcolo per Riferimento</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180830T104118Z" creationid="osvaldo" creationdate="20161230T093640Z">
+        <seg>Calcoli per riferimento</seg>
       </tuv>
     </tu>
     <tu>
@@ -23585,8 +23585,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;155&lt;/seq0&gt;: A simple calculation</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20161230T093714Z" creationid="osvaldo" creationdate="20161230T093714Z">
-        <seg>Figura &lt;seq0&gt;155&lt;/seq0&gt;: Un semplice calcolo</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180830T104236Z" creationid="osvaldo" creationdate="20161230T093714Z">
+        <seg>Figura &lt;seq0&gt;155&lt;/seq0&gt;: calcoli semplici</seg>
       </tuv>
     </tu>
     <tu>
@@ -26929,8 +26929,8 @@
       <tuv lang="EN">
         <seg>For example, in the entry &lt;f0&gt;'= means different things to different people&lt;/f0&gt;, Calc treats everything after the single quotation mark—including the = sign—as text.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20161230T091009Z" creationid="osvaldo" creationdate="20161230T091009Z">
-        <seg>Per esempio, nella voce &lt;f0&gt;'= significa cose diverse per persone diverse&lt;/f0&gt;, Calc  tratta ogni cosa dopo l'apice — incluso il simbolo = — come testo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180830T103734Z" creationid="osvaldo" creationdate="20161230T091009Z">
+        <seg>Per esempio, nella voce &lt;f0&gt;'= significa cose diverse per persone diverse&lt;/f0&gt;, Calc considera tutto ciò che si trova dopo la virgoletta singola — incluso il segno di = — come testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27843,6 +27843,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171120T165556Z" creationid="michele" creationdate="20160414T144914Z">
         <seg>Barra degli strumenti Formattazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Formula</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180830T104241Z" creationid="luke" creationdate="20180830T104241Z">
+        <seg>Formula</seg>
       </tuv>
     </tu>
     <tu>
@@ -48923,8 +48931,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Simple Calculation in 1 Cell</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20161230T091104Z" creationid="osvaldo" creationdate="20161230T091104Z">
-        <seg>Semplici Calcoli in 1 Cella</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180830T103942Z" creationid="osvaldo" creationdate="20161230T091104Z">
+        <seg>Semplici calcoli in una cella</seg>
       </tuv>
     </tu>
     <tu>
@@ -50708,8 +50716,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Table &lt;seq0&gt;8&lt;/seq0&gt;: Common ways to enter formulas</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20161230T093803Z" creationid="osvaldo" creationdate="20161230T093803Z">
-        <seg>Tabella &lt;seq0&gt;8&lt;/seq0&gt;: Modi comuni per inserire formule </seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180830T104240Z" creationid="osvaldo" creationdate="20161230T093803Z">
+        <seg>aaaaaaaaaaaaaaTabella &lt;seq0&gt;8&lt;/seq0&gt;: Modi comuni per inserire formule </seg>
       </tuv>
     </tu>
     <tu>
@@ -59532,8 +59540,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>To enter the = symbol for a purpose other than creating a formula as described in this chapter, type an apostrophe or single quotation mark before the =.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180830T090505Z" creationid="osvaldo" creationdate="20161230T090653Z">
-        <seg>aaaaaaaaPer inserire il simbolo = per scopi diversi dalla creazione di una formula, come descritto nel presente capitolo, digitare un apostrofo o un apice prima di =.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180830T103335Z" creationid="osvaldo" creationdate="20161230T090653Z">
+        <seg>Per inserire il simbolo = per scopi diversi dalla creazione di una formula, come descritto nel presente capitolo, digitate un apostrofo o una virgoletta singola prima di =.</seg>
       </tuv>
     </tu>
     <tu>
