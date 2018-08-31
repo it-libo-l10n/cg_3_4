@@ -9633,8 +9633,8 @@
       <tuv lang="EN">
         <seg>=EFFECTIVE(5%,12)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170102T144653Z" creationid="osvaldo" creationdate="20170102T144653Z">
-        <seg>=EFFETTIVO(5%,12)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180831T135424Z" creationid="osvaldo" creationdate="20170102T144653Z">
+        <seg>=EFFETTIVO(5%;12)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15185,8 +15185,8 @@
       <tuv lang="EN">
         <seg>Calculates B8 minus the sum of the cells B10 to B14.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170102T145339Z" creationid="osvaldo" creationdate="20170102T145339Z">
-        <seg>Calcola B8 meno la somma delle celle da B10 a B14.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180831T140413Z" creationid="osvaldo" creationdate="20170102T145339Z">
+        <seg>Sottrae da B8 la somma delle celle da B10 a B14.</seg>
       </tuv>
     </tu>
     <tu>
