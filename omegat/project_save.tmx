@@ -9737,8 +9737,8 @@
       <tuv lang="EN">
         <seg>=ROUND(A1,1)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180831T080247Z" creationid="osvaldo" creationdate="20170102T144520Z">
-        <seg>aaaaaaaaaaa=ARROTONDA(A1,1)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180831T101259Z" creationid="osvaldo" creationdate="20170102T144520Z">
+        <seg>=ARROTONDA(A1;1)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20921,8 +20921,8 @@
       <tuv lang="EN">
         <seg>Displays the contents of cell A1 rounded to one decimal place.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170102T144610Z" creationid="osvaldo" creationdate="20170102T144610Z">
-        <seg>Visualizza il contenuto della cella A1 arrotondata alla prima cifra decimale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180831T101440Z" creationid="osvaldo" creationdate="20170102T144610Z">
+        <seg>Visualizza il contenuto della cella A1 arrotondato alla prima cifra decimale.</seg>
       </tuv>
     </tu>
     <tu>
