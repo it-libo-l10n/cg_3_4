@@ -9519,6 +9519,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>=A1*16%</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180831T074031Z" creationid="luke" creationdate="20180831T074031Z">
+        <seg>=A1*16%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>=A1*A2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180831T074143Z" creationid="luke" creationdate="20180831T074143Z">
+        <seg>=A1*A2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>=A1+10</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180831T073851Z" creationid="luke" creationdate="20180831T073851Z">
+        <seg>=A1+10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>=AVERAGE(BloodSugar)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170102T175310Z" creationid="osvaldo" creationdate="20170102T175310Z">
@@ -9713,8 +9737,8 @@
       <tuv lang="EN">
         <seg>=ROUND(A1,1)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170102T144520Z" creationid="osvaldo" creationdate="20170102T144520Z">
-        <seg>=ARROTONDA(A1,1)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180831T080247Z" creationid="osvaldo" creationdate="20170102T144520Z">
+        <seg>aaaaaaaaaaa=ARROTONDA(A1,1)</seg>
       </tuv>
     </tu>
     <tu>
@@ -50716,8 +50740,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Table &lt;seq0&gt;8&lt;/seq0&gt;: Common ways to enter formulas</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180830T104240Z" creationid="osvaldo" creationdate="20161230T093803Z">
-        <seg>aaaaaaaaaaaaaaTabella &lt;seq0&gt;8&lt;/seq0&gt;: Modi comuni per inserire formule </seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180831T073757Z" creationid="osvaldo" creationdate="20161230T093803Z">
+        <seg>Tabella &lt;seq0&gt;8&lt;/seq0&gt;: metodi comuni per inserire formule</seg>
       </tuv>
     </tu>
     <tu>
