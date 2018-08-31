@@ -9545,8 +9545,8 @@
       <tuv lang="EN">
         <seg>=AVERAGE(BloodSugar)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170102T175310Z" creationid="osvaldo" creationdate="20170102T175310Z">
-        <seg>=MEDIA(BloodSugar)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180831T141610Z" creationid="osvaldo" creationdate="20170102T175310Z">
+        <seg>aaaaaaaaaaaaaaa=MEDIA(BloodSugar)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9753,16 +9753,16 @@
       <tuv lang="EN">
         <seg>=SUM(B1:B1048576 )</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170102T175204Z" creationid="osvaldo" creationdate="20170102T175204Z">
-        <seg>=SOMMA(B1:B1048576 )</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180831T141524Z" creationid="osvaldo" creationdate="20170102T175204Z">
+        <seg>=SOMMA(B1:B1048576)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>=SUM(B8,SUM(B10:B14))</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170102T145406Z" creationid="osvaldo" creationdate="20170102T145406Z">
-        <seg>=SOMMA(B8,SOMMA(B10:B14))</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180831T140957Z" creationid="osvaldo" creationdate="20170102T145406Z">
+        <seg>=SOMMA(B8;SOMMA(B10:B14))</seg>
       </tuv>
     </tu>
     <tu>
