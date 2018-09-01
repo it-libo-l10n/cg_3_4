@@ -9545,8 +9545,8 @@
       <tuv lang="EN">
         <seg>=AVERAGE(BloodSugar)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180831T141610Z" creationid="osvaldo" creationdate="20170102T175310Z">
-        <seg>aaaaaaaaaaaaaaa=MEDIA(BloodSugar)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180901T063905Z" creationid="osvaldo" creationdate="20170102T175310Z">
+        <seg>=MEDIA(Intervallo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20897,8 +20897,8 @@
       <tuv lang="EN">
         <seg>Displays the average of a named range defined under the name BloodSugar.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170102T175542Z" creationid="osvaldo" creationdate="20170102T175542Z">
-        <seg>Visualizza la media un certo intervallo definito con il nome BloodSugar.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180901T063915Z" creationid="osvaldo" creationdate="20170102T175542Z">
+        <seg>Visualizza la media di un certo intervallo definito con il nome Intervallo.</seg>
       </tuv>
     </tu>
     <tu>
