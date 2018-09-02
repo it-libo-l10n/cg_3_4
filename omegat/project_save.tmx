@@ -9545,8 +9545,8 @@
       <tuv lang="EN">
         <seg>=AVERAGE(BloodSugar)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180901T063905Z" creationid="osvaldo" creationdate="20170102T175310Z">
-        <seg>=MEDIA(Intervallo)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180902T093828Z" creationid="osvaldo" creationdate="20170102T175310Z">
+        <seg>=MEDIA(Alberi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20897,8 +20897,8 @@
       <tuv lang="EN">
         <seg>Displays the average of a named range defined under the name BloodSugar.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180901T063915Z" creationid="osvaldo" creationdate="20170102T175542Z">
-        <seg>Visualizza la media di un certo intervallo definito con il nome Intervallo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180902T093838Z" creationid="osvaldo" creationdate="20170102T175542Z">
+        <seg>Visualizza la media di un certo intervallo definito con il nome Alberi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28305,8 +28305,8 @@
       <tuv lang="EN">
         <seg>Functions can be identified in &lt;t0&gt;Table 8&lt;/t0&gt; with a word, for example ROUND, followed by parentheses enclosing references or numbers.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180902T093342Z" creationid="osvaldo" creationdate="20170206T143706Z">
-        <seg>Le funzioni possono essere identificate nella &lt;t0&gt;Tabella 8&lt;/t0&gt; con una parola, come ad esempio ARROTONDA, seguito da parentesi che racchiudono riferimenti o numeri.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180902T093549Z" creationid="osvaldo" creationdate="20170206T143706Z">
+        <seg>Le funzioni possono essere identificate nella &lt;t0&gt;Tabella 8&lt;/t0&gt; con una parola, come ad esempio ARROTONDA, seguita da parentesi che racchiudono riferimenti o numeri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35090,8 +35090,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>It is also possible to establish ranges for inclusion by naming them using &lt;f0&gt;Insert &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Names&lt;/f3&gt;, for example BloodSugar representing a range such as B3:B10.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T151037Z" creationid="osvaldo" creationdate="20170206T150046Z">
-        <seg>E' anche possibile stabilire gli intervalli per l'inclusione indicandoli con  &lt;f0&gt;Inserire &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Nomi&lt;/f3&gt;, per esempio BloodSugar rappresenta l'intervallo B3:B10.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180902T093655Z" creationid="osvaldo" creationdate="20170206T150046Z">
+        <seg>aaaaaaaaaÈ anche possibile stabilire gli intervalli per l'inclusione indicandoli con dei nomi, tramite la voce di menu &lt;f0&gt;Inserisci &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Nomi&lt;/f3&gt;, per esempio BloodSugar rappresenta l'intervallo B3:B10.</seg>
       </tuv>
     </tu>
     <tu>
