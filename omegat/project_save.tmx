@@ -510,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>+ (Plus)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180905T071110Z" creationid="luke" creationdate="20180905T071110Z">
+        <seg>+ (Più)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180609T091959Z" creationid="luke" creationdate="20180609T091959Z">
@@ -9511,6 +9519,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>=1+1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180905T071114Z" creationid="luke" creationdate="20180905T071114Z">
+        <seg>=1+1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>=1+3*2+3 result 10</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170805T150439Z" creationid="osvaldo" creationdate="20170805T150439Z">
@@ -11345,8 +11361,8 @@
       <tuv lang="EN">
         <seg>Addition</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T151813Z" creationid="osvaldo" creationdate="20170206T151813Z">
-        <seg>Addizione</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180905T071113Z" creationid="osvaldo" creationdate="20170206T151813Z">
+        <seg>aaaaaaAddizione</seg>
       </tuv>
     </tu>
     <tu>
@@ -50748,8 +50764,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Table &lt;seq0&gt;9&lt;/seq0&gt;: Arithmetical operators</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T151741Z" creationid="osvaldo" creationdate="20170206T151741Z">
-        <seg>Tabella &lt;seq0&gt;9&lt;/seq0&gt;: Operatori aritmetici</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180905T071044Z" creationid="osvaldo" creationdate="20170206T151741Z">
+        <seg>Tabella &lt;seq0&gt;9&lt;/seq0&gt;: operatori aritmetici</seg>
       </tuv>
     </tu>
     <tu>
@@ -51836,8 +51852,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The Negation and Percent operators identify a characteristic of the number found in the cell, for example -37.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T151354Z" creationid="osvaldo" creationdate="20170206T151354Z">
-        <seg>Gli operatori negazione e percentuale identificano una caratteristica del numero trovato nella cella: ad esempio -37.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180905T065950Z" creationid="osvaldo" creationdate="20170206T151354Z">
+        <seg>Gli operatori negazione e percentuale identificano una caratteristica del numero che si trova nella cella: ad esempio -37.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52164,8 +52180,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The addition, subtraction, multiplication and division operators return numerical results.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180902T105916Z" creationid="osvaldo" creationdate="20170206T151206Z">
-        <seg>aaaaaaaaaaaaaaaaaaGli operatori di addizione, sottrazione, moltiplicazione e divisione ritornano risultati numerici.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180905T065646Z" creationid="osvaldo" creationdate="20170206T151206Z">
+        <seg>Gli operatori di addizione, sottrazione, moltiplicazione e divisione ritornano risultati numerici.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53340,8 +53356,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The example for Exponentiation illustrates how to enter a number that is being multiplied by itself a certain number of times, for example 2&lt;f0&gt;3 &lt;/f0&gt;= 2*2*2.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T151713Z" creationid="osvaldo" creationdate="20170206T151713Z">
-        <seg>L'esempio dell'elevamento a potenza illustra come specificare un numero che viene moltiplicato per sé stesso un certo numero di volte, per esempio 2&lt;f0&gt;3 &lt;/f0&gt;= 2*2*2.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180905T070946Z" creationid="osvaldo" creationdate="20170206T151713Z">
+        <seg>L'esempio dell'elevamento a potenza illustra come inserire un numero che viene moltiplicato per sé stesso un certo numero di volte: ad esempio 2&lt;f0&gt;3 &lt;/f0&gt;= 2*2*2.</seg>
       </tuv>
     </tu>
     <tu>
