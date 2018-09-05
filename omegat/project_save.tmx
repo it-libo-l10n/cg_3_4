@@ -878,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>15%</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180905T092816Z" creationid="luke" creationdate="20180905T092816Z">
+        <seg>15%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>151</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160202T112629Z">
@@ -1370,6 +1378,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180310T155516Z" creationid="Administrator" creationdate="20170823T133954Z">
         <seg>Diagramma a torta in 2D con un settore della torta esploso: scegliete &lt;f0&gt;&lt;f1&gt;Inserisci&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;Legenda&lt;/f9&gt;&lt;/f8&gt; e deselezionate l'opzione &lt;f10&gt;Mostra legenda&lt;/f10&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2^3</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180905T093516Z" creationid="luke" creationdate="20180905T093516Z">
+        <seg>2^3</seg>
       </tuv>
     </tu>
     <tu>
@@ -9535,6 +9551,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>=10/5</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180905T092754Z" creationid="luke" creationdate="20180905T092754Z">
+        <seg>=10/5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>=2*2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180905T092739Z" creationid="luke" creationdate="20180905T092739Z">
+        <seg>=2*2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>=2–1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180905T092711Z" creationid="luke" creationdate="20180905T092711Z">
+        <seg>=2–1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>=A1*16%</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180831T074031Z" creationid="luke" creationdate="20180831T074031Z">
@@ -11361,8 +11401,8 @@
       <tuv lang="EN">
         <seg>Addition</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180905T071113Z" creationid="osvaldo" creationdate="20170206T151813Z">
-        <seg>aaaaaaAddizione</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180905T092655Z" creationid="osvaldo" creationdate="20170206T151813Z">
+        <seg>Addizione</seg>
       </tuv>
     </tu>
     <tu>
@@ -18769,8 +18809,8 @@
       <tuv lang="EN">
         <seg>Comparative operators are found in formulas that use the IF function and return either a true or false answer; for example, &lt;f0&gt;=IF(B6&gt;G12, 127, 0)&lt;/f0&gt; which, loosely translated, means if the contents of cell B6 are greater than the contents of cell G12, then return the number 127, otherwise return the number 0.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T153447Z" creationid="osvaldo" creationdate="20170206T152606Z">
-        <seg>Gli operatori di confronto si incontrano in formule che usano la funzione SE e ritornano un risultato che è o vero o falso; per esempio, &lt;f0&gt;=SE(B6&gt;G12, 127, 0)&lt;/f0&gt; che liberamente tradotto significa: se i contenuti della cella B6 sono maggiori dei contenuti della cella G12, allora ritorna il numero 127, altrimenti ritorna il numero 0.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180905T093617Z" creationid="osvaldo" creationdate="20170206T152606Z">
+        <seg>aaaaaaaaaaaaaaGli operatori di confronto si incontrano in formule che usano la funzione SE e ritornano un risultato che è o vero o falso; per esempio, &lt;f0&gt;=SE(B6&gt;G12, 127, 0)&lt;/f0&gt; che liberamente tradotto significa: se i contenuti della cella B6 sono maggiori dei contenuti della cella G12, allora ritorna il numero 127, altrimenti ritorna il numero 0.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68221,8 +68261,8 @@ ordine del calcolo</seg>
       <tuv lang="EN">
         <seg>comparative operators</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T152311Z" creationid="osvaldo" creationdate="20170206T152311Z">
-        <seg>Operatori di confronto</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180905T093605Z" creationid="osvaldo" creationdate="20170206T152311Z">
+        <seg>operatori di confronto</seg>
       </tuv>
     </tu>
     <tu>
@@ -71135,6 +71175,14 @@ ordine del calcolo</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T151858Z" creationid="osvaldo" creationdate="20170206T151858Z">
         <seg>– (Meno)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>–5</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180905T092721Z" creationid="luke" creationdate="20180905T092721Z">
+        <seg>–5</seg>
       </tuv>
     </tu>
     <tu>
