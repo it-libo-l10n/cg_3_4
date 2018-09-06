@@ -18809,8 +18809,8 @@
       <tuv lang="EN">
         <seg>Comparative operators are found in formulas that use the IF function and return either a true or false answer; for example, &lt;f0&gt;=IF(B6&gt;G12, 127, 0)&lt;/f0&gt; which, loosely translated, means if the contents of cell B6 are greater than the contents of cell G12, then return the number 127, otherwise return the number 0.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180905T093617Z" creationid="osvaldo" creationdate="20170206T152606Z">
-        <seg>aaaaaaaaaaaaaaGli operatori di confronto si incontrano in formule che usano la funzione SE e ritornano un risultato che è o vero o falso; per esempio, &lt;f0&gt;=SE(B6&gt;G12, 127, 0)&lt;/f0&gt; che liberamente tradotto significa: se i contenuti della cella B6 sono maggiori dei contenuti della cella G12, allora ritorna il numero 127, altrimenti ritorna il numero 0.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180906T093516Z" creationid="osvaldo" creationdate="20170206T152606Z">
+        <seg>Gli operatori di confronto si trovano nelle formule che usano la funzione SE e restituiscono una risposta vera o falsa; ad esempio nella formula &lt;f0&gt;=SE(B6&gt;G12;127;0)&lt;/f0&gt;, che, liberamente tradotta, significa: se il contenuto della cella B6 è maggiore del contenuto della cella G12, allora restituisce il numero 127, altrimenti restituisce il numero 0.</seg>
       </tuv>
     </tu>
     <tu>
