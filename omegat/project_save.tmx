@@ -2438,6 +2438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180906T124216Z" creationid="luke" creationdate="20180906T124216Z">
+        <seg>&lt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;http://wiki.documentfoundation.org/Local_Mailing_Lists&lt;/f3&gt;&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084103Z">
@@ -2706,6 +2714,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T142257Z" creationid="steevie" creationdate="20160511T142257Z">
         <seg>&lt;80</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;=</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180906T124316Z" creationid="luke" creationdate="20180906T124316Z">
+        <seg>&lt;=</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180906T124359Z" creationid="luke" creationdate="20180906T124359Z">
+        <seg>&lt;&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9511,6 +9535,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>=</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180906T124052Z" creationid="luke" creationdate="20180906T124052Z">
+        <seg>=</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>= DCOUNT (Database,Database field,Search_criteria)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170917T170017Z" creationid="steevie" creationdate="20161130T172730Z">
@@ -9855,10 +9887,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180906T124150Z" creationid="luke" creationdate="20180906T124150Z">
+        <seg>&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&gt;80</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T142256Z" creationid="steevie" creationdate="20160511T142256Z">
         <seg>&gt;80</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&gt;=</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180906T124258Z" creationid="luke" creationdate="20180906T124258Z">
+        <seg>&gt;=</seg>
       </tuv>
     </tu>
     <tu>
@@ -11003,6 +11051,54 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160628T171626Z" creationid="Elisabetta" creationdate="20160628T171626Z">
         <seg>A-B (invariato)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A1&lt;=B1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180906T124338Z" creationid="luke" creationdate="20180906T124338Z">
+        <seg>A1&lt;=B1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A1&lt;&gt;B1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180906T124541Z" creationid="luke" creationdate="20180906T124541Z">
+        <seg>A1&lt;&gt;B1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A1&lt;B1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180906T124241Z" creationid="luke" creationdate="20180906T124241Z">
+        <seg>A1&lt;B1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A1=B1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180906T124148Z" creationid="luke" creationdate="20180906T124148Z">
+        <seg>A1=B1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A1&gt;=B1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180906T124315Z" creationid="luke" creationdate="20180906T124315Z">
+        <seg>A1&gt;=B1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A1&gt;B1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180906T124214Z" creationid="luke" creationdate="20180906T124214Z">
+        <seg>A1&gt;B1</seg>
       </tuv>
     </tu>
     <tu>
@@ -22511,6 +22607,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Equal</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180906T124103Z" creationid="luke" creationdate="20180906T124103Z">
+        <seg>Uguale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Equally obvious is &lt;f3&gt;=LOOKUP("Fred"; A2:A16; F2:F16)&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151306Z" creationid="steevie" creationdate="20161130T143328Z">
@@ -30289,8 +30393,8 @@
       <tuv lang="EN">
         <seg>If cell A1 contains the numerical value 4 and cell B1 the numerical value 5, the above examples would yield results of FALSE, FALSE, TRUE, FALSE, TRUE, and TRUE.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T154504Z" creationid="osvaldo" creationdate="20170206T154504Z">
-        <seg>Se la cella A1 contiene il valore numerico 4 e la cella B1 il valore numerico 5, l'esempio precedente ritorna FALSO, FALSO, VERO, FALSO, VERO, e VERO.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180906T124547Z" creationid="osvaldo" creationdate="20170206T154504Z">
+        <seg>aaaaaaaaaaaaSe la cella A1 contiene il valore numerico 4 e la cella B1 il valore numerico 5, l'esempio precedente ritorna FALSO, FALSO, VERO, FALSO, VERO, e VERO.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36050,8 +36154,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>Less than or equal to</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T154048Z" creationid="osvaldo" creationdate="20170206T154048Z">
-        <seg>Minore o uguale a </seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180906T124337Z" creationid="osvaldo" creationdate="20170206T154048Z">
+        <seg>Minore o uguale a</seg>
       </tuv>
     </tu>
     <tu>
@@ -40219,7 +40323,7 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Operator</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T151750Z" creationid="osvaldo" creationdate="20170206T151750Z">
+      <tuv lang="IT-IT" changeid="luke" changedate="20180906T124042Z" creationid="osvaldo" creationdate="20170206T151750Z">
         <seg>Operatore</seg>
       </tuv>
     </tu>
@@ -50452,8 +50556,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Table &lt;seq0&gt;10&lt;/seq0&gt;: Comparative operators</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180906T102512Z" creationid="osvaldo" creationdate="20170206T153911Z">
-        <seg>aaaaaaaaaaaTabella &lt;seq0&gt;10&lt;/seq0&gt;: Operatori di confronto</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180906T124005Z" creationid="osvaldo" creationdate="20170206T153911Z">
+        <seg>Tabella &lt;seq0&gt;10&lt;/seq0&gt;: operatori di confronto</seg>
       </tuv>
     </tu>
     <tu>
