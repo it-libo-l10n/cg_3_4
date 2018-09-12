@@ -12561,8 +12561,8 @@
       <tuv lang="EN">
         <seg>An expression using the range operator has the following syntax:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T165417Z" creationid="osvaldo" creationdate="20170206T165417Z">
-        <seg>Una espressione che usa un operatore di intervallo ha la sintassi seguente:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180912T092016Z" creationid="osvaldo" creationdate="20170206T165417Z">
+        <seg>Una espressione che utilizza l'operatore di intervallo ha la seguente sintassi:</seg>
       </tuv>
     </tu>
     <tu>
@@ -55404,16 +55404,16 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The range operator builds a reference to the smallest range including both the cells referenced with the left reference and the cells referenced with the right reference.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T165714Z" creationid="osvaldo" creationdate="20170206T165714Z">
-        <seg>L'operatore di intervallo realizza il riferimento all'intervallo più piccolo che include sia le celle referenziate con il riferimento di sinistra, sia le celle referenziate con il riferimento di destra.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180912T092954Z" creationid="osvaldo" creationdate="20170206T165714Z">
+        <seg>aaaaaaaaaL'operatore di intervallo realizza il riferimento all'intervallo più piccolo che include sia le celle referenziate con il riferimento di sinistra, sia le celle referenziate con il riferimento di destra.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The range operator is written as colon.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180912T091110Z" creationid="osvaldo" creationdate="20170206T165341Z">
-        <seg>aaaaaaaaL'operatore di intervalllo si specifica con i due punti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180912T091541Z" creationid="osvaldo" creationdate="20170206T165341Z">
+        <seg>L'operatore di intervallo si specifica con i due punti.</seg>
       </tuv>
     </tu>
     <tu>
