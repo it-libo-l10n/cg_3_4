@@ -12593,8 +12593,8 @@
       <tuv lang="EN">
         <seg>An individual cell is identified by the column identifier (letter) located along the top of the columns and a row identifier (number) found along the left-hand side of the spreadsheet.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180910T103833Z" creationid="osvaldo" creationdate="20170206T164748Z">
-        <seg>aaaaaaaaaaaaaaaaUna singola cella è identificata dall'identificatore della colonna (lettera) posta in cima alle colonne, e un identificativo di riga (numero) che si trova lungo il lato destro del foglio di calcolo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180912T090534Z" creationid="osvaldo" creationdate="20170206T164748Z">
+        <seg>Una singola cella viene individuata tramite un identificatore di colonna (lettera), posto in cima alle colonne, e un identificatore di riga (numero), che si trova lungo il lato sinistro del foglio elettronico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39107,8 +39107,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>On spreadsheets read from left to right, the upper left cell is A1.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T164905Z" creationid="osvaldo" creationdate="20170206T164905Z">
-        <seg>Nei fogli di lavoro si legge da sinistra a destra, la cella in alto a sinistra è la A1.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180912T091001Z" creationid="osvaldo" creationdate="20170206T164905Z">
+        <seg>Nei fogli elettronici si legge da sinistra a destra, la cella in alto a sinistra è la A1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55412,8 +55412,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The range operator is written as colon.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T165341Z" creationid="osvaldo" creationdate="20170206T165341Z">
-        <seg>L'operatore di intervalllo si specifica con i due punti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180912T091110Z" creationid="osvaldo" creationdate="20170206T165341Z">
+        <seg>aaaaaaaaL'operatore di intervalllo si specifica con i due punti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70261,16 +70261,16 @@ ordine del calcolo</seg>
       <tuv lang="EN">
         <seg>range operator</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T165227Z" creationid="osvaldo" creationdate="20170206T165227Z">
-        <seg>Operatore di intervallo</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180912T091045Z" creationid="osvaldo" creationdate="20170206T165227Z">
+        <seg>operatore di intervallo</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>range operators</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T165200Z" creationid="osvaldo" creationdate="20170206T165200Z">
-        <seg>Operatori di intervallo</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180912T091020Z" creationid="osvaldo" creationdate="20170206T165200Z">
+        <seg>operatori di intervallo</seg>
       </tuv>
     </tu>
     <tu>
