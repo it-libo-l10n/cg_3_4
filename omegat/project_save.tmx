@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(A2:B4):C9</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180913T150345Z" creationid="luke" creationdate="20180913T150345Z">
+        <seg>(A2:B4):C9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Cell styles only) If you want your new style to be linked with an existing style, first select that style and then right-click and choose &lt;f0&gt;New&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180408T102930Z" creationid="briga" creationdate="20160820T052804Z">
@@ -42835,8 +42843,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Reference to a rectangle range with 6 cells, 2 column width × 3 row height.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180913T141248Z" creationid="osvaldo" creationdate="20170206T170322Z">
-        <seg>aaaaaaaaaaaaRiferimento ad un intervallo rettangolare con 6 celle, 2 colonne di larghezza × 3 righe di altezza.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180913T145619Z" creationid="osvaldo" creationdate="20170206T170322Z">
+        <seg>Riferimento a un intervallo rettangolare con 6 celle, 2 colonne di larghezza × 3 righe di altezza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64468,8 +64476,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>When you click on the reference in the formula in the input line, a border indicates the rectangle.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T170443Z" creationid="osvaldo" creationdate="20170206T170443Z">
-        <seg>Quando si clicca sul riferimento nella formula nella linea di input, un bordo indica il rettangolo in questione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180913T150324Z" creationid="osvaldo" creationdate="20170206T170443Z">
+        <seg>Facendo clic sul riferimento nella formula, all'interno della riga di digitazione, un bordo indica il rettangolo in questione.</seg>
       </tuv>
     </tu>
     <tu>
