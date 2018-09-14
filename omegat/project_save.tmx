@@ -14385,8 +14385,8 @@
       <tuv lang="EN">
         <seg>But if you name the cell B4 for example with &lt;f0&gt;_start&lt;/f0&gt; and A2 with &lt;f1&gt;_end&lt;/f1&gt;, you can use &lt;f2&gt;_start:_end&lt;/f2&gt; without any error.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T203402Z" creationid="osvaldo" creationdate="20170206T171618Z">
-        <seg>Ma se si chiama la cella B4 per esempio con &lt;f0&gt;_inizio&lt;/f0&gt; e A2 con &lt;f1&gt;_fine&lt;/f1&gt;, si può usare &lt;f2&gt;_inizio:_fine&lt;/f2&gt; senza nessun errore.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180914T124221Z" creationid="osvaldo" creationdate="20170206T171618Z">
+        <seg>aaaaaaaaaaMa se si chiama la cella B4 per esempio con &lt;f0&gt;_inizio&lt;/f0&gt; e A2 con &lt;f1&gt;_fine&lt;/f1&gt;, si può usare &lt;f2&gt;_inizio:_fine&lt;/f2&gt; senza nessun errore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42835,8 +42835,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Reference to a cuboid range with 24 cells, 4 column width × 2 row height × 3 sheets depth.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180913T152808Z" creationid="osvaldo" creationdate="20170206T171009Z">
-        <seg>aaaaaaaaaaaaaaaReferenzia un cuboide con intervallo di 24 celle, larghezza 4 colonne × altezza 2 righe × 3 fogli di profondità.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180914T123712Z" creationid="osvaldo" creationdate="20170206T171009Z">
+        <seg>Riferimento a un cuboide con intervallo di 24 celle, 4 colonne di larghezza × 2 righe di altezza × 3 fogli di profondità.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49259,8 +49259,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>So the left top cell of the range is left of the colon and the bottom right cell is right of the colon.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T171357Z" creationid="osvaldo" creationdate="20170206T171357Z">
-        <seg>Pertanto la cella a sinistra in alto dell'intervallo è quella a sinistra dei due punti, mentre quella a destra in basso è quella a destra dei due punti</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180914T124218Z" creationid="osvaldo" creationdate="20170206T171357Z">
+        <seg>Pertanto la cella in alto a sinistra dell'intervallo è quella a sinistra dei due punti, mentre quella in basso a destra è quella a destra dei due punti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64540,8 +64540,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>When you enter B4:A2 or A4:B2 directly, then Calc will turn it to A2:B4.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T171148Z" creationid="osvaldo" creationdate="20170206T171148Z">
-        <seg>Quando di specifica direttamente B4:A2 o A4:B2,  Calc lo trasforma in A2:B4.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180914T124007Z" creationid="osvaldo" creationdate="20170206T171148Z">
+        <seg>Quando specificate direttamente B4:A2 o A4:B2, Calc lo trasforma in A2:B4.</seg>
       </tuv>
     </tu>
     <tu>
