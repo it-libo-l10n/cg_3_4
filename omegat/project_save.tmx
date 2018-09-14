@@ -14385,8 +14385,8 @@
       <tuv lang="EN">
         <seg>But if you name the cell B4 for example with &lt;f0&gt;_start&lt;/f0&gt; and A2 with &lt;f1&gt;_end&lt;/f1&gt;, you can use &lt;f2&gt;_start:_end&lt;/f2&gt; without any error.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180914T124221Z" creationid="osvaldo" creationdate="20170206T171618Z">
-        <seg>aaaaaaaaaaMa se si chiama la cella B4 per esempio con &lt;f0&gt;_inizio&lt;/f0&gt; e A2 con &lt;f1&gt;_fine&lt;/f1&gt;, si può usare &lt;f2&gt;_inizio:_fine&lt;/f2&gt; senza nessun errore.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180914T125652Z" creationid="osvaldo" creationdate="20170206T171618Z">
+        <seg>Ma se, ad esempio, assegnate alla cella B4 il nome &lt;f0&gt;_inizio&lt;/f0&gt; e alla cella A2 il nome &lt;f1&gt;_fine&lt;/f1&gt;, potete usare &lt;f2&gt;_inizio:_fine&lt;/f2&gt; senza che vengano riportati errori.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14913,8 +14913,8 @@
       <tuv lang="EN">
         <seg>Calc can not reference a whole column of unspecified length using A:A or a whole row using 1:1 which you might be familiar with in other spreadsheet programs.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T171943Z" creationid="osvaldo" creationdate="20170206T171943Z">
-        <seg>Calc non può specificare una intera colonna di lunghezza indefinita usando A:A o un'intera riga specificando 1:1 con le quali notazioni si può essere familiari se si sono usati altri programmi di fogli di calcolo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180914T125654Z" creationid="osvaldo" creationdate="20170206T171943Z">
+        <seg>aaaaaaaaaCalc non può specificare una intera colonna di lunghezza indefinita usando A:A o un'intera riga specificando 1:1 con le quali notazioni si può essere familiari se si sono usati altri programmi di fogli di calcolo.</seg>
       </tuv>
     </tu>
     <tu>
