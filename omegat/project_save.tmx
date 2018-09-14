@@ -14913,8 +14913,8 @@
       <tuv lang="EN">
         <seg>Calc can not reference a whole column of unspecified length using A:A or a whole row using 1:1 which you might be familiar with in other spreadsheet programs.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180914T125654Z" creationid="osvaldo" creationdate="20170206T171943Z">
-        <seg>aaaaaaaaaCalc non può specificare una intera colonna di lunghezza indefinita usando A:A o un'intera riga specificando 1:1 con le quali notazioni si può essere familiari se si sono usati altri programmi di fogli di calcolo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180914T130930Z" creationid="osvaldo" creationdate="20170206T171943Z">
+        <seg>In Calc non è possibile fare riferimento a una intera colonna di lunghezza indefinita usando A:A o un'intera riga specificando 1:1, notazioni che potrebbero esservi familiari se usate altri programmi di fogli elettronici.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42819,8 +42819,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Reference concatenation operator</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T172059Z" creationid="osvaldo" creationdate="20170206T172059Z">
-        <seg>Operatori di concatenazione di riferimento</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180914T133606Z" creationid="osvaldo" creationdate="20170206T172059Z">
+        <seg>Operatore per la concatenazione di riferimenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -51540,8 +51540,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The &lt;is0/&gt;&lt;is1/&gt;concatenation operator&lt;ie2/&gt;&lt;ie3/&gt; is written as a tilde.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T172223Z" creationid="osvaldo" creationdate="20170206T172223Z">
-        <seg>L' &lt;is0/&gt;&lt;is1/&gt;operatore di concatenazione &lt;ie2/&gt;&lt;ie3/&gt; è scritto come il carattere tilde.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180914T133609Z" creationid="osvaldo" creationdate="20170206T172223Z">
+        <seg>aaaaaaaaaaL' &lt;is0/&gt;&lt;is1/&gt;operatore di concatenazione &lt;ie2/&gt;&lt;ie3/&gt; è scritto come il carattere tilde.</seg>
       </tuv>
     </tu>
     <tu>
