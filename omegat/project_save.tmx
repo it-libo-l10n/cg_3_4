@@ -38635,8 +38635,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Notice that SUM(A1:C3,B2:D2) is different from SUM( A1:C3~B2:D2) although they give the same result.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180917T093353Z" creationid="osvaldo" creationdate="20170206T173746Z">
-        <seg>aaaaaaaaaaaaDa notare come SOMMA(A1:C3,B2:D2) sia differente da SOMMA( A1:C3~B2:D2) anche se danno lo stesso risultato.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180917T095555Z" creationid="osvaldo" creationdate="20170206T173746Z">
+        <seg>Da notare come SOMMA(A1:C3,B2:D2) sia differente da SOMMA(A1:C3~B2:D2), pur dando lo stesso risultato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53772,8 +53772,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The first is a function call with 2 parameters, each of them is reference to a range.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T173942Z" creationid="osvaldo" creationdate="20170206T173942Z">
-        <seg>La prima è una chiamato di funzione con due parametri, ciascuno è riferito ad un intervallo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180917T095603Z" creationid="osvaldo" creationdate="20170206T173942Z">
+        <seg>aaaaaaaaaaaaaLa prima è una chiamato di funzione con due parametri, ciascuno è riferito ad un intervallo.</seg>
       </tuv>
     </tu>
     <tu>
