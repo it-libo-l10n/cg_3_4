@@ -14393,8 +14393,8 @@
       <tuv lang="EN">
         <seg>But it is not the union of the two sets 'reference left' and 'reference right' as normally understood in set theory.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T173338Z" creationid="osvaldo" creationdate="20170206T173338Z">
-        <seg>ma non si tratta dell'unione dei due insiemi 'riferimento sinistro' e 'riferimento destro', come si intende normalmente nella teoria degli insiemi.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180917T085035Z" creationid="osvaldo" creationdate="20170206T173338Z">
+        <seg>non si tratta però dell'unione dei due insiemi 'riferimento sinistro' e 'riferimento destro', come si intende normalmente nella teoria degli insiemi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14689,8 +14689,8 @@
       <tuv lang="EN">
         <seg>COUNT(A1:C3~B2:D2) returns 12 (=9+3), but it has only 10 cells when considered as the union of the two sets of cells.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T173641Z" creationid="osvaldo" creationdate="20170206T173641Z">
-        <seg>CONTA(A1:C3~B2:D2) fornisce 12 (=9+3), ma ha soltanto 10 celle quando lo si considera come l'unione dei due insiemi di celle.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180917T085038Z" creationid="osvaldo" creationdate="20170206T173641Z">
+        <seg>aaaaaaaaaaaaaCONTA(A1:C3~B2:D2) fornisce 12 (=9+3), ma ha soltanto 10 celle quando lo si considera come l'unione dei due insiemi di celle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55460,8 +55460,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The reference concatenation is sometimes called 'union'.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180917T081824Z" creationid="osvaldo" creationdate="20170206T173110Z">
-        <seg>aaaaaaaaaaaaLa concatenazione di riferimenti è talvolta denominata 'unione'.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180917T084749Z" creationid="osvaldo" creationdate="20170206T173110Z">
+        <seg>La concatenazione di riferimenti è talvolta denominata 'unione';</seg>
       </tuv>
     </tu>
     <tu>
