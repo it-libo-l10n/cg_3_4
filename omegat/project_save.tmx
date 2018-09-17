@@ -14689,8 +14689,8 @@
       <tuv lang="EN">
         <seg>COUNT(A1:C3~B2:D2) returns 12 (=9+3), but it has only 10 cells when considered as the union of the two sets of cells.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180917T085038Z" creationid="osvaldo" creationdate="20170206T173641Z">
-        <seg>aaaaaaaaaaaaaCONTA(A1:C3~B2:D2) fornisce 12 (=9+3), ma ha soltanto 10 celle quando lo si considera come l'unione dei due insiemi di celle.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180917T093351Z" creationid="osvaldo" creationdate="20170206T173641Z">
+        <seg>CONTA.NUMERI(A1:C3~B2:D2) fornisce 12 (=9+3), ma ha soltanto 10 celle quando la si considera come l'unione dei due insiemi di celle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38635,8 +38635,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Notice that SUM(A1:C3,B2:D2) is different from SUM( A1:C3~B2:D2) although they give the same result.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T173746Z" creationid="osvaldo" creationdate="20170206T173746Z">
-        <seg>Da notare come SOMMA(A1:C3,B2:D2) sia differente da SOMMA( A1:C3~B2:D2) anche se danno lo stesso risultato.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180917T093353Z" creationid="osvaldo" creationdate="20170206T173746Z">
+        <seg>aaaaaaaaaaaaDa notare come SOMMA(A1:C3,B2:D2) sia differente da SOMMA( A1:C3~B2:D2) anche se danno lo stesso risultato.</seg>
       </tuv>
     </tu>
     <tu>
