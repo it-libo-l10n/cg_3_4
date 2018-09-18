@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(A2:B4~B1:C2) !</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180918T080411Z" creationid="luke" creationdate="20180918T080411Z">
+        <seg>(A2:B4~B1:C2) !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Cell styles only) If you want your new style to be linked with an existing style, first select that style and then right-click and choose &lt;f0&gt;New&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180408T102930Z" creationid="briga" creationdate="20160820T052804Z">
@@ -11119,6 +11127,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A2:B4 !</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180918T080402Z" creationid="luke" creationdate="20180918T080402Z">
+        <seg>A2:B4 !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A&lt;i0/&gt;rrow key shortcuts</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T142112Z" creationid="luciano" creationdate="20160509T142112Z">
@@ -13731,6 +13747,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T201202Z" creationid="Marco Marega" creationdate="20160726T201202Z">
         <seg>B(Tentativi; Probabilità; Tentativo_1; Tentativo_2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>B3:D6</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180918T080407Z" creationid="luke" creationdate="20180918T080407Z">
+        <seg>B3:D6</seg>
       </tuv>
     </tu>
     <tu>
@@ -54988,8 +55012,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The order is to first intersect the first item from the left with all items from the right, then intersect the second item from the left with all items from the right, and so on.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180918T074957Z" creationid="osvaldo" creationdate="20170207T133332Z">
-        <seg>aaaaaaaaaaaaaL'ordine è di intersecare prima il primo elemento da sinistra con tutti gli elementi dalla destra, poi intersecare la seconda voce da sinistra con tutte le voci da destra, e così via.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180918T080347Z" creationid="osvaldo" creationdate="20170207T133332Z">
+        <seg>La sequenza prevede che venga prima intersecato il primo elemento di sinistra con tutti gli elementi di destra, poi il secondo elemento di sinistra con tutti gli elementi di destra, e così via.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58468,8 +58492,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>This results in a reference to the range B3:B4, because these cells are inside A2:B4 and inside B3:D4.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T133553Z" creationid="osvaldo" creationdate="20170207T133553Z">
-        <seg>Il risultato è il riferimento all'intervallo B3:B4, poiché queste celle sono all'interno di A2:B4 e B3:D4.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180918T080410Z" creationid="osvaldo" creationdate="20170207T133553Z">
+        <seg>aaaaaaaaaaaIl risultato è il riferimento all'intervallo B3:B4, poiché queste celle sono all'interno di A2:B4 e B3:D4.</seg>
       </tuv>
     </tu>
     <tu>
