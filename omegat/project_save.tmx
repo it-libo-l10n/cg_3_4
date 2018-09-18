@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(B2:C6~C1:D3)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180918T102311Z" creationid="luke" creationdate="20180918T102311Z">
+        <seg>(B2:C6~C1:D3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Cell styles only) If you want your new style to be linked with an existing style, first select that style and then right-click and choose &lt;f0&gt;New&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180408T102930Z" creationid="briga" creationdate="20160820T052804Z">
@@ -26393,8 +26401,8 @@
       <tuv lang="EN">
         <seg>First the intersections A2:B4!B2:C6, A2:B4!C1:D3, B1:C2!B2:C6 and B1:C2!C1:D3 are calculated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T133706Z" creationid="osvaldo" creationdate="20170207T133706Z">
-        <seg>Innanzitutto sono calcolate le intersezioni A2:B4!B2:C6, A2:B4!C1:D3, B1:C2!B2:C6 e B1:C2!C1:D3.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180918T102315Z" creationid="osvaldo" creationdate="20170207T133706Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaInnanzitutto sono calcolate le intersezioni A2:B4!B2:C6, A2:B4!C1:D3, B1:C2!B2:C6 e B1:C2!C1:D3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58492,8 +58500,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>This results in a reference to the range B3:B4, because these cells are inside A2:B4 and inside B3:D4.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180918T080410Z" creationid="osvaldo" creationdate="20170207T133553Z">
-        <seg>aaaaaaaaaaaIl risultato è il riferimento all'intervallo B3:B4, poiché queste celle sono all'interno di A2:B4 e B3:D4.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180918T102119Z" creationid="osvaldo" creationdate="20170207T133553Z">
+        <seg>Il risultato è il riferimento all'intervallo B3:B4, poiché queste celle sono all'interno di A2:B4 e B3:D4.</seg>
       </tuv>
     </tu>
     <tu>
