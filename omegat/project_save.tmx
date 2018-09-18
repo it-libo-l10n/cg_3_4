@@ -31097,16 +31097,16 @@
       <tuv lang="EN">
         <seg>If the references are reference lists, then each list item from the left is intersected with each one from the right and these results are concatenated to a reference list.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T133242Z" creationid="osvaldo" creationdate="20170207T133242Z">
-        <seg>Se i riferimenti sono liste di riferimenti, allora ogni elemento dell'elenco sulla sinistra è intersecato con ognuno da destra, questi risultati sono concatenati ad un elenco di riferimento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180918T074953Z" creationid="osvaldo" creationdate="20170207T133242Z">
+        <seg>Se i riferimenti sono elenchi di riferimenti, allora ogni elemento dell'elenco sulla sinistra è intersecato con ciascun elemento dell'elenco sulla destra, e questi risultati sono concatenati a un elenco di riferimenti.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If the references refer to single ranges, the result is a reference to a single range, containing all cells, which are both in the left reference and in the right reference.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180917T103737Z" creationid="osvaldo" creationdate="20170207T132733Z">
-        <seg>aaaaaaaaaaaaaaaaaSe i riferimenti si riferiscono a singoli intervalli, il risultato è un riferimento a un singolo intervallo, contenente tutte le celle, che sono sia nel riferimento di sinistra che in quello di destra.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180918T074319Z" creationid="osvaldo" creationdate="20170207T132733Z">
+        <seg>Se i riferimenti sono relativi a singoli intervalli, il risultato è un riferimento a un singolo intervallo, contenente tutte le celle, che sono sia nel riferimento di sinistra che in quello di destra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54988,8 +54988,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The order is to first intersect the first item from the left with all items from the right, then intersect the second item from the left with all items from the right, and so on.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T133332Z" creationid="osvaldo" creationdate="20170207T133332Z">
-        <seg>L'ordine è di intersecare prima il primo elemento da sinistra con tutti gli elementi dalla destra, poi intersecare la seconda voce da sinistra con tutte le voci da destra, e così via.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180918T074957Z" creationid="osvaldo" creationdate="20170207T133332Z">
+        <seg>aaaaaaaaaaaaaL'ordine è di intersecare prima il primo elemento da sinistra con tutti gli elementi dalla destra, poi intersecare la seconda voce da sinistra con tutte le voci da destra, e così via.</seg>
       </tuv>
     </tu>
     <tu>
