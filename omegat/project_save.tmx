@@ -10185,8 +10185,8 @@
       <tuv lang="EN">
         <seg>A column of figures might show amounts in US Dollars.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T145423Z" creationid="osvaldo" creationdate="20170207T145423Z">
-        <seg>Una colonna di cifre potrebbe mostrare delle somme in dollari US.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180924T073217Z" creationid="osvaldo" creationdate="20170207T145423Z">
+        <seg>Una colonna di cifre potrebbe mostrare delle somme in dollari USA.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33209,8 +33209,8 @@
       <tuv lang="EN">
         <seg>In fact earlier spreadsheets allowed this notation method to be used in formulas.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180921T094847Z" creationid="osvaldo" creationdate="20170207T144652Z">
-        <seg>aaaaaaaaaaaaaaaInfatti, versioni precedenti dei fogli elettronici consentivano l'uso di questo tipo di notazione nelle formule.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180924T065553Z" creationid="osvaldo" creationdate="20170207T144652Z">
+        <seg>Infatti, versioni precedenti dei fogli elettronici consentivano l'uso di questo tipo di notazione nelle formule.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43011,8 +43011,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Relative addressing is the default method of referring to addresses in Calc.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T145046Z" creationid="osvaldo" creationdate="20170207T145046Z">
-        <seg>L'indirizzamento relativo è il metodo di default per referenziare gli indirizzi in Calc.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180924T073131Z" creationid="osvaldo" creationdate="20170207T145046Z">
+        <seg>L'indirizzamento relativo è il metodo predefinito per fare riferimento agli indirizzi in Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64860,8 +64860,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Whenever you copy this formula from cell B5 to another cell the result will always be the sum of the two numbers taken from the two cells one and two rows above the cell containing the formula.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T144916Z" creationid="osvaldo" creationdate="20170207T144916Z">
-        <seg>Quando si copia questa formula dalla cella B5  a un'altra cella il risultato sarà sempre la somma dei due numeri prelevati dalle due celle uno e due righe sopra la cella contenente la formula.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180924T072836Z" creationid="osvaldo" creationdate="20170207T144916Z">
+        <seg>Quando copiate questa formula dalla cella B5 a un'altra cella il risultato sarà sempre la somma dei due numeri prelevati dalle due celle che si trovano nelle due righe immediatamente sopra la cella contenente la formula.</seg>
       </tuv>
     </tu>
     <tu>
