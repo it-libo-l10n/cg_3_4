@@ -15057,8 +15057,8 @@
       <tuv lang="EN">
         <seg>Calc has copied the formula using relative addressing - the formula in E3 is =D3*D2 and not what we want which is =D3*D1.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180927T103919Z" creationid="osvaldo" creationdate="20170207T180304Z">
-        <seg>aaaaaaaaaaaaaCalc ha copiato la formula utilizzando l'indirizzamento relativo - la formula in E3 è =D3*D2 e non quello che si vuole, cioè =D3*D1.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180927T123721Z" creationid="osvaldo" creationdate="20170207T180304Z">
+        <seg>Calc ha copiato la formula utilizzando l'indirizzamento relativo - la formula in E3 è =D3*D2 e non quello che potreste aspettarvi, cioè =D3*D1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33121,8 +33121,8 @@
       <tuv lang="EN">
         <seg>In cell E2 edit the formula to be =D2*$D$1.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170928T171038Z" creationid="osvaldo" creationdate="20170207T180354Z">
-        <seg>Nella cella E2 correggere la formula così: =D2*$D$1.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180927T123845Z" creationid="osvaldo" creationdate="20170207T180354Z">
+        <seg>Nella cella E2 correggete la formula così: =D2*$D$1.</seg>
       </tuv>
     </tu>
     <tu>
