@@ -15057,8 +15057,8 @@
       <tuv lang="EN">
         <seg>Calc has copied the formula using relative addressing - the formula in E3 is =D3*D2 and not what we want which is =D3*D1.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170928T171025Z" creationid="osvaldo" creationdate="20170207T180304Z">
-        <seg>Calc ha copiato la formula utilizzando l'indirizzamento relativo - la formula in E3 è =D3*D2 e non quello che si vuole, cioè =D3*D1.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180927T103919Z" creationid="osvaldo" creationdate="20170207T180304Z">
+        <seg>aaaaaaaaaaaaaCalc ha copiato la formula utilizzando l'indirizzamento relativo - la formula in E3 è =D3*D2 e non quello che si vuole, cioè =D3*D1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19465,16 +19465,16 @@
       <tuv lang="EN">
         <seg>Copy the formula in cell B5 (=B3+B4) to cell C5.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180920T082559Z" creationid="osvaldo" creationdate="20170207T141133Z">
-        <seg>Copiate la formula presente nella cella B5 (=B3+B4) nella cella C5.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180927T103707Z" creationid="osvaldo" creationdate="20170207T141133Z">
+        <seg>Copiate la formula presente nella cella B5 (=B3+B4) e incollate nella cella C5.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Copy the formula in cell E2 to cell E3.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170928T170954Z" creationid="osvaldo" creationdate="20170207T175945Z">
-        <seg>Copiare la formula dalla cella E2 alla cella E3.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180927T103623Z" creationid="osvaldo" creationdate="20170207T175945Z">
+        <seg>Copiate la formula presente nella cella E2 e incollate nella cella E3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22369,8 +22369,8 @@
       <tuv lang="EN">
         <seg>Enter amounts (in USD) into cells D2, D3 and D4, for example 10, 20, and 30.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180927T100652Z" creationid="osvaldo" creationdate="20170207T175833Z">
-        <seg>aaaaaaaaInserire gli importi (in USD) nelle celle D2, D3 e D4,per esempio 10, 20, e 30.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180927T101616Z" creationid="osvaldo" creationdate="20170207T175833Z">
+        <seg>Inserite gli importi (in USD) nelle celle D2, D3 e D4, ad esempio 10, 20, e 30.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33129,8 +33129,8 @@
       <tuv lang="EN">
         <seg>In cell E2 type the formula =D2*D1.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170928T170616Z" creationid="osvaldo" creationdate="20170207T175904Z">
-        <seg>Nella cella E2 scrivere la formula  =D2*D1.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180927T103206Z" creationid="osvaldo" creationdate="20170207T175904Z">
+        <seg>Nella cella E2 digitate la formula =D2*D1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55564,16 +55564,16 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The result is 200, clearly wrong!</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T180150Z" creationid="osvaldo" creationdate="20170207T180150Z">
-        <seg>Il risultato è 200, chiaramente sbagliato!</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180927T103907Z" creationid="osvaldo" creationdate="20170207T180150Z">
+        <seg>Il risultato è 200, chiaramente sbagliato.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The result is 7.5, correctly shown.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170928T170729Z" creationid="osvaldo" creationdate="20170207T180020Z">
-        <seg>Il risulltato è 7,5, mostrato in  modo corretto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180927T103332Z" creationid="osvaldo" creationdate="20170207T180020Z">
+        <seg>Il risultato è 7,5, mostrato in modo corretto.</seg>
       </tuv>
     </tu>
     <tu>
