@@ -41139,16 +41139,16 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Partially absolute, from cell E3 it is the cell in column D and two rows above</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180928T133754Z" creationid="osvaldo" creationdate="20170207T181711Z">
-        <seg>aaaaaaaaaaParzialmente assoluto, dalla  cella  E3 è la cella in colonna  D e due righe sopra</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180928T135502Z" creationid="osvaldo" creationdate="20170207T181711Z">
+        <seg>Parzialmente assoluto, rispetto alla cella E3 si tratta della cella in colonna D e due righe al di sopra</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Partially absolute, from cell E3 it is the cell one column to the left and in row 1</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170208T143822Z" creationid="osvaldo" creationdate="20170208T143822Z">
-        <seg>Parzialmente assoluto, dalla cella E3 è la cella una colonna a destra e in riga 1</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180928T135758Z" creationid="osvaldo" creationdate="20170208T143822Z">
+        <seg>Parzialmente assoluto, rispetto alla cella E3 si tratta della cella una colonna a sinistra e in riga 1</seg>
       </tuv>
     </tu>
     <tu>
@@ -43075,8 +43075,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Relative, from cell E3 it is the cell one column to the left and two rows above</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180928T133331Z" creationid="osvaldo" creationdate="20170207T181553Z">
-        <seg>Relativo, si tratta della cella che si trova una colonna a sinistra e due righe al di sopra della cella E3</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180928T134913Z" creationid="osvaldo" creationdate="20170207T181553Z">
+        <seg>Relativo, rispetto alla cella E3 si tratta della cella che si trova una colonna a sinistra e due righe al di sopra</seg>
       </tuv>
     </tu>
     <tu>
@@ -59100,8 +59100,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>To change references in formulas highlight the cell and press Shift-F4 to cycle through the four different types of references.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170805T145939Z" creationid="osvaldo" creationdate="20170804T204224Z">
-        <seg>Per cambiare i riferimenti nelle formule evidenziare la cella e premere Maiusc+F4 per visualizzare ciclicamente i quattro diversi tipi di riferimenti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180928T135807Z" creationid="osvaldo" creationdate="20170804T204224Z">
+        <seg>aaaaaaaaaaaaaaaPer cambiare i riferimenti nelle formule evidenziare la cella e premere Maiusc+F4 per visualizzare ciclicamente i quattro diversi tipi di riferimenti.</seg>
       </tuv>
     </tu>
     <tu>
