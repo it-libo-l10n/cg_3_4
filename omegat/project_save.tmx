@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>$D$1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180928T131245Z" creationid="luke" creationdate="20180928T131245Z">
+        <seg>$D$1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>$US10.00 would be multiplied by 0.75 to convert to Euros, in this case Eur7.50.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180924T082401Z" creationid="osvaldo" creationdate="20170207T145652Z">
@@ -16153,8 +16161,8 @@
       <tuv lang="EN">
         <seg>Cell references can be shown in four ways.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180928T104735Z" creationid="osvaldo" creationdate="20170207T181435Z">
-        <seg>aaaaaaI riferimenti di cella possono essere mostrati in quattro modi.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180928T131216Z" creationid="osvaldo" creationdate="20170207T181435Z">
+        <seg>I riferimenti di cella possono essere visualizzati in quattro modi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20211,6 +20219,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T151602Z" creationid="steevie" creationdate="20160503T151602Z">
         <seg>D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>D1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180928T131237Z" creationid="luke" creationdate="20180928T131237Z">
+        <seg>D1</seg>
       </tuv>
     </tu>
     <tu>
@@ -43043,8 +43059,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Relative, from cell E3 it is the cell one column to the left and two rows above</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T181553Z" creationid="osvaldo" creationdate="20170207T181553Z">
-        <seg>Relativo, dalla cella E3 è la cella che è una colonna a sinistra e due righe sopra</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180928T131245Z" creationid="osvaldo" creationdate="20170207T181553Z">
+        <seg>aaaaaaaaaRelativo, dalla cella E3 è la cella che è una colonna a sinistra e due righe sopra</seg>
       </tuv>
     </tu>
     <tu>
