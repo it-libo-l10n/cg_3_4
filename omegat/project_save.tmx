@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>$D1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180928T133751Z" creationid="luke" creationdate="20180928T133751Z">
+        <seg>$D1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>$US10.00 would be multiplied by 0.75 to convert to Euros, in this case Eur7.50.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180924T082401Z" creationid="osvaldo" creationdate="20170207T145652Z">
@@ -11297,8 +11305,8 @@
       <tuv lang="EN">
         <seg>Absolute, from cell E3 it is the cell D1</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170207T181620Z" creationid="osvaldo" creationdate="20170207T181620Z">
-        <seg>Assoluto, dalla cella E3 è la cella D1</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180928T133722Z" creationid="osvaldo" creationdate="20170207T181620Z">
+        <seg>Assoluto, rispetto alla cella E3 è la cella D1</seg>
       </tuv>
     </tu>
     <tu>
@@ -20219,6 +20227,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T151602Z" creationid="steevie" creationdate="20160503T151602Z">
         <seg>D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>D$1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180928T133755Z" creationid="luke" creationdate="20180928T133755Z">
+        <seg>D$1</seg>
       </tuv>
     </tu>
     <tu>
@@ -41123,8 +41139,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Partially absolute, from cell E3 it is the cell in column D and two rows above</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170928T172416Z" creationid="osvaldo" creationdate="20170207T181711Z">
-        <seg>Parzialmente assoluto, dalla  cella  E3 è la cella in colonna  D e due righe sopra</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180928T133754Z" creationid="osvaldo" creationdate="20170207T181711Z">
+        <seg>aaaaaaaaaaParzialmente assoluto, dalla  cella  E3 è la cella in colonna  D e due righe sopra</seg>
       </tuv>
     </tu>
     <tu>
@@ -43059,8 +43075,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Relative, from cell E3 it is the cell one column to the left and two rows above</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20180928T131245Z" creationid="osvaldo" creationdate="20170207T181553Z">
-        <seg>aaaaaaaaaRelativo, dalla cella E3 è la cella che è una colonna a sinistra e due righe sopra</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20180928T133331Z" creationid="osvaldo" creationdate="20170207T181553Z">
+        <seg>Relativo, si tratta della cella che si trova una colonna a sinistra e due righe al di sopra della cella E3</seg>
       </tuv>
     </tu>
     <tu>
