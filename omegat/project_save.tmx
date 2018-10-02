@@ -656,8 +656,24 @@
       <tuv lang="EN">
         <seg>1+3 = 4, then 4 X 2 = 8, then 8+3 = 11</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170805T150416Z" creationid="osvaldo" creationdate="20170805T150416Z">
-        <seg>1+3 = 4, poi  4 X 2 = 8, poi 8+3 = 11</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181002T154921Z" creationid="osvaldo" creationdate="20170805T150416Z">
+        <seg>1+3 = 4, poi 4 X 2 = 8, poi 8+3 = 11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1+3*2+3 = 11</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181002T154638Z" creationid="luke" creationdate="20181002T154638Z">
+        <seg>1+3*2+3 = 11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1+3*2+3 = 20</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181002T160151Z" creationid="luke" creationdate="20181002T160151Z">
+        <seg>1+3*2+3 = 20</seg>
       </tuv>
     </tu>
     <tu>
@@ -12809,8 +12825,8 @@
       <tuv lang="EN">
         <seg>Another possible intention could be:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170928T172818Z" creationid="osvaldo" creationdate="20170805T150656Z">
-        <seg>Un'altra possibile intenzione potrebbe essere:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181002T160140Z" creationid="osvaldo" creationdate="20170805T150656Z">
+        <seg>Un altro possibile modo di intendere potrebbe essere:</seg>
       </tuv>
     </tu>
     <tu>
@@ -36170,8 +36186,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>Left To Right Calculation</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181002T152459Z" creationid="osvaldo" creationdate="20170805T145852Z">
-        <seg>aaaaaaaaaCalcolo da sinistra a destra</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181002T154559Z" creationid="osvaldo" creationdate="20170805T145852Z">
+        <seg>Calcolo da sinistra a destra</seg>
       </tuv>
     </tu>
     <tu>
@@ -40579,8 +40595,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Ordered Calculation</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170805T150348Z" creationid="osvaldo" creationdate="20170805T150348Z">
-        <seg>Calcolo Ordinato</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181002T154634Z" creationid="osvaldo" creationdate="20170805T150348Z">
+        <seg>Calcolo ordinato</seg>
       </tuv>
     </tu>
     <tu>
@@ -55404,8 +55420,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The program resolves the multiplication of 3 X 2 before dealing with the numbers being added.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170805T151111Z" creationid="osvaldo" creationdate="20170805T151111Z">
-        <seg>Il programma risolve la moltiplicazione di 3 X 2 prima di affrontare i numeri che devono essere sommati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181002T160308Z" creationid="osvaldo" creationdate="20170805T151111Z">
+        <seg>aaaaaaaaaaaaaaIl programma risolve la moltiplicazione di 3 X 2 prima di affrontare i numeri che devono essere sommati.</seg>
       </tuv>
     </tu>
     <tu>
