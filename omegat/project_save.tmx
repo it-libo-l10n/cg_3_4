@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(1+3) * (2+3) = 20</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181003T140554Z" creationid="luke" creationdate="20181003T140554Z">
+        <seg>(1+3) * (2+3) = 20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(&lt;f0&gt;Ctrl+click&lt;/f0&gt; on a sheet tab to select or deselect the sheet.)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160629T085839Z" creationid="Elisabetta" creationdate="20160629T085839Z">
@@ -32145,8 +32153,8 @@
       <tuv lang="EN">
         <seg>If you intend for the result to be either of the two possible solutions on the left, the way to achieve these results would be to order the formula as:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181003T133134Z" creationid="osvaldo" creationdate="20170805T151314Z">
-        <seg>aaaaaaaaaaaaSe si intende che il risultato sia una delle due possibili soluzioni a sinistra, il modo per ottenere questi risultati è quello di ordinare la formula come:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181003T140537Z" creationid="osvaldo" creationdate="20170805T151314Z">
+        <seg>Se si intende che il risultato sia una delle due possibili soluzioni a sinistra, il modo per ottenere questi risultati è quello di ordinare la formula come:</seg>
       </tuv>
     </tu>
     <tu>
@@ -62388,8 +62396,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Use parentheses to group operations in the order you intend; for example, &lt;s0/&gt;&lt;f1&gt;=B4+G12*C4/M12&lt;/f1&gt; &lt;s2/&gt;might become &lt;f3&gt;=((B4+G12)*C4)/M12&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170928T173103Z" creationid="osvaldo" creationdate="20170805T151547Z">
-        <seg>Utilizzare le parentesi per raggruppare le operazioni nell'ordine voluto; per esempio, &lt;s0/&gt;&lt;f1&gt;=B4+G12*C4/M12&lt;/f1&gt; &lt;s2/&gt;potrebbe diventare &lt;f3&gt;=((B4+G12)*C4)/M12&lt;/f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181003T140607Z" creationid="osvaldo" creationdate="20170805T151547Z">
+        <seg>aaaaaaaaaaaUtilizzare le parentesi per raggruppare le operazioni nell'ordine voluto; per esempio, &lt;s0/&gt;&lt;f1&gt;=B4+G12*C4/M12&lt;/f1&gt; &lt;s2/&gt;potrebbe diventare &lt;f3&gt;=((B4+G12)*C4)/M12&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
