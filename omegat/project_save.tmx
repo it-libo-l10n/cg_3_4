@@ -9320,9 +9320,8 @@
       <tuv lang="EN">
         <seg>&lt;s0/&gt;There are several worksheets in each book and they are numbered from the left: Sheet1, Sheet2, and so forth.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170805T153225Z" creationid="osvaldo" creationdate="20170805T153225Z">
-        <seg>&lt;s0/&gt;Ci sono diversi fogli di lavoro in ogni libro e sono numerati da sinistra: Foglio1, Foglio2 e così via.
-.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181005T071107Z" creationid="osvaldo" creationdate="20170805T153225Z">
+        <seg>&lt;s0/&gt;All'interno del foglio elettronico sono presenti diversi fogli di lavoro e sono numerati da sinistra: Foglio1, Foglio2 e così via.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31945,8 +31944,8 @@
       <tuv lang="EN">
         <seg>If you drag the worksheets around to different locations among the tabs, the function returns the number referring to the current position of this worksheet.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170805T153445Z" creationid="osvaldo" creationdate="20170805T153445Z">
-        <seg>Se si trascinano i fogli di lavoro in diverse posizioni tra le schede, la funzione restituisce il numero che si riferisce alla posizione corrente di questo foglio di lavoro.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181005T071110Z" creationid="osvaldo" creationdate="20170805T153445Z">
+        <seg>aaaaaaaaaSe si trascinano i fogli di lavoro in diverse posizioni tra le schede, la funzione restituisce il numero che si riferisce alla posizione corrente di questo foglio di lavoro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54188,8 +54187,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The function named SHEET() returns the sheet number (position) in the collection of spreadsheets.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181003T160056Z" creationid="osvaldo" creationdate="20170805T153057Z">
-        <seg>aaaaaaaaaaaaaaLa funzione chiamata FOGLIO()  restituisce il numero di foglio (posizione) nella raccolta di fogli di calcolo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181005T070647Z" creationid="osvaldo" creationdate="20170805T153057Z">
+        <seg>La funzione chiamata FOGLIO() restituisce il numero di foglio (posizione) nella raccolta dei fogli presenti nel foglio elettronico.</seg>
       </tuv>
     </tu>
     <tu>
