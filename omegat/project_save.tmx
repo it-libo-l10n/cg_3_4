@@ -550,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>*</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181011T072110Z" creationid="luke" creationdate="20181011T072110Z">
+        <seg>*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* (asterisk)</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170206T151916Z" creationid="osvaldo" creationdate="20170206T151916Z">
@@ -562,6 +570,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170518T162914Z" creationid="antonio" creationdate="20160527T101024Z">
         <seg>* [ ] : '</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>+</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181011T071052Z" creationid="luke" creationdate="20181011T071052Z">
+        <seg>+</seg>
       </tuv>
     </tu>
     <tu>
@@ -14608,8 +14624,8 @@
       <tuv lang="EN">
         <seg>By tradition, functions are entered entirely in upper case letters, although Calc will read them correctly if they are in lower or mixed case, too.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170916T175858Z" creationid="osvaldo" creationdate="20170916T175858Z">
-        <seg>Tradizionalmente, le funzioni vengono immesse interamente in lettere maiuscole, anche se Calc li leggerà correttamente se sono anche in caratteri maiuscoli o misto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181011T070715Z" creationid="osvaldo" creationdate="20170916T175858Z">
+        <seg>Tradizionalmente, le funzioni vengono immesse interamente in lettere maiuscole, sebbene Calc possa leggerle correttamente anche se sono in caratteri minuscoli o misti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21968,8 +21984,8 @@
       <tuv lang="EN">
         <seg>Each function has a number of &lt;is0/&gt;&lt;f1&gt;arguments&lt;/f1&gt;&lt;ie2/&gt;&lt;i3/&gt; used in the calculations.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170916T204350Z" creationid="osvaldo" creationdate="20170916T204350Z">
-        <seg>Ogni funzione ha un certo numero di &lt;is0/&gt;&lt;f1&gt;argomenti&lt;/f1&gt;&lt;ie2/&gt;&lt;i3/&gt; usati nei calcoli.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181011T073342Z" creationid="osvaldo" creationdate="20170916T204350Z">
+        <seg>aaaaaaaaaaaaaaaOgni funzione ha un certo numero di &lt;is0/&gt;&lt;f1&gt;argomenti&lt;/f1&gt;&lt;ie2/&gt;&lt;i3/&gt; usati nei calcoli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27616,8 +27632,8 @@
       <tuv lang="EN">
         <seg>For instance, the FV function gives the future value of an investment, while BIN2HEX converts a binary number to a hexadecimal number.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181010T074543Z" creationid="osvaldo" creationdate="20170916T175642Z">
-        <seg>aaaaaaaaaaaaaLa funzione VAL:FUT fornisce il valore futuro di un investimento, mentre BINARIO.HEX converte un numero binario in un numero esadecimale. </seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181011T070211Z" creationid="osvaldo" creationdate="20170916T175642Z">
+        <seg>Ad esempio, la funzione VAL.FUT fornisce il valore futuro di un investimento, mentre BINARIO.HEX converte un numero binario in un numero esadecimale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40986,8 +41002,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>PRODUCT() does the same for multiplying that SUM() does for adding.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170928T174333Z" creationid="osvaldo" creationdate="20170916T204254Z">
-        <seg>PRODOTTO() effettua la stessa funzione per la moltiplicazione di quello che SOMMA() fa per l'addizione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181011T073323Z" creationid="osvaldo" creationdate="20170916T204254Z">
+        <seg>PRODOTTO() esegue per la moltiplicazione lo stesso che SOMMA() esegue per l'addizione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46170,8 +46186,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>SUM() on the other hand adds groups of contiguous ranges of numbers together.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170916T204015Z" creationid="osvaldo" creationdate="20170916T180706Z">
-        <seg>SOMMA() d'altro canto somma insieme gruppi di serie contigue di numeri.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181011T072108Z" creationid="osvaldo" creationdate="20170916T180706Z">
+        <seg>SOMMA() d'altro canto somma gruppi di intervalli contigui di numeri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58443,8 +58459,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>This operator adds two numbers together for a result.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170916T204158Z" creationid="osvaldo" creationdate="20170916T180258Z">
-        <seg>Questo operatore aggiunge due numeri tra loro per dare un risultato.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181011T071510Z" creationid="osvaldo" creationdate="20170916T180258Z">
+        <seg>Questo operatore somma due numeri tra loro per dare un risultato.</seg>
       </tuv>
     </tu>
     <tu>
