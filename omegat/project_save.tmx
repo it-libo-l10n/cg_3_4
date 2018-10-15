@@ -11896,8 +11896,8 @@
       <tuv lang="EN">
         <seg>After the name of the function comes its arguments.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170917T173026Z" creationid="osvaldo" creationdate="20170917T173026Z">
-        <seg>Dopo il nome della funzione ci sono i suoi argomenti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181015T101725Z" creationid="osvaldo" creationdate="20170917T173026Z">
+        <seg>Al nome della funzione seguono i suoi argomenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12016,8 +12016,8 @@
       <tuv lang="EN">
         <seg>All arguments are required, unless specifically listed as optional.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170917T173129Z" creationid="osvaldo" creationdate="20170917T173129Z">
-        <seg>Tutti gli argomenti sono necessari, a meno che non sia specificatamente elencato come facoltativo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181015T101730Z" creationid="osvaldo" creationdate="20170917T173129Z">
+        <seg>aaaaTutti gli argomenti sono necessari, a meno che non sia specificatamente elencato come facoltativo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19088,8 +19088,8 @@
       <tuv lang="EN">
         <seg>Consequently, even if the function represents the entire formula, there must be an = sign at the start of the formula.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170917T172659Z" creationid="osvaldo" creationdate="20170917T172659Z">
-        <seg>Di conseguenza, anche se la funzione rappresenta completamente la formula, ci deve essere un segno = all'inizio della formula.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181015T101327Z" creationid="osvaldo" creationdate="20170917T172659Z">
+        <seg>Di conseguenza, anche se la funzione rappresenta l'intera formula, deve essere presente un segno = all'inizio della formula.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43026,8 +43026,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Regardless of where in the formula a function is, the function will start with its name, such as DCOUNT in the example above.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170917T172956Z" creationid="steevie" creationdate="20161130T172731Z">
-        <seg>A prescindere dalla posizione della funzione nella formula, la funzione inizia con il suo nome, come.DB.CONTA.NUMERI() nell'esempio visto in precedenza.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181015T101410Z" creationid="steevie" creationdate="20161130T172731Z">
+        <seg>A prescindere dalla posizione della funzione nella formula, la funzione inizia con il suo nome, come DB.CONTA.NUMERI() nell'esempio visto in precedenza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49282,8 +49282,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Since a function cannot exist on its own, it must always be part of a formula.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181015T100734Z" creationid="osvaldo" creationdate="20170917T172546Z">
-        <seg>aaaaaaaaaaPoiché una funzione non può esistere a sé stante,deve sempre essere parte di una formula.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181015T101024Z" creationid="osvaldo" creationdate="20170917T172546Z">
+        <seg>Poiché una funzione non può esistere da sola, deve sempre far parte di una formula.</seg>
       </tuv>
     </tu>
     <tu>
