@@ -9632,8 +9632,8 @@
       <tuv lang="EN">
         <seg>= DCOUNT (Database,Database field,Search_criteria)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181015T094022Z" creationid="steevie" creationdate="20161130T172730Z">
-        <seg>aaaaaaaaa= DB.CONTA.NUMERI (Database,campo Database,criteri)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181015T100725Z" creationid="steevie" creationdate="20161130T172730Z">
+        <seg>= DB.CONTA.NUMERI (Database;Campo database;Criteri)</seg>
       </tuv>
     </tu>
     <tu>
@@ -49282,8 +49282,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Since a function cannot exist on its own, it must always be part of a formula.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170917T172546Z" creationid="osvaldo" creationdate="20170917T172546Z">
-        <seg>Poiché una funzione non può esistere a sé stante,deve sempre essere parte di una formula.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181015T100734Z" creationid="osvaldo" creationdate="20170917T172546Z">
+        <seg>aaaaaaaaaaPoiché una funzione non può esistere a sé stante,deve sempre essere parte di una formula.</seg>
       </tuv>
     </tu>
     <tu>
