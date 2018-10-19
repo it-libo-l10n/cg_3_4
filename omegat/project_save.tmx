@@ -9848,8 +9848,8 @@
       <tuv lang="EN">
         <seg>=IF(AVERAGE(A1:A3) &gt;85, "Congratulations!</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181019T080215Z" creationid="osvaldo" creationdate="20170921T104313Z">
-        <seg>aaaa=SE(MEDIA(A1:A3) &gt;85, "Congratulazioni!</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181019T081449Z" creationid="osvaldo" creationdate="20170921T104313Z">
+        <seg>=SE(MEDIA(A1:A3)&gt;85;"Congratulazioni!</seg>
       </tuv>
     </tu>
     <tu>
@@ -20944,8 +20944,8 @@
       <tuv lang="EN">
         <seg>Depending on the average, the student would receive the message for either congratulations or failure.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170921T114740Z" creationid="osvaldo" creationdate="20170921T114705Z">
-        <seg>A seconda della media, lo studente avrebbe ricevuto il messaggio per congratulazioni o fallimento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181019T081731Z" creationid="osvaldo" creationdate="20170921T114705Z">
+        <seg>aaaaaaaaaaaaaaaaaaA seconda della media, lo studente avrebbe ricevuto il messaggio per congratulazioni o fallimento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30648,8 +30648,8 @@
       <tuv lang="EN">
         <seg>If necessary, contact your instructor for help")</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170921T114609Z" creationid="osvaldo" creationdate="20170921T114609Z">
-        <seg>Se necessario, contattare l'istruttore per ottenere assistenza")</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181019T081724Z" creationid="osvaldo" creationdate="20170921T114609Z">
+        <seg>Se necessario, contatta l'istruttore per ottenere assistenza")</seg>
       </tuv>
     </tu>
     <tu>
@@ -41474,8 +41474,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Please review the material again.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170921T114451Z" creationid="osvaldo" creationdate="20170921T114451Z">
-        <seg>Rivedere nuovamente il materiale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181019T081658Z" creationid="osvaldo" creationdate="20170921T114451Z">
+        <seg>Rivedi nuovamente il materiale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65595,8 +65595,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>You are ready to advance to the next module", "Failed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170921T114414Z" creationid="osvaldo" creationdate="20170921T114414Z">
-        <seg>Sei pronto per avanzare al modulo successivo", "Respinto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181019T081456Z" creationid="osvaldo" creationdate="20170921T114414Z">
+        <seg>Sei pronto per avanzare al modulo successivo";"Respinto.</seg>
       </tuv>
     </tu>
     <tu>
