@@ -9848,8 +9848,8 @@
       <tuv lang="EN">
         <seg>=IF(AVERAGE(A1:A3) &gt;85, "Congratulations!</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170921T104356Z" creationid="osvaldo" creationdate="20170921T104313Z">
-        <seg>=SE(MEDIA(A1:A3) &gt;85, "Congratulazioni!</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181019T080215Z" creationid="osvaldo" creationdate="20170921T104313Z">
+        <seg>aaaa=SE(MEDIA(A1:A3) &gt;85, "Congratulazioni!</seg>
       </tuv>
     </tu>
     <tu>
@@ -53627,8 +53627,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The entire formula would read:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170921T104257Z" creationid="osvaldo" creationdate="20170921T104257Z">
-        <seg>L'intera formula verrebbe formulata come:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181019T080213Z" creationid="osvaldo" creationdate="20170921T104257Z">
+        <seg>L'intera formula sarebbe:</seg>
       </tuv>
     </tu>
     <tu>
@@ -54171,8 +54171,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The formula then uses the &lt;f0&gt;IF&lt;/f0&gt; function to give the student feedback that depends upon the average grade on the quizzes.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181019T073445Z" creationid="osvaldo" creationdate="20170921T103418Z">
-        <seg>aaaaaaaaLa formula utilizza quindi la funzione &lt;f0&gt;SE&lt;/f0&gt; per fornire allo studente un riscontro che dipende dalla difficoltà media dei test.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181019T080046Z" creationid="osvaldo" creationdate="20170921T103418Z">
+        <seg>La formula utilizza quindi la funzione &lt;f0&gt;SE&lt;/f0&gt; per fornire allo studente un riscontro che dipende dal voto medio ottenuto nei quiz.</seg>
       </tuv>
     </tu>
     <tu>
