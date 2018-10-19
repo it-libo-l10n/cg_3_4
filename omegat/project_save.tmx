@@ -9928,8 +9928,8 @@
       <tuv lang="EN">
         <seg>=SUM(2,PRODUCT(5,7))</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170921T101821Z" creationid="osvaldo" creationdate="20170921T101821Z">
-        <seg>=SOMMA(2,PRODOTTO(5,7))</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181019T070834Z" creationid="osvaldo" creationdate="20170921T101821Z">
+        <seg>=SOMMA(2;PRODOTTO(5;7))</seg>
       </tuv>
     </tu>
     <tu>
@@ -28600,8 +28600,8 @@
       <tuv lang="EN">
         <seg>Functions can also be used as arguments within other functions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181016T074731Z" creationid="osvaldo" creationdate="20170917T174732Z">
-        <seg>aaaaaaaaaaaaLe funzioni possono essere usate come argomenti all'interno di altre funzioni.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181019T065505Z" creationid="osvaldo" creationdate="20170917T174732Z">
+        <seg>Le funzioni possono anche essere usate come argomenti all'interno di altre funzioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32864,8 +32864,8 @@
       <tuv lang="EN">
         <seg>In A4, you can create a nested formula that begins by averaging the results of the quizzes with the formula &lt;f0&gt;=AVERAGE(A1:A3)&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170921T102808Z" creationid="osvaldo" creationdate="20170921T102808Z">
-        <seg>In A4, è possibile creare una formula annidata che inizia con il calcolo della media dei risultati dei quiz con la formula &lt;f0&gt;=MEDIA(A1:A3)&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181019T071556Z" creationid="osvaldo" creationdate="20170921T102808Z">
+        <seg>aaaaaaaaIn A4, è possibile creare una formula annidata che inizia con il calcolo della media dei risultati dei quiz con la formula &lt;f0&gt;=MEDIA(A1:A3)&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57035,8 +57035,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>These are called nested functions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170917T174759Z" creationid="osvaldo" creationdate="20170917T174759Z">
-        <seg>Queste sono chiamate funzioni nidificate.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181019T065928Z" creationid="osvaldo" creationdate="20170917T174759Z">
+        <seg>Queste sono chiamate funzioni annidate (o nidificate).</seg>
       </tuv>
     </tu>
     <tu>
@@ -59987,8 +59987,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>To get an idea of what nested functions can do, imagine that you are designing a self-directed learning module.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170921T102204Z" creationid="osvaldo" creationdate="20170921T102204Z">
-        <seg>Per avere un'idea di quallo che le funzioni nidificate possono fare, immaginate di progettare un modulo di apprendimento autogestito.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181019T071348Z" creationid="osvaldo" creationdate="20170921T102204Z">
+        <seg>Per avere un'idea di quello che possono fare le funzioni annidate, immaginate di progettare un modulo di apprendimento autodiretto.</seg>
       </tuv>
     </tu>
     <tu>
