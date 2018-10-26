@@ -8384,8 +8384,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;You&lt;/f0&gt; might be aware that you cannot use negative values or zero values for a particular argument, but if someone else inputs such a value will your formula be robust or simply return a standard (and often not too helpful) Err: message?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181025T152310Z" creationid="osvaldo" creationdate="20170924T161016Z">
-        <seg>aaaaaaaaaaaaa&lt;f0&gt;Tu&lt;/f0&gt; potresti essere consapevole che non è possibile utilizzare valori negativi o valori zero per un argomento specifico, ma se qualcun altro inserisce un tale valore, la tua formula sarà robusta o semplicemente restituirà un messaggio standard (e spesso non troppo utile) Err: ?</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181026T085023Z" creationid="osvaldo" creationdate="20170924T161016Z">
+        <seg>&lt;f0&gt;Voi&lt;/f0&gt; potreste essere consapevoli del fatto che non è possibile utilizzare valori negativi o valori zero per un argomento specifico; ma se qualcun altro inserisse un tale valore, la vostra formula si dimostrerebbe robusta? Oppure restituirebbe semplicemente un messaggio standard (e spesso non troppo utile) di Err: ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -35377,8 +35377,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>It is a good idea to trap errors using some form of logic statements or with conditional formatting.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170924T161218Z" creationid="osvaldo" creationdate="20170924T161218Z">
-        <seg>È consigliabile intercettare gli errori utilizzando una qualche forma di istruzione logica o usando la formattazione condizionale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181026T085335Z" creationid="osvaldo" creationdate="20170924T161218Z">
+        <seg>È consigliabile intercettare gli errori utilizzando una qualche forma di istruzione logica o tramite la formattazione condizionale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41370,8 +41370,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Place a unique formula in each cell</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170924T161306Z" creationid="osvaldo" creationdate="20170924T161254Z">
-        <seg>Inserire una unica formula in ogni cella</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181026T085752Z" creationid="osvaldo" creationdate="20170924T161254Z">
+        <seg>Inserimento di un'unica formula in ogni cella</seg>
       </tuv>
     </tu>
     <tu>
@@ -54739,8 +54739,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The most basic strategy is to view whatever formulas are needed as simple and with a limited useful life.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170924T162512Z" creationid="osvaldo" creationdate="20170924T162512Z">
-        <seg>La strategia essenziale consiste nel vedere qualsiasi formula come semplice e con una vita utile limitata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181026T090117Z" creationid="osvaldo" creationdate="20170924T162512Z">
+        <seg>La strategia di base consiste nel visualizzare le formule necessarie come semplici e con una vita utile limitata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56363,8 +56363,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The strategy is then to place a unique formula in each appropriate cell.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170924T162704Z" creationid="osvaldo" creationdate="20170924T162704Z">
-        <seg>La strategia è quindi di inserire una formula univoca in ogni cella appropriata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181026T090331Z" creationid="osvaldo" creationdate="20170924T162704Z">
+        <seg>La strategia è quindi quella di inserire un'unica formula in ogni cella appropriata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57547,8 +57547,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>This can be recommended only for very simple or “throw away” (single use) spreadsheets.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170924T162759Z" creationid="osvaldo" creationdate="20170924T162759Z">
-        <seg>Questo può essere raccomandato solo per fogli di calcolo molto semplici o "da buttare via" (singolo utilizzo).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181026T090333Z" creationid="osvaldo" creationdate="20170924T162759Z">
+        <seg>aaaaaaaQuesto può essere raccomandato solo per fogli di calcolo molto semplici o "da buttare via" (singolo utilizzo).</seg>
       </tuv>
     </tu>
     <tu>
