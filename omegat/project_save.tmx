@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>#DIV0!</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181103T191917Z" creationid="luke" creationdate="20181103T191917Z">
+        <seg>#DIV0!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>#NAME?</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="osvaldo" changedate="20170925T174334Z" creationid="Elisabetta" creationdate="20160815T195205Z">
@@ -10232,8 +10240,8 @@
       <tuv lang="EN">
         <seg>A calculation results in an overflow of the defined value range.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta" changedate="20160815T203033Z" creationid="Elisabetta" creationdate="20160815T203033Z">
-        <seg>Un calcolo ha prodotto un risultato eccedente l’intervallo di valori definito.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181103T192042Z" creationid="Elisabetta" creationdate="20160815T203033Z">
+        <seg>aaaaaaaaaaaUn calcolo ha prodotto un risultato eccedente l’intervallo di valori definito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13568,8 +13576,8 @@
       <tuv lang="EN">
         <seg>At other times, a cell or range used may have the wrong format, such as text instead of numbers.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170925T174513Z" creationid="osvaldo" creationdate="20170924T180956Z">
-        <seg>Altre volte, una cella o un intervallo utilizzato può avere il formato errato, ad esempio testo invece che numeri.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181103T191914Z" creationid="osvaldo" creationdate="20170924T180956Z">
+        <seg>In altri casi, una cella o un intervallo di celle potrebbe avere il formato errato, come ad esempio un formato di testo invece che numerico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35065,8 +35073,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>Instead of displaying Err:532.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170924T180306Z" creationid="osvaldo" creationdate="20170924T180306Z">
-        <seg>invece di visualizzare Err:532.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181103T192016Z" creationid="osvaldo" creationdate="20170924T180306Z">
+        <seg>Invece di visualizzare Err:532.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56691,8 +56699,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The value for one of the arguments is not the type that the argument requires.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181031T134358Z" creationid="osvaldo" creationdate="20170924T180645Z">
-        <seg>aaaaaaaaaaaaaaIl valore di uno degli argomenti non è del tipo che l'argomento richiede.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181103T191254Z" creationid="osvaldo" creationdate="20170924T180645Z">
+        <seg>Il valore di uno degli argomenti non è del tipo richiesto dall'argomento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56707,8 +56715,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The value may be entered incorrectly; for example, double-quotation marks may be missing around the value.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170925T174432Z" creationid="osvaldo" creationdate="20170924T180904Z">
-        <seg>Il valore può essere stato immesso in modo non corretto; per esempio,  potrebbero mancare intorno al valore le doppie virgolette.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181103T191439Z" creationid="osvaldo" creationdate="20170924T180904Z">
+        <seg>Il valore potrebbe essere stato inserito in modo non corretto; ad esempio, intorno al valore potrebbero mancare le doppie virgolette.</seg>
       </tuv>
     </tu>
     <tu>
