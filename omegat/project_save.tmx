@@ -54115,8 +54115,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The formula &lt;f0&gt;=IF(C3&gt;0, B3/C3, "No Report")&lt;/f0&gt; can be entered.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170925T175548Z" creationid="osvaldo" creationdate="20170925T175548Z">
-        <seg>Può essere inserita la formula &lt;f0&gt;=SE(C3&gt;0, B3/C3, "Nessun rapporto")&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181104T171956Z" creationid="osvaldo" creationdate="20170925T175548Z">
+        <seg>Si può quindi inserire la formula &lt;f0&gt;=SE(C3&gt;0, B3/C3, "Nessun rapporto")&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54163,8 +54163,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The formula is then copied over the remainder of Column D. The meaning of this formula roughly would be: &lt;s1/&gt;“If C3 is greater than 0, then compute B3 divided by C3, otherwise enter ‘No Report’”.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170925T181031Z" creationid="osvaldo" creationdate="20170925T175850Z">
-        <seg>La formula viene quindi copiata nel resto della colonna D. Il significato di questa formula sarebbe: &lt;s1/&gt; "Se C3 è maggiore di 0, calcolare B3 diviso per C3, altrimenti inserire 'Nessun rapporto'".</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181104T172310Z" creationid="osvaldo" creationdate="20170925T175850Z">
+        <seg>La formula viene poi copiata nel resto della colonna D. Il significato di questa formula sarebbe: &lt;s1/&gt;"Se C3 è maggiore di 0, calcolare B3 diviso per C3, altrimenti inserire 'Nessun rapporto'".</seg>
       </tuv>
     </tu>
     <tu>
