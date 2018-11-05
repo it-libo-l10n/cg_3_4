@@ -35297,8 +35297,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>It can also be used for tracing errors, marking invalid data (that is, information in cells that is not in the proper format for a function’s argument), or even for removing precedents and dependents.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170925T201534Z" creationid="osvaldo" creationdate="20170925T201534Z">
-        <seg>Può anche essere utilizzato per tracciare gli errori, contrassegnando i dati non validi (cioè le informazioni nelle celle non presenti nel formato appropriato per l'argomento di una funzione) o anche per rimuovere precedenti e dipendenti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181105T114049Z" creationid="osvaldo" creationdate="20170925T201534Z">
+        <seg>Può anche essere utilizzato per tracciare gli errori, contrassegnando i dati non validi (cioè le informazioni nelle celle che sono formattate in modo inappropriato per l'argomento di una funzione), o perfino per rimuovere precedenti e dipendenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39730,8 +39730,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>On the spreadsheet, you will see lines ending in circles to indicate precedents, and lines ending in arrows for dependents.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170925T201713Z" creationid="osvaldo" creationdate="20170925T201713Z">
-        <seg>Sul foglio di calcolo verranno visualizzate linee che terminano in cerchi per indicare precedenti e linee che terminano in frecce per dipendenti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181105T114223Z" creationid="osvaldo" creationdate="20170925T201713Z">
+        <seg>aaaaSul foglio di calcolo verranno visualizzate linee che terminano in cerchi per indicare precedenti e linee che terminano in frecce per dipendenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51859,8 +51859,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The Detective is a tool for checking which cells are used as arguments by a formula (precedents) and which other formulas it is nested in (dependents).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181105T105239Z" creationid="osvaldo" creationdate="20170925T201331Z">
-        <seg>aaaaIl Detective è uno strumento per verificare quali celle vengono utilizzate come argomenti da una formula (precedenti) e quale formula è nidificata (dipendenti).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181105T111550Z" creationid="osvaldo" creationdate="20170925T201331Z">
+        <seg>Il Detective è uno strumento per verificare quali celle vengono utilizzate come argomenti da una formula (precedenti) e in quali altre formule essa è annidata (dipendenti).</seg>
       </tuv>
     </tu>
     <tu>
@@ -61331,8 +61331,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>To use the Detective, select a cell with a formula, then start the Detective.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170925T201625Z" creationid="osvaldo" creationdate="20170925T201625Z">
-        <seg>Per utilizzare il Detective, selezionare una cella con una formula, quindi avviare il Detective.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181105T114220Z" creationid="osvaldo" creationdate="20170925T201625Z">
+        <seg>Per utilizzare il Detective, selezionate una cella con una formula, quindi avviate il Detective.</seg>
       </tuv>
     </tu>
     <tu>
