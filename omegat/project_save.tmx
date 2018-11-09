@@ -27640,8 +27640,8 @@
       <tuv lang="EN">
         <seg>For instance, instead of entering =SUM (A1:A2), or possibly =SUM (A1,A2), you enter =A1+A2.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181109T095230Z" creationid="osvaldo" creationdate="20170926T041702Z">
-        <seg>aaaaAd esempio, invece di inserire =SOMMA(A1:A2), o verosimilmente =SOMMA(A1,A2), si indica =A1+A2.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181109T111741Z" creationid="osvaldo" creationdate="20170926T041702Z">
+        <seg>Ad esempio, invece di inserire =SOMMA(A1:A2), o eventualmente =SOMMA(A1;A2), potete inserire =A1+A2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57411,8 +57411,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>This almost-human readable format is especially useful for compound operations, where writing =A1*(A2+A3) is briefer and easier to read than =PRODUCT(A1,SUM(A2:A3)).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181109T081708Z" creationid="osvaldo" creationdate="20170926T051902Z">
-        <seg>Tale formato, quasi intelligibile agli umani, è particolarmente utile per operazioni composte, dove scrivere =A1*(A2+A3) è più breve e facile da leggere di =PRODOTTO(A1,SOMMA(A2:A3)).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181109T111744Z" creationid="osvaldo" creationdate="20170926T051902Z">
+        <seg>aaaaTale formato, quasi intelligibile agli umani, è particolarmente utile per operazioni composte, dove scrivere =A1*(A2+A3) è più breve e facile da leggere di =PRODOTTO(A1,SOMMA(A2:A3)).</seg>
       </tuv>
     </tu>
     <tu>
