@@ -54627,8 +54627,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The main disadvantage of using arithmetical operators is that you cannot directly use a range of cells.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T051944Z" creationid="osvaldo" creationdate="20170926T051944Z">
-        <seg>Lo svantaggio principale di utilizzare gli operatori aritmetici è che non è possibile utilizzare direttamente un intervallo di celle.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181109T112936Z" creationid="osvaldo" creationdate="20170926T051944Z">
+        <seg>aaaaLo svantaggio principale di utilizzare gli operatori aritmetici è che non è possibile utilizzare direttamente un intervallo di celle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57411,8 +57411,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>This almost-human readable format is especially useful for compound operations, where writing =A1*(A2+A3) is briefer and easier to read than =PRODUCT(A1,SUM(A2:A3)).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181109T111744Z" creationid="osvaldo" creationdate="20170926T051902Z">
-        <seg>aaaaTale formato, quasi intelligibile agli umani, è particolarmente utile per operazioni composte, dove scrivere =A1*(A2+A3) è più breve e facile da leggere di =PRODOTTO(A1,SOMMA(A2:A3)).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181109T112931Z" creationid="osvaldo" creationdate="20170926T051902Z">
+        <seg>Tale formato, più facilmente comprensibile, è particolarmente utile per operazioni composte, in cui la scrittura di =A1*(A2+A3) è più breve e facile da leggere rispetto a =PRODOTTO(A1;SOMMA(A2:A3)).</seg>
       </tuv>
     </tu>
     <tu>
