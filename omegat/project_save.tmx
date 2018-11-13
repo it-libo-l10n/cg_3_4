@@ -42074,8 +42074,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>RANK: The position of a given entry in the entire list, measured either from top to bottom or bottom to top.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181113T132808Z" creationid="osvaldo" creationdate="20170926T125631Z">
-        <seg>aaaaRANGO: La posizione di una data voce nell'intera lista, misurata dall'alto verso il basso o dal basso verso l'alto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181113T134950Z" creationid="osvaldo" creationdate="20170926T125631Z">
+        <seg>RANGO: la posizione di una data voce nell'intero elenco, misurata dall'alto verso il basso o dal basso verso l'alto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49618,8 +49618,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Some of these functions overlap; for example, MIN and MAX are both covered by QUARTILE.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T133229Z" creationid="osvaldo" creationdate="20170926T133229Z">
-        <seg>Alcune di queste funzioni si sovrappongono; per esempio, MIN e MAX sono entrambe coperte da QUARTILE.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181113T135517Z" creationid="osvaldo" creationdate="20170926T133229Z">
+        <seg>aaaaaaaaaaaaaAlcune di queste funzioni si sovrappongono; per esempio, MIN e MAX sono entrambe coperte da QUARTILE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67683,8 +67683,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>You need to enter the cell address for the entry, the range of entries, and the type of rank (&lt;f0&gt;0&lt;/f0&gt; for the rank from the highest, or &lt;f1&gt;1&lt;/f1&gt; for the rank from the bottom.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170928T195629Z" creationid="osvaldo" creationdate="20170926T125723Z">
-        <seg>\Si deve immettere l'indirizzo della cella per la voce, l'intervallo delle voci ed il tipo di rango (&lt;f0&gt;0&lt;/f0&gt; per il rango dal più alto, o &lt;f1&gt;1&lt;/f1&gt; per il rango dalla parte inferiore.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181113T135515Z" creationid="osvaldo" creationdate="20170926T125723Z">
+        <seg>Dovete immettere l'indirizzo della cella per la voce, l'intervallo delle voci e il tipo di rango (&lt;f0&gt;0&lt;/f0&gt; per il rango dal più alto, o &lt;f1&gt;1&lt;/f1&gt; per il rango dal più basso).</seg>
       </tuv>
     </tu>
     <tu>
