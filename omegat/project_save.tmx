@@ -27664,8 +27664,8 @@
       <tuv lang="EN">
         <seg>For instance, the formula =ROUND((SUM(A1,A2)) adds the figures in cells A1 and A2, then rounds them off to the nearest whole number.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T192223Z" creationid="osvaldo" creationdate="20170926T192223Z">
-        <seg>Ad esempio, la formula =ARROTONDA((SUM (A1,A2)) aggiunge le cifre nelle celle A1 e A2, poi le arrotonda al numero intero più vicino.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T115213Z" creationid="osvaldo" creationdate="20170926T192223Z">
+        <seg>Ad esempio, la formula =ARROTONDA((SOMMA(A1;A2)) aggiunge le cifre nelle celle A1 e A2, poi le arrotonda al numero intero più vicino.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29656,8 +29656,8 @@
       <tuv lang="EN">
         <seg>However, even though you do not need to work with exact figures every day, you may still want to refer to them occasionally.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170929T111242Z" creationid="osvaldo" creationdate="20170926T192427Z">
-        <seg>Tuttavia, anche se non è necessario lavorare con le cifre esatte ogni giorno, si può occasionalmente voler fare loro riferimento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T115501Z" creationid="osvaldo" creationdate="20170926T192427Z">
+        <seg>aaaaaaaaaaaaaaaaTuttavia, anche se non è necessario lavorare con le cifre esatte ogni giorno, si può occasionalmente voler fare loro riferimento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31824,8 +31824,8 @@
       <tuv lang="EN">
         <seg>If you choose, you can nest a calculation within one of the rounding functions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181123T110155Z" creationid="osvaldo" creationdate="20170926T142500Z">
-        <seg>aaaaSe si sceglie, è possibile nidificare un calcolo in una delle funzioni di arrotondamento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181123T114804Z" creationid="osvaldo" creationdate="20170926T142500Z">
+        <seg>Se volete, potete nidificare un calcolo in una delle funzioni di arrotondamento.</seg>
       </tuv>
     </tu>
     <tu>
