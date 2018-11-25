@@ -13336,8 +13336,8 @@
       <tuv lang="EN">
         <seg>As an alternative to ROUNDDOWN when working with decimals, you can use TRUNC (short for truncate).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T034215Z" creationid="osvaldo" creationdate="20170926T201045Z">
-        <seg>In alternativa a ARROTONDA.PER.DIF quando si lavora con i decimali, è possibile utilizzare TRONCA (abbreviazione di troncamento).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181125T161818Z" creationid="osvaldo" creationdate="20170926T201045Z">
+        <seg>aaaaIn alternativa a ARROTONDA.PER.DIF quando si lavora con i decimali, è possibile utilizzare TRONCA (abbreviazione di troncamento).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27600,8 +27600,8 @@
       <tuv lang="EN">
         <seg>For instance, if number was set to 1, then 48.65 would round to 48.7 with ROUND or ROUNDUP and to 48.6 with ROUNDDOWN.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T033248Z" creationid="osvaldo" creationdate="20170926T200854Z">
-        <seg>Ad esempio, se Numero è stato impostato su 1, allora 48,65 si arrotonda a 48,7 con ARROTONDA o ARROTONDA.PER.ECC e a 48,6 con ARROTONDA.PER.DIF.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181125T161815Z" creationid="osvaldo" creationdate="20170926T200854Z">
+        <seg>Ad esempio, se l'argomento Numero è stato impostato su 1, allora 48,65 si arrotonda a 48,7 con ARROTONDA o ARROTONDA.PER.ECC e a 48,6 con ARROTONDA.PER.DIF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29768,8 +29768,8 @@
       <tuv lang="EN">
         <seg>However, if you use the optional count argument, you can specify the number of decimal places to include.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181125T150940Z" creationid="osvaldo" creationdate="20170926T200726Z">
-        <seg>aaaaTuttavia, se si utilizza l'argomento opzionale Numero, è possibile specificare il numero di posizioni decimali da includere.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181125T161516Z" creationid="osvaldo" creationdate="20170926T200726Z">
+        <seg>Tuttavia, se utilizzate l'argomento opzionale Numero, potete specificare il numero di posizioni decimali da includere.</seg>
       </tuv>
     </tu>
     <tu>
