@@ -12160,8 +12160,8 @@
       <tuv lang="EN">
         <seg>All three of these functions require the single argument of number—the cell or number to be rounded.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T193736Z" creationid="osvaldo" creationdate="20170926T193736Z">
-        <seg>Tutte e tre queste funzioni richiedono come unico argomento il numero: la cella o il numero da arrotondare.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181125T135128Z" creationid="osvaldo" creationdate="20170926T193736Z">
+        <seg>Tutte e tre le funzioni richiedono come unico argomento il numero: la cella o il numero da arrotondare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34457,8 +34457,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>In these cases, you might prefer to use &lt;is2/&gt;ROUNDUP&lt;ie3/&gt; or &lt;is4/&gt;ROUNDDOWN&lt;ie5/&gt;, which, as their names suggest, round a number to the nearest integer above or below it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181125T130702Z" creationid="osvaldo" creationdate="20170926T193635Z">
-        <seg>aaaaIn questi casi, è preferibile utilizzare &lt;is2/&gt;ARROTONDA.PER.ECC&lt;ie3/&gt; o &lt;is4/&gt;ARROTONDA.PER.DIF&lt;ie5/&gt;, che, come suggeriscono i loro nomi, arrotondano un numero all'intero più vicino al di sopra o al di sotto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181125T134850Z" creationid="osvaldo" creationdate="20170926T193635Z">
+        <seg>In questi casi, è preferibile utilizzare &lt;is2/&gt;ARROTONDA.PER.ECC&lt;ie3/&gt; o &lt;is4/&gt;ARROTONDA.PER.DIF&lt;ie5/&gt;, che, come suggeriscono i loro nomi, arrotondano un numero all'intero più vicino al di sopra o al di sotto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62771,8 +62771,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Used with only this argument, all three functions round to the nearest whole number, so that 46.5 would round to 47 with ROUND or ROUNDUP and 46 with ROUNDDOWN.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T033323Z" creationid="osvaldo" creationdate="20170926T200443Z">
-        <seg>Utilizzate solo con questo argomento, tutte e tre le funzioni arrotondano al numero intero più vicino, in modo che 46,5 viene arrotondato a 47 con ARROTONDA o ARROTONDA.PER.ECC e a 46 con ARROTONDA.PER.DIF.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181125T135132Z" creationid="osvaldo" creationdate="20170926T200443Z">
+        <seg>aaaaUtilizzate solo con questo argomento, tutte e tre le funzioni arrotondano al numero intero più vicino, in modo che 46,5 viene arrotondato a 47 con ARROTONDA o ARROTONDA.PER.ECC e a 46 con ARROTONDA.PER.DIF.</seg>
       </tuv>
     </tu>
     <tu>
