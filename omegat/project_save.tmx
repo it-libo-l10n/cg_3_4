@@ -29656,8 +29656,8 @@
       <tuv lang="EN">
         <seg>However, even though you do not need to work with exact figures every day, you may still want to refer to them occasionally.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181123T115501Z" creationid="osvaldo" creationdate="20170926T192427Z">
-        <seg>aaaaaaaaaaaaaaaaTuttavia, anche se non è necessario lavorare con le cifre esatte ogni giorno, si può occasionalmente voler fare loro riferimento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181125T115149Z" creationid="osvaldo" creationdate="20170926T192427Z">
+        <seg>Tuttavia, anche se non avete bisogno di lavorare con cifre esatte quotidianamente, potreste occasionalmente volerle utilizzare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30776,8 +30776,8 @@
       <tuv lang="EN">
         <seg>If that is the case, then you are probably better off separating the two functions, placing =SUM(A1,A2) in cell A3, and =ROUND (A3) in A4, and clearly labelling each function.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T192535Z" creationid="osvaldo" creationdate="20170926T192535Z">
-        <seg>Se è così, allora probabilmente è meglio separare le due funzioni, immettendo = SOMMA(A1, A2) nella cella A3 e = ARROTONDA(A3) in A4 e indicando chiaramente ogni funzione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181125T115517Z" creationid="osvaldo" creationdate="20170926T192535Z">
+        <seg>In tal caso è probabilmente meglio separare le due funzioni, immettendo =SOMMA(A1;A2) nella cella A3 e =ARROTONDA(A3) in A4, etichettando chiaramente ogni funzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54731,8 +54731,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The most basic function for rounding numbers in Calc is &lt;is0/&gt;ROUND&lt;ie1/&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T192728Z" creationid="osvaldo" creationdate="20170926T192728Z">
-        <seg>La funzione fondamentale per l'arrotondamento dei numeri in Calc è &lt;is0/&gt;ARROTONDA&lt;ie1/&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181125T115604Z" creationid="osvaldo" creationdate="20170926T192728Z">
+        <seg>aaaaaaaaLa funzione fondamentale per l'arrotondamento dei numeri in Calc è &lt;is0/&gt;ARROTONDA&lt;ie1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70651,8 +70651,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>rounding methods</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T192556Z" creationid="osvaldo" creationdate="20170926T192556Z">
-        <seg>metodo di arrotondamento</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181125T115535Z" creationid="osvaldo" creationdate="20170926T192556Z">
+        <seg>metodi di arrotondamento</seg>
       </tuv>
     </tu>
     <tu>
