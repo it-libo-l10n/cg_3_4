@@ -29632,8 +29632,8 @@
       <tuv lang="EN">
         <seg>However, at times, you may not want to follow these rules.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170926T193059Z" creationid="osvaldo" creationdate="20170926T193059Z">
-        <seg>Tuttavia, a volte, non si desidera seguire queste regole.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181125T124429Z" creationid="osvaldo" creationdate="20170926T193059Z">
+        <seg>Tuttavia, a volte, potreste non voler seguire queste regole.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54731,8 +54731,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The most basic function for rounding numbers in Calc is &lt;is0/&gt;ROUND&lt;ie1/&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181125T115604Z" creationid="osvaldo" creationdate="20170926T192728Z">
-        <seg>aaaaaaaaLa funzione fondamentale per l'arrotondamento dei numeri in Calc è &lt;is0/&gt;ARROTONDA&lt;ie1/&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181125T123734Z" creationid="osvaldo" creationdate="20170926T192728Z">
+        <seg>La funzione più semplice per l'arrotondamento dei numeri in Calc è &lt;is0/&gt;ARROTONDA&lt;ie1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57899,8 +57899,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>This function will round off a number according to the usual rules of symmetric arithmetic rounding: a decimal place of .4 or less gets rounded down, while one of .5 or more gets rounded up.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T032308Z" creationid="osvaldo" creationdate="20170926T193030Z">
-        <seg>Questa funzione arrotonderà un numero secondo le regole usuali di arrotondamento aritmetico simmetrico: una cifra decimale di 0,4 o meno viene arrotondato verso il basso, mentre uno di 0,5 o più viene arrotondato verso l'alto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181125T124332Z" creationid="osvaldo" creationdate="20170926T193030Z">
+        <seg>Questa funzione arrotonda un numero secondo le regole usuali di arrotondamento aritmetico simmetrico: una cifra decimale di 0,4 o meno viene arrotondata per difetto, mentre una di 0,5 o più viene arrotondata per eccesso.</seg>
       </tuv>
     </tu>
     <tu>
