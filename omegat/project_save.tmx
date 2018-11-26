@@ -14200,8 +14200,8 @@
       <tuv lang="EN">
         <seg>Besides number and significance, both CEILING and FLOOR include an optional argument called mode, which takes a value of 0 or 1.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T040833Z" creationid="osvaldo" creationdate="20170926T205435Z">
-        <seg>Oltre a Numero e a Peso, sia ARROTONDA.ECCESSO che ARROTONDA.DIFETTO includono un argomento opzionale denominato Modo, che richiede un valore di 0 o 1.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181126T105422Z" creationid="osvaldo" creationdate="20170926T205435Z">
+        <seg>aaaaOltre a Numero e a Peso, sia ARROTONDA.ECCESSO che ARROTONDA.DIFETTO includono un argomento opzionale denominato Modo, che richiede un valore di 0 o 1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30552,8 +30552,8 @@
       <tuv lang="EN">
         <seg>If cell E1 contains the value 46.7, =CEILING(E1,7) will return the value 49.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181126T103719Z" creationid="osvaldo" creationdate="20170926T205301Z">
-        <seg>aaaaSe la cella E1 contiene il valore 46,7 allora =ARROTONDA.ECCESSO(E1;7) restituirà il valore 49.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181126T105420Z" creationid="osvaldo" creationdate="20170926T205301Z">
+        <seg>Se la cella E1 contiene il valore 46,7, allora =ARROTONDA.ECCESSO(E1;7) restituirà il valore 49.</seg>
       </tuv>
     </tu>
     <tu>
