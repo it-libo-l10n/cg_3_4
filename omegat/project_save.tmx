@@ -13456,8 +13456,8 @@
       <tuv lang="EN">
         <seg>As you can guess from the names, CEILING rounds up and FLOOR rounds down.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T040232Z" creationid="osvaldo" creationdate="20170926T203333Z">
-        <seg>Come si può immaginare dai nomi, ARROTONDA.ECCESSO arrotonda per eccesso e ARROTONDA.DIFETTO per difetto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181126T090015Z" creationid="osvaldo" creationdate="20170926T203333Z">
+        <seg>aaaaCome si può immaginare dai nomi, ARROTONDA.ECCESSO arrotonda per eccesso e ARROTONDA.DIFETTO per difetto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38986,8 +38986,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>ODD rounds up to the nearest odd number if what is entered in the number argument is a positive number, and rounds down if it is a negative number, while EVEN does the same for an even number.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181125T181021Z" creationid="osvaldo" creationdate="20170926T201703Z">
-        <seg>aaaaaaaaaaaaaaaaDISPARI arrotonda fino al numero dispari più vicino, se quello che viene inserito nell'argomento Numero è un numero positivo e arrotonda per difetto se è un numero negativo, mentre PARI fa lo stesso per un numero pari.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181126T085751Z" creationid="osvaldo" creationdate="20170926T201703Z">
+        <seg>DISPARI arrotonda per eccesso fino al numero dispari più vicino, se quello che viene inserito nell'argomento Numero è un numero positivo; arrotonda per difetto se è un numero negativo, mentre PARI fa lo stesso per un numero pari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40562,8 +40562,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Options are the &lt;is0/&gt;CEILING&lt;ie1/&gt; and &lt;is2/&gt;FLOOR&lt;ie3/&gt; functions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T040210Z" creationid="osvaldo" creationdate="20170926T201758Z">
-        <seg>in alternativa ci sono le funzioni &lt;is0/&gt;ARROTONDA.ECCESSO&lt;ie1/&gt; e &lt;is2/&gt;ARROTONDA.DIFETTO&lt;ie3/&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181126T090013Z" creationid="osvaldo" creationdate="20170926T201758Z">
+        <seg>In alternativa ci sono le funzioni &lt;is0/&gt;ARROTONDA.ECCESSO&lt;ie1/&gt; e &lt;is2/&gt;ARROTONDA.DIFETTO&lt;ie3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
