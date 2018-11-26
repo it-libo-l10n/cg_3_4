@@ -10464,8 +10464,8 @@
       <tuv lang="EN">
         <seg>A function somewhat similar to CEILING and FLOOR is MROUND.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181126T144906Z" creationid="osvaldo" creationdate="20170927T041439Z">
-        <seg>aaaaUna funzione leggermente simile a ARROTONDA.ECCESSO e a ARROTONDA.DIFETTO è ARROTONDA.MULTIPLO.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181126T154029Z" creationid="osvaldo" creationdate="20170927T041439Z">
+        <seg>Una funzione simile a ARROTONDA.ECCESSO e ARROTONDA.DIFETTO è ARROTONDA.MULTIPLO.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36401,8 +36401,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>Like CEILING AND FLOOR, &lt;is0/&gt;MROUND&lt;ie1/&gt; requires two arguments, although, somewhat confusingly, the second one is called multiple rather than significance, even though the two are identical.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T042029Z" creationid="osvaldo" creationdate="20170927T042029Z">
-        <seg>Allo stesso modo di ARROTONDA.ECCESSO e ARROTONDA.DIFETTO, &lt;is0/&gt;ARROTONDA.MULTIPLO&lt;ie1/&gt; richiede due argomenti, sebbene, in qualche modo confusamente, il secondo sia chiamato multiplo invece di peso, anche se i due sono identici.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181126T154712Z" creationid="osvaldo" creationdate="20170927T042029Z">
+        <seg>Allo stesso modo di ARROTONDA.ECCESSO e ARROTONDA.DIFETTO, &lt;is0/&gt;ARROTONDA.MULTIPLO&lt;ie1/&gt; richiede due argomenti; il secondo viene però chiamato Multiplo invece di Peso, sebbene i due siano identici.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53531,8 +53531,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The difference between MROUND and CEILING and FLOOR is that MROUND rounds up or down using symmetric arithmetic rounding.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T042341Z" creationid="osvaldo" creationdate="20170927T042139Z">
-        <seg>La differenza tra ARROTONDA.MULTIPLO, ARROTONDA.ECCESSO e ARROTONDA.DIFETTO è che ARROTONDA.MULTIPLO arrotonda in eccesso o in difetto utilizzando l'arrotondamento aritmetico.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181126T154750Z" creationid="osvaldo" creationdate="20170927T042139Z">
+        <seg>aaaaLa differenza tra ARROTONDA.MULTIPLO, ARROTONDA.ECCESSO e ARROTONDA.DIFETTO è che ARROTONDA.MULTIPLO arrotonda in eccesso o in difetto utilizzando l'arrotondamento aritmetico.</seg>
       </tuv>
     </tu>
     <tu>
