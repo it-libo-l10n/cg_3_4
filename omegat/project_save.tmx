@@ -19256,8 +19256,8 @@
       <tuv lang="EN">
         <seg>Conversely, if you are building customized computers and completed 4.5 in a day, your client would only be interested in the number ready to ship, so you might use FLOOR in a report of your progress.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T040259Z" creationid="osvaldo" creationdate="20170926T205117Z">
-        <seg>Al contrario, se si stanno realizzando dei computer personalizzati e se ne completano 4,5 in un giorno, il cliente sarebbe solo interessato al numero di quelli pronti per la spedizione, pertanto si potrebbe usare ARROTONDA.DIFETTO in un report del lavoro svolto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181126T103717Z" creationid="osvaldo" creationdate="20170926T205117Z">
+        <seg>Al contrario, se assemblate dei computer personalizzati e ne completate 4,5 al giorno, il vostro cliente sarebbe interessato soltanto al numero di computer pronti per la spedizione; pertanto potreste usare ARROTONDA.DIFETTO in un report del lavoro svolto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27632,8 +27632,8 @@
       <tuv lang="EN">
         <seg>For instance, if your business insurance is billed by the work week, the fact that you were only open three days one week would be irrelevant to your costs; you would still be charged for an entire week, and therefore might want to use CEILING in your monthly expenses.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181126T100145Z" creationid="osvaldo" creationdate="20170926T204203Z">
-        <seg>aaaaAd esempio, se l'assicurazione aziendale è fatturata in base alla settimana lavorativa, il fatto che si sia stati aperti solo tre giorni alla settimana sarebbe irrilevante per i costi; saranno addebitati per un'intera settimana e pertanto si potrebbe desiderare di utilizzare ARROTONDA.ECCESSO nel calcolo delle spese mensili.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181126T103222Z" creationid="osvaldo" creationdate="20170926T204203Z">
+        <seg>Ad esempio, se la vostra assicurazione aziendale è fatturata in base alla settimana lavorativa, il fatto che siate aperti solo tre giorni a settimana sarebbe irrilevante per i costi; questi sarebbero lo stesso addebitati per una settimana intera. Pertanto potreste desiderare di utilizzare ARROTONDA.ECCESSO nel calcolo delle spese mensili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30552,8 +30552,8 @@
       <tuv lang="EN">
         <seg>If cell E1 contains the value 46.7, =CEILING(E1,7) will return the value 49.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T040615Z" creationid="osvaldo" creationdate="20170926T205301Z">
-        <seg>Se la cella E1 contiene il valore 46,7 allora =ARROTONDA.ECCESSO(E1;7) restituirà il valore 49.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181126T103719Z" creationid="osvaldo" creationdate="20170926T205301Z">
+        <seg>aaaaSe la cella E1 contiene il valore 46,7 allora =ARROTONDA.ECCESSO(E1;7) restituirà il valore 49.</seg>
       </tuv>
     </tu>
     <tu>
