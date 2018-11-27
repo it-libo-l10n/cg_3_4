@@ -27160,8 +27160,8 @@
       <tuv lang="EN">
         <seg>For example, if the number is 77 and the multiple is 5, then MROUND gives a result of 75.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T042458Z" creationid="osvaldo" creationdate="20170927T042458Z">
-        <seg>Per esempio, se il numero è 77 ed il multiplo è 5, allora ARROTONDA.MULTIPLO fornisce il risultato di 75.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181127T141217Z" creationid="osvaldo" creationdate="20170927T042458Z">
+        <seg>Ad esempio, se il numero è 77 e il multiplo è 5, allora ARROTONDA.MULTIPLO fornisce il risultato di 75.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29712,8 +29712,8 @@
       <tuv lang="EN">
         <seg>However, if the multiple is changed to 7, then MROUND’s result becomes 77.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T042544Z" creationid="osvaldo" creationdate="20170927T042544Z">
-        <seg>Tuttavia, se il multiplo è cambiato a 7, il risultato di ARROTONDA.MULTIPLO diventa 77.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181127T141442Z" creationid="osvaldo" creationdate="20170927T042544Z">
+        <seg>Tuttavia, se il multiplo viene cambiato in 7, allora il risultato di ARROTONDA.MULTIPLO diventa 77.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39874,8 +39874,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Once you become familiar with Calc’s long, undifferentiated list of functions, you can start to decide which is most useful for your purposes.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T042743Z" creationid="osvaldo" creationdate="20170927T042743Z">
-        <seg>Una volta che si è presa familiarità con la lunga e indifferenziata lista di funzioni di Calc, si può cominciare a decidere quale è più utile per i propri scopi.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181127T141444Z" creationid="osvaldo" creationdate="20170927T042743Z">
+        <seg>aaaaUna volta che si è presa familiarità con la lunga e indifferenziata lista di funzioni di Calc, si può cominciare a decidere quale è più utile per i propri scopi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53531,8 +53531,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The difference between MROUND and CEILING and FLOOR is that MROUND rounds up or down using symmetric arithmetic rounding.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181126T160116Z" creationid="osvaldo" creationdate="20170927T042139Z">
-        <seg>aaaaaaaaLa differenza tra ARROTONDA.MULTIPLO, ARROTONDA.ECCESSO e ARROTONDA.DIFETTO è che ARROTONDA.MULTIPLO arrotonda in eccesso o in difetto utilizzando l'arrotondamento aritmetico.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181127T141058Z" creationid="osvaldo" creationdate="20170927T042139Z">
+        <seg>La differenza tra ARROTONDA.MULTIPLO, ARROTONDA.ECCESSO e ARROTONDA.DIFETTO è che ARROTONDA.MULTIPLO arrotonda in eccesso o in difetto utilizzando l'arrotondamento aritmetico simmetrico.</seg>
       </tuv>
     </tu>
     <tu>
