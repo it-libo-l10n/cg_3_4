@@ -11461,7 +11461,6 @@
       </tuv>
     </tu>
     <tu>
-      <note>pippo</note>
       <tuv lang="EN">
         <seg>Activating the &lt;f0&gt;Enable regular expressions in formulas&lt;/f0&gt; option means all the above functions will require any regular expression special characters (such as parentheses) used in strings within formulas, to be preceded by a backslash, despite not being part of a regular expression.</seg>
       </tuv>
