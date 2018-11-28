@@ -43082,8 +43082,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Regular expression searches &lt;f0&gt;within functions&lt;/f0&gt; are &lt;f1&gt;always case insensitive&lt;/f1&gt;, irrespective of the setting of the &lt;f2&gt;Case sensitive&lt;/f2&gt; checkbox on the dialog in &lt;t3&gt;Figure 178&lt;/t3&gt;—so &lt;f4&gt;red&lt;/f4&gt; and &lt;f5&gt;ROD&lt;/f5&gt; will always be matched in the above example.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181128T134842Z" creationid="osvaldo" creationdate="20170927T130657Z">
-        <seg>aaaaLa ricerca di espressioni regolari &lt;f0&gt;all'interno di funzioni&lt;/f0&gt; è &lt;f1&gt;ignora sempre le maiuscole&lt;/f1&gt;,indipendentemente dall'impostazione della casella di controllo &lt;f2&gt;Maiuscole/minuscole&lt;/f2&gt; nella finestra di dialogo di &lt;t3&gt;Figura 178&lt;/t3&gt;—per cui &lt;f4&gt;red&lt;/f4&gt; e &lt;f5&gt;ROD&lt;/f5&gt; saranno sempre trovati nell'esempio precedente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181128T142935Z" creationid="osvaldo" creationdate="20170927T130657Z">
+        <seg>La ricerca di espressioni regolari &lt;f0&gt;all'interno di funzioni&lt;/f0&gt; non distingue &lt;f1&gt;tra maiuscole e minuscole&lt;/f1&gt;, indipendentemente dall'impostazione dell'opzione &lt;f2&gt;Maiuscole/minuscole&lt;/f2&gt; nella finestra di dialogo mostrata in &lt;t3&gt;Figura 178&lt;/t3&gt; — per cui &lt;f4&gt;red&lt;/f4&gt; e &lt;f5&gt;ROD&lt;/f5&gt; saranno sempre trovati nell'esempio precedente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57579,8 +57579,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>This case-insensitivity also applies to the regular expression structures ([:lower:]) and ([:upper:]), which match characters irrespective of case.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T130923Z" creationid="osvaldo" creationdate="20170927T130923Z">
-        <seg>L'indipendenza dalle maiuscole si applica anche alle strutture delle espressioni regolari ([:minore:]) e ([:maggiore:]), che trova le occorrenze a prescindere dalle maiuscole.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181128T142938Z" creationid="osvaldo" creationdate="20170927T130923Z">
+        <seg>aaaaL'indipendenza dalle maiuscole si applica anche alle strutture delle espressioni regolari ([:minore:]) e ([:maggiore:]), che trova le occorrenze a prescindere dalle maiuscole.</seg>
       </tuv>
     </tu>
     <tu>
