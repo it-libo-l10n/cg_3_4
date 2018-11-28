@@ -11461,11 +11461,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>pippo</note>
       <tuv lang="EN">
         <seg>Activating the &lt;f0&gt;Enable regular expressions in formulas&lt;/f0&gt; option means all the above functions will require any regular expression special characters (such as parentheses) used in strings within formulas, to be preceded by a backslash, despite not being part of a regular expression.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T134758Z" creationid="osvaldo" creationdate="20170927T134758Z">
-        <seg>Attivando l'opzione &lt;f0&gt;Permetti espressioni regolari nelle formule&lt;/f0&gt; significa che le precedenti funzioni richiederanno che tutti i caratteri speciali usati in stringhe entro le formule (come le parentesi) siano precedute da barra anche se non sono parte di una espressione regolare.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181128T171141Z" creationid="osvaldo" creationdate="20170927T134758Z">
+        <seg>Attivando l'opzione &lt;f0&gt;Permetti espressioni regolari nelle formule&lt;/f0&gt; tutte le precedenti funzioni richiederanno che tutti i caratteri speciali delle espressioni regolari (come le parentesi), usati in stringhe all'interno di formule, siano preceduti da una barra retroversa, anche se non sono parte di una espressione regolare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13368,8 +13369,8 @@
       <tuv lang="EN">
         <seg>As is common with other spreadsheet programs, &lt;f0&gt;LibreOffice&lt;/f0&gt; Calc can be enhanced by user-defined functions or add-ins.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T135017Z" creationid="osvaldo" creationdate="20170927T135017Z">
-        <seg>Come è comune con altri programmi di fogli di calcolo, &lt;f0&gt;LibreOffice&lt;/f0&gt; Calc può essere potenziato da funzioni definite dall'utente o da componenti aggiuntivi.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181128T171329Z" creationid="osvaldo" creationdate="20170927T135017Z">
+        <seg>aaaaaaaaaaaaaaaaCome è comune con altri programmi di fogli di calcolo, &lt;f0&gt;LibreOffice&lt;/f0&gt; Calc può essere potenziato da funzioni definite dall'utente o da componenti aggiuntivi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32592,8 +32593,8 @@
       <tuv lang="EN">
         <seg>If you wish to test using regular expressions, try the COUNTIF function: COUNTIF(A1,"r.d") will return 1 or 0, interpreted as TRUE or FALSE in formulas like =IF(COUNTIF(A1,"r.d"),"hooray","boo").</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181128T163047Z" creationid="osvaldo" creationdate="20170927T132314Z">
-        <seg>Se volete verificare usando le espressioni regolari, provate la funzione CONTA.SE: CONTA.SE(A1;"r.d") ritornerà 1 o 0, interpretati come VERO o FALSO in formule come =IF(CONTA.SE(A1;"r.d");"hooray";"boo").</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181128T165201Z" creationid="osvaldo" creationdate="20170927T132314Z">
+        <seg>Se volete verificare usando le espressioni regolari, provate la funzione CONTA.SE: CONTA.SE(A1;"r.d") ritornerà 1 o 0, interpretati come VERO o FALSO in formule come =SE(CONTA.SE(A1;"r.d");"Giusto";"Sbagliato").</seg>
       </tuv>
     </tu>
     <tu>
@@ -57083,8 +57084,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>These backslashes will need to be removed if the setting is later deactivated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T134854Z" creationid="osvaldo" creationdate="20170927T134854Z">
-        <seg>Queste barre devono essere rimossi se l'impostazione viene disattivata in seguito.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181128T171310Z" creationid="osvaldo" creationdate="20170927T134854Z">
+        <seg>Le barre retroverse dovranno essere rimosse se l'impostazione viene in seguito disattivata.</seg>
       </tuv>
     </tu>
     <tu>
