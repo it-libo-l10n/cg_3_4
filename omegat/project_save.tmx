@@ -32592,8 +32592,8 @@
       <tuv lang="EN">
         <seg>If you wish to test using regular expressions, try the COUNTIF function: COUNTIF(A1,"r.d") will return 1 or 0, interpreted as TRUE or FALSE in formulas like =IF(COUNTIF(A1,"r.d"),"hooray","boo").</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T132314Z" creationid="osvaldo" creationdate="20170927T132314Z">
-        <seg>Se si vuole verificare usando le espressioni regolari, provare la funzione CONTA.SE: CONTA.SE(A1,"r.d") ritornerà 1 o 0, interpretata come VERO o FALSO in formule del tipo =IF(CONTA.SE(A1,"r.d"),"hooray","boo").</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181128T163047Z" creationid="osvaldo" creationdate="20170927T132314Z">
+        <seg>Se volete verificare usando le espressioni regolari, provate la funzione CONTA.SE: CONTA.SE(A1;"r.d") ritornerà 1 o 0, interpretati come VERO o FALSO in formule come =IF(CONTA.SE(A1;"r.d");"hooray";"boo").</seg>
       </tuv>
     </tu>
     <tu>
@@ -35745,8 +35745,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>It will only return TRUE if A1 contains &lt;f1&gt;r.d&lt;/f1&gt; (&lt;f2&gt;r&lt;/f2&gt; then a dot then &lt;f3&gt;d&lt;/f3&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181128T155123Z" creationid="osvaldo" creationdate="20170927T132009Z">
-        <seg>aaaaRitornerà TRUE solo se A1 contiene &lt;f1&gt;r.d&lt;/f1&gt; (&lt;f2&gt;r&lt;/f2&gt; poi un punto e poi &lt;f3&gt;d&lt;/f3&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181128T160032Z" creationid="osvaldo" creationdate="20170927T132009Z">
+        <seg>Ritornerà VERO solo se A1 contiene &lt;f1&gt;r.d&lt;/f1&gt; (&lt;f2&gt;r&lt;/f2&gt; poi un punto e poi &lt;f3&gt;d&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
