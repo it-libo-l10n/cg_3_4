@@ -35745,8 +35745,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>It will only return TRUE if A1 contains &lt;f1&gt;r.d&lt;/f1&gt; (&lt;f2&gt;r&lt;/f2&gt; then a dot then &lt;f3&gt;d&lt;/f3&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T132009Z" creationid="osvaldo" creationdate="20170927T132009Z">
-        <seg>Ritornerà TRUE solo se A1 contiene &lt;f1&gt;r.d&lt;/f1&gt; (&lt;f2&gt;r&lt;/f2&gt; poi un punto e poi &lt;f3&gt;d&lt;/f3&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181128T155123Z" creationid="osvaldo" creationdate="20170927T132009Z">
+        <seg>aaaaRitornerà TRUE solo se A1 contiene &lt;f1&gt;r.d&lt;/f1&gt; (&lt;f2&gt;r&lt;/f2&gt; poi un punto e poi &lt;f3&gt;d&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -57579,8 +57579,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>This case-insensitivity also applies to the regular expression structures ([:lower:]) and ([:upper:]), which match characters irrespective of case.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181128T142938Z" creationid="osvaldo" creationdate="20170927T130923Z">
-        <seg>aaaaL'indipendenza dalle maiuscole si applica anche alle strutture delle espressioni regolari ([:minore:]) e ([:maggiore:]), che trova le occorrenze a prescindere dalle maiuscole.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181128T154021Z" creationid="osvaldo" creationdate="20170927T130923Z">
+        <seg>La non sensibilità a maiuscole e minuscole si applica anche alle strutture delle espressioni regolari ([:lower:]) e ([:upper:]), che trovano le occorrenze a prescindere da maiuscole/minuscole.</seg>
       </tuv>
     </tu>
     <tu>
