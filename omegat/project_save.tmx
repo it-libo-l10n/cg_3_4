@@ -4488,8 +4488,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Calc Add-ins are specialized office extensions&lt;/f0&gt; &lt;f1&gt;which can extend the functionality of &lt;/f1&gt;&lt;f2&gt;LibreOffice&lt;/f2&gt;&lt;f3&gt; with new built-in Calc functions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T135611Z" creationid="osvaldo" creationdate="20170927T135611Z">
-        <seg>Le &lt;f0&gt;Calc Add-in sono estensioni d'ufficio specializzate &lt;/f0&gt; &lt;f1&gt; che possono estendere la funzionalità di &lt;/f1&gt; &lt;f2&gt; LibreOffice &lt;/f2&gt; &lt;f3&gt; con nuove funzioni Calc incorporate.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181129T114709Z" creationid="osvaldo" creationdate="20170927T135611Z">
+        <seg>&lt;f0&gt;I componenti aggiuntivi di Calc sono estensioni specializzate&lt;/f0&gt; &lt;f1&gt;che possono aumentare la funzionalità di &lt;/f1&gt;&lt;f2&gt;LibreOffice&lt;/f2&gt;&lt;f3&gt; con nuove funzioni integrate in Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37033,8 +37033,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>Macros can be linked to menus or toolbars for ease of operation or stored in template modules to make the functions available in other documents.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181129T112415Z" creationid="osvaldo" creationdate="20170927T135404Z">
-        <seg>aaaaaaaaaaaaaLe macro possono essere collegate a menu o barre degli strumenti per facilitarne il funzionamento o memorizzate nei moduli di modello per rendere disponibili le funzioni in altri documenti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181129T114016Z" creationid="osvaldo" creationdate="20170927T135404Z">
+        <seg>Le macro possono essere collegate a menu o barre degli strumenti per facilitarne il funzionamento, o memorizzate nei moduli modello per rendere le funzioni disponibili in altri documenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52611,8 +52611,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The basics of writing and running macros is covered in Chapter 12, Calc Macros.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181129T112413Z" creationid="osvaldo" creationdate="20170927T135322Z">
-        <seg>Le nozioni di base relative a scrittura ed esecuzione delle macro sono trattate nel Capitolo 12 (Macro di Calc).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181129T112555Z" creationid="osvaldo" creationdate="20170927T135322Z">
+        <seg>Le nozioni di base relative a scrittura ed esecuzione delle macro sono trattate nel Capitolo 12 (Macro in Calc).</seg>
       </tuv>
     </tu>
     <tu>
@@ -65491,8 +65491,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Writing Add-ins requires knowledge of the C++ language, the &lt;/f3&gt;&lt;f4&gt;LibreOffice&lt;/f4&gt;&lt;f5&gt; SDK, and is for experienced programmers.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="osvaldo" changedate="20170927T135721Z" creationid="osvaldo" creationdate="20170927T135721Z">
-        <seg>La scrittura di componenti aggiuntivi richiede la conoscenza del linguaggio C ++, SDK &lt;/f3&gt; &lt;f4&gt; LibreOffice &lt;/f4&gt; &lt;f5&gt; ed è destinato a programmatori esperti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181129T114715Z" creationid="osvaldo" creationdate="20170927T135721Z">
+        <seg>aaaaaaaaLa scrittura di componenti aggiuntivi richiede la conoscenza del linguaggio C ++, SDK &lt;/f3&gt; &lt;f4&gt; LibreOffice &lt;/f4&gt; &lt;f5&gt; ed è destinato a programmatori esperti.</seg>
       </tuv>
     </tu>
     <tu>
