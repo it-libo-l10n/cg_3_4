@@ -11000,8 +11000,8 @@
       <tuv lang="EN">
         <seg>A spreadsheet can contains several unrelated tables.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Andrea" changedate="20160808T095751Z" creationid="Andrea" creationdate="20160808T095751Z">
-        <seg>Un foglio di calcolo puo' contenere diverse tabelle non correlate fra loro.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181130T143729Z" creationid="Andrea" creationdate="20160808T095751Z">
+        <seg>Un foglio elettronico può contenere diverse tabelle non correlate fra loro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15352,8 +15352,8 @@
       <tuv lang="EN">
         <seg>Calc recognizes your lists automatically.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Andrea" changedate="20160808T095836Z" creationid="Andrea" creationdate="20160808T095836Z">
-        <seg>Calc riconosce automaticamente i vostri elenchi.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181130T143810Z" creationid="Andrea" creationdate="20160808T095836Z">
+        <seg>Calc riconosce automaticamente gli elenchi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27872,8 +27872,8 @@
       <tuv lang="EN">
         <seg>For processing data in lists, the program needs to know where in the spreadsheet the table is.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20161122T124000Z" creationid="Andrea" creationdate="20160808T095520Z">
-        <seg>Per elaborare dati all'interno di elenchi, il programma richiede l'ubicazione della tabella all'interno del foglio di calcolo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181130T143520Z" creationid="Andrea" creationdate="20160808T095520Z">
+        <seg>Per elaborare dati all'interno di elenchi, il programma richiede l'ubicazione della tabella all'interno del foglio elettronico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27984,8 +27984,8 @@
       <tuv lang="EN">
         <seg>For the simplest case, where data is contained in a Calc spreadsheet, Calc offers sorting functions that do not require the &lt;f0&gt;Pivot Table&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181130T141205Z" creationid="Andrea" creationdate="20160808T095350Z">
-        <seg>aaaaPer i casi più semplici, nei quali i dati si trovano in un foglio di calcolo Calc, il programma stesso offre funzioni di ordinamento che non richiedono una &lt;f0&gt;tabella pivot&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181130T143235Z" creationid="Andrea" creationdate="20160808T095350Z">
+        <seg>Per i casi più semplici, nei quali i dati si trovano in un foglio elettronico di Calc, il programma stesso offre funzioni di ordinamento che non richiedono una &lt;f0&gt;tabella pivot&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35737,8 +35737,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>It uses the following logic: Starting from the cell you have selected (which must be within your list), Calc checks the surrounding cells in all 4 directions (left, right, above, below).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T113258Z" creationid="Andrea" creationdate="20160808T100145Z">
-        <seg>Viene adottata la logica seguente: a partire dalla cella selezionata (che deve essere contenuta all'interno del vostro elenco), Calc controlla le celle circostanti in tutt'e quattro le direzioni (sinistra, destra, sopra, sotto).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181130T143813Z" creationid="Andrea" creationdate="20160808T100145Z">
+        <seg>aaaaaaaaaaaaViene adottata la logica seguente: a partire dalla cella selezionata (che deve essere contenuta all'interno del vostro elenco), Calc controlla le celle circostanti in tutt'e quattro le direzioni (sinistra, destra, sopra, sotto).</seg>
       </tuv>
     </tu>
     <tu>
@@ -56467,8 +56467,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The table can be anywhere in the sheet, in any position.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T113148Z" creationid="Andrea" creationdate="20160808T095611Z">
-        <seg>La tabella può trovarsi ovunque nel foglio di calcolo, in qualsiasi posizione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181130T143648Z" creationid="Andrea" creationdate="20160808T095611Z">
+        <seg>La tabella può trovarsi ovunque nel foglio, in qualsiasi posizione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62859,8 +62859,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Using &lt;f1&gt;Pivot Tables,&lt;/f1&gt; you can view different summaries of the source data, display the details of areas of interest, and create reports, whether you are a beginner, an intermediate or advanced user.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181130T120151Z" creationid="Andrea" creationdate="20160808T094438Z">
-        <seg>Utilizzando le &lt;f1&gt;Tabelle pivot&lt;/f1&gt; potete visualizzare diversi riepiloghi dei dati di origine, nonché i dettagli delle aree d'interesse; potete inoltre creare rapporti, indipendentemente dal fatto che siate principianti o utenti esperti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181130T143308Z" creationid="Andrea" creationdate="20160808T094438Z">
+        <seg>Utilizzando le &lt;f1&gt;tabelle pivot&lt;/f1&gt; potete visualizzare diversi riepiloghi dei dati di origine, nonché i dettagli delle aree d'interesse; potete inoltre creare rapporti, indipendentemente dal fatto che siate principianti o utenti esperti.</seg>
       </tuv>
     </tu>
     <tu>
