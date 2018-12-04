@@ -52635,8 +52635,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The border is recognized if the program discovers an empty row or column, or if it hits the left or upper border of the spreadsheet.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181204T093140Z" creationid="Andrea" creationdate="20160808T100410Z">
-        <seg>aaaaIl confine dell'elenco viene identificato con la prima riga o colonna vuota rilevata, oppure con il limite sinistro o superiore del foglio di calcolo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181204T095832Z" creationid="Andrea" creationdate="20160808T100410Z">
+        <seg>Il confine dell'elenco viene identificato con la prima riga o colonna vuota rilevata, oppure con il limite sinistro o superiore del foglio elettronico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58363,8 +58363,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>This means that the described functions can only work correctly if there are no empty rows or columns in your list.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T113427Z" creationid="Andrea" creationdate="20160808T111254Z">
-        <seg>Ciò significa che le funzioni descritte vengono eseguite correttamente solo in assenza di righe o colonne vuote,</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181204T095837Z" creationid="Andrea" creationdate="20160808T111254Z">
+        <seg>aaaaCiò significa che le funzioni descritte vengono eseguite correttamente solo in assenza di righe o colonne vuote,</seg>
       </tuv>
     </tu>
     <tu>
