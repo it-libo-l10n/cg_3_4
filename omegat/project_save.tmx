@@ -10856,8 +10856,8 @@
       <tuv lang="EN">
         <seg>A registered data source in &lt;f0&gt;LibreOffice&lt;/f0&gt; is a connection to data held in a database outside Calc.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T152837Z" creationid="Andrea" creationdate="20160813T111200Z">
-        <seg>Una sorgente dati registrata in &lt;f0&gt;LibreOffice&lt;/f0&gt; è una connessione a dati contenuti in un database esterno a Calc.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181206T104213Z" creationid="Andrea" creationdate="20160813T111200Z">
+        <seg>aaaaUna sorgente dati registrata in &lt;f0&gt;LibreOffice&lt;/f0&gt; è una connessione a dati contenuti in un database esterno a Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53579,8 +53579,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The drawback of copying or importing foreign data is that it will not update automatically if there are changes in the source file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T120453Z" creationid="Andrea" creationdate="20160813T110713Z">
-        <seg>Lo svantaggio nell'importazione o nella copia di dati in formato non nativo è che questi non verranno aggiornati automaticamente in caso di modifiche nel file di origine.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181206T103947Z" creationid="Andrea" creationdate="20160813T110713Z">
+        <seg>Lo svantaggio nella copia o nell'importazione di dati in formato non nativo è che questi non verranno aggiornati automaticamente in caso di modifiche nel file di origine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65195,8 +65195,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>With a Calc file you were previously limited to 65,535 rows but this has been expanded to 1,048,576 rows.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T120607Z" creationid="Andrea" creationdate="20160813T111009Z">
-        <seg>Nelle versioni precedenti di Calc, un file aveva un limite di 65.535 righe. Ora il limite è stato elevato a 1.048.576 righe.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181206T104146Z" creationid="Andrea" creationdate="20160813T111009Z">
+        <seg>Nelle versioni precedenti di Calc, un file aveva un limite di 65.535 righe; ora il limite è stato portato a 1.048.576 righe.</seg>
       </tuv>
     </tu>
     <tu>
