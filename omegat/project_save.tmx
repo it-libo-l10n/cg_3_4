@@ -7104,8 +7104,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Row Fields&lt;/f0&gt; and &lt;f1&gt;Column Fields&lt;/f1&gt; indicate from which groups the result will be sorted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181207T095708Z" creationid="Andrea" creationdate="20160828T213253Z">
-        <seg>aaaa&lt;f0&gt;Campi riga&lt;/f0&gt; e i &lt;f1&gt;Campi colonna&lt;/f1&gt; indicano i gruppi in base ai quali verranno ordinati i risultati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181207T111021Z" creationid="Andrea" creationdate="20160828T213253Z">
+        <seg>I &lt;f0&gt;Campi riga&lt;/f0&gt; e i &lt;f1&gt;Campi colonna&lt;/f1&gt; indicano i gruppi in base ai quali verranno ordinati i risultati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27184,8 +27184,8 @@
       <tuv lang="EN">
         <seg>For example, if you drag &lt;f0&gt;region&lt;/f0&gt; and &lt;f1&gt;employee&lt;/f1&gt; into the &lt;f2&gt;Row Fields&lt;/f2&gt; area, the sum will be divided into the employees.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T154956Z" creationid="Andrea" creationdate="20160828T213744Z">
-        <seg>Per esempio, se trascinate i campi &lt;f0&gt;Regione&lt;/f0&gt; e &lt;f1&gt;Impiegato&lt;/f1&gt; nell'area &lt;f2&gt;Campi riga&lt;/f2&gt; la somma sarà suddivisa per impiegato.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181207T111616Z" creationid="Andrea" creationdate="20160828T213744Z">
+        <seg>aaaaPer esempio, se trascinate i campi &lt;f0&gt;Regione&lt;/f0&gt; e &lt;f1&gt;Impiegato&lt;/f1&gt; nell'area &lt;f2&gt;Campi riga&lt;/f2&gt; la somma sarà suddivisa per impiegato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39186,8 +39186,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Often more than one field is used at a time to get partial sums for rows or columns.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T154826Z" creationid="Andrea" creationdate="20160828T213408Z">
-        <seg>Spesso vengono usati più campi contemporaneamente per ottenere somme parziali per righe o colonne.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181207T111313Z" creationid="Andrea" creationdate="20160828T213408Z">
+        <seg>Spesso si utilizzano più campi contemporaneamente per ottenere somme parziali per righe o colonne.</seg>
       </tuv>
     </tu>
     <tu>
