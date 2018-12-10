@@ -31528,8 +31528,8 @@
       <tuv lang="EN">
         <seg>If this option is not chosen, then the &lt;f2&gt;Pivot Table&lt;/f2&gt; inserts &lt;f3&gt;(empty)&lt;/f3&gt; (see Figure &lt;t4&gt;187&lt;/t4&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T181448Z" creationid="Elisabetta Manuele" creationdate="20170228T170806Z">
-        <seg>Se l'opzione non viene selezionata la &lt;f2&gt;tabella pivot&lt;/f2&gt; inserisce la voce &lt;f3&gt;'vuoto'&lt;/f3&gt; tra parentesi (vuoto) (Figura &lt;t4&gt;187&lt;/t4&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181210T170002Z" creationid="Elisabetta Manuele" creationdate="20170228T170806Z">
+        <seg>Se l'opzione non viene selezionata la &lt;f2&gt;tabella pivot&lt;/f2&gt; inserisce la voce &lt;f3&gt;(vuoto)&lt;/f3&gt; (vedete &lt;t4&gt;Figura 187&lt;/t4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -55067,8 +55067,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The option &lt;f0&gt;Identify categories&lt;/f0&gt; ensures that in this example rows 3 and 4 are included for the product &lt;f1&gt;Apples&lt;/f1&gt; and row 6 is included for &lt;f2&gt;Pears&lt;/f2&gt; (see Figure &lt;t3&gt;186&lt;/t3&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T171018Z" creationid="Elisabetta Manuele" creationdate="20170228T171018Z">
-        <seg>L'opzione &lt;f0&gt;Individua categorie&lt;/f0&gt; di questo esempio, assicura che le righe 3 e 4 vengano assegnate al prodotto &lt;f1&gt;Mele&lt;/f1&gt; e la riga 6 al prodotto &lt;f2&gt;Pere&lt;/f2&gt; (Figura &lt;t3&gt;186&lt;/t3&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181210T170321Z" creationid="Elisabetta Manuele" creationdate="20170228T171018Z">
+        <seg>aaaaaaaaaaaaaaaaL'opzione &lt;f0&gt;Individua categorie&lt;/f0&gt; di questo esempio, assicura che le righe 3 e 4 vengano assegnate al prodotto &lt;f1&gt;Mele&lt;/f1&gt; e la riga 6 al prodotto &lt;f2&gt;Pere&lt;/f2&gt; (Figura &lt;t3&gt;186&lt;/t3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -65355,8 +65355,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>With this option selected, if the source data has missing entries in a list and does not meet the recommended data structure (see &lt;t0&gt;Figure 185&lt;/t0&gt;), the &lt;f1&gt;Pivot Table&lt;/f1&gt; adds it to the listed category above it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T170547Z" creationid="Elisabetta Manuele" creationdate="20170228T170547Z">
-        <seg>Selezionando quest'opzione, se i dati sorgente contengono un elenco con voci mancanti, e quindi non soddisfano la struttura dati consigliata (Figura &lt;t0&gt;185&lt;/t0&gt;), la &lt;f1&gt;Tabella pivot&lt;/f1&gt; li assegnerà automaticamente alla categoria della riga superiore.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181210T165633Z" creationid="Elisabetta Manuele" creationdate="20170228T170547Z">
+        <seg>Selezionando questa opzione, se i dati sorgente contengono un elenco con voci mancanti, e quindi non soddisfano la struttura dati consigliata (vedete &lt;t0&gt;Figura 185&lt;/t0&gt;), la &lt;f1&gt;tabella pivot&lt;/f1&gt; li assegnerà automaticamente alla categoria della riga superiore.</seg>
       </tuv>
     </tu>
     <tu>
