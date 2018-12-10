@@ -48162,8 +48162,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Selecting &lt;f6&gt;Results to&lt;/f6&gt; as &lt;f7&gt;- new sheet –&lt;/f7&gt; &lt;s8/&gt;adds a new sheet to the spreadsheet file and places the results there.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181210T111054Z" creationid="Elisabetta Manuele" creationdate="20170228T165119Z">
-        <seg>aaaaScegliendo la voce &lt;f6&gt;– Nuovo foglio –&lt;/f6&gt; per l'opzione &lt;f7&gt;Risultato in&lt;/f7&gt; &lt;s8/&gt;viene inserito un nuovo foglio al file del foglio di lavoro in cui saranno visualizzati i risultati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181210T113243Z" creationid="Elisabetta Manuele" creationdate="20170228T165119Z">
+        <seg>Impostando l'opzione &lt;f6&gt;Risultato in&lt;/f6&gt; come &lt;f7&gt;– nuovo foglio –&lt;/f7&gt; &lt;s8/&gt;viene inserito un nuovo foglio in cui saranno visualizzati i risultati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54907,8 +54907,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The new sheet is named using the format &lt;f9&gt;Pivot Table_sheet name_X&lt;/f9&gt;; where X is the number of the table created, 1 for first, 2 for second and so on.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170228T165427Z" creationid="Elisabetta Manuele" creationdate="20170228T165427Z">
-        <seg>Il nome del nuovo foglio viene assegnato in base al formato &lt;f9&gt;Tabella pivot_Nome foglio_X&lt;/f9&gt;, dove X rappresenta il numero della tabella creata, 1 per la prima, 2 per la seconda, ecc.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181210T113246Z" creationid="Elisabetta Manuele" creationdate="20170228T165427Z">
+        <seg>aaaaIl nome del nuovo foglio viene assegnato in base al formato &lt;f9&gt;Tabella pivot_Nome foglio_X&lt;/f9&gt;, dove X rappresenta il numero della tabella creata, 1 per la prima, 2 per la seconda, ecc.</seg>
       </tuv>
     </tu>
     <tu>
