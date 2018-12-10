@@ -22048,8 +22048,8 @@
       <tuv lang="EN">
         <seg>Each new sheet is inserted next to the source sheet.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T180055Z" creationid="Elisabetta Manuele" creationdate="20170306T180055Z">
-        <seg>Ogni nuovo foglio verrà inserito accanto al foglio sorgente, in successione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181210T145205Z" creationid="Elisabetta Manuele" creationdate="20170306T180055Z">
+        <seg>aaaaOgni nuovo foglio verrà inserito accanto al foglio sorgente, in successione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27992,8 +27992,8 @@
       <tuv lang="EN">
         <seg>For the source shown in Figure 3, the new sheet for the first table produced, would be named &lt;f10&gt;Pivot Table_Umsatzliste_1&lt;/f10&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181210T132042Z" creationid="Elisabetta Manuele" creationdate="20170228T165812Z">
-        <seg>aaaaLa sorgente visualizzata nel campo 'Selezione da' della  Figura 3, rappresenta il nuovo foglio generato per la prima tabella e denominato &lt;f10&gt;Tabella pivot_lista_clienti_fatturato_1&lt;/f10&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181210T145203Z" creationid="Elisabetta Manuele" creationdate="20170228T165812Z">
+        <seg>Per la sorgente mostrata in Figura 181, il nuovo foglio generato per la prima tabella assumerebbe il nome &lt;f10&gt;Tabella pivot_lista-clienti-fatturato_1&lt;/f10&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54907,8 +54907,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The new sheet is named using the format &lt;f9&gt;Pivot Table_sheet name_X&lt;/f9&gt;; where X is the number of the table created, 1 for first, 2 for second and so on.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181210T132040Z" creationid="Elisabetta Manuele" creationdate="20170228T165427Z">
-        <seg>Il nome del nuovo foglio viene assegnato in base al formato &lt;f9&gt;tabella pivot_nome foglio_X&lt;/f9&gt;, dove X rappresenta il numero della tabella creata, 1 per la prima, 2 per la seconda, ecc.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181210T144951Z" creationid="Elisabetta Manuele" creationdate="20170228T165427Z">
+        <seg>Il nome del nuovo foglio viene assegnato in base al formato &lt;f9&gt;Tabella pivot_nome foglio_X&lt;/f9&gt;, dove X rappresenta il numero della tabella creata, 1 per la prima, 2 per la seconda, ecc.</seg>
       </tuv>
     </tu>
     <tu>
