@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -21000,8 +21000,8 @@
       <tuv lang="EN">
         <seg>Depending on the setting for &lt;f1&gt;Type&lt;/f1&gt;, you may have to choose definitions for &lt;f2&gt;Base field&lt;/f2&gt; and &lt;f3&gt;Base item&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181212T185115Z" creationid="Elisabetta Manuele" creationdate="20170301T160612Z">
-        <seg>aaaaaaaaaaaaaaaaIn base all'impostazione della voce &lt;f1&gt;Tipo&lt;/f1&gt;, si possono selezionare ulteriori informazioni per un &lt;f2&gt;Campo base&lt;/f2&gt; e un &lt;f3&gt;Elemento base&lt;/f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181213T141752Z" creationid="Elisabetta Manuele" creationdate="20170301T160612Z">
+        <seg>In base all'impostazione della voce &lt;f1&gt;Tipo&lt;/f1&gt;, potrebbe essere necessario scegliere altre definizioni per le voci &lt;f2&gt;Campo base&lt;/f2&gt; e &lt;f3&gt;Elemento base&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24208,8 +24208,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;189&lt;/seq0&gt;: Example choices for Base field and item</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T160651Z" creationid="Elisabetta Manuele" creationdate="20170301T160651Z">
-        <seg>Figura &lt;seq0&gt;189&lt;/seq0&gt;: esempio di selezioni per Campo ed Elemento base</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181213T142024Z" creationid="Elisabetta Manuele" creationdate="20170301T160651Z">
+        <seg>Figura &lt;seq0&gt;189&lt;/seq0&gt;: esempio di selezioni per le voci Campo base ed Elemento base</seg>
       </tuv>
     </tu>
     <tu>
@@ -56459,8 +56459,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The table below lists the possible types of displayed value and associated base field and item, together with a note on usage.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T160722Z" creationid="Elisabetta Manuele" creationdate="20170301T160722Z">
-        <seg>La tabella seguente elenca i possibili tipi di valore visualizzato con i relativi Campo ed Elemento base, corredati da una nota d'uso.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181213T142027Z" creationid="Elisabetta Manuele" creationdate="20170301T160722Z">
+        <seg>aaaaLa tabella seguente elenca i possibili tipi di valore visualizzato con i relativi Campo ed Elemento base, corredati da una nota d'uso.</seg>
       </tuv>
     </tu>
     <tu>
