@@ -9832,16 +9832,16 @@
       <tuv lang="EN">
         <seg>=GETPIVOTDATA("sales",A1,"employee","Hans","category","sailing")</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T173919Z" creationid="Elisabetta Manuele" creationdate="20170306T173919Z">
-        <seg>=GETPIVOTDATA ("vendite",A1,"impiegato","Brigitta","categoria","vela")</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181218T134228Z" creationid="Elisabetta Manuele" creationdate="20170306T173919Z">
+        <seg>=GETPIVOTDATA ("vendite",A1,"impiegato","Brigida","categoria","vela")</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>=GETPIVOTDATA(A1,"sales employee[Hans] category[sailing]")</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T174446Z" creationid="Elisabetta Manuele" creationdate="20170306T174446Z">
-        <seg>=GETPIVOTDATA(A1,"vendite impiegato[Brigitta] categoria[vela]")</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181218T134256Z" creationid="Elisabetta Manuele" creationdate="20170306T174446Z">
+        <seg>=GETPIVOTDATA(A1,"vendite impiegato[Brigida] categoria[vela]")</seg>
       </tuv>
     </tu>
     <tu>
@@ -14416,8 +14416,8 @@
       <tuv lang="EN">
         <seg>Brigitte)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181214T114704Z" creationid="Elisabetta Manuele" creationdate="20170301T161846Z">
-        <seg>Brigitta).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181218T134043Z" creationid="Elisabetta Manuele" creationdate="20170301T161846Z">
+        <seg>Brigida).</seg>
       </tuv>
     </tu>
     <tu>
@@ -24552,8 +24552,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;227&lt;/seq0&gt;: AutoFilter applied and Brigitte selected in the Employee column</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160527T153559Z" creationid="michele" creationdate="20160527T153559Z">
-        <seg>Figura &lt;seq0&gt;227&lt;/seq0&gt;: Filtro automatico applicato e Brigitta selezionata nella colonna Impiegati</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181218T134327Z" creationid="michele" creationdate="20160527T153559Z">
+        <seg>Figura &lt;seq0&gt;227&lt;/seq0&gt;: Filtro automatico applicato e Brigida selezionata nella colonna Impiegati</seg>
       </tuv>
     </tu>
     <tu>
@@ -28392,8 +28392,8 @@
       <tuv lang="EN">
         <seg>From each result, its reference value is subtracted, and the difference is divided by the reference value (for example, sales of the employees as relative difference from the sales of Brigitte; see &lt;t0&gt;Figure 192&lt;/t0&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181214T134549Z" creationid="Elisabetta Manuele" creationdate="20170301T162028Z">
-        <seg>Da ogni risultato viene sottratto il relativo valore di riferimento e la differenza viene divisa per il valore di riferimento (per es., le vendite realizzate dagli impiegati come differenza relativa rispetto alle vendite realizzate da Brigitta; vedete la &lt;t0&gt;Figura 192&lt;/t0&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181218T134051Z" creationid="Elisabetta Manuele" creationdate="20170301T162028Z">
+        <seg>Da ogni risultato viene sottratto il relativo valore di riferimento e la differenza viene divisa per il valore di riferimento (per es., le vendite realizzate dagli impiegati come differenza relativa rispetto alle vendite realizzate da Brigida; vedete la &lt;t0&gt;Figura 192&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -31384,8 +31384,8 @@
       <tuv lang="EN">
         <seg>If the underlying data or the layout of the &lt;f0&gt;Pivot Table&lt;/f0&gt; changes, then you must take into account that the sales value for Hans might appear in a different cell.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T171403Z" creationid="Elisabetta Manuele" creationdate="20170306T171403Z">
-        <seg>Se vengono modificati i dati di base o il layout della &lt;f0&gt;tabella pivot&lt;/f0&gt;, allora i valori relativi alle vendite di Brigitta potrebbero comparire in una cella diversa.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181218T134152Z" creationid="Elisabetta Manuele" creationdate="20170306T171403Z">
+        <seg>Se vengono modificati i dati di base o il layout della &lt;f0&gt;tabella pivot&lt;/f0&gt;, allora i valori relativi alle vendite di Brigida potrebbero comparire in una cella diversa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32968,8 +32968,8 @@
       <tuv lang="EN">
         <seg>In Figure &lt;t1&gt;220&lt;/t1&gt;, the cell &lt;f2&gt;C6&lt;/f2&gt; contains the sum of the sales values of the employee Hans in the category Sailing.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T171137Z" creationid="Elisabetta Manuele" creationdate="20170306T171137Z">
-        <seg>Nella figura &lt;t1&gt;220&lt;/t1&gt; la cella &lt;f2&gt;C6&lt;/f2&gt; visualizza il totale dei valori relativi alle vendite concluse dall'impiegata Brigitta nella categoria Tennis.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181218T134132Z" creationid="Elisabetta Manuele" creationdate="20170306T171137Z">
+        <seg>Nella figura &lt;t1&gt;220&lt;/t1&gt; la cella &lt;f2&gt;C6&lt;/f2&gt; visualizza il totale dei valori relativi alle vendite concluse dall'impiegata Brigida nella categoria Tennis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34265,16 +34265,16 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>In the example in Figure &lt;t0&gt;223&lt;/t0&gt;, where we want to get the partial sum of Hans for Sailing, the formula in cell &lt;f1&gt;C12&lt;/f1&gt; would look like this:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T174404Z" creationid="Elisabetta Manuele" creationdate="20170306T174404Z">
-        <seg>Nell'esempio della figura &lt;t0&gt;223&lt;/t0&gt;, per ottenere la somma parziale del ricavo di Brigitta relativamente alla voce Vela, la formula nella cella &lt;f1&gt;C12&lt;/f1&gt; avrà un aspetto analogo al seguente:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181218T134249Z" creationid="Elisabetta Manuele" creationdate="20170306T174404Z">
+        <seg>Nell'esempio della figura &lt;t0&gt;223&lt;/t0&gt;, per ottenere la somma parziale del ricavo di Brigida relativamente alla voce Vela, la formula nella cella &lt;f1&gt;C12&lt;/f1&gt; avrà un aspetto analogo al seguente:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>In the example in Figure &lt;t2&gt;222&lt;/t2&gt;, where we want to get the partial sum of Hans for sailing, the formula in cell &lt;f3&gt;C12&lt;/f3&gt; would look like this:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T173903Z" creationid="Elisabetta Manuele" creationdate="20170306T173903Z">
-        <seg>Nell'esempio della figura &lt;t2&gt;222&lt;/t2&gt;, per ottenere la somma parziale del ricavo di Brigitta relativamente alla voce Vela, la formula nella cella &lt;f3&gt;C12&lt;/f3&gt; avrà un aspetto analogo al seguente:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181218T134218Z" creationid="Elisabetta Manuele" creationdate="20170306T173903Z">
+        <seg>Nell'esempio della figura &lt;t2&gt;222&lt;/t2&gt;, per ottenere la somma parziale del ricavo di Brigida relativamente alla voce Vela, la formula nella cella &lt;f3&gt;C12&lt;/f3&gt; avrà un aspetto analogo al seguente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -48314,16 +48314,16 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Selection of an element from the selected base field (for example, Brigitte)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181214T103431Z" creationid="Elisabetta Manuele" creationdate="20170301T161221Z">
-        <seg>Selezione di un elemento dal Campo base prescelto (per es., Brigitta).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181218T134027Z" creationid="Elisabetta Manuele" creationdate="20170301T161221Z">
+        <seg>Selezione di un elemento dal Campo base prescelto (per es., Brigida).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Selection of an element from the selected base field (for example, Brigitte).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181214T103457Z" creationid="Elisabetta Manuele" creationdate="20170301T160925Z">
-        <seg>Selezione di un elemento dal Campo base prescelto (per es., Brigitta).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181218T134012Z" creationid="Elisabetta Manuele" creationdate="20170301T160925Z">
+        <seg>Selezione di un elemento dal Campo base prescelto (per es., Brigida).</seg>
       </tuv>
     </tu>
     <tu>
@@ -55723,8 +55723,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The result is a percentage ratio of the value of the base field to the base item (for example, sales result of the employee relative to the sales result of Brigitte; see &lt;t0&gt;Figure 191&lt;/t0&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181214T113002Z" creationid="Elisabetta Manuele" creationdate="20170301T161517Z">
-        <seg>Il risultato consiste nel rapporto percentuale del valore relativo al Campo base rispetto a quello relativo all'Elemento base (per es., il risultato delle vendite realizzato dagli impiegati in rapporto a quello realizzato da Brigitta; vedete la &lt;t0&gt;Figura 191&lt;/t0&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181218T134034Z" creationid="Elisabetta Manuele" creationdate="20170301T161517Z">
+        <seg>Il risultato consiste nel rapporto percentuale del valore relativo al Campo base rispetto a quello relativo all'Elemento base (per es., il risultato delle vendite realizzato dagli impiegati in rapporto a quello realizzato da Brigida; vedete la &lt;t0&gt;Figura 191&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -55763,8 +55763,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The result is the difference between the result of the Base field and the Base item (for example, sales volume of the employees against the sales volume of Brigitte; see &lt;t0&gt;Figure 190&lt;/t0&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181213T165942Z" creationid="Elisabetta Manuele" creationdate="20170301T161012Z">
-        <seg>Il risultato consiste nella differenza tra il risultato relativo al Campo base e quello relativo all'Elemento base (per es., il volume di vendita realizzato dagli impiegati rispetto a quello realizzato da Brigitta; vedete la &lt;t0&gt;Figura 190&lt;/t0&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181218T134018Z" creationid="Elisabetta Manuele" creationdate="20170301T161012Z">
+        <seg>Il risultato consiste nella differenza tra il risultato relativo al Campo base e quello relativo all'Elemento base (per es., il volume di vendita realizzato dagli impiegati rispetto a quello realizzato da Brigida; vedete la &lt;t0&gt;Figura 190&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -60403,8 +60403,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>To obtain a subtotal for our sales information, partially shown in Figure &lt;t7&gt;226&lt;/t7&gt;, for the employee Brigitte we must first implement an AutoFilter on the data, selecting Brigitte in the Employee field afterwards as shown in Figure &lt;t8&gt;227&lt;/t8&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160527T153501Z" creationid="michele" creationdate="20160527T153501Z">
-        <seg>Per ottenere un subtotale per le informazioni di vendita, parzialmente visualizzato nell'immagine &lt;t7&gt;226&lt;/t7&gt;, per l'impiegata Brigitta dobbiamo prima implementare un filtro automatico sui dati, successivamente selezionando Brigitta nel campo Impiegati come mostrato in Figura &lt;t8&gt;227&lt;/t8&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181218T134319Z" creationid="michele" creationdate="20160527T153501Z">
+        <seg>Per ottenere un subtotale per le informazioni di vendita, parzialmente visualizzato nell'immagine &lt;t7&gt;226&lt;/t7&gt;, per l'impiegata Brigida dobbiamo prima implementare un filtro automatico sui dati, successivamente selezionando Brigida nel campo Impiegati come mostrato in Figura &lt;t8&gt;227&lt;/t8&gt;.</seg>
       </tuv>
     </tu>
     <tu>
