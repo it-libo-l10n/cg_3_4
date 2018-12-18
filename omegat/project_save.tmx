@@ -24272,8 +24272,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;196&lt;/seq0&gt;: Preferences dialog of a row or column field</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T163754Z" creationid="Elisabetta Manuele" creationdate="20170301T163754Z">
-        <seg>Figura &lt;seq0&gt;196&lt;/seq0&gt;: finestra di dialogo delle preferenze per un campo riga o colonna</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181218T105306Z" creationid="Elisabetta Manuele" creationdate="20170301T163754Z">
+        <seg>Figura &lt;seq0&gt;196&lt;/seq0&gt;: finestra di dialogo delle preferenze per un campo riga o un campo colonna</seg>
       </tuv>
     </tu>
     <tu>
@@ -38578,8 +38578,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Normally, the &lt;f0&gt;Pivot Table&lt;/f0&gt; does not show a row or column for categories that have no entries in the underlying database.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T181847Z" creationid="Elisabetta Manuele" creationdate="20170301T163828Z">
-        <seg>Solitamente la &lt;f0&gt;tabella pivot&lt;/f0&gt; non consente la visualizzazione di righe o colonne per le categorie prive delle voci corrispondenti nel database sottostante.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181218T105351Z" creationid="Elisabetta Manuele" creationdate="20170301T163828Z">
+        <seg>aaaaSolitamente la &lt;f0&gt;tabella pivot&lt;/f0&gt; non consente la visualizzazione di righe o colonne per le categorie prive delle voci corrispondenti nel database sottostante.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66315,8 +66315,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>You can choose the type of subtotal by selecting &lt;f0&gt;User-defined&lt;/f0&gt;&lt;f1&gt; and then&lt;/f1&gt; clicking the type of subtotal you want to calculate from the list.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181218T102637Z" creationid="Elisabetta Manuele" creationdate="20170301T163653Z">
-        <seg>aaaaTra i vari tipi di subtotale selezionate l'opzione &lt;f0&gt;Personalizzato&lt;/f0&gt;,&lt;f1&gt;quindi&lt;/f1&gt; scegliete dall'elenco il tipo di subtotale desiderato.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181218T104816Z" creationid="Elisabetta Manuele" creationdate="20170301T163653Z">
+        <seg>Potete scegliere il tipo di subtotale selezionando l'opzione &lt;f0&gt;Personalizzato&lt;/f0&gt;, e facendo &lt;f1&gt;poi&lt;/f1&gt; clic sul tipo di subtotale desiderato tra quelli presenti nell'elenco.</seg>
       </tuv>
     </tu>
     <tu>
