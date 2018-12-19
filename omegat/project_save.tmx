@@ -10416,8 +10416,8 @@
       <tuv lang="EN">
         <seg>A field removed in error cannot be recovered; it is necessary to return to the DataPilot to replace it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T182113Z" creationid="Elisabetta Manuele" creationdate="20170301T172045Z">
-        <seg>Un campo eliminato erroneamente non può essere ripristinato, a questo scopo è necessario tornare alla finestra Tabella pivot.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181219T160706Z" creationid="Elisabetta Manuele" creationdate="20170301T172045Z">
+        <seg>Un campo eliminato erroneamente non può essere ripristinato; a questo scopo è necessario tornare alla finestra di dialogo Tabella pivot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24328,8 +24328,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;201&lt;/seq0&gt;: Field dragged out of the pivot table</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T172126Z" creationid="Elisabetta Manuele" creationdate="20170301T172126Z">
-        <seg>Figura &lt;seq0&gt;201&lt;/seq0&gt;: campo trascinato all'esterno della Tabella pivot</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181219T160827Z" creationid="Elisabetta Manuele" creationdate="20170301T172126Z">
+        <seg>Figura &lt;seq0&gt;201&lt;/seq0&gt;: campo trascinato all'esterno della tabella pivot</seg>
       </tuv>
     </tu>
     <tu>
@@ -29072,8 +29072,8 @@
       <tuv lang="EN">
         <seg>Grouping rows or columns</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T172204Z" creationid="Elisabetta Manuele" creationdate="20170301T172204Z">
-        <seg>Raggruppare righe o colonne</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181219T161001Z" creationid="Elisabetta Manuele" creationdate="20170301T172204Z">
+        <seg>Raggruppamento di righe o colonne</seg>
       </tuv>
     </tu>
     <tu>
@@ -29608,8 +29608,8 @@
       <tuv lang="EN">
         <seg>How the grouping function works is &lt;s8/&gt;&lt;t9/&gt;determined mainly by the type of values that have to be grouped.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T172507Z" creationid="Elisabetta Manuele" creationdate="20170301T172507Z">
-        <seg>L'azione della funzione di raggruppamento è &lt;s8/&gt;&lt;t9/&gt;determinata principalmente dal tipo di valori da raggruppare.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181219T162112Z" creationid="Elisabetta Manuele" creationdate="20170301T172507Z">
+        <seg>aaaaL'azione della funzione di raggruppamento è &lt;s8/&gt;&lt;t9/&gt;determinata principalmente dal tipo di valori da raggruppare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53123,8 +53123,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The cursor changes to that shown in &lt;t0&gt;Figure 201&lt;/t0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T172015Z" creationid="Elisabetta Manuele" creationdate="20170301T172015Z">
-        <seg>Il cursore assumerà la forma evidenziata nella figura &lt;t0&gt;201&lt;/t0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181219T160114Z" creationid="Elisabetta Manuele" creationdate="20170301T172015Z">
+        <seg>Il puntatore assumerà la forma evidenziata in &lt;t0&gt;Figura 201&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53139,8 +53139,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The cursor will change shape from its starting shape (horizontal or vertical block on the arrow head) to the opposite if moving to a different field, such as from row to column, and it is OK to drop.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181219T144242Z" creationid="Elisabetta Manuele" creationdate="20170301T171646Z">
-        <seg>Lo spostamento dei campi in un'altra posizione, per es. da una riga a una colonna, sarà possibile quando la barra orizzontale o verticale visibile sulla freccia del cursore modificherà la propria forma capovolgendosi.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181219T160244Z" creationid="Elisabetta Manuele" creationdate="20170301T171646Z">
+        <seg>Lo spostamento dei campi in un'altra posizione, per es. da una riga a una colonna, sarà possibile quando la barra orizzontale o verticale visibile sulla freccia del puntatore modificherà la propria forma capovolgendosi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65667,8 +65667,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>You can access grouping by selecting &lt;f0&gt;Data &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Group and Outline &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Group&lt;/f6&gt; from the menu bar, or by pressing &lt;f7&gt;F12&lt;/f7&gt; after selecting the correct cell area.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T172440Z" creationid="Elisabetta Manuele" creationdate="20170301T172440Z">
-        <seg>I gruppi sono accessibili scegliendo la voce &lt;f0&gt;Dati &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Raggruppa e struttura &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Gruppo&lt;/f6&gt; dalla barra dei menu, o premendo il tasto &lt;f7&gt;F12&lt;/f7&gt; dopo aver selezionato l'area celle appropriata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181219T162109Z" creationid="Elisabetta Manuele" creationdate="20170301T172440Z">
+        <seg>I gruppi sono accessibili scegliendo la voce &lt;f0&gt;Dati &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Raggruppa e struttura &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Gruppo&lt;/f6&gt; dalla barra dei menu, oppure premendo il tasto &lt;f7&gt;F12&lt;/f7&gt; dopo aver selezionato l'area celle appropriata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66819,8 +66819,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>You can only carry out grouping on an ungrouped &lt;f0&gt;Pivot Table&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T175615Z" creationid="Elisabetta Manuele" creationdate="20170301T172305Z">
-        <seg>Si possono applicare gruppi solo a &lt;f0&gt;tabelle pivot&lt;/f0&gt; non raggruppate.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181219T161533Z" creationid="Elisabetta Manuele" creationdate="20170301T172305Z">
+        <seg>È possibile applicare dei gruppi solo a &lt;f0&gt;tabelle pivot&lt;/f0&gt; non raggruppate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66883,8 +66883,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>You can remove a column, row, or page field from the Pivot Table by clicking on it and dragging it out of the table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181219T152430Z" creationid="Elisabetta Manuele" creationdate="20170301T171925Z">
-        <seg>aaaaPotete eliminare un Campo colonna, riga o pagina dalla tabella pivot selezionandolo e trascinandolo all'esterno.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181219T155946Z" creationid="Elisabetta Manuele" creationdate="20170301T171925Z">
+        <seg>Potete eliminare un Campo colonna, Campo riga o Campo pagina dalla tabella pivot facendo clic sul campo stesso e trascinandolo all'esterno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69395,8 +69395,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>group rows or columns</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T172150Z" creationid="Elisabetta Manuele" creationdate="20170301T172150Z">
-        <seg>raggruppare righe o colonne</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181219T160857Z" creationid="Elisabetta Manuele" creationdate="20170301T172150Z">
+        <seg>raggruppamento di righe o colonne</seg>
       </tuv>
     </tu>
     <tu>
