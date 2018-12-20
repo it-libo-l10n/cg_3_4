@@ -34305,8 +34305,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>In the field &lt;f0&gt;Group by&lt;/f0&gt; you can enter the class size, this means the interval size (in this example groups of 10 km/h each).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T173902Z" creationid="Elisabetta Manuele" creationdate="20170301T173902Z">
-        <seg>Nell'area &lt;f0&gt;Raggruppa per&lt;/f0&gt; si può inserire la dimensione della classe, cioè l'ampiezza dell'intervallo (nell'esempio in questione i gruppi sono costituiti da un intervallo di valori di 10 Km/h ciascuno)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181220T170245Z" creationid="Elisabetta Manuele" creationdate="20170301T173902Z">
+        <seg>aaaaNell'area &lt;f0&gt;Raggruppa per&lt;/f0&gt; si può inserire la dimensione della classe, cioè l'ampiezza dell'intervallo (nell'esempio in questione i gruppi sono costituiti da un intervallo di valori di 10 Km/h ciascuno)</seg>
       </tuv>
     </tu>
     <tu>
@@ -53387,8 +53387,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The default setting is the whole range from smallest to largest value.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T173820Z" creationid="Elisabetta Manuele" creationdate="20170301T173820Z">
-        <seg>Le impostazioni predefinite prevedono la copertura dell'intero intervallo che separa il valore minimo dal massimo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181220T170243Z" creationid="Elisabetta Manuele" creationdate="20170301T173820Z">
+        <seg>Le impostazioni predefinite prevedono la copertura dell'intero intervallo, dal valore minimo a quello massimo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66507,8 +66507,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>You can define in which value range (start/end) the grouping should take place.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181220T164548Z" creationid="Elisabetta Manuele" creationdate="20170301T173806Z">
-        <seg>aaaaSi può definire l'intervallo di valori limite (Avvia/Termina) entro il quale effettuare il raggruppamento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181220T165918Z" creationid="Elisabetta Manuele" creationdate="20170301T173806Z">
+        <seg>Potete definire l'intervallo di valori (Avvia/Fine) entro il quale effettuare il raggruppamento.</seg>
       </tuv>
     </tu>
     <tu>
