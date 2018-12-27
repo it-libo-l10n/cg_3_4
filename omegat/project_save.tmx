@@ -10320,8 +10320,8 @@
       <tuv lang="EN">
         <seg>A dialog appears allowing you to select the field to use for further subdivision.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181227T150309Z" creationid="Elisabetta Manuele" creationdate="20170303T173552Z">
-        <seg>aaaaCompare una finestra di dialogo che consente di selezionare il campo da utilizzare per un'ulteriore suddivisione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181227T151453Z" creationid="Elisabetta Manuele" creationdate="20170303T173552Z">
+        <seg>Comparirà una finestra di dialogo che consente di selezionare il campo da utilizzare per l'ulteriore suddivisione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24448,8 +24448,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;215&lt;/seq0&gt;: Selecting the field for the subdivision</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T173805Z" creationid="Elisabetta Manuele" creationdate="20170303T173805Z">
-        <seg>Figura &lt;seq0&gt;215&lt;/seq0&gt;: selezione dei campi per la suddivisione</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181227T153213Z" creationid="Elisabetta Manuele" creationdate="20170303T173805Z">
+        <seg>Figura &lt;seq0&gt;215&lt;/seq0&gt;: selezione del campo per la suddivisione</seg>
       </tuv>
     </tu>
     <tu>
@@ -34561,8 +34561,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>In this example, &lt;f0&gt;employee&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T173614Z" creationid="Elisabetta Manuele" creationdate="20170303T173614Z">
-        <seg>In questo esempio, il campo &lt;f0&gt;Impiegato&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181227T151919Z" creationid="Elisabetta Manuele" creationdate="20170303T173614Z">
+        <seg>In questo esempio viene utilizzato il campo &lt;f0&gt;Impiegato&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51467,8 +51467,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Pivot Table&lt;/f0&gt; remembers your selection (in our example the field &lt;f1&gt;employee&lt;/f1&gt;) by adding and hiding the selected field, so that for the next drill down for a category in the field &lt;f2&gt;category&lt;/f2&gt; the dialog does not appear.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T175344Z" creationid="Elisabetta Manuele" creationdate="20170306T175344Z">
-        <seg>La &lt;f0&gt;tabella pivot&lt;/f0&gt; memorizza la selezione (nell'esempio in questione, il campo &lt;f1&gt;Impiegato&lt;/f1&gt;) aggiungendo e nascondendo il campo selezionato, cosicché, per la successiva analisi dettagliata di una voce nel campo &lt;f2&gt;categoria&lt;/f2&gt;, non comparirà la finestra di dialogo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181227T153253Z" creationid="Elisabetta Manuele" creationdate="20170306T175344Z">
+        <seg>aaaaLa &lt;f0&gt;tabella pivot&lt;/f0&gt; memorizza la selezione (nell'esempio in questione, il campo &lt;f1&gt;Impiegato&lt;/f1&gt;) aggiungendo e nascondendo il campo selezionato, cosicché, per la successiva analisi dettagliata di una voce nel campo &lt;f2&gt;categoria&lt;/f2&gt;, non comparirà la finestra di dialogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60115,8 +60115,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>To hide the details again, double-click on the cell &lt;f0&gt;golfing&lt;/f0&gt; or choose &lt;f1&gt;Data &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Group and Outline &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; Hide Details&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170303T173728Z" creationid="Elisabetta Manuele" creationdate="20170303T173728Z">
-        <seg>Per nascondere nuovamente i dettagli, fate doppio clic sulla cella &lt;f0&gt;Golf&lt;/f0&gt; o scegliete la voce &lt;f1&gt;Dati &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Raggruppa e struttura &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; Nascondi dettaglio&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181227T153114Z" creationid="Elisabetta Manuele" creationdate="20170303T173728Z">
+        <seg>Per nascondere nuovamente i dettagli, fate doppio clic sulla cella &lt;f0&gt;golf&lt;/f0&gt; oppure scegliete la voce &lt;f1&gt;Dati &lt;/f1&gt;&lt;f2&gt;&lt;f3&gt;&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; Raggruppa e struttura &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; Nascondi dettaglio&lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
