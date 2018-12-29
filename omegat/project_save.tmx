@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -61995,8 +61995,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Updating (&lt;i0/&gt;refreshing) changed values</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181228T160600Z" creationid="Elisabetta Manuele" creationdate="20170303T184519Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaa&lt;i0/&gt;Aggiornare i valori modificati</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20181229T104153Z" creationid="Elisabetta Manuele" creationdate="20170303T184519Z">
+        <seg>&lt;i0/&gt;Aggiornare valori modificati</seg>
       </tuv>
     </tu>
     <tu>
