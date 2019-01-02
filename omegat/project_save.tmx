@@ -28720,8 +28720,8 @@
       <tuv lang="EN">
         <seg>GETPIVOTDATA(target field, &lt;f0&gt;Pivot Table,&lt;/f0&gt; [ Field name / Element, ... ])</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190102T113627Z" creationid="Elisabetta Manuele" creationdate="20170306T172650Z">
-        <seg>aaaaGETPIVOTDATA(campo di destinazione, &lt;f0&gt;tabella pivot&lt;/f0&gt;, [Nome di campo / Elemento, ...])</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190102T134912Z" creationid="Elisabetta Manuele" creationdate="20170306T172650Z">
+        <seg>GETPIVOTDATA(campo di destinazione, &lt;f0&gt;tabella pivot&lt;/f0&gt;, [Nome di campo / Elemento, ...])</seg>
       </tuv>
     </tu>
     <tu>
@@ -51531,8 +51531,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The &lt;f0&gt;target field&lt;/f0&gt; specifies which data field of the &lt;f1&gt;Pivot Table&lt;/f1&gt; is used within the function.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T183237Z" creationid="Elisabetta Manuele" creationdate="20170306T172812Z">
-        <seg>Il &lt;f0&gt;campo di destinazione&lt;/f0&gt; specifica il campo dati della &lt;f1&gt;tabella pivot&lt;/f1&gt; da utilizzare nella funzione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190102T135128Z" creationid="Elisabetta Manuele" creationdate="20170306T172812Z">
+        <seg>aaaaIl &lt;f0&gt;campo di destinazione&lt;/f0&gt; specifica il campo dati della &lt;f1&gt;tabella pivot&lt;/f1&gt; da utilizzare nella funzione.</seg>
       </tuv>
     </tu>
     <tu>
