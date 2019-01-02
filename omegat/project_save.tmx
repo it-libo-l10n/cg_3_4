@@ -28720,8 +28720,8 @@
       <tuv lang="EN">
         <seg>GETPIVOTDATA(target field, &lt;f0&gt;Pivot Table,&lt;/f0&gt; [ Field name / Element, ... ])</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T172650Z" creationid="Elisabetta Manuele" creationdate="20170306T172650Z">
-        <seg>GETPIVOTDATA(campo di destinazione, &lt;f0&gt;tabella pivot&lt;/f0&gt;, [Nome di campo / Elemento, ...])</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190102T113627Z" creationid="Elisabetta Manuele" creationdate="20170306T172650Z">
+        <seg>aaaaGETPIVOTDATA(campo di destinazione, &lt;f0&gt;tabella pivot&lt;/f0&gt;, [Nome di campo / Elemento, ...])</seg>
       </tuv>
     </tu>
     <tu>
@@ -57851,8 +57851,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>This function can be used with formulas in Calc if you want to reuse the results from the &lt;f1&gt;Pivot Table&lt;/f1&gt; elsewhere in your spreadsheet.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T172544Z" creationid="Elisabetta Manuele" creationdate="20170306T172544Z">
-        <seg>Questa funzione è utilizzabile nelle formule per riassegnare inalterati i risultati dalla &lt;f1&gt;tabella pivot&lt;/f1&gt; a una diversa posizione del foglio di elettronico.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190102T113514Z" creationid="Elisabetta Manuele" creationdate="20170306T172544Z">
+        <seg>Questa funzione è utilizzabile nelle formule per riassegnare inalterati i risultati dalla &lt;f1&gt;tabella pivot&lt;/f1&gt; a una diversa posizione del foglio elettronico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62595,8 +62595,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Use the function GETPIVOTDATA to have a reference to a value inside the &lt;f0&gt;Pivot Table&lt;/f0&gt; by using the specific identifying categories for this value.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190102T102633Z" creationid="Elisabetta Manuele" creationdate="20170306T172509Z">
-        <seg>aaaaLa funzione GETPIVOTDATA consente di restituire un riferimento a un valore all'interno della &lt;f0&gt;tabella pivot&lt;/f0&gt; mediante specifiche categorie identificative di questo valore.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190102T113218Z" creationid="Elisabetta Manuele" creationdate="20170306T172509Z">
+        <seg>La funzione GETPIVOTDATA consente di restituire un riferimento a un valore all'interno della &lt;f0&gt;tabella pivot&lt;/f0&gt; mediante specifiche categorie identificative di questo valore.</seg>
       </tuv>
     </tu>
     <tu>
