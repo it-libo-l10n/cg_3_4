@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24504,8 +24504,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;221&lt;/seq0&gt;: The value that you really want to use can be found now in a different location.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T172331Z" creationid="Elisabetta Manuele" creationdate="20170306T172331Z">
-        <seg>Figura &lt;seq0&gt;221&lt;/seq0&gt;: il valore da utilizzare ora può comparire in una diversa posizione</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190102T094446Z" creationid="Elisabetta Manuele" creationdate="20170306T172331Z">
+        <seg>Figura &lt;seq0&gt;221&lt;/seq0&gt;: il valore da utilizzare si trova ora in una diversa posizione</seg>
       </tuv>
     </tu>
     <tu>
@@ -27240,8 +27240,8 @@
       <tuv lang="EN">
         <seg>For example, in &lt;t2&gt;Figure 221&lt;/t2&gt;, the location is now &lt;f3&gt;C7&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T172247Z" creationid="Elisabetta Manuele" creationdate="20170306T172247Z">
-        <seg>Per esempio, nella figura &lt;t2&gt;221&lt;/t2&gt;, la posizione ora è la cella &lt;f3&gt;C5&lt;/f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190102T093951Z" creationid="Elisabetta Manuele" creationdate="20170306T172247Z">
+        <seg>Per esempio, nella &lt;t2&gt;Figura 221&lt;/t2&gt;, la posizione ora è la cella &lt;f3&gt;C5&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28704,8 +28704,8 @@
       <tuv lang="EN">
         <seg>GETPIVOTDATA function</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T172349Z" creationid="Elisabetta Manuele" creationdate="20170306T172349Z">
-        <seg>funzione GETPIVOTDATA</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190102T094448Z" creationid="Elisabetta Manuele" creationdate="20170306T172349Z">
+        <seg>aaaafunzione GETPIVOTDATA</seg>
       </tuv>
     </tu>
     <tu>
@@ -67795,8 +67795,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Your formula still references the cell &lt;f1&gt;C6&lt;/f1&gt; and therefore uses a wrong value.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181231T191939Z" creationid="Elisabetta Manuele" creationdate="20170306T172154Z">
-        <seg>aaaaaaaaaaaaaaaaLa formula in oggetto fa ancora riferimento alla cella &lt;f1&gt;C6&lt;/f1&gt;, perciò presenterà un valore errato.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190102T093621Z" creationid="Elisabetta Manuele" creationdate="20170306T172154Z">
+        <seg>La formula fa ancora riferimento alla cella &lt;f1&gt;C6&lt;/f1&gt;, perciò presenterà un valore errato.</seg>
       </tuv>
     </tu>
     <tu>
