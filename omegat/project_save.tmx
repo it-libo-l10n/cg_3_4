@@ -32632,16 +32632,16 @@
       <tuv lang="EN">
         <seg>If your &lt;f0&gt;Pivot Table&lt;/f0&gt; has more than one data field, then you have to enter the field name from the underlying data source (for example “sales”) or the field name of the data field itself (for example “sum – sales”).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T173059Z" creationid="Elisabetta Manuele" creationdate="20170306T173059Z">
-        <seg>Se la &lt;f0&gt;tabella pivot&lt;/f0&gt; contiene più campi dati, bisogna inserire il campo dati ricavato dalla sorgente dati di base (per esempio, “Vendite”), oppure il nome di campo del campo dati stesso (per es., “Somma – vendite”).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190102T153632Z" creationid="Elisabetta Manuele" creationdate="20170306T173059Z">
+        <seg>Se la &lt;f0&gt;tabella pivot&lt;/f0&gt; contiene più di un campo dati, dovrete inserire il nome di campo ricavato dalla sorgente dati sottostante (per esempio “vendite”), oppure il nome di campo del campo dati stesso (per esempio “somma – vendite”).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If your &lt;f2&gt;Pivot Table&lt;/f2&gt; has only one data field, this entry is ignored, but you &lt;f3&gt;must&lt;/f3&gt; enter it anyway.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T172922Z" creationid="Elisabetta Manuele" creationdate="20170306T172922Z">
-        <seg>Se la &lt;f2&gt;tabella pivot&lt;/f2&gt; contiene solo un campo dati, questa voce viene ignorata, ma &lt;f3&gt;va comunque inserita&lt;/f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190102T152844Z" creationid="Elisabetta Manuele" creationdate="20170306T172922Z">
+        <seg>Se la &lt;f2&gt;tabella pivot&lt;/f2&gt; contiene solo un campo dati, questa voce viene ignorata, ma dovrete &lt;f3&gt;comunque inserirla&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51531,8 +51531,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The &lt;f0&gt;target field&lt;/f0&gt; specifies which data field of the &lt;f1&gt;Pivot Table&lt;/f1&gt; is used within the function.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190102T135128Z" creationid="Elisabetta Manuele" creationdate="20170306T172812Z">
-        <seg>aaaaIl &lt;f0&gt;campo di destinazione&lt;/f0&gt; specifica il campo dati della &lt;f1&gt;tabella pivot&lt;/f1&gt; da utilizzare nella funzione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190102T152521Z" creationid="Elisabetta Manuele" creationdate="20170306T172812Z">
+        <seg>Il &lt;f0&gt;campo di destinazione&lt;/f0&gt; specifica il campo dati della &lt;f1&gt;tabella pivot&lt;/f1&gt; da utilizzare nella funzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52547,8 +52547,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The argument &lt;f0&gt;&lt;f1&gt;Pivot Table&lt;/f1&gt;&lt;/f0&gt; specifies the &lt;f2&gt;Pivot Table&lt;/f2&gt; that you want to use.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T173200Z" creationid="Elisabetta Manuele" creationdate="20170306T173200Z">
-        <seg>L'argomento &lt;f0&gt;&lt;f1&gt;Tabella pivot&lt;/f1&gt;&lt;/f0&gt; specifica la &lt;f2&gt;tabella pivot&lt;/f2&gt; da utilizzare.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190102T153636Z" creationid="Elisabetta Manuele" creationdate="20170306T173200Z">
+        <seg>aaaaL'argomento &lt;f0&gt;&lt;f1&gt;Tabella pivot&lt;/f1&gt;&lt;/f0&gt; specifica la &lt;f2&gt;tabella pivot&lt;/f2&gt; da utilizzare.</seg>
       </tuv>
     </tu>
     <tu>
