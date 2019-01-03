@@ -9832,8 +9832,8 @@
       <tuv lang="EN">
         <seg>=GETPIVOTDATA("sales",A1,"employee","Hans","category","sailing")</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181218T134228Z" creationid="Elisabetta Manuele" creationdate="20170306T173919Z">
-        <seg>=GETPIVOTDATA ("vendite",A1,"impiegato","Brigida","categoria","vela")</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190103T140153Z" creationid="Elisabetta Manuele" creationdate="20170306T173919Z">
+        <seg>=GETPIVOTDATA("vendite";A1;"impiegato";"Brigida";"categoria";"vela")</seg>
       </tuv>
     </tu>
     <tu>
@@ -24512,8 +24512,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;222&lt;/seq0&gt;: First syntax variation</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170306T174005Z" creationid="Elisabetta Manuele" creationdate="20170306T174005Z">
-        <seg>Figura &lt;seq0&gt;222&lt;/seq0&gt;: sintassi prima variante</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190103T140155Z" creationid="Elisabetta Manuele" creationdate="20170306T174005Z">
+        <seg>aaaFigura &lt;seq0&gt;222&lt;/seq0&gt;: sintassi prima variante</seg>
       </tuv>
     </tu>
     <tu>
@@ -34273,8 +34273,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>In the example in Figure &lt;t2&gt;222&lt;/t2&gt;, where we want to get the partial sum of Hans for sailing, the formula in cell &lt;f3&gt;C12&lt;/f3&gt; would look like this:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190103T114338Z" creationid="Elisabetta Manuele" creationdate="20170306T173903Z">
-        <seg>aaaaNell'esempio della figura &lt;t2&gt;222&lt;/t2&gt;, per ottenere la somma parziale del ricavo di Brigida relativamente alla voce Vela, la formula nella cella &lt;f3&gt;C12&lt;/f3&gt; avrà un aspetto analogo al seguente:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190103T140054Z" creationid="Elisabetta Manuele" creationdate="20170306T173903Z">
+        <seg>Nell'esempio della &lt;t2&gt;Figura 222&lt;/t2&gt;, per ottenere la somma parziale del ricavo di Brigida relativamente alla voce Vela, la formula nella cella &lt;f3&gt;C17&lt;/f3&gt; avrà un aspetto analogo al seguente:</seg>
       </tuv>
     </tu>
     <tu>
