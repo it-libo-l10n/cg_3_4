@@ -9840,8 +9840,8 @@
       <tuv lang="EN">
         <seg>=GETPIVOTDATA(A1,"sales employee[Hans] category[sailing]")</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190104T095613Z" creationid="Elisabetta Manuele" creationdate="20170306T174446Z">
-        <seg>aaaa=GETPIVOTDATA(A1,"vendite impiegato[Brigida] categoria[vela]")</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190104T103546Z" creationid="Elisabetta Manuele" creationdate="20170306T174446Z">
+        <seg>=GETPIVOTDATA(A1;"vendite impiegato[Brigida] categoria[vela]")</seg>
       </tuv>
     </tu>
     <tu>
@@ -64491,8 +64491,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>When working with data sets containing date information, you must take care if you use the date information in the GETPIVOTDATA function.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170307T181740Z" creationid="Elisabetta Manuele" creationdate="20170307T181740Z">
-        <seg>Durante l'utilizzo di insiemi di dati contenenti informazioni concernenti date, va posta particolare attenzione al loro inserimento nella funzione GETPIVOTDATA.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190104T103620Z" creationid="Elisabetta Manuele" creationdate="20170307T181740Z">
+        <seg>aaaaDurante l'utilizzo di insiemi di dati contenenti informazioni concernenti date, va posta particolare attenzione al loro inserimento nella funzione GETPIVOTDATA.</seg>
       </tuv>
     </tu>
     <tu>
