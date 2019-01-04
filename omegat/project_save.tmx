@@ -9840,8 +9840,8 @@
       <tuv lang="EN">
         <seg>=GETPIVOTDATA(A1,"sales employee[Hans] category[sailing]")</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20181218T134256Z" creationid="Elisabetta Manuele" creationdate="20170306T174446Z">
-        <seg>=GETPIVOTDATA(A1,"vendite impiegato[Brigida] categoria[vela]")</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190104T095613Z" creationid="Elisabetta Manuele" creationdate="20170306T174446Z">
+        <seg>aaaa=GETPIVOTDATA(A1,"vendite impiegato[Brigida] categoria[vela]")</seg>
       </tuv>
     </tu>
     <tu>
@@ -34265,8 +34265,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>In the example in Figure &lt;t0&gt;223&lt;/t0&gt;, where we want to get the partial sum of Hans for Sailing, the formula in cell &lt;f1&gt;C12&lt;/f1&gt; would look like this:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190103T144219Z" creationid="Elisabetta Manuele" creationdate="20170306T174404Z">
-        <seg>aaaaNell'esempio della figura &lt;t0&gt;223&lt;/t0&gt;, per ottenere la somma parziale del ricavo di Brigida relativamente alla voce Vela, la formula nella cella &lt;f1&gt;C12&lt;/f1&gt; avrà un aspetto analogo al seguente:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190104T095610Z" creationid="Elisabetta Manuele" creationdate="20170306T174404Z">
+        <seg>Nell'esempio della &lt;t0&gt;Figura 223&lt;/t0&gt;, per ottenere la somma parziale del ricavo di Brigida relativamente alla voce Vela, la formula nella cella &lt;f1&gt;C17&lt;/f1&gt; avrà un aspetto analogo al seguente:</seg>
       </tuv>
     </tu>
     <tu>
