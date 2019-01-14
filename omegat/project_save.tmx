@@ -33632,8 +33632,8 @@
       <tuv lang="EN">
         <seg>In the &lt;f0&gt;Consolidate by&lt;/f0&gt;&lt;f1&gt; section&lt;/f1&gt;, select either &lt;f2&gt;Row labels&lt;/f2&gt; or &lt;f3&gt;Column labels&lt;/f3&gt; if the cells of the source data range are not to be consolidated corresponding to the identical position of the cell in the range, but instead according to a matching row label or column label.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160527T140750Z" creationid="michele" creationdate="20160527T140750Z">
-        <seg>Nel sezione &lt;f0&gt;Consolida per&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;, seleziona &lt;f2&gt;Didascalia righe&lt;/f2&gt; o &lt;f3&gt;Intestazioni colonne&lt;/f3&gt; se le celle dell'area dati sorgente non devono essere consolidate in posizione identica delle celle nell'ara di destinazione, ma d'accordo con una etichetta di colonna o di riga.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190114T171118Z" creationid="michele" creationdate="20160527T140750Z">
+        <seg>aaaaNella sezione &lt;f0&gt;Consolida per&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;, seleziona &lt;f2&gt;Didascalia righe&lt;/f2&gt; o &lt;f3&gt;Intestazioni colonne&lt;/f3&gt; se le celle dell'area dati sorgente non devono essere consolidate in posizione identica delle celle nell'ara di destinazione, ma d'accordo con una etichetta di colonna o di riga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53043,8 +53043,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The corresponding cell references in the target range are inserted in consecutive rows, which are automatically ordered and then hidden from view.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190114T163913Z" creationid="michele" creationdate="20160527T135248Z">
-        <seg>aaaaI riferimenti di cella corrispondenti nell'area di destinazione sono inseriti in righe consecutive, che sono automaticamente ordinate e poi rese invisibili.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190114T171007Z" creationid="michele" creationdate="20160527T135248Z">
+        <seg>I riferimenti di cella corrispondenti nell'area di destinazione sono inseriti in righe consecutive, che sono automaticamente ordinate e poi rese invisibili.</seg>
       </tuv>
     </tu>
     <tu>
