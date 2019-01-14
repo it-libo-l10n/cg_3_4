@@ -33632,8 +33632,8 @@
       <tuv lang="EN">
         <seg>In the &lt;f0&gt;Consolidate by&lt;/f0&gt;&lt;f1&gt; section&lt;/f1&gt;, select either &lt;f2&gt;Row labels&lt;/f2&gt; or &lt;f3&gt;Column labels&lt;/f3&gt; if the cells of the source data range are not to be consolidated corresponding to the identical position of the cell in the range, but instead according to a matching row label or column label.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190114T172533Z" creationid="michele" creationdate="20160527T140750Z">
-        <seg>aaaaNella sezione &lt;f0&gt;Consolida per&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt; selezionate &lt;f2&gt;Didascalia righe&lt;/f2&gt; o &lt;f3&gt;Intestazioni colonne&lt;/f3&gt; se le celle dell'area dati sorgente non devono essere consolidate in posizione identica delle celle nell'area di destinazione, ma secondo un'intestazione di riga o di colonna corrispondente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190114T173612Z" creationid="michele" creationdate="20160527T140750Z">
+        <seg>Nella sezione &lt;f0&gt;Consolida per&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt; selezionate &lt;f2&gt;Didascalia righe&lt;/f2&gt; o &lt;f3&gt;Intestazioni colonne&lt;/f3&gt; se le celle dell'area dati sorgente non devono essere consolidate in corrispondenza dell'identica posizione delle celle nell'area di destinazione, ma secondo un'intestazione di riga o di colonna corrispondente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59315,8 +59315,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>To consolidate by row labels or column labels, the label must be contained in the selected source ranges.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160527T140910Z" creationid="michele" creationdate="20160527T140852Z">
-        <seg>Per consolidare in base all'etichetta di riga o colonna, l'etichetta deve essere inclusa nella area dati di sorgente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190114T173620Z" creationid="michele" creationdate="20160527T140852Z">
+        <seg>aaaaaaaaaaaaaaaaPer consolidare in base all'etichetta di riga o colonna, l'etichetta deve essere inclusa nella area dati di sorgente.</seg>
       </tuv>
     </tu>
     <tu>
