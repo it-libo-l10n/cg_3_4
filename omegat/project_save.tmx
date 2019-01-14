@@ -8512,8 +8512,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;&lt;f2&gt;Copy results to&lt;/f2&gt;&lt;/f1&gt; takes only the first cell of the target range instead of the entire range as is the case for &lt;f3&gt;Source data range&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160526T155050Z" creationid="michele" creationdate="20160526T153700Z">
-        <seg>&lt;f1&gt;&lt;f2&gt;Risultato a partire da&lt;/f2&gt;&lt;/f1&gt; necessita solo della prima cella dell'Area dati di sorgente invece che dell'intera area come riferimento per le &lt;f3&gt;Aree dati di sorgente&lt;/f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190114T115308Z" creationid="michele" creationdate="20160526T153700Z">
+        <seg>aaaaIl campo di fianco alla voce &lt;f1&gt;&lt;f2&gt;Risultato a partire da&lt;/f2&gt;&lt;/f1&gt; necessita solo della prima cella dell'area dati di sorgente invece che dell'intera area come riferimento per le &lt;f3&gt;Aree dati di sorgente&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31344,8 +31344,8 @@
       <tuv lang="EN">
         <seg>If the target range is not named, click in the field next to &lt;f0&gt;Copy results to&lt;/f0&gt; and enter the reference of the target range or select the range using the mouse or position the cursor in the top left cell of the target range.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190114T110334Z" creationid="michele" creationdate="20160526T153431Z">
-        <seg>aaaaSe l'area dati di sorgente non ha un nome, fate clic nel campo a lato di &lt;f0&gt;Copia i risultati in&lt;/f0&gt; e inserisci i riferimenti all'area dati di sorgente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190114T115032Z" creationid="michele" creationdate="20160526T153431Z">
+        <seg>Se l'area dati non ha un nome, fate clic nel campo a lato della voce &lt;f0&gt;Risultato a partire da&lt;/f0&gt; e inserite il riferimento all'area dati oppure selezionate l'area con il mouse, oppure ancora posizionate il cursore nella cella superiore sinistra dell'area.</seg>
       </tuv>
     </tu>
     <tu>
