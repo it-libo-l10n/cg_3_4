@@ -8512,8 +8512,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;&lt;f2&gt;Copy results to&lt;/f2&gt;&lt;/f1&gt; takes only the first cell of the target range instead of the entire range as is the case for &lt;f3&gt;Source data range&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190114T115308Z" creationid="michele" creationdate="20160526T153700Z">
-        <seg>aaaaIl campo di fianco alla voce &lt;f1&gt;&lt;f2&gt;Risultato a partire da&lt;/f2&gt;&lt;/f1&gt; necessita solo della prima cella dell'area dati di sorgente invece che dell'intera area come riferimento per le &lt;f3&gt;Aree dati di sorgente&lt;/f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190114T121201Z" creationid="michele" creationdate="20160526T153700Z">
+        <seg>Il campo di fianco alla voce &lt;f1&gt;&lt;f2&gt;Risultato a partire da&lt;/f2&gt;&lt;/f1&gt; necessita solo della prima cella dell'area dati invece che dell'intera area, come nel caso dell'&lt;f3&gt;Area dati di sorgente&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24536,8 +24536,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;225&lt;/seq0&gt;: Defining the data to be consolidated</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160526T154200Z" creationid="michele" creationdate="20160526T154200Z">
-        <seg>Figura &lt;seq0&gt;225&lt;/seq0&gt;: Definire i dati da consolidare</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190114T121203Z" creationid="michele" creationdate="20160526T154200Z">
+        <seg>aaaaFigura &lt;seq0&gt;225&lt;/seq0&gt;: Definire i dati da consolidare</seg>
       </tuv>
     </tu>
     <tu>
