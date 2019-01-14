@@ -32224,8 +32224,8 @@
       <tuv lang="EN">
         <seg>If you link the data, any values modified in the source range are automatically updated in the target range.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160527T135021Z" creationid="michele" creationdate="20160527T135021Z">
-        <seg>Se colleghi i dati, ogni valore modificato nell'area di sorgente è automaticamente aggiornato nell'area di destinazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190114T163904Z" creationid="michele" creationdate="20160527T135021Z">
+        <seg>Se collegate i dati, ogni valore modificato nell'area sorgente viene automaticamente aggiornato nell'area di destinazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33712,8 +33712,8 @@
       <tuv lang="EN">
         <seg>In the &lt;f0&gt;Options&lt;/f0&gt; section, select &lt;f1&gt;Link to source data&lt;/f1&gt; to insert the formulas that generate the results into the target range, rather than the actual results.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190114T154542Z" creationid="michele" creationdate="20160527T134920Z">
-        <seg>aaaaNella sezione &lt;f0&gt;Opzioni&lt;/f0&gt;, selezionate &lt;f1&gt;Collega con dati origine&lt;/f1&gt; per inserire le formule che generano i risultati nell'area di destinazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190114T163710Z" creationid="michele" creationdate="20160527T134920Z">
+        <seg>Nella sezione &lt;f0&gt;Opzioni&lt;/f0&gt; selezionate &lt;f1&gt;Collega con dati origine&lt;/f1&gt; per inserire nell'area di destinazione le formule che generano i risultati, invece dei risultati stessi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53043,8 +53043,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The corresponding cell references in the target range are inserted in consecutive rows, which are automatically ordered and then hidden from view.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160527T135248Z" creationid="michele" creationdate="20160527T135248Z">
-        <seg>I riferimenti di cella corrispondenti nell'area di destinazione sono inseriti in righe consecutive, che sono automaticamente ordinate e poi rese invisibili.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190114T163913Z" creationid="michele" creationdate="20160527T135248Z">
+        <seg>aaaaI riferimenti di cella corrispondenti nell'area di destinazione sono inseriti in righe consecutive, che sono automaticamente ordinate e poi rese invisibili.</seg>
       </tuv>
     </tu>
     <tu>
