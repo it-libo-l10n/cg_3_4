@@ -31272,8 +31272,8 @@
       <tuv lang="EN">
         <seg>If the row or column label of one source data range does not match any that exist in other source data ranges, it is added to the target range as a new row or column.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160527T141513Z" creationid="michele" creationdate="20160527T141513Z">
-        <seg>Se le etichette delle righe o delle colonne di una sorgente dati non corrispondono esattamente quelle di altre sorgenti dati, viene aggiunto all'area di destinazione come nuova riga o colonna.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190115T103341Z" creationid="michele" creationdate="20160527T141513Z">
+        <seg>aaaaSe le etichette delle righe o delle colonne di una sorgente dati non corrispondono esattamente quelle di altre sorgenti dati, viene aggiunto all'area di destinazione come nuova riga o colonna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56507,8 +56507,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The text in the labels must be identical, so that rows or columns can be accurately matched.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160527T141202Z" creationid="michele" creationdate="20160527T141202Z">
-        <seg>Il testo delle etichette deve essere identico, quindi quelle righe o colonne devono essere attentamente accoppiate.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190115T103339Z" creationid="michele" creationdate="20160527T141202Z">
+        <seg>Il testo delle intestazioni deve essere identico, in modo che righe e colonne possano essere abbinate con precisione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59315,8 +59315,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>To consolidate by row labels or column labels, the label must be contained in the selected source ranges.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190114T173620Z" creationid="michele" creationdate="20160527T140852Z">
-        <seg>aaaaaaaaaaaaaaaaPer consolidare in base all'etichetta di riga o colonna, l'etichetta deve essere inclusa nella area dati di sorgente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190115T103121Z" creationid="michele" creationdate="20160527T140852Z">
+        <seg>Per consolidare in base all'intestazione di riga o di colonna, l'intestazione deve essere inclusa nell'area dati sorgente.</seg>
       </tuv>
     </tu>
     <tu>
