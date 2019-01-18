@@ -14560,8 +14560,8 @@
       <tuv lang="EN">
         <seg>By default, matching items throughout your array will be gathered together as a single group above a subtotal.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160530T150959Z" creationid="michele" creationdate="20160530T145823Z">
-        <seg>Per impostazione predefinita, i valori equivalenti saranno aggregati in un singolo gruppo sopra un subtotale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190118T115232Z" creationid="michele" creationdate="20160530T145823Z">
+        <seg>Per impostazione predefinita, gli elementi corrispondenti nella matrice saranno raccolti in un singolo gruppo sopra un subtotale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22400,8 +22400,8 @@
       <tuv lang="EN">
         <seg>Ensure that the columns have labels (we will use our sales data example again).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160530T151211Z" creationid="michele" creationdate="20160530T151211Z">
-        <seg>Assicurarsi che le colonne abbiano un'etichetta (useremo nuovamente gli esempi dei dati delle vendite).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190118T115354Z" creationid="michele" creationdate="20160530T151211Z">
+        <seg>aaaaAssicurarsi che le colonne abbiano un'etichetta (useremo nuovamente gli esempi dei dati delle vendite).</seg>
       </tuv>
     </tu>
     <tu>
@@ -60187,8 +60187,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>To insert subtotal values into a sheet:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160530T151031Z" creationid="michele" creationdate="20160530T151031Z">
-        <seg>Inserire valori subtotali in un foglio:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190118T115351Z" creationid="michele" creationdate="20160530T151031Z">
+        <seg>Per inserire valori subtotali in un foglio:</seg>
       </tuv>
     </tu>
     <tu>
@@ -64603,8 +64603,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>When you click &lt;f1&gt;OK&lt;/f1&gt;, Calc adds subtotal and grand total rows to the selected arrays, using the Result and Result2 cell styles to differentiate those entries.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190118T093947Z" creationid="michele" creationdate="20160530T145651Z">
-        <seg>aaaaQuando fai clic su &lt;f1&gt;OK&lt;/f1&gt;, Calc aggiunge subtotali e risultati complessivi ai gruppi selezionati, usando gli stili di celle Risultati e Risultati2 per differenziare gli esiti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190118T114757Z" creationid="michele" creationdate="20160530T145651Z">
+        <seg>Facendo clic su &lt;f1&gt;OK&lt;/f1&gt; Calc aggiungerà i subtotali e le righe del totale complessivo alle matrici selezionate, usando gli stili di cella Risultato e Risultato2 per differenziare tali voci.</seg>
       </tuv>
     </tu>
     <tu>
