@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -34105,8 +34105,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>In the Subtotals dialog (&lt;t0&gt;Figure 231&lt;/t0&gt;), in the &lt;f1&gt;Group by&lt;/f1&gt; list, select the column by which the subtotals need to be grouped.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190118T162727Z" creationid="michele" creationdate="20160530T151650Z">
-        <seg>aaaaaaaaaaaaaaaaNella finestra di dialogo Subtotali(&lt;t0&gt;Figura 231&lt;/t0&gt;), nel menu a tendina &lt;f1&gt;Raggruppa per&lt;/f1&gt; , seleziona la colonna che desideri utilizzare per raggruppare i subtotali.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190118T214036Z" creationid="michele" creationdate="20160530T151650Z">
+        <seg>Nella finestra di dialogo Subtotali (&lt;t0&gt;Figura 231&lt;/t0&gt;), nel menu a tendina &lt;f1&gt;Raggruppa per&lt;/f1&gt;, selezionate la colonna che desiderate utilizzare per raggruppare i subtotali.</seg>
       </tuv>
     </tu>
     <tu>
