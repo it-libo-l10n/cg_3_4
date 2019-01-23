@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15184,8 +15184,8 @@
       <tuv lang="EN">
         <seg>Calc inserts, to the left of the row numbering labels, an outline area that graphically represents the structure of the subtotals.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160530T154207Z" creationid="michele" creationdate="20160530T154207Z">
-        <seg>Calc inserisce, alla sinistra dei numeri delle righe, un raggruppamento grafico che rappresenta la struttura dei subtotali.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190123T151747Z" creationid="michele" creationdate="20160530T154207Z">
+        <seg>Calc inserisce, alla sinistra dei numeri di riga, un raggruppamento grafico che rappresenta la struttura dei subtotali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24600,8 +24600,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;232&lt;/seq0&gt;: Subtotals are calculated for each employee (partial view) using the &lt;f1&gt;1st Group &lt;/f1&gt;&lt;f2&gt;and&lt;/f2&gt;&lt;f3&gt; 2nd&lt;/f3&gt;&lt;f4&gt; Group&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190118T225141Z" creationid="michele" creationdate="20160530T153720Z">
-        <seg>aaaaaaaaaaaaaaaaFigura &lt;seq0&gt;232&lt;/seq0&gt;: Subtotali calcolati per ogni impiegato (vista parziale) usando il &lt;f1&gt;1° Grouppo &lt;/f1&gt;&lt;f2&gt;e il &lt;/f2&gt;&lt;f3&gt; 2°&lt;/f3&gt;&lt;f4&gt; Group&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190123T151401Z" creationid="michele" creationdate="20160530T153720Z">
+        <seg>Figura &lt;seq0&gt;232&lt;/seq0&gt;: subtotali calcolati per ogni impiegato (vista parziale) usando il &lt;f1&gt;1° gruppo&lt;/f1&gt;&lt;f2&gt; e il &lt;/f2&gt;&lt;f3&gt;2°&lt;/f3&gt;&lt;f4&gt; gruppo&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -38906,8 +38906,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Number 1 represents the highest level of grouping, the Grand Total.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160530T154654Z" creationid="michele" creationdate="20160530T154654Z">
-        <seg>Numero 1 rappresenta il livello di raggruppamento più elevato, il Gran Totale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190123T151915Z" creationid="michele" creationdate="20160530T154654Z">
+        <seg>Il numero 1 rappresenta il livello di raggruppamento più elevato, il Gran totale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38938,8 +38938,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Numbers 2 to 4 show reducing grouping levels, with number 4 showing individual entries.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160530T154944Z" creationid="michele" creationdate="20160530T154944Z">
-        <seg>I numri dal 2 al 4 mostrano livelli di raggruppamento inferiori, il numero 4 mostra le singole voci.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190123T151917Z" creationid="michele" creationdate="20160530T154944Z">
+        <seg>aaaaI numri dal 2 al 4 mostrano livelli di raggruppamento inferiori, il numero 4 mostra le singole voci.</seg>
       </tuv>
     </tu>
     <tu>
