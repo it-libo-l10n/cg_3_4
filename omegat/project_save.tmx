@@ -27864,8 +27864,8 @@
       <tuv lang="EN">
         <seg>For our example subtotal displayed in Figure &lt;t0&gt;232&lt;/t0&gt;, the structure which is displayed is Column 1 is the &lt;f1&gt;Grand Total&lt;/f1&gt;, column 2 is the &lt;f2&gt;Employee&lt;/f2&gt; subtotal, and column 3 is the &lt;f3&gt;Category&lt;/f3&gt; subtotal.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190124T143640Z" creationid="michele" creationdate="20160531T084646Z">
-        <seg>aaaaNel nostro esempio i subtotali mostrati nella Figura 2&lt;t0&gt;232&lt;/t0&gt;, la struttura mostrata dalla colonna 1 è il &lt;f1&gt;Gran Totale&lt;/f1&gt;, nella colonna 2 è subtotale &lt;f2&gt;Impiegati&lt;/f2&gt;, e nella colonna 3 è la &lt;f3&gt;categoria&lt;/f3&gt; subtotale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190124T153333Z" creationid="michele" creationdate="20160531T084646Z">
+        <seg>Nell'esempio dei subtotali della &lt;t0&gt;Figura 232&lt;/t0&gt;, la struttura mostrata nella colonna 1 corrisponde alla &lt;f1&gt;Somma totale&lt;/f1&gt;, nella colonna 2 è subtotale &lt;f2&gt;Impiegati&lt;/f2&gt;, e nella colonna 3 è la &lt;f3&gt;categoria&lt;/f3&gt; subtotale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38906,8 +38906,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Number 1 represents the highest level of grouping, the Grand Total.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190123T151915Z" creationid="michele" creationdate="20160530T154654Z">
-        <seg>Il numero 1 rappresenta il livello di raggruppamento più elevato, il Gran totale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190124T153354Z" creationid="michele" creationdate="20160530T154654Z">
+        <seg>Il numero 1 rappresenta il livello di raggruppamento più elevato, la Somma totale.</seg>
       </tuv>
     </tu>
     <tu>
