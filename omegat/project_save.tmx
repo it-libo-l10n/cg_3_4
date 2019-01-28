@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -61259,8 +61259,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>To turn off outlines, select &lt;f0&gt;Data &gt; Group and Outline &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Remove&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt; from the Menu bar&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt; Select &lt;f6&gt;AutoOutline&lt;/f6&gt; to reinstate the outlines.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190126T105836Z" creationid="michele" creationdate="20160531T130605Z">
-        <seg>aaaaaaaaaaaaaaaaPer rimuovere la struttura, seleziona &lt;f0&gt;Dati &gt; Raggruppa e struttura &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Rimuovi&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt; dalla barra dei Menu&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt; Seleziona &lt;f6&gt;Struttura Automatica&lt;/f6&gt; per ristabilire la struttura.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190128T095104Z" creationid="michele" creationdate="20160531T130605Z">
+        <seg>aaaaPer rimuovere la struttura, seleziona &lt;f0&gt;Dati &gt; Raggruppa e struttura &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Rimuovi&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;f4&gt; dalla barra dei Menu&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;.&lt;/f5&gt; Seleziona &lt;f6&gt;Struttura Automatica&lt;/f6&gt; per ristabilire la struttura.</seg>
       </tuv>
     </tu>
     <tu>
