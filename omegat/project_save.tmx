@@ -3528,8 +3528,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Tools&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Scenarios&lt;/f5&gt;&lt;/f4&gt; opens a dialog with options for creating a scenario.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190201T154252Z" creationid="michele" creationdate="20160531T135205Z">
-        <seg>aaaa&lt;f0&gt;&lt;f1&gt;Strumenti&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Scenari&lt;/f5&gt;&lt;/f4&gt; apre una finestra di dialogo con le opzioni per creare scenari.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190201T162420Z" creationid="michele" creationdate="20160531T135205Z">
+        <seg>Accedendo alla voce &lt;f0&gt;&lt;f1&gt;Strumenti&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Scenari&lt;/f5&gt;&lt;/f4&gt; si apre una finestra di dialogo che presenta le opzioni per creare uno scenario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17320,8 +17320,8 @@
       <tuv lang="EN">
         <seg>Choose &lt;f0&gt;Tools&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Scenarios&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160531T135418Z" creationid="michele" creationdate="20160531T135418Z">
-        <seg>Scegliere &lt;f0&gt;Strumenti&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Scenari&lt;/f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190201T163259Z" creationid="michele" creationdate="20160531T135418Z">
+        <seg>Scegliete &lt;f0&gt;Strumenti&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Scenari&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39482,8 +39482,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>On the Create Scenario dialog (&lt;t0&gt;Figure 235&lt;/t0&gt;), enter a name for the new scenario.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160531T135457Z" creationid="michele" creationdate="20160531T135457Z">
-        <seg>Nella finestra di dialogo Crea Scenario (&lt;t0&gt;Figura 235&lt;/t0&gt;), inserire un nome per il nuovo scenario.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190201T163301Z" creationid="michele" creationdate="20160531T135457Z">
+        <seg>aaaaNella finestra di dialogo Crea Scenario (&lt;t0&gt;Figura 235&lt;/t0&gt;), inserire un nome per il nuovo scenario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47722,8 +47722,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Select the cells that contain the values that will change between scenarios.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160531T135302Z" creationid="michele" creationdate="20160531T135302Z">
-        <seg>Selezionare le celle che contengono valori che cambiano da uno scenario all'altro.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190201T162715Z" creationid="michele" creationdate="20160531T135302Z">
+        <seg>Selezionate le celle che contengono i valori che cambieranno da uno scenario all'altro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60963,8 +60963,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>To select multiple ranges, hold down the &lt;f0&gt;Ctrl&lt;/f0&gt; key as you click.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160531T135352Z" creationid="michele" creationdate="20160531T135352Z">
-        <seg>Per selezionare molteplici intervalli, tenere premuto il tasto &lt;f0&gt;Ctrl&lt;/f0&gt; e fare clic sulle celle.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190201T163004Z" creationid="michele" creationdate="20160531T135352Z">
+        <seg>Per selezionare più intervalli, tenete premuto il tasto &lt;f0&gt;Ctrl&lt;/f0&gt; mentre fate clic sulle celle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67651,8 +67651,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>You must select at least two cells.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160531T135404Z" creationid="michele" creationdate="20160531T135404Z">
-        <seg>Almeno due celle devono essere selezionate.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190201T163124Z" creationid="michele" creationdate="20160531T135404Z">
+        <seg>Devono essere selezionate almeno due celle.</seg>
       </tuv>
     </tu>
     <tu>
