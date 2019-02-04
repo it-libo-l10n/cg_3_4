@@ -11704,8 +11704,8 @@
       <tuv lang="EN">
         <seg>Adds to your document a sheet that permanently displays the new scenario in full.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160531T150329Z" creationid="michele" creationdate="20160531T150329Z">
-        <seg>Aggiunge al vostro documento un foglio che permanentemente mostra interamente il nuovo scenario.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190204T172211Z" creationid="michele" creationdate="20160531T150329Z">
+        <seg>aaaaAggiunge al vostro documento un foglio che permanentemente mostra interamente il nuovo scenario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31744,8 +31744,8 @@
       <tuv lang="EN">
         <seg>If you are viewing a scenario which has &lt;f0&gt;Copy back&lt;/f0&gt; enabled and &lt;s1/&gt;then create a new scenario by changing the values and selecting &lt;f2&gt;&lt;f3&gt;Tools&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Scenarios&lt;/f7&gt;&lt;/f6&gt;, you also inadvertently overwrite the values in the first scenario.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190204T165456Z" creationid="michele" creationdate="20160531T150006Z">
-        <seg>aaaaSe stai visualizzando uno scenario che ha &lt;f0&gt;Ricopiare all'indietro&lt;/f0&gt; attivato e &lt;s1/&gt;successivamente crea un nuovo scenario modificando i valori e selezionando &lt;f2&gt;&lt;f3&gt;Strumenti&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Scenari&lt;/f7&gt;&lt;/f6&gt;, potreste inavvertitamente sovrascrivere i valori nel primo scenario.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190204T171010Z" creationid="michele" creationdate="20160531T150006Z">
+        <seg>Se state visualizzando uno scenario in cui l'opzione &lt;f0&gt;Ricopiare all'indietro&lt;/f0&gt; è attiva e &lt;s1/&gt;successivamente create un nuovo scenario modificando i valori e selezionando &lt;f2&gt;&lt;f3&gt;Strumenti&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;Scenari&lt;/f7&gt;&lt;/f6&gt;, sovrascriverete inavvertitamente anche i valori nel primo scenario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58011,8 +58011,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>This is easily avoided if you leave the current values alone, create a new scenario with &lt;f0&gt;Copy back&lt;/f0&gt;&lt;f1&gt; enabled, and then change the values only when you are viewing the new scenario.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160531T150200Z" creationid="michele" creationdate="20160531T150200Z">
-        <seg>Questo si può facilmente evitare lasciando i valori correnti separati, e andando a creare un nuovo scenario con &lt;f0&gt;Ricopiare all'indietro&lt;/f0&gt;&lt;f1&gt; attivato, e poi modificare i valori solo quando state vedendo il nuovo scenario.&lt;/f1&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190204T172138Z" creationid="michele" creationdate="20160531T150200Z">
+        <seg>Ciò può essere facilmente evitato lasciando i valori correnti separati, creando un nuovo scenario con l'opzione &lt;f0&gt;Ricopiare all'indietro&lt;/f0&gt;&lt;f1&gt; attivata, e cambiando poi i valori solo quando state visualizzando il nuovo scenario.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
