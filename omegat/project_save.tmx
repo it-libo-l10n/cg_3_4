@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -41450,8 +41450,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Places a border around the range of cells that your scenario alters.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160531T144516Z" creationid="michele" creationdate="20160531T144516Z">
-        <seg>Posiziona un bordo attorno all'area delle celle alterate dal vostro scenario.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190204T101308Z" creationid="michele" creationdate="20160531T144516Z">
+        <seg>Posiziona un bordo attorno all'area delle celle che vengono modificate dallo scenario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53395,8 +53395,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The default settings (as shown in Figure &lt;t0&gt;235&lt;/t0&gt;) are likely to be suitable in most situations.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190203T155829Z" creationid="michele" creationdate="20160531T143436Z">
-        <seg>aaaaaaaaaaaaaaaaaLe impostazioni predefinite (come mostrate in Figura &lt;t0&gt;235&lt;/t0&gt;) sono probabilmente adatte alla maggior parte delle situazioni.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190204T100751Z" creationid="michele" creationdate="20160531T143436Z">
+        <seg>Le impostazioni predefinite (come mostrate in &lt;t0&gt;Figura 235&lt;/t0&gt;) sono adatte alla maggior parte delle situazioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59275,8 +59275,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>To choose the color of the border, use the field to the right of this option.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160531T144605Z" creationid="michele" creationdate="20160531T144605Z">
-        <seg>Per scegliere il colore del bordo, usa il campo sulla destra di questa opzione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190204T101310Z" creationid="michele" creationdate="20160531T144605Z">
+        <seg>aaaaPer scegliere il colore del bordo, usa il campo sulla destra di questa opzione.</seg>
       </tuv>
     </tu>
     <tu>
