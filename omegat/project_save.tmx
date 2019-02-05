@@ -41794,8 +41794,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Prevents changes to a scenario enabled as a &lt;f0&gt;Copy back&lt;/f0&gt;, when the sheet is protected but the cells are not.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190205T092315Z" creationid="michele" creationdate="20160531T150740Z">
-        <seg>aaaaPreviene modifiche a uno scenario attivato come &lt;f0&gt;Ricopiare all'indietro&lt;/f0&gt;, quando il foglio e protetto ma le celle non lo sono.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190205T094044Z" creationid="michele" creationdate="20160531T150740Z">
+        <seg>Previene modifiche a uno scenario con l'opzione &lt;f0&gt;Ricopiare all'indietro&lt;/f0&gt; attivata, quando il foglio è protetto ma le celle non lo sono.</seg>
       </tuv>
     </tu>
     <tu>
