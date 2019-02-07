@@ -7512,8 +7512,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Table &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;12&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt; summarizes the interaction of various settings in preventing or allowing changes in scenario cell values.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190207T092249Z" creationid="michele" creationdate="20160531T153524Z">
-        <seg>aaaa&lt;f0&gt;La tabella &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;12&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt; riassume l'interazione di varie impostazioni per l'abilitazione o disabilitazione di modifiche ai valori delle celle di uno scenario.&lt;/f3&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190207T110859Z" creationid="michele" creationdate="20160531T153524Z">
+        <seg>&lt;f0&gt;La &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Tabella 12&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt; riassume l'interazione di varie impostazioni per impedire o permettere la modifica ai valori delle celle di uno scenario.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -50723,8 +50723,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Table &lt;seq0&gt;12&lt;/seq0&gt;: Prevent changes behavior for scenario cell value changes</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160531T153948Z" creationid="michele" creationdate="20160531T153948Z">
-        <seg>La tabella &lt;seq0&gt;12&lt;/seq0&gt;: Impedisce modifiche al comportamento per i valori delle celle di uno scenario</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190207T110901Z" creationid="michele" creationdate="20160531T153948Z">
+        <seg>aaaaLa tabella &lt;seq0&gt;12&lt;/seq0&gt;: Impedisce modifiche al comportamento per i valori delle celle di uno scenario</seg>
       </tuv>
     </tu>
     <tu>
