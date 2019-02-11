@@ -19488,16 +19488,16 @@
       <tuv lang="EN">
         <seg>Copy back OFF</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160531T154403Z" creationid="michele" creationdate="20160531T154403Z">
-        <seg>Ricopiare all'indietro OFF</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190211T104206Z" creationid="michele" creationdate="20160531T154403Z">
+        <seg>Ricopiare all'indietro disattiva</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Copy back ON</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160531T154115Z" creationid="michele" creationdate="20160531T154115Z">
-        <seg>Ricopiare all'indietro ON</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190211T103722Z" creationid="michele" creationdate="20160531T154115Z">
+        <seg>Ricopiare all'indietro attiva</seg>
       </tuv>
     </tu>
     <tu>
@@ -41770,24 +41770,24 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Prevent changes OFF</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160531T154232Z" creationid="michele" creationdate="20160531T154232Z">
-        <seg>Impedisci modifiche OFF</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190211T103847Z" creationid="michele" creationdate="20160531T154232Z">
+        <seg>Impedisci modifiche disattiva</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Prevent changes ON</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160531T154055Z" creationid="michele" creationdate="20160531T154055Z">
-        <seg>Impedisci modifiche ON</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190211T103635Z" creationid="michele" creationdate="20160531T154055Z">
+        <seg>Impedisci modifiche attiva</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Prevent changes ON or OFF</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160531T154343Z" creationid="michele" creationdate="20160531T154343Z">
-        <seg>Impedisci modifiche ON o OFF</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190211T104137Z" creationid="michele" creationdate="20160531T154343Z">
+        <seg>Impedisci modifiche attiva o disattiva</seg>
       </tuv>
     </tu>
     <tu>
@@ -46474,8 +46474,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Scenario cell protection OFF</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160531T154039Z" creationid="michele" creationdate="20160531T154039Z">
-        <seg>Protezione celle scenario OFF</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190211T103624Z" creationid="michele" creationdate="20160531T154039Z">
+        <seg>Protezione celle scenario disattiva</seg>
       </tuv>
     </tu>
     <tu>
@@ -46506,24 +46506,24 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Scenario cell values can be changed, and the scenario is updated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160531T154321Z" creationid="michele" creationdate="20160531T154321Z">
-        <seg>Valori delle celle di uno scenario possono essere modificati, e lo scenario viene aggiornato.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190211T104026Z" creationid="michele" creationdate="20160531T154321Z">
+        <seg>I valori delle celle dello scenario possono essere modificati, e lo scenario viene aggiornato.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Scenario cell values can be changed, but the scenario is not updated due to the Copy back setting.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160531T154505Z" creationid="michele" creationdate="20160531T154505Z">
-        <seg>Valori delle celle possono essere modificati, malo scenario non viene aggiornato a causa dell'impostazione Ricopiare all'indietro.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190211T104212Z" creationid="michele" creationdate="20160531T154505Z">
+        <seg>aaaaaaaaaaaaaaI valori delle celle possono essere modificati, malo scenario non viene aggiornato a causa dell'impostazione Ricopiare all'indietro.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Scenario cell values cannot be changed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160531T154630Z" creationid="michele" creationdate="20160531T154213Z">
-        <seg>Valori delle celle dello scenario non possono essere modificati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190211T103819Z" creationid="michele" creationdate="20160531T154213Z">
+        <seg>I valori delle celle dello scenario non possono essere modificati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48882,8 +48882,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Sheet protection ON</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190207T174834Z" creationid="michele" creationdate="20160531T154027Z">
-        <seg>aaaaaaaaaaaaaaaaProtezione foglio ON</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190211T103555Z" creationid="michele" creationdate="20160531T154027Z">
+        <seg>Protezione foglio attiva</seg>
       </tuv>
     </tu>
     <tu>
