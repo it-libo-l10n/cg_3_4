@@ -14232,8 +14232,8 @@
       <tuv lang="EN">
         <seg>Beware of entering the cell reference of a variable into the wrong field.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160608T100748Z" creationid="michele" creationdate="20160608T100748Z">
-        <seg>Stai attento ad inserire i riferimenti di cella di una variabile nel campo corretto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190220T142851Z" creationid="michele" creationdate="20160608T100748Z">
+        <seg>Fate attenzione a non inserire i riferimenti di cella di una variabile nel campo sbagliato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22552,8 +22552,8 @@
       <tuv lang="EN">
         <seg>Enter the cell reference to the formula in the &lt;f4&gt;Formulas&lt;/f4&gt; field.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160608T100138Z" creationid="michele" creationdate="20160608T100138Z">
-        <seg>Inserire i riferimenti di cella alla formula nel campo &lt;f4&gt;Formule&lt;/f4&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190220T142326Z" creationid="michele" creationdate="20160608T100138Z">
+        <seg>Inserite i riferimenti di cella alla formula nel campo &lt;f4&gt;Formule&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47922,8 +47922,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Select the range defined by both data ranges (thus including all of the blank cells that are to contain the results) and choose &lt;f0&gt;Data&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Multiple operations&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190220T133420Z" creationid="michele" creationdate="20160608T100055Z">
-        <seg>aaaaSelezionate l'intervallo definito dalle due aree dati (incluso tutte le celle vuote che conterranno i risultati) e seleziona &lt;f0&gt;Dati&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Oprazioni multiple&lt;/f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190220T140812Z" creationid="michele" creationdate="20160608T100055Z">
+        <seg>Selezionate l'intervallo definito dalle due aree dati (incluse tutte le celle vuote che conterranno i risultati) e scegliete &lt;f0&gt;Dati&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Operazioni multiple&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51635,8 +51635,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The &lt;f5&gt;Row input cell&lt;/f5&gt; and the &lt;f6&gt;Column input cell&lt;/f6&gt; fields are used to enter the reference to the corresponding cells of the formula.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160608T100700Z" creationid="michele" creationdate="20160608T100700Z">
-        <seg>Il &lt;f5&gt;campo di digitazione Righe&lt;/f5&gt; e quello &lt;f6&gt;Colonne&lt;/f6&gt; sono usati per inserire i riferimenti alle corrispondenti celle della formula.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190220T142608Z" creationid="michele" creationdate="20160608T100700Z">
+        <seg>I campi &lt;f5&gt;Riga&lt;/f5&gt; e &lt;f6&gt;Colonna&lt;/f6&gt; sono usati per inserire i riferimenti alle corrispondenti celle della formula.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52267,8 +52267,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The Row input cell field should contain not the cell reference of the variable which changes down the rows of your results table, but that of the variable whose alternative values have been entered along a single row.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160608T103257Z" creationid="michele" creationdate="20160608T103257Z">
-        <seg>La cella di digitazione Riga non deve contenere i riferimenti di cella della variabile che cambia le righe della tua tabella dei risultati, ma quelli della variabile i cui valori alternativi sono stati inseriti nella riga.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190220T142853Z" creationid="michele" creationdate="20160608T103257Z">
+        <seg>aaaaLa cella di digitazione Riga non deve contenere i riferimenti di cella della variabile che cambia le righe della tua tabella dei risultati, ma quelli della variabile i cui valori alternativi sono stati inseriti nella riga.</seg>
       </tuv>
     </tu>
     <tu>
