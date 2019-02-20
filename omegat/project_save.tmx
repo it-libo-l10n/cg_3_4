@@ -47922,8 +47922,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Select the range defined by both data ranges (thus including all of the blank cells that are to contain the results) and choose &lt;f0&gt;Data&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Multiple operations&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160608T100105Z" creationid="michele" creationdate="20160608T100055Z">
-        <seg>Seleziona l'intervallo definito dalle due aree dati (incluso tutte le celle vuote che conterranno i risultati) e seleziona &lt;f0&gt;Dati&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Oprazioni multiple&lt;/f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190220T133420Z" creationid="michele" creationdate="20160608T100055Z">
+        <seg>aaaaSelezionate l'intervallo definito dalle due aree dati (incluso tutte le celle vuote che conterranno i risultati) e seleziona &lt;f0&gt;Dati&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Oprazioni multiple&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54171,8 +54171,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The formula must use at least two variables, the alternative values for which &lt;f0&gt;&lt;f1&gt;should&lt;/f1&gt;&lt;/f0&gt; be arranged so that one set is along a single row and the other set appears in a single column.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190220T115821Z" creationid="michele" creationdate="20160608T094148Z">
-        <seg>aaaaLa formula deve usare almeno due variabili, i cui valori alternativi &lt;f0&gt;&lt;f1&gt;dovrebbero&lt;/f1&gt;&lt;/f0&gt; essere disposti in maniera tale che un insieme sia lungo una singola riga mentre l'altro venga visualizzato in una singola colonna.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190220T133102Z" creationid="michele" creationdate="20160608T094148Z">
+        <seg>La formula deve usare almeno due variabili; i valori alternativi per tali variabili &lt;f0&gt;&lt;f1&gt;dovrebbero&lt;/f1&gt;&lt;/f0&gt; essere disposti in maniera tale che un insieme sia lungo una singola riga mentre l'altro insieme venga visualizzato in una singola colonna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57251,8 +57251,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>These two sets of alternative values will form column and row headings for the results table produced by the Multiple Operations procedure.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160608T095917Z" creationid="michele" creationdate="20160608T094358Z">
-        <seg>Questi due insiemi di valori alternativi formeranno intestazioni di colonne e righe per la tabella risultante a seguito dell'operazione Multipla.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190220T133412Z" creationid="michele" creationdate="20160608T094358Z">
+        <seg>Questi due insiemi di valori alternativi formeranno intestazioni di colonna e riga per la tabella risultante dalla procedura delle operazioni multiple.</seg>
       </tuv>
     </tu>
     <tu>
