@@ -22488,8 +22488,8 @@
       <tuv lang="EN">
         <seg>Enter each of the values mentioned above into adjacent cells (for Capital, C, an arbitrary value like $100,000 or it can be left blank; for number of years, n, 1; for interest rate, i, 7.5%).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190226T085404Z" creationid="michele" creationdate="20160608T130602Z">
-        <seg>aaaaInserite ogni valore menzionato sopra in celle adiacenti (per il capitale, C, un valore arbitrario di 100.000€ oppure può essere lasciato vuoto, per numero di anni, n, 1; per tasso di interesse, i, 7.5%).  .</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190226T092331Z" creationid="michele" creationdate="20160608T130602Z">
+        <seg>Inserite ogni valore menzionato sopra in celle adiacenti (per il capitale, C, un valore arbitrario di 100.000€, oppure potete lasciarlo vuoto; per il numero di anni, n, 1; per il tasso di interesse, i, 7.5%).</seg>
       </tuv>
     </tu>
     <tu>
@@ -22592,8 +22592,8 @@
       <tuv lang="EN">
         <seg>Enter the formula to calculate the interest, I, in another cell.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160608T130630Z" creationid="michele" creationdate="20160608T130630Z">
-        <seg>Inserisci la formula per il calcolo dell'interesse, I, in un'altra cella..</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190226T092443Z" creationid="michele" creationdate="20160608T130630Z">
+        <seg>Inserite la formula per il calcolo dell'interesse, I, in un'altra cella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33496,8 +33496,8 @@
       <tuv lang="EN">
         <seg>In our example (Figure &lt;t0&gt;243&lt;/t0&gt;), this would be =B1*B2*B3.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160608T130725Z" creationid="michele" creationdate="20160608T130725Z">
-        <seg>Nel nostro esempio (Figura &lt;t0&gt;243&lt;/t0&gt;), sarebbe =B1*B2*B3.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190226T092721Z" creationid="michele" creationdate="20160608T130725Z">
+        <seg>Nell'esempio (&lt;t0&gt;Figura 243&lt;/t0&gt;) sarebbe =B1*B2*B3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35025,8 +35025,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>Instead of C, n, and i, use the reference to the cell with the corresponding value.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160608T130705Z" creationid="michele" creationdate="20160608T130705Z">
-        <seg>Invece di C, n, e i, usa i riferimenti alla cella con il valore corrispondente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190226T092600Z" creationid="michele" creationdate="20160608T130705Z">
+        <seg>Invece di C, n e i, usate i riferimenti alla cella con il valore corrispondente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41418,8 +41418,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Place the cursor in the formula cell (B4), and choose &lt;f0&gt;Tools&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Goal See&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;k&lt;/f5&gt;&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160608T130822Z" creationid="michele" creationdate="20160608T130822Z">
-        <seg>Posiziona il cursore nella cella della della formula (B4), e seleziona &lt;f0&gt;Strumenti&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Ricerca valore di destinazion&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;e&lt;/f5&gt;&lt;/f4&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190226T092724Z" creationid="michele" creationdate="20160608T130822Z">
+        <seg>aaaaPosiziona il cursore nella cella della della formula (B4), e seleziona &lt;f0&gt;Strumenti&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Ricerca valore di destinazion&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;e&lt;/f5&gt;&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
