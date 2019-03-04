@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18944,8 +18944,8 @@
       <tuv lang="EN">
         <seg>Column labels: &lt;f0&gt;interest earned&lt;/f0&gt;, &lt;f1&gt;amount invested&lt;/f1&gt;, &lt;f2&gt;interest rate&lt;/f2&gt;, and &lt;f3&gt;time period&lt;/f3&gt;, in cells B1 thru E1.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160608T140136Z" creationid="michele" creationdate="20160608T140136Z">
-        <seg>Etichette colonne: &lt;f0&gt;interesse accumulato&lt;/f0&gt;, &lt;f1&gt;quantità investita&lt;/f1&gt;, &lt;f2&gt;tasso di interesse&lt;/f2&gt;, e &lt;f3&gt;arco temporale&lt;/f3&gt;, nelle celle da B1 fino a E1.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190304T100306Z" creationid="michele" creationdate="20160608T140136Z">
+        <seg>aaaaEtichette colonne: &lt;f0&gt;interesse accumulato&lt;/f0&gt;, &lt;f1&gt;quantità investita&lt;/f1&gt;, &lt;f2&gt;tasso di interesse&lt;/f2&gt;, e &lt;f3&gt;arco temporale&lt;/f3&gt;, nelle celle da B1 fino a E1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45954,8 +45954,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Row labels: &lt;f0&gt;Fund X&lt;/f0&gt;, &lt;f1&gt;Fund Y&lt;/f1&gt;, and &lt;f2&gt;total&lt;/f2&gt;, in cells A2 thru A4.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190303T140312Z" creationid="michele" creationdate="20160608T140036Z">
-        <seg>aaaaaaaaaaaaaaaEtichette per le righe: &lt;f0&gt;Fondo X&lt;/f0&gt;, &lt;f1&gt;Fondo Y&lt;/f1&gt;, e &lt;f2&gt;totale&lt;/f2&gt;, nelle celle A2 fino ad A4.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190304T100304Z" creationid="michele" creationdate="20160608T140036Z">
+        <seg>Etichette per le righe: &lt;f0&gt;Fondo X&lt;/f0&gt;, &lt;f1&gt;Fondo Y&lt;/f1&gt;, e &lt;f2&gt;Totale&lt;/f2&gt;, nelle celle da A2 fino a A4.</seg>
       </tuv>
     </tu>
     <tu>
