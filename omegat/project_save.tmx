@@ -18944,8 +18944,8 @@
       <tuv lang="EN">
         <seg>Column labels: &lt;f0&gt;interest earned&lt;/f0&gt;, &lt;f1&gt;amount invested&lt;/f1&gt;, &lt;f2&gt;interest rate&lt;/f2&gt;, and &lt;f3&gt;time period&lt;/f3&gt;, in cells B1 thru E1.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190304T100306Z" creationid="michele" creationdate="20160608T140136Z">
-        <seg>aaaaEtichette colonne: &lt;f0&gt;interesse accumulato&lt;/f0&gt;, &lt;f1&gt;quantità investita&lt;/f1&gt;, &lt;f2&gt;tasso di interesse&lt;/f2&gt;, e &lt;f3&gt;arco temporale&lt;/f3&gt;, nelle celle da B1 fino a E1.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190304T153850Z" creationid="michele" creationdate="20160608T140136Z">
+        <seg>Etichette per le colonne: &lt;f0&gt;Interesse guadagnato&lt;/f0&gt;, &lt;f1&gt;Ammontare investito&lt;/f1&gt;, &lt;f2&gt;Tasso d'interesse&lt;/f2&gt;, e &lt;f3&gt;Durata&lt;/f3&gt;, nelle celle da B1 fino a E1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22480,8 +22480,8 @@
       <tuv lang="EN">
         <seg>Enter an arbitrary value (0 or leave blank) in cell C2 as amount invested in Fund X.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160608T144714Z" creationid="michele" creationdate="20160608T140302Z">
-        <seg>Inserimento valore arbitrario (0 o lasciare in bianco) nelle celle C2 come totale investito nel fondo X.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190304T155421Z" creationid="michele" creationdate="20160608T140302Z">
+        <seg>Inserite un valore arbitrario (0 oppure lasciate in bianco) nella cella C2 come ammontare investito nel fondo X.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22496,8 +22496,8 @@
       <tuv lang="EN">
         <seg>Enter formulas:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160608T140310Z" creationid="michele" creationdate="20160608T140310Z">
-        <seg>Inserimento Formule:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190304T155600Z" creationid="michele" creationdate="20160608T140310Z">
+        <seg>Inserite le formule:</seg>
       </tuv>
     </tu>
     <tu>
@@ -33216,8 +33216,8 @@
       <tuv lang="EN">
         <seg>In cell C3, enter the formula &lt;f0&gt;C4–C2&lt;/f0&gt; (total amount – amount invested in Fund X) as the amount invested in Fund Y.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160608T140411Z" creationid="michele" creationdate="20160608T140411Z">
-        <seg>Nelle celle C3, inserire la formula &lt;f0&gt;C4–C2&lt;/f0&gt; (ammontare totale – ammontare totale investito nel Fondo X) come totale investito nel Fondo Y.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190304T155628Z" creationid="michele" creationdate="20160608T140411Z">
+        <seg>aaaaNella cella C3 inserite la formula &lt;f0&gt;C4–C2&lt;/f0&gt; (ammontare totale – ammontare totale investito nel Fondo X) come totale investito nel Fondo Y.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58795,8 +58795,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Time period: &lt;f0&gt;1&lt;/f0&gt;, in cells E2 and E3.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="michele" changedate="20160608T140210Z" creationid="michele" creationdate="20160608T140210Z">
-        <seg>Arco temporale: &lt;f0&gt;1&lt;/f0&gt;, nelle celle E2 e E3.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190304T155044Z" creationid="michele" creationdate="20160608T140210Z">
+        <seg>Durata: &lt;f0&gt;1&lt;/f0&gt;, nelle celle E2 e E3.</seg>
       </tuv>
     </tu>
     <tu>
