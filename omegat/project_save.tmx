@@ -464,8 +464,8 @@
       <tuv lang="EN">
         <seg>(Three sheets are already provided by default.) Because you are inserting more than one sheet, the &lt;/f6&gt;&lt;f7&gt;Name&lt;/f7&gt;&lt;f8&gt; box is not available.&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190311T113308Z" creationid="antonio" creationdate="20160524T150034Z">
-        <seg>aaaaTre fogli sono già disponibili in modo predefinito. Dal momento che state inserendo più fogli, la &lt;/f6&gt;&lt;f7&gt;casella Nome&lt;/f7&gt;&lt;f8&gt; non è disponibile.&lt;/f8&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190311T120238Z" creationid="antonio" creationdate="20160524T150034Z">
+        <seg>Tre fogli sono già disponibili per impostazione predefinita. Dal momento che state inserendo più fogli, la casella &lt;/f6&gt;&lt;f7&gt;Nome&lt;/f7&gt;&lt;f8&gt; non è disponibile.&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4624,8 +4624,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Choose &lt;/f0&gt;&lt;f1&gt;New sheet&lt;/f1&gt;&lt;f2&gt; and 1 as the &lt;/f2&gt;&lt;f3&gt;No.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170518T161001Z" creationid="antonio" creationdate="20160524T150653Z">
-        <seg>&lt;f0&gt;Scegliete l'opzione &lt;/f0&gt;&lt;f1&gt;Nuovo foglio&lt;/f1&gt;&lt;f2&gt; e 1 per il &lt;/f2&gt;&lt;f3&gt;Nr.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190311T121605Z" creationid="antonio" creationdate="20160524T150653Z">
+        <seg>aaaa&lt;f0&gt;Scegliete l'opzione &lt;/f0&gt;&lt;f1&gt;Nuovo foglio&lt;/f1&gt;&lt;f2&gt; e 1 per il &lt;/f2&gt;&lt;f3&gt;Nr.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6992,8 +6992,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Rename the existing sheets Summary, Checking Account, and Savings Account, as described in “&lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Renaming sheets&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;” below.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170518T160908Z" creationid="antonio" creationdate="20160524T150424Z">
-        <seg>&lt;f0&gt;Rinominate i fogli esistenti Sintesi, Conto corrente, e Conto di deposito, come descritto di seguito, nella sezione “&lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Rinominare i fogli&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;”.&lt;/f3&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190311T121426Z" creationid="antonio" creationdate="20160524T150424Z">
+        <seg>&lt;f0&gt;Rinominate i fogli esistenti in Riepilogo, Conto corrente e Conto deposito, come descritto di seguito, nella sezione “&lt;/f0&gt;&lt;f1&gt;&lt;bf2&gt;Rinominare i fogli&lt;/bf2&gt;&lt;/f1&gt;&lt;f3&gt;”.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33913,8 +33913,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>In the Insert Sheet dialog, choose the position for the first new sheet.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="antonio" changedate="20160524T150623Z" creationid="antonio" creationdate="20160524T150623Z">
-        <seg>Nella finestra di dialogo inserisci foglio, scegliete la posizione per il primo nuovo foglio.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190311T121603Z" creationid="antonio" creationdate="20160524T150623Z">
+        <seg>Nella finestra di dialogo Inserisci foglio, scegliete la posizione per il primo nuovo foglio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60171,16 +60171,16 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>To insert sheets and name them at the same time:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170518T160751Z" creationid="antonio" creationdate="20160524T150311Z">
-        <seg>Inserire fogli e contemporaneamente assegnare loro un nome:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190311T120808Z" creationid="antonio" creationdate="20160524T150311Z">
+        <seg>Per inserire i fogli e contemporaneamente assegnare loro un nome:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>To insert sheets and rename afterwards:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190311T110045Z" creationid="antonio" creationdate="20160524T145509Z">
-        <seg>Per inserire i fogli e rinominare in seguito:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190311T120819Z" creationid="antonio" creationdate="20160524T145509Z">
+        <seg>Per inserire i fogli e rinominarli in seguito:</seg>
       </tuv>
     </tu>
     <tu>
