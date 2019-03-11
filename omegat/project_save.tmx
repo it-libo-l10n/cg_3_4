@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6056,8 +6056,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;In the Insert Sheet dialog, choose the position for the new sheets (in this example, we use &lt;/f0&gt;&lt;f1&gt;After current sheet&lt;/f1&gt;&lt;f2&gt;).&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170518T160303Z" creationid="antonio" creationdate="20160524T145632Z">
-        <seg>&lt;f0&gt;Nella finestra di dialogo Inserisci foglio, scegliete la posizione per i nuovi fogli (in questo esempio, &lt;/f0&gt;&lt;f1&gt;Dopo il foglio corrente&lt;/f1&gt;&lt;f2&gt;).&lt;/f2&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190311T110047Z" creationid="antonio" creationdate="20160524T145632Z">
+        <seg>aaaa&lt;f0&gt;Nella finestra di dialogo Inserisci foglio, scegliete la posizione per i nuovi fogli (in questo esempio, &lt;/f0&gt;&lt;f1&gt;Dopo il foglio corrente&lt;/f1&gt;&lt;f2&gt;).&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -60179,8 +60179,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>To insert sheets and rename afterwards:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="antonio" changedate="20160524T145509Z" creationid="antonio" creationdate="20160524T145509Z">
-        <seg>Inserire i fogli e rinominare in seguito:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190311T110045Z" creationid="antonio" creationdate="20160524T145509Z">
+        <seg>Per inserire i fogli e rinominare in seguito:</seg>
       </tuv>
     </tu>
     <tu>
@@ -63867,8 +63867,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>We have two choices: insert 3 new sheets and rename all 6 sheets afterwards; or rename the existing sheets, then insert the 3 new sheets one at a time, renaming each new sheet during the insert step.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190310T211404Z" creationid="antonio" creationdate="20160524T145231Z">
-        <seg>aaaaaaaaaaaaaaaEsistono due possibilità: inserire 3 nuovi fogli e rinominare tutti i 6 fogli successivamente o rinominare i fogli esistenti, quindi inserire i 3 nuovi fogli uno alla volta, rinominando ogni nuovo foglio durante la fase di inserimento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190311T110004Z" creationid="antonio" creationdate="20160524T145231Z">
+        <seg>Per fare ciò avete due possibilità: inserire 3 nuovi fogli e rinominare tutti i 6 fogli successivamente, oppure rinominare i fogli esistenti, quindi inserire i 3 nuovi fogli uno alla volta, rinominando ogni nuovo foglio mentre lo inserite.</seg>
       </tuv>
     </tu>
     <tu>
