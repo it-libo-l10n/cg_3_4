@@ -10864,16 +10864,16 @@
       <tuv lang="EN">
         <seg>A relative hyperlink says, &lt;f0&gt;Here is how to get there starting from where you are now&lt;/f0&gt; (meaning from the folder in which your current document is saved) while an absolute hyperlink says, &lt;f1&gt;Here is how to get there no matter where you start from&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190318T103409Z" creationid="Elisabetta Manuele" creationdate="20170519T090736Z">
-        <seg>aaaaUn collegamento ipertestuale relativo indica &lt;f0&gt;la posizione di un file a partire dalla posizione corrente nell'albero del file system&lt;/f0&gt; (cioè dalla cartella in cui è salvato il documento corrente), mentre un collegamento ipertestuale assoluto indica &lt;f1&gt;la posizione di un file a partire dalla radice del file system&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190318T110937Z" creationid="Elisabetta Manuele" creationdate="20170519T090736Z">
+        <seg>Un collegamento ipertestuale relativo indica &lt;f0&gt;la posizione di un file a partire dalla posizione corrente nell'albero del file system&lt;/f0&gt; (cioè dalla cartella in cui è salvato il documento corrente), mentre un collegamento ipertestuale assoluto indica &lt;f1&gt;la posizione di un file a partire dalla radice del file system&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>A relative link will stop working only if the start and target locations change relative to each other.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T090758Z" creationid="Elisabetta Manuele" creationdate="20170519T090758Z">
-        <seg>Un collegamento relativo non funzionerà più se le posizioni di partenza e di destinazione cambiano l'una rispetto all'altra.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190318T111239Z" creationid="Elisabetta Manuele" creationdate="20170519T090758Z">
+        <seg>Un collegamento relativo non funzionerà più solo se le posizioni di partenza e di destinazione cambiano l'una rispetto all'altra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12528,8 +12528,8 @@
       <tuv lang="EN">
         <seg>An absolute link will stop working only if the target is moved.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T090746Z" creationid="Elisabetta Manuele" creationdate="20170519T090746Z">
-        <seg>Un collegamento assoluto non funzionerà più se la destinazione viene spostata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190318T111119Z" creationid="Elisabetta Manuele" creationdate="20170519T090746Z">
+        <seg>Un collegamento assoluto non funzionerà più solo se la destinazione viene spostata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27616,8 +27616,8 @@
       <tuv lang="EN">
         <seg>For instance, if you have two spreadsheets in the same folder linked to each other and you move the entire folder to a new location, a relative hyperlink will not break.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T090850Z" creationid="Elisabetta Manuele" creationdate="20170519T090850Z">
-        <seg>Ad esempio, se avete due fogli di lavoro nella stessa cartella, collegati l'uno all'altro, e spostate la cartella in una nuova posizione, un collegamento assoluto non funzionerà più, mentre un collegamento relativo continuerà a funzionare.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190318T111241Z" creationid="Elisabetta Manuele" creationdate="20170519T090850Z">
+        <seg>aaaaAd esempio, se avete due fogli di lavoro nella stessa cartella, collegati l'uno all'altro, e spostate la cartella in una nuova posizione, un collegamento assoluto non funzionerà più, mentre un collegamento relativo continuerà a funzionare.</seg>
       </tuv>
     </tu>
     <tu>
