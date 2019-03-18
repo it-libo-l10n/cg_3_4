@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -55611,8 +55611,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The reference for a file has three forward slashes &lt;f0&gt;///&lt;/f0&gt; and the reference for a hyperlink has two forward slashes &lt;f1&gt;//&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190317T151505Z" creationid="antonio" creationdate="20160919T124018Z">
-        <seg>aaaaaaaaaaaaaaaaIl riferimento di un file presenta tre barre &lt;f0&gt;///&lt;/f0&gt; e il riferimento di un collegamento ipertestuale, invece, ne visualizza due &lt;f1&gt;//&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190318T101433Z" creationid="antonio" creationdate="20160919T124018Z">
+        <seg>Il riferimento di un file presenta tre barre &lt;f0&gt;///&lt;/f0&gt; mentre il riferimento di un collegamento ipertestuale ne presenta due &lt;f1&gt;//&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
