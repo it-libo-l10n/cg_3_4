@@ -15400,8 +15400,8 @@
       <tuv lang="EN">
         <seg>Calc will always display an absolute hyperlink.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T091400Z" creationid="Elisabetta Manuele" creationdate="20170519T091054Z">
-        <seg>Calc visualizza sempre collegamenti ipertestuali assoluti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190318T114334Z" creationid="Elisabetta Manuele" creationdate="20170519T091054Z">
+        <seg>Calc mostra sempre collegamenti ipertestuali assoluti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19944,8 +19944,8 @@
       <tuv lang="EN">
         <seg>Creating hyperlinks</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T092131Z" creationid="Elisabetta Manuele" creationdate="20170519T092131Z">
-        <seg>Creare collegamenti ipertestuali</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190318T120539Z" creationid="Elisabetta Manuele" creationdate="20170519T092131Z">
+        <seg>Creazione di collegamenti ipertestuali</seg>
       </tuv>
     </tu>
     <tu>
@@ -21456,8 +21456,8 @@
       <tuv lang="EN">
         <seg>Don’t be alarmed when it does this even when you have saved a relative hyperlink—this ‘absolute’ target address will be updated if you move the file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T153236Z" creationid="Elisabetta Manuele" creationdate="20170519T091503Z">
-        <seg>Non preoccupatevi se, pur avendo salvato un collegamento relativo, compare un collegamento assoluto: l'indirizzo 'assoluto' della destinazione verrà aggiornato, se spostate il file.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190318T114543Z" creationid="Elisabetta Manuele" creationdate="20170519T091503Z">
+        <seg>Non preoccupatevi se, pur avendo salvato un collegamento relativo, compare un collegamento assoluto: l'indirizzo 'assoluto' della destinazione verrà aggiornato se spostate il file.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37089,8 +37089,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>Make sure that the folder structure on your computer is the same as the file structure on your web server if you save your links as relative to the file system and you are going to upload pages to the Internet.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T091853Z" creationid="Elisabetta Manuele" creationdate="20170519T091853Z">
-        <seg>Se salvate i collegamenti come relativi al file system e avete intenzione di eseguire il caricamento delle pagine su Internet, assicuratevi che la struttura delle cartelle del vostro computer corrisponda a quella dei file presente nel vostro server web.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190318T114738Z" creationid="Elisabetta Manuele" creationdate="20170519T091853Z">
+        <seg>Se salvate i collegamenti come relativi al file system e avete intenzione di eseguire il caricamento delle pagine su Internet, assicuratevi che la struttura delle cartelle sul vostro computer sia la stessa presente sul vostro server web.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59251,8 +59251,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>To change the way that LibreOffice stores the hyperlinks in your file, select &lt;f0&gt;Tools&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Options&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Load/Save&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; &gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;General&lt;/f9&gt; and choose if you want URLs saved relatively when referencing the &lt;f10&gt;File System&lt;/f10&gt;, or the &lt;f11&gt;Internet&lt;/f11&gt;, or both.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190318T113216Z" creationid="Elisabetta Manuele" creationdate="20170519T091002Z">
-        <seg>aaaaPer cambiare il modo in cui LibreOffice memorizza i collegamenti ipertestuali nei file, selezionate il menu &lt;f0&gt;Strumenti&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Opzioni&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Carica/Salva&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; &gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;Generale&lt;/f9&gt; e scegliete se salvare gli URL in modo relativo, quando fanno riferimento al &lt;f10&gt;File System&lt;/f10&gt;, a &lt;f11&gt;Internet&lt;/f11&gt; o a entrambi.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190318T114219Z" creationid="Elisabetta Manuele" creationdate="20170519T091002Z">
+        <seg>Per cambiare il modo in cui LibreOffice memorizza i collegamenti ipertestuali nei file, selezionate il menu &lt;f0&gt;Strumenti&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Opzioni&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Carica/salva&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; &gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;Generale&lt;/f9&gt; e scegliete se salvare gli URL in modo relativo, quando fanno riferimento al &lt;f10&gt;File System&lt;/f10&gt;, a &lt;f11&gt;Internet&lt;/f11&gt; o a entrambi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64843,8 +64843,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>When you rest the mouse pointer on a hyperlink, a help tip displays the absolute reference, since LibreOffice uses absolute path names internally.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T092003Z" creationid="Elisabetta Manuele" creationdate="20170519T092003Z">
-        <seg>Quando mantenete il puntatore del mouse su un collegamento ipertestuale, un suggerimento visualizza il riferimento assoluto, poiché LibreOffice al proprio interno utilizza nomi di percorso assoluti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190318T120208Z" creationid="Elisabetta Manuele" creationdate="20170519T092003Z">
+        <seg>Quando mantenete il puntatore del mouse su un collegamento ipertestuale, un suggerimento mostra il riferimento assoluto, poiché LibreOffice internamente utilizza nomi di percorso assoluti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68635,8 +68635,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>creating</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T163502Z" creationid="steevie" creationdate="20160428T163502Z">
-        <seg>creare</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190318T120427Z" creationid="steevie" creationdate="20160428T163502Z">
+        <seg>creazione</seg>
       </tuv>
     </tu>
     <tu>
