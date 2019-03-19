@@ -18208,8 +18208,8 @@
       <tuv lang="EN">
         <seg>Click on the &lt;f2&gt;Target in document&lt;/f2&gt; icon to open the Navigator where you can select the target, or if you know the name of the target, you can type it into the box.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T095658Z" creationid="Elisabetta Manuele" creationdate="20170519T095658Z">
-        <seg>Fate clic sull'icona &lt;f2&gt;Destinazione nel documento&lt;/f2&gt; per aprire il Navigatore che consente di selezionare la destinazione; oppure, se ne conoscete il nome, potete digitarlo direttamente nella casella.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190319T115521Z" creationid="Elisabetta Manuele" creationdate="20170519T095658Z">
+        <seg>Fate clic sull'icona &lt;f2&gt;Destinazione nel documento&lt;/f2&gt; per aprire il Navigatore, da dove potete selezionare la destinazione; oppure, se ne conoscete il nome, potete digitarlo direttamente nel riquadro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26672,8 +26672,8 @@
       <tuv lang="EN">
         <seg>For a &lt;f0&gt;Document&lt;/f0&gt; hyperlink, specify the document path (the &lt;f1&gt;Open File&lt;/f1&gt; button opens a file browser); leave this blank if you want to link to a target in the same spreadsheet.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190319T113253Z" creationid="Elisabetta Manuele" creationdate="20170519T095502Z">
-        <seg>aaaaPer un collegamento ipertestuale della categoria &lt;f0&gt;Documento&lt;/f0&gt;, specificate il percorso del documento, (il pulsante &lt;f1&gt;Apri file&lt;/f1&gt; apre una finestra di esplorazione file); non inserite nulla se desiderate un collegamento a una destinazione presente nello stesso documento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190319T114323Z" creationid="Elisabetta Manuele" creationdate="20170519T095502Z">
+        <seg>Per un collegamento ipertestuale della categoria &lt;f0&gt;Documento&lt;/f0&gt;, specificate il percorso del documento (il pulsante &lt;f1&gt;Apri file&lt;/f1&gt; apre una finestra di esplorazione file); non inserite nulla se desiderate un collegamento a una destinazione presente nello stesso foglio elettronico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26688,8 +26688,8 @@
       <tuv lang="EN">
         <seg>For a &lt;f0&gt;New Document&lt;/f0&gt; hyperlink, specify whether to edit the newly created document immediately (&lt;f1&gt;Edit now&lt;/f1&gt;) or just create it (&lt;f2&gt;Edit later&lt;/f2&gt;), and enter the file name and the type of document to create (text, spreadsheet, etc.).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T095859Z" creationid="Elisabetta Manuele" creationdate="20170519T095859Z">
-        <seg>Per un collegamento ipertestuale della categoria &lt;f0&gt;Nuovo documento&lt;/f0&gt;, specificate se modificare subito il documento appena creato (&lt;f1&gt;Modifica subito&lt;/f1&gt;) oppure in un secondo momento (&lt;f2&gt;Modifica dopo&lt;/f2&gt;), inserite il nome del file, e selezionate il tipo di documento da creare (documento di testo, foglio di lavoro, ecc.).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190319T115541Z" creationid="Elisabetta Manuele" creationdate="20170519T095859Z">
+        <seg>aaaaPer un collegamento ipertestuale della categoria &lt;f0&gt;Nuovo documento&lt;/f0&gt;, specificate se modificare subito il documento appena creato (&lt;f1&gt;Modifica subito&lt;/f1&gt;) oppure in un secondo momento (&lt;f2&gt;Modifica dopo&lt;/f2&gt;), inserite il nome del file, e selezionate il tipo di documento da creare (documento di testo, foglio di lavoro, ecc.).</seg>
       </tuv>
     </tu>
     <tu>
