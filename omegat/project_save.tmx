@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -512,8 +512,8 @@
       <tuv lang="EN">
         <seg>(To use other data sources, including database files in LibreOffice Base, see “&lt;bf1&gt;Linking to registered data sources&lt;/bf1&gt;” on page &lt;bf2&gt;258&lt;/bf2&gt;.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T162411Z" creationid="Elisabetta Manuele" creationdate="20170519T162411Z">
-        <seg>(per utilizzare altre sorgenti dati, compresi file di database di LibreOffice Base, consultate la sezione “&lt;bf1&gt;Collegarsi a sorgenti dati registrate&lt;/bf1&gt;”, a pag. &lt;bf2&gt;258&lt;/bf2&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190401T142831Z" creationid="Elisabetta Manuele" creationdate="20170519T162411Z">
+        <seg>aaaa(per utilizzare altre sorgenti dati, compresi file di database di LibreOffice Base, consultate la sezione “&lt;bf1&gt;Collegarsi a sorgenti dati registrate&lt;/bf1&gt;”, a pag. &lt;bf2&gt;258&lt;/bf2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -67251,8 +67251,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>You can use the same method to insert data located within named ranges from a &lt;f0&gt;LibreOffice&lt;/f0&gt; Calc or Microsoft Excel spreadsheet, into a Calc spreadsheet.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190323T193422Z" creationid="Elisabetta Manuele" creationdate="20170519T114021Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaPotete servirvi dello stesso metodo per inserire in un foglio Calc dati contenuti all'interno di intervalli di celle denominati generati da un foglio di lavoro &lt;f0&gt;LibreOffice&lt;/f0&gt; Calc o Microsoft Excel</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190401T142827Z" creationid="Elisabetta Manuele" creationdate="20170519T114021Z">
+        <seg>Potete servirvi dello stesso metodo per inserire in un foglio elettronico di Calc dati contenuti all'interno di intervalli di celle denominati, generati da un foglio elettronico di &lt;f0&gt;LibreOffice&lt;/f0&gt; Calc o Microsoft Excel.</seg>
       </tuv>
     </tu>
     <tu>
