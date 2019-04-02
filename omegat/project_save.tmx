@@ -13392,8 +13392,8 @@
       <tuv lang="EN">
         <seg>As much formatting as possible is retained while the filter intentionally does not import any images.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T164300Z" creationid="Elisabetta Manuele" creationdate="20170519T164300Z">
-        <seg>La formattazione verrà conservata il più possibile, mentre il filtro non importerà volutamente alcuna immagine.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190402T105210Z" creationid="Elisabetta Manuele" creationdate="20170519T164300Z">
+        <seg>aaaaaaaaaaaaaaaaLa formattazione verrà conservata il più possibile, mentre il filtro non importerà volutamente alcuna immagine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17752,8 +17752,8 @@
       <tuv lang="EN">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; and Calc loads the list of available tables (&lt;t1&gt;Figure 264&lt;/t1&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T164209Z" creationid="Elisabetta Manuele" creationdate="20170519T164209Z">
-        <seg>Fate clic su &lt;f0&gt;OK&lt;/f0&gt; e il programma caricherà l'elenco delle tabelle disponibili (Figura &lt;t1&gt;264&lt;/t1&gt;). </seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190402T105059Z" creationid="Elisabetta Manuele" creationdate="20170519T164209Z">
+        <seg>Fate clic su &lt;f0&gt;OK&lt;/f0&gt; e Calc caricherà l'elenco delle tabelle disponibili (&lt;t1&gt;Figura 264&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -26664,8 +26664,8 @@
       <tuv lang="EN">
         <seg>For URLs to HTML (web) documents, pressing &lt;f0&gt;Enter&lt;/f0&gt; at step 4, or &lt;f1&gt;Insert&lt;/f1&gt; at step 5, opens the Import Options dialog.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190402T101029Z" creationid="Elisabetta Manuele" creationdate="20170519T163859Z">
-        <seg>aaaaPer inserire URL che puntano a documenti HTML (web), la pressione del tasto &lt;f0&gt;Invio&lt;/f0&gt; al punto 4, o del pulsante &lt;f1&gt;Inserisci&lt;/f1&gt; al punto 5, aprirà la finestra di dialogo Opzioni di importazione,</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190402T103723Z" creationid="Elisabetta Manuele" creationdate="20170519T163859Z">
+        <seg>Per URL che puntano a documenti HTML (web), premendo il tasto &lt;f0&gt;Invio&lt;/f0&gt; al punto 4, o il pulsante &lt;f1&gt;Inserisci&lt;/f1&gt; al punto 5, si aprirà la finestra di dialogo Opzioni di importazione,</seg>
       </tuv>
     </tu>
     <tu>
@@ -47298,8 +47298,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Select &lt;f2&gt;Automatic&lt;/f2&gt; to let Calc import the data directly, or select &lt;f3&gt;Custom&lt;/f3&gt; and choose from the drop-down list of languages available.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T164026Z" creationid="Elisabetta Manuele" creationdate="20170519T164026Z">
-        <seg>Scegliete l'opzione &lt;f2&gt;Automatico&lt;/f2&gt; per affidare al programma l'importazione diretta dei dati, o &lt;f3&gt;Personalizzato&lt;/f3&gt; per selezionare personalmente una lingua dall'elenco a discesa.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190402T104216Z" creationid="Elisabetta Manuele" creationdate="20170519T164026Z">
+        <seg>Selezionate l'opzione &lt;f2&gt;Automatico&lt;/f2&gt; per affidare al programma l'importazione diretta dei dati, o &lt;f3&gt;Personalizzato&lt;/f3&gt; per scegliere una lingua dall'elenco a discesa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53803,8 +53803,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The filter can create names for cell ranges as they are imported.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T164235Z" creationid="Elisabetta Manuele" creationdate="20170519T164235Z">
-        <seg>Il filtro consente di creare nomi per gli intervalli di cella durante la fase di importazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190402T105205Z" creationid="Elisabetta Manuele" creationdate="20170519T164235Z">
+        <seg>Il filtro consente di creare nomi per gli intervalli di celle durante la fase di importazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66043,8 +66043,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>You can also select the option to have Calc recognise special numbers such as dates on import.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T164048Z" creationid="Elisabetta Manuele" creationdate="20170519T164048Z">
-        <seg>Potete anche selezionare l'opzione per assegnare al programma il compito di riconoscere numeri speciali come le date, in fase di importazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190402T104616Z" creationid="Elisabetta Manuele" creationdate="20170519T164048Z">
+        <seg>Potete anche selezionare l'opzione per fare in modo che Calc riconosca numeri speciali come le date in fase di importazione.</seg>
       </tuv>
     </tu>
     <tu>
