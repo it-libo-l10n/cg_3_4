@@ -312,8 +312,8 @@
       <tuv lang="EN">
         <seg>(In &lt;t0&gt;Figure 266&lt;/t0&gt;, the source is named &lt;f1&gt;actives&lt;/f1&gt;.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T170833Z" creationid="Elisabetta Manuele" creationdate="20170519T170833Z">
-        <seg>(Nella figura &lt;t0&gt;266&lt;/t0&gt; il documento sorgente è denominato &lt;f1&gt;Actives&lt;/f1&gt; (Attivo).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190403T110809Z" creationid="Elisabetta Manuele" creationdate="20170519T170833Z">
+        <seg>(nella &lt;t0&gt;Figura 266&lt;/t0&gt; il documento sorgente è denominato &lt;f1&gt;actives&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18200,8 +18200,8 @@
       <tuv lang="EN">
         <seg>Click on the + next to &lt;f0&gt;Range names&lt;/f0&gt; to display the list.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T170933Z" creationid="Elisabetta Manuele" creationdate="20170519T170933Z">
-        <seg>Fate clic sul simbolo accanto alla voce &lt;f0&gt;Nomi dell'area&lt;/f0&gt; per visualizzare l'elenco.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190403T111148Z" creationid="Elisabetta Manuele" creationdate="20170519T170933Z">
+        <seg>aaaaaaaaaaaaaaaaaaaFate clic sul simbolo accanto alla voce &lt;f0&gt;Nomi dell'area&lt;/f0&gt; per visualizzare l'elenco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24888,8 +24888,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;265&lt;/seq0&gt;: Opening a file using the Web Page Query filter</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T170421Z" creationid="Elisabetta Manuele" creationdate="20170519T170421Z">
-        <seg>Figura &lt;seq0&gt;265&lt;/seq0&gt;: aprire un file mediante filtro Ricerca pagina Web</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190403T110218Z" creationid="Elisabetta Manuele" creationdate="20170519T170421Z">
+        <seg>Figura &lt;seq0&gt;265&lt;/seq0&gt;: apertura di un file mediante il filtro Ricerca pagina Web</seg>
       </tuv>
     </tu>
     <tu>
@@ -33945,8 +33945,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>In the Navigator, select the &lt;f0&gt;Insert as Link&lt;/f0&gt; drag mode, as shown in &lt;t1&gt;Figure 266&lt;/t1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T172308Z" creationid="Elisabetta Manuele" creationdate="20170519T172308Z">
-        <seg>Nella finesta Navigatore selezionate l'icona Modo trascinamento e &lt;f0&gt;Inserisci come collegamento&lt;/f0&gt;, come illustrato nella figura &lt;t1&gt;266&lt;/t1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190403T111153Z" creationid="Elisabetta Manuele" creationdate="20170519T172308Z">
+        <seg>Nella finestra Navigatore selezionate l'icona Modo trascinamento e &lt;f0&gt;Inserisci come collegamento&lt;/f0&gt;, come illustrato nella figura &lt;t1&gt;266&lt;/t1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52139,8 +52139,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The Navigator now shows the range names or the tables contained in the source document (the example contains range names; other documents have a list of tables).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T170905Z" creationid="Elisabetta Manuele" creationdate="20170519T170905Z">
-        <seg>Il Navigatore presenta quindi i nomi degli intervalli o le tabelle contenuti nel documento sorgente (l'esempio a disposizione contiene nomi di intervalli, altri documenti conterranno un elenco di tabelle). </seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190403T111145Z" creationid="Elisabetta Manuele" creationdate="20170519T170905Z">
+        <seg>Il Navigatore presenta quindi i nomi degli intervalli o le tabelle contenuti nel documento sorgente (l'esempio contiene nomi di intervalli; altri documenti conterranno un elenco di tabelle).</seg>
       </tuv>
     </tu>
     <tu>
@@ -56347,8 +56347,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The source document can be a Web page, created by choosing &lt;f0&gt;Web Page Query (Open&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Office&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Calc)&lt;/f3&gt; as the file type, and entering the URL into the File name box, before pressing &lt;f4&gt;Open&lt;/f4&gt;&lt;f5&gt; (see &lt;/f5&gt;&lt;f6&gt;&lt;t7&gt;Figure 265&lt;/t7&gt;&lt;/f6&gt;&lt;f8&gt;).&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190403T092125Z" creationid="Elisabetta Manuele" creationdate="20170519T165245Z">
-        <seg>aaaaIl documento sorgente può essere costituito da una pagina Web creata mediante scelta della voce &lt;f0&gt;Ricerca pagina Web (Open&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Office&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Calc)&lt;/f3&gt; come tipo di file e inserimento della relativa URL nella casella Nome file, prima di premere il pulsante &lt;f4&gt;Inserisci&lt;/f4&gt;&lt;f5&gt; (&lt;/f5&gt;&lt;f6&gt;Figura &lt;t7&gt;265&lt;/t7&gt;&lt;/f6&gt;&lt;f8&gt;).&lt;/f8&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190403T110041Z" creationid="Elisabetta Manuele" creationdate="20170519T165245Z">
+        <seg>Il documento sorgente può essere una pagina web, creata scegliendo la voce &lt;f0&gt;Ricerca pagina Web (Open&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Office.org&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Calc)&lt;/f3&gt; come tipo di file e inserendo il relativo URL nella casella Nome file, prima di fare clic sul pulsante &lt;f4&gt;Apri&lt;/f4&gt;&lt;f5&gt; (vedete la &lt;/f5&gt;&lt;f6&gt;&lt;t7&gt;Figura 265&lt;/t7&gt;&lt;/f6&gt;&lt;f8&gt;).&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
