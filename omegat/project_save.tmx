@@ -31048,16 +31048,16 @@
       <tuv lang="EN">
         <seg>If the data range or table you want is not named, how can you tell which one to select?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T160309Z" creationid="Elisabetta Manuele" creationdate="20170519T173928Z">
-        <seg>Ma se l'area dati o la tabella desiderata non è stata denominata come è possibile individuare quella da selezionare?</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190404T105034Z" creationid="Elisabetta Manuele" creationdate="20170519T173928Z">
+        <seg>Se però l'area dati o la tabella desiderata non è stata denominata potreste non sapere come individuare quella da selezionare; fate allora come segue.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If the data tables in the source HTML document have been given names (using the ID attribute on the TABLE tag), or the external spreadsheet includes named ranges, those names appear in the list along with the ranges Calc has sequentially numbered.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T173843Z" creationid="Elisabetta Manuele" creationdate="20170519T173843Z">
-        <seg>Nel caso in cui alle tabelle del documento HTML sorgente siano state attribuite denominazioni (mediante attributo ID per il tag TABLE), o i fogli di lavoro esterni includano intervalli denominati, i nomi compariranno nell'elenco unitamente agli intervalli numerati in sequenza dal programma.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190404T104704Z" creationid="Elisabetta Manuele" creationdate="20170519T173843Z">
+        <seg>Nel caso in cui alle tabelle del documento HTML sorgente siano state attribuite denominazioni (mediante l'attributo ID per il tag TABLE), o i fogli elettronici esterni includano intervalli denominati, i nomi compariranno nell'elenco unitamente agli intervalli numerati in sequenza dal programma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33937,8 +33937,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>In the Navigator, double-click on a range name: that range is highlighted on the sheet (see &lt;t0&gt;Figure 268&lt;/t0&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T174014Z" creationid="Elisabetta Manuele" creationdate="20170519T174014Z">
-        <seg>All'interno del Navigatore fate doppio clic su un nome d'area, che apparirà selezionato nel foglio (Figura &lt;t0&gt;268&lt;/t0&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190404T105049Z" creationid="Elisabetta Manuele" creationdate="20170519T174014Z">
+        <seg>aaaaaaaaaaaaaaaaaaAll'interno del Navigatore fate doppio clic su un nome d'area, che apparirà selezionato nel foglio (Figura &lt;t0&gt;268&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
