@@ -504,8 +504,8 @@
       <tuv lang="EN">
         <seg>(To register means to tell LibreOffice what type of data source it is and where the file is located.) The way to do this depends on whether or not the data source is a database in *.odb format.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T174448Z" creationid="Elisabetta Manuele" creationdate="20170519T174448Z">
-        <seg>(ciò significa comunicare a LibreOffice il tipo e l'ubicazione del file sorgente). Il metodo di registrazione varia in base alla sorgente dati, cioè se si tratta di un database in formato *.odb oppure no.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190405T101825Z" creationid="Elisabetta Manuele" creationdate="20170519T174448Z">
+        <seg>aaaa(ciò significa comunicare a LibreOffice il tipo e l'ubicazione del file sorgente). Il metodo di registrazione varia in base alla sorgente dati, cioè se si tratta di un database in formato *.odb oppure no.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36529,8 +36529,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>Linking to registered data sources</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190405T090230Z">
-        <seg>aaaaCollegamento a sorgenti dati registrate</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190405T101514Z">
+        <seg>Collegamento a sorgenti dati registrate</seg>
       </tuv>
     </tu>
     <tu>
@@ -65667,8 +65667,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>You can access a variety of databases and other &lt;i0/&gt;&lt;i1/&gt;data sources and link them into Calc documents.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T174336Z" creationid="Elisabetta Manuele" creationdate="20170519T174336Z">
-        <seg>Potete avere accesso a un'ampia gamma di database e ad altre &lt;i0/&gt;&lt;i1/&gt;sorgenti dati da collegare a documenti Calc.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190405T101740Z" creationid="Elisabetta Manuele" creationdate="20170519T174336Z">
+        <seg>Potete avere accesso a un'ampia gamma di database e altre &lt;i0/&gt;&lt;i1/&gt;sorgenti dati e collegarli a documenti Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69771,8 +69771,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>linking</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160820T052812Z" creationid="briga" creationdate="20160820T052812Z">
-        <seg>collegare</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190405T101536Z" creationid="briga" creationdate="20160820T052812Z">
+        <seg>collegamento</seg>
       </tuv>
     </tu>
     <tu>
