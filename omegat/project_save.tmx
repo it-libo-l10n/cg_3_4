@@ -504,8 +504,8 @@
       <tuv lang="EN">
         <seg>(To register means to tell LibreOffice what type of data source it is and where the file is located.) The way to do this depends on whether or not the data source is a database in *.odb format.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190405T101825Z" creationid="Elisabetta Manuele" creationdate="20170519T174448Z">
-        <seg>aaaa(ciò significa comunicare a LibreOffice il tipo e l'ubicazione del file sorgente). Il metodo di registrazione varia in base alla sorgente dati, cioè se si tratta di un database in formato *.odb oppure no.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190405T102218Z" creationid="Elisabetta Manuele" creationdate="20170519T174448Z">
+        <seg>(ciò significa comunicare a LibreOffice il tipo e l'ubicazione del file sorgente). Il metodo di registrazione varia in base alla sorgente dati, se si tratta cioè di un database in formato *.odb o meno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60611,8 +60611,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>To register a data source that is in *.odb format:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T174503Z" creationid="Elisabetta Manuele" creationdate="20170519T174503Z">
-        <seg>Per registrare una sorgente dati in formato *odb procedete nel modo seguente:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190405T102221Z" creationid="Elisabetta Manuele" creationdate="20170519T174503Z">
+        <seg>aaaaPer registrare una sorgente dati in formato *odb procedete nel modo seguente:</seg>
       </tuv>
     </tu>
     <tu>
