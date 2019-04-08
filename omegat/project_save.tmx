@@ -17144,8 +17144,8 @@
       <tuv lang="EN">
         <seg>Choose &lt;f0&gt;File&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;New&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Database&lt;/f6&gt; to open the Database Wizard.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T175317Z" creationid="Elisabetta Manuele" creationdate="20170519T175317Z">
-        <seg>Selezionate il menu &lt;f0&gt;File&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Nuovo&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Database&lt;/f6&gt; per aprire la Creazione guidata database.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190408T105531Z" creationid="Elisabetta Manuele" creationdate="20170519T175317Z">
+        <seg>Scegliete il menu &lt;f0&gt;File&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Nuovo&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Database&lt;/f6&gt; per aprire la Creazione guidata database.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24944,8 +24944,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;271&lt;/seq0&gt;: Registering a database using the Database Wizard</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T175522Z" creationid="Elisabetta Manuele" creationdate="20170519T175522Z">
-        <seg>Figura &lt;seq0&gt;271&lt;/seq0&gt;: registrare un database tramite Creazione guidata database</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190408T110339Z" creationid="Elisabetta Manuele" creationdate="20170519T175522Z">
+        <seg>Figura &lt;seq0&gt;271&lt;/seq0&gt;: registrazione di un database tramite la Creazione guidata database</seg>
       </tuv>
     </tu>
     <tu>
@@ -26976,8 +26976,8 @@
       <tuv lang="EN">
         <seg>For example, Microsoft Access and other Microsoft products are not among the choices if you are using Linux.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T175416Z" creationid="Elisabetta Manuele" creationdate="20170519T175416Z">
-        <seg>Per esempio, Microsoft Access e altri prodotti Microsoft non compariranno tra le scelte in un sistema Linux.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190408T110110Z" creationid="Elisabetta Manuele" creationdate="20170519T175416Z">
+        <seg>Ad esempio, Microsoft Access e altri prodotti Microsoft non compariranno tra le scelte disponibili in un sistema Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33536,8 +33536,8 @@
       <tuv lang="EN">
         <seg>In our example, we chose dBASE.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T175447Z" creationid="Elisabetta Manuele" creationdate="20170519T175447Z">
-        <seg>Nell'esempio sottostante abbiamo optato per dBASE.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190408T110143Z" creationid="Elisabetta Manuele" creationdate="20170519T175447Z">
+        <seg>Nell'esempio sottostante si è optato per dBASE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52867,8 +52867,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The choices for database type depend on your operating system.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T175352Z" creationid="Elisabetta Manuele" creationdate="20170519T175352Z">
-        <seg>La scelta relativa al tipo di database dipende dal sistema operativo in uso.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190408T105948Z" creationid="Elisabetta Manuele" creationdate="20170519T175352Z">
+        <seg>Le scelte possibili per il tipo di database dipendono dal sistema operativo in uso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53299,8 +53299,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The database is added to the list of registered databases.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190408T104248Z" creationid="Elisabetta Manuele" creationdate="20170519T175108Z">
-        <seg>aaaaIl database sarà aggiunto all'elenco di quelli registrati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190408T104607Z" creationid="Elisabetta Manuele" creationdate="20170519T175108Z">
+        <seg>Il database sarà aggiunto all'elenco di quelli registrati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60603,8 +60603,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>To register a data source that is &lt;f0&gt;not&lt;/f0&gt; in *.odb format:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T175203Z" creationid="Elisabetta Manuele" creationdate="20170519T175203Z">
-        <seg>Per registrare una sorgente dati in formato &lt;f0&gt;diverso da&lt;/f0&gt; *odb procedete nel modo seguente:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190408T105116Z" creationid="Elisabetta Manuele" creationdate="20170519T175203Z">
+        <seg>Per registrare una sorgente dati in formato &lt;f0&gt;diverso da&lt;/f0&gt; *.odb procedete nel modo seguente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -61747,8 +61747,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Type the path to the database file or click &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Browse&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; and use the Open dialog to navigate to and select the database file before clicking &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;Open&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;.&lt;/f10&gt;&lt;/f9&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T180112Z" creationid="Elisabetta Manuele" creationdate="20170519T180112Z">
-        <seg>Digitate il percorso del file di database o fate clic su &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Sfoglia&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; per individuare e selezionare il file di database tramite la finestra di dialogo Apri, dopodiché selezionate il pulsante &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;Apri&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;.&lt;/f10&gt;&lt;/f9&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190408T110418Z" creationid="Elisabetta Manuele" creationdate="20170519T180112Z">
+        <seg>aaaaDigitate il percorso del file di database o fate clic su &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Sfoglia&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; per individuare e selezionare il file di database tramite la finestra di dialogo Apri, dopodiché selezionate il pulsante &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;Apri&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;.&lt;/f10&gt;&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
