@@ -47122,8 +47122,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Select &lt;/f2&gt;&lt;f3&gt;Yes, register the database for me&lt;/f3&gt;, but clear the checkbox marked &lt;f4&gt;Open the database for editing&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170519T180312Z" creationid="Elisabetta Manuele" creationdate="20170519T180312Z">
-        <seg>Selezionate &lt;/f2&gt;&lt;f3&gt;Sì, registra il database&lt;/f3&gt;, ma deselezionate la casella &lt;f4&gt;Apri il database per la modifica&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190408T130016Z" creationid="Elisabetta Manuele" creationdate="20170519T180312Z">
+        <seg>aaaaSelezionate &lt;/f2&gt;&lt;f3&gt;Sì, registra il database&lt;/f3&gt;, ma deselezionate la casella &lt;f4&gt;Apri il database per la modifica&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -61747,8 +61747,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Type the path to the database file or click &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Browse&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; and use the Open dialog to navigate to and select the database file before clicking &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;Open&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;.&lt;/f10&gt;&lt;/f9&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190408T110418Z" creationid="Elisabetta Manuele" creationdate="20170519T180112Z">
-        <seg>aaaaDigitate il percorso del file di database o fate clic su &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Sfoglia&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; per individuare e selezionare il file di database tramite la finestra di dialogo Apri, dopodiché selezionate il pulsante &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;Apri&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;.&lt;/f10&gt;&lt;/f9&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190408T125929Z" creationid="Elisabetta Manuele" creationdate="20170519T180112Z">
+        <seg>Digitate il percorso del file database oppure fate clic sul pulsante &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Sfoglia&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; e usate poi la finestra di dialogo Seleziona percorso per individuare e selezionare il file database, quindi fate clic, nella medesima finestra, sul pulsante &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;Seleziona&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;.&lt;/f10&gt;&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
