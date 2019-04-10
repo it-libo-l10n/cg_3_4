@@ -14168,8 +14168,8 @@
       <tuv lang="EN">
         <seg>Below the &lt;f0&gt;records is the Form Navigation bar, which shows which record is selected and the total number of records.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190409T110354Z" creationid="Elisabetta Manuele" creationdate="20170522T172608Z">
-        <seg>aaaaaaaaaaaaaaaaaaSotto ai &lt;f0&gt;record di dati è visibile la barra di Navigazione formulario che visualizza l'insieme totale dei record e quelli selezionati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190410T071906Z" creationid="Elisabetta Manuele" creationdate="20170522T172608Z">
+        <seg>Sotto i &lt;f0&gt;record di dati è visibile la barra di Navigazione formulario, che visualizza l'insieme totale dei record e quelli selezionati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24960,8 +24960,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;273&lt;/seq0&gt;: Data Source View navigation buttons</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170522T172733Z" creationid="Elisabetta Manuele" creationdate="20170522T172733Z">
-        <seg>Figura &lt;seq0&gt;273&lt;/seq0&gt;: pulsanti di navigazione all'interno della Visualizzazione sorgenti dati</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190410T072422Z" creationid="Elisabetta Manuele" creationdate="20170522T172733Z">
+        <seg>Figura &lt;seq0&gt;273&lt;/seq0&gt;: pulsanti di navigazione all'interno della Visualizzazione delle sorgenti dati</seg>
       </tuv>
     </tu>
     <tu>
@@ -31768,8 +31768,8 @@
       <tuv lang="EN">
         <seg>If you cannot save your edits, you need to open &lt;s0/&gt;the database in Base and edit it there; see “&lt;bf1&gt;Launching Base to work on data sources&lt;/bf1&gt;”.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170522T173332Z" creationid="Elisabetta Manuele" creationdate="20170522T173332Z">
-        <seg>Se risulta impossibile salvare le modifiche apportate, è necessario aprire il &lt;s0/&gt;database in LibreOffice Base e procedere alla modifica all'interno di quest'ultimo. Consultate la sezione “&lt;bf1&gt;Avvio di Base per lavorare con sorgenti dati&lt;/bf1&gt;”.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190410T073323Z" creationid="Elisabetta Manuele" creationdate="20170522T173332Z">
+        <seg>aaaaSe risulta impossibile salvare le modifiche apportate, è necessario aprire il &lt;s0/&gt;database in LibreOffice Base e procedere alla modifica all'interno di quest'ultimo. Consultate la sezione “&lt;bf1&gt;Avvio di Base per lavorare con sorgenti dati&lt;/bf1&gt;”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33312,8 +33312,8 @@
       <tuv lang="EN">
         <seg>In editable data sources, records can be edited, added, or deleted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170522T172913Z" creationid="Elisabetta Manuele" creationdate="20170522T172913Z">
-        <seg>Nelle sorgenti dati modificabili i record si possono modificare, aggiungere o eliminare.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190410T073321Z" creationid="Elisabetta Manuele" creationdate="20170522T172913Z">
+        <seg>Nelle sorgenti dati modificabili è possibile modificare, aggiungere o eliminare i record.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49466,8 +49466,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Some data sources (such as spreadsheets) cannot be edited in the data source view.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170522T172842Z" creationid="Elisabetta Manuele" creationdate="20170522T172842Z">
-        <seg>Alcune sorgenti dati (per esempio i fogli di lavoro) non possono essere modificate all'interno della finestra Visualizza sorgenti dati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190410T072920Z" creationid="Elisabetta Manuele" creationdate="20170522T172842Z">
+        <seg>Alcune sorgenti dati (come ad esempio i fogli elettronici) non possono essere modificate all'interno della finestra di Visualizzazione delle sorgenti dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54451,8 +54451,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The last is for adding new records.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170522T172707Z" creationid="Elisabetta Manuele" creationdate="20170522T172707Z">
-        <seg>L'ultimo è predisposto per l'aggiunta di nuovi record.&lt;/f0&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190410T072029Z" creationid="Elisabetta Manuele" creationdate="20170522T172707Z">
+        <seg>mentre l'ultimo permette di aggiungere nuovi record.&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -61235,8 +61235,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>To the right are five small buttons; the first four move backwards or forwards through the records, or to the beginning or end.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170522T172650Z" creationid="Elisabetta Manuele" creationdate="20170522T172650Z">
-        <seg>Sulla destra si notano 5 piccoli pulsanti i cui primi quattro permettono di spostarsi indietro o avanti attraverso i record, oppure direttamente all'inizio o alla fine.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190410T071945Z" creationid="Elisabetta Manuele" creationdate="20170522T172650Z">
+        <seg>Sulla destra si notano 5 piccoli pulsanti: i primi quattro permettono di spostarsi indietro o avanti attraverso i record, oppure direttamente all'inizio o alla fine,</seg>
       </tuv>
     </tu>
     <tu>
