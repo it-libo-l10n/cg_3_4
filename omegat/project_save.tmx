@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4096,8 +4096,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Add the &lt;/f0&gt;&lt;f1&gt;Form Navigation&lt;/f1&gt;&lt;f2&gt; toolbar: &lt;/f2&gt;&lt;f3&gt;View&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Toolbars&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; &gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;Form Navigation&lt;/f9&gt;&lt;f10&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170522T181130Z" creationid="Elisabetta Manuele" creationdate="20170522T181130Z">
-        <seg>&lt;f0&gt;Aprite la &lt;/f0&gt;&lt;f1&gt;barra Navigazione Formulario&lt;/f1&gt;&lt;f2&gt; tramite menu &lt;/f2&gt;&lt;f3&gt;Visualizza&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Barre degli strumenti&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; &gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;Navigazione Formulario&lt;/f9&gt;&lt;f10&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190413T110416Z" creationid="Elisabetta Manuele" creationdate="20170522T181130Z">
+        <seg>aaaa&lt;f0&gt;Aprite la &lt;/f0&gt;&lt;f1&gt;barra Navigazione Formulario&lt;/f1&gt;&lt;f2&gt; tramite menu &lt;/f2&gt;&lt;f3&gt;Visualizza&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Barre degli strumenti&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; &gt; &lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;Navigazione Formulario&lt;/f9&gt;&lt;f10&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7200,8 +7200,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Save the spreadsheet and click the &lt;/f0&gt;&lt;f1&gt;Edit File&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;button &lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt; on the Standard toolbar, to make the spreadsheet read-only.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190412T150230Z" creationid="Elisabetta Manuele" creationdate="20170522T180819Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaa&lt;f0&gt;Salvate il foglio di lavoro e fate clic sul pulsante &lt;/f0&gt;&lt;f1&gt;Modifica file&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt; &lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt; nella barra degli strumenti standard per impostare il foglio in sola lettura. </seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190413T110313Z" creationid="Elisabetta Manuele" creationdate="20170522T180819Z">
+        <seg>&lt;f0&gt;Salvate il foglio elettronico e fate clic sul pulsante &lt;/f0&gt;&lt;f1&gt;Modifica file&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt; &lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt; nella barra degli strumenti Standard per impostare il foglio in sola lettura.</seg>
       </tuv>
     </tu>
     <tu>
