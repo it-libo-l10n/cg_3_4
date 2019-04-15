@@ -24968,7 +24968,7 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;274&lt;/seq0&gt;: Insert OLE object dialog</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T174355Z" creationid="Elisabetta Manuele" creationdate="20170523T174355Z">
+      <tuv lang="IT-IT" changeid="luke" changedate="20190415T101858Z" creationid="Elisabetta Manuele" creationdate="20170523T174355Z">
         <seg>Figura &lt;seq0&gt;274&lt;/seq0&gt;: finestra di dialogo Inserisci oggetto OLE</seg>
       </tuv>
     </tu>
@@ -41418,8 +41418,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Place the cursor in the document and location you want the OLE object to be.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T170014Z" creationid="Elisabetta Manuele" creationdate="20170523T170014Z">
-        <seg>Posizionate il cursore nel documento e nel punto in cui desiderate inserire l'oggetto OLE.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190415T100936Z" creationid="Elisabetta Manuele" creationdate="20170523T170014Z">
+        <seg>Posizionate il cursore nel punto del documento in cui desiderate inserire l'oggetto OLE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47146,7 +47146,7 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;Create new&lt;/f0&gt; and select the object type among the available options.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T174551Z" creationid="Elisabetta Manuele" creationdate="20170523T174551Z">
+      <tuv lang="IT-IT" changeid="luke" changedate="20190415T103153Z" creationid="Elisabetta Manuele" creationdate="20170523T174551Z">
         <seg>Selezionate l'opzione &lt;f0&gt;Crea nuovo&lt;/f0&gt;, quindi il tipo di oggetto desiderato tra le opzioni disponibili.</seg>
       </tuv>
     </tu>
@@ -47242,8 +47242,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;Insert&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Object&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;OLE Object&lt;/f6&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T174307Z" creationid="Elisabetta Manuele" creationdate="20170523T174307Z">
-        <seg>Selezionate il menu &lt;f0&gt;Inserisci&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Oggetto&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;OLE&lt;/f6&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190415T101418Z" creationid="Elisabetta Manuele" creationdate="20170523T174307Z">
+        <seg>Selezionate il menu &lt;f0&gt;Inserisci&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt; &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Oggetto&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt; &gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;Oggetto OLE&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59371,8 +59371,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>To create a new object:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T174440Z" creationid="Elisabetta Manuele" creationdate="20170523T174440Z">
-        <seg>Per creare un oggetto OLE nuovo:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190415T102958Z" creationid="Elisabetta Manuele" creationdate="20170523T174440Z">
+        <seg>Per creare un oggetto nuovo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -59811,8 +59811,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>To embed a spreadsheet as an OLE object in a presentation:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190415T093405Z" creationid="Elisabetta Manuele" creationdate="20170523T165954Z">
-        <seg>aaaaPer incorporare un foglio di lavoro come oggetto OLE in una presentazione, seguite questa procedura:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190415T100705Z" creationid="Elisabetta Manuele" creationdate="20170523T165954Z">
+        <seg>Per incorporare un foglio elettronico come oggetto OLE in una presentazione, seguite questa procedura:</seg>
       </tuv>
     </tu>
     <tu>
@@ -66635,8 +66635,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>You can either create a new OLE object or create from a file.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170523T174415Z" creationid="Elisabetta Manuele" creationdate="20170523T174415Z">
-        <seg>Potete creare un oggetto OLE nuovo o ricavarlo da un file.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190415T102809Z" creationid="Elisabetta Manuele" creationdate="20170523T174415Z">
+        <seg>Potete creare un oggetto OLE nuovo oppure crearne uno da un file esistente.</seg>
       </tuv>
     </tu>
     <tu>
