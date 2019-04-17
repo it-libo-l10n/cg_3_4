@@ -4904,8 +4904,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;DDE&lt;/f0&gt; is an acronym for &lt;i1/&gt;Dynamic Data Exchange, a mechanism whereby selected data in document &lt;f2&gt;A&lt;/f2&gt; can be pasted into document &lt;f3&gt;B&lt;/f3&gt; as a linked, ‘live’ copy of the original.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T110115Z" creationid="Elisabetta Manuele" creationdate="20170524T110115Z">
-        <seg>&lt;f0&gt;DDE&lt;/f0&gt; è un acronimo per &lt;i1/&gt;Dynamic Data Exchange (scambio dinamico dati), un meccanismo per cui dati selezionati in un documento &lt;f2&gt;A&lt;/f2&gt; possono essere incollati in un documento &lt;f3&gt;B&lt;/f3&gt; come copia collegata, ‘attiva’, dell'originale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190417T105233Z" creationid="Elisabetta Manuele" creationdate="20170524T110115Z">
+        <seg>&lt;f0&gt;DDE&lt;/f0&gt; è un acronimo per &lt;i1/&gt;Dynamic Data Exchange (scambio dinamico dei dati), un meccanismo per cui i dati selezionati nel documento &lt;f2&gt;A&lt;/f2&gt; possono essere incollati nel documento &lt;f3&gt;B&lt;/f3&gt; come copia collegata e ‘attiva’ dell'originale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21840,8 +21840,8 @@
       <tuv lang="EN">
         <seg>Dynamic Data Exchange (DDE)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T105945Z" creationid="Elisabetta Manuele" creationdate="20170524T105945Z">
-        <seg>Dynamic Dati Exchange (DDE)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190417T104443Z" creationid="Elisabetta Manuele" creationdate="20170524T105945Z">
+        <seg>Scambio dinamico dei dati (DDE - Dynamic Data Exchange)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32040,8 +32040,8 @@
       <tuv lang="EN">
         <seg>If you have a linked OLE spreadsheet object in an open Writer document and then open the same spreadsheet in Calc, the Calc spreadsheet will be a read-only copy.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190417T100229Z" creationid="Elisabetta Manuele" creationdate="20170524T105904Z">
-        <seg>aaaaSe un oggetto OLE collegato, ricavato da un foglio di lavoro, si trova in un documento Writer aperto, volendo aprire lo stesso foglio di lavoro in Calc esso avrà proprietà di sola lettura.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190417T104137Z" creationid="Elisabetta Manuele" creationdate="20170524T105904Z">
+        <seg>Se aprite un documento di Writer contenente un oggetto OLE collegato, creato da un foglio elettronico, e poi aprite lo stesso foglio elettronico in Calc, quest'ultimo sarà una copia in sola lettura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35761,8 +35761,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>It would be used, for example, in a report written in Writer containing time‑varying data, such as sales results sourced from a Calc spreadsheet.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T110137Z" creationid="Elisabetta Manuele" creationdate="20170524T110137Z">
-        <seg>È utilizzabile, per esempio, per un report redatto in Writer e contenente dati soggetti a variazioni di tempo, come volumi di vendita ricavati da un foglio di calcolo Calc.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190417T105235Z" creationid="Elisabetta Manuele" creationdate="20170524T110137Z">
+        <seg>aaaaÈ utilizzabile, per esempio, per un report redatto in Writer e contenente dati soggetti a variazioni di tempo, come volumi di vendita ricavati da un foglio di calcolo Calc.</seg>
       </tuv>
     </tu>
     <tu>
