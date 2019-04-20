@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10344,8 +10344,8 @@
       <tuv lang="EN">
         <seg>A dialog opens where you can enable or disable sharing.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190419T132750Z" creationid="Luciano B." creationdate="20160411T152924Z">
-        <seg>aaaaaaaaaaaaaaaaaaaApparirà una finestra di dialogo dove potete abilitare o disabilitare la condivisione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190420T113038Z" creationid="Luciano B." creationdate="20160411T152924Z">
+        <seg>Apparirà una finestra di dialogo dove potete abilitare o disabilitare la condivisione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25024,8 +25024,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;280&lt;/seq0&gt;: Choosing to share a spreadsheet</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T153022Z" creationid="Luciano B." creationdate="20160411T153022Z">
-        <seg>Figura &lt;seq0&gt;280&lt;/seq0&gt;: Scegliere di condividere un foglio elettronico</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190420T113438Z" creationid="Luciano B." creationdate="20160411T153022Z">
+        <seg>Figura &lt;seq0&gt;280&lt;/seq0&gt;: condivisione di un foglio elettronico</seg>
       </tuv>
     </tu>
     <tu>
@@ -59819,8 +59819,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>To enable sharing, check the box at the top of the dialog, and then click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T153340Z" creationid="Luciano B." creationdate="20160411T153340Z">
-        <seg>Per abilitare la condivisione, selezionate la casella nella parte superiore della finestra di dialogo, e quindi fate clic su &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190420T113639Z" creationid="Luciano B." creationdate="20160411T153340Z">
+        <seg>Per abilitare la condivisione, spuntate la casella nella parte superiore della finestra di dialogo, quindi fate clic su &lt;f0&gt;OK&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
