@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8464,8 +8464,8 @@
       <tuv lang="EN">
         <seg>&lt;f12&gt;Data &gt; Group&lt;/f12&gt; and &lt;f13&gt;Outline&lt;/f13&gt; (all)&lt;br14/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T161344Z" creationid="Luciano B." creationdate="20160411T161040Z">
-        <seg>&lt;f12&gt;Dati &gt; Raggruppa&lt;/f12&gt; e &lt;f13&gt;Struttura&lt;/f13&gt; (tutte)&lt;br14/&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190423T094337Z" creationid="Luciano B." creationdate="20160411T161040Z">
+        <seg>&lt;f12&gt;Dati &gt; Raggruppa&lt;/f12&gt; e &lt;f13&gt;struttura&lt;/f13&gt; (tutte)&lt;br14/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9024,8 +9024,8 @@
       <tuv lang="EN">
         <seg>&lt;f3&gt;Format &gt; Merge Cells &gt; Merge and Center&lt;/f3&gt;, &lt;f4&gt;Merge Cells&lt;/f4&gt;, &lt;f5&gt;Split Cells&lt;/f5&gt;&lt;br6/&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190420T131819Z" creationid="Luciano B." creationdate="20160411T160646Z">
-        <seg>aaaaaaaaaaaaaaaa&lt;f3&gt;Formato &gt; Unisci celle &gt; Unisci e centra le celle&lt;/f3&gt;, &lt;f4&gt;Unisci celle&lt;/f4&gt;, &lt;f5&gt;Dividi celle&lt;/f5&gt;&lt;br6/&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190423T092550Z" creationid="Luciano B." creationdate="20160411T160646Z">
+        <seg>&lt;f3&gt;Formato &gt; Unisci celle &gt; Unisci e centra le celle&lt;/f3&gt;, &lt;f4&gt;Unisci celle&lt;/f4&gt;, &lt;f5&gt;Dividi celle&lt;/f5&gt;&lt;br6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -64859,8 +64859,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>When you save a shared spreadsheet, one of several situations may occur:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T162124Z" creationid="Luciano B." creationdate="20160411T161640Z">
-        <seg>Quando si salva un foglio di calcolo condiviso, possono verificarsi una delle diverse condizioni:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190423T094646Z" creationid="Luciano B." creationdate="20160411T161640Z">
+        <seg>aaaaQuando si salva un foglio di calcolo condiviso, possono verificarsi una delle diverse condizioni:</seg>
       </tuv>
     </tu>
     <tu>
@@ -70731,8 +70731,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>saving shared</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T161506Z" creationid="Luciano B." creationdate="20160411T161506Z">
-        <seg>salvataggio di condivisi</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190423T094551Z" creationid="Luciano B." creationdate="20160411T161506Z">
+        <seg>salvataggio condivisi</seg>
       </tuv>
     </tu>
     <tu>
@@ -70859,7 +70859,7 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>shared spreadsheet</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190419T103709Z" creationid="Luciano B." creationdate="20160411T150855Z">
+      <tuv lang="IT-IT" changeid="luke" changedate="20190423T094511Z" creationid="Luciano B." creationdate="20160411T150855Z">
         <seg>foglio elettronico condiviso</seg>
       </tuv>
     </tu>
