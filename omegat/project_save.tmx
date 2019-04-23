@@ -25032,8 +25032,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;281&lt;/seq0&gt;: Update message after saving</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T162722Z" creationid="Luciano B." creationdate="20160411T162722Z">
-        <seg>Figura &lt;seq0&gt;281&lt;/seq0&gt;: Messaggio di aggiornamento dopo il salvataggio</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190423T104350Z" creationid="Luciano B." creationdate="20160411T162722Z">
+        <seg>Figura &lt;seq0&gt;281&lt;/seq0&gt;: messaggio di aggiornamento dopo il salvataggio</seg>
       </tuv>
     </tu>
     <tu>
@@ -30968,16 +30968,16 @@
       <tuv lang="EN">
         <seg>If the changes conflict, the Resolve Conflicts dialog is shown.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160429T144405Z" creationid="Luciano B." creationdate="20160411T162829Z">
-        <seg>Se le modifiche sono in conflitto, viene visualizzata la finestra di dialogo Risolvi conflitti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190423T104652Z" creationid="Luciano B." creationdate="20160411T162829Z">
+        <seg>Se le modifiche sono in conflitto, viene mostrata la finestra di dialogo Risolvi conflitti.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If the changes do not conflict, the document is saved, the message below appears, and any cells modified by the other user are shown with a red border.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160429T144345Z" creationid="Luciano B." creationdate="20160411T162643Z">
-        <seg>Se le modifiche non sono in conflitto, il documento viene salvato, appare il messaggio in basso, e le eventuali celle modificate dall'altro utente sono visualizzate con un bordo rosso.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190423T104210Z" creationid="Luciano B." creationdate="20160411T162643Z">
+        <seg>Se le modifiche non sono in conflitto, il documento viene salvato, appare il messaggio sotto riportato, e tutte le celle modificate dall'altro utente vengono mostrate con un bordo rosso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31080,16 +31080,16 @@
       <tuv lang="EN">
         <seg>If the document was modified and saved by another user since you opened it, one of the following events will occur:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T162454Z" creationid="Luciano B." creationdate="20160411T161921Z">
-        <seg>Se il documento è stato modificato e salvato da un altro utente da quando è stato aperto, si verificherà una delle seguenti condizioni:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190423T103421Z" creationid="Luciano B." creationdate="20160411T161921Z">
+        <seg>Se il documento è stato modificato e salvato da un altro utente dopo che voi lo avete aperto, si verificherà una delle seguenti condizioni:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If the document was not modified and saved by another user since you opened it, the document is saved.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190423T100123Z" creationid="Luciano B." creationdate="20160411T161726Z">
-        <seg>aaaaSe il documento non è stato modificato e salvato da un altro utente dopo essere stato aperto, il documento viene salvato..</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190423T103146Z" creationid="Luciano B." creationdate="20160411T161726Z">
+        <seg>Se il documento non è stato modificato e salvato da un altro utente dopo che voi lo avete aperto, il documento viene salvato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64139,8 +64139,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>When all conflicts are resolved, the document is saved.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T163045Z" creationid="Luciano B." creationdate="20160411T163045Z">
-        <seg>Qundo tutti i conflitti saranno risolti, il documento sarà salvato.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190423T105411Z" creationid="Luciano B." creationdate="20160411T163045Z">
+        <seg>Quando tutti i conflitti sono risolti, il documento verrà salvato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65107,8 +65107,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>While you are resolving the conflicts, no other user can save the shared document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Luciano B." changedate="20160411T163204Z" creationid="Luciano B." creationdate="20160411T163204Z">
-        <seg>Mentre state risolvendo i conflitti, nessun altro utente può salvare il documento condiviso.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190423T105414Z" creationid="Luciano B." creationdate="20160411T163204Z">
+        <seg>aaaaaaaaaaaaaaaMentre state risolvendo i conflitti, nessun altro utente può salvare il documento condiviso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67651,8 +67651,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>You must decide for each conflict which version to keep, yours or the other person’s.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160429T144436Z" creationid="Luciano B." creationdate="20160411T162958Z">
-        <seg>Per ogni conflitto dovrete decidere quale versione da mantenere, la vostra o quella dell'altro utente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190423T105305Z" creationid="Luciano B." creationdate="20160411T162958Z">
+        <seg>Per ogni conflitto dovrete decidere quale versione tenere, la vostra o quella dell'altro utente.</seg>
       </tuv>
     </tu>
     <tu>
