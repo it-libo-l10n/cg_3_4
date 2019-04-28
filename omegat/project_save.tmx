@@ -3920,8 +3920,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;A colored border, with a dot in the upper left-hand corner, appears around a cell where changes were made (&lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figure 284&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160429T145816Z" creationid="luciano" creationdate="20160423T123832Z">
-        <seg>&lt;f0&gt;Apparirà un bordo colorato attorno alla cella modificata, con un punto nell'angolo in alto sinistra  (&lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figura 284&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190428T162117Z" creationid="luciano" creationdate="20160423T123832Z">
+        <seg>&lt;f0&gt;Attorno alle celle modificate apparirà un bordo colorato, con un punto nell'angolo superiore sinistro (&lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figura 284&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10312,8 +10312,8 @@
       <tuv lang="EN">
         <seg>A deleted column or row is marked by a heavy colored bar.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160423T124235Z" creationid="luciano" creationdate="20160423T124235Z">
-        <seg>Una colonna o una riga cancellate saranno evidenziate da una barra spessa colorata.&lt;/f3&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190428T162346Z" creationid="luciano" creationdate="20160423T124235Z">
+        <seg>Una colonna o una riga eliminate saranno contrassegnate da una spessa barra colorata.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25056,8 +25056,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;284&lt;/seq0&gt;: Edited document with red border on changed cells</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160423T124429Z" creationid="luciano" creationdate="20160423T124429Z">
-        <seg>Figura &lt;seq0&gt;284&lt;/seq0&gt;: Documento con le celle modificate bordate di rosso</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190428T162351Z" creationid="luciano" creationdate="20160423T124429Z">
+        <seg>aaaaFigura &lt;seq0&gt;284&lt;/seq0&gt;: Documento con le celle modificate bordate di rosso</seg>
       </tuv>
     </tu>
     <tu>
@@ -40746,8 +40746,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Other reviewers then quickly know which cells were edited.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160423T124052Z" creationid="luciano" creationdate="20160423T124052Z">
-        <seg>Gli altri revisori sapranno velocemente quali celle sono state modificate.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190428T162204Z" creationid="luciano" creationdate="20160423T124052Z">
+        <seg>Gli altri revisori potranno quindi identificare velocemente le celle modificate.</seg>
       </tuv>
     </tu>
     <tu>
