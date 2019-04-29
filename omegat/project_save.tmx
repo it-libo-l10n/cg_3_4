@@ -2606,6 +2606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190429T105419Z" creationid="luke" creationdate="20190429T105419Z">
+        <seg>&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Numbers&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; is&lt;/f4&gt;&lt;/f3&gt; a list of up to 30 numbers separated by semi-colons.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T103436Z" creationid="Marco Marega" creationdate="20160626T103436Z">
@@ -4144,7 +4152,7 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;After you have added a comment to a changed cell, you can see it by hovering the mouse pointer over the cell, as shown in &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figure 286&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160424T130332Z" creationid="luciano" creationdate="20160424T130332Z">
+      <tuv lang="IT-IT" changeid="luke" changedate="20190429T104047Z" creationid="luciano" creationdate="20160424T130332Z">
         <seg>&lt;f0&gt;Dopo aver aggiunto un commento a una cella modificata, potete visualizzarlo passando il puntatore del mouse sopra la cella, come mostrato in &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figura 286&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
@@ -5232,8 +5240,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Edit the comment and click &lt;/f0&gt;&lt;f1&gt;OK.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160424T131432Z" creationid="luciano" creationdate="20160424T131432Z">
-        <seg>&lt;f0&gt;Modificate il commento e fate clic su &lt;/f0&gt;&lt;f1&gt;OK.&lt;/f1&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190429T105556Z" creationid="luciano" creationdate="20160424T131432Z">
+        <seg>&lt;f0&gt;Modificate il commento e fate clic su &lt;/f0&gt;&lt;f1&gt;OK&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7248,8 +7256,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Select &lt;/f0&gt;&lt;f1&gt;Edit &gt; Changes &gt; Comments.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160424T131328Z" creationid="luciano" creationdate="20160424T131328Z">
-        <seg>&lt;f0&gt;Selezionate &lt;/f0&gt;&lt;f1&gt;Modifica &gt; Modifiche &gt; Commenti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190429T105411Z" creationid="luciano" creationdate="20160424T131328Z">
+        <seg>&lt;f0&gt;Selezionate &lt;/f0&gt;&lt;f1&gt;Modifica &gt; Modifiche &gt; Commento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7712,8 +7720,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The comment also appears in the dialog when you are accepting and rejecting changes, as shown in the first line of &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figure 291&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt; on page &lt;/f3&gt;&lt;f4&gt;&lt;t5&gt;277&lt;/t5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160424T130551Z" creationid="luciano" creationdate="20160424T130551Z">
-        <seg>&lt;f0&gt;Il commento appare anche nella finestra di dialogo quando si accettano e rifiutano le modifiche, come mostrato nella prima linea della &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figura 291&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt; a pagina &lt;/f3&gt;&lt;f4&gt;&lt;t5&gt;277&lt;/t5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190429T104906Z" creationid="luciano" creationdate="20160424T130551Z">
+        <seg>&lt;f0&gt;Il commento appare anche nella finestra di dialogo quando si accettano e rifiutano le modifiche, come mostrato nella prima riga della &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figura 291&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt; a pagina &lt;/f3&gt;&lt;f4&gt;&lt;t5&gt;277&lt;/t5&gt;&lt;/f4&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8376,8 +8384,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;You can view your comments one at a time using the left and right arrows located on the right hand side of the Comment dialog.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160429T150251Z" creationid="luciano" creationdate="20160424T131616Z">
-        <seg>&lt;f0&gt;È possibile visualizzare i vostri commenti, uno per volta utilizzando le frecce destra e sinistra posizionate sul lato destro della Finestra di commento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190429T105609Z" creationid="luciano" creationdate="20160424T131616Z">
+        <seg>aaaaaaaaaaaaaaaaa&lt;f0&gt;È possibile visualizzare i vostri commenti, uno per volta utilizzando le frecce destra e sinistra posizionate sul lato destro della Finestra di commento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25064,16 +25072,16 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;285&lt;/seq0&gt;: Comment dialog</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160423T145919Z" creationid="luciano" creationdate="20160423T145853Z">
-        <seg>Figura &lt;seq0&gt;285&lt;/seq0&gt;: Finestra di commento</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190429T102619Z" creationid="luciano" creationdate="20160423T145853Z">
+        <seg>Figura &lt;seq0&gt;285&lt;/seq0&gt;: finestra di dialogo del commento</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;286&lt;/seq0&gt;: Comment added to cell B3</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160424T130359Z" creationid="luciano" creationdate="20160424T130359Z">
-        <seg>Figura &lt;seq0&gt;286&lt;/seq0&gt;: Commento aggiunto alla cella B3</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190429T104233Z" creationid="luciano" creationdate="20160424T130359Z">
+        <seg>Figura &lt;seq0&gt;286&lt;/seq0&gt;: commento aggiunto alla cella B3</seg>
       </tuv>
     </tu>
     <tu>
@@ -47690,7 +47698,7 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Select the cell with the change comment that you want to edit.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160424T131025Z" creationid="luciano" creationdate="20160424T131025Z">
+      <tuv lang="IT-IT" changeid="luke" changedate="20190429T105259Z" creationid="luciano" creationdate="20160424T131025Z">
         <seg>Selezionate la cella con il commento alla modifica che volete modificare.</seg>
       </tuv>
     </tu>
@@ -56579,8 +56587,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The title bar for the Comment dialog shows the cell and the change you are commenting on.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160423T145841Z" creationid="luciano" creationdate="20160423T145758Z">
-        <seg>La barra del titolo per la Finestra di commento mostra la cella e le modifiche che state commentando.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190429T102522Z" creationid="luciano" creationdate="20160423T145758Z">
+        <seg>La barra del titolo della finestra di dialogo del commento mostra la cella e la modifica che state commentando.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67115,8 +67123,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>You can step through your changes one at a time using the left and right arrows on the right hand side of the Comment dialog, and add comments to each change.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190429T101548Z" creationid="luciano" creationdate="20160423T145622Z">
-        <seg>aaaaÈ possibile passare in rassegna le modifiche una per volta utilizzando le frecce destra e sinistra sul lato destro della Finestra di commento, e aggiungere commenti ad ogni cambiamento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190429T102248Z" creationid="luciano" creationdate="20160423T145622Z">
+        <seg>È possibile passare in rassegna le modifiche una per volta utilizzando le due frecce rivolte a sinistra e a destra, sul lato destro della finestra di dialogo del commento, e aggiungere commenti a ogni modifica.</seg>
       </tuv>
     </tu>
     <tu>
