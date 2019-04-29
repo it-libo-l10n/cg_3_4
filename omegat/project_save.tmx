@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4496,8 +4496,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Calc automatically adds to any recorded change a comment that describes what was changed (for example, &lt;/f0&gt;&lt;f1&gt;Cell B4 changed from ‘9’ to ‘4’&lt;/f1&gt;&lt;f2&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160429T150031Z" creationid="luciano" creationdate="20160423T144737Z">
-        <seg>&lt;f0&gt;Calc aggiunge automaticamente ad ogni modifica registrata un commento che descrive cos'è stato cambiato (per esempio, &lt;/f0&gt;&lt;f1&gt;Cella B4 modificata da ‘9’ a ‘4’&lt;/f1&gt;&lt;f2&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190429T075439Z" creationid="luciano" creationdate="20160423T144737Z">
+        <seg>aaaa&lt;f0&gt;Calc aggiunge automaticamente ad ogni modifica registrata un commento che descrive cos'è stato cambiato (per esempio, &lt;/f0&gt;&lt;f1&gt;Cella B4 modificata da ‘9’ a ‘4’&lt;/f1&gt;&lt;f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11536,8 +11536,8 @@
       <tuv lang="EN">
         <seg>Adding comments to changes</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190428T184241Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaAggiunta di commenti alle modifiche</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190429T075437Z">
+        <seg>Aggiunta di commenti alle modifiche</seg>
       </tuv>
     </tu>
     <tu>
