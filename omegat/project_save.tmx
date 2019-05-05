@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14352,8 +14352,8 @@
       <tuv lang="EN">
         <seg>Both of them returned their revised budget to you at the same time.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160428T152155Z" creationid="luciano" creationdate="20160428T152155Z">
-        <seg>Entrambi vi hanno reso i loro documenti revisionati allo stesso momento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190505T125407Z" creationid="luciano" creationdate="20160428T152155Z">
+        <seg>Entrambi vi hanno reso i loro documenti revisionati nello stesso momento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67379,8 +67379,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>You could review each document and the changes separately, but to save time, you want to see both of their revisions simultaneously.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160428T152301Z" creationid="luciano" creationdate="20160428T152301Z">
-        <seg>Potreste rivedere ogni documento e le modifiche separatamente, ma per risparmiare tempo, volete vedere entrambi le loro revisioni contemporaneamente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190505T125411Z" creationid="luciano" creationdate="20160428T152301Z">
+        <seg>aaaaPotreste rivedere ogni documento e le modifiche separatamente, ma per risparmiare tempo, volete vedere entrambi le loro revisioni contemporaneamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67747,8 +67747,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>You submitted your budget proposal to your sponsor, but you sent it to one of your assistant coaches as well.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190503T132013Z" creationid="luciano" creationdate="20160428T152045Z">
-        <seg>aaaaaaaaaaaaaaaaaAvete inviato la vostra proposta di bilancio allo sponsor, e ne avete inviata una copia al vostro assistente allenatore.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190505T125341Z" creationid="luciano" creationdate="20160428T152045Z">
+        <seg>Supponete di avere inviato la vostra proposta di bilancio allo sponsor, e di averne inviata una copia anche a uno dei vostri assistenti allenatori.</seg>
       </tuv>
     </tu>
     <tu>
