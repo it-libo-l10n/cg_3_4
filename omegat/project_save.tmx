@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -47386,8 +47386,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Select a file you want to merge and click &lt;/f0&gt;&lt;f1&gt;OK&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190505T161028Z" creationid="luciano" creationdate="20160428T153315Z">
-        <seg>aaaaaaaaaaaaaaaaaSelezionate un file che volete unire e fate clic su &lt;/f0&gt;&lt;f1&gt;OK&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190506T091519Z" creationid="luciano" creationdate="20160428T153315Z">
+        <seg>aaaaSelezionate un file che volete unire e fate clic su &lt;/f0&gt;&lt;f1&gt;OK&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
