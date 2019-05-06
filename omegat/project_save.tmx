@@ -4144,8 +4144,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;After the documents merge, the Accept or Reject Changes dialog opens, as in &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figure 292&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;, showing changes by more than one reviewer.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190506T091907Z" creationid="luciano" creationdate="20160428T153441Z">
-        <seg>aaaa&lt;f0&gt;Dopo l'unione dei documenti, si aprirà la finestra di dialogo Accetta o rifiuta le modifiche, come in &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figura 292&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;, che mostra le modifiche eseguite da più revisori.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190506T093913Z" creationid="luciano" creationdate="20160428T153441Z">
+        <seg>&lt;f0&gt;Dopo l'unione dei documenti, si aprirà la finestra di dialogo Accetta o annulla modifiche, come in &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figura 292&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;, che mostra le modifiche eseguite da più revisori.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6528,8 +6528,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Now all of the changes are combined into one document and you can accept or reject the changes.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160428T153849Z" creationid="luciano" creationdate="20160428T153849Z">
-        <seg>&lt;f0&gt;Ora tutte le modifiche sono unite in un unico documento e potete accettare o rifiutare le modifiche.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190506T094312Z" creationid="luciano" creationdate="20160428T153849Z">
+        <seg>&lt;f0&gt;Ora tutte le modifiche sono combinate in un unico documento e potete accettare o rifiutare le modifiche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16384,8 +16384,8 @@
       <tuv lang="EN">
         <seg>Changes from different authors appear in different colors in the document, as shown in &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figure 293&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160428T153946Z" creationid="luciano" creationdate="20160428T153946Z">
-        <seg>Le modifiche fatte da diversi autori appaiono in colori differenti nel documento, come mostrato in &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figura 293&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190506T094819Z" creationid="luciano" creationdate="20160428T153946Z">
+        <seg>Le modifiche fatte da diversi autori appaiono nel documento in colori differenti, come mostrato in &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Figura 293&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19072,8 +19072,8 @@
       <tuv lang="EN">
         <seg>Comparing documents</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160206T082915Z">
-        <seg>Confronto tra documenti</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190506T100423Z">
+        <seg>Confrontare documenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -25136,16 +25136,16 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;292&lt;/seq0&gt;: Accept or Reject for merged documents</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160428T155229Z" creationid="luciano" creationdate="20160428T155229Z">
-        <seg>Figura &lt;seq0&gt;292&lt;/seq0&gt;: Accetta o rifiuta per i documenti uniti</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190506T095530Z" creationid="luciano" creationdate="20160428T155229Z">
+        <seg>Figura &lt;seq0&gt;292&lt;/seq0&gt;: Accetta o annulla modifiche per documenti uniti</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;293&lt;/seq0&gt;: Merged documents with different author colors</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160428T155319Z" creationid="luciano" creationdate="20160428T155319Z">
-        <seg>Figura &lt;seq0&gt;293&lt;/seq0&gt;: Documenti uniti con colori differenti per gli autori</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190506T100223Z" creationid="luciano" creationdate="20160428T155319Z">
+        <seg>Figura &lt;seq0&gt;293&lt;/seq0&gt;: documenti uniti con le modifiche di un colore differente per ciascun autore</seg>
       </tuv>
     </tu>
     <tu>
@@ -32544,8 +32544,8 @@
       <tuv lang="EN">
         <seg>If you want to merge more documents, close the dialog and then repeat steps 2 and 3.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="briga" changedate="20160505T074645Z" creationid="luciano" creationdate="20160428T153739Z">
-        <seg>Se volete unire altri documenti, chiudete la finestra di dialogo e ripetete i punti 2 e 3.&lt;/f3&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190506T094054Z" creationid="luciano" creationdate="20160428T153739Z">
+        <seg>Se volete unire più documenti, chiudete la finestra di dialogo e ripetete i punti 2 e 3.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34585,8 +34585,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>In this example, all of the changes from Robert are blue and the changes from Mia are red.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160428T154051Z" creationid="luciano" creationdate="20160428T154051Z">
-        <seg>In questo esempio, tutte le modifiche di Robert sono in blu e quelle di Mia sono in rosso.&lt;/f3&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190506T095125Z" creationid="luciano" creationdate="20160428T154051Z">
+        <seg>In questo esempio, tutte le modifiche di Valter sono in blu e quelle di Osvaldo sono in rosso.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -49706,8 +49706,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Sometimes when sharing documents, reviewers may forget to record the changes they make.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160428T155635Z" creationid="luciano" creationdate="20160428T155635Z">
-        <seg>Qualche volta condividendo i documenti, i revisori potrebbero scordarsi di registrare le modifiche che hanno fatto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190506T100425Z" creationid="luciano" creationdate="20160428T155635Z">
+        <seg>aaaaQualche volta condividendo i documenti, i revisori potrebbero scordarsi di registrare le modifiche che hanno fatto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68547,8 +68547,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>comparing documents</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160428T155435Z" creationid="luciano" creationdate="20160428T155420Z">
-        <seg>confronto tra documenti</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190506T100350Z" creationid="luciano" creationdate="20160428T155420Z">
+        <seg>confrontare documenti</seg>
       </tuv>
     </tu>
     <tu>
