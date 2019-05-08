@@ -3590,6 +3590,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;dispatcher&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;as&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;object&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190508T124229Z" creationid="luke" creationdate="20190508T124229Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;dispatcher&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;as&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;object&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;document&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;as&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;object&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190508T124228Z" creationid="luke" creationdate="20190508T124228Z">
+        <seg>aaaa&lt;f0&gt;&lt;f1&gt;dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;document&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;as&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;object&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;oAddr&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oRange&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;getRangeAddress&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;()&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T152048Z" creationid="steevie" creationdate="20160509T152048Z">
@@ -3890,6 +3906,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T144438Z" creationid="steevie" creationdate="20160504T144438Z">
         <seg>&lt;f0&gt;&lt;f1&gt;sName&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;"AggiungiSx"&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;PasteMultiply&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190508T124120Z" creationid="luke" creationdate="20190508T124120Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;PasteMultiply&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9568,8 +9592,8 @@
       <tuv lang="EN">
         <seg>&lt;t1&gt;Listing 1&lt;/t1&gt; shows the contents of the macro.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T152902Z" creationid="luciano" creationdate="20160524T152902Z">
-        <seg>&lt;t1&gt;&lt;Elenco 1&lt;/t1&gt; visualizza il contenuto della macro.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190508T123809Z" creationid="luciano" creationdate="20160524T152902Z">
+        <seg>&lt;t1&gt;Il Listato 1&lt;/t1&gt; mostra il contenuto della macro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36649,8 +36673,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>Listing &lt;seq0&gt;1&lt;/seq0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160524T153054Z" creationid="luciano" creationdate="20160524T153054Z">
-        <seg>Elenco &lt;seq0&gt;1&lt;/seq0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190508T123952Z" creationid="luciano" creationdate="20160524T153054Z">
+        <seg>Listato &lt;seq0&gt;1&lt;/seq0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41274,8 +41298,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Paste special with multiply.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T134047Z" creationid="luciano" creationdate="20160614T134047Z">
-        <seg>Incolla speciale con multipli.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190508T124039Z" creationid="luciano" creationdate="20160614T134047Z">
+        <seg>Incolla speciale con moltiplica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53075,8 +53099,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The created macro is saved in Module1 of the Standard library in the &lt;f0&gt;Untitled 1&lt;/f0&gt; document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190508T122945Z" creationid="luciano" creationdate="20160524T152727Z">
-        <seg>aaaaLa macro creata è salvata nel Modulo1 della libreria Standard nel documento &lt;f0&gt;Senza nome 1&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190508T123525Z" creationid="luciano" creationdate="20160524T152727Z">
+        <seg>La macro creata è salvata nel Module1 della libreria Standard, nel documento &lt;f0&gt;Senza nome 1&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70541,6 +70565,22 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170524T153107Z" creationid="antonio" creationdate="20160919T124641Z">
         <seg>relativi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rem --------------------------------------------------------------</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190508T124154Z" creationid="luke" creationdate="20190508T124154Z">
+        <seg>rem --------------------------------------------------------------</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rem define variables</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190508T124226Z" creationid="luke" creationdate="20190508T124226Z">
+        <seg>rem definizione variabili</seg>
       </tuv>
     </tu>
     <tu>
