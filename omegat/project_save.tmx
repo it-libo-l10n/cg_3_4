@@ -3214,6 +3214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;End&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Function&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190509T121430Z" creationid="luke" creationdate="20190509T121430Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;End&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;Function&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;End&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;If&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142412Z" creationid="steevie" creationdate="20160504T142412Z">
@@ -3234,6 +3242,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135908Z" creationid="steevie" creationdate="20160511T135908Z">
         <seg>&lt;f0&gt;&lt;f1&gt;End&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;With&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;End&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Sub&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190509T121242Z" creationid="luke" creationdate="20190509T121242Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;End&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Sub&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3290,6 +3306,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T152223Z" creationid="steevie" creationdate="20160620T152223Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Function&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;SumCellsAllSheets&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Function&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;NumberFive&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;()&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190509T121324Z" creationid="luke" creationdate="20190509T121324Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Function&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;NumberFive&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;()&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3358,10 +3382,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;NumberFive&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; 5&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190509T121408Z" creationid="luke" creationdate="20190509T121408Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;NumberFive&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; 5&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;On t&lt;/f1&gt;&lt;/f0&gt;he &lt;f2&gt;Keyboard&lt;/f2&gt; page of the Customize dialog, choose the shortcut keys you want to assign a style to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T171119Z" creationid="steevie" creationdate="20160428T171119Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Nel&lt;/f1&gt;&lt;/f0&gt;la scheda &lt;f2&gt;Tastiera&lt;/f2&gt; della finestra di dialogo Personalizza, scegliete la combinazione di tasti cui volete assegnare uno stile.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Option&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Explicit&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190509T121151Z" creationid="luke" creationdate="20190509T121151Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Option&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Explicit&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3482,6 +3522,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125338Z" creationid="steevie" creationdate="20160517T125338Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;UsaFiltroSpeciale&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Main&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190509T121213Z" creationid="luke" creationdate="20190509T121213Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Main&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28758,6 +28806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Function that returns five.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190509T121055Z" creationid="luke" creationdate="20190509T121055Z">
+        <seg>Funzione che restituisce il numero cinque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Functions are only available when &lt;f2&gt;User-defined&lt;/f2&gt; is selected.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Elisabetta Manuele" changedate="20170301T163723Z" creationid="Elisabetta Manuele" creationdate="20170301T163723Z">
@@ -30424,8 +30480,8 @@
       <tuv lang="EN">
         <seg>If Option Explicit is omitted, variables are automatically defined at first use as type Variant.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T155722Z" creationid="luciano" creationdate="20160614T155722Z">
-        <seg>Se Option Explicit è omessa, le variabili sono automaticamente definite come Varianti al primo utilizzo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190509T120247Z" creationid="luciano" creationdate="20160614T155722Z">
+        <seg>Se Option Explicit è omessa, le variabili sono automaticamente definite al primo utilizzo come Varianti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42280,6 +42336,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>REM &lt;s0/&gt;***** &lt;s1/&gt;BASIC &lt;s2/&gt;*****</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190509T121112Z" creationid="luke" creationdate="20190509T121112Z">
+        <seg>REM &lt;s0/&gt;***** &lt;s1/&gt;BASIC &lt;s2/&gt;*****</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>REM An array of sort fields determines the columns that are</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160616T095437Z" creationid="luciano" creationdate="20160616T095419Z">
@@ -46506,8 +46570,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Save the modified Module1.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T155749Z" creationid="luciano" creationdate="20160614T155749Z">
-        <seg>Salvate il Modulo1 modificato.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190509T120850Z" creationid="luciano" creationdate="20160614T155749Z">
+        <seg>Salvate il Module1 modificato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63587,8 +63651,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Using the newly created Calc document &lt;f0&gt;CalcTestMacros.ods&lt;/f0&gt;, enter the formula &lt;f1&gt;=NumberFive()&lt;/f1&gt; (see &lt;t2&gt;Figure 308&lt;/t2&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T160027Z" creationid="luciano" creationdate="20160614T160027Z">
-        <seg>Usare il documento Calc appena creato &lt;f0&gt;CalcTestMacros.ods&lt;/f0&gt;, inserire la formula &lt;f1&gt;=NumberFive()&lt;/f1&gt; (vedere &lt;t2&gt;Figura 308&lt;/t2&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190509T121459Z" creationid="luciano" creationdate="20160614T160027Z">
+        <seg>aaaaUsare il documento Calc appena creato &lt;f0&gt;CalcTestMacros.ods&lt;/f0&gt;, inserire la formula &lt;f1&gt;=NumberFive()&lt;/f1&gt; (vedere &lt;t2&gt;Figura 308&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
