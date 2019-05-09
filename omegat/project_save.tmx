@@ -9480,8 +9480,8 @@
       <tuv lang="EN">
         <seg>&lt;f9&gt;&lt;f10&gt;LibreOffice&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; Macros&lt;/f11&gt; contains macros included with &lt;f12&gt;LibreOffice&lt;/f12&gt; and should not be changed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T143240Z" creationid="luciano" creationdate="20160614T143240Z">
-        <seg>&lt;f9&gt;&lt;f10&gt;Macro di&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; Libreoffice&lt;/f11&gt; contiene le macro comprese con &lt;f12&gt;LibreOffice&lt;/f12&gt; e non dovrebbero essere modificate.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190509T082052Z" creationid="luciano" creationdate="20160614T143240Z">
+        <seg>&lt;f9&gt;&lt;f10&gt;Macro di&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; LibreOffice&lt;/f11&gt; contiene le macro comprese in &lt;f12&gt;LibreOffice&lt;/f12&gt; e non dovrebbe essere modificata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15160,8 +15160,8 @@
       <tuv lang="EN">
         <seg>Calc can call &lt;i0/&gt;macros &lt;i1/&gt;&lt;is2/&gt;as Calc functions&lt;ie3/&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190509T072155Z" creationid="luciano" creationdate="20160614T141944Z">
-        <seg>Calc può chiamare le &lt;i0/&gt;macro &lt;i1/&gt;&lt;is2/&gt;come funzioni di Calc&lt;ie3/&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190509T080602Z" creationid="luciano" creationdate="20160614T141944Z">
+        <seg>In Calc è possibile richiamare le &lt;i0/&gt;macro &lt;i1/&gt;&lt;is2/&gt;come se fossero funzioni di Calc&lt;ie3/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18040,8 +18040,8 @@
       <tuv lang="EN">
         <seg>Click &lt;f0&gt;Organizer&lt;/f0&gt; to open the &lt;f1&gt;LibreOffice&lt;/f1&gt; Basic Macro Organizer dialog.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T144548Z" creationid="luciano" creationdate="20160614T144548Z">
-        <seg>Fate click su &lt;f0&gt;Gestione&lt;/f0&gt; per aprire la finestra di dialogo &lt;f1&gt;LibreOffice&lt;/f1&gt; Gestione macro Basic.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190509T082712Z" creationid="luciano" creationdate="20160614T144548Z">
+        <seg>Fate clic sul pulsante &lt;f0&gt;Gestisci&lt;/f0&gt; per aprire la finestra di dialogo &lt;f1&gt;LibreOffice:&lt;/f1&gt; Gestione macro Basic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25400,16 +25400,16 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;303&lt;/seq0&gt;: &lt;f1&gt;LibreOffice&lt;/f1&gt; Basic Macros dialog</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T143405Z" creationid="luciano" creationdate="20160614T143405Z">
-        <seg>Figura&lt;seq0&gt;303&lt;/seq0&gt;: componenti della finestra di dialogo Basic Macros di &lt;f1&gt;LibreOffice&lt;/f1&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190509T082312Z" creationid="luciano" creationdate="20160614T143405Z">
+        <seg>Figura &lt;seq0&gt;303&lt;/seq0&gt;: finestra di dialogo Macro &lt;f1&gt;LibreOffice&lt;/f1&gt; Basic</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;304&lt;/seq0&gt;: &lt;f1&gt;LibreOffice&lt;/f1&gt; Basic Macro Organizer</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T144917Z" creationid="luciano" creationdate="20160614T144917Z">
-        <seg>Figura &lt;seq0&gt;304&lt;/seq0&gt;: &lt;f1&gt;LibreOffice&lt;/f1&gt; Gestione macro Basic</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190509T082954Z" creationid="luciano" creationdate="20160614T144917Z">
+        <seg>aaaaFigura &lt;seq0&gt;304&lt;/seq0&gt;: &lt;f1&gt;LibreOffice&lt;/f1&gt; Gestione macro Basic</seg>
       </tuv>
     </tu>
     <tu>
@@ -39770,8 +39770,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>On the Libraries tab, select the document to contain the macro.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T144853Z" creationid="luciano" creationdate="20160614T144706Z">
-        <seg>Nella scheda Librerie, scegliete il documento che contiene le macro.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190509T082952Z" creationid="luciano" creationdate="20160614T144706Z">
+        <seg>Nella scheda Librerie, selezionate il documento che dovrà contenere la macro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51803,8 +51803,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The &lt;f5&gt;Macro from&lt;/f5&gt; box lists available macro library containers including currently open &lt;f6&gt;LibreOffice&lt;/f6&gt; documents.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T142808Z" creationid="luciano" creationdate="20160614T142808Z">
-        <seg>Il riquadro &lt;f5&gt;Macro da&lt;/f5&gt; elenca i contenitori delle librerie delle macro compresi i documenti attualmente aperti di  &lt;f6&gt;LibreOffice&lt;/f6&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190509T081504Z" creationid="luciano" creationdate="20160614T142808Z">
+        <seg>Il riquadro &lt;f5&gt;Macro da&lt;/f5&gt; elenca i contenitori delle librerie delle macro disponibili, compresi i documenti di &lt;f6&gt;LibreOffice&lt;/f6&gt; correntemente aperti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62307,8 +62307,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Use &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;LibreOffice&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Basic&lt;/f3&gt; to open the &lt;f4&gt;LibreOffice&lt;/f4&gt; Basic Macros dialog.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190509T075840Z" creationid="luciano" creationdate="20160614T142216Z">
-        <seg>aaaaUsate &lt;f0&gt;Strumenti &gt; Macro &gt; Organizza Macro &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;LibreOffice&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Basic&lt;/f3&gt; per aprire la finestra di dialogo &lt;f4&gt;LibreOffice&lt;/f4&gt; Basic Macros.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190509T081135Z" creationid="luciano" creationdate="20160614T142216Z">
+        <seg>Usate &lt;f0&gt;Strumenti &gt; Macro &gt; Organizza Macro &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;LibreOffice&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Basic&lt;/f3&gt; per aprire la finestra di dialogo Macro &lt;f4&gt;LibreOffice&lt;/f4&gt; Basic.</seg>
       </tuv>
     </tu>
     <tu>
