@@ -15328,8 +15328,8 @@
       <tuv lang="EN">
         <seg>Calc finds the macro and calls it.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T160050Z" creationid="luciano" creationdate="20160614T160050Z">
-        <seg>Calc trova la macro e la chiama.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190509T125146Z" creationid="luciano" creationdate="20160614T160050Z">
+        <seg>Calc trova la macro e la richiama.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25488,8 +25488,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;308&lt;/seq0&gt;: Use the NumberFive() Macro as a Calc function</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T160146Z" creationid="luciano" creationdate="20160614T160146Z">
-        <seg>Figura &lt;seq0&gt;308&lt;/seq0&gt;: Usare la macro NumberFive() Macro come una funzione di Calc</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190509T125345Z" creationid="luciano" creationdate="20160614T160146Z">
+        <seg>Figura &lt;seq0&gt;308&lt;/seq0&gt;: usare la macro NumberFive() come una funzione di Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -28784,8 +28784,8 @@
       <tuv lang="EN">
         <seg>Function names are not case sensitive.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T160249Z" creationid="luciano" creationdate="20160614T160249Z">
-        <seg>I nomi delle funzioni non tengono conto delle Maiuscole/minuscole.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190509T125524Z" creationid="luciano" creationdate="20160614T160249Z">
+        <seg>I nomi delle funzioni non tengono conto di maiuscole e minuscole.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33088,8 +33088,8 @@
       <tuv lang="EN">
         <seg>In &lt;t0&gt;Figure 308&lt;/t0&gt;, you can enter &lt;f1&gt;=NumberFive()&lt;/f1&gt; and Calc clearly shows &lt;f2&gt;=NUMBERFIVE()&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T160355Z" creationid="luciano" creationdate="20160614T160355Z">
-        <seg>Nella &lt;t0&gt;Figura 308&lt;/t0&gt;, potete inserire &lt;f1&gt;=NumberFive()&lt;/f1&gt; e Calc mostra chiaramente &lt;f2&gt;=NUMBERFIVE()&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190509T125526Z" creationid="luciano" creationdate="20160614T160355Z">
+        <seg>aaaaNella &lt;t0&gt;Figura 308&lt;/t0&gt;, potete inserire &lt;f1&gt;=NumberFive()&lt;/f1&gt; e Calc mostra chiaramente &lt;f2&gt;=NUMBERFIVE()&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63651,8 +63651,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Using the newly created Calc document &lt;f0&gt;CalcTestMacros.ods&lt;/f0&gt;, enter the formula &lt;f1&gt;=NumberFive()&lt;/f1&gt; (see &lt;t2&gt;Figure 308&lt;/t2&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190509T121459Z" creationid="luciano" creationdate="20160614T160027Z">
-        <seg>aaaaUsare il documento Calc appena creato &lt;f0&gt;CalcTestMacros.ods&lt;/f0&gt;, inserire la formula &lt;f1&gt;=NumberFive()&lt;/f1&gt; (vedere &lt;t2&gt;Figura 308&lt;/t2&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190509T125105Z" creationid="luciano" creationdate="20160614T160027Z">
+        <seg>Usando il documento di Calc &lt;f0&gt;calc_test_macro.ods&lt;/f0&gt; appena creato, inserite la formula &lt;f1&gt;=NumberFive()&lt;/f1&gt; (vedete la &lt;t2&gt;Figura 308&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
