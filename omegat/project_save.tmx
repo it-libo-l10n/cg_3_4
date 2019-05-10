@@ -21224,8 +21224,8 @@
       <tuv lang="EN">
         <seg>Depending on your settings in &lt;f0&gt;Tools &gt; Options &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;LibreOffice &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Security &gt;&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Macro Security&lt;/f5&gt;, Calc will display the warning shown in &lt;t6&gt;Figure 309&lt;/t6&gt; or the one shown in &lt;t7&gt;Figure 310&lt;/t7&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190510T082408Z" creationid="luciano" creationdate="20160614T160716Z">
-        <seg>aaaaIn base alle vostre impostazioni in  &lt;f0&gt;Strumenti &gt; Opzioni &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;LibreOffice &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Sicurezza &gt;&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Sicurezza delle macro&lt;/f5&gt;, Calc visualizzerà l'avviso mostrato in &lt;t6&gt;Figura 309&lt;/t6&gt; oppure quello mostrato in &lt;t7&gt;Figura 310&lt;/t7&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190510T110122Z" creationid="luciano" creationdate="20160614T160716Z">
+        <seg>In base alle vostre impostazioni in &lt;f0&gt;Strumenti &gt; Opzioni &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;LibreOffice &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Sicurezza &gt;&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Sicurezza delle macro&lt;/f5&gt;, Calc visualizzerà l'avviso mostrato in &lt;t6&gt;Figura 309&lt;/t6&gt; oppure quello mostrato in &lt;t7&gt;Figura 310&lt;/t7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25496,8 +25496,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;309&lt;/seq0&gt;: &lt;f1&gt;LibreOffice&lt;/f1&gt; warns you that a document contains macros</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T161503Z" creationid="luciano" creationdate="20160614T161503Z">
-        <seg>Figura &lt;seq0&gt;309&lt;/seq0&gt;: &lt;f1&gt;LibreOffice&lt;/f1&gt; vi avverte che un documento contiene macro</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190510T110551Z" creationid="luciano" creationdate="20160614T161503Z">
+        <seg>aaaaFigura &lt;seq0&gt;309&lt;/seq0&gt;: &lt;f1&gt;LibreOffice&lt;/f1&gt; vi avverte che un documento contiene macro</seg>
       </tuv>
     </tu>
     <tu>
@@ -32136,8 +32136,8 @@
       <tuv lang="EN">
         <seg>If you do not expect a document to contain a macro, it is safer to click &lt;f9&gt;Disable Macros&lt;/f9&gt; in case the macro is a virus.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161122T164437Z" creationid="luciano" creationdate="20160614T161431Z">
-        <seg>Se non vi aspettate un documento che contenga una macro, è più sicuro fare clic su &lt;f9&gt; Disattiva macro &lt;/f9&gt; nel caso in cui la macro sia un virus.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190510T110537Z" creationid="luciano" creationdate="20160614T161431Z">
+        <seg>Se non vi aspettate un documento che contenga una macro, è più sicuro fare clic su &lt;f9&gt;Disabilita macro&lt;/f9&gt; nel caso in cui la macro sia un virus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67995,8 +67995,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>You will need to click &lt;f8&gt;Enable Macros&lt;/f8&gt;, or Calc will not allow any macros to be run inside the document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20161122T164341Z" creationid="luciano" creationdate="20160614T161102Z">
-        <seg>Sarà necessario fare clic su &lt;f8&gt; Attiva macro &lt;/f8&gt;, o Calc non permetterà l'esecuzione di alcuna macro all'interno del documento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190510T110337Z" creationid="luciano" creationdate="20160614T161102Z">
+        <seg>Sarà necessario fare clic su &lt;f8&gt;Abilita macro&lt;/f8&gt;, altrimenti Calc non permetterà l'esecuzione di alcuna macro all'interno del documento.</seg>
       </tuv>
     </tu>
     <tu>
