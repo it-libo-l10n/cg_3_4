@@ -15296,8 +15296,8 @@
       <tuv lang="EN">
         <seg>Calc does not contain a function named NumberFive(), so it checks all opened and visible macro libraries for the function.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190510T140510Z" creationid="luciano" creationdate="20160614T162514Z">
-        <seg>aaaaaaaaaaaaaaaaaCalc non contiene una funzione chiamata NumberFive(), così controlla tutte le librerie della macro aperte e visibili per la  funzione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190513T095558Z" creationid="luciano" creationdate="20160614T162514Z">
+        <seg>Calc non contiene una funzione chiamata NumberFive(), quindi controlla se la funzione è presente in tutte le librerie delle macro aperte e visibili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36577,8 +36577,8 @@ passate il cursore del mouse sopra i pulsanti della barra degli strumenti per vi
       <tuv lang="EN">
         <seg>Libraries in &lt;f0&gt;&lt;f1&gt;LibreOffice&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; Macros&lt;/f2&gt;, &lt;f3&gt;My Macros&lt;/f3&gt;, and the Calc document are checked for an appropriately named function (see &lt;t4&gt;Figure 303&lt;/t4&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160614T163224Z" creationid="luciano" creationdate="20160614T162814Z">
-        <seg>Le Librerie in &lt;f0&gt;&lt;f1&gt;LibreOffice&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; Macro&lt;/f2&gt;, &lt;f3&gt;Le Mie macro&lt;/f3&gt;, e i documenti Calc vengono controllati per un appropriato nome di funzione (vedere &lt;t4&gt;Figura 303&lt;/t4&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190513T095600Z" creationid="luciano" creationdate="20160614T162814Z">
+        <seg>aaaaLe Librerie in &lt;f0&gt;&lt;f1&gt;LibreOffice&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; Macro&lt;/f2&gt;, &lt;f3&gt;Le Mie macro&lt;/f3&gt;, e i documenti Calc vengono controllati per un appropriato nome di funzione (vedere &lt;t4&gt;Figura 303&lt;/t4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
