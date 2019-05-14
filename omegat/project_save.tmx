@@ -3398,6 +3398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;NumberFive_Implementation&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;()&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;=&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; 5&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190514T095055Z" creationid="luke" creationdate="20190514T095055Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;NumberFive_Implementation&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;()&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;=&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt; 5&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;On t&lt;/f1&gt;&lt;/f0&gt;he &lt;f2&gt;Keyboard&lt;/f2&gt; page of the Customize dialog, choose the shortcut keys you want to assign a style to.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160428T171119Z" creationid="steevie" creationdate="20160428T171119Z">
@@ -16568,8 +16576,8 @@
       <tuv lang="EN">
         <seg>Change the name of NumberFive to NumberFive_Implementation</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190514T075719Z" creationid="luciano" creationdate="20160615T145340Z">
-        <seg>aaaaModificare il nome da NumberFive in NumberFive_Implementation</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190514T095021Z" creationid="luciano" creationdate="20160615T145340Z">
+        <seg>Modificare il nome da NumberFive a NumberFive_Implementation</seg>
       </tuv>
     </tu>
     <tu>
@@ -34056,8 +34064,8 @@
       <tuv lang="EN">
         <seg>In the Basic IDE (see &lt;t0&gt;Figure 307&lt;/t0&gt;), hover the mouse cursor over the toolbar buttons to display the tool tips.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T145534Z" creationid="luciano" creationdate="20160615T145534Z">
-        <seg>Nella Basic IDE (vedi &lt;t0&gt;Figura 307&lt;/t0&gt;), 
+      <tuv lang="IT-IT" changeid="luke" changedate="20190514T095103Z" creationid="luciano" creationdate="20160615T145534Z">
+        <seg>aaaaNella Basic IDE (vedi &lt;t0&gt;Figura 307&lt;/t0&gt;), 
 passate il cursore del mouse sopra i pulsanti della barra degli strumenti per visualizzare i suggerimenti dello strumento.</seg>
       </tuv>
     </tu>
