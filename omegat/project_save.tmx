@@ -2958,6 +2958,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;If NOT &lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;BasicLibraries&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;.&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;isLibraryLoaded&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;(&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;"AuthorsCalcMacros"&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;) Then&lt;/f14&gt;&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190514T125429Z" creationid="luke" creationdate="20190514T125429Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;If NOT &lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;BasicLibraries&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;.&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;isLibraryLoaded&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;(&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;"AutoriMacroCalc"&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;) Then&lt;/f14&gt;&lt;/f13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;BasicLibraries&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;LoadLibrary&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;"AuthorsCalcMacros"&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;)&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190514T125440Z" creationid="luke" creationdate="20190514T125440Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;BasicLibraries&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;LoadLibrary&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;"AutoriMacroCalc"&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;)&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;C&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;hart wall&lt;/f3&gt;&lt;/f2&gt;&lt;ie4/&gt;&lt;f5&gt; contains the graphic of the chart displaying the data.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20180205T075942Z" creationid="Andrea" creationdate="20161008T164345Z">
@@ -3394,6 +3410,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20190509T121408Z" creationid="luke" creationdate="20190509T121408Z">
         <seg>&lt;f0&gt;&lt;f1&gt;NumberFive&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; 5&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;NumberFive&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;NumberFive_Implementation&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;()&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190514T125445Z" creationid="luke" creationdate="20190514T125445Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;NumberFive&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;NumberFive_Implementation&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;()&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16592,8 +16616,8 @@
       <tuv lang="EN">
         <seg>Change the name of NumberFive to NumberFive_Implementation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T150958Z" creationid="luciano" creationdate="20160615T150958Z">
-        <seg>Modificare il nome da NumberFive in NumberFive_Implementation</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190514T125343Z" creationid="luciano" creationdate="20160615T150958Z">
+        <seg>Modificare il nome da NumberFive a NumberFive_Implementation</seg>
       </tuv>
     </tu>
     <tu>
@@ -22618,6 +22642,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T144648Z" creationid="luciano" creationdate="20160509T144648Z">
         <seg>Fine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>End If</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190514T125441Z" creationid="luke" creationdate="20190514T125441Z">
+        <seg>End If</seg>
       </tuv>
     </tu>
     <tu>
@@ -41481,8 +41513,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Passing &lt;i0/&gt;arguments to a macro</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T152525Z" creationid="luciano" creationdate="20160615T151529Z">
-        <seg>Trasferire &lt;i0/&gt;argomenti ad una macro</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190514T125820Z" creationid="luciano" creationdate="20160615T151529Z">
+        <seg>Passare &lt;i0/&gt;argomenti a una macro</seg>
       </tuv>
     </tu>
     <tu>
@@ -46593,8 +46625,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Save, close, and reopen the Calc document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T150725Z" creationid="luciano" creationdate="20160615T150725Z">
-        <seg>Salvate, chiuidere e riaprite il documento Calc.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190514T125152Z" creationid="luciano" creationdate="20160615T150725Z">
+        <seg>Salvate, chiudete e riaprite il documento di Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55138,8 +55170,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The new macro loads the AuthorsCalcMacros library if it is not already loaded, and then calls the implementation function.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190514T123008Z" creationid="luciano" creationdate="20160615T150653Z">
-        <seg>aaaaLa nuova macro carica la libreria AuthorsCalcMacros se non è stata caricata, e chiama le funzioni di implementazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190514T124310Z" creationid="luciano" creationdate="20160615T150653Z">
+        <seg>La nuova macro carica la libreria AutoriMacroCalc se non è già stata caricata, e richiama poi la funzione di implementazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58970,8 +59002,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>This time, the NumberFive() function works.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T150859Z" creationid="luciano" creationdate="20160615T150859Z">
-        <seg>Questa volta NumberFive() funziona.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190514T125233Z" creationid="luciano" creationdate="20160615T150859Z">
+        <seg>Questa volta la funzione NumberFive() funziona.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60386,8 +60418,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>To illustrate a function that accepts arguments, we will write a macro that calculates the sum of its arguments that are positive &lt;f0&gt;—&lt;/f0&gt;it will ignore arguments that are less than zero (see &lt;t1&gt;Listing 5&lt;/t1&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T151501Z" creationid="luciano" creationdate="20160615T151501Z">
-        <seg>Per illustrare una funzione che accetta gli argomenti, scriveremo una macro che calcola la somma dei propri argomenti positivi &lt;f0&gt;—&lt;/f0&gt;questa ingnorerà gli argomenti che sono inferiori allo zero (vedere &lt;t1&gt;Listato 5&lt;/t1&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190514T125825Z" creationid="luciano" creationdate="20160615T151501Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaaaaPer illustrare una funzione che accetta gli argomenti, scriveremo una macro che calcola la somma dei propri argomenti positivi &lt;f0&gt;—&lt;/f0&gt;questa ingnorerà gli argomenti che sono inferiori allo zero (vedere &lt;t1&gt;Listato 5&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
