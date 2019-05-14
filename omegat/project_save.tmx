@@ -9104,8 +9104,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;LibreOffice&lt;/f2&gt; automatically creates a macro named Main and opens the module for editing.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190514T103531Z" creationid="luciano" creationdate="20160615T150418Z">
-        <seg>aaaa&lt;f2&gt;LibreOffice&lt;/f2&gt; automaticamente crea una macro chiamata Main e apre i moduli per le modifiche.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190514T121129Z" creationid="luciano" creationdate="20160615T150418Z">
+        <seg>&lt;f2&gt;LibreOffice&lt;/f2&gt; crea automaticamente una macro chiamata Main e apre il modulo per la modifica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19944,8 +19944,8 @@
       <tuv lang="EN">
         <seg>Create a macro in the Standard library that calls the implementation function (see &lt;t0&gt;Listing 4&lt;/t0&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T150545Z" creationid="luciano" creationdate="20160615T150545Z">
-        <seg>Create una macro nella libreria Standard che chiama le funzioni di implementazione (vedere &lt;t0&gt;Elenco 4&lt;/t0&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190514T123006Z" creationid="luciano" creationdate="20160615T150545Z">
+        <seg>Create una macro nella libreria Standard che richiami la funzione di implementazione (vedete il &lt;t0&gt;Listato 4&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -55138,8 +55138,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The new macro loads the AuthorsCalcMacros library if it is not already loaded, and then calls the implementation function.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T151220Z" creationid="luciano" creationdate="20160615T150653Z">
-        <seg>La nuova macro carica la libreria AuthorsCalcMacros se non è stata caricata, e chiama le funzioni di implementazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190514T123008Z" creationid="luciano" creationdate="20160615T150653Z">
+        <seg>aaaaLa nuova macro carica la libreria AuthorsCalcMacros se non è stata caricata, e chiama le funzioni di implementazione.</seg>
       </tuv>
     </tu>
     <tu>
