@@ -3318,6 +3318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Function&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;NumberFive_Implementation&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;()&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190514T075719Z" creationid="luke" creationdate="20190514T075719Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Function&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;NumberFive_Implementation&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;()&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;If you choose &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Keep Old Styles&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt; in the message box shown in &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;&lt;t8&gt;Figure 119&lt;/t8&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f9&gt;&lt;f10&gt;, that message will not appear again the next time you open the document after changing the template it is based on.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180415T103010Z" creationid="briga" creationdate="20160823T074709Z">
@@ -16560,16 +16568,16 @@
       <tuv lang="EN">
         <seg>Change the name of NumberFive to NumberFive_Implementation</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T145340Z" creationid="luciano" creationdate="20160615T145340Z">
-        <seg>Modificare il nome da NumberFive in NumberFive_Implementation</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190514T075719Z" creationid="luciano" creationdate="20160615T145340Z">
+        <seg>aaaaModificare il nome da NumberFive in NumberFive_Implementation</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Change the name of NumberFive to NumberFive_Implementation (&lt;t0&gt;Listing 3&lt;/t0&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T145300Z" creationid="luciano" creationdate="20160615T145300Z">
-        <seg>Modificare il nome da NumberFive in NumberFive_Implementation (&lt;t0&gt;Elenco 3&lt;/t0&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190514T075701Z" creationid="luciano" creationdate="20160615T145300Z">
+        <seg>Cambiate il nome da NumberFive a NumberFive_Implementation (&lt;t0&gt;Listato 3&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -25528,8 +25536,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;312&lt;/seq0&gt;: Select a macro and click Edit</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T145056Z" creationid="luciano" creationdate="20160615T145056Z">
-        <seg>Figura &lt;seq0&gt;312&lt;/seq0&gt;: Selezionare una macro e clic per Modifica</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190514T075424Z" creationid="luciano" creationdate="20160615T145056Z">
+        <seg>Figura &lt;seq0&gt;312&lt;/seq0&gt;: selezione di una macro (e sua eventuale modifica tramite il pulsante Modifica)</seg>
       </tuv>
     </tu>
     <tu>
@@ -47786,8 +47794,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Select the NumberFive macro and click &lt;f5&gt;Edit&lt;/f5&gt; to open the macro for editing.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T145011Z" creationid="luciano" creationdate="20160615T145011Z">
-        <seg>Selezionate la macro NumberFivee fate clic su &lt;f5&gt;Modifica&lt;/f5&gt; per aprire la macro e modificarla.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190514T074823Z" creationid="luciano" creationdate="20160615T145011Z">
+        <seg>Selezionate la macro NumberFive e fate clic su &lt;f5&gt;Modifica&lt;/f5&gt; per aprire la macro e modificarla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62371,8 +62379,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Use &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;LibreOffice&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Basic&lt;/f3&gt; to open the &lt;f4&gt;LibreOffice&lt;/f4&gt; Basic Macros dialog.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190513T130238Z" creationid="luciano" creationdate="20160614T142216Z">
-        <seg>aaaaaaaaaaaaaaaaUsate &lt;f0&gt;Strumenti &gt; Macro &gt; Organizza Macro &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;LibreOffice&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Basic&lt;/f3&gt; per aprire la finestra di dialogo Macro &lt;f4&gt;LibreOffice&lt;/f4&gt; Basic.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190514T074625Z" creationid="luciano" creationdate="20160614T142216Z">
+        <seg>Usate la voce &lt;f0&gt;Strumenti &gt; Macro &gt; Organizza macro &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;LibreOffice&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; Basic&lt;/f3&gt; per aprire la finestra di dialogo Macro &lt;f4&gt;LibreOffice&lt;/f4&gt; Basic.</seg>
       </tuv>
     </tu>
     <tu>
