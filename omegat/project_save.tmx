@@ -9104,8 +9104,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;LibreOffice&lt;/f2&gt; automatically creates a macro named Main and opens the module for editing.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T150418Z" creationid="luciano" creationdate="20160615T150418Z">
-        <seg>&lt;f2&gt;LibreOffice&lt;/f2&gt; automaticamente crea una macro chiamata Main e apre i moduli per le modifiche.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190514T103531Z" creationid="luciano" creationdate="20160615T150418Z">
+        <seg>aaaa&lt;f2&gt;LibreOffice&lt;/f2&gt; automaticamente crea una macro chiamata Main e apre i moduli per le modifiche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22680,8 +22680,8 @@
       <tuv lang="EN">
         <seg>Enter a meaningful name such as CalcFunctions and click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T150930Z" creationid="luciano" creationdate="20160615T150318Z">
-        <seg>Inserite un nome significativo come CalcFunctions e fate clic su &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190514T103529Z" creationid="luciano" creationdate="20160615T150318Z">
+        <seg>Inserite un nome significativo, come FunzioniCalc, e fate clic su &lt;f1&gt;OK&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47817,8 +47817,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Select the Standard library in the CalcTestMacros document and click &lt;f0&gt;New&lt;/f0&gt; to create a new module.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190514T102608Z" creationid="luciano" creationdate="20160615T150220Z">
-        <seg>aaaaSelezionate la libreria Standard nel documento CalcTestMacros e fate clic su &lt;f0&gt;Nuovo&lt;/f0&gt; per creare un nuovo modulo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190514T102920Z" creationid="luciano" creationdate="20160615T150220Z">
+        <seg>Selezionate la libreria Standard nel documento calc_test_macro e fate clic sul pulsante &lt;f0&gt;Nuovo&lt;/f0&gt; per creare un nuovo modulo.</seg>
       </tuv>
     </tu>
     <tu>
