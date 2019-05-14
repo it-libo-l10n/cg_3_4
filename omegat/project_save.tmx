@@ -19968,7 +19968,7 @@
       <tuv lang="EN">
         <seg>Create a macro in the Standard library that calls the implementation function (see &lt;t0&gt;Listing 4&lt;/t0&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190514T123006Z" creationid="luciano" creationdate="20160615T150545Z">
+      <tuv lang="IT-IT" changeid="luke" changedate="20190514T155511Z" creationid="luciano" creationdate="20160615T150545Z">
         <seg>Create una macro nella libreria Standard che richiami la funzione di implementazione (vedete il &lt;t0&gt;Listato 4&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
@@ -36976,8 +36976,8 @@
       <tuv lang="EN">
         <seg>Listing &lt;seq0&gt;5&lt;/seq0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T151234Z" creationid="luciano" creationdate="20160615T151234Z">
-        <seg>Listato &lt;seq0&gt;5&lt;/seq0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190514T155628Z" creationid="luciano" creationdate="20160615T151234Z">
+        <seg>aaaaaaaaaaaaaaaaListato &lt;seq0&gt;5&lt;/seq0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41851,6 +41851,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180429T135536Z">
         <seg>Posizionamento delle immagini</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PositiveSum calculates the sum of the positive arguments.</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190514T155629Z" creationid="luke" creationdate="20190514T155629Z">
+        <seg>PositiveSum calculates the sum of the positive arguments.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60418,8 +60426,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>To illustrate a function that accepts arguments, we will write a macro that calculates the sum of its arguments that are positive &lt;f0&gt;—&lt;/f0&gt;it will ignore arguments that are less than zero (see &lt;t1&gt;Listing 5&lt;/t1&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190514T125825Z" creationid="luciano" creationdate="20160615T151501Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaaaaPer illustrare una funzione che accetta gli argomenti, scriveremo una macro che calcola la somma dei propri argomenti positivi &lt;f0&gt;—&lt;/f0&gt;questa ingnorerà gli argomenti che sono inferiori allo zero (vedere &lt;t1&gt;Listato 5&lt;/t1&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190514T155626Z" creationid="luciano" creationdate="20160615T151501Z">
+        <seg>Per illustrare una funzione che accetta gli argomenti, verrà scritta una macro che calcola la somma dei propri argomenti positivi &lt;f0&gt;—&lt;/f0&gt; questa ignorerà gli argomenti che sono minori di zero (vedete il &lt;t1&gt;Listato 5&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
