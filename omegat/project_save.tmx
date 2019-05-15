@@ -3086,6 +3086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;TheSum&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;As&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Double&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T143722Z" creationid="luke" creationdate="20190515T143722Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;TheSum&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;As&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Double&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oAddr&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;'Cell address range for the database range.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T151848Z" creationid="steevie" creationdate="20160509T151848Z">
@@ -3400,8 +3408,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Function&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;SumCellsAllSheets&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T152223Z" creationid="steevie" creationdate="20160620T152223Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Function&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;SumCellsAllSheets&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T143721Z" creationid="steevie" creationdate="20160620T152223Z">
+        <seg>aaaa&lt;f0&gt;&lt;f1&gt;Function&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;SumCellsAllSheets&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9360,8 +9368,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;ThisComponent&lt;/f2&gt; is set by StarBasic when the macro starts to reference the current document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T092506Z" creationid="luciano" creationdate="20160616T092506Z">
-        <seg>&lt;f2&gt;ThisComponent&lt;/f2&gt; viene impostato da StarBasic quando la macro inizia a consultare il documento corrente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T143103Z" creationid="luciano" creationdate="20160616T092506Z">
+        <seg>&lt;f2&gt;ThisComponent&lt;/f2&gt; viene impostato da StarBasic quando la macro inizia a fare riferimento al documento attivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10552,8 +10560,8 @@
       <tuv lang="EN">
         <seg>A Calc document contains sheets: &lt;f3&gt;ThisComponent.getSheets()&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T092558Z" creationid="luciano" creationdate="20160616T092558Z">
-        <seg>Un documento di Calc contiene fogli: &lt;f3&gt;ThisComponent.getSheets()&lt;/f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T143310Z" creationid="luciano" creationdate="20160616T092558Z">
+        <seg>Un documento di Calc contiene dei fogli: &lt;f3&gt;ThisComponent.getSheets()&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27800,8 +27808,8 @@
       <tuv lang="EN">
         <seg>For example, the macro in &lt;t1&gt;Listing 7&lt;/t1&gt; adds the values in cell A2 from every sheet in the current document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T161109Z" creationid="luciano" creationdate="20160615T161109Z">
-        <seg>Per esempio, la macro nel &lt;t1&gt;Listato 7&lt;/t1&gt; aggiunge il valore nella cella A2 da ogni foglio presente nel documento corrente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T142032Z" creationid="luciano" creationdate="20160615T161109Z">
+        <seg>Ad esempio, la macro nel &lt;t1&gt;Listato 7&lt;/t1&gt; aggiunge i valori nella cella A2 da ogni foglio presente nel documento attivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62642,8 +62650,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Use &lt;f4&gt;getCellByPosition(col, row)&lt;/f4&gt; to return a cell at a specific row and column.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T092647Z" creationid="luciano" creationdate="20160616T092647Z">
-        <seg>Utilizzate &lt;f4&gt;getCellByPosition(col, row)&lt;/f4&gt; per restituire una cella ad una determinata riga e colonna.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T143548Z" creationid="luciano" creationdate="20160616T092647Z">
+        <seg>Utilizzate &lt;f4&gt;getCellByPosition(col, row)&lt;/f4&gt; per restituire una cella a una determinata riga e colonna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66122,8 +66130,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>You can access the &lt;f0&gt;LibreOffice&lt;/f0&gt; internal objects directly to manipulate a Calc document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190515T133742Z" creationid="luciano" creationdate="20160615T160925Z">
-        <seg>aaaaPotete accedere direttamente agli oggetti interni di &lt;f0&gt;LibreOffice&lt;/f0&gt; per manipolare un documento di Calc.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T141054Z" creationid="luciano" creationdate="20160615T160925Z">
+        <seg>Per manipolare un documento di Calc potete accedere direttamente agli oggetti interni di &lt;f0&gt;LibreOffice&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
