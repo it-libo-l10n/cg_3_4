@@ -2958,10 +2958,82 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;Dim &lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;TheSum&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; As Double&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T074215Z" creationid="luke" creationdate="20190515T074215Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;Dim &lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;TheSum&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; As Double&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;Dim &lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;iCol&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; As Integer&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T074222Z" creationid="luke" creationdate="20190515T074222Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;Dim &lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;iCol&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; As Integer&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;Dim &lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;iRow&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; As Integer&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T074218Z" creationid="luke" creationdate="20190515T074218Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;Dim &lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;iRow&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; As Integer&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;For &lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;iCol&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; = &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;LBound&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;(&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;x&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;, &lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;2&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;) To &lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;UBound&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;(&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;x&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt;, &lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;&lt;f28&gt;2&lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt;&lt;f30&gt;)&lt;/f30&gt;&lt;/f29&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T074252Z" creationid="luke" creationdate="20190515T074252Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;For &lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;iCol&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; = &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;LBound&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;(&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;x&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;, &lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;2&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;) To &lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;UBound&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;(&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;x&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt;, &lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;&lt;f28&gt;2&lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt;&lt;f30&gt;)&lt;/f30&gt;&lt;/f29&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;For &lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;iRow&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; = &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;LBound&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;(&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;x&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;, &lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;1&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;) To &lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;UBound&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;(&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;x&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt;, &lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;&lt;f28&gt;1&lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt;&lt;f30&gt;)&lt;/f30&gt;&lt;/f29&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T074249Z" creationid="luke" creationdate="20190515T074249Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;For &lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;iRow&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; = &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;LBound&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;(&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;x&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;, &lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;1&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;) To &lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;UBound&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;(&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;x&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt;, &lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;&lt;f28&gt;1&lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt;&lt;f30&gt;)&lt;/f30&gt;&lt;/f29&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;If &lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;x&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; &gt; &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;0&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt; Then &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;TheSum&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt; = &lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;x&lt;/f16&gt;&lt;/f15&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T074239Z" creationid="luke" creationdate="20190515T074239Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;If &lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;x&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; &gt; &lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;0&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt; Then &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;TheSum&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt; = &lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;x&lt;/f16&gt;&lt;/f15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;If &lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;x&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;iRow&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;, &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;iCol&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;) &gt; &lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;0&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt; Then &lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;TheSum&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt; = &lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;TheSum&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt; + &lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;&lt;f28&gt;x&lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt;&lt;f30&gt;(&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt;&lt;f32&gt;iRow&lt;/f32&gt;&lt;/f31&gt;&lt;f33&gt;&lt;f34&gt;, &lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt;&lt;f36&gt;iCol&lt;/f36&gt;&lt;/f35&gt;&lt;f37&gt;&lt;f38&gt;)&lt;/f38&gt;&lt;/f37&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T074257Z" creationid="luke" creationdate="20190515T074257Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;If &lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;x&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;iRow&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;, &lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;iCol&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;) &gt; &lt;/f14&gt;&lt;/f13&gt;&lt;f15&gt;&lt;f16&gt;0&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt; Then &lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;TheSum&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt; = &lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt;&lt;f24&gt;TheSum&lt;/f24&gt;&lt;/f23&gt;&lt;f25&gt;&lt;f26&gt; + &lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;&lt;f28&gt;x&lt;/f28&gt;&lt;/f27&gt;&lt;f29&gt;&lt;f30&gt;(&lt;/f30&gt;&lt;/f29&gt;&lt;f31&gt;&lt;f32&gt;iRow&lt;/f32&gt;&lt;/f31&gt;&lt;f33&gt;&lt;f34&gt;, &lt;/f34&gt;&lt;/f33&gt;&lt;f35&gt;&lt;f36&gt;iCol&lt;/f36&gt;&lt;/f35&gt;&lt;f37&gt;&lt;f38&gt;)&lt;/f38&gt;&lt;/f37&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;If NOT &lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;BasicLibraries&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;.&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;isLibraryLoaded&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;(&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;"AuthorsCalcMacros"&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;) Then&lt;/f14&gt;&lt;/f13&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20190514T125429Z" creationid="luke" creationdate="20190514T125429Z">
         <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;If NOT &lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;BasicLibraries&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;.&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;isLibraryLoaded&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;(&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;&lt;f12&gt;"AutoriMacroCalc"&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;f14&gt;) Then&lt;/f14&gt;&lt;/f13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;If NOT &lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;IsArray&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;x&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;) Then&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T074234Z" creationid="luke" creationdate="20190515T074234Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;If NOT &lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;IsArray&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;x&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;) Then&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;If NOT &lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;IsMissing&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;x&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;) Then&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T074230Z" creationid="luke" creationdate="20190515T074230Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;s2/&gt;If NOT &lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;IsMissing&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;x&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;) Then&lt;/f10&gt;&lt;/f9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3318,6 +3390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Function &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;PositiveSum&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;(Optional &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;x&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;)&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T074208Z" creationid="luke" creationdate="20190515T074208Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Function &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;PositiveSum&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;(Optional &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;x&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;)&lt;/f9&gt;&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Function&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;SumCellsAllSheets&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160620T152223Z" creationid="steevie" creationdate="20160620T152223Z">
@@ -3454,6 +3534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;PositiveSum&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;TheSum&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T074318Z" creationid="luke" creationdate="20190515T074318Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;PositiveSum&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;TheSum&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Print&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oCell&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;.&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;getString&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;()&lt;/f10&gt;&lt;/f9&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142517Z" creationid="steevie" creationdate="20160504T142517Z">
@@ -3586,6 +3674,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171204T084807Z" creationid="michele" creationdate="20160525T091603Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Si aprirà la finestra di dialogo &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Imposta la password&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;; vedete la &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;&lt;t8&gt;Figura 20&lt;/t8&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f9&gt;&lt;f10&gt;.&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;TheSum&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;0.0&lt;/f5&gt;&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T074227Z" creationid="luke" creationdate="20190515T074227Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;TheSum&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; = &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;0.0&lt;/f5&gt;&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22574,6 +22670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Else</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T074244Z" creationid="luke" creationdate="20190515T074244Z">
+        <seg>Else</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Embedding linked images</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="Marco Marega" changedate="20170204T164506Z" creationid="Marco Marega" creationdate="20170204T164506Z">
@@ -22642,6 +22746,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T144648Z" creationid="luciano" creationdate="20160509T144648Z">
         <seg>Fine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>End Function</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T074322Z" creationid="luke" creationdate="20190515T074322Z">
+        <seg>End Function</seg>
       </tuv>
     </tu>
     <tu>
@@ -36976,8 +37088,8 @@
       <tuv lang="EN">
         <seg>Listing &lt;seq0&gt;5&lt;/seq0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190514T155628Z" creationid="luciano" creationdate="20160615T151234Z">
-        <seg>aaaaaaaaaaaaaaaaListato &lt;seq0&gt;5&lt;/seq0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T074036Z" creationid="luciano" creationdate="20160615T151234Z">
+        <seg>Listato &lt;seq0&gt;5&lt;/seq0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38723,6 +38835,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181108T101935Z" creationid="osvaldo" creationdate="20170925T203754Z">
         <seg>I nuovi utenti imparano rapidamente che le funzioni sono una caratteristica importante dei fogli elettronici, ma sono disponibili quasi quattrocento funzioni e molte richiedono una digitazione che presuppone conoscenze specialistiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T074300Z" creationid="luke" creationdate="20190515T074300Z">
+        <seg>Next</seg>
       </tuv>
     </tu>
     <tu>
@@ -41857,8 +41977,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>PositiveSum calculates the sum of the positive arguments.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190514T155629Z" creationid="luke" creationdate="20190514T155629Z">
-        <seg>PositiveSum calculates the sum of the positive arguments.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T074204Z" creationid="luke" creationdate="20190514T155629Z">
+        <seg>PositiveSum calcola la somma degli argomenti positivi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54890,8 +55010,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The macro in &lt;t0&gt;Listing 5&lt;/t0&gt; demonstrates some important techniques:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T152634Z" creationid="luciano" creationdate="20160615T152634Z">
-        <seg>La macro nel &lt;t0&gt;Listato 5&lt;/t0&gt; illustra alcune importanti tecniche:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T074325Z" creationid="luciano" creationdate="20160615T152634Z">
+        <seg>aaaaLa macro nel &lt;t0&gt;Listato 5&lt;/t0&gt; illustra alcune importanti tecniche:</seg>
       </tuv>
     </tu>
     <tu>
