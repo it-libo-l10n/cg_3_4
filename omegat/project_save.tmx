@@ -3094,6 +3094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;i&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;As&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;integer&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T145722Z" creationid="luke" creationdate="20190515T145722Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;i&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;As&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;integer&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oAddr&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;'Cell address range for the database range.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T151848Z" creationid="steevie" creationdate="20160509T151848Z">
@@ -3106,6 +3114,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T144554Z" creationid="steevie" creationdate="20160509T144554Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oAddress&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;'Indirizzo dell'intervallo.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oCell&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T145728Z" creationid="luke" creationdate="20190515T145728Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oCell&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3238,6 +3254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oSheet&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T145727Z" creationid="luke" creationdate="20190515T145727Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oSheet&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oSheet&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;'First sheet, which will contain the range.&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T151910Z" creationid="steevie" creationdate="20160509T151910Z">
@@ -3274,6 +3298,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T144354Z" creationid="steevie" creationdate="20160504T144235Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oSheet&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;'Foglio che contiene l'intervallo con nome.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oSheets&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T145725Z" creationid="luke" creationdate="20190515T145725Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oSheets&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3366,6 +3398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;For&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;i&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;=&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;0&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;To&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;oSheets&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;.&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;getCount&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;()&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt; &lt;/f23&gt;&lt;f24&gt;&lt;f25&gt;-&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt; &lt;/f26&gt;&lt;f27&gt;&lt;f28&gt;1&lt;/f28&gt;&lt;/f27&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T145736Z" creationid="luke" creationdate="20190515T145736Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;For&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;i&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;=&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;0&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;To&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;oSheets&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;&lt;f18&gt;.&lt;/f18&gt;&lt;/f17&gt;&lt;f19&gt;&lt;f20&gt;getCount&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;()&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt; &lt;/f23&gt;&lt;f24&gt;&lt;f25&gt;-&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt; &lt;/f26&gt;&lt;f27&gt;&lt;f28&gt;1&lt;/f28&gt;&lt;/f27&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Formatting &lt;/f1&gt;&lt;/f0&gt;&lt;is2/&gt;&lt;f3&gt;&lt;f4&gt;numbers&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180103T112831Z" creationid="Elisabetta" creationdate="20160718T165834Z">
@@ -3408,8 +3448,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Function&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;SumCellsAllSheets&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190515T143721Z" creationid="steevie" creationdate="20160620T152223Z">
-        <seg>aaaa&lt;f0&gt;&lt;f1&gt;Function&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;SumCellsAllSheets&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T145716Z" creationid="steevie" creationdate="20160620T152223Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Function&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;SumCellsAllSheets&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3686,6 +3726,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;SumCellsAllSheets&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;TheSum&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T145835Z" creationid="luke" creationdate="20190515T145835Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;SumCellsAllSheets&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;TheSum&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Tagged PDF&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;: Tagged PDF contains information about the structure of the document’s contents.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180801T103024Z" creationid="Luciano B." creationdate="20160325T171732Z">
@@ -3714,6 +3762,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="ldaghino" changedate="20171204T084807Z" creationid="michele" creationdate="20160525T091603Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Si aprirà la finestra di dialogo &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Imposta la password&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;; vedete la &lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;&lt;t8&gt;Figura 20&lt;/t8&gt;&lt;/f7&gt;&lt;/f6&gt;&lt;f9&gt;&lt;f10&gt;.&lt;/f10&gt;&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;TheSum&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;TheSum&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;+&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;oCell&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;getValue&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;()&lt;/f19&gt;&lt;/f18&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T145830Z" creationid="luke" creationdate="20190515T145830Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;TheSum&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;TheSum&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;+&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;oCell&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;getValue&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;()&lt;/f19&gt;&lt;/f18&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3990,6 +4046,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oCell&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oSheet&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;getCellByPosition&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;0&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;,&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt; &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;1&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;)&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt; &lt;/f23&gt;&lt;f24&gt;&lt;f25&gt;' GetCell A2&lt;/f25&gt;&lt;/f24&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T145827Z" creationid="luke" creationdate="20190515T145827Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oCell&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oSheet&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;getCellByPosition&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;0&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;,&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt; &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;1&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt;&lt;f22&gt;)&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt; &lt;/f23&gt;&lt;f24&gt;&lt;f25&gt;' GetCell A2&lt;/f25&gt;&lt;/f24&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;oCellAddress&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oRange&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;getCellAddress&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;()&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T144444Z" creationid="steevie" creationdate="20160504T144444Z">
@@ -4238,10 +4302,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oSheet&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oSheets&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;getByIndex&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;i&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;)&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T145823Z" creationid="luke" creationdate="20190515T145823Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oSheet&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oSheets&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;getByIndex&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;i&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;)&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;oSheet&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;filter&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oFilterDesc&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;)&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T140026Z" creationid="steevie" creationdate="20160511T140026Z">
         <seg>&lt;f0&gt;&lt;f1&gt;oSheet&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;filter&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oFilterDesc&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;)&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oSheets&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;ThisComponent&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;getSheets&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;()&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T145730Z" creationid="luke" creationdate="20190515T145730Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oSheets&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;ThisComponent&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;getSheets&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;()&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10640,8 +10720,8 @@
       <tuv lang="EN">
         <seg>A cell object supports the methods &lt;f0&gt;getValue()&lt;/f0&gt;, &lt;f1&gt;getString()&lt;/f1&gt;, and &lt;f2&gt;getFormula()&lt;/f2&gt; to get the numerical value, the string value, or the formula used in a cell.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T092914Z" creationid="luciano" creationdate="20160616T092914Z">
-        <seg>Un oggetto cella supporta i metodi &lt;f0&gt;getValue()&lt;/f0&gt;, &lt;f1&gt;getString()&lt;/f1&gt;, e &lt;f2&gt;getFormula()&lt;/f2&gt; per ottenere il valore numerico, il valore di stringa, o la formula utilizzata in una cella.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T145848Z" creationid="luciano" creationdate="20160616T092914Z">
+        <seg>aaaaUn oggetto cella supporta i metodi &lt;f0&gt;getValue()&lt;/f0&gt;, &lt;f1&gt;getString()&lt;/f1&gt;, e &lt;f2&gt;getFormula()&lt;/f2&gt; per ottenere il valore numerico, il valore di stringa, o la formula utilizzata in una cella.</seg>
       </tuv>
     </tu>
     <tu>
