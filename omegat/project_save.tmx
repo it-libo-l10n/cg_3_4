@@ -6456,16 +6456,16 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;IsArray&lt;/f0&gt; checks to see if the argument is a single value, or an array.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T153218Z" creationid="luciano" creationdate="20160615T153218Z">
-        <seg>&lt;f0&gt;IsArray&lt;/f0&gt; controlla per vedere se l'argomento è un valore singolo, o un array..</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T082407Z" creationid="luciano" creationdate="20160615T153218Z">
+        <seg>&lt;f0&gt;IsArray&lt;/f0&gt; controlla se l'argomento è un valore singolo oppure un array.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;IsMissing&lt;/f0&gt; checks that an argument was passed before the argument is used.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T153127Z" creationid="luciano" creationdate="20160615T153127Z">
-        <seg>&lt;f0&gt;IsMissing&lt;/f0&gt; controlla che un argomento sia stato passato prima di utilizzare l'argomento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T082232Z" creationid="luciano" creationdate="20160615T153127Z">
+        <seg>&lt;f0&gt;IsMissing&lt;/f0&gt; controlla che un argomento sia stato passato prima che sia utilizzato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30616,8 +30616,8 @@
       <tuv lang="EN">
         <seg>If Calc calls the function many times, then the error is displayed many times.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T153007Z" creationid="luciano" creationdate="20160615T153007Z">
-        <seg>Se Calc chiama la funzione numerose volte, l'errore sarà visualizzato numerose volte.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T081946Z" creationid="luciano" creationdate="20160615T153007Z">
+        <seg>Se Calc richiama la funzione più volte, l'errore sarà anch'esso visualizzato lo stesso numero di volte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30784,8 +30784,8 @@
       <tuv lang="EN">
         <seg>If a range is passed to the function, it is passed as a two-dimensional array of values; for example, &lt;f0&gt;=PositiveSum(A2:B5).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T154224Z" creationid="luciano" creationdate="20160615T154224Z">
-        <seg>Se un intervallo viene passato alla funzione, vine passato come un array bidimensionale di valory; per esempio, &lt;f0&gt;=PositiveSum(A2:B5).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T082735Z" creationid="luciano" creationdate="20160615T154224Z">
+        <seg>aaaaSe un intervallo viene passato alla funzione, vine passato come un array bidimensionale di valory; per esempio, &lt;f0&gt;=PositiveSum(A2:B5).</seg>
       </tuv>
     </tu>
     <tu>
@@ -34704,8 +34704,8 @@
       <tuv lang="EN">
         <seg>In the first case, the number 7 is passed as an argument, and in the second case, the value of cell A4 is passed to the function.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T153550Z" creationid="luciano" creationdate="20160615T153550Z">
-        <seg>Nel primo caso, il numero 7 viene passato come un argomento, e nel secondo caso il valore della cella A4 viene passato alla funzione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T082731Z" creationid="luciano" creationdate="20160615T153550Z">
+        <seg>Nel primo caso, viene passato come argomento il numero 7; nel secondo caso viene passato alla funzione il valore della cella A4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55010,8 +55010,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The macro in &lt;t0&gt;Listing 5&lt;/t0&gt; demonstrates some important techniques:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190515T074325Z" creationid="luciano" creationdate="20160615T152634Z">
-        <seg>aaaaLa macro nel &lt;t0&gt;Listato 5&lt;/t0&gt; illustra alcune importanti tecniche:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T080443Z" creationid="luciano" creationdate="20160615T152634Z">
+        <seg>La macro nel &lt;t0&gt;Listato 5&lt;/t0&gt; illustra alcune importanti tecniche:</seg>
       </tuv>
     </tu>
     <tu>
@@ -64562,8 +64562,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>When an argument is not optional and the function is called without it, &lt;f1&gt;LibreOffice&lt;/f1&gt; prints a warning message every time the macro is called.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T152915Z" creationid="luciano" creationdate="20160615T152915Z">
-        <seg>Quando un argomento non è opzionale e la funzione viene chiamata senza di esso, &lt;f1&gt;LibreOffice&lt;/f1&gt; stampa un messaggio di avviso ad ogni chiamata della macro.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T081644Z" creationid="luciano" creationdate="20160615T152915Z">
+        <seg>Quando un argomento non è opzionale e la funzione viene richiamata senza l'argomento stesso, &lt;f1&gt;LibreOffice&lt;/f1&gt; stampa un messaggio di avviso ad ogni chiamata della macro.</seg>
       </tuv>
     </tu>
     <tu>
