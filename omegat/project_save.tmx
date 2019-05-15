@@ -3406,6 +3406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Function&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;TestMax&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;x&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;,&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;y&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;)&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T100743Z" creationid="luke" creationdate="20190515T100743Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Function&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;TestMax&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;x&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;,&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;y&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;)&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Function&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;NumberFive&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;()&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20190509T121324Z" creationid="luke" creationdate="20190509T121324Z">
@@ -3450,6 +3458,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T144443Z" creationid="steevie" creationdate="20160504T144443Z">
         <seg>&lt;f0&gt;&lt;f1&gt;If&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;NOT&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oRanges&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;hasByName&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;sName&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;)&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt; &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;Then&lt;/f20&gt;&lt;/f19&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;If&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;x&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;&gt;=&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;y&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;Then&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T100748Z" creationid="luke" creationdate="20190515T100748Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;If&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;x&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;&gt;=&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;y&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;Then&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3666,6 +3682,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180801T103024Z" creationid="Luciano B." creationdate="20160325T171732Z">
         <seg>&lt;f0&gt;&lt;f1&gt;PDF con tag&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;: un PDF con tag contiene informazioni relative alla struttura dei contenuti del documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;TestMax&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;x&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T100750Z" creationid="luke" creationdate="20190515T100750Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;TestMax&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;x&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;TestMax&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;y&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T100755Z" creationid="luke" creationdate="20190515T100755Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;TestMax&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;y&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13576,8 +13608,8 @@
       <tuv lang="EN">
         <seg>Arguments are passed as values</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T155637Z" creationid="luciano" creationdate="20160615T155637Z">
-        <seg>Gli argumenti vengono passati come valori</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T101342Z" creationid="luciano" creationdate="20160615T155637Z">
+        <seg>Argomenti passati come valori</seg>
       </tuv>
     </tu>
     <tu>
@@ -13592,8 +13624,8 @@
       <tuv lang="EN">
         <seg>Arguments passed to a macro from Calc are always values.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T155714Z" creationid="luciano" creationdate="20160615T155714Z">
-        <seg>Gli argumenti passati a una macro da Calc sono sempre dei valori.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T101527Z" creationid="luciano" creationdate="20160615T155714Z">
+        <seg>Gli argomenti passati a una macro da Calc sono sempre dei valori.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27280,8 +27312,8 @@
       <tuv lang="EN">
         <seg>For example, &lt;f0&gt;=PositiveSum(A3)&lt;/f0&gt; passes the value of cell A3, and PositiveSum has no way of knowing that cell A3 was used.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T160020Z" creationid="luciano" creationdate="20160615T160020Z">
-        <seg>Per esempio, &lt;f0&gt;=PositiveSum(A3)&lt;/f0&gt; passa il valore della cella A3, e PositiveSum non ha modo di sapere che la cella A3 è stata utilizzata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T102050Z" creationid="luciano" creationdate="20160615T160020Z">
+        <seg>Per esempio, &lt;f0&gt;=PositiveSum(A3)&lt;/f0&gt; passa il valore della cella A3, e PositiveSum non ha modo di sapere che è stata utilizzata la cella A3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32632,8 +32664,8 @@
       <tuv lang="EN">
         <seg>If you must know which cells are referenced rather than the values in the cells, pass the range as a string, parse the string, and obtain the values in the referenced cells.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T160248Z" creationid="luciano" creationdate="20160615T160248Z">
-        <seg>Se dovete sapere a quali le celle si fa riferimento, piuttosto che ai valori nelle celle, passate l'intervallo campo come una stringa, analizzate la stringa, e ottenete i valori nelle celle di riferimento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T102052Z" creationid="luciano" creationdate="20160615T160248Z">
+        <seg>aaaaSe dovete sapere a quali le celle si fa riferimento, piuttosto che ai valori nelle celle, passate l'intervallo campo come una stringa, analizzate la stringa, e ottenete i valori nelle celle di riferimento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35904,8 +35936,8 @@
       <tuv lang="EN">
         <seg>It is not possible to know what cells, if any, are used.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T155847Z" creationid="luciano" creationdate="20160615T155847Z">
-        <seg>Non è possibile sapere quali celle, se ce ne sono, sono utilizzate.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T101842Z" creationid="luciano" creationdate="20160615T155847Z">
+        <seg>Non è possibile sapere quali celle sono eventualmente utilizzate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41641,8 +41673,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Passing one argument is as easy as passing two: add another argument to the function definition (see &lt;t0&gt;Listing 6&lt;/t0&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190515T095025Z" creationid="luciano" creationdate="20160615T155324Z">
-        <seg>aaaaPassare un argomento è facile come passare due: aggiungete un altro argomento alla definizione della funzione (vedi &lt;t0&gt;Listato 6&lt;/t0&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T095950Z" creationid="luciano" creationdate="20160615T155324Z">
+        <seg>Passare un argomento è facile come passarne due: aggiungete un altro argomento alla definizione della funzione (vedete il &lt;t0&gt;Listato 6&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -64578,8 +64610,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>When calling a function with two arguments, separate the arguments with a semicolon; for example, &lt;f1&gt;=TestMax(3&lt;/f1&gt;&lt;f2&gt;;&lt;/f2&gt;&lt;f3&gt; -4)&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T155444Z" creationid="luciano" creationdate="20160615T155444Z">
-        <seg>Quando chiamate una funzione con due argomenti, separateli con un punto e virgola; per esempio, &lt;f1&gt;=TestMax(3&lt;/f1&gt;&lt;f2&gt;;&lt;/f2&gt;&lt;f3&gt; -4)&lt;/f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T100652Z" creationid="luciano" creationdate="20160615T155444Z">
+        <seg>Quando richiamate una funzione con due argomenti, separateli con un punto e virgola; ad esempio &lt;f1&gt;=TestMax(3&lt;/f1&gt;&lt;f2&gt;;&lt;/f2&gt;&lt;f3&gt; -4)&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
