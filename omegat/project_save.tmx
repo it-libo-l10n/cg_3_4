@@ -10720,8 +10720,8 @@
       <tuv lang="EN">
         <seg>A cell object supports the methods &lt;f0&gt;getValue()&lt;/f0&gt;, &lt;f1&gt;getString()&lt;/f1&gt;, and &lt;f2&gt;getFormula()&lt;/f2&gt; to get the numerical value, the string value, or the formula used in a cell.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190515T145848Z" creationid="luciano" creationdate="20160616T092914Z">
-        <seg>aaaaUn oggetto cella supporta i metodi &lt;f0&gt;getValue()&lt;/f0&gt;, &lt;f1&gt;getString()&lt;/f1&gt;, e &lt;f2&gt;getFormula()&lt;/f2&gt; per ottenere il valore numerico, il valore di stringa, o la formula utilizzata in una cella.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T152935Z" creationid="luciano" creationdate="20160616T092914Z">
+        <seg>Un oggetto cella supporta i metodi &lt;f0&gt;getValue()&lt;/f0&gt;, &lt;f1&gt;getString()&lt;/f1&gt; e &lt;f2&gt;getFormula()&lt;/f2&gt; per ottenere il valore numerico, il valore di stringa, o la formula utilizzata in una cella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30936,8 +30936,8 @@
       <tuv lang="EN">
         <seg>If a single cell is referenced, then a cell object is returned.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T093323Z" creationid="luciano" creationdate="20160616T093323Z">
-        <seg>Se si fa riferimento a singola cella, viene quindi restituito un oggetto della cella.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T154014Z" creationid="luciano" creationdate="20160616T093323Z">
+        <seg>aaaaaaaaaaaaaaaaSe si fa riferimento a singola cella, viene quindi restituito un oggetto della cella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63106,8 +63106,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Use the corresponding set functions to set appropriate values.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T093103Z" creationid="luciano" creationdate="20160616T093103Z">
-        <seg>Utilizzare le corrispondenti serie di funzioni per impostare i valori appropriati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T153901Z" creationid="luciano" creationdate="20160616T093103Z">
+        <seg>Utilizzate le corrispondenti funzioni per impostare i valori appropriati.</seg>
       </tuv>
     </tu>
     <tu>
