@@ -12760,8 +12760,8 @@
       <tuv lang="EN">
         <seg>Although the lower bound is one, it is considered safer to use &lt;f2&gt;LBound&lt;/f2&gt; in case it changes in the future.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T154430Z" creationid="luciano" creationdate="20160615T154430Z">
-        <seg>Sebbene il limite inferiore sia uno, è considerato sicuro da usare &lt;f2&gt;LBound&lt;/f2&gt; nel caso esso cambi in futuro.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T090448Z" creationid="luciano" creationdate="20160615T154430Z">
+        <seg>Sebbene il limite inferiore sia uno, è considerato più sicuro usare &lt;f2&gt;LBound&lt;/f2&gt; nel caso esso cambi in futuro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30784,8 +30784,8 @@
       <tuv lang="EN">
         <seg>If a range is passed to the function, it is passed as a two-dimensional array of values; for example, &lt;f0&gt;=PositiveSum(A2:B5).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190515T082735Z" creationid="luciano" creationdate="20160615T154224Z">
-        <seg>aaaaSe un intervallo viene passato alla funzione, vine passato come un array bidimensionale di valory; per esempio, &lt;f0&gt;=PositiveSum(A2:B5).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T085516Z" creationid="luciano" creationdate="20160615T154224Z">
+        <seg>Se un intervallo viene passato alla funzione, viene passato come un array bidimensionale di valori; ad esempio, &lt;f0&gt;=PositiveSum(A2:B5).</seg>
       </tuv>
     </tu>
     <tu>
@@ -36440,8 +36440,8 @@
       <tuv lang="EN">
         <seg>LBound&lt;/f0&gt; and &lt;f1&gt;UBound&lt;/f1&gt; are used to determine the array bounds that are used.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T154315Z" creationid="luciano" creationdate="20160615T154315Z">
-        <seg>LBound&lt;/f0&gt; e &lt;f1&gt;UBound&lt;/f1&gt; sono utilizzati per determinare i confini degli array che vengono usati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T090011Z" creationid="luciano" creationdate="20160615T154315Z">
+        <seg>LBound&lt;/f0&gt; e &lt;f1&gt;UBound&lt;/f1&gt; sono utilizzati per determinare i confini dell'array.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54962,8 +54962,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The macro does not verify that each value is numeric.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T154726Z" creationid="luciano" creationdate="20160615T154726Z">
-        <seg>La macro non verifica che ogni valore sia un valore numerico.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T091023Z" creationid="luciano" creationdate="20160615T154726Z">
+        <seg>aaaaLa macro non verifica che ogni valore sia un valore numerico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55018,8 +55018,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The macro in &lt;t0&gt;Listing 5&lt;/t0&gt; is careful and checks to see if the argument is an array or a single argument.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T154654Z" creationid="luciano" creationdate="20160615T154654Z">
-        <seg>La macro nel &lt;t0&gt;Listato 5&lt;/t0&gt; è precisa e controlla per vedere se l'argomento è una array o un singolo argomento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T091021Z" creationid="luciano" creationdate="20160615T154654Z">
+        <seg>La macro nel &lt;t0&gt;Listato 5&lt;/t0&gt; è accurata e controlla se l'argomento è un array o un singolo argomento.</seg>
       </tuv>
     </tu>
     <tu>
