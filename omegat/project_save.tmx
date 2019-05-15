@@ -12720,8 +12720,8 @@
       <tuv lang="EN">
         <seg>Although Calc finds and calls macros as normal functions, they do not really behave as built-in functions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T160443Z" creationid="luciano" creationdate="20160615T160443Z">
-        <seg>Sebbene Calc trovi e chiami le macro come funzioni normali, in realtà queste non si comportano come funzioni integrate.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T122031Z" creationid="luciano" creationdate="20160615T160443Z">
+        <seg>Sebbene Calc trovi e richiami le macro come funzioni normali, in realtà queste non si comportano come funzioni integrate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27680,8 +27680,8 @@
       <tuv lang="EN">
         <seg>For example, macros do not appear in the function lists.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T160514Z" creationid="luciano" creationdate="20160615T160514Z">
-        <seg>Per esempio, le macro non compaiono nella lista di funzioni.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T122034Z" creationid="luciano" creationdate="20160615T160514Z">
+        <seg>aaaaPer esempio, le macro non compaiono nella lista di funzioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32664,8 +32664,8 @@
       <tuv lang="EN">
         <seg>If you must know which cells are referenced rather than the values in the cells, pass the range as a string, parse the string, and obtain the values in the referenced cells.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190515T102052Z" creationid="luciano" creationdate="20160615T160248Z">
-        <seg>aaaaSe dovete sapere a quali le celle si fa riferimento, piuttosto che ai valori nelle celle, passate l'intervallo campo come una stringa, analizzate la stringa, e ottenete i valori nelle celle di riferimento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T121746Z" creationid="luciano" creationdate="20160615T160248Z">
+        <seg>Se dovete sapere a quali le celle si fa riferimento, piuttosto che conoscere i valori nelle celle, passate l'intervallo come una stringa, analizzate la stringa, e ottenete i valori nelle celle di riferimento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65946,8 +65946,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Writing macros that act like built-in functions</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160615T160350Z" creationid="luciano" creationdate="20160615T160350Z">
-        <seg>Scrivere macro che si comportano come funzioni integrate</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190515T121920Z" creationid="luciano" creationdate="20160615T160350Z">
+        <seg>Scrittura di macro che si comportano come funzioni integrate</seg>
       </tuv>
     </tu>
     <tu>
