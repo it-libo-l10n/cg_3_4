@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>'ThisComponent.getCurrentController.select(oCellRange)</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190516T132533Z" creationid="luke" creationdate="20190516T132533Z">
+        <seg>'ThisComponent.getCurrentController.select(oCellRange)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>((1+3) * 2)+3 = 11</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20181003T133134Z" creationid="luke" creationdate="20181003T133134Z">
@@ -3160,8 +3168,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oCellRange&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;' Data range to sort.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190516T120852Z" creationid="luke" creationdate="20190516T102720Z">
-        <seg>aaaa&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oCellRange&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;' Data range to sort.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190516T131857Z" creationid="luke" creationdate="20190516T102720Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oCellRange&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;' Intervallo di dati da ordinare.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3346,6 +3354,22 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20190516T093148Z" creationid="luke" creationdate="20190516T093148Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oSheets&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;,&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;oSheet&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;,&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;oCells&lt;/f14&gt;&lt;/f13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oSortDesc&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;0&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;)&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;As&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;New&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;&lt;f19&gt;com&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;.&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;sun&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;.&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;star&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;.&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;beans&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;.&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;PropertyValue&lt;/f35&gt;&lt;/f34&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190516T132215Z" creationid="luke" creationdate="20190516T132215Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oSortDesc&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;0&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;)&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;As&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;New&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;&lt;f19&gt;com&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;.&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;sun&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;.&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;star&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;.&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;beans&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;.&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;PropertyValue&lt;/f35&gt;&lt;/f34&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oSortFields&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;1&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;)&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;As&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;New&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;&lt;f19&gt;com&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;.&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;sun&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;.&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;star&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;.&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;util&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;.&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;SortField&lt;/f35&gt;&lt;/f34&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190516T132100Z" creationid="luke" creationdate="20190516T132100Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oSortFields&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;1&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;)&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;As&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;New&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;&lt;f19&gt;com&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;.&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;sun&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;.&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;star&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;.&lt;/f29&gt;&lt;/f28&gt;&lt;f30&gt;&lt;f31&gt;util&lt;/f31&gt;&lt;/f30&gt;&lt;f32&gt;&lt;f33&gt;.&lt;/f33&gt;&lt;/f32&gt;&lt;f34&gt;&lt;f35&gt;SortField&lt;/f35&gt;&lt;/f34&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4158,6 +4182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oCellRange&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oSheet&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;getCellRangeByName&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;"A1:C5"&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;)&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190516T132409Z" creationid="luke" creationdate="20190516T132409Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oCellRange&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oSheet&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;getCellRangeByName&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;"A1:C5"&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;)&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;oCells&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oSheet&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;getCellRangeByName&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;"A2:C5"&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;)&lt;/f17&gt;&lt;/f16&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20190516T093213Z" creationid="luke" creationdate="20190516T093213Z">
@@ -4378,6 +4410,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20190516T094552Z" creationid="luke" creationdate="20190516T094552Z">
         <seg>&lt;f0&gt;&lt;f1&gt;oRows&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;()&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;=&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;oCells&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;getData&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;()&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oSheet&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;ThisComponent&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;Sheets&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;.&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;getByName&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;(&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;"Sheet1"&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;)&lt;/f21&gt;&lt;/f20&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190516T132316Z" creationid="luke" creationdate="20190516T132316Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oSheet&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;ThisComponent&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;Sheets&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;.&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;getByName&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;(&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;"Sheet1"&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;)&lt;/f21&gt;&lt;/f20&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -42791,6 +42831,14 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>REM Dim oSortFields(0) As New com.sun.star.util.SortField</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190516T132055Z" creationid="luke" creationdate="20190516T132055Z">
+        <seg>REM Dim oSortFields(0) As New com.sun.star.util.SortField</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>REM Get a range using the created named range.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142452Z" creationid="steevie" creationdate="20160504T142452Z">
@@ -42809,8 +42857,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>REM Get the sheet named "Sheet1"</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T095804Z" creationid="luciano" creationdate="20160616T095804Z">
-        <seg>REM Prende il nome del foglio "Foglio1"</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190516T132311Z" creationid="luciano" creationdate="20160616T095804Z">
+        <seg>REM Prende il foglio con nome "Foglio1"</seg>
       </tuv>
     </tu>
     <tu>
@@ -42897,8 +42945,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>REM Select the range to sort.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T095907Z" creationid="luciano" creationdate="20160616T095907Z">
-        <seg>REM Seleziona l'intervallo di celle da ordinare.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190516T132435Z" creationid="luciano" creationdate="20160616T095907Z">
+        <seg>REM Seleziona l'intervallo da ordinare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42969,8 +43017,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>REM The columns are numbered starting with 0, so</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T100114Z" creationid="luciano" creationdate="20160616T100114Z">
-        <seg>REM Le colonne sono numerate iniziando da 0, così</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190516T132535Z" creationid="luciano" creationdate="20160616T100114Z">
+        <seg>aaaaREM Le colonne sono numerate iniziando da 0, così</seg>
       </tuv>
     </tu>
     <tu>
