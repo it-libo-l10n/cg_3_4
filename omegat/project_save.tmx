@@ -4190,6 +4190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oCellRange&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Sort&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oSortDesc&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;())&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190516T140019Z" creationid="luke" creationdate="20190516T140019Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oCellRange&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Sort&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oSortDesc&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;())&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;oCells&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oSheet&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;getCellRangeByName&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;"A2:C5"&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;)&lt;/f17&gt;&lt;/f16&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20190516T093213Z" creationid="luke" creationdate="20190516T093213Z">
@@ -4458,6 +4466,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20190515T145730Z" creationid="luke" creationdate="20190515T145730Z">
         <seg>&lt;f0&gt;&lt;f1&gt;oSheets&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;ThisComponent&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;getSheets&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;()&lt;/f13&gt;&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oSortDesc&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;0&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;).&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;Value&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;=&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;oSortFields&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;()&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190516T135946Z" creationid="luke" creationdate="20190516T135946Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oSortDesc&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;0&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;).&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;Value&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;&lt;f12&gt;=&lt;/f12&gt;&lt;/f11&gt;&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;oSortFields&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;()&lt;/f17&gt;&lt;/f16&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -43009,8 +43025,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>REM Setup the sort descriptor.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190516T134443Z" creationid="luciano" creationdate="20160616T100436Z">
-        <seg>aaaaREM Setup del descrittore dell'ordinamento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190516T135936Z" creationid="luciano" creationdate="20160616T100436Z">
+        <seg>REM Impostazione del descrittore dell'ordinamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43025,8 +43041,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>REM Sort the range.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T100457Z" creationid="luciano" creationdate="20160616T100457Z">
-        <seg>REM Ordinare l'intervallo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190516T140015Z" creationid="luciano" creationdate="20160616T100457Z">
+        <seg>REM Ordinamento dell'intervallo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58394,8 +58410,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>This chapter provides a brief overview on how to create libraries and modules, using the macro recorder, using macros as Calc functions, and writing your own macros without the macro recorder.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T100641Z" creationid="luciano" creationdate="20160616T100641Z">
-        <seg>Questo capitolo fornisce una breve panoramica su come creare librerie e moduli, utilizzando il registratore di macro, utilizzando le macro come funzioni di Calc, e scrivere le proprie macro senza il registratore di macro.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190516T140039Z" creationid="luciano" creationdate="20160616T100641Z">
+        <seg>aaaaQuesto capitolo fornisce una breve panoramica su come creare librerie e moduli, utilizzando il registratore di macro, utilizzando le macro come funzioni di Calc, e scrivere le proprie macro senza il registratore di macro.</seg>
       </tuv>
     </tu>
     <tu>
