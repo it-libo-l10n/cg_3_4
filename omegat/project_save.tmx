@@ -3158,6 +3158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oCellRange&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;' Data range to sort.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190516T102720Z" creationid="luke" creationdate="20190516T102720Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oCellRange&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;' Data range to sort.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oCritRange&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;'Range that contains the filter criteria.&lt;/f7&gt;&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125428Z" creationid="steevie" creationdate="20160517T125428Z">
@@ -3282,6 +3290,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T151910Z" creationid="steevie" creationdate="20160509T151910Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oSheet&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;'Primo foglio che contiene l'area.&lt;/f7&gt;&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oSheet&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;' Calc sheet containing data to sort.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190516T102719Z" creationid="luke" creationdate="20190516T102719Z">
+        <seg>aaaa&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oSheet&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;' Calc sheet containing data to sort.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3746,6 +3762,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160511T140704Z" creationid="steevie" creationdate="20160511T140704Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;SempliceFiltroFoglio_2&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;SortRange&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190516T102635Z" creationid="luke" creationdate="20190516T102635Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;SortRange&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25888,8 +25912,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;313&lt;/seq0&gt;: Sort column B descending and column A ascending</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T094728Z" creationid="luciano" creationdate="20160616T094728Z">
-        <seg>Figura &lt;seq0&gt;313&lt;/seq0&gt;: Ordinamento della colonna B verso il basso e della colonna A verso l'alto</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190516T102157Z" creationid="luciano" creationdate="20160616T094728Z">
+        <seg>Figura &lt;seq0&gt;313&lt;/seq0&gt;: ordinamento decrescente della colonna B e crescente della colonna A</seg>
       </tuv>
     </tu>
     <tu>
@@ -27088,8 +27112,8 @@
       <tuv lang="EN">
         <seg>First, sort on column B descending and then column A ascending.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190516T095352Z" creationid="luciano" creationdate="20160616T094633Z">
-        <seg>aaaaIn primo luogo, l'ordinamento nella colonna B è dall'alto verso il basso e nella colonna A è dal basso verso l'alto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190516T101952Z" creationid="luciano" creationdate="20160616T094633Z">
+        <seg>In primo luogo la colonna B viene ordinata in modo decrescente, quindi la colonna A viene ordinata in modo crescente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50361,8 +50385,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Sort cells A1:C5 on Sheet 1.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T094941Z" creationid="luciano" creationdate="20160616T094941Z">
-        <seg>Ordinare le celle A1:C5 nel Foglio 1.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190516T102630Z" creationid="luciano" creationdate="20160616T094941Z">
+        <seg>Ordinamento delle celle A1:C5 nel Foglio 1.</seg>
       </tuv>
     </tu>
     <tu>
