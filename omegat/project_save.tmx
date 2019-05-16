@@ -3102,6 +3102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;iRow&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;As&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Integer,&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;iCol&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;As&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;&lt;f19&gt;Integer,&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt; &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;i&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt; &lt;/f23&gt;&lt;f24&gt;&lt;f25&gt;As&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt; &lt;/f26&gt;&lt;f27&gt;&lt;f28&gt;Integer&lt;/f28&gt;&lt;/f27&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190516T093146Z" creationid="luke" creationdate="20190516T093146Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;iRow&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;As&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;Integer,&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;iCol&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;As&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt; &lt;/f17&gt;&lt;f18&gt;&lt;f19&gt;Integer,&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt; &lt;/f20&gt;&lt;f21&gt;&lt;f22&gt;i&lt;/f22&gt;&lt;/f21&gt;&lt;f23&gt; &lt;/f23&gt;&lt;f24&gt;&lt;f25&gt;As&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt; &lt;/f26&gt;&lt;f27&gt;&lt;f28&gt;Integer&lt;/f28&gt;&lt;/f27&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oAddr&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;'Cell address range for the database range.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160509T151848Z" creationid="steevie" creationdate="20160509T151848Z">
@@ -3254,6 +3262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oRow&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(),&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;oRows&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;()&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190516T093152Z" creationid="luke" creationdate="20190516T093152Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oRow&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;(),&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;oRows&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;()&lt;/f11&gt;&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oSheet&lt;/f4&gt;&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20190515T145727Z" creationid="luke" creationdate="20190515T145727Z">
@@ -3306,6 +3322,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20190515T145725Z" creationid="luke" creationdate="20190515T145725Z">
         <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oSheets&lt;/f4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oSheets&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;,&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;oSheet&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;,&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;oCells&lt;/f14&gt;&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190516T093148Z" creationid="luke" creationdate="20190516T093148Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oSheets&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;,&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;oSheet&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;,&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;&lt;f14&gt;oCells&lt;/f14&gt;&lt;/f13&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4082,6 +4106,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160504T141314Z" creationid="steevie" creationdate="20160504T141314Z">
         <seg>&lt;f0&gt;&lt;f1&gt;oCellAddress&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Sheet&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;=&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;0&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;s13/&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;'Il primo foglio.&lt;/f15&gt;&lt;/f14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;oCells&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oSheet&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;getCellRangeByName&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;"A2:C5"&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;)&lt;/f17&gt;&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190516T093213Z" creationid="luke" creationdate="20190516T093213Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oCells&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;oSheet&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;getCellRangeByName&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;(&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;"A2:C5"&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;)&lt;/f17&gt;&lt;/f16&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30808,8 +30840,8 @@
       <tuv lang="EN">
         <seg>If a cell range is given, then an entire range of cells is returned (see &lt;t1&gt;Listing 8&lt;/t1&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190516T090413Z" creationid="luciano" creationdate="20160616T093517Z">
-        <seg>aaaaSe viene dato un intervallo di celle, un intero intervallo di celle viene quindi restituito (vedere &lt;t1&gt; Listato 8 &lt;/t1&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190516T092218Z" creationid="luciano" creationdate="20160616T093517Z">
+        <seg>Se viene dato un intervallo di celle, viene restituito un intero intervallo di celle (vedete il &lt;t1&gt;Listato 8&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -39297,8 +39329,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Notice that a cell range returns data as an array of arrays, which is more cumbersome than treating it as an array with two dimensions as is done in &lt;t2&gt;Listing 5&lt;/t2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T093844Z" creationid="luciano" creationdate="20160616T093844Z">
-        <seg>Da notare che un intervallo di celle restituisce i dati come array di array, che è più ingombrante di trattarlo come un array con due dimensioni, come fatto &lt;t2&gt;Listato 5&lt;/t2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190516T093039Z" creationid="luciano" creationdate="20160616T093844Z">
+        <seg>Da notare che un intervallo di celle restituisce i dati come un array di array, che è più macchinoso da trattare rispetto a un array bidimensionale, come fatto nel &lt;t2&gt;Listato 5&lt;/t2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43097,16 +43129,16 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>REM getData() returns data data as type Double, so only</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T095239Z" creationid="luciano" creationdate="20160616T095239Z">
-        <seg>REM getData() restituisce i dati dei dati come tipo Double, in modo da</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190516T093329Z" creationid="luciano" creationdate="20160616T095239Z">
+        <seg>aaaaREM getData() restituisce i dati dei dati come tipo Double, in modo da</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>REM getDataArray() returns the data as variant so strings</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T095106Z" creationid="luciano" creationdate="20160616T095014Z">
-        <seg>REM getDataArray() restituisce i dati come variante così le stringhe</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190516T093307Z" creationid="luciano" creationdate="20160616T095014Z">
+        <seg>REM getDataArray() restituisce i dati come varianti così le stringhe</seg>
       </tuv>
     </tu>
     <tu>
