@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_11_r10546" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -28368,8 +28368,8 @@
       <tuv lang="EN">
         <seg>For many people, Calc implements sufficient database functionality that no other database program or functionality is required.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190517T135046Z" creationid="steevie" creationdate="20160503T151211Z">
-        <seg>aaaaPer molte persone, Calc implementa abbastanza funzionalità come database da non richiedere l'uso di altri strumenti di gestione di database.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190518T225647Z" creationid="steevie" creationdate="20160503T151211Z">
+        <seg>aaaaPer molte persone Calc implementa un elevato numero di funzionalità come database, tale da non richiedere l'uso di altri strumenti di gestione di database.</seg>
       </tuv>
     </tu>
     <tu>
