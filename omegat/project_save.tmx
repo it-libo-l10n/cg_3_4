@@ -21480,8 +21480,8 @@
       <tuv lang="EN">
         <seg>Define a named range</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T135640Z" creationid="steevie" creationdate="20160504T135640Z">
-        <seg>Definire un intervallo con nome</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T120704Z" creationid="steevie" creationdate="20160504T135640Z">
+        <seg>definizione di un'area con nome</seg>
       </tuv>
     </tu>
     <tu>
@@ -26016,8 +26016,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;314&lt;/seq0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T135625Z" creationid="steevie" creationdate="20160504T135625Z">
-        <seg>Figura &lt;seq0&gt;314&lt;/seq0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T120621Z" creationid="steevie" creationdate="20160504T135625Z">
+        <seg>Figura &lt;seq0&gt;314&lt;/seq0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27752,8 +27752,8 @@
       <tuv lang="EN">
         <seg>For example, create a range named &lt;f2&gt;Scores&lt;/f2&gt;, and then use the following equation: &lt;f3&gt;=SUM(Scores)&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T135200Z" creationid="steevie" creationdate="20160504T134247Z">
-        <seg>Ad esempio, create un intervallo chiamato &lt;f2&gt;Punteggi&lt;/f2&gt; e poi usate questa equazione: &lt;f3&gt;=SOMMA(Punteggi)&lt;/f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T120015Z" creationid="steevie" creationdate="20160504T134247Z">
+        <seg>Ad esempio, potete creare un intervallo chiamato &lt;f2&gt;Punteggi&lt;/f2&gt; e poi usare la seguente equazione: &lt;f3&gt;=SOMMA(Punteggi)&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33728,8 +33728,8 @@
       <tuv lang="EN">
         <seg>In a macro, a named range is accessed, created, and deleted using the NamedRanges property of a Calc document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T135844Z" creationid="steevie" creationdate="20160504T135844Z">
-        <seg>In una macro, si può accedere, creare o cancellare un intervallo con nome usando la proprietà NamedRanges di un documento Calc.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T120705Z" creationid="steevie" creationdate="20160504T135844Z">
+        <seg>aaaaIn una macro, si può accedere, creare o cancellare un intervallo con nome usando la proprietà NamedRanges di un documento Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55490,8 +55490,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The most common usage of a &lt;is0/&gt;named&lt;ie1/&gt; range is, as its name implies, to associate a range of cells with a meaningful name.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190520T110952Z" creationid="steevie" creationdate="20160504T134047Z">
-        <seg>aaaaL'uso più comune di un intervallo &lt;is0/&gt;con nome&lt;ie1/&gt;, come suggerisce il nome, è quello di associare un nome significativo a un intervallo di celle.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T115734Z" creationid="steevie" creationdate="20160504T134047Z">
+        <seg>L'uso più comune di un'area &lt;is0/&gt;con nome&lt;ie1/&gt; è quello di associare un nome significativo a un intervallo di celle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60082,8 +60082,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>To create a named range, select the range to define.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T135438Z" creationid="steevie" creationdate="20160504T135438Z">
-        <seg>Per creare un intervallo con nome, selezionate l'intervallo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T120114Z" creationid="steevie" creationdate="20160504T135438Z">
+        <seg>Per creare un intervallo associato a un nome, selezionate l'area da definire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62914,8 +62914,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Use &lt;f4&gt;Insert &gt; Names &gt; Define&lt;/f4&gt; to open the Define Names dialog.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T135523Z" creationid="steevie" creationdate="20160504T135523Z">
-        <seg>Usate &lt;f4&gt;Inserisci &gt; Nomi &gt; Definisci&lt;/f4&gt; per aprire la finestra di dialogo Definisci nome.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T120436Z" creationid="steevie" creationdate="20160504T135523Z">
+        <seg>Usate la voce &lt;f4&gt;Inserisci &gt; Nomi &gt; Definisci&lt;/f4&gt; per aprire la finestra di dialogo Definisci nome.</seg>
       </tuv>
     </tu>
     <tu>
