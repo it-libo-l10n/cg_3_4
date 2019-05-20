@@ -33728,8 +33728,8 @@
       <tuv lang="EN">
         <seg>In a macro, a named range is accessed, created, and deleted using the NamedRanges property of a Calc document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190520T120705Z" creationid="steevie" creationdate="20160504T135844Z">
-        <seg>aaaaIn una macro, si può accedere, creare o cancellare un intervallo con nome usando la proprietà NamedRanges di un documento Calc.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T123539Z" creationid="steevie" creationdate="20160504T135844Z">
+        <seg>In una macro, è possibile accedere a, creare o eliminare un'area con nome usando la proprietà NamedRanges di un documento di Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52834,8 +52834,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The NamedRanges object supports the method addNewByname, which accepts four arguments; the name, content, position, and type.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T140227Z" creationid="steevie" creationdate="20160504T140227Z">
-        <seg>L'oggetto NamedRanges supporta il metodo addNewByname, che accetta quattro argomenti: nome, contenuto, posizione e tipo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T124303Z" creationid="steevie" creationdate="20160504T140227Z">
+        <seg>aaaaL'oggetto NamedRanges supporta il metodo addNewByname, che accetta quattro argomenti: nome, contenuto, posizione e tipo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55434,8 +55434,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The method getElementNames() returns an array containing the names of all named ranges.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T140118Z" creationid="steevie" creationdate="20160504T140118Z">
-        <seg>Il metodo getElementNames() produce una matrice contenente i nome di tutti gli intervalli con nome.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T124301Z" creationid="steevie" creationdate="20160504T140118Z">
+        <seg>Il metodo getElementNames() restituisce una matrice contenente i nomi di tutti gli intervalli con nome.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63330,8 +63330,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Use the methods hasByName(name) and getByName(name) to verify and retrieve a named range.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T140016Z" creationid="steevie" creationdate="20160504T140016Z">
-        <seg>Usate i metodi hasByName(name) e getByName(name) per verificare e recuperare un intervallo con nome.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T124124Z" creationid="steevie" creationdate="20160504T140016Z">
+        <seg>Usate i metodi hasByName(name) e getByName(name) per verificare e reperire un'area con nome.</seg>
       </tuv>
     </tu>
     <tu>
