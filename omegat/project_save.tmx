@@ -6768,8 +6768,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;IsArray&lt;/f0&gt; checks to see if the argument is a single value, or an array.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190515T082407Z" creationid="luciano" creationdate="20160615T153218Z">
-        <seg>&lt;f0&gt;IsArray&lt;/f0&gt; controlla se l'argomento è un valore singolo oppure un array.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T124834Z" creationid="luciano" creationdate="20160615T153218Z">
+        <seg>&lt;f0&gt;IsArray&lt;/f0&gt; controlla se l'argomento è un valore singolo oppure una matrice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31096,8 +31096,8 @@
       <tuv lang="EN">
         <seg>If a range is passed to the function, it is passed as a two-dimensional array of values; for example, &lt;f0&gt;=PositiveSum(A2:B5).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190515T085516Z" creationid="luciano" creationdate="20160615T154224Z">
-        <seg>Se un intervallo viene passato alla funzione, viene passato come un array bidimensionale di valori; ad esempio, &lt;f0&gt;=PositiveSum(A2:B5).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T124901Z" creationid="luciano" creationdate="20160615T154224Z">
+        <seg>Se un intervallo viene passato alla funzione, viene passato come una matrice bidimensionale di valori; ad esempio, &lt;f0&gt;=PositiveSum(A2:B5).</seg>
       </tuv>
     </tu>
     <tu>
@@ -36752,8 +36752,8 @@
       <tuv lang="EN">
         <seg>LBound&lt;/f0&gt; and &lt;f1&gt;UBound&lt;/f1&gt; are used to determine the array bounds that are used.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190515T090011Z" creationid="luciano" creationdate="20160615T154315Z">
-        <seg>LBound&lt;/f0&gt; e &lt;f1&gt;UBound&lt;/f1&gt; sono utilizzati per determinare i confini dell'array.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T124914Z" creationid="luciano" creationdate="20160615T154315Z">
+        <seg>LBound&lt;/f0&gt; e &lt;f1&gt;UBound&lt;/f1&gt; sono utilizzati per determinare i confini della matrice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39489,8 +39489,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Notice that a cell range returns data as an array of arrays, which is more cumbersome than treating it as an array with two dimensions as is done in &lt;t2&gt;Listing 5&lt;/t2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190516T093039Z" creationid="luciano" creationdate="20160616T093844Z">
-        <seg>Da notare che un intervallo di celle restituisce i dati come un array di array, che è più macchinoso da trattare rispetto a un array bidimensionale, come fatto nel &lt;t2&gt;Listato 5&lt;/t2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T125139Z" creationid="luciano" creationdate="20160616T093844Z">
+        <seg>Da notare che un intervallo di celle restituisce i dati come una matrice di matrici, che è più macchinosa da trattare rispetto a una matrice bidimensionale, come fatto nel &lt;t2&gt;Listato 5&lt;/t2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42833,8 +42833,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>REM An array of sort fields determines the columns that are</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T095437Z" creationid="luciano" creationdate="20160616T095419Z">
-        <seg>REM Un array di campi ordinati determina le colonne che vengono</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T125454Z" creationid="luciano" creationdate="20160616T095419Z">
+        <seg>REM Una matrice di campi ordinati determina le colonne che vengono</seg>
       </tuv>
     </tu>
     <tu>
@@ -43153,8 +43153,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>REM The sort descriptor is an array of properties.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T095634Z" creationid="luciano" creationdate="20160616T095634Z">
-        <seg>REM Il descrittore dell'ordinamento è un array delle proprietà.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T125534Z" creationid="luciano" creationdate="20160616T095634Z">
+        <seg>REM Il descrittore dell'ordinamento è una matrice delle proprietà.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55330,8 +55330,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The macro in &lt;t0&gt;Listing 5&lt;/t0&gt; is careful and checks to see if the argument is an array or a single argument.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190515T091021Z" creationid="luciano" creationdate="20160615T154654Z">
-        <seg>La macro nel &lt;t0&gt;Listato 5&lt;/t0&gt; è accurata e controlla se l'argomento è un array o un singolo argomento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T124935Z" creationid="luciano" creationdate="20160615T154654Z">
+        <seg>La macro nel &lt;t0&gt;Listato 5&lt;/t0&gt; è accurata e controlla se l'argomento è una matrice o un singolo argomento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58714,8 +58714,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>This is an array with two elements, 0 and 1.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160616T095511Z" creationid="luciano" creationdate="20160616T095511Z">
-        <seg>Questo è un array con due elementi, 0 e 1.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T125507Z" creationid="luciano" creationdate="20160616T095511Z">
+        <seg>Questa è una matrice con due elementi, 0 e 1.</seg>
       </tuv>
     </tu>
     <tu>
