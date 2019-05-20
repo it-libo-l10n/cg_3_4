@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_11_r10546" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13056,8 +13056,8 @@
       <tuv lang="EN">
         <seg>Although the choice to associate a row with a record rather than a column is arbitrary, it is almost universal.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190519T000230Z" creationid="steevie" creationdate="20160503T152137Z">
-        <seg>aaaaaaaaaaaaaaaaLa scelta di associare un record a ogni riga è arbitraria, ma universalmente riconosciuta. </seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T090911Z" creationid="steevie" creationdate="20160503T152137Z">
+        <seg>La scelta di associare a un record una riga invece di una colonna è arbitraria, ma universalmente riconosciuta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34192,8 +34192,8 @@
       <tuv lang="EN">
         <seg>In other words, you are not likely to hear someone refer to a column of data as a single database record.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160503T152223Z" creationid="steevie" creationdate="20160503T152223Z">
-        <seg>In altre parole, difficilmente sentirete qualcuno riferirsi a una colonna di dati come ad un singolo record.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T090914Z" creationid="steevie" creationdate="20160503T152223Z">
+        <seg>aaaaIn altre parole, difficilmente sentirete qualcuno riferirsi a una colonna di dati come ad un singolo record.</seg>
       </tuv>
     </tu>
     <tu>
