@@ -11344,8 +11344,8 @@
       <tuv lang="EN">
         <seg>A name is usually associated with a range for one of three reasons:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T131719Z" creationid="steevie" creationdate="20160504T131632Z">
-        <seg>Vi sono tre buone ragioni per associare un nome a un intervallo:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T105155Z" creationid="steevie" creationdate="20160504T131632Z">
+        <seg>Vi sono tre buone ragioni per associare un nome a un'area:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14168,8 +14168,8 @@
       <tuv lang="EN">
         <seg>Associating a range with a name</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20171107T173700Z">
-        <seg>Associare un nome a un intervallo di celle</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T105236Z">
+        <seg>Associare un nome a un'area (intervallo) di celle</seg>
       </tuv>
     </tu>
     <tu>
@@ -31104,8 +31104,8 @@
       <tuv lang="EN">
         <seg>If a range is referenced by name in multiple locations, you can point the name to another location and all references point to the new location.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T132855Z" creationid="steevie" creationdate="20160504T132855Z">
-        <seg>Se un intervallo è richiamato per nome in posizioni multiple, modificando l'intervallo tutte le referenze sono automaticamente aggiornate.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T110216Z" creationid="steevie" creationdate="20160504T132855Z">
+        <seg>Se un intervallo è richiamato per nome in più posizioni, facendo puntare il nome a un'altra posizione tutti i riferimenti verranno automaticamente aggiornati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33696,8 +33696,8 @@
       <tuv lang="EN">
         <seg>In a Calc document, a range refers to a contiguous group of cells containing at least one cell.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190520T092916Z" creationid="steevie" creationdate="20160503T152335Z">
-        <seg>aaaaIn un documento Calc, un intervallo si riferisce a un gruppo di celle contigue contenente almeno una cella.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T105310Z" creationid="steevie" creationdate="20160503T152335Z">
+        <seg>In un documento di Calc, un'area si riferisce a un gruppo di celle contigue contenente almeno una cella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39001,8 +39001,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Named range</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T133930Z" creationid="steevie" creationdate="20160504T133930Z">
-        <seg>Intervallo con nome</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T110950Z" creationid="steevie" creationdate="20160504T133930Z">
+        <seg>Area associata a un nome</seg>
       </tuv>
     </tu>
     <tu>
@@ -43569,8 +43569,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Ranges associated to a name are shown in the Navigator, which is available by pressing the &lt;f0&gt;F5&lt;/f0&gt; key or clicking on the &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; icon.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T133238Z" creationid="steevie" creationdate="20160504T133238Z">
-        <seg>Gli intervalli associati ad un nome sono mostrati nel Navigatore, disponibile premendo il tasto &lt;f0&gt;F5&lt;/f0&gt; o facendo clic sull'icona.&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T110458Z" creationid="steevie" creationdate="20160504T133238Z">
+        <seg>Le aree associate a un nome sono mostrate nel Navigatore, disponibile premendo il tasto &lt;f0&gt;F5&lt;/f0&gt; oppure facendo clic sull'icona &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; .</seg>
       </tuv>
     </tu>
     <tu>
@@ -52842,8 +52842,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The Navigator allows for quick navigation to the associated ranges.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T133815Z" creationid="steevie" creationdate="20160504T133815Z">
-        <seg>Il Navigatore permette di accedere velocemente agli intervalli associati</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T110757Z" creationid="steevie" creationdate="20160504T133815Z">
+        <seg>Il Navigatore permette di accedere velocemente alle aree associate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55490,8 +55490,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The most common usage of a &lt;is0/&gt;named&lt;ie1/&gt; range is, as its name implies, to associate a range of cells with a meaningful name.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T134047Z" creationid="steevie" creationdate="20160504T134047Z">
-        <seg>L'uso più comune di un intervallo &lt;is0/&gt;con nome&lt;ie1/&gt;, come suggerisce il nome, è quello di associare un nome significativo a un intervallo di celle.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T110952Z" creationid="steevie" creationdate="20160504T134047Z">
+        <seg>aaaaL'uso più comune di un intervallo &lt;is0/&gt;con nome&lt;ie1/&gt;, come suggerisce il nome, è quello di associare un nome significativo a un intervallo di celle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66874,8 +66874,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>You can associate a meaningful name to a range, which allows you to refer to the range using the meaningful name.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161201T150300Z" creationid="steevie" creationdate="20160503T152447Z">
-        <seg>Potete associare un nome significativo a un intervallo, permettendo così di usare il nome per riferirsi all'intervallo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T105350Z" creationid="steevie" creationdate="20160503T152447Z">
+        <seg>Potete associare un nome significativo a un'area, permettendo così di usare il nome per fare riferimento all'area.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67146,8 +67146,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>You can create either a &lt;f0&gt;database range&lt;/f0&gt;, which has some database-like functionality, or a &lt;f1&gt;named range&lt;/f1&gt;, which does not.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161201T151719Z" creationid="steevie" creationdate="20160503T152656Z">
-        <seg>É possibile creare un &lt;f0&gt;area database &lt;/f0&gt;, che possiede alcune funzionalità come database, oppure un &lt;f1&gt;Intervallo con nome&lt;/f1&gt;, che non le ha.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T104711Z" creationid="steevie" creationdate="20160503T152656Z">
+        <seg>È possibile creare un'&lt;f0&gt;area database&lt;/f0&gt;, che possiede alcune funzionalità simili a quelle di un database, oppure un'&lt;f1&gt;area con nome&lt;/f1&gt;, che non possiede tali funzionalità.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70722,8 +70722,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>named range</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T133924Z" creationid="steevie" creationdate="20160504T133924Z">
-        <seg>intervallo con nome</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T110939Z" creationid="steevie" creationdate="20160504T133924Z">
+        <seg>area associata a un nome</seg>
       </tuv>
     </tu>
     <tu>
