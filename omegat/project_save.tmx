@@ -3248,8 +3248,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oRange&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;' The created range.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T141045Z" creationid="steevie" creationdate="20160504T141045Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oRange&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;' L'intervallo creato..&lt;/f8&gt;&lt;/f7&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T135548Z" creationid="steevie" creationdate="20160504T141045Z">
+        <seg>aaaa&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oRange&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;' L'intervallo creato..&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20392,8 +20392,8 @@
       <tuv lang="EN">
         <seg>Create a named range that references $Sheet1.$B$3:$D$6.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T140907Z" creationid="steevie" creationdate="20160504T140907Z">
-        <seg>Crea un intervallo con nome che referenzia $Foglio1.$B$3:$D$6.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T135534Z" creationid="steevie" creationdate="20160504T140907Z">
+        <seg>Crea un'area con nome che fa riferimento a $Foglio1.$B$3:$D$6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55282,8 +55282,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The macro in &lt;t0&gt;Listing 10&lt;/t0&gt; creates a named range, if it does not exist, that references a range of cells.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190520T131903Z" creationid="steevie" creationdate="20160504T140425Z">
-        <seg>aaaaLa macro mostrata in &lt;t0&gt;Listato 10&lt;/t0&gt; crea un intervallo con nome, se non esiste già, che si riferisce a un intervallo di celle.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190520T135430Z" creationid="steevie" creationdate="20160504T140425Z">
+        <seg>La macro mostrata nel &lt;t0&gt;Listato 10&lt;/t0&gt; crea, se non esiste già, un'area associata a un nome, che si riferisce a un intervallo di celle.</seg>
       </tuv>
     </tu>
     <tu>
