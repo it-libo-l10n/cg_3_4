@@ -17208,8 +17208,8 @@
       <tuv lang="EN">
         <seg>Changing the reference cell to C4, which is below A3 and B3, causes the AddLeft equation to calculate the sum of the two cells that are to the left on the previous row.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T144158Z" creationid="steevie" creationdate="20160504T144158Z">
-        <seg>Con la modifica della cella di riferimento in C4, che è sotto A3 e B3, l'equazione AggiungiSx calcola la somma di due celle a sinista, ma sulla riga precedente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190521T123802Z" creationid="steevie" creationdate="20160504T144158Z">
+        <seg>aaaaCon la modifica della cella di riferimento in C4, che è sotto A3 e B3, l'equazione AggiungiSx calcola la somma di due celle a sinista, ma sulla riga precedente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53482,8 +53482,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The cells A3 and B3 are the two cells directly to the left of C3, so, the equation &lt;f4&gt;=AddLeft()&lt;/f4&gt; calculates the sum of the two cells directly to the left of the cell that contains the equation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T143916Z" creationid="steevie" creationdate="20160504T143916Z">
-        <seg>Le celle A3 e B3 sono le due immediatamente a sinistra di C3, così l'equazione &lt;f4&gt;=AggiungiSx()&lt;/f4&gt; calcola la somma delle due celle immediatamente a sinistra di quella che contiene l'equazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190521T123800Z" creationid="steevie" creationdate="20160504T143916Z">
+        <seg>Le celle A3 e B3 sono le due celle immediatamente a sinistra di C3, quindi l'equazione &lt;f4&gt;=AggiungiSx()&lt;/f4&gt; calcola la somma delle due celle immediatamente a sinistra di quella che contiene l'equazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55338,8 +55338,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The macro in &lt;t1&gt;Listing 11&lt;/t1&gt; creates the named range &lt;f2&gt;AddLeft&lt;/f2&gt;, which refers to the equation &lt;f3&gt;A3+B3&lt;/f3&gt; with C3 as the reference cell.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190521T114404Z" creationid="steevie" creationdate="20160504T143444Z">
-        <seg>aaaaLa macro nel &lt;t1&gt;Listato 11&lt;/t1&gt; crea l'intervallo con nome &lt;f2&gt;AggiungiSx&lt;/f2&gt;, che si riferisce all'equazione &lt;f3&gt;A3+B3&lt;/f3&gt; con C3 come cella di riferimento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190521T123226Z" creationid="steevie" creationdate="20160504T143444Z">
+        <seg>La macro mostrata nel &lt;t1&gt;Listato 11&lt;/t1&gt; crea l'area con nome &lt;f2&gt;AggiungiSx&lt;/f2&gt;, che si riferisce all'equazione &lt;f3&gt;A3+B3&lt;/f3&gt; con C3 come cella di riferimento.</seg>
       </tuv>
     </tu>
     <tu>
