@@ -31656,8 +31656,8 @@
       <tuv lang="EN">
         <seg>If the cell range is not specified as an absolute address, the referenced range will be different based on where in the spreadsheet the range is used.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T143229Z" creationid="steevie" creationdate="20160504T143229Z">
-        <seg>Se l'intervallo di celle non è indicato come indirizzo assoluto, l'intervallo referenziato differisce a seconda di dove viene usato l'intervallo nel foglio di calcolo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190521T114211Z" creationid="steevie" creationdate="20160504T143229Z">
+        <seg>Se l'area di celle non è specificata come indirizzo assoluto, l'area referenziata differirà in base a dove l'area viene usata nel foglio elettronico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55338,8 +55338,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The macro in &lt;t1&gt;Listing 11&lt;/t1&gt; creates the named range &lt;f2&gt;AddLeft&lt;/f2&gt;, which refers to the equation &lt;f3&gt;A3+B3&lt;/f3&gt; with C3 as the reference cell.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T143444Z" creationid="steevie" creationdate="20160504T143444Z">
-        <seg>La macro nel &lt;t1&gt;Listato 11&lt;/t1&gt; crea l'intervallo con nome &lt;f2&gt;AggiungiSx&lt;/f2&gt;, che si riferisce all'equazione &lt;f3&gt;A3+B3&lt;/f3&gt; con C3 come cella di riferimento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190521T114404Z" creationid="steevie" creationdate="20160504T143444Z">
+        <seg>aaaaLa macro nel &lt;t1&gt;Listato 11&lt;/t1&gt; crea l'intervallo con nome &lt;f2&gt;AggiungiSx&lt;/f2&gt;, che si riferisce all'equazione &lt;f3&gt;A3+B3&lt;/f3&gt; con C3 come cella di riferimento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56354,8 +56354,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The relative behavior is illustrated in &lt;t0&gt;Listing 11&lt;/t0&gt;, which also illustrates another usage of a named range—defining an equation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161201T150951Z" creationid="steevie" creationdate="20160504T143327Z">
-        <seg>Il comportamento relativo è illustrato nel &lt;t0&gt;Listato 11&lt;/t0&gt;, che mostra anche un altro uso di un intervallo con nome—la definizione di un'equazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190521T114402Z" creationid="steevie" creationdate="20160504T143327Z">
+        <seg>Il comportamento relativo è illustrato nel &lt;t0&gt;Listato 11&lt;/t0&gt;, che mostra anche un altro uso di un'area con nome—la definizione di un'equazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57274,8 +57274,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The third argument, a cell address, acts as the base address for cells referenced in a relative way.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190521T100221Z" creationid="steevie" creationdate="20160504T143115Z">
-        <seg>aaaaIl terzo argomento, l'indirizzo di una cella, agisce come indirizzo base per celle referenziate in maniera relativa.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190521T113858Z" creationid="steevie" creationdate="20160504T143115Z">
+        <seg>Il terzo argomento, l'indirizzo di una cella, agisce come indirizzo base per celle referenziate in modo relativo.</seg>
       </tuv>
     </tu>
     <tu>
