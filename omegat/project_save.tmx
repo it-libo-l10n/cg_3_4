@@ -4160,8 +4160,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;oCellAddress&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Column&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;=&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;1&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;s13/&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;'Column B.&lt;/f15&gt;&lt;/f14&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190520T151019Z" creationid="steevie" creationdate="20160504T141337Z">
-        <seg>aaaaaaaaaaaaaaaaaaa&lt;f0&gt;&lt;f1&gt;oCellAddress&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Column&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;=&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;1&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;s13/&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;'Colonna B.&lt;/f15&gt;&lt;/f14&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190521T073246Z" creationid="steevie" creationdate="20160504T141337Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oCellAddress&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;Column&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;=&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;&lt;f11&gt;1&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt; &lt;s13/&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;'Colonna B.&lt;/f15&gt;&lt;/f14&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -43097,15 +43097,15 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>REM The first argument is the range name.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T141449Z" creationid="steevie" creationdate="20160504T141449Z">
-        <seg>REM Il primo argomento è il nome dell'intervallo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190521T073348Z" creationid="steevie" creationdate="20160504T141449Z">
+        <seg>REM Il primo argomento è il nome dell'area.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>REM The fourth argument is a set of flags that define</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142212Z" creationid="steevie" creationdate="20160504T141713Z">
+      <tuv lang="IT-IT" changeid="luke" changedate="20190521T083117Z" creationid="steevie" creationdate="20160504T141713Z">
         <seg>REM Il quarto argomento è un insieme di opzioni che definisce</seg>
       </tuv>
     </tu>
@@ -43161,8 +43161,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>REM The third argument specifies the base address for</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T141634Z" creationid="steevie" creationdate="20160504T141634Z">
-        <seg>REM Il terzo argomento indica l'indirizzo base per </seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190521T073514Z" creationid="steevie" creationdate="20160504T141634Z">
+        <seg>REM Il terzo argomento indica l'indirizzo base per</seg>
       </tuv>
     </tu>
     <tu>
@@ -43249,8 +43249,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>REM defines a range.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T141550Z" creationid="steevie" creationdate="20160504T141550Z">
-        <seg>REM definisce un intervallo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190521T073430Z" creationid="steevie" creationdate="20160504T141550Z">
+        <seg>REM definisce un'area.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43313,8 +43313,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>REM how the range is used, but most ranges use 0.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142249Z" creationid="steevie" creationdate="20160504T142249Z">
-        <seg>REM come usare l'intervallo, ma spesso viene usato 0.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190521T083147Z" creationid="steevie" creationdate="20160504T142249Z">
+        <seg>REM come viene usate l'intervallo, ma spesso viene usato 0.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43377,8 +43377,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>REM relative cell references.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T141645Z" creationid="steevie" creationdate="20160504T141645Z">
-        <seg>REM riferimenti relativi alla cella.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190521T073555Z" creationid="steevie" creationdate="20160504T141645Z">
+        <seg>REM riferimenti di cella relativi.</seg>
       </tuv>
     </tu>
     <tu>
