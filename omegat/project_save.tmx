@@ -3696,8 +3696,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;REM NamedRangeFlag constants (see &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&lt;t4&gt;Table 14&lt;/t4&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f5&gt;&lt;f6&gt;).&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142406Z" creationid="steevie" creationdate="20160504T142406Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;REM NamedRangeFlag costanti (vedi &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&lt;t4&gt;Tabella 14&lt;/t4&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f5&gt;&lt;f6&gt;).&lt;/f6&gt;&lt;/f5&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190521T083450Z" creationid="steevie" creationdate="20160504T142406Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;REM costanti NamedRangeFlag (vedete la &lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;&lt;t4&gt;Tabella 14&lt;/t4&gt;&lt;/f3&gt;&lt;/f2&gt;&lt;f5&gt;&lt;f6&gt;).&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -42897,8 +42897,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>REM Get a range using the created named range.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142452Z" creationid="steevie" creationdate="20160504T142452Z">
-        <seg>REM Ottieni un intervallo usando l'intervallo con nome creato.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190521T083637Z" creationid="steevie" creationdate="20160504T142452Z">
+        <seg>REM Ottiene un'area usando l'area con nome creata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43313,8 +43313,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>REM how the range is used, but most ranges use 0.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190521T083147Z" creationid="steevie" creationdate="20160504T142249Z">
-        <seg>REM come viene usate l'intervallo, ma spesso viene usato 0.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190521T083216Z" creationid="steevie" creationdate="20160504T142249Z">
+        <seg>REM come viene usato l'intervallo, ma spesso viene usato 0.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55426,8 +55426,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The method addNewByname() accepts four arguments; the name, content, position, and type.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T142550Z" creationid="steevie" creationdate="20160504T142550Z">
-        <seg>Il metodo addNewByname() accetta quattro argomenti: nome, contenuto, posizione e tipo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190521T083732Z" creationid="steevie" creationdate="20160504T142550Z">
+        <seg>aaaaIl metodo addNewByname() accetta quattro argomenti: nome, contenuto, posizione e tipo.</seg>
       </tuv>
     </tu>
     <tu>
