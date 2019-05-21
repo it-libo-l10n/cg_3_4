@@ -17208,8 +17208,8 @@
       <tuv lang="EN">
         <seg>Changing the reference cell to C4, which is below A3 and B3, causes the AddLeft equation to calculate the sum of the two cells that are to the left on the previous row.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190521T123802Z" creationid="steevie" creationdate="20160504T144158Z">
-        <seg>aaaaCon la modifica della cella di riferimento in C4, che è sotto A3 e B3, l'equazione AggiungiSx calcola la somma di due celle a sinista, ma sulla riga precedente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190521T130659Z" creationid="steevie" creationdate="20160504T144158Z">
+        <seg>Modificando la cella di riferimento in C4, che è sotto A3 e B3, l'equazione AggiungiSx calcola la somma delle due celle a sinistra sulla riga precedente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20448,8 +20448,8 @@
       <tuv lang="EN">
         <seg>Create the AddLeft named range.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T144215Z" creationid="steevie" creationdate="20160504T144215Z">
-        <seg>Crea l'intervallo con nome AggiungiSx.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190521T130710Z" creationid="steevie" creationdate="20160504T144215Z">
+        <seg>aaaaCrea l'intervallo con nome AggiungiSx.</seg>
       </tuv>
     </tu>
     <tu>
