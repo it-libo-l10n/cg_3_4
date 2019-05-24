@@ -3736,8 +3736,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;AddManyNamedRanges&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T144323Z" creationid="steevie" creationdate="20160509T144250Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;CreaMoltiIntervalliConNome&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190524T091943Z" creationid="steevie" creationdate="20160509T144250Z">
+        <seg>aaaa&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;CreaMoltiIntervalliConNome&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20416,8 +20416,8 @@
       <tuv lang="EN">
         <seg>Create many named ranges.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T144255Z" creationid="steevie" creationdate="20160509T144148Z">
-        <seg>Creare molti intervalli con nome.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190524T091940Z" creationid="steevie" creationdate="20160509T144148Z">
+        <seg>Creazione di più aree con nome</seg>
       </tuv>
     </tu>
     <tu>
@@ -37272,8 +37272,8 @@
       <tuv lang="EN">
         <seg>Listing &lt;seq0&gt;12&lt;/seq0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T144130Z" creationid="steevie" creationdate="20160509T144130Z">
-        <seg>Listato &lt;seq0&gt;12&lt;/seq0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190524T091913Z" creationid="steevie" creationdate="20160509T144130Z">
+        <seg>Listato &lt;seq0&gt;12&lt;/seq0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -55290,8 +55290,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The macro in &lt;t0&gt;Listing 12&lt;/t0&gt; creates three named ranges based on the top row of a named range.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190524T090656Z" creationid="steevie" creationdate="20160504T145947Z">
-        <seg>aaaaLa macro nel &lt;t0&gt;Listato 12&lt;/t0&gt; crea tre intervalli con nome in base alla prima riga di un intervallo con nome.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190524T091847Z" creationid="steevie" creationdate="20160504T145947Z">
+        <seg>La macro mostrata nel &lt;t0&gt;Listato 12&lt;/t0&gt; crea tre aree con nome in base alla prima riga di un'area con nome.</seg>
       </tuv>
     </tu>
     <tu>
