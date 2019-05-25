@@ -3760,8 +3760,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;AddNewDatabaseRange&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T151737Z" creationid="steevie" creationdate="20160509T151737Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;AggiungiAreaDatabase&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190525T175047Z" creationid="steevie" creationdate="20160509T151737Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;AggiungiNuovaAreaDatabase&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20368,8 +20368,8 @@
       <tuv lang="EN">
         <seg>Create a database range and an auto filter.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T151713Z" creationid="steevie" creationdate="20160509T151713Z">
-        <seg>Creare un'area database e un auto filtro.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190525T174945Z" creationid="steevie" creationdate="20160509T151713Z">
+        <seg>creazione di un'area database e di un filtro automatico</seg>
       </tuv>
     </tu>
     <tu>
@@ -37280,8 +37280,8 @@
       <tuv lang="EN">
         <seg>Listing &lt;seq0&gt;13&lt;/seq0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T151658Z" creationid="steevie" creationdate="20160509T151658Z">
-        <seg>Listato &lt;seq0&gt;13&lt;/seq0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190525T174841Z" creationid="steevie" creationdate="20160509T151658Z">
+        <seg>Listato &lt;seq0&gt;13&lt;/seq0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -55298,8 +55298,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The macro in &lt;t0&gt;Listing 13&lt;/t0&gt; creates a database range named &lt;f1&gt;MyName&lt;/f1&gt; and sets the range to be used as an auto filter.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160509T151534Z" creationid="steevie" creationdate="20160509T151227Z">
-        <seg>La macro nel &lt;t0&gt;Listato 13&lt;/t0&gt; crea un'area database chiamata &lt;f1&gt;MioNome&lt;/f1&gt; e la imposta per essere usata come un auto filtro.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190525T174825Z" creationid="steevie" creationdate="20160509T151227Z">
+        <seg>La macro nel &lt;t0&gt;Listato 13&lt;/t0&gt; crea un'area database chiamata &lt;f1&gt;MioNome&lt;/f1&gt; e la imposta per essere usata come un filtro automatico.</seg>
       </tuv>
     </tu>
     <tu>
