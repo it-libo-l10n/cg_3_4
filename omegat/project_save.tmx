@@ -52114,8 +52114,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Copy sort results to&lt;/f0&gt; checkbox, however, causes the selected data to be left unchanged and a copy of the sorted data is copied to the specified location.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T135445Z" creationid="steevie" creationdate="20160510T135445Z">
-        <seg>Tuttavia, la casella di controllo &lt;f0&gt;Area destinazione risultato&lt;/f0&gt; non sposta i dati originali, ma copia i dati ordinati nella posizione indicata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190527T170825Z" creationid="steevie" creationdate="20160510T135445Z">
+        <seg>Tuttavia, se la casella di controllo &lt;f0&gt;Area destinazione risultato&lt;/f0&gt; è spuntata, i dati originali non verranno modificati, e i dati ordinati verranno copiati nella posizione indicata.</seg>
       </tuv>
     </tu>
     <tu>
