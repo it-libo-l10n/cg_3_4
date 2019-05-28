@@ -3312,8 +3312,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oSheet&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;' Sheet that will contain the filter.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135051Z" creationid="steevie" creationdate="20160511T135051Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oSheet&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;' Foglio che conterrà il filtro.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T125313Z" creationid="steevie" creationdate="20160511T135051Z">
+        <seg>aaaa&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oSheet&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;' Foglio che conterrà il filtro.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20408,8 +20408,8 @@
       <tuv lang="EN">
         <seg>Create a simple sheet filter.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135011Z" creationid="steevie" creationdate="20160511T135011Z">
-        <seg>Creare un semplice filtro sul primo foglio.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T125221Z" creationid="steevie" creationdate="20160511T135011Z">
+        <seg>creazione di un semplice filtro sul foglio</seg>
       </tuv>
     </tu>
     <tu>
@@ -37288,8 +37288,8 @@
       <tuv lang="EN">
         <seg>Listing &lt;seq0&gt;14&lt;/seq0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T134943Z" creationid="steevie" creationdate="20160511T134943Z">
-        <seg>Listato &lt;seq0&gt;14&lt;/seq0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T125118Z" creationid="steevie" creationdate="20160511T134943Z">
+        <seg>Listato &lt;seq0&gt;14&lt;/seq0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -55314,8 +55314,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The macro in &lt;t0&gt;Listing 14&lt;/t0&gt; creates a simple filter for the first sheet.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190528T122022Z" creationid="steevie" creationdate="20160511T134939Z">
-        <seg>aaaaLa macro nel &lt;t0&gt;Listato 14&lt;/t0&gt; crea un semplice filtro per il primo foglio.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T125109Z" creationid="steevie" creationdate="20160511T134939Z">
+        <seg>La macro nel &lt;t0&gt;Listato 14&lt;/t0&gt; crea un semplice filtro per il primo foglio.</seg>
       </tuv>
     </tu>
     <tu>
