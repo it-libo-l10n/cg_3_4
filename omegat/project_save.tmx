@@ -2952,7 +2952,7 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Operator&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;=&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;com&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;sun&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;star&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;.&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;sheet&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;.&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;FilterOperator&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;.&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;GREATER_EQUAL&lt;/f29&gt;&lt;/f28&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135908Z" creationid="steevie" creationdate="20160511T135908Z">
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T150606Z" creationid="steevie" creationdate="20160511T135908Z">
         <seg>&lt;f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Operator&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;=&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;com&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;sun&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;star&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;.&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;sheet&lt;/f21&gt;&lt;/f20&gt;&lt;f22&gt;&lt;f23&gt;.&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt;&lt;f25&gt;FilterOperator&lt;/f25&gt;&lt;/f24&gt;&lt;f26&gt;&lt;f27&gt;.&lt;/f27&gt;&lt;/f26&gt;&lt;f28&gt;&lt;f29&gt;GREATER_EQUAL&lt;/f29&gt;&lt;/f28&gt;</seg>
       </tuv>
     </tu>
@@ -4312,8 +4312,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;oFilterDesc&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;setFilterFields&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oFields&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;())&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T140023Z" creationid="steevie" creationdate="20160511T140023Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;oFilterDesc&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;setFilterFields&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oFields&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;())&lt;/f11&gt;&lt;/f10&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T150855Z" creationid="steevie" creationdate="20160511T140023Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaaa&lt;f0&gt;&lt;f1&gt;oFilterDesc&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;setFilterFields&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oFields&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;())&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -42841,8 +42841,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>REM BOTTOM_VALUES, and BOTTOM_PERCENT</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135905Z" creationid="steevie" creationdate="20160511T135905Z">
-        <seg>REM BOTTOM_VALUES, and BOTTOM_PERCENT</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T150846Z" creationid="steevie" creationdate="20160511T135905Z">
+        <seg>REM BOTTOM_VALUES e BOTTOM_PERCENT</seg>
       </tuv>
     </tu>
     <tu>
@@ -42921,8 +42921,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>REM If IsNumeric was False, then the</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190528T144931Z" creationid="steevie" creationdate="20160511T135806Z">
-        <seg>aaaaREM Se IsNumeric fosse False, allora </seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T150156Z" creationid="steevie" creationdate="20160511T135806Z">
+        <seg>REM Se IsNumeric fosse False, allora</seg>
       </tuv>
     </tu>
     <tu>
@@ -43049,8 +43049,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>REM StringValue property would be used.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135824Z" creationid="steevie" creationdate="20160511T135824Z">
-        <seg>REM sarebbe stata usata la proprietà StringValue.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T150311Z" creationid="steevie" creationdate="20160511T135824Z">
+        <seg>REM verrebbe usata la proprietà StringValue.</seg>
       </tuv>
     </tu>
     <tu>
