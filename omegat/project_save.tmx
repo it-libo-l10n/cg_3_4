@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12440,8 +12440,8 @@
       <tuv lang="EN">
         <seg>After applying a filter, some rows are visible and some rows are not.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T141516Z" creationid="steevie" creationdate="20160510T141516Z">
-        <seg>Dopo aver applicato un filtro, alcune righe sono visibili, mentre altre no.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T071803Z" creationid="steevie" creationdate="20160510T141516Z">
+        <seg>Dopo aver applicato un filtro, alcune righe saranno visibili, mentre altre no.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29544,8 +29544,8 @@
       <tuv lang="EN">
         <seg>Generic filters, common to all sorts of data manipulations, are automatically provided by the auto filter capability.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161201T152753Z" creationid="steevie" creationdate="20160510T141439Z">
-        <seg>Filtri generici, comuni a tutti i tipi di manipolazione dei dati, sono forniti automaticamente dalla funzione auto filtro.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T071455Z" creationid="steevie" creationdate="20160510T141439Z">
+        <seg>La funzionalità di filtro automatico rende disponibili dei filtri generici, comuni a tutti i tipi di manipolazione dei dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33096,8 +33096,8 @@
       <tuv lang="EN">
         <seg>If you select multiple rows in one operation, you will also select the invisible rows contained between the selected visible rows.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161201T152944Z" creationid="steevie" creationdate="20160510T141613Z">
-        <seg>Se selezionate righe multiple in una operazione, anche le righe invisibili comprese tra quelle visibili saranno selezionate.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T072047Z" creationid="steevie" creationdate="20160510T141613Z">
+        <seg>Se selezionate più righe in una operazione, verranno selezionate anche le righe invisibili comprese tra quelle visibili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41177,8 +41177,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Operations, such as delete, act on all of the selected rows.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T141755Z" creationid="steevie" creationdate="20160510T141755Z">
-        <seg>Operazioni come l'eliminazione di una riga agiscono su tutte le righe selezionate, incluse quelle invisibili.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T072239Z" creationid="steevie" creationdate="20160510T141755Z">
+        <seg>Operazioni come l'eliminazione agiranno su tutte le righe selezionate (incluse quelle invisibili).</seg>
       </tuv>
     </tu>
     <tu>
@@ -59818,8 +59818,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>To avoid this problem, you must individually select each of the filtered rows using the control key.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T141921Z" creationid="steevie" creationdate="20160510T141921Z">
-        <seg>Per evitare questo problema, ogni riga da filtrare va selezionata tenendo premuto il tasto CTRL.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T072737Z" creationid="steevie" creationdate="20160510T141921Z">
+        <seg>Per evitare questo problema, dovete selezionare individualmente ciascuna delle righe filtrate, facendo uso del tasto Control (Ctrl).</seg>
       </tuv>
     </tu>
     <tu>
@@ -62954,8 +62954,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Use &lt;is0/&gt;auto&lt;ie1/&gt; filters to quickly create easily accessible filters commonly used in many different types of applications.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T142123Z" creationid="steevie" creationdate="20160510T142123Z">
-        <seg>Usate i filtri &lt;is0/&gt;automatici&lt;ie1/&gt; per creare velocemente filtri accessibili in maniera semplice usati comunemente in molti tipi diversi di applicazioni.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T072804Z" creationid="steevie" creationdate="20160510T142123Z">
+        <seg>aaaaUsate i filtri &lt;is0/&gt;automatici&lt;ie1/&gt; per creare velocemente filtri accessibili in maniera semplice usati comunemente in molti tipi diversi di applicazioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63122,8 +63122,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Use filters to limit the visible rows in a spreadsheet.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190527T213556Z" creationid="steevie" creationdate="20160510T141252Z">
-        <seg>aaaaaaaaaaaaaaaaaaUsate i filtri per limitare le righe visibili in un foglio di calcolo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T071313Z" creationid="steevie" creationdate="20160510T141252Z">
+        <seg>Per limitare le righe visibili in un foglio elettronico è possibile utilizzare i filtri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66562,8 +66562,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>You can also define your own filters.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161201T152810Z" creationid="steevie" creationdate="20160510T141454Z">
-        <seg>Potete definire anche filtri personali.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T071548Z" creationid="steevie" creationdate="20160510T141454Z">
+        <seg>È comunque possibile definire anche dei filtri personalizzati.</seg>
       </tuv>
     </tu>
     <tu>
