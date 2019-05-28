@@ -3224,8 +3224,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oFilterDesc&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;' Filter descriptor.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135102Z" creationid="steevie" creationdate="20160511T135102Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oFilterDesc&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;' Descrizione del filtro.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T134421Z" creationid="steevie" creationdate="20160511T135102Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oFilterDesc&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;' Descrittore del filtro.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3312,8 +3312,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oSheet&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;' Sheet that will contain the filter.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190528T125313Z" creationid="steevie" creationdate="20160511T135051Z">
-        <seg>aaaa&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oSheet&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;' Foglio che conterrà il filtro.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T133710Z" creationid="steevie" creationdate="20160511T135051Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oSheet&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;' Foglio che conterrà il filtro.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31224,8 +31224,8 @@
       <tuv lang="EN">
         <seg>If argument is False, create a</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135245Z" creationid="steevie" creationdate="20160511T135245Z">
-        <seg>REM Se l'argomento è False, crea un</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T134606Z" creationid="steevie" creationdate="20160511T135245Z">
+        <seg>Se l'argomento è False, crea un</seg>
       </tuv>
     </tu>
     <tu>
@@ -42937,8 +42937,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>REM If argument is True, creates an empty filter</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135210Z" creationid="steevie" creationdate="20160511T135133Z">
-        <seg>REM Se l'argomento è TRUE, crea un descrittore di filtro </seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T134542Z" creationid="steevie" creationdate="20160511T135133Z">
+        <seg>REM Se l'argomento è True, crea un descrittore di filtro</seg>
       </tuv>
     </tu>
     <tu>
@@ -43057,8 +43057,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>REM The Field property is the zero based column</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135615Z" creationid="steevie" creationdate="20160511T135559Z">
-        <seg>REM La proprietà Field è il numero di colonna da</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T135044Z" creationid="steevie" creationdate="20160511T135559Z">
+        <seg>aaaaREM La proprietà Field è il numero di colonna da</seg>
       </tuv>
     </tu>
     <tu>
@@ -43201,8 +43201,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>REM You could use the Connection property to indicate</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135419Z" creationid="steevie" creationdate="20160511T135346Z">
-        <seg>REM Potete usare la proprietà Connection per indicare</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T134815Z" creationid="steevie" creationdate="20160511T135346Z">
+        <seg>REM Potreste usare la proprietà Connection per indicare</seg>
       </tuv>
     </tu>
     <tu>
@@ -43401,8 +43401,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>REM the first field, so this is not required.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135454Z" creationid="steevie" creationdate="20160511T135454Z">
-        <seg>REM il primo campo, quindi non richiesto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T135031Z" creationid="steevie" creationdate="20160511T135454Z">
+        <seg>REM il primo campo, quindi ciò non è richiesto.</seg>
       </tuv>
     </tu>
     <tu>
