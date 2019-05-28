@@ -32848,8 +32848,8 @@
       <tuv lang="EN">
         <seg>If you have the cell, you</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135639Z" creationid="steevie" creationdate="20160511T135639Z">
-        <seg>Se si ha la cella, si</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T144356Z" creationid="steevie" creationdate="20160511T135639Z">
+        <seg>Se avete la cella, potete</seg>
       </tuv>
     </tu>
     <tu>
@@ -42857,8 +42857,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>REM Compare using a numeric or a string?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135710Z" creationid="steevie" creationdate="20160511T135710Z">
-        <seg>REM Confronta numeri o stringhe?</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T144801Z" creationid="steevie" creationdate="20160511T135710Z">
+        <seg>REM Confronta usando numeri o stringhe?</seg>
       </tuv>
     </tu>
     <tu>
@@ -42921,8 +42921,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>REM If IsNumeric was False, then the</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135806Z" creationid="steevie" creationdate="20160511T135806Z">
-        <seg>REM Se IsNumeric fosse False, allora </seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T144931Z" creationid="steevie" creationdate="20160511T135806Z">
+        <seg>aaaaREM Se IsNumeric fosse False, allora </seg>
       </tuv>
     </tu>
     <tu>
@@ -43057,8 +43057,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>REM The Field property is the zero based column</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190528T135044Z" creationid="steevie" creationdate="20160511T135559Z">
-        <seg>aaaaREM La proprietà Field è il numero di colonna da</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T144458Z" creationid="steevie" creationdate="20160511T135559Z">
+        <seg>REM La proprietà Field è il numero di colonna con</seg>
       </tuv>
     </tu>
     <tu>
@@ -43233,8 +43233,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>REM can use .Field = oCell.CellAddress.Column.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135647Z" creationid="steevie" creationdate="20160511T135647Z">
-        <seg>REM può usare.Field = oCell.CellAddress.Column.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T144409Z" creationid="steevie" creationdate="20160511T135647Z">
+        <seg>REM usare .Field = oCell.CellAddress.Column.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43329,8 +43329,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>REM number to filter.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T135623Z" creationid="steevie" creationdate="20160511T135611Z">
-        <seg>REM filtrare con base 0.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T144514Z" creationid="steevie" creationdate="20160511T135611Z">
+        <seg>REM base 0 da filtrare.</seg>
       </tuv>
     </tu>
     <tu>
