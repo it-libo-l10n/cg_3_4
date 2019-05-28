@@ -13224,8 +13224,8 @@
       <tuv lang="EN">
         <seg>An auto filter entry is created for each unique entry in the column.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T142941Z" creationid="steevie" creationdate="20160510T142941Z">
-        <seg>Una voce per il filtro automatico viene creata per ogni voce unica nella colonna.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T092044Z" creationid="steevie" creationdate="20160510T142941Z">
+        <seg>Per ogni voce univoca nella colonna viene creata una voce per il filtro automatico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28144,8 +28144,8 @@
       <tuv lang="EN">
         <seg>For example, using the data in &lt;t0&gt;Table 13&lt;/t0&gt;, select data in columns B and C. If you do not select the title rows, Calc asks if the title row or the current row should be used.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161201T153140Z" creationid="steevie" creationdate="20160510T143212Z">
-        <seg>Per esempio, usando i dati nella &lt;t0&gt;Tabella 13&lt;/t0&gt;, selezionate le colonne B e C. Se non selezionate l'intestazione Calc vi chiede se usare la riga corrente o l'intestazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T092130Z" creationid="steevie" creationdate="20160510T143212Z">
+        <seg>aaaaPer esempio, usando i dati nella &lt;t0&gt;Tabella 13&lt;/t0&gt;, selezionate le colonne B e C. Se non selezionate l'intestazione Calc vi chiede se usare la riga corrente o l'intestazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32096,8 +32096,8 @@
       <tuv lang="EN">
         <seg>If the value 70 is in the top ten values, then all rows containing the value 70 in the filtered column are displayed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T142856Z" creationid="steevie" creationdate="20160510T142856Z">
-        <seg>Se il valore 70 è tra i primi dieci valori, tutte le righe contenenti il valore 70 nella colonna filtrata sono visualizzate.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T090825Z" creationid="steevie" creationdate="20160510T142856Z">
+        <seg>Se il valore 70 rientra nei primi dieci valori, verranno visualizzate nella colonna filtrata tutte le righe contenenti il valore 70.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34152,8 +34152,8 @@
       <tuv lang="EN">
         <seg>In other words, more than ten rows may be displayed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T142913Z" creationid="steevie" creationdate="20160510T142913Z">
-        <seg>In altre parole, possono essere visualizzate più di dieci colonne.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T090928Z" creationid="steevie" creationdate="20160510T142913Z">
+        <seg>In altre parole, potrebbero essere visualizzate più di dieci colonne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53058,8 +53058,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The Standard auto filter opens the Standard Filter dialog and is the same as the standard filter.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190528T082943Z" creationid="steevie" creationdate="20160510T142739Z">
-        <seg>aaaaIl Filtro standard apre la finestra di dialogo Filtro standard ed è esattamente il filtro standard.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T085829Z" creationid="steevie" creationdate="20160510T142739Z">
+        <seg>Il Filtro standard automatico apre la finestra di dialogo Filtro standard ed è esattamente il filtro standard.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53114,8 +53114,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The Top 10 auto filter displays the ten rows with the largest value.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T142817Z" creationid="steevie" creationdate="20160510T142817Z">
-        <seg>Il filtro Top 10 visualizza le dieci righe con il valore più alto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T085953Z" creationid="steevie" creationdate="20160510T142817Z">
+        <seg>Il filtro automatico Top 10 visualizza le dieci righe con il valore più alto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60138,8 +60138,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>To create an auto filter, first select the columns to filter.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160510T143005Z" creationid="steevie" creationdate="20160510T143005Z">
-        <seg>Per creare un filtro automatico, selezionate prima la colonna da filtrare.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190528T092128Z" creationid="steevie" creationdate="20160510T143005Z">
+        <seg>Per creare un filtro automatico selezionate prima le colonne da filtrare.</seg>
       </tuv>
     </tu>
     <tu>
