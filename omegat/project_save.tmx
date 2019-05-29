@@ -2896,8 +2896,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Field&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;=&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;5&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; &lt;s11/&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;' Filter column F.&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T141155Z" creationid="steevie" creationdate="20160511T141155Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Field&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;=&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;5&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; &lt;s11/&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;' Filtra colonna F.&lt;/f13&gt;&lt;/f12&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190529T120641Z" creationid="steevie" creationdate="20160511T141155Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;Field&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;=&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;5&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; &lt;s11/&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;' Filtra la colonna F.&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2928,8 +2928,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;NumericValue&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;=&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;70&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; &lt;s11/&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;' Values greater than 70&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T141218Z" creationid="steevie" creationdate="20160511T141218Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;NumericValue&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;=&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;70&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; &lt;s11/&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;' Valore superiore a 70&lt;/f13&gt;&lt;/f12&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190529T121106Z" creationid="steevie" creationdate="20160511T141218Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;NumericValue&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;=&lt;/f6&gt;&lt;/f5&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;&lt;f9&gt;70&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt; &lt;s11/&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;' Valori superiori a 70&lt;/f13&gt;&lt;/f12&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12408,8 +12408,8 @@
       <tuv lang="EN">
         <seg>Advanced filters</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T141506Z" creationid="steevie" creationdate="20160511T141241Z">
-        <seg>Filtri speciali</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190529T121145Z" creationid="steevie" creationdate="20160511T141241Z">
+        <seg>aaaaFiltri speciali</seg>
       </tuv>
     </tu>
     <tu>
@@ -43009,8 +43009,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>REM Setup a field that requires both conditions and</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190529T103807Z" creationid="steevie" creationdate="20160511T141005Z">
-        <seg>aaaaREM Crea un campo che richiede entrambe le condizioni:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190529T120404Z" creationid="steevie" creationdate="20160511T141005Z">
+        <seg>REM Crea un campo che richiede entrambe le condizioni e</seg>
       </tuv>
     </tu>
     <tu>
@@ -43281,8 +43281,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>REM equal to 70.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T141125Z" creationid="steevie" creationdate="20160511T141125Z">
-        <seg>REM uguale o superiore a 70.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190529T120506Z" creationid="steevie" creationdate="20160511T141125Z">
+        <seg>REM uguale a 70.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43417,8 +43417,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>REM this new condition requires a value greater or</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T141111Z" creationid="steevie" creationdate="20160511T141048Z">
-        <seg>REM questa nuova condizione richiede un valore </seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190529T120450Z" creationid="steevie" creationdate="20160511T141048Z">
+        <seg>REM questa nuova condizione richiede un valore superiore o</seg>
       </tuv>
     </tu>
     <tu>
