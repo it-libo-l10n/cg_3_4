@@ -3768,8 +3768,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;RemoveSheetFilter&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T140257Z" creationid="steevie" creationdate="20160511T140257Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;RimuoviFiltroFoglio&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190529T092749Z" creationid="steevie" creationdate="20160511T140257Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;RimozioneFiltroFoglio&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4432,7 +4432,7 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;oSheet&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;ThisComponent&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;getSheets&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;().&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;getByIndex&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;(&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;0&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;)&lt;/f21&gt;&lt;/f20&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160504T144443Z" creationid="steevie" creationdate="20160504T144443Z">
+      <tuv lang="IT-IT" changeid="luke" changedate="20190529T092858Z" creationid="steevie" creationdate="20160504T144443Z">
         <seg>&lt;f0&gt;&lt;f1&gt;oSheet&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;=&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;&lt;f7&gt;ThisComponent&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;getSheets&lt;/f11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;f13&gt;().&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;&lt;f15&gt;getByIndex&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;f17&gt;(&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt;&lt;f19&gt;0&lt;/f19&gt;&lt;/f18&gt;&lt;f20&gt;&lt;f21&gt;)&lt;/f21&gt;&lt;/f20&gt;</seg>
       </tuv>
     </tu>
@@ -10144,8 +10144,8 @@
       <tuv lang="EN">
         <seg>&lt;t0&gt;Listing 16&lt;/t0&gt; demonstrates a more advanced filter that filters two columns and uses regular expressions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T140409Z" creationid="steevie" creationdate="20160511T140409Z">
-        <seg>Il &lt;t0&gt;Listato 16&lt;/t0&gt; mostra un filtro più avanzato che agisce su due colonne e usa espressioni regolari.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190529T092909Z" creationid="steevie" creationdate="20160511T140409Z">
+        <seg>aaaaIl &lt;t0&gt;Listato 16&lt;/t0&gt; mostra un filtro più avanzato che agisce su due colonne e usa espressioni regolari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37296,8 +37296,8 @@
       <tuv lang="EN">
         <seg>Listing &lt;seq0&gt;15&lt;/seq0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T140204Z" creationid="steevie" creationdate="20160511T140204Z">
-        <seg>Listato &lt;seq0&gt;15&lt;/seq0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190529T092244Z" creationid="steevie" creationdate="20160511T140204Z">
+        <seg>Listato &lt;seq0&gt;15&lt;/seq0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -43977,8 +43977,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Remove the current sheet filter.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T140240Z" creationid="steevie" creationdate="20160511T140240Z">
-        <seg>Rimuovere il filtro sul foglio attuale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190529T092335Z" creationid="steevie" creationdate="20160511T140240Z">
+        <seg>rimozione del filtro sul foglio corrente</seg>
       </tuv>
     </tu>
     <tu>
@@ -49337,8 +49337,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Setting an empty filter in a sheet will therefore remove all filters for that sheet (see &lt;t0&gt;Listing 15&lt;/t0&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190529T085411Z" creationid="steevie" creationdate="20160511T140158Z">
-        <seg>aaaaL'impostazione di un filtro vuoto quindi, rimuoverà tutti i filtri presenti su quel foglio. (vedi &lt;t0&gt;Listato 15&lt;/t0&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190529T092222Z" creationid="steevie" creationdate="20160511T140158Z">
+        <seg>L'impostazione di un filtro vuoto rimuoverà quindi tutti i filtri presenti su quel foglio (vedete il &lt;t0&gt;Listato 15&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
