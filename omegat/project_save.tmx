@@ -4312,8 +4312,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;oFilterDesc&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;setFilterFields&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oFields&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;())&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190528T150855Z" creationid="steevie" creationdate="20160511T140023Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaaa&lt;f0&gt;&lt;f1&gt;oFilterDesc&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;setFilterFields&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oFields&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;())&lt;/f11&gt;&lt;/f10&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190529T085222Z" creationid="steevie" creationdate="20160511T140023Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;oFilterDesc&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;f5&gt;setFilterFields&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;&lt;f9&gt;oFields&lt;/f9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;f11&gt;())&lt;/f11&gt;&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -49337,8 +49337,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Setting an empty filter in a sheet will therefore remove all filters for that sheet (see &lt;t0&gt;Listing 15&lt;/t0&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T140158Z" creationid="steevie" creationdate="20160511T140158Z">
-        <seg>L'impostazione di un filtro vuoto quindi, rimuoverà tutti i filtri presenti su quel foglio. (vedi &lt;t0&gt;Listato 15&lt;/t0&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190529T085411Z" creationid="steevie" creationdate="20160511T140158Z">
+        <seg>aaaaL'impostazione di un filtro vuoto quindi, rimuoverà tutti i filtri presenti su quel foglio. (vedi &lt;t0&gt;Listato 15&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -64810,8 +64810,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>When a filter is applied to a sheet, it replaces any existing filter for the sheet.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160511T140115Z" creationid="steevie" creationdate="20160511T140115Z">
-        <seg>Quando un filtro è applicato a un foglio, tutti i filtri esistenti sono sostituiti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190529T085407Z" creationid="steevie" creationdate="20160511T140115Z">
+        <seg>Quando un filtro viene applicato a un foglio, tutti i filtri esistenti vengono sostituiti.</seg>
       </tuv>
     </tu>
     <tu>
