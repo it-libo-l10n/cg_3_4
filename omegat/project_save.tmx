@@ -8168,8 +8168,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Table &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;17&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T132501Z" creationid="steevie" creationdate="20160517T132501Z">
-        <seg>&lt;f0&gt;Tabella &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;17&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190530T125633Z" creationid="steevie" creationdate="20160517T132501Z">
+        <seg>&lt;f0&gt;Tabella &lt;/f0&gt;&lt;f1&gt;&lt;seq2&gt;17&lt;/seq2&gt;&lt;/f1&gt;&lt;f3&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12400,8 +12400,8 @@
       <tuv lang="EN">
         <seg>Advanced filter properties.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T132514Z" creationid="steevie" creationdate="20160517T132514Z">
-        <seg>Proprietà dei filtri speciali.&lt;/f3&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190530T125704Z" creationid="steevie" creationdate="20160517T132514Z">
+        <seg>proprietà dei filtri speciali&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -42641,8 +42641,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Property</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T132532Z" creationid="steevie" creationdate="20160517T132532Z">
-        <seg>Proprietà</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190530T125707Z" creationid="steevie" creationdate="20160517T132532Z">
+        <seg>aaaaProprietà</seg>
       </tuv>
     </tu>
     <tu>
@@ -54530,8 +54530,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The filter descriptor must be modified before the filter is applied.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190530T121712Z" creationid="steevie" creationdate="20160517T132456Z">
-        <seg>aaaaBisogna modificare il descrittore di filtro prima di poterlo applicare.&lt;/f6&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190530T125549Z" creationid="steevie" creationdate="20160517T132456Z">
+        <seg>È necessario modificare il descrittore del filtro prima di poter applicare il filtro.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
