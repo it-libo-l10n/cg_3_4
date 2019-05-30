@@ -14936,8 +14936,8 @@
       <tuv lang="EN">
         <seg>Boolean (true or false) that specifies if the first row (or column) contains headers which should not be filtered.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190530T130740Z" creationid="steevie" creationdate="20160517T132704Z">
-        <seg>aaaaValore booleano (vero o falso) che indica se la prima riga (o colonna) contiene intestazioni che non devono essere filtrate.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190530T144029Z" creationid="steevie" creationdate="20160517T132704Z">
+        <seg>Valore booleano (vero o falso) che indica se la prima riga (o colonna) contiene intestazioni che non devono essere filtrate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14960,7 +14960,7 @@
       <tuv lang="EN">
         <seg>Boolean that specifies if the case of letters is important when comparing entries.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133515Z" creationid="steevie" creationdate="20160517T133515Z">
+      <tuv lang="IT-IT" changeid="luke" changedate="20190530T144326Z" creationid="steevie" creationdate="20160517T133515Z">
         <seg>Valore booleano che indica se differenziare fra maiuscole e minuscole quando si confrontano le voci.</seg>
       </tuv>
     </tu>
@@ -14976,7 +14976,7 @@
       <tuv lang="EN">
         <seg>Boolean that specifies if the filtered data should be copied to another position in the document.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133131Z" creationid="steevie" creationdate="20160517T133131Z">
+      <tuv lang="IT-IT" changeid="luke" changedate="20190530T144037Z" creationid="steevie" creationdate="20160517T133131Z">
         <seg>Valore booleano che indica se i dati filtrati devono essere copiati in un'altra posizione nel documento.</seg>
       </tuv>
     </tu>
@@ -31296,8 +31296,8 @@
       <tuv lang="EN">
         <seg>If if CopyOutputData is True , specifies the position where filtered data are to be copied.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133626Z" creationid="steevie" creationdate="20160517T133626Z">
-        <seg>Se CopyOutputData è Vero, indica la posizione in cui copiare i dati filtrati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190530T145306Z" creationid="steevie" creationdate="20160517T133626Z">
+        <seg>aaaaSe CopyOutputData è Vero, indica la posizione in cui copiare i dati filtrati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50609,8 +50609,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Specifies if columns (com.sun.star.table.TableOrientation.COLUMNS) or rows (com.sun.star.table.TableOrientation.ROWS) are filtered.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133539Z" creationid="steevie" creationdate="20160517T133539Z">
-        <seg>Indica se le colonne (com.sun.star.table.TableOrientation.COLUMNS) o le righe (com.sun.star.table.TableOrientation.ROWS) vengono filtrate.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190530T145252Z" creationid="steevie" creationdate="20160517T133539Z">
+        <seg>Indica se vengono filtrate le colonne (com.sun.star.table.TableOrientation.COLUMNS) o le righe (com.sun.star.table.TableOrientation.ROWS).</seg>
       </tuv>
     </tu>
     <tu>
