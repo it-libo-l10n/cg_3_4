@@ -3216,8 +3216,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oFiltDesc&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;'Filter descriptor.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190530T095511Z" creationid="steevie" creationdate="20160517T125500Z">
-        <seg>aaaa&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oFiltDesc&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;'Descrittore di filtro.&lt;/f8&gt;&lt;/f7&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190530T102547Z" creationid="steevie" creationdate="20160517T125500Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Dim&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;oFiltDesc&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;s6/&gt;&lt;/f5&gt;&lt;f7&gt;&lt;f8&gt;'Descrittore di filtro.&lt;/f8&gt;&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5216,8 +5216,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Change properties on the filter descriptor to change the behavior of the filter (see &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Table 17&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;).&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125823Z" creationid="steevie" creationdate="20160517T125823Z">
-        <seg>&lt;f0&gt;Cambiate le proprietà del descrittore di filtro per modificare il comportamento del filtro (vedi &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Tabella 17&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;).&lt;/f3&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190530T103139Z" creationid="steevie" creationdate="20160517T125823Z">
+        <seg>aaaa&lt;f0&gt;Cambiate le proprietà del descrittore di filtro per modificare il comportamento del filtro (vedi &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Tabella 17&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;).&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -42985,8 +42985,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>REM Range that contains the filter criteria</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125511Z" creationid="steevie" creationdate="20160517T125511Z">
-        <seg>REM Intervallo contenente i criteri filtro</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190530T102633Z" creationid="steevie" creationdate="20160517T125511Z">
+        <seg>REM Intervallo contenente i criteri di filtro</seg>
       </tuv>
     </tu>
     <tu>
@@ -43193,8 +43193,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>REM You can also obtain the range containing the</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125646Z" creationid="steevie" creationdate="20160517T125605Z">
-        <seg>REM Si può anche ottenere l'intervallo contenente i</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190530T102710Z" creationid="steevie" creationdate="20160517T125605Z">
+        <seg>REM È anche possibile ottenere l'intervallo contenente i</seg>
       </tuv>
     </tu>
     <tu>
@@ -43289,8 +43289,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>REM filter criteria from a named range.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125652Z" creationid="steevie" creationdate="20160517T125638Z">
-        <seg>REM criteri filtro da un intervallo con nome.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190530T103012Z" creationid="steevie" creationdate="20160517T125638Z">
+        <seg>REM criteri di filtro da un'area con nome.</seg>
       </tuv>
     </tu>
     <tu>
