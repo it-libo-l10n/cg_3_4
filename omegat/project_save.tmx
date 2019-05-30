@@ -14952,8 +14952,8 @@
       <tuv lang="EN">
         <seg>Boolean that specifies if the OutputPosition position is saved for future calls.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133655Z" creationid="steevie" creationdate="20160517T133655Z">
-        <seg>Valore booleano che indica se la posizione OutputPosition.va salvata per futuri usi.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190530T154514Z" creationid="steevie" creationdate="20160517T133655Z">
+        <seg>Valore booleano che indica se la posizione OutputPosition viene salvata per usi futuri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14968,8 +14968,8 @@
       <tuv lang="EN">
         <seg>Boolean that specifies if the filter strings are interpreted as regular expressions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133748Z" creationid="steevie" creationdate="20160517T133748Z">
-        <seg>Valore booleano che indica se le stringhe filtro sono interpretate come espressioni regolari.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190530T154721Z" creationid="steevie" creationdate="20160517T133748Z">
+        <seg>aaaaaaaaaaaaaaaaaValore booleano che indica se le stringhe filtro sono interpretate come espressioni regolari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31296,8 +31296,8 @@
       <tuv lang="EN">
         <seg>If if CopyOutputData is True , specifies the position where filtered data are to be copied.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190530T145306Z" creationid="steevie" creationdate="20160517T133626Z">
-        <seg>aaaaSe CopyOutputData è Vero, indica la posizione in cui copiare i dati filtrati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190530T151241Z" creationid="steevie" creationdate="20160517T133626Z">
+        <seg>Se CopyOutputData è vero, indica la posizione in cui copiare i dati filtrati.</seg>
       </tuv>
     </tu>
     <tu>
