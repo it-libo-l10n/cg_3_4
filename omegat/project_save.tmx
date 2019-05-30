@@ -5216,8 +5216,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Change properties on the filter descriptor to change the behavior of the filter (see &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Table 17&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;).&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190530T103139Z" creationid="steevie" creationdate="20160517T125823Z">
-        <seg>aaaa&lt;f0&gt;Cambiate le proprietà del descrittore di filtro per modificare il comportamento del filtro (vedi &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Tabella 17&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;).&lt;/f3&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190530T121313Z" creationid="steevie" creationdate="20160517T125823Z">
+        <seg>&lt;f0&gt;Cambiate le proprietà del descrittore del filtro per modificare il comportamento del filtro (vedete la &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Tabella 17&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;).&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8408,8 +8408,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;The filter created in &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Listing 17&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt; filters the data in place.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125935Z" creationid="steevie" creationdate="20160517T125935Z">
-        <seg>&lt;f0&gt;Il filtro creato nel &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Listato 17&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt; filtra i dati nel proprio posto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190530T121453Z" creationid="steevie" creationdate="20160517T125935Z">
+        <seg>&lt;f0&gt;Il filtro creato nel &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;Listato 17&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt; filtra i dati nella propria posizione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38168,8 +38168,8 @@
       <tuv lang="EN">
         <seg>Modify the OutputPosition property to specify a different output position (see &lt;/f3&gt;&lt;f4&gt;&lt;t5&gt;Listing 18&lt;/t5&gt;&lt;/f4&gt;&lt;f6&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T130016Z" creationid="steevie" creationdate="20160517T130016Z">
-        <seg>Modificate la proprietà OutputPosition per indicare una diversa destinazione (vedi &lt;/f3&gt;&lt;f4&gt;&lt;t5&gt;Listato 18&lt;/t5&gt;&lt;/f4&gt;&lt;f6&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190530T121709Z" creationid="steevie" creationdate="20160517T130016Z">
+        <seg>Modificate la proprietà OutputPosition per indicare una diversa posizione di destinazione (vedete il &lt;/f3&gt;&lt;f4&gt;&lt;t5&gt;Listato 18&lt;/t5&gt;&lt;/f4&gt;&lt;f6&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -54530,8 +54530,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The filter descriptor must be modified before the filter is applied.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T132456Z" creationid="steevie" creationdate="20160517T132456Z">
-        <seg>Bisogna modificare il descrittore di filtro prima di poterlo applicare.&lt;/f6&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190530T121712Z" creationid="steevie" creationdate="20160517T132456Z">
+        <seg>aaaaBisogna modificare il descrittore di filtro prima di poterlo applicare.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
