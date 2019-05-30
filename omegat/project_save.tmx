@@ -3800,8 +3800,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;UseAnAdvancedFilter&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125338Z" creationid="steevie" creationdate="20160517T125338Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;UsaFiltroSpeciale&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190530T092458Z" creationid="steevie" creationdate="20160517T125338Z">
+        <seg>aaaa&lt;f0&gt;&lt;f1&gt;Sub&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;UsaFiltroSpeciale&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;()&lt;/f6&gt;&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13768,8 +13768,8 @@
       <tuv lang="EN">
         <seg>Apply an advanced filter using a previously defined named range</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125306Z" creationid="steevie" creationdate="20160517T125306Z">
-        <seg>Applicare un filtro speciale usando un intervallo con nome definito in precedenza.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190530T092324Z" creationid="steevie" creationdate="20160517T125306Z">
+        <seg>applicazione di un filtro speciale usando un'area con nome definita in precedenza</seg>
       </tuv>
     </tu>
     <tu>
@@ -26080,8 +26080,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;321&lt;/seq0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125104Z" creationid="steevie" creationdate="20160517T125104Z">
-        <seg>Figura &lt;seq0&gt;321&lt;/seq0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190530T092136Z" creationid="steevie" creationdate="20160517T125104Z">
+        <seg>Figura &lt;seq0&gt;321&lt;/seq0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -37312,8 +37312,8 @@
       <tuv lang="EN">
         <seg>Listing &lt;seq0&gt;17&lt;/seq0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125309Z" creationid="steevie" creationdate="20160517T125309Z">
-        <seg>Listato &lt;seq0&gt;17&lt;/seq0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190530T092329Z" creationid="steevie" creationdate="20160517T125309Z">
+        <seg>Listato &lt;seq0&gt;17&lt;/seq0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -53450,8 +53450,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The cell range containing the filter criteria is used to create a filter descriptor, which is then used to filter the range containing the data.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190530T090424Z" creationid="steevie" creationdate="20160517T125101Z">
-        <seg>aaaaL'intervallo di celle contenente i criteri filtro viene usato per creare un descrittore di filtro, utilizzato a sua volta per filtrare l'intervallo contenente i dati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190530T092132Z" creationid="steevie" creationdate="20160517T125101Z">
+        <seg>L'intervallo di celle contenente i criteri di filtro viene usato per creare un descrittore di filtro, utilizzato a sua volta per filtrare l'intervallo contenente i dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63098,8 +63098,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Use an advanced filter.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T125326Z" creationid="steevie" creationdate="20160517T125326Z">
-        <seg>Uso di un filtro speciale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190530T092336Z" creationid="steevie" creationdate="20160517T125326Z">
+        <seg>uso di un filtro speciale</seg>
       </tuv>
     </tu>
     <tu>
