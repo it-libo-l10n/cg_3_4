@@ -2864,8 +2864,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;(Advanced material.) The OutputPosition property returns a copy of a struct.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190531T075729Z" creationid="steevie" creationdate="20160517T134133Z">
-        <seg>aaaa&lt;f0&gt;(Nozioni avanzate.) La proprietà OutputPosition ha come risultato la copia di una struttura (struct).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190531T091040Z" creationid="steevie" creationdate="20160517T134133Z">
+        <seg>&lt;f0&gt;Nozioni avanzate: la proprietà OutputPosition restituisce come risultato la copia di una struttura (struct).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14744,8 +14744,8 @@
       <tuv lang="EN">
         <seg>Because a copy is returned, it is not possible to set the individual values directly.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T134523Z" creationid="steevie" creationdate="20160517T134414Z">
-        <seg>Poiché il risultato è una copia, non si possono impostare direttamente i singoli valori.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190531T091133Z" creationid="steevie" creationdate="20160517T134414Z">
+        <seg>Poiché il risultato è una copia, non è possibile impostare direttamente i singoli valori.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27968,8 +27968,8 @@
       <tuv lang="EN">
         <seg>For example, oFiltDesc.OutputPosition.Row &lt;/f0&gt;&lt;f1&gt;= 2 does not work (because you set the Row on the copy to 2, but do not change the original).&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T134638Z" creationid="steevie" creationdate="20160517T134638Z">
-        <seg>Ad esempio, oFiltDesc.OutputPosition.Row &lt;/f0&gt;&lt;f1&gt;= 2 non funziona (perché nella copia avete impostato la riga a 2, ma non avete modificato l'originale).&lt;/f1&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190531T091135Z" creationid="steevie" creationdate="20160517T134638Z">
+        <seg>aaaaAd esempio, oFiltDesc.OutputPosition.Row &lt;/f0&gt;&lt;f1&gt;= 2 non funziona (perché nella copia avete impostato la riga a 2, ma non avete modificato l'originale).&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
