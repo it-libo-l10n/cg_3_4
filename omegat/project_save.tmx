@@ -13016,8 +13016,8 @@
       <tuv lang="EN">
         <seg>Although every Calc function can be used for &lt;i0/&gt;database manipulation, the functions in &lt;t1&gt;Table 18&lt;/t1&gt; are more commonly used as such.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190531T124535Z" creationid="steevie" creationdate="20160526T131350Z">
-        <seg>aaaaNonostante ogni funzione di Calc possa essere usata per &lt;i0/&gt;manipolazione di database, le funzioni elencate nella &lt;t1&gt;Tabella 18&lt;/t1&gt; sono le più usate.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190531T132942Z" creationid="steevie" creationdate="20160526T131350Z">
+        <seg>Sebbene ogni funzione di Calc possa essere utilizzata per la &lt;i0/&gt;gestione dei database, le funzioni elencate nella &lt;t1&gt;Tabella 18&lt;/t1&gt; sono le più usate a tale scopo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29344,8 +29344,8 @@
       <tuv lang="EN">
         <seg>Functions that do not end with the letter A operate only on numeric values and cells that contain text or are empty are ignored.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T144146Z" creationid="steevie" creationdate="20160620T143037Z">
-        <seg>Funzioni senza il suffisso .VALORI -o con il suffisso .NUMERI- operano solo sui valori numerici; celle vuote o contenenti testo sono ignorate.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190531T133935Z" creationid="steevie" creationdate="20160620T143037Z">
+        <seg>Funzioni senza il suffisso .VALORI operano solo sui valori numerici; le celle vuote o contenenti testo sono ignorate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50241,8 +50241,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Some functions’ names differ only by the letter appended at the end; AVERAGE and AVERAGEA, for example.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T142940Z" creationid="steevie" creationdate="20160526T134011Z">
-        <seg>Il nome di alcune funzioni cambia solo per il suffisso .VALORI; ad esempio MEDIA e MEDIA.VALORI.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190531T133619Z" creationid="steevie" creationdate="20160526T134011Z">
+        <seg>I nomi di alcune funzioni si differenziano solo per il suffisso .VALORI; ad esempio MEDIA e MEDIA.VALORI.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53778,8 +53778,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The corresponding function whose name ends with the letter A, treats text values as a number with the value of zero; blank cells are still ignored.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T143149Z" creationid="steevie" creationdate="20160620T143149Z">
-        <seg>Le funzioni corrispondenti con il suffisso .VALORI trattano il testo come un numero di valore zero; le celle vuote sono comunque ignorate.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190531T133937Z" creationid="steevie" creationdate="20160620T143149Z">
+        <seg>aaaaLe funzioni corrispondenti con il suffisso .VALORI trattano il testo come un numero di valore zero; le celle vuote sono comunque ignorate.</seg>
       </tuv>
     </tu>
     <tu>
