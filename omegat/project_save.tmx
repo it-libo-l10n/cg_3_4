@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -44345,8 +44345,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Return the content of a cell, specified by row and column number or an optional range name.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190531T150316Z" creationid="steevie" creationdate="20160620T145005Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaMostra il contenuto di una cella, specificato come numero di riga e colonna o un intervallo con nome facoltativo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190531T170720Z" creationid="steevie" creationdate="20160620T145005Z">
+        <seg>Restituisce il contenuto di una cella, specificato come numero di riga e colonna o un intervallo con nome facoltativo.</seg>
       </tuv>
     </tu>
     <tu>
