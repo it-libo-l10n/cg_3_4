@@ -2864,8 +2864,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;(Advanced material.) The OutputPosition property returns a copy of a struct.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161201T135708Z" creationid="steevie" creationdate="20160517T134133Z">
-        <seg>&lt;f0&gt;(Nozioni avanzate.) La proprietà OutputPosition ha come risultato la copia di una struttura (struct).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190531T075729Z" creationid="steevie" creationdate="20160517T134133Z">
+        <seg>aaaa&lt;f0&gt;(Nozioni avanzate.) La proprietà OutputPosition ha come risultato la copia di una struttura (struct).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14968,8 +14968,8 @@
       <tuv lang="EN">
         <seg>Boolean that specifies if the filter strings are interpreted as regular expressions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190530T154721Z" creationid="steevie" creationdate="20160517T133748Z">
-        <seg>aaaaaaaaaaaaaaaaaValore booleano che indica se le stringhe filtro sono interpretate come espressioni regolari.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190531T075244Z" creationid="steevie" creationdate="20160517T133748Z">
+        <seg>Valore booleano che indica se le stringhe filtro sono interpretate come espressioni regolari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20176,8 +20176,8 @@
       <tuv lang="EN">
         <seg>Copy filtered results to a different location.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133820Z" creationid="steevie" creationdate="20160517T133820Z">
-        <seg>Copiare risultati filtrati in una diversa posizione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190531T075330Z" creationid="steevie" creationdate="20160517T133820Z">
+        <seg>copiare risultati filtrati in una diversa posizione</seg>
       </tuv>
     </tu>
     <tu>
@@ -37320,8 +37320,8 @@
       <tuv lang="EN">
         <seg>Listing &lt;seq0&gt;18&lt;/seq0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133752Z" creationid="steevie" creationdate="20160517T133752Z">
-        <seg>Listato &lt;seq0&gt;18&lt;/seq0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190531T075257Z" creationid="steevie" creationdate="20160517T133752Z">
+        <seg>Listato &lt;seq0&gt;18&lt;/seq0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -42849,8 +42849,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>REM Column B, Row 4 (remember, start counting with 0)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133957Z" creationid="steevie" creationdate="20160517T133957Z">
-        <seg>REM Colunna B, Riga 4 (ricorda che si inizia a contare da 0)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190531T075650Z" creationid="steevie" creationdate="20160517T133957Z">
+        <seg>REM Colonna B, Riga 4 (ricordate che si inizia a contare da 0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -42865,8 +42865,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>REM Copy the output data rather than filter in place.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160517T133900Z" creationid="steevie" creationdate="20160517T133900Z">
-        <seg>REM Copia i dati di output piuttosto che lasciarli in posto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190531T075504Z" creationid="steevie" creationdate="20160517T133900Z">
+        <seg>REM Copia i dati di output piuttosto che filtrarli nella posizione originale.</seg>
       </tuv>
     </tu>
     <tu>
