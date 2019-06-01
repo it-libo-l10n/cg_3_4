@@ -44513,8 +44513,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Return the value of a cell offset by a certain number of rows and columns from a given reference point.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151030Z" creationid="steevie" creationdate="20160620T151030Z">
-        <seg>Restituisce il valore di una cella che è spostato di un certo numero di righe e colonne da un punto di riferimento dato.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190601T181354Z" creationid="steevie" creationdate="20160620T151030Z">
+        <seg>Restituisce il valore di una cella che è spostata di un certo numero di righe e colonne rispetto a un punto di riferimento dato.</seg>
       </tuv>
     </tu>
     <tu>
