@@ -23544,8 +23544,8 @@
       <tuv lang="EN">
         <seg>Estimate the standard deviation based on a sample.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151130Z" creationid="steevie" creationdate="20160620T151130Z">
-        <seg>Calcola la deviazione standard di un campione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190601T181902Z" creationid="steevie" creationdate="20160620T151130Z">
+        <seg>Stima la deviazione standard a partire da un campione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44441,8 +44441,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Return the product of the cells.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151103Z" creationid="steevie" creationdate="20160620T151103Z">
-        <seg>Calcola il prodotto delle celle.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190601T181609Z" creationid="steevie" creationdate="20160620T151103Z">
+        <seg>Restituisce il prodotto delle celle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46849,8 +46849,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>STDEVA</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151142Z" creationid="steevie" creationdate="20160620T151142Z">
-        <seg>DEV.ST.VALORI</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190601T181907Z" creationid="steevie" creationdate="20160620T151142Z">
+        <seg>aaaaaaaaaaaaaaaaaaaDEV.ST.VALORI</seg>
       </tuv>
     </tu>
     <tu>
