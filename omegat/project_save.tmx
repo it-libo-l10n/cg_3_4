@@ -37608,8 +37608,8 @@
       <tuv lang="EN">
         <seg>MIN</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190531T203357Z" creationid="steevie" creationdate="20160620T150548Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaMIN</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190601T174603Z" creationid="steevie" creationdate="20160620T150548Z">
+        <seg>MIN</seg>
       </tuv>
     </tu>
     <tu>
@@ -44409,8 +44409,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Return the minimum numeric value in a list of arguments.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T150558Z" creationid="steevie" creationdate="20160620T150558Z">
-        <seg>Restituisce il valore minimo in una lista di argomenti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190601T174724Z" creationid="steevie" creationdate="20160620T150558Z">
+        <seg>Restituisce il valore minimo in un elenco di argomenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57458,7 +57458,7 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The value of text is 0.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190531T203353Z" creationid="steevie" creationdate="20160620T150545Z">
+      <tuv lang="IT-IT" changeid="luke" changedate="20190601T174743Z" creationid="steevie" creationdate="20160620T150545Z">
         <seg>Il testo viene considerato come avente valore 0.</seg>
       </tuv>
     </tu>
