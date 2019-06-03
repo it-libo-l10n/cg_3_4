@@ -38352,8 +38352,8 @@
       <tuv lang="EN">
         <seg>Most of the functions in &lt;t0&gt;Table 18&lt;/t0&gt; require no explanation, either because they are well understood (SUM, for example) or because if you need to use them then you know what they are (STDEV, for example).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151830Z" creationid="steevie" creationdate="20160620T151830Z">
-        <seg>La maggior parte delle funzioni in &lt;t0&gt;Tabella 18&lt;/t0&gt; non richiede spiegazioni, o perché sono ben conosciute (ad esempio SOMMA) o perché se le dovete usare, sapete a cosa servono. (ad esempio DEV.ST).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190603T153100Z" creationid="steevie" creationdate="20160620T151830Z">
+        <seg>La maggior parte delle funzioni nella &lt;t0&gt;Tabella 18&lt;/t0&gt; non richiede spiegazioni, o perché sono ben conosciute (ad esempio SOMMA) o perché, se le dovete usare, sapete a cosa servono (ad esempio DEV.ST).</seg>
       </tuv>
     </tu>
     <tu>
@@ -46281,8 +46281,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Returns the value from a different column in the same row.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190603T150700Z" creationid="steevie" creationdate="20160620T151641Z">
-        <seg>aaaaCalcola il valore da una colonna differente nella stessa riga.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190603T152743Z" creationid="steevie" creationdate="20160620T151641Z">
+        <seg>Restituisce il valore da una colonna differente nella stessa riga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62618,8 +62618,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Unfortunately, some of the more useful functions are infrequently used because they are not well understood.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T151907Z" creationid="steevie" creationdate="20160620T151907Z">
-        <seg>Purtroppo, molte delle funzioni più utili sono poco usate perché non ben conosciute.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190603T153102Z" creationid="steevie" creationdate="20160620T151907Z">
+        <seg>aaaaPurtroppo, molte delle funzioni più utili sono poco usate perché non ben conosciute.</seg>
       </tuv>
     </tu>
     <tu>
