@@ -27528,8 +27528,8 @@
       <tuv lang="EN">
         <seg>For each cell in the search range that matches the search criteria, the corresponding cell in the sum range is added into the sum.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153518Z" creationid="steevie" creationdate="20160620T153518Z">
-        <seg>Per ogni cella nell'intervallo di ricerca che corrisponde ai criteri, viene aggiunta alla somma la corrispondente cella nell''intervallo somma.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190604T105408Z" creationid="steevie" creationdate="20160620T153518Z">
+        <seg>aaaaPer ogni cella nell'intervallo di ricerca che corrisponde ai criteri, viene aggiunta alla somma la corrispondente cella nell''intervallo somma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54714,8 +54714,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The first two arguments for SUMIF serve the same purpose as the arguments for COUNTIF; the range that contains the cells to search and the search criteria.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190604T085614Z" creationid="steevie" creationdate="20160620T152449Z">
-        <seg>aaaaI primi due argomenti per SOMMA.SE hanno lo stesso scopo di quelli di CONTA.SE: l'intervallo contenente le celle in cui effettuare la ricerca ed il criterio di ricerca.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190604T105315Z" creationid="steevie" creationdate="20160620T152449Z">
+        <seg>I primi due argomenti di SOMMA.SE hanno lo stesso scopo di quelli di CONTA.SE: l'intervallo contenente le celle in cui effettuare la ricerca e il criterio di ricerca.</seg>
       </tuv>
     </tu>
     <tu>
