@@ -20288,8 +20288,8 @@
       <tuv lang="EN">
         <seg>Count and sum cells that match conditions: &lt;is0/&gt;COUNTIF&lt;ie1/&gt; and &lt;is2/&gt;SUMIF</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190603T160255Z" creationid="steevie" creationdate="20160620T151957Z">
-        <seg>aaaaaaaaaaaaaaaaConta e somma celle in base a determinate condizioni&lt;is0/&gt;CONTA.SE&lt;ie1/&gt; e &lt;is2/&gt;SOMMA.SE</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190604T080558Z" creationid="steevie" creationdate="20160620T151957Z">
+        <seg>Conta e somma celle in base a determinate condizioni: &lt;is0/&gt;CONTA.SE&lt;ie1/&gt; e &lt;is2/&gt;SOMMA.SE</seg>
       </tuv>
     </tu>
     <tu>
@@ -52482,8 +52482,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The COUNTIF and SUMIF functions calculate their values based on search criteria.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T152040Z" creationid="steevie" creationdate="20160620T152040Z">
-        <seg>Le funzioni CONTA.SE e SOMMA.SE calcolano un valore in base ad un criterio di ricerca.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190604T080940Z" creationid="steevie" creationdate="20160620T152040Z">
+        <seg>Le funzioni CONTA.SE e SOMMA.SE calcolano un valore in base a un criterio di ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56650,16 +56650,16 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The search criteria can be a number, expression, text string, or even a regular expression.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T152124Z" creationid="steevie" creationdate="20160620T152114Z">
-        <seg>Il criterio di ricerca può essere un numero, un'espressione, una stringa di testo o anche una espressione regolare.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190604T081057Z" creationid="steevie" creationdate="20160620T152114Z">
+        <seg>Il criterio di ricerca può essere un numero, un'espressione, una stringa di testo o perfino una espressione regolare.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The search criteria can be contained in a referenced cell or it can be included directly in the function call.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T152329Z" creationid="steevie" creationdate="20160620T152120Z">
-        <seg>Il criterio di ricerca può essere contenuto in una cella di riferimento o incluso direttamente nella chiamata di funzione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190604T081100Z" creationid="steevie" creationdate="20160620T152120Z">
+        <seg>aaaaIl criterio di ricerca può essere contenuto in una cella di riferimento o incluso direttamente nella chiamata di funzione.</seg>
       </tuv>
     </tu>
     <tu>
