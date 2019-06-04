@@ -10160,8 +10160,8 @@
       <tuv lang="EN">
         <seg>&lt;t0&gt;Table 19&lt;/t0&gt; illustrates different search criteria using the COUNTIF function referencing the data shown in &lt;t1&gt;Table 13&lt;/t1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T152625Z" creationid="steevie" creationdate="20160620T152625Z">
-        <seg>La &lt;t0&gt;Tabella 19&lt;/t0&gt; mostra differenti criteri di ricerca usando la funzione CONTA.SE in riferimento ai dati che appaiono in &lt;t1&gt;Tabella 13&lt;/t1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190604T083247Z" creationid="steevie" creationdate="20160620T152625Z">
+        <seg>aaaaLa &lt;t0&gt;Tabella 19&lt;/t0&gt; mostra differenti criteri di ricerca usando la funzione CONTA.SE in riferimento ai dati che appaiono in &lt;t1&gt;Tabella 13&lt;/t1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52490,8 +52490,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The COUNTIF function counts the number of cells in a range that match specified criteria.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T152401Z" creationid="steevie" creationdate="20160620T152401Z">
-        <seg>La funzione CONTA.SE conta il numero di celle in un intervallo che corrisponde a determinati criteri.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190604T083111Z" creationid="steevie" creationdate="20160620T152401Z">
+        <seg>La funzione CONTA.SE conta, all'interno di un intervallo, il numero di celle che corrispondono a determinati criteri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56658,8 +56658,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The search criteria can be contained in a referenced cell or it can be included directly in the function call.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190604T081100Z" creationid="steevie" creationdate="20160620T152120Z">
-        <seg>aaaaIl criterio di ricerca può essere contenuto in una cella di riferimento o incluso direttamente nella chiamata di funzione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190604T082908Z" creationid="steevie" creationdate="20160620T152120Z">
+        <seg>Il criterio di ricerca può essere contenuto in una cella di riferimento o incluso direttamente nella chiamata di funzione.</seg>
       </tuv>
     </tu>
     <tu>
