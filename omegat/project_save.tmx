@@ -10424,16 +10424,16 @@
       <tuv lang="EN">
         <seg>=COUNTIF(B1:C16; "95")</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153716Z" creationid="steevie" creationdate="20160620T153716Z">
-        <seg>=COUNTIF(B1:C16; "95")</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190604T123446Z" creationid="steevie" creationdate="20160620T153716Z">
+        <seg>=CONTA.SE(B1:C16; "95")</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>=COUNTIF(B1:C16; "&gt;95")</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153744Z" creationid="steevie" creationdate="20160620T153744Z">
-        <seg>=COUNTIF(B1:C16; "&gt;95")</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190604T123525Z" creationid="steevie" creationdate="20160620T153744Z">
+        <seg>aaaa=COUNTIF(B1:C16; "&gt;95")</seg>
       </tuv>
     </tu>
     <tu>
@@ -10448,8 +10448,8 @@
       <tuv lang="EN">
         <seg>=COUNTIF(B1:C16; 95)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190604T111311Z" creationid="steevie" creationdate="20160620T153625Z">
-        <seg>aaaa=COUNTIF(B1:C16; 95)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190604T123126Z" creationid="steevie" creationdate="20160620T153625Z">
+        <seg>=CONTA.SE(B1:C16; 95)</seg>
       </tuv>
     </tu>
     <tu>
