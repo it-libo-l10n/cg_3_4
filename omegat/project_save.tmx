@@ -33424,8 +33424,8 @@
       <tuv lang="EN">
         <seg>Ignore filtered cells using &lt;is0/&gt;SUBTOTAL</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190605T142606Z" creationid="steevie" creationdate="20160620T154121Z">
-        <seg>aaaaIgnora le celle filtrate usando &lt;is0/&gt;SUBTOTAL</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190605T145849Z" creationid="steevie" creationdate="20160620T154121Z">
+        <seg>Ignorare le celle filtrate tramite &lt;is0/&gt;SUBTOTALE</seg>
       </tuv>
     </tu>
     <tu>
@@ -53010,8 +53010,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The SUBTOTAL function applies a function (see &lt;t0&gt;Table 20&lt;/t0&gt;) to a range of data, but it ignores cells hidden by a filter and cells that already contain a SUBTOTAL.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T123937Z" creationid="steevie" creationdate="20160620T154126Z">
-        <seg>La funzione SUBTOTALE  applica una funzione (vedi &lt;t0&gt;Tabella 20&lt;/t0&gt;) ad un intervallo di dati, ma ignora le celle nascoste da un filtro o che già contengono un SUBTOTALE.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190605T145851Z" creationid="steevie" creationdate="20160620T154126Z">
+        <seg>aaaaLa funzione SUBTOTALE  applica una funzione (vedi &lt;t0&gt;Tabella 20&lt;/t0&gt;) ad un intervallo di dati, ma ignora le celle nascoste da un filtro o che già contengono un SUBTOTALE.</seg>
       </tuv>
     </tu>
     <tu>
