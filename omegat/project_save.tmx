@@ -10648,8 +10648,8 @@
       <tuv lang="EN">
         <seg>=SUMIF(A1:A16; "B.*"; B1:B16)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190605T133121Z" creationid="steevie" creationdate="20160620T154010Z">
-        <seg>aaaa=SUMIF(A1:A16; "B.*"; B1:B16)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190605T142400Z" creationid="steevie" creationdate="20160620T154010Z">
+        <seg>=SOMMA.SE(A1:A16; "B.*"; B1:B16)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10816,8 +10816,8 @@
       <tuv lang="EN">
         <seg>A &lt;s0/&gt;starting with the letter B.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T154055Z" creationid="steevie" creationdate="20160620T154055Z">
-        <seg>A &lt;s0/&gt;Che iniziano con la lettera B.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190605T142541Z" creationid="steevie" creationdate="20160620T154055Z">
+        <seg>A &lt;s0/&gt;che iniziano con la lettera B.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33424,8 +33424,8 @@
       <tuv lang="EN">
         <seg>Ignore filtered cells using &lt;is0/&gt;SUBTOTAL</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T154121Z" creationid="steevie" creationdate="20160620T154121Z">
-        <seg>Ignora le celle filtrate usando &lt;is0/&gt;SUBTOTAL</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190605T142606Z" creationid="steevie" creationdate="20160620T154121Z">
+        <seg>aaaaIgnora le celle filtrate usando &lt;is0/&gt;SUBTOTAL</seg>
       </tuv>
     </tu>
     <tu>
@@ -51241,8 +51241,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Sum Column B for names in Col.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T154041Z" creationid="steevie" creationdate="20160620T154041Z">
-        <seg>Somma la colonna B per nomi in Col.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190605T142517Z" creationid="steevie" creationdate="20160620T154041Z">
+        <seg>Somma la colonna B per i nomi in Col.</seg>
       </tuv>
     </tu>
     <tu>
