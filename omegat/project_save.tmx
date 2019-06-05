@@ -10456,8 +10456,8 @@
       <tuv lang="EN">
         <seg>=COUNTIF(B1:C16; B3)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153922Z" creationid="steevie" creationdate="20160620T153922Z">
-        <seg>=COUNTIF(B1:C16; B3)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190605T132959Z" creationid="steevie" creationdate="20160620T153922Z">
+        <seg>=CONTA.SE(B1:C16; B3)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10648,8 +10648,8 @@
       <tuv lang="EN">
         <seg>=SUMIF(A1:A16; "B.*"; B1:B16)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T154010Z" creationid="steevie" creationdate="20160620T154010Z">
-        <seg>=SUMIF(A1:A16; "B.*"; B1:B16)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190605T133121Z" creationid="steevie" creationdate="20160620T154010Z">
+        <seg>aaaa=SUMIF(A1:A16; "B.*"; B1:B16)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27128,16 +27128,16 @@
       <tuv lang="EN">
         <seg>Finds a number or number and text depending on the data type in cell B3.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T154009Z" creationid="steevie" creationdate="20160620T154009Z">
-        <seg>Trova un valore numerico o numerico e testuale, a seconda del tipo di dato in B3.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190605T133109Z" creationid="steevie" creationdate="20160620T154009Z">
+        <seg>Trova un valore numerico o numerico e testuale, a seconda del tipo di dati nella cella B3.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Finds numbers or text that start with 9.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190605T121247Z" creationid="steevie" creationdate="20160620T153846Z">
-        <seg>aaaaTrova valori numerici o testuali di che iniziano per 9.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190605T132813Z" creationid="steevie" creationdate="20160620T153846Z">
+        <seg>Trova valori numerici o testuali che iniziano per 9.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43673,8 +43673,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Reference a cell</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160620T153921Z" creationid="steevie" creationdate="20160620T153849Z">
-        <seg>Cella di riferimento</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190605T132933Z" creationid="steevie" creationdate="20160620T153849Z">
+        <seg>Riferimento a una cella</seg>
       </tuv>
     </tu>
     <tu>
