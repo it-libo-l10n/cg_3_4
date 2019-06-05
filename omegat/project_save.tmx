@@ -20288,8 +20288,8 @@
       <tuv lang="EN">
         <seg>Count and sum cells that match conditions: &lt;is0/&gt;COUNTIF&lt;ie1/&gt; and &lt;is2/&gt;SUMIF</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190604T080558Z" creationid="steevie" creationdate="20160620T151957Z">
-        <seg>Conta e somma celle in base a determinate condizioni: &lt;is0/&gt;CONTA.SE&lt;ie1/&gt; e &lt;is2/&gt;SOMMA.SE</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190605T145915Z" creationid="steevie" creationdate="20160620T151957Z">
+        <seg>Contare e sommare celle in base a determinate condizioni: &lt;is0/&gt;CONTA.SE&lt;ie1/&gt; e &lt;is2/&gt;SOMMA.SE</seg>
       </tuv>
     </tu>
     <tu>
@@ -27616,8 +27616,8 @@
       <tuv lang="EN">
         <seg>For example, &lt;f1&gt;=SUBTOTAL(2, "B2:B16")&lt;/f1&gt; counts the number of cells in B2:B16 that are not hidden by a filter.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T124029Z" creationid="steevie" creationdate="20161010T124029Z">
-        <seg>Ad esempio, &lt;f1&gt;=SUBTOTALE(2, "B2:B16")&lt;/f1&gt; conta il numero di celle in B2:B16 che non sono nascoste da un filtro.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190605T150550Z" creationid="steevie" creationdate="20161010T124029Z">
+        <seg>aaaaAd esempio, &lt;f1&gt;=SUBTOTALE(2, "B2:B16")&lt;/f1&gt; conta il numero di celle in B2:B16 che non sono nascoste da un filtro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53010,8 +53010,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The SUBTOTAL function applies a function (see &lt;t0&gt;Table 20&lt;/t0&gt;) to a range of data, but it ignores cells hidden by a filter and cells that already contain a SUBTOTAL.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190605T145851Z" creationid="steevie" creationdate="20160620T154126Z">
-        <seg>aaaaLa funzione SUBTOTALE  applica una funzione (vedi &lt;t0&gt;Tabella 20&lt;/t0&gt;) ad un intervallo di dati, ma ignora le celle nascoste da un filtro o che già contengono un SUBTOTALE.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190605T150547Z" creationid="steevie" creationdate="20160620T154126Z">
+        <seg>La funzione SUBTOTALE applica una funzione (vedete la &lt;t0&gt;Tabella 20&lt;/t0&gt;) a un intervallo di dati, ma ignora le celle nascoste da un filtro e le celle che già contengono un SUBTOTALE.</seg>
       </tuv>
     </tu>
     <tu>
