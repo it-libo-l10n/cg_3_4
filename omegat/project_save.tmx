@@ -27624,8 +27624,8 @@
       <tuv lang="EN">
         <seg>For example, &lt;f1&gt;B3:G10&lt;/f1&gt; searches the same sheet containing the VLOOKUP formula and &lt;f2&gt;Sheet2.B3:G10&lt;/f2&gt; searches the range B3:G10 on the sheet named Sheet2.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190607T103643Z" creationid="steevie" creationdate="20161010T133031Z">
-        <seg>aaaaAd esempio, &lt;f1&gt;B3:G10&lt;/f1&gt; cerca nello stesso foglio contenente la formula CERCA.VERT e &lt;f2&gt;Sheet2.B3:G10&lt;/f2&gt; cerca nell'intervallo B3:G10 del foglio chiamato Foglio2.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190607T122021Z" creationid="steevie" creationdate="20161010T133031Z">
+        <seg>Ad esempio, &lt;f1&gt;B3:G10&lt;/f1&gt; cerca nello stesso foglio contenente la formula CERCA.VERT e &lt;f2&gt;Foglio2.B3:G10&lt;/f2&gt; cerca nell'intervallo B3:G10 del foglio chiamato Foglio2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52250,8 +52250,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The &lt;f0&gt;return_column_index&lt;/f0&gt; identifies the column to return; a value of 1 returns the first column in the range.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T133528Z" creationid="steevie" creationdate="20161010T133241Z">
-        <seg>L'&lt;f0&gt;indice&lt;/f0&gt; identifica la colonna da restituire; il valore 1 mostra la prima colonna nell'intervallo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190607T122224Z" creationid="steevie" creationdate="20161010T133241Z">
+        <seg>L'&lt;f0&gt;indice&lt;/f0&gt; identifica la colonna da restituire; il valore 1 restituisce la prima colonna nell'intervallo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57090,8 +57090,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The statement &lt;f1&gt;=VLOOKUP("Bob"; A1:G9; 1)&lt;/f1&gt; finds the first row in A1:G9 containing the text &lt;f2&gt;Bob,&lt;/f2&gt; and returns the value in the first column.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161201T161753Z" creationid="steevie" creationdate="20161010T133349Z">
-        <seg>L'espressione&lt;f1&gt;=CERCA.VERT("Bob"; A1:G9; 1)&lt;/f1&gt; cerca la prima riga in A1:G9 contenente il testo &lt;f2&gt;Bianca,&lt;/f2&gt; e mostra il valore nella prima colonna.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190607T122226Z" creationid="steevie" creationdate="20161010T133349Z">
+        <seg>aaaaL'espressione&lt;f1&gt;=CERCA.VERT("Bob"; A1:G9; 1)&lt;/f1&gt; cerca la prima riga in A1:G9 contenente il testo &lt;f2&gt;Bianca,&lt;/f2&gt; e mostra il valore nella prima colonna.</seg>
       </tuv>
     </tu>
     <tu>
