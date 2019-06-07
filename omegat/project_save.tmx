@@ -27992,8 +27992,8 @@
       <tuv lang="EN">
         <seg>For example, searching for 7 in (3, 5, 10) returns 5 because 7 is between 5 and 10.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190607T141202Z" creationid="steevie" creationdate="20161010T134726Z">
-        <seg>aaaaAd esempio, cercare 7 in (3, 5, 10) ritorna 5 perché 7 si trova fra 5 e 10.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190607T141921Z" creationid="steevie" creationdate="20161010T134726Z">
+        <seg>Ad esempio, la ricerca di 7 in (3, 5, 10) restituisce 5 perché 7 si trova fra 5 e 10.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47361,8 +47361,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Searching for 27 returns 10, and searching for 2 returns #N/A because there is no match and no value less than 2.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T134828Z" creationid="steevie" creationdate="20161010T134828Z">
-        <seg>Cercare 27 ritorna 10, e cercare 2 restituisce #N/D perché non vi è né una corrispondenza, né un valore minore di 2.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190607T141952Z" creationid="steevie" creationdate="20161010T134828Z">
+        <seg>aaaaLa ricerca di 27 ritorna 10, mentre la ricerca di 2 restituisce #N/D perché non vi è né una corrispondenza, né un valore minore di 2.</seg>
       </tuv>
     </tu>
     <tu>
