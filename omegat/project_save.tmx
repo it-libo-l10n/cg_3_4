@@ -54578,8 +54578,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The first argument, &lt;f0&gt;search_value&lt;/f0&gt;, identifies the value to find.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T132421Z" creationid="steevie" creationdate="20161010T132421Z">
-        <seg>Il primo argomento, &lt;f0&gt;criterio_ricerca&lt;/f0&gt;, identifica il valore da cercare.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190607T073245Z" creationid="steevie" creationdate="20161010T132421Z">
+        <seg>aaaaIl primo argomento, &lt;f0&gt;criterio_ricerca&lt;/f0&gt;, identifica il valore da cercare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64322,16 +64322,16 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>VLOOKUP(search_value; search_range; return_column_index)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190606T160342Z" creationid="steevie" creationdate="20161010T132334Z">
-        <seg>aaaaaaaaaaaaaaaaCERCA.VERT(Criterio_ricerca; matrice; indice)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190607T072348Z" creationid="steevie" creationdate="20161010T132334Z">
+        <seg>CERCA.VERT(criterio_ricerca; matrice; indice)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>VLOOKUP(search_value; search_range; return_column_index; sort_order)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T133546Z" creationid="steevie" creationdate="20161010T132351Z">
-        <seg>CERCA.VERT(Criterio_ricerca; matrice; indice, ordinato)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190607T073243Z" creationid="steevie" creationdate="20161010T132351Z">
+        <seg>CERCA.VERT(criterio_ricerca; matrice; indice; ordinato)</seg>
       </tuv>
     </tu>
     <tu>
