@@ -54618,8 +54618,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The first column is the searched column, so the text &lt;f3&gt;Bob&lt;/f3&gt; is returned.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161201T161742Z" creationid="steevie" creationdate="20161010T133426Z">
-        <seg>La prima colonna è quella in cui avviene la ricerca, così viene restituito il testo &lt;f3&gt;Bianca&lt;/f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190607T125739Z" creationid="steevie" creationdate="20161010T133426Z">
+        <seg>aaaaLa prima colonna è quella in cui avviene la ricerca, così viene restituito il testo &lt;f3&gt;Bianca&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57090,8 +57090,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The statement &lt;f1&gt;=VLOOKUP("Bob"; A1:G9; 1)&lt;/f1&gt; finds the first row in A1:G9 containing the text &lt;f2&gt;Bob,&lt;/f2&gt; and returns the value in the first column.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190607T122226Z" creationid="steevie" creationdate="20161010T133349Z">
-        <seg>aaaaL'espressione&lt;f1&gt;=CERCA.VERT("Bob"; A1:G9; 1)&lt;/f1&gt; cerca la prima riga in A1:G9 contenente il testo &lt;f2&gt;Bianca,&lt;/f2&gt; e mostra il valore nella prima colonna.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190607T125737Z" creationid="steevie" creationdate="20161010T133349Z">
+        <seg>L'espressione &lt;f1&gt;=CERCA.VERT("Bianca"; A1:G9; 1)&lt;/f1&gt; cerca la prima riga in A1:G9 contenente il testo &lt;f2&gt;Bianca&lt;/f2&gt;, e restituisce il valore nella prima colonna.</seg>
       </tuv>
     </tu>
     <tu>
