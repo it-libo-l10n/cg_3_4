@@ -11328,8 +11328,8 @@
       <tuv lang="EN">
         <seg>A more efficient search routine is used if the data is sorted in ascending order.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T134508Z" creationid="steevie" creationdate="20161010T134508Z">
-        <seg>Un metodo di ricerca più efficiente viene usato se i dati sono ordinati con ordine crescente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190607T140248Z" creationid="steevie" creationdate="20161010T134508Z">
+        <seg>Se i dati sono ordinati in ordine crescente viene usato un metodo di ricerca più efficiente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31160,8 +31160,8 @@
       <tuv lang="EN">
         <seg>If an exact match is not found, the text &lt;f2&gt;#N/A&lt;/f2&gt; is returned.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190607T134923Z" creationid="steevie" creationdate="20161010T134110Z">
-        <seg>aaaaSe non viene trovata la corrispondenza esatta appare il testo &lt;f2&gt;#N/D&lt;/f2&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190607T135812Z" creationid="steevie" creationdate="20161010T134110Z">
+        <seg>Se non viene trovata la corrispondenza esatta appare il testo &lt;f2&gt;#N/D&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31400,8 +31400,8 @@
       <tuv lang="EN">
         <seg>If one exact match exists, the returned value is the same as for a non-sorted list; but it is faster.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T134602Z" creationid="steevie" creationdate="20161010T134602Z">
-        <seg>Se esiste una corrispondenza esatta, il valore restituito è lo stesso che per una lista non ordinata, ma la ricerca più veloce.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190607T140251Z" creationid="steevie" creationdate="20161010T134602Z">
+        <seg>aaaaSe esiste una corrispondenza esatta, il valore restituito è lo stesso che per una lista non ordinata, ma la ricerca più veloce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54130,8 +54130,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The default value for &lt;f1&gt;sort_order&lt;/f1&gt; is 1, which specifies that the first column is sorted in ascending order; a value of 0 specifies that the data is not sorted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190607T131930Z" creationid="steevie" creationdate="20161010T133818Z">
-        <seg>Il valore predefinito per &lt;f1&gt;ordinato&lt;/f1&gt; è 1, che indica che la prima colonna è ordinata con ordine crescente; il valore 0 indica che i dati non sono ordinati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190607T135852Z" creationid="steevie" creationdate="20161010T133818Z">
+        <seg>Il valore predefinito per &lt;f1&gt;ordinato&lt;/f1&gt; è 1, che indica che la prima colonna è ordinata in ordine crescente; il valore 0 indica che i dati non sono ordinati.</seg>
       </tuv>
     </tu>
     <tu>
