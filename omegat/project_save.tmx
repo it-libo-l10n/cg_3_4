@@ -27632,8 +27632,8 @@
       <tuv lang="EN">
         <seg>For example, &lt;f1&gt;Fred&lt;/f1&gt; searches for the text Fred, &lt;f2&gt;4&lt;/f2&gt; searches for the number 4, and &lt;f3&gt;F.*&lt;/f3&gt; is the regular expression for finding something that starts with the letter F.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190607T092556Z" creationid="steevie" creationdate="20161010T132543Z">
-        <seg>Ad esempio, &lt;f1&gt;Francesco&lt;/f1&gt; cerca il testo Francesco, &lt;f2&gt;4&lt;/f2&gt; cerca il numero 4, e &lt;f3&gt;F.*&lt;/f3&gt; è una espressione regolare che permette di trovare ciò che comincia con la lettera F.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190607T130606Z" creationid="steevie" creationdate="20161010T132543Z">
+        <seg>Ad esempio, &lt;f1&gt;Federico&lt;/f1&gt; cerca il testo Federico, &lt;f2&gt;4&lt;/f2&gt; cerca il numero 4, e &lt;f3&gt;F.*&lt;/f3&gt; è una espressione regolare che permette di trovare ciò che comincia con la lettera F.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31680,8 +31680,8 @@
       <tuv lang="EN">
         <seg>If the column index is 2, then the value in the cell to the right of Bob is returned: column B.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161201T162832Z" creationid="steevie" creationdate="20161010T133517Z">
-        <seg>Se indice è 2, viene mostrato il valore della cella alla destra di Bianca: colonna B.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190607T130812Z" creationid="steevie" creationdate="20161010T133517Z">
+        <seg>Se l'indice è 2, viene restituito il valore della cella alla destra di Roberto: colonna B.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54130,8 +54130,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The default value for &lt;f1&gt;sort_order&lt;/f1&gt; is 1, which specifies that the first column is sorted in ascending order; a value of 0 specifies that the data is not sorted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T133818Z" creationid="steevie" creationdate="20161010T133818Z">
-        <seg>Il valore standard per &lt;f1&gt;ordinato&lt;/f1&gt; è 1, che indica che la prima colonna è ordinata con ordine crescente; il valore 0 indica che i dati non sono ordinati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190607T130844Z" creationid="steevie" creationdate="20161010T133818Z">
+        <seg>aaaaIl valore standard per &lt;f1&gt;ordinato&lt;/f1&gt; è 1, che indica che la prima colonna è ordinata con ordine crescente; il valore 0 indica che i dati non sono ordinati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54618,8 +54618,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The first column is the searched column, so the text &lt;f3&gt;Bob&lt;/f3&gt; is returned.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190607T125739Z" creationid="steevie" creationdate="20161010T133426Z">
-        <seg>aaaaLa prima colonna è quella in cui avviene la ricerca, così viene restituito il testo &lt;f3&gt;Bianca&lt;/f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190607T130524Z" creationid="steevie" creationdate="20161010T133426Z">
+        <seg>La prima colonna è quella in cui avviene la ricerca, quindi viene restituito il testo &lt;f3&gt;Roberto&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57090,8 +57090,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The statement &lt;f1&gt;=VLOOKUP("Bob"; A1:G9; 1)&lt;/f1&gt; finds the first row in A1:G9 containing the text &lt;f2&gt;Bob,&lt;/f2&gt; and returns the value in the first column.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190607T125737Z" creationid="steevie" creationdate="20161010T133349Z">
-        <seg>L'espressione &lt;f1&gt;=CERCA.VERT("Bianca"; A1:G9; 1)&lt;/f1&gt; cerca la prima riga in A1:G9 contenente il testo &lt;f2&gt;Bianca&lt;/f2&gt;, e restituisce il valore nella prima colonna.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190607T130515Z" creationid="steevie" creationdate="20161010T133349Z">
+        <seg>L'espressione &lt;f1&gt;=CERCA.VERT("Roberto"; A1:G9; 1)&lt;/f1&gt; cerca la prima riga in A1:G9 contenente il testo &lt;f2&gt;Roberto&lt;/f2&gt;, e restituisce il valore nella prima colonna.</seg>
       </tuv>
     </tu>
     <tu>
