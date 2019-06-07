@@ -11416,8 +11416,8 @@
       <tuv lang="EN">
         <seg>A non-sorted list is searched by sequentially checking every cell in the first column for an exact match.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T133940Z" creationid="steevie" creationdate="20161010T133940Z">
-        <seg>La ricerca in una lista non ordinata avviene controllando in sequenza ogni cella della prima colonna per una corrispondenza esatta.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190607T131936Z" creationid="steevie" creationdate="20161010T133940Z">
+        <seg>aaaaLa ricerca in una lista non ordinata avviene controllando in sequenza ogni cella della prima colonna per una corrispondenza esatta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54130,8 +54130,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The default value for &lt;f1&gt;sort_order&lt;/f1&gt; is 1, which specifies that the first column is sorted in ascending order; a value of 0 specifies that the data is not sorted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190607T130844Z" creationid="steevie" creationdate="20161010T133818Z">
-        <seg>aaaaIl valore standard per &lt;f1&gt;ordinato&lt;/f1&gt; è 1, che indica che la prima colonna è ordinata con ordine crescente; il valore 0 indica che i dati non sono ordinati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190607T131930Z" creationid="steevie" creationdate="20161010T133818Z">
+        <seg>Il valore predefinito per &lt;f1&gt;ordinato&lt;/f1&gt; è 1, che indica che la prima colonna è ordinata con ordine crescente; il valore 0 indica che i dati non sono ordinati.</seg>
       </tuv>
     </tu>
     <tu>
