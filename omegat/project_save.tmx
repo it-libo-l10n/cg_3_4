@@ -27632,8 +27632,8 @@
       <tuv lang="EN">
         <seg>For example, &lt;f1&gt;Fred&lt;/f1&gt; searches for the text Fred, &lt;f2&gt;4&lt;/f2&gt; searches for the number 4, and &lt;f3&gt;F.*&lt;/f3&gt; is the regular expression for finding something that starts with the letter F.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151222Z" creationid="steevie" creationdate="20161010T132543Z">
-        <seg>Ad esempio, &lt;f1&gt;Francesco&lt;/f1&gt; cerca il testo Francesco, &lt;f2&gt;4&lt;/f2&gt; cerca il numero 4, e &lt;f3&gt;F.*&lt;/f3&gt; è l'espressione regolare per trovare qualcosa che comincia con la lettera F.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190607T090053Z" creationid="steevie" creationdate="20161010T132543Z">
+        <seg>aaaaAd esempio, &lt;f1&gt;Francesco&lt;/f1&gt; cerca il testo Francesco, &lt;f2&gt;4&lt;/f2&gt; cerca il numero 4, e &lt;f3&gt;F.*&lt;/f3&gt; è l'espressione regolare per trovare qualcosa che comincia con la lettera F.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54578,8 +54578,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The first argument, &lt;f0&gt;search_value&lt;/f0&gt;, identifies the value to find.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190607T073245Z" creationid="steevie" creationdate="20161010T132421Z">
-        <seg>aaaaIl primo argomento, &lt;f0&gt;criterio_ricerca&lt;/f0&gt;, identifica il valore da cercare.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190607T090009Z" creationid="steevie" creationdate="20161010T132421Z">
+        <seg>Il primo argomento, &lt;f0&gt;criterio_ricerca&lt;/f0&gt;, identifica il valore da cercare.</seg>
       </tuv>
     </tu>
     <tu>
