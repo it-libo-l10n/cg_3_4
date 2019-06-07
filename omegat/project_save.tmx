@@ -47361,8 +47361,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Searching for 27 returns 10, and searching for 2 returns #N/A because there is no match and no value less than 2.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190607T141952Z" creationid="steevie" creationdate="20161010T134828Z">
-        <seg>aaaaLa ricerca di 27 ritorna 10, mentre la ricerca di 2 restituisce #N/D perché non vi è né una corrispondenza, né un valore minore di 2.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190607T145903Z" creationid="steevie" creationdate="20161010T134828Z">
+        <seg>La ricerca di 27 restituisce 10, mentre la ricerca di 2 restituisce #N/D perché non vi è una corrispondenza né un valore minore di 2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53906,8 +53906,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The data is arranged in rows and you want to return data from the same row.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T134910Z" creationid="steevie" creationdate="20161010T134910Z">
-        <seg>I dati sono disposti in righe e volete trovare dati all'interno della stessa riga.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190607T145938Z" creationid="steevie" creationdate="20161010T134910Z">
+        <seg>aaaaaaaaaaaaaaaaaaI dati sono disposti in righe e volete trovare dati all'interno della stessa riga.</seg>
       </tuv>
     </tu>
     <tu>
