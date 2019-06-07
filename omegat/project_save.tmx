@@ -27992,8 +27992,8 @@
       <tuv lang="EN">
         <seg>For example, searching for 7 in (3, 5, 10) returns 5 because 7 is between 5 and 10.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T134726Z" creationid="steevie" creationdate="20161010T134726Z">
-        <seg>Ad esempio, cercare 7 in (3, 5, 10) ritorna 5 perché 7 si trova fra 5 e 10.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190607T141202Z" creationid="steevie" creationdate="20161010T134726Z">
+        <seg>aaaaAd esempio, cercare 7 in (3, 5, 10) ritorna 5 perché 7 si trova fra 5 e 10.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31064,8 +31064,8 @@
       <tuv lang="EN">
         <seg>If a match does not exist, the largest value in the column that is less than or equal to the search value is returned.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T134655Z" creationid="steevie" creationdate="20161010T134655Z">
-        <seg>Se una corrispondenza non esiste, viene restituito il valore più elevato nella colonna che è minore o uguale al valore ricercato.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190607T141200Z" creationid="steevie" creationdate="20161010T134655Z">
+        <seg>Se non esiste alcuna corrispondenza, viene restituito il valore più elevato nella colonna che è minore o uguale al valore ricercato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31400,8 +31400,8 @@
       <tuv lang="EN">
         <seg>If one exact match exists, the returned value is the same as for a non-sorted list; but it is faster.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190607T140251Z" creationid="steevie" creationdate="20161010T134602Z">
-        <seg>aaaaSe esiste una corrispondenza esatta, il valore restituito è lo stesso che per una lista non ordinata, ma la ricerca più veloce.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190607T140736Z" creationid="steevie" creationdate="20161010T134602Z">
+        <seg>Se esiste una corrispondenza esatta, il valore restituito è lo stesso che per una lista non ordinata, ma la ricerca è più veloce.</seg>
       </tuv>
     </tu>
     <tu>
