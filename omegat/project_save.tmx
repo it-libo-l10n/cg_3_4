@@ -29848,24 +29848,24 @@
       <tuv lang="EN">
         <seg>HLOOKUP supports the same form and arguments as VLOOKUP:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190610T144704Z" creationid="steevie" creationdate="20161010T135935Z">
-        <seg>aaaaCERCA.ORIZZ supporta la stessa forma e argomenti di CERCA.VERT:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190610T152653Z" creationid="steevie" creationdate="20161010T135935Z">
+        <seg>CERCA.ORIZZ supporta la stessa forma e argomenti di CERCA.VERT:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>HLOOKUP(search_value; search_range; return_row_index)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T135946Z" creationid="steevie" creationdate="20161010T135946Z">
-        <seg>CERCA.ORIZZ(Criterio_ricerca; matrice; indice)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190610T153413Z" creationid="steevie" creationdate="20161010T135946Z">
+        <seg>CERCA.ORIZZ(criterio_ricerca; matrice; indice)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>HLOOKUP(search_value; search_range; return_row_index; sort_order)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T140020Z" creationid="steevie" creationdate="20161010T140020Z">
-        <seg>CERCA.ORIZZ(Criterio_ricerca; matrice; indice, ordinato)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190610T153452Z" creationid="steevie" creationdate="20161010T140020Z">
+        <seg>CERCA.ORIZZ(criterio_ricerca; matrice; indice; ordinato)</seg>
       </tuv>
     </tu>
     <tu>
@@ -53898,8 +53898,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The data is arranged in columns and you want to return data from the same column.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T140059Z" creationid="steevie" creationdate="20161010T140059Z">
-        <seg>I dati sono disposti in colonne e volete trovare dati all'interno della stessa colonna.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190610T153544Z" creationid="steevie" creationdate="20161010T140059Z">
+        <seg>aaaaI dati sono disposti in colonne e volete trovare dati all'interno della stessa colonna.</seg>
       </tuv>
     </tu>
     <tu>
