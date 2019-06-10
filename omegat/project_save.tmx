@@ -47289,8 +47289,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Search a block of data using &lt;is0/&gt;HLOOKUP</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T135811Z" creationid="steevie" creationdate="20161010T135811Z">
-        <seg>Ricerca in un blocco di dati usando&lt;is0/&gt;CERCA.ORIZZ</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190610T135148Z" creationid="steevie" creationdate="20161010T135811Z">
+        <seg>Ricerca in un blocco di dati usando &lt;is0/&gt;CERCA.ORIZZ</seg>
       </tuv>
     </tu>
     <tu>
@@ -47377,8 +47377,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Searching the first column of a range of data.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T135038Z" creationid="steevie" creationdate="20161010T135038Z">
-        <seg>Volete trovare la prima riga in un intervallo di dati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190610T134914Z" creationid="steevie" creationdate="20161010T135038Z">
+        <seg>Volete trovare la prima colonna in un intervallo di dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53906,8 +53906,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The data is arranged in rows and you want to return data from the same row.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190607T145938Z" creationid="steevie" creationdate="20161010T134910Z">
-        <seg>aaaaaaaaaaaaaaaaaaI dati sono disposti in righe e volete trovare dati all'interno della stessa riga.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190610T134637Z" creationid="steevie" creationdate="20161010T134910Z">
+        <seg>I dati sono disposti in righe e volete trovare dati all'interno della stessa riga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62986,8 +62986,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Use HLOOKUP to search the first row (rows are horizontal) of a block of data and return the value from a row in the same column.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T135909Z" creationid="steevie" creationdate="20161010T135909Z">
-        <seg>Usate CERCA.ORIZZ per ricercare la prima riga (le righe sono orizzontali) di un blocco di dati e restituire il valore di un'altra riga nella stessa colonna.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190610T135151Z" creationid="steevie" creationdate="20161010T135909Z">
+        <seg>aaaaUsate CERCA.ORIZZ per ricercare la prima riga (le righe sono orizzontali) di un blocco di dati e restituire il valore di un'altra riga nella stessa colonna.</seg>
       </tuv>
     </tu>
     <tu>
