@@ -36832,8 +36832,8 @@
       <tuv lang="EN">
         <seg>LOOKUP is similar to HLOOKUP and VLOOKUP.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190610T154626Z" creationid="steevie" creationdate="20161010T140709Z">
-        <seg>aaaaCERCA è simile a CERCA.ORIZZ e CERCA.VERT.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190610T155124Z" creationid="steevie" creationdate="20161010T140709Z">
+        <seg>CERCA è simile a CERCA.ORIZZ e CERCA.VERT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36848,16 +36848,16 @@
       <tuv lang="EN">
         <seg>LOOKUP(search_value; search_range)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T140822Z" creationid="steevie" creationdate="20161010T140822Z">
-        <seg>CERCA(Criterio_ricerca; vettore)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190610T155811Z" creationid="steevie" creationdate="20161010T140822Z">
+        <seg>CERCA(criterio_ricerca; vettore)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>LOOKUP(search_value; search_range; return_range)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T141825Z" creationid="steevie" creationdate="20161010T140836Z">
-        <seg>CERCA(Criterio_ricerca; vettore; intervallo_ritorno)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190610T160059Z" creationid="steevie" creationdate="20161010T140836Z">
+        <seg>CERCA(criterio_ricerca; vettore; risultato)</seg>
       </tuv>
     </tu>
     <tu>
@@ -56730,16 +56730,16 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The search range for the LOOKUP function is a single sorted row or column.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T140738Z" creationid="steevie" creationdate="20161010T140738Z">
-        <seg>L'intervallo di ricerca per la funzione CERCA è una singola riga o colonna ordinate.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190610T155307Z" creationid="steevie" creationdate="20161010T140738Z">
+        <seg>L'intervallo di ricerca per la funzione CERCA è una singola riga o colonna ordinata.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The search range, however, must be a single row or a single column; for example, A7:A12 (values in column A) or C5:Q5 (values in row 5).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T141024Z" creationid="steevie" creationdate="20161010T141024Z">
-        <seg>Il vettore, tuttavia, dev'essere una singola riga o colonna ad esempio A7:A12 (valori nella colonna A) o C5:Q5 (valori nella riga 5).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190610T160133Z" creationid="steevie" creationdate="20161010T141024Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaIl vettore, tuttavia, dev'essere una singola riga o colonna ad esempio A7:A12 (valori nella colonna A) o C5:Q5 (valori nella riga 5).</seg>
       </tuv>
     </tu>
     <tu>
