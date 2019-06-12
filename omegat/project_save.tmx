@@ -10024,8 +10024,8 @@
       <tuv lang="EN">
         <seg>&lt;s0/&gt;Using LOOKUP without a return range is the same as using HLOOKUP or VLOOKUP with a column index of 1.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190612T074112Z" creationid="steevie" creationdate="20161010T141128Z">
-        <seg>aaaa&lt;s0/&gt;Usare CERCA senza risultato_restituito è come usare CERCA.ORIZZ o CERCA.VERT con un indice di colonna di 1. </seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190612T084730Z" creationid="steevie" creationdate="20161010T141128Z">
+        <seg>&lt;s0/&gt;L'utilizzo di CERCA senza risultato equivale all'utilizzo di CERCA.ORIZZ o CERCA.VERT con un indice di colonna di 1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31984,8 +31984,8 @@
       <tuv lang="EN">
         <seg>If the search value is found in the fourth cell in the search range, then the value in the fourth cell in the return range is returned.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T142035Z" creationid="steevie" creationdate="20161010T142035Z">
-        <seg>Se il valore da ricercare è trovato nella quarta cella dell'intervallo di ricerca, viene restituito il valore della quarta cella nell'intervallo di ritorno.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190612T085645Z" creationid="steevie" creationdate="20161010T142035Z">
+        <seg>Se il criterio di ricerca viene trovato nella quarta cella nel vettore, verrà restituito il valore della quarta cella nel risultato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34168,8 +34168,8 @@
       <tuv lang="EN">
         <seg>In other words, the search range can be a row and the return range may be a column.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T142208Z" creationid="steevie" creationdate="20161010T142208Z">
-        <seg>In altre parole, l'intervallo di ricerca può essere una riga e quello di ritorno può essere una colonna.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190612T090253Z" creationid="steevie" creationdate="20161010T142208Z">
+        <seg>In altre parole, il vettore può essere una riga e il risultato può essere una colonna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56586,16 +56586,16 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The return range can have a different orientation than the search range.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T142122Z" creationid="steevie" creationdate="20161010T142122Z">
-        <seg>L'intervallo di ritorno può avere un differente allineamento che nell'intervallo di ricerca.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190612T090115Z" creationid="steevie" creationdate="20161010T142122Z">
+        <seg>Il risultato può avere un differente orientamento rispetto al vettore.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The return range must be a single row or column containing the same number of elements as the search range.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T141923Z" creationid="steevie" creationdate="20161010T141809Z">
-        <seg>L'intervallo di ritorno dev'essere una singola riga o colonna contenente lo stesso numero di elementi dell'intervallo di ricerca.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190612T085447Z" creationid="steevie" creationdate="20161010T141809Z">
+        <seg>Il risultato dev'essere una singola riga o una singola colonna contenente lo stesso numero di elementi del vettore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56698,8 +56698,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The search data is sorted in ascending order.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T142300Z" creationid="steevie" creationdate="20161010T142300Z">
-        <seg>I dati in cui ricercare sono ordinati in maniera crescente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190612T090318Z" creationid="steevie" creationdate="20161010T142300Z">
+        <seg>aaaaI dati in cui ricercare sono ordinati in maniera crescente.</seg>
       </tuv>
     </tu>
     <tu>
