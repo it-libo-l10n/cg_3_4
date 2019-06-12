@@ -10576,16 +10576,16 @@
       <tuv lang="EN">
         <seg>=MATCH(search_value; search_range)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T134737Z" creationid="steevie" creationdate="20161130T134606Z">
-        <seg>=CONFRONTA(Criterio_ricerca; vettore)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190612T103508Z" creationid="steevie" creationdate="20161130T134606Z">
+        <seg>=CONFRONTA(criterio_ricerca; vettore)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>=MATCH(search_value; search_range; search_type)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T134906Z" creationid="steevie" creationdate="20161130T134735Z">
-        <seg>=CONFRONTA(Criterio_ricerca; vettore, tipo)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190612T103514Z" creationid="steevie" creationdate="20161130T134735Z">
+        <seg>=CONFRONTA(criterio_ricerca; vettore, tipo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -57146,8 +57146,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The supported forms for MATCH are as follows:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190612T100949Z" creationid="steevie" creationdate="20161130T134544Z">
-        <seg>aaaaLe forme di utilizzo per CONFRONTA sono le seguenti:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190612T103501Z" creationid="steevie" creationdate="20161130T134544Z">
+        <seg>Le forme di utilizzo per CONFRONTA sono le seguenti:</seg>
       </tuv>
     </tu>
     <tu>
