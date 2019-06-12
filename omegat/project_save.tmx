@@ -11568,24 +11568,24 @@
       <tuv lang="EN">
         <seg>A search type of -1 indicates that the list is sorted in descending order.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T135148Z" creationid="steevie" creationdate="20161130T135148Z">
-        <seg>Una ricerca di tipo -1 indica che la lista è ordinata in ordine discendente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190612T143605Z" creationid="steevie" creationdate="20161130T135148Z">
+        <seg>La ricerca di tipo -1 indica che l'elenco è ordinato in modo decrescente.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>A search type of 0 indicates that the list is not sorted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T135206Z" creationid="steevie" creationdate="20161130T135206Z">
-        <seg>Una ricerca di tipo 0 indica che la lista non è ordinata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190612T143651Z" creationid="steevie" creationdate="20161130T135206Z">
+        <seg>Una ricerca di tipo 0 indica che l'elenco non è ordinato.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>A search type of 1, sorted in ascending order, is the default.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190612T141043Z" creationid="steevie" creationdate="20161130T135108Z">
-        <seg>aaaaLa ricerca di tipo 1, ordinare in ordine ascendente, è quella predefinita.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190612T143439Z" creationid="steevie" creationdate="20161130T135108Z">
+        <seg>La ricerca di tipo 1, con ordinamento in modo crescente, è quella predefinita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43825,8 +43825,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Regular expressions can only be used on an unsorted list.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T135231Z" creationid="steevie" creationdate="20161130T135231Z">
-        <seg>Le espressioni regolari possono essere usate solo in una lista non ordinata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190612T143653Z" creationid="steevie" creationdate="20161130T135231Z">
+        <seg>aaaaLe espressioni regolari possono essere usate solo in una lista non ordinata.</seg>
       </tuv>
     </tu>
     <tu>
