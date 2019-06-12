@@ -10576,16 +10576,16 @@
       <tuv lang="EN">
         <seg>=MATCH(search_value; search_range)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190612T103508Z" creationid="steevie" creationdate="20161130T134606Z">
-        <seg>=CONFRONTA(criterio_ricerca; vettore)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190612T122149Z" creationid="steevie" creationdate="20161130T134606Z">
+        <seg>=CONFRONTA(criterio_ricerca; matrice)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>=MATCH(search_value; search_range; search_type)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190612T103514Z" creationid="steevie" creationdate="20161130T134735Z">
-        <seg>=CONFRONTA(criterio_ricerca; vettore, tipo)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190612T122606Z" creationid="steevie" creationdate="20161130T134735Z">
+        <seg>=CONFRONTA(criterio_ricerca; matrice; tipo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -56778,8 +56778,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The search value and search range are the same as for LOOKUP.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T135002Z" creationid="steevie" creationdate="20161130T135002Z">
-        <seg>Il criterio di ricerca ed il vettore sono gli stessi di CERCARE.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190612T122608Z" creationid="steevie" creationdate="20161130T135002Z">
+        <seg>aaaaIl criterio di ricerca ed il vettore sono gli stessi di CERCARE.</seg>
       </tuv>
     </tu>
     <tu>
