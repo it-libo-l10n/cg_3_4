@@ -10024,8 +10024,8 @@
       <tuv lang="EN">
         <seg>&lt;s0/&gt;Using LOOKUP without a return range is the same as using HLOOKUP or VLOOKUP with a column index of 1.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T141326Z" creationid="steevie" creationdate="20161010T141128Z">
-        <seg>&lt;s0/&gt;Usare CERCA senza risultato_restituito è come usare CERCA.ORIZZ o CERCA.VERT con un indice di colonna di 1. </seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190612T074112Z" creationid="steevie" creationdate="20161010T141128Z">
+        <seg>aaaa&lt;s0/&gt;Usare CERCA senza risultato_restituito è come usare CERCA.ORIZZ o CERCA.VERT con un indice di colonna di 1. </seg>
       </tuv>
     </tu>
     <tu>
@@ -31960,8 +31960,8 @@
       <tuv lang="EN">
         <seg>If the return_range is omitted, the matched value is returned.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161010T141845Z" creationid="steevie" creationdate="20161010T141059Z">
-        <seg>Se l'intervallo di ritorno è omesso, viene restituito il valore corrispondente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190612T074110Z" creationid="steevie" creationdate="20161010T141059Z">
+        <seg>Se il risultato è omesso, viene restituito il valore corrispondente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56738,8 +56738,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The search range, however, must be a single row or a single column; for example, A7:A12 (values in column A) or C5:Q5 (values in row 5).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190610T160133Z" creationid="steevie" creationdate="20161010T141024Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaIl vettore, tuttavia, dev'essere una singola riga o colonna ad esempio A7:A12 (valori nella colonna A) o C5:Q5 (valori nella riga 5).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190612T073934Z" creationid="steevie" creationdate="20161010T141024Z">
+        <seg>Il vettore, tuttavia, deve essere una singola riga o una singola colonna; ad esempio A7:A12 (valori nella colonna A) o C5:Q5 (valori nella riga 5).</seg>
       </tuv>
     </tu>
     <tu>
