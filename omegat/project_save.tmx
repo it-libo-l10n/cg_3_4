@@ -14192,8 +14192,8 @@
       <tuv lang="EN">
         <seg>Assume that a score less than 51 is an F, less than 61 is an E, less than 71 is a D, less than 81 is a C, less than 91 is a B, and 91 to 100 is an A. Assume that the values in &lt;t0&gt;Table 21&lt;/t0&gt; are in Sheet2.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190613T100326Z" creationid="steevie" creationdate="20161130T145932Z">
-        <seg>aaaaSupponete che un punteggio sotto i 51 punti sia una F, sotto i 61 una E, sotto i 71 una D, sotto gli 81 una C, sotto 91 una B e tra 91 e 100 una A. Supponete che i valori &lt;t0&gt;Tabella 21&lt;/t0&gt; siano nel Foglio2.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T103429Z" creationid="steevie" creationdate="20161130T145932Z">
+        <seg>Supponete che un punteggio sotto i 51 punti sia una F, sotto 61 una E, sotto 71 una D, sotto 81 una C, sotto 91 una B e tra 91 e 100 una A. Supponete che i valori nella &lt;t0&gt;Tabella 21&lt;/t0&gt; si trovino nel Foglio2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22096,8 +22096,8 @@
       <tuv lang="EN">
         <seg>Dollar signs are used so that the formula can be copied and pasted to a different location and it will still reference the same values in &lt;t1&gt;Table 21&lt;/t1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T150907Z" creationid="steevie" creationdate="20161130T150907Z">
-        <seg>I segni di dollaro sono usati affinché la formula possa essere copiata ed incollata in una posizione differente e continuare a riferirsi agli stessi valori in &lt;t1&gt;Tabella 21&lt;/t1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T103545Z" creationid="steevie" creationdate="20161130T150907Z">
+        <seg>aaaaI segni di dollaro sono usati affinché la formula possa essere copiata ed incollata in una posizione differente e continuare a riferirsi agli stessi valori in &lt;t1&gt;Tabella 21&lt;/t1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54850,8 +54850,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The formula &lt;f0&gt;=VLOOKUP(83; $Sheet2.$A$2:$B$7; 2)&lt;/f0&gt; is an obvious solution.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T150136Z" creationid="steevie" creationdate="20161130T150136Z">
-        <seg>La formula &lt;f0&gt;=CERCA.VERT(83; $Sheet2.$A$2:$B$7; 2)&lt;/f0&gt; è una soluzione ovvia.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T103543Z" creationid="steevie" creationdate="20161130T150136Z">
+        <seg>La formula &lt;f0&gt;=CERCA.VERT(83; $Foglio2.$A$2:$B$7; 2)&lt;/f0&gt; è una soluzione ovvia.</seg>
       </tuv>
     </tu>
     <tu>
