@@ -11936,8 +11936,8 @@
       <tuv lang="EN">
         <seg>ADDRESS(row; column; abs)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T152222Z" creationid="steevie" creationdate="20161130T151916Z">
-        <seg>INDIRIZZO(riga; colonna; ASS)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T145605Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>aaaaINDIRIZZO(riga; colonna; ASS)</seg>
       </tuv>
     </tu>
     <tu>
@@ -57138,7 +57138,7 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The supported forms for ADDRESS are as follows:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T152147Z" creationid="steevie" creationdate="20161130T151916Z">
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T145529Z" creationid="steevie" creationdate="20161130T151916Z">
         <seg>Le forme di utilizzo per INDIRIZZO sono le seguenti:</seg>
       </tuv>
     </tu>
@@ -62970,8 +62970,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Use ADDRESS to return a text representation of a cell address based on the row, column, and sheet; ADDRESS is frequently used with MATCH.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190613T130001Z" creationid="steevie" creationdate="20161130T151337Z">
-        <seg>aaaaPotete usare INDIRIZZO per ottenere la rappresentazione testuale dell'indirizzo di una cella in base a riga, colonna e foglio; INDIRIZZO viene spesso usata con CONFRONTARE.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T145433Z" creationid="steevie" creationdate="20161130T151337Z">
+        <seg>Potete usare INDIRIZZO per ottenere una rappresentazione testuale dell'indirizzo di una cella in base a riga, colonna e foglio; INDIRIZZO viene spesso usato insieme a CONFRONTA.</seg>
       </tuv>
     </tu>
     <tu>
