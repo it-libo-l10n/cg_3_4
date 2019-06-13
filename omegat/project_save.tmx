@@ -22808,8 +22808,8 @@
       <tuv lang="EN">
         <seg>Each student’s information is stored in a single row.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190612T155906Z" creationid="steevie" creationdate="20161130T142840Z">
-        <seg>aaaaaaaaaaaaaaaaaTutte le informazioni per ogni studente sono salvate in una singola riga.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T083334Z" creationid="steevie" creationdate="20161130T142840Z">
+        <seg>Le informazioni relative a ciascuno studente sono salvate in una singola riga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23456,8 +23456,8 @@
       <tuv lang="EN">
         <seg>Equally obvious is &lt;f3&gt;=LOOKUP("Fred"; A2:A16; F2:F16)&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151306Z" creationid="steevie" creationdate="20161130T143328Z">
-        <seg>Altrettanto ovvia è &lt;f3&gt;=CONFRONTA("Francesco"; A2:A16; F2:F16)&lt;/f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T084957Z" creationid="steevie" creationdate="20161130T143328Z">
+        <seg>altrettanto ovvia è &lt;f3&gt;=CERCA("Federico"; A2:A16; F2:F16)&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55762,8 +55762,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The obvious solution is &lt;f2&gt;=VLOOKUP("Fred"; A2:G16; 6)&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151254Z" creationid="steevie" creationdate="20161130T143302Z">
-        <seg>La soluzione più ovvia è &lt;f2&gt;=CERCA.VERT("Francesco"; A2:G16; 6)&lt;/f2&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T084759Z" creationid="steevie" creationdate="20161130T143302Z">
+        <seg>La soluzione più ovvia è &lt;f2&gt;=CERCA.VERT("Federico"; A2:G16; 6)&lt;/f2&gt;;</seg>
       </tuv>
     </tu>
     <tu>
@@ -56130,8 +56130,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The problem can be restated as Search column A in the range A1:G16 for Fred and return the value in column F (column F is the sixth column).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151240Z" creationid="steevie" creationdate="20161130T143239Z">
-        <seg>Il problema può essere riformulato come Cerca nell intervallo A1:G16 Francesco nella colonna A e riporta Il valore nella colonna F (la colonna F è la sesta colonna).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T084602Z" creationid="steevie" creationdate="20161130T143239Z">
+        <seg>Il problema può essere riformulato come ricerca, nell'intervallo A1:G16, del nome Francesco nella colonna A e restituzione del valore nella colonna F (che corrisponde alla sesta colonna).</seg>
       </tuv>
     </tu>
     <tu>
@@ -64666,8 +64666,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>What if the column heading &lt;f0&gt;Average&lt;/f0&gt; is known, but not the column containing the average?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T143947Z" creationid="steevie" creationdate="20161130T143809Z">
-        <seg>Cosa succed se l'intestazione &lt;f0&gt;Media&lt;/f0&gt; è conosciuta, ma la colonna contenente la media non lo è?</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T083832Z" creationid="steevie" creationdate="20161130T143809Z">
+        <seg>Cosa succede se l'intestazione &lt;f0&gt;Media&lt;/f0&gt; è conosciuta, ma la colonna contenente la media non lo è?</seg>
       </tuv>
     </tu>
     <tu>
@@ -66202,8 +66202,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Write a formula to return the average grade for Fred.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151234Z" creationid="steevie" creationdate="20161130T142928Z">
-        <seg>Scrivi una formula che riporti il voto medio di Francesco.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T083630Z" creationid="steevie" creationdate="20161130T142928Z">
+        <seg>Verrà scritta una formula che restituirà il voto medio di Federico.</seg>
       </tuv>
     </tu>
     <tu>
