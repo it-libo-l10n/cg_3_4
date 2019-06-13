@@ -11952,8 +11952,8 @@
       <tuv lang="EN">
         <seg>ADDRESS&lt;ie0/&gt; returns a string with a cell’s address</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T152013Z" creationid="steevie" creationdate="20161130T151135Z">
-        <seg>INDIRIZZO&lt;ie0/&gt; ritorna una stringa con il riferimento ad una cella</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T121005Z" creationid="steevie" creationdate="20161130T151135Z">
+        <seg>aaaaINDIRIZZO&lt;ie0/&gt; ritorna una stringa con il riferimento ad una cella</seg>
       </tuv>
     </tu>
     <tu>
@@ -14160,8 +14160,8 @@
       <tuv lang="EN">
         <seg>Associate scores to a grade.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T150933Z" creationid="steevie" creationdate="20161130T150933Z">
-        <seg>Associare punteggi ad un voto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T120815Z" creationid="steevie" creationdate="20161130T150933Z">
+        <seg>associazione di punteggi a un voto</seg>
       </tuv>
     </tu>
     <tu>
@@ -22096,8 +22096,8 @@
       <tuv lang="EN">
         <seg>Dollar signs are used so that the formula can be copied and pasted to a different location and it will still reference the same values in &lt;t1&gt;Table 21&lt;/t1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190613T103908Z" creationid="steevie" creationdate="20161130T150907Z">
-        <seg>aaaaI segni di dollaro sono usati affinché la formula possa essere copiata e incollata in una posizione differente e continuare a riferirsi agli stessi valori in &lt;t1&gt;Tabella 21&lt;/t1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T120651Z" creationid="steevie" creationdate="20161130T150907Z">
+        <seg>I segni di dollaro sono usati affinché la formula possa essere copiata e incollata in una posizione differente senza perdere i riferimenti ai valori nella &lt;t1&gt;Tabella 21&lt;/t1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47273,8 +47273,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Score</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151000Z" creationid="steevie" creationdate="20161130T151000Z">
-        <seg>Punteggi</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T120825Z" creationid="steevie" creationdate="20161130T151000Z">
+        <seg>Punteggio</seg>
       </tuv>
     </tu>
     <tu>
@@ -51522,8 +51522,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Table &lt;seq0&gt;21&lt;/seq0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T150913Z" creationid="steevie" creationdate="20161130T150913Z">
-        <seg>Tabella &lt;seq0&gt;21&lt;/seq0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T120656Z" creationid="steevie" creationdate="20161130T150913Z">
+        <seg>Tabella &lt;seq0&gt;21&lt;/seq0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
