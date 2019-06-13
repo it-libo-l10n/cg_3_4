@@ -12784,8 +12784,8 @@
       <tuv lang="EN">
         <seg>All of the search functions check the first row to see if there is a match and then ignore it if it does not contain a match, in case the first row is a header.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T143705Z" creationid="steevie" creationdate="20161130T143705Z">
-        <seg>Tutte le funzioni di ricerca controllano la prima riga per vedere se esiste una corrispondenza, se non viene trovata, la prima riga è un'intestazione e viene ignorata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T085103Z" creationid="steevie" creationdate="20161130T143705Z">
+        <seg>aaaaTutte le funzioni di ricerca controllano la prima riga per vedere se esiste una corrispondenza, se non viene trovata, la prima riga è un'intestazione e viene ignorata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36120,8 +36120,8 @@
       <tuv lang="EN">
         <seg>It is common for the first row in a range to contain column headers.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T143404Z" creationid="steevie" creationdate="20161130T143404Z">
-        <seg>È Normale che la prima riga contenga le intestazioni delle colonne.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T085101Z" creationid="steevie" creationdate="20161130T143404Z">
+        <seg>È normale che la prima riga di un intervallo contenga le intestazioni di colonna.</seg>
       </tuv>
     </tu>
     <tu>
