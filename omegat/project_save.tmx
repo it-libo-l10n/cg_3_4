@@ -11648,8 +11648,8 @@
       <tuv lang="EN">
         <seg>A slight modification using MATCH to find the column yields &lt;s1/&gt;&lt;f2&gt;=VLOOKUP("Fred"; A2:G16; MATCH("Average"; A1:G1; 0))&lt;/f2&gt;; notice that the heading is not sorted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151322Z" creationid="steevie" creationdate="20161130T143904Z">
-        <seg>Una piccola modifca usando CONFRONTA per trovare la colonna porta a &lt;s1/&gt;&lt;f2&gt;=CERCA.VERT("Francesco"; A2:G16; CONFRONTA("Media"; A1:G1; 0))&lt;/f2&gt;; Notate che l'intestazione non è ordinata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T095558Z" creationid="steevie" creationdate="20161130T143904Z">
+        <seg>Una piccola modifica usando CONFRONTA per trovare la colonna porta a &lt;s1/&gt;&lt;f2&gt;=CERCA.VERT("Federico"; A2:G16; CONFRONTA("Media"; A1:G1; 0))&lt;/f2&gt;; notate che l'intestazione non è ordinata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13984,8 +13984,8 @@
       <tuv lang="EN">
         <seg>As a final example, write a formula to assign grades based on a student’s average score.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T145858Z" creationid="steevie" creationdate="20161130T145858Z">
-        <seg>Come esempio finale, scrivete una formula per assegnare i voti in base alla media dello studente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T100324Z" creationid="steevie" creationdate="20161130T145858Z">
+        <seg>Come esempio finale, verrà scritta una formula per assegnare i voti in base a un punteggio medio dello studente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14016,8 +14016,8 @@
       <tuv lang="EN">
         <seg>As an exercise, use HLOOKUP to find Average and then MATCH to find the row containing Fred.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T151330Z" creationid="steevie" creationdate="20161130T145757Z">
-        <seg>Come esercizion usate CERCA.ORIZZ per trovare la media, poi CONFRONTA per trovare la riga contenente Francesco.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T100011Z" creationid="steevie" creationdate="20161130T145757Z">
+        <seg>Come esercizio, usate CERCA.ORIZZ per trovare la media, poi CONFRONTA per trovare la riga contenente il nome Federico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14192,8 +14192,8 @@
       <tuv lang="EN">
         <seg>Assume that a score less than 51 is an F, less than 61 is an E, less than 71 is a D, less than 81 is a C, less than 91 is a B, and 91 to 100 is an A. Assume that the values in &lt;t0&gt;Table 21&lt;/t0&gt; are in Sheet2.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T150113Z" creationid="steevie" creationdate="20161130T145932Z">
-        <seg>Supponete che un punteggio sotto i 51 punti sia una F, sotto i 61 una E, sotto i 71 una D, sotto gli 81 una C, sotto 91 una B e tra 91 e 100 una A. Supponete che i valori &lt;t0&gt;Tabella 21&lt;/t0&gt; siano nel Foglio2.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T100326Z" creationid="steevie" creationdate="20161130T145932Z">
+        <seg>aaaaSupponete che un punteggio sotto i 51 punti sia una F, sotto i 61 una E, sotto i 71 una D, sotto gli 81 una C, sotto 91 una B e tra 91 e 100 una A. Supponete che i valori &lt;t0&gt;Tabella 21&lt;/t0&gt; siano nel Foglio2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64666,8 +64666,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>What if the column heading &lt;f0&gt;Average&lt;/f0&gt; is known, but not the column containing the average?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190613T093902Z" creationid="steevie" creationdate="20161130T143809Z">
-        <seg>aaaaBisogna però chiedersi cosa succede se l'intestazione di colonna &lt;f0&gt;Media&lt;/f0&gt; è conosciuta, ma la colonna contenente la media non lo è.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T094406Z" creationid="steevie" creationdate="20161130T143809Z">
+        <seg>Bisogna però chiedersi cosa succede se l'intestazione di colonna &lt;f0&gt;Media&lt;/f0&gt; è conosciuta, mentre è sconosciuta la colonna contenente la media.</seg>
       </tuv>
     </tu>
     <tu>
