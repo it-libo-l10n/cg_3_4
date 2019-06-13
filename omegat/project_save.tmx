@@ -12784,8 +12784,8 @@
       <tuv lang="EN">
         <seg>All of the search functions check the first row to see if there is a match and then ignore it if it does not contain a match, in case the first row is a header.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190613T085103Z" creationid="steevie" creationdate="20161130T143705Z">
-        <seg>aaaaTutte le funzioni di ricerca controllano la prima riga per vedere se esiste una corrispondenza, se non viene trovata, la prima riga è un'intestazione e viene ignorata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T093802Z" creationid="steevie" creationdate="20161130T143705Z">
+        <seg>Tutte le funzioni di ricerca controllano la prima riga per vedere se esiste una corrispondenza; se non viene trovata, la prima riga viene considerata un'intestazione e viene quindi ignorata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64666,8 +64666,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>What if the column heading &lt;f0&gt;Average&lt;/f0&gt; is known, but not the column containing the average?</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190613T083832Z" creationid="steevie" creationdate="20161130T143809Z">
-        <seg>Cosa succede se l'intestazione &lt;f0&gt;Media&lt;/f0&gt; è conosciuta, ma la colonna contenente la media non lo è?</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T093902Z" creationid="steevie" creationdate="20161130T143809Z">
+        <seg>aaaaBisogna però chiedersi cosa succede se l'intestazione di colonna &lt;f0&gt;Media&lt;/f0&gt; è conosciuta, ma la colonna contenente la media non lo è.</seg>
       </tuv>
     </tu>
     <tu>
