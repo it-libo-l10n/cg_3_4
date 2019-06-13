@@ -11936,16 +11936,16 @@
       <tuv lang="EN">
         <seg>ADDRESS(row; column; abs)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190613T145605Z" creationid="steevie" creationdate="20161130T151916Z">
-        <seg>aaaaINDIRIZZO(riga; colonna; ASS)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T145847Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>INDIRIZZO(riga; colonna; ass)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>ADDRESS(row; column; abs; sheet)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T163803Z" creationid="Marco Marega" creationdate="20160820T163803Z">
-        <seg>INDIRIZZO(riga; colonna; ASS; foglio)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T145928Z" creationid="Marco Marega" creationdate="20160820T163803Z">
+        <seg>INDIRIZZO(riga; colonna; ass; foglio)</seg>
       </tuv>
     </tu>
     <tu>
@@ -56618,8 +56618,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The row and column are integer values where ADDRESS(1; 1) returns &lt;f0&gt;$A$1&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T152329Z" creationid="steevie" creationdate="20161130T151916Z">
-        <seg>Riga e colonna sono valori interi mentre INDIRIZZO(1; 1) ritorna &lt;f0&gt;$A$1&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190613T145931Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>aaaaRiga e colonna sono valori interi mentre INDIRIZZO(1; 1) ritorna &lt;f0&gt;$A$1&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
