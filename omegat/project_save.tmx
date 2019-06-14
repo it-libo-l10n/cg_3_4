@@ -16040,8 +16040,8 @@
       <tuv lang="EN">
         <seg>Calc supports numerous powerful functions that are not discussed here.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T153002Z" creationid="steevie" creationdate="20161130T152705Z">
-        <seg>Calc supporta molte importanti funzioni che non sono presentate qui.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190614T093659Z" creationid="steevie" creationdate="20161130T152705Z">
+        <seg>aaaaCalc supporta molte importanti funzioni che non sono presentate qui.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56962,8 +56962,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The sheet is &lt;s2/&gt;included as part of the address only if the sheet argument is used.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190614T090947Z" creationid="steevie" creationdate="20161130T152530Z">
-        <seg>aaaaIl foglio è &lt;s2/&gt;incluso come parte dell'indirizzo solo se  si usa l'argomento foglio .</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190614T093235Z" creationid="steevie" creationdate="20161130T152530Z">
+        <seg>Il foglio è &lt;s2/&gt;incluso come parte dell'indirizzo solo se si usa l'argomento foglio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63594,8 +63594,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Using &lt;f3&gt;ADDRESS(MATCH("Bob";A1:A5 ; 0); 2)&lt;/f3&gt; with the data in &lt;t4&gt;Table 21&lt;/t4&gt; returns &lt;f5&gt;$B$2.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T152758Z" creationid="steevie" creationdate="20161130T151916Z">
-        <seg>Usare &lt;f3&gt;INDIRIZZO(CONFRONTA("Bianca";A1:A5 ; 0); 2)&lt;/f3&gt; con i dati della &lt;t4&gt;Tabella 21&lt;/t4&gt; ritorna &lt;f5&gt;$B$2.&lt;/f5&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190614T093647Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>L'utilizzo di &lt;f3&gt;INDIRIZZO(CONFRONTA("Roberto";A1:A5 ; 0); 2)&lt;/f3&gt; con i dati della &lt;t4&gt;Tabella 21&lt;/t4&gt; restituirà &lt;f5&gt;$B$2&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
