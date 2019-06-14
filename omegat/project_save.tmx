@@ -4664,16 +4664,16 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;ADDRESS(2; 5; 1)&lt;/f0&gt; returns $E$2.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T153816Z" creationid="steevie" creationdate="20161130T151916Z">
-        <seg>&lt;f0&gt;INDIRIZZO(2; 5; 1)&lt;/f0&gt; ritorna $E$2.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190614T131008Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>&lt;f0&gt;INDIRIZZO(2; 5; 1)&lt;/f0&gt; restituisce $E$2.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;ADDRESS(2; 5; 2; "Blah")&lt;/f0&gt; returns Blah.E$2.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T153905Z" creationid="steevie" creationdate="20161130T151916Z">
-        <seg>&lt;f0&gt;INDIRIZZO(2; 5; 2; "Blah")&lt;/f0&gt; ritorna Blah.E$2.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190614T131132Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>aaaa&lt;f0&gt;INDIRIZZO(2; 5; 2; "Blah")&lt;/f0&gt; ritorna Blah.E$2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28048,8 +28048,8 @@
       <tuv lang="EN">
         <seg>For example, the ROW, COLUMN, ROWS, and COLUMNS statements are not discussed; a curious person would investigate these functions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190614T104436Z" creationid="steevie" creationdate="20161130T153615Z">
-        <seg>aaaaAd esempio RIF.RIGA, RIF.COLONNA, RIGHE e COLONNE non sono trattate, ma potreste comunque investigare queste funzioni per conto vostro.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190614T130506Z" creationid="steevie" creationdate="20161130T153615Z">
+        <seg>Ad esempio RIF.RIGA, RIF.COLONNA, RIGHE e COLONNE non sono trattate, ma potete comunque studiare queste funzioni per conto vostro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51530,8 +51530,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Table &lt;seq0&gt;22&lt;/seq0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T153622Z" creationid="steevie" creationdate="20161130T153622Z">
-        <seg>Tabella &lt;seq0&gt;22&lt;/seq0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190614T130530Z" creationid="steevie" creationdate="20161130T153622Z">
+        <seg>Tabella &lt;seq0&gt;22&lt;/seq0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -58906,8 +58906,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>This is the default value if the argument is missing or an invalid value is used.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T153808Z" creationid="steevie" creationdate="20161130T153716Z">
-        <seg>Questo è il valore standard se l'argomento non è presente o ne è usato uno invalido.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190614T130922Z" creationid="steevie" creationdate="20161130T153716Z">
+        <seg>Questo è il valore predefinito se l'argomento non è presente o se è usato un valore non valido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63082,16 +63082,16 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Use absolute addressing.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T153723Z" creationid="steevie" creationdate="20161130T153713Z">
-        <seg>Usa indirizzo assoluto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190614T130711Z" creationid="steevie" creationdate="20161130T153713Z">
+        <seg>Usa indirizzamento assoluto.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Use an absolute row reference and a relative column reference.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T153857Z" creationid="steevie" creationdate="20161130T153857Z">
-        <seg>Usa un riferimento di riga assoluto ed uno di colonna relativo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190614T131126Z" creationid="steevie" creationdate="20161130T153857Z">
+        <seg>Usa un riferimento di riga assoluto e un riferimento di colonna relativo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64394,8 +64394,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Values supported by the abs argument to ADDRESS.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T153653Z" creationid="steevie" creationdate="20161130T151916Z">
-        <seg>Valori supportati dall'argomento ASS di INDIRIZZO.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190614T130612Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>Valori supportati dall'argomento ASS di INDIRIZZO</seg>
       </tuv>
     </tu>
     <tu>
