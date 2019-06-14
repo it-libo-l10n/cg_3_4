@@ -11936,16 +11936,16 @@
       <tuv lang="EN">
         <seg>ADDRESS(row; column; abs)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190613T145847Z" creationid="steevie" creationdate="20161130T151916Z">
-        <seg>INDIRIZZO(riga; colonna; ass)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190614T090830Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>INDIRIZZO(riga; colonna; ASS)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>ADDRESS(row; column; abs; sheet)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190613T145928Z" creationid="Marco Marega" creationdate="20160820T163803Z">
-        <seg>INDIRIZZO(riga; colonna; ass; foglio)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190614T090835Z" creationid="Marco Marega" creationdate="20160820T163803Z">
+        <seg>INDIRIZZO(riga; colonna; ASS; foglio)</seg>
       </tuv>
     </tu>
     <tu>
@@ -53154,8 +53154,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The abs argument specifies which portion is considered absolute and which portion is considered relative (see &lt;t1&gt;Table 22&lt;/t1&gt;); an absolute address is specified using the $ character.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T152445Z" creationid="steevie" creationdate="20161130T152445Z">
-        <seg>L'argomento ASS specifica quale parte è da considerare assoluta e quale relativa (vedi &lt;t1&gt;Tabella 22&lt;/t1&gt;); un indirizzo assoluto è indicato dal carattere $.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190614T090945Z" creationid="steevie" creationdate="20161130T152445Z">
+        <seg>L'argomento ASS specifica quale parte è da considerare assoluta e quale relativa (vedete la &lt;t1&gt;Tabella 22&lt;/t1&gt;); un indirizzo assoluto è indicato dal carattere $.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56618,8 +56618,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The row and column are integer values where ADDRESS(1; 1) returns &lt;f0&gt;$A$1&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190613T154533Z" creationid="steevie" creationdate="20161130T151916Z">
-        <seg>aaaaaaaaaaaaaaaaRiga e colonna sono valori interi mentre INDIRIZZO(1; 1) ritorna &lt;f0&gt;$A$1&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190614T090626Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>Riga e colonna sono valori interi; INDIRIZZO(1; 1) restituisce &lt;f0&gt;$A$1&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56962,8 +56962,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The sheet is &lt;s2/&gt;included as part of the address only if the sheet argument is used.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T152530Z" creationid="steevie" creationdate="20161130T152530Z">
-        <seg>Il foglio è &lt;s2/&gt;incluso come parte dell'indirizzo solo se  si usa l'argomento foglio .</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190614T090947Z" creationid="steevie" creationdate="20161130T152530Z">
+        <seg>aaaaIl foglio è &lt;s2/&gt;incluso come parte dell'indirizzo solo se  si usa l'argomento foglio .</seg>
       </tuv>
     </tu>
     <tu>
