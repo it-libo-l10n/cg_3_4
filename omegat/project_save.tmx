@@ -4672,24 +4672,24 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;ADDRESS(2; 5; 2; "Blah")&lt;/f0&gt; returns Blah.E$2.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190614T131132Z" creationid="steevie" creationdate="20161130T151916Z">
-        <seg>aaaa&lt;f0&gt;INDIRIZZO(2; 5; 2; "Blah")&lt;/f0&gt; ritorna Blah.E$2.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190614T132856Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>&lt;f0&gt;INDIRIZZO(2; 5; 2; "Bianco")&lt;/f0&gt; restituisce Bianco.E$2.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;ADDRESS(2; 5; 3)&lt;/f0&gt; returns $E2.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T153937Z" creationid="steevie" creationdate="20161130T151916Z">
-        <seg>&lt;f0&gt;INDIRIZZO(2; 5; 3)&lt;/f0&gt; ritorna $E2.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190614T133943Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>&lt;f0&gt;INDIRIZZO(2; 5; 3)&lt;/f0&gt; restituisce $E2.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;ADDRESS(2; 5; 4)&lt;/f0&gt; returns E2.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T154039Z" creationid="steevie" creationdate="20161130T151916Z">
-        <seg>&lt;f0&gt;INDIRIZZO(2; 5; 4)&lt;/f0&gt; ritorna E2.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190614T134140Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>&lt;f0&gt;INDIRIZZO(2; 5; 4)&lt;/f0&gt; restituisce E2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30816,8 +30816,8 @@
       <tuv lang="EN">
         <seg>INDIRECT&lt;ie0/&gt; converts a string to a cell or range</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T154211Z" creationid="steevie" creationdate="20161130T154109Z">
-        <seg>INDIRETTO&lt;ie0/&gt; converte una stringa in una cella o intervallo</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190614T134505Z" creationid="steevie" creationdate="20161130T154109Z">
+        <seg>INDIRETTO&lt;ie0/&gt; converte una stringa in una cella o un intervallo</seg>
       </tuv>
     </tu>
     <tu>
@@ -63002,8 +63002,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Use INDIRECT to convert a string representation of a cell or range address to a reference to the cell or range.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T155345Z" creationid="steevie" creationdate="20161130T154110Z">
-        <seg>Usate INDIRETTO per convertire una stringa che rappresenta una cella o intervallo di indirizzi nel riferimento alla cella o all'intervallo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190614T134514Z" creationid="steevie" creationdate="20161130T154110Z">
+        <seg>aaaaPotete usare INDIRETTO per convertire una stringa che rappresenta una cella o intervallo di indirizzi nel riferimento alla cella o all'intervallo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63066,8 +63066,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Use a relative row reference and an absolute column reference.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T153923Z" creationid="steevie" creationdate="20161130T153923Z">
-        <seg>Usa un riferimento di riga relativo ed uno di colonna assoluto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190614T133146Z" creationid="steevie" creationdate="20161130T153923Z">
+        <seg>Usa un riferimento di riga relativo e un riferimento di colonna assoluto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63170,8 +63170,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Use relative addressing.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T153949Z" creationid="steevie" creationdate="20161130T153949Z">
-        <seg>Usa indirizzo relativo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190614T134052Z" creationid="steevie" creationdate="20161130T153949Z">
+        <seg>Usa indirizzamento relativo.</seg>
       </tuv>
     </tu>
     <tu>
