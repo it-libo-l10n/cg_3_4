@@ -10640,8 +10640,8 @@
       <tuv lang="EN">
         <seg>=SUM(OFFSET(INDIRECT(ADDRESS(MATCH("Bob";A1:A16; 0); 4)); 0; 0; 1; 2))</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T163147Z" creationid="steevie" creationdate="20161130T151916Z">
-        <seg>=SOMMA(SCARTO(INDIRETTO(INDIRIZZO(CONFRONTA("Bianca";A1:A16; 0); 4)); 0; 0; 1; 2))</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190615T202245Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>aaaaaaaaaaaaaaaaaa=SOMMA(SCARTO(INDIRETTO(INDIRIZZO(CONFRONTA("Bianca";A1:A16; 0); 4)); 0; 0; 1; 2))</seg>
       </tuv>
     </tu>
     <tu>
@@ -19752,8 +19752,8 @@
       <tuv lang="EN">
         <seg>Complex example of OFFSET.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T163130Z" creationid="steevie" creationdate="20161130T161339Z">
-        <seg>Esempio complesso di SCARTO.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190615T202241Z" creationid="steevie" creationdate="20161130T161339Z">
+        <seg>esempio complesso di SCARTO</seg>
       </tuv>
     </tu>
     <tu>
@@ -37328,8 +37328,8 @@
       <tuv lang="EN">
         <seg>Listing &lt;seq0&gt;19&lt;/seq0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T163010Z" creationid="steevie" creationdate="20161130T163010Z">
-        <seg>Listato &lt;seq0&gt;19&lt;/seq0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190615T202234Z" creationid="steevie" creationdate="20161130T163010Z">
+        <seg>Listato &lt;seq0&gt;19&lt;/seq0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -64178,8 +64178,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Using values from &lt;t0&gt;Table 25&lt;/t0&gt;, &lt;t1&gt;Listing 19&lt;/t1&gt; uses OFFSET to obtain the quiz scores for the student named Bob.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190615T182011Z" creationid="steevie" creationdate="20161130T161339Z">
-        <seg>aaaaUsando i valori della &lt;t0&gt;Tabella 25&lt;/t0&gt;, &lt;t1&gt;il Listato 19&lt;/t1&gt; usa SCARTO per ottenere i punteggi dei quiz della studentessa Bianca.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190615T202230Z" creationid="steevie" creationdate="20161130T161339Z">
+        <seg>Facendo riferimento ai valori della &lt;t0&gt;Tabella 25&lt;/t0&gt;, il &lt;t1&gt;Listato 19&lt;/t1&gt; utilizza SCARTO per ottenere i punteggi dei quiz dello studente Roberto.</seg>
       </tuv>
     </tu>
     <tu>
