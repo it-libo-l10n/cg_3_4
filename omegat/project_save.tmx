@@ -31832,8 +31832,8 @@
       <tuv lang="EN">
         <seg>If the height is present, then a range reference is returned rather than a cell reference.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T162902Z" creationid="steevie" creationdate="20161130T162902Z">
-        <seg>Se l'altezza è specificata, viene restituito come riferimento un intervallo piuttosto che una cella.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190615T182009Z" creationid="steevie" creationdate="20161130T162902Z">
+        <seg>Se l'altezza è specificata, viene restituito un riferimento a un intervallo invece che a una cella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64178,8 +64178,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Using values from &lt;t0&gt;Table 25&lt;/t0&gt;, &lt;t1&gt;Listing 19&lt;/t1&gt; uses OFFSET to obtain the quiz scores for the student named Bob.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T163006Z" creationid="steevie" creationdate="20161130T161339Z">
-        <seg>Usando i valori della &lt;t0&gt;Tabella 25&lt;/t0&gt;, &lt;t1&gt;il Listato 19&lt;/t1&gt; usa SCARTO per ottenere i punteggi dei quiz della studentessa Bianca.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190615T182011Z" creationid="steevie" creationdate="20161130T161339Z">
+        <seg>aaaaUsando i valori della &lt;t0&gt;Tabella 25&lt;/t0&gt;, &lt;t1&gt;il Listato 19&lt;/t1&gt; usa SCARTO per ottenere i punteggi dei quiz della studentessa Bianca.</seg>
       </tuv>
     </tu>
     <tu>
