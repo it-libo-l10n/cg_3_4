@@ -10168,8 +10168,8 @@
       <tuv lang="EN">
         <seg>&lt;t0&gt;Table 23&lt;/t0&gt; contains examples accessing data as shown in &lt;t1&gt;Table 21&lt;/t1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T155641Z" creationid="steevie" creationdate="20161130T155641Z">
-        <seg>La &lt;t0&gt;Tabella 23&lt;/t0&gt; contiene esempi di accesso ai dati mostrati in &lt;t1&gt;Tabella 21&lt;/t1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190615T134124Z" creationid="steevie" creationdate="20161130T155641Z">
+        <seg>La &lt;t0&gt;Tabella 23&lt;/t0&gt; contiene esempi di accesso ai dati mostrati nella &lt;t1&gt;Tabella 21&lt;/t1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51538,8 +51538,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Table &lt;seq0&gt;23&lt;/seq0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T155914Z" creationid="steevie" creationdate="20161130T155914Z">
-        <seg>Tabella &lt;seq0&gt;23&lt;/seq0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190615T134156Z" creationid="steevie" creationdate="20161130T155914Z">
+        <seg>Tabella &lt;seq0&gt;23&lt;/seq0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -63002,8 +63002,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Use INDIRECT to convert a string representation of a cell or range address to a reference to the cell or range.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190614T150855Z" creationid="steevie" creationdate="20161130T154110Z">
-        <seg>aaaaaaaaaaaaaaaaPotete usare INDIRETTO per convertire una stringa che rappresenta una cella o intervallo di indirizzi nel riferimento alla cella o all'intervallo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190615T134007Z" creationid="steevie" creationdate="20161130T154110Z">
+        <seg>Potete usare INDIRETTO per convertire una stringa che rappresenta un indirizzo di una cella o di un intervallo nel riferimento alla cella o all'intervallo.</seg>
       </tuv>
     </tu>
     <tu>
