@@ -39801,8 +39801,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>OFFSET&lt;ie0/&gt; returns a cell or range offset from another</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190615T141620Z" creationid="steevie" creationdate="20161130T161225Z">
-        <seg>aaaaSCARTO&lt;ie0/&gt; ritorna lo spostamento di una cella o intervallo rispetto ad un altro</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190615T152109Z" creationid="steevie" creationdate="20161130T161225Z">
+        <seg>SCARTO&lt;ie0/&gt; restituisce lo spostamento di una cella o di un intervallo rispetto a un altro</seg>
       </tuv>
     </tu>
     <tu>
@@ -63042,8 +63042,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Use OFFSET to return a cell or range offset by a specified number of rows and columns from a given reference point.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T162229Z" creationid="steevie" creationdate="20161130T161252Z">
-        <seg>Usate SCARTO per restituire una cella o  un intervallo che è distante di un certo numero di righe e colonne da un punto di riferimento dato.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190615T152111Z" creationid="steevie" creationdate="20161130T161252Z">
+        <seg>aaaaUsate SCARTO per restituire una cella o  un intervallo che è distante di un certo numero di righe e colonne da un punto di riferimento dato.</seg>
       </tuv>
     </tu>
     <tu>
