@@ -39785,8 +39785,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>OFFSET(reference; rows; columns; height)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T162517Z" creationid="steevie" creationdate="20161130T161339Z">
-        <seg>SCARTO(riferimento; righe; colonne; altezza)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190615T164438Z" creationid="steevie" creationdate="20161130T161339Z">
+        <seg>aaaaSCARTO(riferimento; righe; colonne; altezza)</seg>
       </tuv>
     </tu>
     <tu>
@@ -52898,8 +52898,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The OFFSET function has the following syntax:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190615T162642Z" creationid="steevie" creationdate="20161130T161339Z">
-        <seg>aaaLa funzione SCARTO ha questa sintassi:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190615T164420Z" creationid="steevie" creationdate="20161130T161339Z">
+        <seg>La funzione SCARTO ha la seguente sintassi:</seg>
       </tuv>
     </tu>
     <tu>
