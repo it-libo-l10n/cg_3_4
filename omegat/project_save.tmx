@@ -32112,8 +32112,8 @@
       <tuv lang="EN">
         <seg>If the width or height is included, the OFFSET function returns a range.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T162603Z" creationid="steevie" creationdate="20161130T161339Z">
-        <seg>Se si include larghezza o altezza, la funzione SCARTO ritorna un intervallo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190615T164645Z" creationid="steevie" creationdate="20161130T161339Z">
+        <seg>aaaaSe si include larghezza o altezza, la funzione SCARTO ritorna un intervallo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39785,8 +39785,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>OFFSET(reference; rows; columns; height)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190615T164438Z" creationid="steevie" creationdate="20161130T161339Z">
-        <seg>aaaaSCARTO(riferimento; righe; colonne; altezza)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190615T164556Z" creationid="steevie" creationdate="20161130T161339Z">
+        <seg>SCARTO(riferimento; righe; colonne; altezza)</seg>
       </tuv>
     </tu>
     <tu>
