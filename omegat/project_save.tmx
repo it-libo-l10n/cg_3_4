@@ -10640,8 +10640,8 @@
       <tuv lang="EN">
         <seg>=SUM(OFFSET(INDIRECT(ADDRESS(MATCH("Bob";A1:A16; 0); 4)); 0; 0; 1; 2))</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190615T202245Z" creationid="steevie" creationdate="20161130T151916Z">
-        <seg>aaaaaaaaaaaaaaaaaa=SOMMA(SCARTO(INDIRETTO(INDIRIZZO(CONFRONTA("Bianca";A1:A16; 0); 4)); 0; 0; 1; 2))</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190616T194034Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>=SOMMA(SCARTO(INDIRETTO(INDIRIZZO(CONFRONTA("Roberto";A1:A16; 0); 4)); 0; 0; 1; 2))</seg>
       </tuv>
     </tu>
     <tu>
@@ -15056,8 +15056,8 @@
       <tuv lang="EN">
         <seg>Breakdown of &lt;t1&gt;Listing 19&lt;/t1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T163502Z" creationid="steevie" creationdate="20161130T163502Z">
-        <seg>Scomposizione del &lt;t1&gt;Listato 19&lt;/t1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190616T194346Z" creationid="steevie" creationdate="20161130T163502Z">
+        <seg>scomposizione del &lt;t1&gt;Listato 19&lt;/t1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34040,8 +34040,8 @@
       <tuv lang="EN">
         <seg>In its entirety, &lt;t0&gt;Listing 19&lt;/t0&gt; is complex and difficult to understand.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T163244Z" creationid="steevie" creationdate="20161130T163244Z">
-        <seg>Nella sua completezza, il &lt;t0&gt;Listato 19&lt;/t0&gt; è complesso e difficile da capire.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190616T194213Z" creationid="steevie" creationdate="20161130T163244Z">
+        <seg>Nella sua completezza, il &lt;t0&gt;Listato 19&lt;/t0&gt; è complesso e difficile da comprendere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51546,8 +51546,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Table &lt;seq0&gt;24&lt;/seq0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T163433Z" creationid="steevie" creationdate="20161130T163433Z">
-        <seg>Tabella &lt;seq0&gt;24&lt;/seq0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190616T194337Z" creationid="steevie" creationdate="20161130T163433Z">
+        <seg>Tabella &lt;seq0&gt;24&lt;/seq0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
