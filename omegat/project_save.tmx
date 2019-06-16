@@ -19936,8 +19936,8 @@
       <tuv lang="EN">
         <seg>Convert $D$4 into a reference to the cell D4.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T163622Z" creationid="steevie" creationdate="20161130T163622Z">
-        <seg>Converte $D$4 nel riferimento alla cella D4.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190616T195407Z" creationid="steevie" creationdate="20161130T163622Z">
+        <seg>aaaaConverte $D$4 nel riferimento alla cella D4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37520,8 +37520,8 @@
       <tuv lang="EN">
         <seg>MATCH("Bob";A1:A16; 0)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T163513Z" creationid="steevie" creationdate="20161130T163513Z">
-        <seg>CONFRONTA("Bianca";A1:A16; 0)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190616T195259Z" creationid="steevie" creationdate="20161130T163513Z">
+        <seg>CONFRONTA("Roberto";A1:A16; 0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44273,8 +44273,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Return $D$4.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T163607Z" creationid="steevie" creationdate="20161130T163607Z">
-        <seg>Ritorna $D$4.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190616T195354Z" creationid="steevie" creationdate="20161130T163607Z">
+        <seg>Restituisce $D$4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44297,8 +44297,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Return 4 because Bob is the fourth entry in column A.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T163555Z" creationid="steevie" creationdate="20161130T163555Z">
-        <seg>Ritorna 4 perché Bianca è la quarta voce della colonna A.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190616T195328Z" creationid="steevie" creationdate="20161130T163555Z">
+        <seg>Restituisce 4 perché Roberto è la quarta voce della colonna A.</seg>
       </tuv>
     </tu>
     <tu>
