@@ -15064,8 +15064,8 @@
       <tuv lang="EN">
         <seg>Breakdown of &lt;t1&gt;Listing 20&lt;/t1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T164616Z" creationid="steevie" creationdate="20161130T164616Z">
-        <seg>Scomposizione del &lt;t1&gt;Listato 20&lt;/t1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190619T145646Z" creationid="steevie" creationdate="20161130T164616Z">
+        <seg>scomposizione del &lt;t1&gt;Listato 20&lt;/t1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37528,8 +37528,8 @@
       <tuv lang="EN">
         <seg>MATCH("Bob";A1:A16; 0)-1</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T164629Z" creationid="steevie" creationdate="20161130T164629Z">
-        <seg>CONFRONTA("Bianca";A1:A16; 0)-1</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190619T145812Z" creationid="steevie" creationdate="20161130T164629Z">
+        <seg>CONFRONTA("Roberto";A1:A16; 0)-1</seg>
       </tuv>
     </tu>
     <tu>
@@ -44281,8 +44281,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Return 3 because Bob is the fourth entry in column A.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T164646Z" creationid="steevie" creationdate="20161130T164646Z">
-        <seg>Ritorna 3 perché Bianca è la quarta voce della colonna A.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190619T145859Z" creationid="steevie" creationdate="20161130T164646Z">
+        <seg>Restituisce 3 perché Roberto è la quarta voce della colonna A.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51554,8 +51554,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Table &lt;seq0&gt;25&lt;/seq0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T164606Z" creationid="steevie" creationdate="20161130T164606Z">
-        <seg>Tabella &lt;seq0&gt;25&lt;/seq0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190619T145638Z" creationid="steevie" creationdate="20161130T164606Z">
+        <seg>Tabella &lt;seq0&gt;25&lt;/seq0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -54570,8 +54570,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The first argument to OFFSET can be a range so you can use a defined range name.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T161339Z" creationid="steevie" creationdate="20161130T161339Z">
-        <seg>The first argument to SCARTO can be a range so you can use a defined range name.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190619T150108Z" creationid="steevie" creationdate="20161130T161339Z">
+        <seg>aaaaThe first argument to SCARTO can be a range so you can use a defined range name.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60810,8 +60810,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>To help convince yourself that &lt;t2&gt;Listing 20&lt;/t2&gt; is better than &lt;t3&gt;Listing 19&lt;/t3&gt;, replace A1 with A2 in both &lt;t4&gt;Listing 20&lt;/t4&gt; and &lt;t5&gt;Table 13&lt;/t5&gt; and notice that you still obtain Bob’s quiz scores.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190619T143357Z" creationid="steevie" creationdate="20161130T164419Z">
-        <seg>aaaaPer rendervi conto che il &lt;t2&gt;Listato 20&lt;/t2&gt; è migliore del &lt;t3&gt;Listato 19&lt;/t3&gt;, sostituite A1 con A2 sia nel &lt;t4&gt;Listato 20&lt;/t4&gt; che nella &lt;t5&gt;Tabella 13&lt;/t5&gt; e notate che continuerete ad ottenere i punteggi dei quiz di Roberto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190619T145625Z" creationid="steevie" creationdate="20161130T164419Z">
+        <seg>Per rendervi conto che il &lt;t2&gt;Listato 20&lt;/t2&gt; è migliore del &lt;t3&gt;Listato 19&lt;/t3&gt;, sostituite A1 con A2 sia nel &lt;t4&gt;Listato 20&lt;/t4&gt; che nella &lt;t5&gt;Tabella 13&lt;/t5&gt;; notate che continuerete ad ottenere i punteggi dei quiz di Roberto.</seg>
       </tuv>
     </tu>
     <tu>
