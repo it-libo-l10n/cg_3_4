@@ -30704,8 +30704,8 @@
       <tuv lang="EN">
         <seg>INDEX returns the cells specified by a row and column number.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T164822Z" creationid="steevie" creationdate="20161130T164822Z">
-        <seg>INDICE ritorna le celle indicate da un numero di riga e da uno di colonna.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190619T155139Z" creationid="steevie" creationdate="20161130T164822Z">
+        <seg>INDICE restituisce le celle specificate da un numero di riga e da un numero di colonna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30752,8 +30752,8 @@
       <tuv lang="EN">
         <seg>INDEX&lt;ie0/&gt; returns cells inside a specified range</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190619T152307Z" creationid="steevie" creationdate="20161130T164728Z">
-        <seg>aaaaINDICE&lt;ie0/&gt; ritorna le celle all'interno di uno specifico intervallo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190619T154533Z" creationid="steevie" creationdate="20161130T164728Z">
+        <seg>INDICE&lt;ie0/&gt; restituisce le celle all'interno di uno specifico intervallo</seg>
       </tuv>
     </tu>
     <tu>
@@ -56626,8 +56626,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The row and column number are relative to the upper left corner of the specified reference range.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T164915Z" creationid="steevie" creationdate="20161130T164915Z">
-        <seg>Il numero di riga e colonna sono relativi all'angolo in alto a sinistra dell'intervallo di riferimento indicato.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190619T155315Z" creationid="steevie" creationdate="20161130T164915Z">
+        <seg>aaaaaaaaaaaaaaaaaaIl numero di riga e colonna sono relativi all'angolo in alto a sinistra dell'intervallo di riferimento indicato.</seg>
       </tuv>
     </tu>
     <tu>
