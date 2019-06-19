@@ -30752,8 +30752,8 @@
       <tuv lang="EN">
         <seg>INDEX&lt;ie0/&gt; returns cells inside a specified range</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T164728Z" creationid="steevie" creationdate="20161130T164728Z">
-        <seg>INDICE&lt;ie0/&gt; ritorna le celle all'interno di uno specifico intervallo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190619T152307Z" creationid="steevie" creationdate="20161130T164728Z">
+        <seg>aaaaINDICE&lt;ie0/&gt; ritorna le celle all'interno di uno specifico intervallo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54570,8 +54570,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The first argument to OFFSET can be a range so you can use a defined range name.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190619T152032Z" creationid="steevie" creationdate="20161130T161339Z">
-        <seg>aaaaIl primo argomento di SCARTO può essere un intervallo, quindi potete utilizzare un'area nomi definita.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190619T152304Z" creationid="steevie" creationdate="20161130T161339Z">
+        <seg>Il primo argomento di SCARTO può essere un intervallo, quindi potete utilizzare un nome d'area definito.</seg>
       </tuv>
     </tu>
     <tu>
