@@ -9448,8 +9448,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;ADDRESS(3; 4)&lt;/f2&gt; returns $D$3 rather than $D$4 and Betty’s quiz scores are returned instead of Bob’s.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T164210Z" creationid="steevie" creationdate="20161130T151916Z">
-        <seg>&lt;f2&gt;INDIRIZZO(3; 4)&lt;/f2&gt; ritorna $D$3 e non $D$4, quindi si ottengono i punteggi dei quiz di Betty invece che quelli di Bianca</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190619T103625Z" creationid="steevie" creationdate="20161130T151916Z">
+        <seg>&lt;f2&gt;INDIRIZZO(3; 4)&lt;/f2&gt; restituisce $D$3 invece di $D$4, quindi si ottengono i punteggi dei quiz di Betty invece che quelli di Roberto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10264,8 +10264,8 @@
       <tuv lang="EN">
         <seg>&lt;t3&gt;Listing 20&lt;/t3&gt; uses a slightly different method to obtain Bob’s quiz scores.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T164259Z" creationid="steevie" creationdate="20161130T164259Z">
-        <seg>Il &lt;t3&gt;Listato 20&lt;/t3&gt; usa un metodo leggermente differente per ottenere i punteggi di Bianca.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190619T103239Z" creationid="steevie" creationdate="20161130T164259Z">
+        <seg>aaaaIl &lt;t3&gt;Listato 20&lt;/t3&gt; usa un metodo leggermente differente per ottenere i punteggi di Bianca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19808,8 +19808,8 @@
       <tuv lang="EN">
         <seg>Consider, for example, what happens if the range is changed to A2:A16.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190619T100153Z" creationid="steevie" creationdate="20161130T163834Z">
-        <seg>aaaaConsiderate ad esempio cosa succede cambiando l'intervallo in A2:A16.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190619T102815Z" creationid="steevie" creationdate="20161130T163834Z">
+        <seg>Considerate, ad esempio, cosa succede cambiando l'intervallo in A2:A16.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37512,8 +37512,8 @@
       <tuv lang="EN">
         <seg>MATCH returns an offset into the provided range, so &lt;f1&gt;MATCH("Bob";A2:A16 ; 0)&lt;/f1&gt; returns 3 rather than 4.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T163931Z" creationid="steevie" creationdate="20161130T163931Z">
-        <seg>CONFRONTA ritorna uno spostamento nell'intervallo fornito, così &lt;f1&gt;CONFRONTA("Bianca";A2:A16 ; 0)&lt;/f1&gt; ritorna 3 e non 4.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190619T103023Z" creationid="steevie" creationdate="20161130T163931Z">
+        <seg>CONFRONTA restituisce uno spostamento nell'intervallo dato, quindi &lt;f1&gt;CONFRONTA("Roberto";A2:A16 ; 0)&lt;/f1&gt; restituisce 3 invece di 4.</seg>
       </tuv>
     </tu>
     <tu>
