@@ -10264,8 +10264,8 @@
       <tuv lang="EN">
         <seg>&lt;t3&gt;Listing 20&lt;/t3&gt; uses a slightly different method to obtain Bob’s quiz scores.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190619T103239Z" creationid="steevie" creationdate="20161130T164259Z">
-        <seg>aaaaIl &lt;t3&gt;Listato 20&lt;/t3&gt; usa un metodo leggermente differente per ottenere i punteggi di Bianca.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190619T122520Z" creationid="steevie" creationdate="20161130T164259Z">
+        <seg>Il &lt;t3&gt;Listato 20&lt;/t3&gt; usa un metodo leggermente differente per ottenere i punteggi di Roberto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10624,8 +10624,8 @@
       <tuv lang="EN">
         <seg>=SUM(OFFSET(A1; MATCH("Bob"; A1:A16; 0)-1; 3; 1; 2))</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T164330Z" creationid="steevie" creationdate="20161130T161339Z">
-        <seg>=SOMMA(SCARTO(A1; CONFRONTA("Bianca"; A1:A16; 0)-1; 3; 1; 2))</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190619T122823Z" creationid="steevie" creationdate="20161130T161339Z">
+        <seg>aaaa=SOMMA(SCARTO(A1; CONFRONTA("Bianca"; A1:A16; 0)-1; 3; 1; 2))</seg>
       </tuv>
     </tu>
     <tu>
@@ -14880,8 +14880,8 @@
       <tuv lang="EN">
         <seg>Better use of OFFSET.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T164311Z" creationid="steevie" creationdate="20161130T161339Z">
-        <seg>Miglior uso di SCARTO.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190619T122807Z" creationid="steevie" creationdate="20161130T161339Z">
+        <seg>miglior uso di SCARTO</seg>
       </tuv>
     </tu>
     <tu>
@@ -37344,8 +37344,8 @@
       <tuv lang="EN">
         <seg>Listing &lt;seq0&gt;20&lt;/seq0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T164304Z" creationid="steevie" creationdate="20161130T164304Z">
-        <seg>Listato &lt;seq0&gt;20&lt;/seq0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190619T122759Z" creationid="steevie" creationdate="20161130T164304Z">
+        <seg>Listato &lt;seq0&gt;20&lt;/seq0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
