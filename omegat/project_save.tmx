@@ -10272,8 +10272,8 @@
       <tuv lang="EN">
         <seg>&lt;t3&gt;Table 27&lt;/t3&gt; contains a listing of each function used in &lt;t4&gt;Listing 21&lt;/t4&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190620T095012Z" creationid="steevie" creationdate="20161130T170448Z">
-        <seg>aaaaLa &lt;t3&gt;Tabella 27&lt;/t3&gt; contiene la descrizione di ogni funzione usata nel &lt;t4&gt;Listato 21&lt;/t4&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190620T102809Z" creationid="steevie" creationdate="20161130T170448Z">
+        <seg>La &lt;t3&gt;Tabella 27&lt;/t3&gt; contiene la descrizione di ogni funzione usata nel &lt;t4&gt;Listato 21&lt;/t4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10632,8 +10632,8 @@
       <tuv lang="EN">
         <seg>=SUM(OFFSET(INDEX(A2:G16; MATCH("Bob"; A2:A16; 0)); 0; 3; 1; 2))</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T170533Z" creationid="steevie" creationdate="20161130T161339Z">
-        <seg>=SOMMA(SCARTO(INDICE(A2:G16; CONFRONTA("Bob"; A2:A16; 0)); 0; 3; 1; 2))</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190620T103309Z" creationid="steevie" creationdate="20161130T161339Z">
+        <seg>=SOMMA(SCARTO(INDICE(A2:G16; CONFRONTA("Roberto"; A2:A16; 0)); 0; 3; 1; 2))</seg>
       </tuv>
     </tu>
     <tu>
@@ -15048,8 +15048,8 @@
       <tuv lang="EN">
         <seg>Breakdown of &lt;f1&gt;&lt;t2&gt;Listing 21&lt;/t2&gt;&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T170641Z" creationid="steevie" creationdate="20161130T170553Z">
-        <seg>Scomposizione del &lt;f1&gt;&lt;t2&gt;Listato 21&lt;/t2&gt;&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190620T103621Z" creationid="steevie" creationdate="20161130T170553Z">
+        <seg>scomposizione del &lt;f1&gt;&lt;t2&gt;Listato 21&lt;/t2&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37352,8 +37352,8 @@
       <tuv lang="EN">
         <seg>Listing &lt;seq0&gt;21&lt;/seq0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T170456Z" creationid="steevie" creationdate="20161130T170456Z">
-        <seg>Listato &lt;seq0&gt;21&lt;/seq0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190620T102855Z" creationid="steevie" creationdate="20161130T170456Z">
+        <seg>Listato &lt;seq0&gt;21&lt;/seq0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -37536,8 +37536,8 @@
       <tuv lang="EN">
         <seg>MATCH("Bob";A2:A16; 0)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T170702Z" creationid="steevie" creationdate="20161130T170702Z">
-        <seg>CONFRONTA("Bianca";A2:A16; 0)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190620T103813Z" creationid="steevie" creationdate="20161130T170702Z">
+        <seg>CONFRONTA("Roberto";A2:A16; 0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44289,8 +44289,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Return 3 because Bob is the third entry in column A2:A16.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T170730Z" creationid="steevie" creationdate="20161130T170730Z">
-        <seg>Ritorna 3 perché Bianca è la quarta voce della colonna A2:A16.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190620T103905Z" creationid="steevie" creationdate="20161130T170730Z">
+        <seg>aaaaRestituisce 3 perché Roberto è la terza voce della colonna A2:A16.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44313,8 +44313,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Return Bob’s quiz scores.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T170518Z" creationid="steevie" creationdate="20161130T170518Z">
-        <seg>Ritorna i punteggi di Bianca nei quiz.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190620T103058Z" creationid="steevie" creationdate="20161130T170518Z">
+        <seg>restituzione dei punteggi di Roberto nei quiz</seg>
       </tuv>
     </tu>
     <tu>
@@ -51570,8 +51570,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Table &lt;seq0&gt;27&lt;/seq0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T170538Z" creationid="steevie" creationdate="20161130T170538Z">
-        <seg>Tabella &lt;seq0&gt;27&lt;/seq0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190620T103325Z" creationid="steevie" creationdate="20161130T170538Z">
+        <seg>Tabella &lt;seq0&gt;27&lt;/seq0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
