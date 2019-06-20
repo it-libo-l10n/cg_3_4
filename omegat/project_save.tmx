@@ -11632,8 +11632,8 @@
       <tuv lang="EN">
         <seg>A simple range contains one contiguous rectangular region of cells.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190620T121318Z" creationid="steevie" creationdate="20161130T170905Z">
-        <seg>aaaaUn intervallo semplice contiene una regione rettangolare di celle adiacenti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190620T130841Z" creationid="steevie" creationdate="20161130T170905Z">
+        <seg>Un intervallo semplice contiene una sola regione rettangolare di celle adiacenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31448,8 +31448,8 @@
       <tuv lang="EN">
         <seg>If reference argument to the INDEX function is a multi-range, then the range argument specifies which simple range to use (see &lt;t0&gt;Table 28&lt;/t0&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T171339Z" creationid="steevie" creationdate="20161130T171339Z">
-        <seg>Se l'argomento riferimento della funzione INDICE è un intervallo multiplo, l'argomento area indica quale intervallo semplice da usare (vedi &lt;t0&gt;Tabella 28&lt;/t0&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190620T131248Z" creationid="steevie" creationdate="20161130T171339Z">
+        <seg>aaaaSe l'argomento riferimento della funzione INDICE è un intervallo multiplo, l'argomento area indica quale intervallo semplice da usare (vedi &lt;t0&gt;Tabella 28&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -36264,8 +36264,8 @@
       <tuv lang="EN">
         <seg>It is possible to define a multi-range that contains multiple simple ranges.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T171010Z" creationid="steevie" creationdate="20161130T171010Z">
-        <seg>Si può definire un intervallo multiplo che contiene molti intervalli semplici.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190620T131020Z" creationid="steevie" creationdate="20161130T171010Z">
+        <seg>È possibile definire un intervallo multiplo che contiene più intervalli semplici.</seg>
       </tuv>
     </tu>
     <tu>
