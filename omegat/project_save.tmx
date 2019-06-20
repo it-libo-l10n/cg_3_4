@@ -11552,8 +11552,8 @@
       <tuv lang="EN">
         <seg>A row and column of 1 returns the cell in the upper left corner of the range.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T165446Z" creationid="steevie" creationdate="20161130T165446Z">
-        <seg>Un valore di 1 per riga e colonna ritornano la cella nell'angolo in alto a sinistra dell'intervallo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190620T090711Z" creationid="steevie" creationdate="20161130T165446Z">
+        <seg>Un valore di 1 per riga e colonna restituisce la cella nell'angolo in alto a sinistra dell'intervallo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44337,8 +44337,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Return the cell specified by row and column.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190620T073655Z" creationid="steevie" creationdate="20161130T165402Z">
-        <seg>aaaaRitorna le celle indicate da riga e colonna.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190620T084546Z" creationid="steevie" creationdate="20161130T165402Z">
+        <seg>Restituisce la cella specificata da riga e colonna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52722,8 +52722,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The INDEX function can return an entire range, a row, or a single column (see &lt;t0&gt;Table 26&lt;/t0&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T165652Z" creationid="steevie" creationdate="20161130T165601Z">
-        <seg>La funzione INDICE può ritornare un intero intervallo, una riga o una singola colonna (vedi &lt;t0&gt;Tabella 26&lt;/t0&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190620T091006Z" creationid="steevie" creationdate="20161130T165601Z">
+        <seg>aaaaLa funzione INDICE può ritornare un intero intervallo, una riga o una singola colonna (vedi &lt;t0&gt;Tabella 26&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -56226,8 +56226,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The range argument specifies which range to use.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T165604Z" creationid="steevie" creationdate="20161130T165554Z">
-        <seg>L'argomento area indica che intervallo usare.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190620T091004Z" creationid="steevie" creationdate="20161130T165554Z">
+        <seg>L'argomento area indica quale intervallo usare.</seg>
       </tuv>
     </tu>
     <tu>
