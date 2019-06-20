@@ -44337,8 +44337,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Return the cell specified by row and column.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T165402Z" creationid="steevie" creationdate="20161130T165402Z">
-        <seg>Ritorna le celle indicate da riga e colonna.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190620T073655Z" creationid="steevie" creationdate="20161130T165402Z">
+        <seg>aaaaRitorna le celle indicate da riga e colonna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44369,8 +44369,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Return the entire range.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T165301Z" creationid="steevie" creationdate="20161130T165301Z">
-        <seg>Ritorna tutto l'intervallo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190620T073335Z" creationid="steevie" creationdate="20161130T165301Z">
+        <seg>Restituisce tutto l'intervallo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44473,8 +44473,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Return the specified row in the range.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T165331Z" creationid="steevie" creationdate="20161130T165331Z">
-        <seg>Ritorna la rica indicata all'interno dell'intervallo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190620T073635Z" creationid="steevie" creationdate="20161130T165331Z">
+        <seg>Restituisce la riga indicata all'interno dell'intervallo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51314,8 +51314,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Syntax for INDEX.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T171502Z" creationid="steevie" creationdate="20161130T165056Z">
-        <seg>Sintassi per INDICE.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190620T073136Z" creationid="steevie" creationdate="20161130T165056Z">
+        <seg>sintassi per INDICE</seg>
       </tuv>
     </tu>
     <tu>
@@ -51562,8 +51562,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Table &lt;seq0&gt;26&lt;/seq0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T165047Z" creationid="steevie" creationdate="20161130T165047Z">
-        <seg>Tabella &lt;seq0&gt;26&lt;/seq0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190620T073115Z" creationid="steevie" creationdate="20161130T165047Z">
+        <seg>Tabella &lt;seq0&gt;26&lt;/seq0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -56626,8 +56626,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The row and column number are relative to the upper left corner of the specified reference range.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190619T155315Z" creationid="steevie" creationdate="20161130T164915Z">
-        <seg>aaaaaaaaaaaaaaaaaaIl numero di riga e colonna sono relativi all'angolo in alto a sinistra dell'intervallo di riferimento indicato.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190620T072842Z" creationid="steevie" creationdate="20161130T164915Z">
+        <seg>Il numero di riga e di colonna sono relativi all'angolo in alto a sinistra dell'intervallo di riferimento specificato.</seg>
       </tuv>
     </tu>
     <tu>
