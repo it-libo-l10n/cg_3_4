@@ -10560,8 +10560,8 @@
       <tuv lang="EN">
         <seg>=INDEX(B2:G2; 1; 2)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T171406Z" creationid="steevie" creationdate="20161130T171406Z">
-        <seg>=INDICE(B2:G2; 1; 2)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190620T135718Z" creationid="steevie" creationdate="20161130T171406Z">
+        <seg>aaaa=INDICE(B2:G2; 1; 2)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31448,8 +31448,8 @@
       <tuv lang="EN">
         <seg>If reference argument to the INDEX function is a multi-range, then the range argument specifies which simple range to use (see &lt;t0&gt;Table 28&lt;/t0&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190620T131248Z" creationid="steevie" creationdate="20161130T171339Z">
-        <seg>aaaaSe l'argomento riferimento della funzione INDICE è un intervallo multiplo, l'argomento area indica quale intervallo semplice da usare (vedi &lt;t0&gt;Tabella 28&lt;/t0&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190620T135532Z" creationid="steevie" creationdate="20161130T171339Z">
+        <seg>Se l'argomento riferimento della funzione INDICE è un intervallo multiplo, l'argomento area indica quale intervallo semplice usare (vedete la &lt;t0&gt;Tabella 28&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -44521,8 +44521,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Returns</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T171400Z" creationid="steevie" creationdate="20161130T171400Z">
-        <seg>Ritorna</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190620T135716Z" creationid="steevie" creationdate="20161130T171400Z">
+        <seg>Restituisce</seg>
       </tuv>
     </tu>
     <tu>
@@ -51578,8 +51578,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Table &lt;seq0&gt;28&lt;/seq0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T171343Z" creationid="steevie" creationdate="20161130T171343Z">
-        <seg>Tabella &lt;seq0&gt;28&lt;/seq0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190620T135611Z" creationid="steevie" creationdate="20161130T171343Z">
+        <seg>Tabella &lt;seq0&gt;28&lt;/seq0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -63706,8 +63706,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Using INDEX with a multi-range.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T171517Z" creationid="steevie" creationdate="20161130T171356Z">
-        <seg>Usare INDICE con un intervallo multiplo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190620T135651Z" creationid="steevie" creationdate="20161130T171356Z">
+        <seg>utilizzo di INDICE con un intervallo multiplo</seg>
       </tuv>
     </tu>
     <tu>
