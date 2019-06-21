@@ -21056,8 +21056,8 @@
       <tuv lang="EN">
         <seg>DCOUNT(database; database field; search criteria)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190621T131346Z" creationid="steevie" creationdate="20161130T172725Z">
-        <seg>aaaaDB.CONTA.NUMERI(database; campo database; criterio di ricerca)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190621T132502Z" creationid="steevie" creationdate="20161130T172725Z">
+        <seg>DB.CONTA.NUMERI(database; campo database; criteri di ricerca)</seg>
       </tuv>
     </tu>
     <tu>
@@ -53466,8 +53466,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The cell range should contain the column labels (see &lt;t0&gt;Listing 22&lt;/t0&gt;).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T174708Z" creationid="steevie" creationdate="20161130T174708Z">
-        <seg>L'intervallo di celle dovrebbe contenere l'intestazione delle colonne (vedi &lt;t0&gt;Listato 22&lt;/t0&gt;).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190621T132830Z" creationid="steevie" creationdate="20161130T174708Z">
+        <seg>L'intervallo di celle dovrebbe contenere le intestazioni di colonna (vedete il &lt;t0&gt;Listato 22&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -54738,8 +54738,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The following examples, assume that the data from &lt;t1&gt;Table 25&lt;/t1&gt; is placed in Sheet 1 and the filter criteria in &lt;t2&gt;Table 26&lt;/t2&gt; is placed in &lt;s3/&gt;Sheet 2.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T174822Z" creationid="steevie" creationdate="20161130T174822Z">
-        <seg>L'esempio seguente assume che i dati della &lt;t1&gt;Tabella 25&lt;/t1&gt; si trovino sul Foglio 1 ed i criteri filtro di &lt;t2&gt;Tabella 26&lt;/t2&gt; si trovino sul &lt;s3/&gt;Foglio 2.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190621T132840Z" creationid="steevie" creationdate="20161130T174822Z">
+        <seg>aaaaL'esempio seguente assume che i dati della &lt;t1&gt;Tabella 25&lt;/t1&gt; si trovino sul Foglio 1 ed i criteri filtro di &lt;t2&gt;Tabella 26&lt;/t2&gt; si trovino sul &lt;s3/&gt;Foglio 2.</seg>
       </tuv>
     </tu>
     <tu>
