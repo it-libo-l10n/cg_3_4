@@ -20312,8 +20312,8 @@
       <tuv lang="EN">
         <seg>Count the number of records containing numeric data that match the search criteria.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T173644Z" creationid="steevie" creationdate="20161130T173057Z">
-        <seg>Conta il numero di record contenenti dati numerici che corrispondono al criterio di ricerca.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190621T083643Z" creationid="steevie" creationdate="20161130T173057Z">
+        <seg>Conta il numero di record contenenti dati numerici che corrispondono ai criteri di ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21008,8 +21008,8 @@
       <tuv lang="EN">
         <seg>DAVERAGE</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190621T073840Z" creationid="steevie" creationdate="20161130T172230Z">
-        <seg>aaaaDB.MEDIA</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190621T083149Z" creationid="steevie" creationdate="20161130T172230Z">
+        <seg>DB.MEDIA</seg>
       </tuv>
     </tu>
     <tu>
@@ -21064,8 +21064,8 @@
       <tuv lang="EN">
         <seg>DCOUNTA</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T173134Z" creationid="steevie" creationdate="20161130T172719Z">
-        <seg>DB.CONTA.VALORI</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190621T083532Z" creationid="steevie" creationdate="20161130T172719Z">
+        <seg>aaaaDB.CONTA.VALORI</seg>
       </tuv>
     </tu>
     <tu>
@@ -44321,8 +44321,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Return the average of all fields that matches the search criteria.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T172421Z" creationid="steevie" creationdate="20161130T172421Z">
-        <seg>Ritorna la media di tutti i campi che corrispondono al criterio di ricerca.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190621T083612Z" creationid="steevie" creationdate="20161130T172421Z">
+        <seg>Restituisce la media di tutti i campi che corrispondono ai criteri di ricerca.</seg>
       </tuv>
     </tu>
     <tu>
