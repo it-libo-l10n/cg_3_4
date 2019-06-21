@@ -21160,8 +21160,8 @@
       <tuv lang="EN">
         <seg>DGET</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190621T085358Z" creationid="steevie" creationdate="20161130T173635Z">
-        <seg>aaaaDB.VALORI</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190621T092402Z" creationid="steevie" creationdate="20161130T173635Z">
+        <seg>DB.VALORI</seg>
       </tuv>
     </tu>
     <tu>
@@ -21176,7 +21176,7 @@
       <tuv lang="EN">
         <seg>DMAX</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T173748Z" creationid="steevie" creationdate="20161130T173748Z">
+      <tuv lang="IT-IT" changeid="luke" changedate="20190621T092547Z" creationid="steevie" creationdate="20161130T173748Z">
         <seg>DB.MAX</seg>
       </tuv>
     </tu>
@@ -21184,8 +21184,8 @@
       <tuv lang="EN">
         <seg>DMIN</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T173853Z" creationid="steevie" creationdate="20161130T173853Z">
-        <seg>DB.MIN</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190621T092823Z" creationid="steevie" creationdate="20161130T173853Z">
+        <seg>aaaaDB.MIN</seg>
       </tuv>
     </tu>
     <tu>
@@ -44361,8 +44361,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Return the contents of a field that matches the search criteria.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T173830Z" creationid="steevie" creationdate="20161130T173738Z">
-        <seg>Ritorna il contenuto di un campo che corrisponde al criterio di ricerca.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190621T092456Z" creationid="steevie" creationdate="20161130T173738Z">
+        <seg>Restituisce il contenuto di un campo che corrisponde ai criteri di ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44377,8 +44377,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Return the maximum content of a field that matches the search criteria.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T173850Z" creationid="steevie" creationdate="20161130T173752Z">
-        <seg>Ritorna il contenuto massimo di un campo che corrisponde al criterio di ricerca.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190621T092640Z" creationid="steevie" creationdate="20161130T173752Z">
+        <seg>Restituisce il contenuto massimo di un campo che corrisponde ai criteri di ricerca.</seg>
       </tuv>
     </tu>
     <tu>
