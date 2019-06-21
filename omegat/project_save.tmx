@@ -16112,8 +16112,8 @@
       <tuv lang="EN">
         <seg>Calculate the standard deviation using the fields that match the search criteria.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T174055Z" creationid="steevie" creationdate="20161130T174055Z">
-        <seg>Calcola la deviazione standard usando i campi che corrispondono al criterio di ricerca.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190621T103151Z" creationid="steevie" creationdate="20161130T174055Z">
+        <seg>Calcola la deviazione standard usando i campi che corrispondono ai criteri di ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21200,8 +21200,8 @@
       <tuv lang="EN">
         <seg>DPRODUCT</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190621T101406Z" creationid="steevie" creationdate="20161130T173914Z">
-        <seg>aaaaDB.PRODOTTO</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190621T102721Z" creationid="steevie" creationdate="20161130T173914Z">
+        <seg>DB.PRODOTTO</seg>
       </tuv>
     </tu>
     <tu>
@@ -21224,8 +21224,8 @@
       <tuv lang="EN">
         <seg>DSUM</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T174302Z" creationid="steevie" creationdate="20161130T174302Z">
-        <seg>DB.SOMMA</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190621T103551Z" creationid="steevie" creationdate="20161130T174302Z">
+        <seg>aaaaDB.SOMMA</seg>
       </tuv>
     </tu>
     <tu>
@@ -44449,8 +44449,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Return the product of the fields that matches the search criteria.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T173934Z" creationid="steevie" creationdate="20161130T173934Z">
-        <seg>Ritorna il prodotto di tutti i campi che corrispondono al criterio di ricerca.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190621T102859Z" creationid="steevie" creationdate="20161130T173934Z">
+        <seg>Restituisce il prodotto dei campi che corrispondono ai criteri di ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54474,7 +54474,7 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The fields are treated as the entire population.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T174257Z" creationid="steevie" creationdate="20161130T174257Z">
+      <tuv lang="IT-IT" changeid="luke" changedate="20190621T103548Z" creationid="steevie" creationdate="20161130T174257Z">
         <seg>I campi vengono trattati come se fossero l'intera popolazione.</seg>
       </tuv>
     </tu>
