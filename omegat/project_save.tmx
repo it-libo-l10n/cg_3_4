@@ -10152,8 +10152,8 @@
       <tuv lang="EN">
         <seg>&lt;t0&gt;Listing 23&lt;/t0&gt; calculates the average test score for the rows that match the search criteria.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190625T103926Z" creationid="steevie" creationdate="20161130T175333Z">
-        <seg>aaaaIl &lt;t0&gt;Listato 23&lt;/t0&gt; calcola la media dei punteggi dei test per le righe che corrispondono ai criteri di ricerca.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190625T120814Z" creationid="steevie" creationdate="20161130T175333Z">
+        <seg>Il &lt;t0&gt;Listato 23&lt;/t0&gt; calcola la media dei punteggi dei test per le righe che corrispondono ai criteri di ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10464,16 +10464,16 @@
       <tuv lang="EN">
         <seg>=DAVERAGE(A1:G16; "Test 2"; Sheet2.A1:G3)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T172238Z" creationid="steevie" creationdate="20161130T172232Z">
-        <seg>=DB.MEDIA(A1:G16; "Test 2"; Sheet2.A1:G3)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190625T121218Z" creationid="steevie" creationdate="20161130T172232Z">
+        <seg>=DB.MEDIA(A1:G16; "Test 2"; Foglio2.A1:G3)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>=DAVERAGE(A1:G16; 3; Sheet2.A1:G3)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T172240Z" creationid="steevie" creationdate="20161130T172240Z">
-        <seg>=DB.MEDIA(A1:G16; 3; Sheet2.A1:G3)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190625T121322Z" creationid="steevie" creationdate="20161130T172240Z">
+        <seg>=DB.MEDIA(A1:G16; 3; Foglio2.A1:G3)</seg>
       </tuv>
     </tu>
     <tu>
@@ -37368,8 +37368,8 @@
       <tuv lang="EN">
         <seg>Listing &lt;seq0&gt;23&lt;/seq0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T175344Z" creationid="steevie" creationdate="20161130T175344Z">
-        <seg>Listato &lt;seq0&gt;23&lt;/seq0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190625T120939Z" creationid="steevie" creationdate="20161130T175344Z">
+        <seg>Listato &lt;seq0&gt;23&lt;/seq0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -56674,8 +56674,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The search criteria is the cell range containing search criteria.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T175456Z" creationid="steevie" creationdate="20161130T175456Z">
-        <seg>Il criterio di ricerca è l'intervallo di celle contenenti il criterio di ricerca.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190625T121324Z" creationid="steevie" creationdate="20161130T175456Z">
+        <seg>aaaaIl criterio di ricerca è l'intervallo di celle contenenti il criterio di ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72202,8 +72202,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>“Test 2” is column 3.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T175356Z" creationid="steevie" creationdate="20161130T175356Z">
-        <seg>“Test 2” è la colonna 3.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190625T121108Z" creationid="steevie" creationdate="20161130T175356Z">
+        <seg>“Test 2” corrisponde alla colonna 3</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
