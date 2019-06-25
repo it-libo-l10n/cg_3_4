@@ -10480,8 +10480,8 @@
       <tuv lang="EN">
         <seg>=DCOUNT(A1:G16; "Test 2"; Sheet2.A1:G3)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190625T091545Z" creationid="steevie" creationdate="20161130T172726Z">
-        <seg>aaaa=DB.CONTA.NUMERI(A1:G16; "Test 2"; Sheet2.A1:G3)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190625T093431Z" creationid="steevie" creationdate="20161130T172726Z">
+        <seg>=DB.CONTA.NUMERI(A1:G16; "Test 2"; Foglio2.A1:G3)</seg>
       </tuv>
     </tu>
     <tu>
@@ -54002,8 +54002,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The database field specifies the column on which the function operates after the search criteria is applied and the data rows are selected.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20161130T174959Z" creationid="steevie" creationdate="20161130T174959Z">
-        <seg>Il campo database indica la colonna su cui la funzione opera dopo che il criterio di ricerca è stato applicato e le righe di dati sono selezionate.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190625T093433Z" creationid="steevie" creationdate="20161130T174959Z">
+        <seg>aaaaIl campo database indica la colonna su cui la funzione opera dopo che il criterio di ricerca è stato applicato e le righe di dati sono selezionate.</seg>
       </tuv>
     </tu>
     <tu>
