@@ -30352,8 +30352,8 @@
       <tuv lang="EN">
         <seg>However, cells that already have a special format will not be modified by this function.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T133900Z" creationid="steevie" creationdate="20160427T133900Z">
-        <seg>Tuttavia, celle che possiedono già un formato speciale non saranno modificate da questa funzione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190705T095856Z" creationid="steevie" creationdate="20160427T133900Z">
+        <seg>In ogni caso, le celle che possiedono già una formattazione speciale non saranno modificate da questa funzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33392,8 +33392,8 @@
       <tuv lang="EN">
         <seg>If, for example, an inserted cell has the bold attribute, this attribute will also apply to empty adjacent cells.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T133755Z" creationid="steevie" creationdate="20160427T133433Z">
-        <seg>Per esempio, se una cella con valori ha come attributo il grassetto, questo sarà applicato alle celle vuote adiacenti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190705T095728Z" creationid="steevie" creationdate="20160427T133433Z">
+        <seg>Ad esempio, se la cella inserita ha come attributo il grassetto, questo sarà applicato alle celle vuote adiacenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50657,8 +50657,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Specifies that pressing &lt;f0&gt;Enter&lt;/f0&gt; puts the selected cell into edit mode.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190705T092941Z" creationid="steevie" creationdate="20160427T132616Z">
-        <seg>aaaaIndica che premendo&lt;f0&gt;Invio&lt;/f0&gt; si pone la cella selezionata in modo modifica.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190705T095024Z" creationid="steevie" creationdate="20160427T132616Z">
+        <seg>Indica che premendo &lt;f0&gt;Invio&lt;/f0&gt; la cella selezionata viene messa in modo modifica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50737,8 +50737,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Specifies whether to automatically apply the formatting attributes of an inserted cell to empty adjacent cells.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T133228Z" creationid="steevie" creationdate="20160427T132649Z">
-        <seg>Indica quando applicare automaticamente gli attributi di formattazione di una cella con valori alle celle vuote adiacenti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190705T095406Z" creationid="steevie" creationdate="20160427T132649Z">
+        <seg>Indica se applicare automaticamente gli attributi di formattazione di una cella inserita alle celle vuote adiacenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61562,8 +61562,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>To see the affected range, press &lt;f0&gt;Ctrl+*&lt;/f0&gt; (multiplication sign on the number pad).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T134046Z" creationid="steevie" creationdate="20160427T134039Z">
-        <seg>Per vedere l'intervallo interessato, premete &lt;f0&gt;Ctrl+* &lt;/f0&gt;(segno di moltiplicazione del tastierino numerico).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190705T095858Z" creationid="steevie" creationdate="20160427T134039Z">
+        <seg>aaaaPer vedere l'intervallo interessato, premete &lt;f0&gt;Ctrl+* &lt;/f0&gt;(segno di moltiplicazione del tastierino numerico).</seg>
       </tuv>
     </tu>
     <tu>
