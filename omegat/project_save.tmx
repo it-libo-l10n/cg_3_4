@@ -23688,8 +23688,8 @@
       <tuv lang="EN">
         <seg>Example: If the range A1:B1 is referenced in a formula and you insert a new column after column B, the reference is expanded to A1:C1.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T135003Z" creationid="steevie" creationdate="20160427T134706Z">
-        <seg>Esempio: se l'intervallo A:B1 è citato in una formula e viene inserita una nuova colonna dopo la B, il riferimento è esteso a A1:C1.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190705T121901Z" creationid="steevie" creationdate="20160427T134706Z">
+        <seg>Esempio: se l'intervallo A1:B1 è usato come riferimento in una formula e inserite una nuova colonna dopo la B, il riferimento è esteso a A1:C1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31896,8 +31896,8 @@
       <tuv lang="EN">
         <seg>If the range A1:B1 is referenced and a new row is inserted under row 1, the reference is not expanded, since there is only a single cell in the vertical direction.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T135016Z" creationid="steevie" creationdate="20160427T134856Z">
-        <seg>Se l'intervallo A1:B1 è citato e una nuova riga viene inserita al di sotto della 1, il riferimento non è esteso, poiché vi è solo una cella nella direzione verticale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190705T122228Z" creationid="steevie" creationdate="20160427T134856Z">
+        <seg>Se l'intervallo A1:B1 è usato come riferimento e inserite una nuova riga al di sotto della 1, il riferimento non è esteso, poiché vi è solo una cella nella direzione verticale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32888,8 +32888,8 @@
       <tuv lang="EN">
         <seg>If you insert rows or columns in the middle of a reference area, the reference is always expanded.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T135030Z" creationid="steevie" creationdate="20160427T134945Z">
-        <seg>Inserendo righe o colonne al centro di un'area di riferimento, il riferimento viene sempre espanso.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190705T122353Z" creationid="steevie" creationdate="20160427T134945Z">
+        <seg>Inserendo righe o colonne al centro di un'area di riferimento, il riferimento viene sempre esteso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50785,8 +50785,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Specifies whether to highlight column and row headers in the selected columns or rows.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T135202Z" creationid="steevie" creationdate="20160427T135202Z">
-        <seg>Indica quando evidenziare le intestazioni di colonne e righe nelle colonne e righe selezionate.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190705T122651Z" creationid="steevie" creationdate="20160427T135202Z">
+        <seg>Indica se evidenziare le intestazioni di colonne e righe nelle colonne e righe selezionate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58890,8 +58890,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>This is only possible if the reference range, where the column or row is inserted, originally spanned at least two cells in the desired direction.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190705T103439Z" creationid="steevie" creationdate="20160427T134404Z">
-        <seg>aaaaQuesto è possibile solo se l'intervallo di riferimento, in cui le colonne o righe sono inserite, in origine abbraccia almeno due celle nella direzione desiderata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190705T121542Z" creationid="steevie" creationdate="20160427T134404Z">
+        <seg>Ciò è possibile solo se l'intervallo di riferimento, in cui le colonne o righe sono inserite, in origine abbraccia almeno due celle nella direzione desiderata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62962,8 +62962,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Use &lt;is0/&gt;printer metrics&lt;ie1/&gt; for text formatting</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T135251Z" creationid="steevie" creationdate="20160427T135251Z">
-        <seg>Usa i &lt;is0/&gt;parametri della stampante&lt;ie1/&gt; per la formattazione del testo</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190705T122653Z" creationid="steevie" creationdate="20160427T135251Z">
+        <seg>aaaaUsa i &lt;is0/&gt;parametri della stampante&lt;ie1/&gt; per la formattazione del testo</seg>
       </tuv>
     </tu>
     <tu>
