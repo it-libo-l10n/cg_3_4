@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -50817,16 +50817,16 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Specifies whether to view guides when moving drawings, frames, graphics and other objects.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T140829Z" creationid="steevie" creationdate="20160427T140711Z">
-        <seg>Indica se le linee guida vengono mostrate quando si spostano disegni, cornici, immagini e altri oggetti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190709T082940Z" creationid="steevie" creationdate="20160427T140711Z">
+        <seg>aaaaIndica se le linee guida vengono mostrate quando si spostano disegni, cornici, immagini e altri oggetti.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Specifies whether to view the page breaks within a defined print area.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190706T170133Z" creationid="steevie" creationdate="20160427T140625Z">
-        <seg>aaaaaaaaaaaaaaaaaIndica se le interruzioni di pagina vengono mostrate all'interno di una area di stampa definita.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190709T082808Z" creationid="steevie" creationdate="20160427T140625Z">
+        <seg>Indica se le interruzioni di pagina devono essere mostrate all'interno di un'area di stampa definita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70162,8 +70162,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>guides while moving</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T140635Z" creationid="steevie" creationdate="20160427T140635Z">
-        <seg>Linee guida durante lo spostamento</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190709T082822Z" creationid="steevie" creationdate="20160427T140635Z">
+        <seg>linee guida durante lo spostamento</seg>
       </tuv>
     </tu>
     <tu>
