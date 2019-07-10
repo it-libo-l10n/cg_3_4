@@ -30992,8 +30992,8 @@
       <tuv lang="EN">
         <seg>If a cell contains text that is wider than the width of the cell, the text is displayed over empty neighboring cells in the same row.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143227Z" creationid="steevie" creationdate="20160427T143227Z">
-        <seg>Se la cella contiene testo più lungo della larghezza della cella, viene mostrato sopra le celle adiacenti nella stessa riga.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190710T123433Z" creationid="steevie" creationdate="20160427T143227Z">
+        <seg>aaaaSe la cella contiene testo più lungo della larghezza della cella, viene mostrato sopra le celle adiacenti nella stessa riga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50729,8 +50729,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Specifies whether the anchor icon is displayed when an inserted object, such as a graphic, is selected.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190710T121559Z" creationid="steevie" creationdate="20160427T143104Z">
-        <seg>aaaaIndica se l'icona ancoraggio viene mostrata quando è selezionato un oggetto inserito, come ad esempio un'immagine.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190710T123357Z" creationid="steevie" creationdate="20160427T143104Z">
+        <seg>Indica se l'icona ancoraggio deve essere mostrata quando viene selezionato un oggetto inserito, come ad esempio un'immagine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71882,8 +71882,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>text overflow</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143116Z" creationid="steevie" creationdate="20160427T143116Z">
-        <seg>Overflow di testo</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190710T123403Z" creationid="steevie" creationdate="20160427T143116Z">
+        <seg>overflow di testo</seg>
       </tuv>
     </tu>
     <tu>
