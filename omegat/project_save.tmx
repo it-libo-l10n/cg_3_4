@@ -30992,8 +30992,8 @@
       <tuv lang="EN">
         <seg>If a cell contains text that is wider than the width of the cell, the text is displayed over empty neighboring cells in the same row.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190710T123433Z" creationid="steevie" creationdate="20160427T143227Z">
-        <seg>aaaaSe la cella contiene testo più lungo della larghezza della cella, viene mostrato sopra le celle adiacenti nella stessa riga.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190710T130801Z" creationid="steevie" creationdate="20160427T143227Z">
+        <seg>Se la cella contiene testo più lungo della larghezza della cella, il testo viene mostrato sopra le celle vuote adiacenti nella stessa riga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32136,8 +32136,8 @@
       <tuv lang="EN">
         <seg>If there is no empty neighboring cell, a small triangle at the cell border indicates that the text continues.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143326Z" creationid="steevie" creationdate="20160427T143326Z">
-        <seg>Quando nessuna cella adiacente è libera, un piccolo triangolo sul bordo della cella indica che il testo continua.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190710T131022Z" creationid="steevie" creationdate="20160427T143326Z">
+        <seg>Se non vi sono celle adiacenti vuote, un piccolo triangolo sul bordo della cella indica che il testo continua.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50633,8 +50633,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Specifies that each reference is highlighted in color in the formula.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T143421Z" creationid="steevie" creationdate="20160427T143421Z">
-        <seg>Indica che ogni riferimento è evidenziato nel colore della formula.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190710T131051Z" creationid="steevie" creationdate="20160427T143421Z">
+        <seg>aaaaaaaaaaaaaaaaaIndica che ogni riferimento è evidenziato nel colore della formula.</seg>
       </tuv>
     </tu>
     <tu>
