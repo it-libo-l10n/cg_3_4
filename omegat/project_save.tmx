@@ -872,8 +872,8 @@
       <tuv lang="EN">
         <seg>12/30/1899 (default)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145657Z" creationid="steevie" creationdate="20160427T145637Z">
-        <seg>30/12/1899 (Standard)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190722T122828Z" creationid="steevie" creationdate="20160427T145637Z">
+        <seg>30/12/1899 (predefinita)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31952,8 +31952,8 @@
       <tuv lang="EN">
         <seg>If the result of the iteration is lower than the minimum change value, then the iteration will stop.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145511Z" creationid="steevie" creationdate="20160427T145511Z">
-        <seg>Se il risultato dell'iterazione è minore dello scarto consentito minimo, l'iterazione si ferma.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190722T122331Z" creationid="steevie" creationdate="20160427T145511Z">
+        <seg>Se il risultato dell'iterazione è minore dello scarto minimo consentito, l'iterazione si fermerà.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49225,24 +49225,24 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Sets 1/1/1900 as day zero.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145744Z" creationid="steevie" creationdate="20160427T145744Z">
-        <seg>Imposta l'1 gennaio 1900 come giorno zero.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190722T123316Z" creationid="steevie" creationdate="20160427T145744Z">
+        <seg>Imposta il 01/01/1900 come giorno zero.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Sets 1/1/1904 as day zero.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145845Z" creationid="steevie" creationdate="20160427T145845Z">
-        <seg>Imposta l'1 gennaio 1904 come giorno zero.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190722T123516Z" creationid="steevie" creationdate="20160427T145845Z">
+        <seg>aaaaImposta l'1 gennaio 1904 come giorno zero.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Sets 12/30/1899 as day zero.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145712Z" creationid="steevie" creationdate="20160427T145645Z">
-        <seg>Imposta il 30 dicembre 1899 come giorno zero.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190722T123059Z" creationid="steevie" creationdate="20160427T145645Z">
+        <seg>Imposta il 30/12/1899 come giorno zero.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50705,8 +50705,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Specifies the difference between two consecutive iteration step results.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190722T103708Z" creationid="steevie" creationdate="20160427T145439Z">
-        <seg>aaaaIndica la differenza tra i risultati di due iterazioni consecutive.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190722T122140Z" creationid="steevie" creationdate="20160427T145439Z">
+        <seg>Indica la differenza tra i risultati di due iterazioni consecutive.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63450,8 +63450,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Use this setting for StarCalc 1.0 spreadsheets containing date entries.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145834Z" creationid="steevie" creationdate="20160427T145834Z">
-        <seg>Usate questa impostazione per fogli di calcolo contenenti date.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190722T123505Z" creationid="steevie" creationdate="20160427T145834Z">
+        <seg>Usate questa impostazione per i fogli elettronici di StarCalc 1.0 contenenti date.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69538,8 +69538,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>dates</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T145530Z" creationid="steevie" creationdate="20160427T145530Z">
-        <seg>Date</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190722T122422Z" creationid="steevie" creationdate="20160427T145530Z">
+        <seg>date</seg>
       </tuv>
     </tu>
     <tu>
