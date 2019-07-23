@@ -17584,8 +17584,8 @@
       <tuv lang="EN">
         <seg>Charts will be shown with the displayed values.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T150833Z" creationid="steevie" creationdate="20160427T150833Z">
-        <seg>I diagrammi saranno visualizzati con i valori mostrati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190723T090154Z" creationid="steevie" creationdate="20160427T150833Z">
+        <seg>I grafici saranno visualizzati con i valori mostrati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27096,8 +27096,8 @@
       <tuv lang="EN">
         <seg>Finds &lt;f0&gt;win&lt;/f0&gt; and &lt;f1&gt;win95&lt;/f1&gt;, but not &lt;f2&gt;os2win&lt;/f2&gt; or &lt;f3&gt;upwind&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T152537Z" creationid="steevie" creationdate="20160427T152205Z">
-        <seg>Trova&lt;f0&gt;win&lt;/f0&gt; e &lt;f1&gt;win95&lt;/f1&gt;, ma non &lt;f2&gt;os2win&lt;/f2&gt; oppure &lt;f3&gt;Lewine&lt;/f3&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190723T091748Z" creationid="steevie" creationdate="20160427T152205Z">
+        <seg>aaaaTrova&lt;f0&gt;win&lt;/f0&gt; e &lt;f1&gt;win95&lt;/f1&gt;, ma non &lt;f2&gt;os2win&lt;/f2&gt; oppure &lt;f3&gt;Lewine&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27120,8 +27120,8 @@
       <tuv lang="EN">
         <seg>Finds &lt;f0&gt;win&lt;/f0&gt;, but not &lt;f1&gt;win9&lt;/f1&gt;5, &lt;f2&gt;os2win&lt;/f2&gt;, or &lt;f3&gt;upwind&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T152527Z" creationid="steevie" creationdate="20160427T152146Z">
-        <seg>Trova&lt;f0&gt;win&lt;/f0&gt;, ma non &lt;f1&gt;win9&lt;/f1&gt;5, &lt;f2&gt;os2win&lt;/f2&gt;, oppure &lt;f3&gt;Lewine&lt;/f3&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190723T091731Z" creationid="steevie" creationdate="20160427T152146Z">
+        <seg>Trova &lt;f0&gt;win&lt;/f0&gt;, ma non &lt;f1&gt;win9&lt;/f1&gt;5, &lt;f2&gt;os2win&lt;/f2&gt;, oppure &lt;f3&gt;upwind&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29896,8 +29896,8 @@
       <tuv lang="EN">
         <seg>Has this result:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T151404Z" creationid="steevie" creationdate="20160427T151404Z">
-        <seg>Ha questo risultato:</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190723T091328Z" creationid="steevie" creationdate="20160427T151404Z">
+        <seg>Ha come risultato:</seg>
       </tuv>
     </tu>
     <tu>
@@ -32216,8 +32216,8 @@
       <tuv lang="EN">
         <seg>If this option is &lt;f0&gt;not&lt;/f0&gt; selected, the displayed numbers are rounded, but they are calculated internally using the non-rounded number.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T150954Z" creationid="steevie" creationdate="20160427T150954Z">
-        <seg>Se questa opzione &lt;f0&gt;non&lt;/f0&gt; è selezionata, I numeri sono mostrati arrotondati, ma calcolati internamente usando i valori non arrotondati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190723T090448Z" creationid="steevie" creationdate="20160427T150954Z">
+        <seg>Se questa opzione &lt;f0&gt;non&lt;/f0&gt; è selezionata, i numeri sono mostrati arrotondati, ma calcolati internamente usando i valori non arrotondati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47321,8 +47321,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Search criteria = and &lt;&gt; must apply to whole cells</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T151015Z" creationid="steevie" creationdate="20160427T151015Z">
-        <seg>Criteri di ricerca = and &lt;&gt; devono riferirsi a celle intere</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190723T090637Z" creationid="steevie" creationdate="20160427T151015Z">
+        <seg>I criteri di ricerca = e &lt;&gt; devono riferirsi a celle intere</seg>
       </tuv>
     </tu>
     <tu>
@@ -50681,8 +50681,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Specifies that the search criteria you set for the Calc database functions must match the whole cell exactly.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160503T065557Z" creationid="steevie" creationdate="20160427T151145Z">
-        <seg>Indica che i criteri di ricerca impostati per le funzioni database di Calc devono corrispondere esattamente con l'intera cella.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190723T090938Z" creationid="steevie" creationdate="20160427T151145Z">
+        <seg>Indica che i criteri di ricerca impostati per le funzioni database di Calc devono corrispondere esattamente all'intera cella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50793,8 +50793,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Specifies whether to make calculations using the rounded values displayed in the sheet.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T150755Z" creationid="steevie" creationdate="20160427T150755Z">
-        <seg>indica se fare i calcoli usando i valori approssimati mostrati nel foglio.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190723T085958Z" creationid="steevie" creationdate="20160427T150755Z">
+        <seg>Indica se effettuare i calcoli usando i valori approssimati mostrati nel foglio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55754,8 +55754,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The numbers are displayed as rounded numbers, but are not saved as rounded numbers.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190723T082205Z" creationid="steevie" creationdate="20160427T150659Z">
-        <seg>aaaaI numeri sono mostrati come approssimati, ma non sono salvati come tali.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190723T085539Z" creationid="steevie" creationdate="20160427T150659Z">
+        <seg>I numeri sono mostrati come approssimati, ma non sono salvati come tali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59346,8 +59346,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>This search:</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160427T151252Z" creationid="steevie" creationdate="20160427T151252Z">
-        <seg>Questa ricerca</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190723T091233Z" creationid="steevie" creationdate="20160427T151252Z">
+        <seg>La ricerca di:</seg>
       </tuv>
     </tu>
     <tu>
