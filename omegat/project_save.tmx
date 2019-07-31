@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -23760,8 +23760,8 @@
       <tuv lang="EN">
         <seg>Existing submenus can be edited to change the letter which is used to select them from the keyboard once the menu is open.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T164147Z" creationid="steevie" creationdate="20160428T164147Z">
-        <seg>I sottomenu esistenti possono essere modificati per cambiare la lettera utilizzata per selezionarli dalla tastiera, quando il menu è aperto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190731T072728Z" creationid="steevie" creationdate="20160428T164147Z">
+        <seg>aaaaI sottomenu esistenti possono essere modificati per cambiare la lettera utilizzata per selezionarli dalla tastiera, quando il menu è aperto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33784,8 +33784,8 @@
       <tuv lang="EN">
         <seg>In addition to renaming, you can allocate a letter in a custom menu’s name, which will become underlined, to be used as a keyboard shortcut, that allows you to select that menu when you press &lt;f0&gt;Alt&lt;/f0&gt;+ that letter.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190731T060409Z" creationid="steevie" creationdate="20160428T164144Z">
-        <seg>aaaaaaaaaaaaaaaaaaOltre a rinominare, potete specificare una lettera nel nome di un menu personalizzato, che diverrà sottolineata; in tal modo la lettera verrà utilizzata come scorciatoia da tastiera, permettendovi di selezionare il menu quando premete &lt;f0&gt;Alt&lt;/f0&gt;+ la lettera scelta.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190731T072725Z" creationid="steevie" creationdate="20160428T164144Z">
+        <seg>Oltre a rinominare, potete specificare una lettera nel nome di un menu personalizzato, che diverrà sottolineata; in tal modo la lettera potrà essere utilizzata come scorciatoia da tastiera, permettendovi di selezionare il menu quando premete &lt;f0&gt;Alt&lt;/f0&gt;+ la lettera scelta.</seg>
       </tuv>
     </tu>
     <tu>
