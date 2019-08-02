@@ -8008,8 +8008,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Shortcut keys that are greyed-out in the listing on the Customize dialog, such as &lt;/f0&gt;&lt;f1&gt;F1&lt;/f1&gt;&lt;f2&gt; and &lt;/f2&gt;&lt;f3&gt;F10,&lt;/f3&gt;&lt;f4&gt; are &lt;/f4&gt;not &lt;f5&gt;available for reassignment.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170600Z" creationid="steevie" creationdate="20160428T170600Z">
-        <seg>&lt;f0&gt;Le combinazioni di tasti che appaiono marcate in grigio nell'elenco della finestra di dialogo Personalizza, come &lt;/f0&gt;&lt;f1&gt;F1&lt;/f1&gt;&lt;f2&gt; e &lt;/f2&gt;&lt;f3&gt;F10,&lt;/f3&gt;&lt;f4&gt;non &lt;/f4&gt;&lt;f5&gt;possono essere riassegnate.&lt;/f5&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190802T103748Z" creationid="steevie" creationdate="20160428T170600Z">
+        <seg>&lt;f0&gt;Le combinazioni di tasti che appaiono marcate in grigio nell'elenco della finestra di dialogo Personalizza, come &lt;/f0&gt;&lt;f1&gt;F1&lt;/f1&gt;&lt;f2&gt; e &lt;/f2&gt;&lt;f3&gt;F10&lt;/f3&gt;&lt;f4&gt;, non &lt;/f4&gt;&lt;f5&gt;possono essere riassegnate.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8592,8 +8592,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;To have the shortcut key assignment available only with Calc, select &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Calc&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; in the upper right corner of the page; otherwise select &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;LibreOffice&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; to make it available to every component.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170843Z" creationid="steevie" creationdate="20160428T170843Z">
-        <seg>&lt;f0&gt;Per disporre dell'assegnazione di una combinazione di tasti solo per Calc, selezionate &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Calc&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; nell'angolo in alto a destra della pagina; altrimenti selezionate &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;LibreOffice&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; per renderlo disponibile per tutti i componenti&lt;/f6&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190802T104403Z" creationid="steevie" creationdate="20160428T170843Z">
+        <seg>aaaa&lt;f0&gt;Per disporre dell'assegnazione di una combinazione di tasti solo per Calc, selezionate &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Calc&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; nell'angolo in alto a destra della pagina; altrimenti selezionate &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;LibreOffice&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; per renderlo disponibile per tutti i componenti&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13120,8 +13120,8 @@
       <tuv lang="EN">
         <seg>Although you can easily r&lt;/f5&gt;eset&lt;f6&gt; the shortcut key assignments to the &lt;/f6&gt;&lt;f7&gt;LibreOffice&lt;/f7&gt;&lt;f8&gt; defaults, changing some common shortcut keys can cause confusion, frustration and possible data loss or corruption, especially if other users share your computer.&lt;/f8&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170555Z" creationid="steevie" creationdate="20160428T170306Z">
-        <seg>Sebbene sia semplice r&lt;/f5&gt;iportare&lt;f6&gt; le assegnazioni di tasti di scelta rapida a quelle predefinite di. &lt;/f6&gt;&lt;f7&gt;LibreOffice&lt;/f7&gt;&lt;f8&gt;, modificare alcune combinazioni di tasti comuni può provocare confusione, specialmente se condividete il vostro computer con altri utenti.&lt;/f8&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190802T103433Z" creationid="steevie" creationdate="20160428T170306Z">
+        <seg>Sebbene non sia difficile &lt;/f5&gt;ripristinare&lt;f6&gt; le assegnazioni dei tasti di scelta rapida ai valori predefiniti di &lt;/f6&gt;&lt;f7&gt;LibreOffice&lt;/f7&gt;&lt;f8&gt;, la modifica di alcune scorciatoie da tastiera comuni può generare confusione, specialmente se condividete il vostro computer con altri utenti.&lt;/f8&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37872,8 +37872,8 @@
       <tuv lang="EN">
         <seg>Many key assignments are universally understood shortcuts, such as &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;F1&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; for Help, and are always expected to provide certain results.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190802T094520Z" creationid="steevie" creationdate="20160428T170301Z">
-        <seg>aaaaMolte assegnazioni di tasti sono scorciatoie universalmente riconosciute, come &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;F1&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; per l'Aiuto, e ci si attende che producano sempre determinati risultati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190802T100122Z" creationid="steevie" creationdate="20160428T170301Z">
+        <seg>Molte assegnazioni di tasti sono scorciatoie universalmente riconosciute, come &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;F1&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; per l'Aiuto, e ci si attende che producano sempre determinati risultati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52090,8 +52090,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>The &lt;/f2&gt;&lt;f3&gt;Keyboard&lt;/f3&gt;&lt;f4&gt; page of the Customize dialog opens.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T170648Z" creationid="steevie" creationdate="20160428T170648Z">
-        <seg>Si aprirà la pagina &lt;/f2&gt;&lt;f3&gt;Tastiera&lt;/f3&gt;&lt;f4&gt; della finestra di dialogo Personalizza.&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190802T104357Z" creationid="steevie" creationdate="20160428T170648Z">
+        <seg>Si aprirà la scheda &lt;/f2&gt;&lt;f3&gt;Tastiera&lt;/f3&gt;&lt;f4&gt; della finestra di dialogo Personalizza.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
