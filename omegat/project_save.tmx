@@ -10944,8 +10944,8 @@
       <tuv lang="EN">
         <seg>A confirmation dialog appears if you are about to overwrite an existing file, otherwise there will be no feedback and the file will be saved.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172529Z" creationid="steevie" creationdate="20160428T172529Z">
-        <seg>Se state per sovrascrivere un file esistente comparirà una finestra di conferma, altrimenti il file verrà salvato senza alcuna richiesta di conferma.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190806T121203Z" creationid="steevie" creationdate="20160428T172529Z">
+        <seg>aaaaSe state per sovrascrivere un file esistente comparirà una finestra di conferma, altrimenti il file verrà salvato senza alcuna richiesta di conferma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32968,8 +32968,8 @@
       <tuv lang="EN">
         <seg>If you need to, browse to find a file from another location.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172522Z" creationid="steevie" creationdate="20160428T172522Z">
-        <seg>Se necessario, sfogliate per trovare un file in un'altra posizione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190806T121149Z" creationid="steevie" creationdate="20160428T172522Z">
+        <seg>Se necessario, cercate un file in un'altra posizione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34776,8 +34776,8 @@
       <tuv lang="EN">
         <seg>In the Save Keyboard Configuration dialog, select &lt;f0&gt;All files&lt;/f0&gt; from the &lt;f1&gt;Save as Type&lt;/f1&gt; list.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190806T103131Z" creationid="steevie" creationdate="20160428T172515Z">
-        <seg>aaaaNella finestra di dialogo Salva configurazione della tastiera, selezionate &lt;f0&gt;Tutti i file&lt;/f0&gt; dall'elenco &lt;f1&gt;Salva come tipo&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190806T120900Z" creationid="steevie" creationdate="20160428T172515Z">
+        <seg>Nella finestra di dialogo Salva configurazione della tastiera, selezionate &lt;f0&gt;Tutti i file&lt;/f0&gt; dall'elenco &lt;f1&gt;Tipo file&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39161,8 +39161,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Next enter a name for the keyboard configuration file in the &lt;f0&gt;File name&lt;/f0&gt; box, or select an existing file from the list.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172520Z" creationid="steevie" creationdate="20160428T172520Z">
-        <seg>Successivamente inserite un nome per il file di configurazione nel riquadro &lt;f0&gt;Nome file&lt;/f0&gt;, oppure selezionate un file esistente dalla lista.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190806T121058Z" creationid="steevie" creationdate="20160428T172520Z">
+        <seg>Successivamente inserite un nome per il file di configurazione tasti nel riquadro &lt;f0&gt;Nome file&lt;/f0&gt;, oppure selezionate un file esistente dall'elenco.</seg>
       </tuv>
     </tu>
     <tu>
