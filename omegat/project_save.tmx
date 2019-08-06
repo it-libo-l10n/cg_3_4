@@ -10944,8 +10944,8 @@
       <tuv lang="EN">
         <seg>A confirmation dialog appears if you are about to overwrite an existing file, otherwise there will be no feedback and the file will be saved.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190806T121203Z" creationid="steevie" creationdate="20160428T172529Z">
-        <seg>aaaaSe state per sovrascrivere un file esistente comparirà una finestra di conferma, altrimenti il file verrà salvato senza alcuna richiesta di conferma.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190806T125758Z" creationid="steevie" creationdate="20160428T172529Z">
+        <seg>Se state per sovrascrivere un file esistente comparirà una finestra di conferma; altrimenti il file verrà salvato senza ulteriori richieste.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37440,8 +37440,8 @@
       <tuv lang="EN">
         <seg>Loading a saved keyboard configuration</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172530Z" creationid="steevie" creationdate="20160428T172530Z">
-        <seg>Caricare una configurazione di tasti salvata</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190806T125819Z" creationid="steevie" creationdate="20160428T172530Z">
+        <seg>Caricare una configurazione tasti salvata</seg>
       </tuv>
     </tu>
     <tu>
@@ -59634,8 +59634,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>To &lt;i0/&gt;load a saved keyboard configuration file and replace your existing configuration, click the &lt;f1&gt;Load&lt;/f1&gt; button near the bottom right of the Customize dialog, and then select the configuration file from the Load Keyboard Configuration dialog.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="steevie" changedate="20160428T172650Z" creationid="steevie" creationdate="20160428T172650Z">
-        <seg>Per &lt;i0/&gt;caricare un file di configurazione tasti salvato e sostituire la configurazione esistente, fate clic sul pulsante &lt;f1&gt;Carica&lt;/f1&gt; che si trova vicino alla parte inferiore destra della finestra di dialogo Personalizza, poi selezionate il file di configurazione dalla finestra di dialogo Carica configurazione della tastiera.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190806T125844Z" creationid="steevie" creationdate="20160428T172650Z">
+        <seg>aaaaPer &lt;i0/&gt;caricare un file di configurazione tasti salvato e sostituire la configurazione esistente, fate clic sul pulsante &lt;f1&gt;Carica&lt;/f1&gt; che si trova vicino alla parte inferiore destra della finestra di dialogo Personalizza, poi selezionate il file di configurazione dalla finestra di dialogo Carica configurazione della tastiera.</seg>
       </tuv>
     </tu>
     <tu>
