@@ -38592,8 +38592,8 @@
       <tuv lang="EN">
         <seg>Moves the cursor to the bottom edge of the current data range.&lt;f0&gt; &lt;/f0&gt;If the row below the cell that contains the cursor is empty, the cursor moves down to the next row that contains data.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T160356Z" creationid="luciano" creationdate="20160504T160356Z">
-        <seg>Sposta il cursore al margine superiore dell'area dati corrente.&lt;f0&gt; &lt;/f0&gt;&gt;Se la riga sotto la cella che contiene il cursore è vuota, il cursore si sposta sulla riga successiva inferiore.
+      <tuv lang="IT-IT" changeid="luke" changedate="20190808T124325Z" creationid="luciano" creationdate="20160504T160356Z">
+        <seg>aaaaSposta il cursore al margine superiore dell'area dati corrente.&lt;f0&gt; &lt;/f0&gt;&gt;Se la riga sotto la cella che contiene il cursore è vuota, il cursore si sposta sulla riga successiva inferiore.
 If the row below the cell that contains the cursor is empty, the cursor moves down to the next row that contains data.</seg>
       </tuv>
     </tu>
@@ -38657,8 +38657,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Moves the cursor to the top edge of the current data range.&lt;f0&gt; &lt;/f0&gt;If the row above the cell that contains the cursor is empty, the cursor moves up to the next row that contains data.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190808T123311Z" creationid="luciano" creationdate="20160504T142710Z">
-        <seg>aaaaSposta il cursore al margine superiore dell'area dati corrente.&lt;f0&gt; &lt;/f0&gt;Se la riga sopra la cella che contiene il cursore è vuota, il cursore si sposta sulla riga successiva superiore che contiene i dati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190808T124307Z" creationid="luciano" creationdate="20160504T142710Z">
+        <seg>Sposta il cursore al margine superiore dell'area dati corrente.&lt;f0&gt; &lt;/f0&gt;Se la riga al di sopra della cella contenente il cursore è vuota, il cursore si sposta alla riga superiore successiva contenente dei dati.</seg>
       </tuv>
     </tu>
     <tu>
