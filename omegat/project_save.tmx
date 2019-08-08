@@ -20736,8 +20736,8 @@
       <tuv lang="EN">
         <seg>Ctrl+Left Arrow</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T141809Z" creationid="luciano" creationdate="20160504T141809Z">
-        <seg>Ctrl+Freccia a sinistra</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190808T104721Z" creationid="luciano" creationdate="20160504T141809Z">
+        <seg>Ctrl+Freccia sinistra</seg>
       </tuv>
     </tu>
     <tu>
@@ -20760,8 +20760,8 @@
       <tuv lang="EN">
         <seg>Ctrl+Right Arrow</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T142127Z" creationid="luciano" creationdate="20160504T142127Z">
-        <seg>Ctrl+Freccia a destra</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190808T105441Z" creationid="luciano" creationdate="20160504T142127Z">
+        <seg>Ctrl+Freccia destra</seg>
       </tuv>
     </tu>
     <tu>
@@ -31728,8 +31728,8 @@
       <tuv lang="EN">
         <seg>If the column to the left of the cell that contains the cursor is empty, the cursor moves to the next column to the left that contains data.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T142258Z" creationid="luciano" creationdate="20160504T142007Z">
-        <seg>Se la colonna a sinistra della cella che contiene il cursore è vuota, il cursore si sposta sulla colonna successiva a sinistra che contiene i dati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190808T105421Z" creationid="luciano" creationdate="20160504T142007Z">
+        <seg>Se la colonna a sinistra della cella contenente il cursore è vuota, il cursore si sposta alla colonna successiva a sinistra contenente dei dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38625,8 +38625,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Moves the cursor to the last cell of the current row in a column containing data.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190808T103858Z" creationid="luciano" creationdate="20160504T141745Z">
-        <seg>aaaaSposta il cursore all'ultima cella della riga corrente in una colonna che contiene i dati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190808T104656Z" creationid="luciano" creationdate="20160504T141745Z">
+        <seg>Sposta il cursore all'ultima cella della riga corrente in una colonna contenente dei dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38649,8 +38649,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Moves the cursor to the right edge of the current data range.&lt;f0&gt; &lt;/f0&gt;If the column to the right of the cell that contains the cursor is empty, the cursor moves to the next column to the right that contains data.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T142330Z" creationid="luciano" creationdate="20160504T142252Z">
-        <seg>Sposta il cursore al margine sinistro dell'area dati corrente.&lt;f0&gt; &lt;/f0&gt;Se la colonna a destra della cella che contiene il cursore è vuota, il cursore si sposta sulla colonna successiva a destra che contiene i dati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190808T105443Z" creationid="luciano" creationdate="20160504T142252Z">
+        <seg>aaaaSposta il cursore al margine sinistro dell'area dati corrente.&lt;f0&gt; &lt;/f0&gt;Se la colonna a destra della cella che contiene il cursore è vuota, il cursore si sposta sulla colonna successiva a destra che contiene i dati.</seg>
       </tuv>
     </tu>
     <tu>
