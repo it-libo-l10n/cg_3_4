@@ -20728,8 +20728,8 @@
       <tuv lang="EN">
         <seg>Ctrl+Home</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190808T100551Z" creationid="luke" creationdate="20190808T100551Z">
-        <seg>aaaaCtrl+Home</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190808T103351Z" creationid="luke" creationdate="20190808T100551Z">
+        <seg>Ctrl+Home</seg>
       </tuv>
     </tu>
     <tu>
@@ -30278,6 +30278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Home</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190808T103736Z" creationid="luke" creationdate="20190808T103736Z">
+        <seg>Home</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hotspots are the graphic equivalent of text hyperlinks.</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20180610T104506Z" creationid="luciano" creationdate="20161214T131215Z">
@@ -38601,8 +38609,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Moves the cursor to the first cell of the current row.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T141524Z" creationid="luciano" creationdate="20160504T141524Z">
-        <seg>Sposta il cursore alla prima cella delle riga corrente</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190808T103848Z" creationid="luciano" creationdate="20160504T141524Z">
+        <seg>Sposta il cursore alla prima cella della riga corrente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38617,16 +38625,16 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Moves the cursor to the last cell of the current row in a column containing data.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T141745Z" creationid="luciano" creationdate="20160504T141745Z">
-        <seg>Sposta il cursore all'ultima cella della riga corrente in una colonna che contiene i dati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190808T103858Z" creationid="luciano" creationdate="20160504T141745Z">
+        <seg>aaaaSposta il cursore all'ultima cella della riga corrente in una colonna che contiene i dati.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Moves the cursor to the last cell on the sheet that contains data.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T141447Z" creationid="luciano" creationdate="20160504T141447Z">
-        <seg>Sposta il cursore all'ultima cella nel foglio che contiene dei dati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190808T103729Z" creationid="luciano" creationdate="20160504T141447Z">
+        <seg>Sposta il cursore all'ultima cella del foglio contenente dei dati.</seg>
       </tuv>
     </tu>
     <tu>
