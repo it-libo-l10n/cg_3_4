@@ -20816,8 +20816,8 @@
       <tuv lang="EN">
         <seg>Ctrl+Shift+Arrow</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T160536Z" creationid="luciano" creationdate="20160504T160536Z">
-        <seg>Ctrl+Shift+Freccia</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190808T131004Z" creationid="luciano" creationdate="20160504T160536Z">
+        <seg>Ctrl+Maiusc+Freccia</seg>
       </tuv>
     </tu>
     <tu>
@@ -38592,9 +38592,8 @@
       <tuv lang="EN">
         <seg>Moves the cursor to the bottom edge of the current data range.&lt;f0&gt; &lt;/f0&gt;If the row below the cell that contains the cursor is empty, the cursor moves down to the next row that contains data.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190808T124325Z" creationid="luciano" creationdate="20160504T160356Z">
-        <seg>aaaaSposta il cursore al margine superiore dell'area dati corrente.&lt;f0&gt; &lt;/f0&gt;&gt;Se la riga sotto la cella che contiene il cursore è vuota, il cursore si sposta sulla riga successiva inferiore.
-If the row below the cell that contains the cursor is empty, the cursor moves down to the next row that contains data.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190808T130921Z" creationid="luciano" creationdate="20160504T160356Z">
+        <seg>Sposta il cursore al margine inferiore dell'area dati corrente.&lt;f0&gt; &lt;/f0&gt;Se la riga al di sotto della cella contenente il cursore è vuota, il cursore si sposta alla riga inferiore successiva contenente dei dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49097,8 +49096,8 @@ If the row below the cell that contains the cursor is empty, the cursor moves do
       <tuv lang="EN">
         <seg>Selects all cells containing data from the current cell to the end of the continuous range of data cells, in the direction of the arrow pressed.&lt;f0&gt; &lt;/f0&gt;If used to select rows and columns together, a rectangular cell range is selected.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T161035Z" creationid="luciano" creationdate="20160504T161035Z">
-        <seg>Seleziona tutte le celle che contengono i dati dalla cella corrente fino al termine dell'intervallo di celle di dati, in direzione della freccia premuta.&lt;f0&gt; &lt;/f0&gt;Se si utilizza per selezionare assieme righe e colonne, viene selezionato un intervallo rettangolare di celle.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190808T131006Z" creationid="luciano" creationdate="20160504T161035Z">
+        <seg>aaaaSeleziona tutte le celle che contengono i dati dalla cella corrente fino al termine dell'intervallo di celle di dati, in direzione della freccia premuta.&lt;f0&gt; &lt;/f0&gt;Se si utilizza per selezionare assieme righe e colonne, viene selezionato un intervallo rettangolare di celle.</seg>
       </tuv>
     </tu>
     <tu>
