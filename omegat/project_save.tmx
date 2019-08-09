@@ -12352,16 +12352,16 @@
       <tuv lang="EN">
         <seg>Adds the next sheet to the current selection of sheets.&lt;f0&gt; &lt;/f0&gt;If all the sheets in a spreadsheet are selected, this combination only selects the next sheet.&lt;f1&gt; &lt;/f1&gt;Makes the next sheet the current sheet.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160505T142105Z" creationid="luciano" creationdate="20160504T162654Z">
-        <seg>Aggiunge il prossimo foglio elettronico alla selezione corrente di fogli elettronici.&lt;f0&gt; &lt;/f0&gt;Se sono selezionati tutti i fogli del foglio elettronico, questa combinazione seleziona solamente il prosimo foglio.&lt;f1&gt; &lt;/f1&gt;Rende il foglio successivo il foglio corrente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190809T095635Z" creationid="luciano" creationdate="20160504T162654Z">
+        <seg>aaaaAggiunge il prossimo foglio elettronico alla selezione corrente di fogli elettronici.&lt;f0&gt; &lt;/f0&gt;Se sono selezionati tutti i fogli del foglio elettronico, questa combinazione seleziona solamente il prosimo foglio.&lt;f1&gt; &lt;/f1&gt;Rende il foglio successivo il foglio corrente.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Adds the previous sheet to the current selection of sheets.&lt;f0&gt; &lt;/f0&gt;If all the sheets in a spreadsheet are selected, this combination only selects the previous sheet.&lt;f1&gt; &lt;/f1&gt;Makes the previous sheet the current sheet.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190809T095135Z" creationid="luciano" creationdate="20160509T152331Z">
-        <seg>aaaaAggiunge il foglio precedente alla selezione di fogli elettronici.&lt;f0&gt; &lt;/f0&gt;Se sono selezionati tutti i fogli nel foglio elettronico, questa combinazione seleziona solo il foglio precedente.&lt;f1&gt; &lt;/f1&gt;Rende il foglio precedente il foglio corrente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190809T095615Z" creationid="luciano" creationdate="20160509T152331Z">
+        <seg>Aggiunge il foglio precedente alla selezione corrente.&lt;f0&gt; &lt;/f0&gt;Se sono selezionati tutti i fogli nel foglio elettronico, questa combinazione seleziona solo il foglio precedente.&lt;f1&gt; &lt;/f1&gt;Rende attivo il foglio precedente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20706,6 +20706,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20190807T160550Z" creationid="luke" creationdate="20190807T160550Z">
         <seg>Ctrl (Control)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+*</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190809T095636Z" creationid="luke" creationdate="20190809T095636Z">
+        <seg>Ctrl+*</seg>
       </tuv>
     </tu>
     <tu>
