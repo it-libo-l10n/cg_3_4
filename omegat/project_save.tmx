@@ -20750,6 +20750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+F2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190809T145030Z" creationid="luke" creationdate="20190809T145030Z">
+        <seg>Ctrl+F2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Home</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20190808T103351Z" creationid="luke" creationdate="20190808T100551Z">
@@ -21880,8 +21888,8 @@
       <tuv lang="EN">
         <seg>Displays context help.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190809T141511Z" creationid="luciano" creationdate="20160505T144528Z">
-        <seg>aaaaVisualizza la guida contestuale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190809T144422Z" creationid="luciano" creationdate="20160505T144528Z">
+        <seg>Visualizza l'Aiuto contestuale (Guida attiva).</seg>
       </tuv>
     </tu>
     <tu>
@@ -21984,8 +21992,8 @@
       <tuv lang="EN">
         <seg>Displays the note that is attached to the current cell.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160505T144601Z" creationid="luciano" creationdate="20160505T144601Z">
-        <seg>Visualizza le note allegate alla cella corrente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190809T145025Z" creationid="luciano" creationdate="20160505T144601Z">
+        <seg>Visualizza la nota collegata alla cella attiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24002,6 +24010,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084256Z">
         <seg>F11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>F2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190809T145027Z" creationid="luke" creationdate="20190809T145027Z">
+        <seg>F2</seg>
       </tuv>
     </tu>
     <tu>
@@ -51360,8 +51376,8 @@
       <tuv lang="EN">
         <seg>Switches to Edit mode and places the cursor at the end of the contents of the current cell.&lt;f0&gt; &lt;/f0&gt;If the cursor is in an input box in a dialog that has a minimize button, the dialog is hidden and the input box remains visible.&lt;f1&gt; &lt;/f1&gt;Press &lt;f2&gt;&lt;f3&gt;F2&lt;/f3&gt;&lt;/f2&gt; again to show the whole dialog.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160505T144913Z" creationid="luciano" creationdate="20160505T144913Z">
-        <seg>Passa alla modalità di Modifica e posiziona il cursore alla fine del contenuto della cella corrente.&lt;f0&gt; &lt;/f0&gt;
+      <tuv lang="IT-IT" changeid="luke" changedate="20190809T145029Z" creationid="luciano" creationdate="20160505T144913Z">
+        <seg>aaaaPassa alla modalità di Modifica e posiziona il cursore alla fine del contenuto della cella corrente.&lt;f0&gt; &lt;/f0&gt;
 Se il cursore è in una casella di input in una finestra di dialogo che ha un pulsante di riduzione, la finestra viene nascosta e la casella di immissione rimane visibile..&lt;f1&gt; &lt;/f1&gt;Prenere ancora &lt;f2&gt;&lt;f3&gt;F2&lt;/f3&gt;&lt;/f2&gt; per visualizzare la finestra di dialogo intera.</seg>
       </tuv>
     </tu>
