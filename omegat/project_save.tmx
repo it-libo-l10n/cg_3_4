@@ -20742,6 +20742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+F1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190809T141511Z" creationid="luke" creationdate="20190809T141511Z">
+        <seg>Ctrl+F1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Home</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20190808T103351Z" creationid="luke" creationdate="20190808T100551Z">
@@ -21872,8 +21880,8 @@
       <tuv lang="EN">
         <seg>Displays context help.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160505T144528Z" creationid="luciano" creationdate="20160505T144528Z">
-        <seg>Visualizza la guida contestuale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190809T141511Z" creationid="luciano" creationdate="20160505T144528Z">
+        <seg>aaaaVisualizza la guida contestuale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21896,8 +21904,8 @@
       <tuv lang="EN">
         <seg>Displays the LibreOffice help browser.&lt;f0&gt; &lt;/f0&gt;When the help browser is already open &lt;f1&gt;&lt;f2&gt;F1&lt;/f2&gt;&lt;/f1&gt; jumps to the main help page.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190809T135259Z" creationid="luciano" creationdate="20160505T144445Z">
-        <seg>aaaaVisualizza la pagina della guida di aiuto di LibreOffice.&lt;f0&gt; &lt;/f0&gt;Quando la pagina della guida di aiuto è già aperta con &lt;f1&gt;&lt;f2&gt;F1&lt;/f2&gt;&lt;/f1&gt; si ritorna all'indice principale della guida.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190809T141458Z" creationid="luciano" creationdate="20160505T144445Z">
+        <seg>Mostra la Guida in linea di LibreOffice.&lt;f0&gt; &lt;/f0&gt;Quando la Guida in linea è già aperta, la pressione di &lt;f1&gt;&lt;f2&gt;F1&lt;/f2&gt;&lt;/f1&gt; riporta alla pagina principale della Guida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49784,8 +49792,8 @@
       <tuv lang="EN">
         <seg>Shift+F1</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190809T135300Z" creationid="luke" creationdate="20190809T135300Z">
-        <seg>Shift+F1</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190809T141509Z" creationid="luke" creationdate="20190809T135300Z">
+        <seg>Maiusc+F1</seg>
       </tuv>
     </tu>
     <tu>
