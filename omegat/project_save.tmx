@@ -21896,8 +21896,8 @@
       <tuv lang="EN">
         <seg>Displays the LibreOffice help browser.&lt;f0&gt; &lt;/f0&gt;When the help browser is already open &lt;f1&gt;&lt;f2&gt;F1&lt;/f2&gt;&lt;/f1&gt; jumps to the main help page.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160505T144445Z" creationid="luciano" creationdate="20160505T144445Z">
-        <seg>Visualizza la pagina della guida di aiuto di LibreOffice.&lt;f0&gt; &lt;/f0&gt;Quando la pagina della guida di aiuto è già aperta con &lt;f1&gt;&lt;f2&gt;F1&lt;/f2&gt;&lt;/f1&gt; si ritorna all'indice principale della guida.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190809T135259Z" creationid="luciano" creationdate="20160505T144445Z">
+        <seg>aaaaVisualizza la pagina della guida di aiuto di LibreOffice.&lt;f0&gt; &lt;/f0&gt;Quando la pagina della guida di aiuto è già aperta con &lt;f1&gt;&lt;f2&gt;F1&lt;/f2&gt;&lt;/f1&gt; si ritorna all'indice principale della guida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23978,6 +23978,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="steevie" changedate="20160503T151604Z" creationid="steevie" creationdate="20160503T151604Z">
         <seg>F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>F1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190809T135256Z" creationid="luke" creationdate="20190809T135256Z">
+        <seg>F1</seg>
       </tuv>
     </tu>
     <tu>
@@ -49774,6 +49782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shift+F1</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190809T135300Z" creationid="luke" creationdate="20190809T135300Z">
+        <seg>Shift+F1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shift+F11</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T152734Z" creationid="luciano" creationdate="20160509T152734Z">
@@ -51657,8 +51673,8 @@ Se il cursore è in una casella di input in una finestra di dialogo che ha un pu
       <tuv lang="EN">
         <seg>Table &lt;seq0&gt;31&lt;/seq0&gt;: Function key shortcuts</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190809T131813Z" creationid="luciano" creationdate="20160505T143803Z">
-        <seg>aaaaTabella &lt;seq0&gt;31&lt;/seq0&gt;: Scorciatoie dei tasti funzione</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190809T135246Z" creationid="luciano" creationdate="20160505T143803Z">
+        <seg>Tabella &lt;seq0&gt;31&lt;/seq0&gt;: scorciatoie dei tasti funzione</seg>
       </tuv>
     </tu>
     <tu>
