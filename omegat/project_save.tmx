@@ -20464,8 +20464,8 @@
       <tuv lang="EN">
         <seg>Creates a document template.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160509T141625Z" creationid="luciano" creationdate="20160509T141557Z">
-        <seg>Crea un nuovo modello di documento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190812T160744Z" creationid="luciano" creationdate="20160509T141557Z">
+        <seg>Crea un modello di documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20746,6 +20746,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20190809T141511Z" creationid="luke" creationdate="20190809T141511Z">
         <seg>Ctrl+F1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+F12</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190812T161048Z" creationid="luke" creationdate="20190812T161048Z">
+        <seg>Ctrl+F12</seg>
       </tuv>
     </tu>
     <tu>
@@ -24042,6 +24050,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084256Z">
         <seg>F11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>F12</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190812T160927Z" creationid="luke" creationdate="20190812T160927Z">
+        <seg>F12</seg>
       </tuv>
     </tu>
     <tu>
@@ -41288,8 +41304,8 @@
       <tuv lang="EN">
         <seg>Opens the Styles and Formatting window where you can apply a formatting style to the contents of the cell or to the current sheet.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160505T163537Z" creationid="luciano" creationdate="20160505T163537Z">
-        <seg>Apre la finestra Stili e Formattazione con la quale applicare uno stile di formattazione al contenuto della cella o al foglio elettronico corrente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190812T160532Z" creationid="luciano" creationdate="20160505T163537Z">
+        <seg>Apre la finestra Stili e formattazione, che consente di applicare uno stile di formattazione al contenuto della cella o al foglio attivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62808,8 +62824,8 @@
       <tuv lang="EN">
         <seg>Ungroups the selected data range.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160509T141732Z" creationid="luciano" creationdate="20160509T141732Z">
-        <seg>Separa l'area dati selezionata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190812T161050Z" creationid="luciano" creationdate="20160509T141732Z">
+        <seg>aaaaSepara l'area dati selezionata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62872,16 +62888,16 @@
       <tuv lang="EN">
         <seg>Updates the selected chart.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190812T154436Z" creationid="luciano" creationdate="20160505T163332Z">
-        <seg>aaaaAggiorna il grafico selezionato.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190812T160220Z" creationid="luciano" creationdate="20160505T163332Z">
+        <seg>Aggiorna il grafico selezionato.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Updates the templates.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160509T141616Z" creationid="luciano" creationdate="20160509T141616Z">
-        <seg>Aggiorna il modello di documento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190812T160922Z" creationid="luciano" creationdate="20160509T141616Z">
+        <seg>Aggiorna i modelli.</seg>
       </tuv>
     </tu>
     <tu>
