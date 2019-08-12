@@ -41120,8 +41120,8 @@
       <tuv lang="EN">
         <seg>Opens the &lt;f0&gt;Define Names &lt;/f0&gt;dialog.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190812T103614Z" creationid="luciano" creationdate="20160505T145216Z">
-        <seg>aaaaApre la finestra di dialogo &lt;f0&gt;Gestisci nomi &lt;/f0&gt;. </seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190812T121507Z" creationid="luciano" creationdate="20160505T145216Z">
+        <seg>Apre la finestra di dialogo &lt;f0&gt;Gestisci nomi&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43680,8 +43680,8 @@
       <tuv lang="EN">
         <seg>Rearranges the relative or absolute references (for example, A1, $A$1, $A1, A$1) in the input field.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160505T160740Z" creationid="luciano" creationdate="20160505T160740Z">
-        <seg>Riorganizza i riferimenti relativi o assoluti (per esempio, A1, $A$1, $A1, A$1) nel campo di digitazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190812T121741Z" creationid="luciano" creationdate="20160505T160740Z">
+        <seg>aaaaRiorganizza i riferimenti relativi o assoluti (per esempio, A1, $A$1, $A1, A$1) nel campo di digitazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49846,6 +49846,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shift+F4</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190812T121739Z" creationid="luke" creationdate="20190812T121739Z">
+        <seg>Maiusc+F4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shift+F5</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T152650Z" creationid="luciano" creationdate="20160509T152650Z">
@@ -49968,8 +49976,8 @@
       <tuv lang="EN">
         <seg>Shows or hides the &lt;f0&gt;Database Sources&lt;/f0&gt; menu.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160505T160635Z" creationid="luciano" creationdate="20160505T160635Z">
-        <seg>Mostra o nasconde il menu &lt;f0&gt;Sorgenti di Database&lt;/f0&gt; .</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190812T121725Z" creationid="luciano" creationdate="20160505T160635Z">
+        <seg>Mostra o nasconde il menu &lt;f0&gt;Sorgenti dati&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
