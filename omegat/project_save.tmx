@@ -24030,6 +24030,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>F4</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190812T103615Z" creationid="luke" creationdate="20190812T103615Z">
+        <seg>F4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>F5</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="briga" changedate="20160210T084250Z">
@@ -38672,8 +38680,8 @@
       <tuv lang="EN">
         <seg>Moves the cursor to the input line where you can enter a formula for the current cell.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190812T103149Z" creationid="luciano" creationdate="20160505T145115Z">
-        <seg>aaaaSposta il cursore alla riga di digitazione dove potere inserire una formula per la cella corrente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190812T103607Z" creationid="luciano" creationdate="20160505T145115Z">
+        <seg>Sposta il cursore nella riga di digitazione, dove potere inserire una formula per la cella attiva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41112,8 +41120,8 @@
       <tuv lang="EN">
         <seg>Opens the &lt;f0&gt;Define Names &lt;/f0&gt;dialog.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160505T160334Z" creationid="luciano" creationdate="20160505T145216Z">
-        <seg>Apre la finestra di dialogo &lt;f0&gt;Gestisci nomi &lt;/f0&gt;. </seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190812T103614Z" creationid="luciano" creationdate="20160505T145216Z">
+        <seg>aaaaApre la finestra di dialogo &lt;f0&gt;Gestisci nomi &lt;/f0&gt;. </seg>
       </tuv>
     </tu>
     <tu>
