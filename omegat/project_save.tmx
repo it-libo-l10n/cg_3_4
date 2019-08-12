@@ -20782,6 +20782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+F9</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190812T154434Z" creationid="luke" creationdate="20190812T154434Z">
+        <seg>Ctrl+F9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Home</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20190808T103351Z" creationid="luke" creationdate="20190808T100551Z">
@@ -30296,8 +30304,8 @@
       <tuv lang="EN">
         <seg>Highlights cells containing numeric values (not text).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190812T152241Z" creationid="luciano" creationdate="20160505T163226Z">
-        <seg>aaaaEvidenzia le celle che contengono valori numerici (non testo). </seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190812T154322Z" creationid="luciano" creationdate="20160505T163226Z">
+        <seg>Evidenzia le celle contenenti valori numerici (non testo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -43728,8 +43736,8 @@
       <tuv lang="EN">
         <seg>Recalculates all of the formulas in the sheet.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160505T163307Z" creationid="luciano" creationdate="20160505T163307Z">
-        <seg>Ripete il calcolo di tutte le formule nel foglio elettronico.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190812T154430Z" creationid="luciano" creationdate="20160505T163307Z">
+        <seg>Ricalcola tutte le formule presenti nel foglio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62864,8 +62872,8 @@
       <tuv lang="EN">
         <seg>Updates the selected chart.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160505T163332Z" creationid="luciano" creationdate="20160505T163332Z">
-        <seg>Aggiorna il grafico selezionato.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190812T154436Z" creationid="luciano" creationdate="20160505T163332Z">
+        <seg>aaaaAggiorna il grafico selezionato.</seg>
       </tuv>
     </tu>
     <tu>
