@@ -17632,8 +17632,8 @@
       <tuv lang="EN">
         <seg>Checks spelling in the current sheet.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190812T133809Z" creationid="luciano" creationdate="20160505T162027Z">
-        <seg>aaaaControllo ortografico nel foglio corrente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190812T142441Z" creationid="luciano" creationdate="20160505T162027Z">
+        <seg>Esegue il controllo ortografico nel foglio attivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20770,6 +20770,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20190812T133810Z" creationid="luke" creationdate="20190812T133810Z">
         <seg>Ctrl+F7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+F8</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190812T142712Z" creationid="luke" creationdate="20190812T142712Z">
+        <seg>Ctrl+F8</seg>
       </tuv>
     </tu>
     <tu>
@@ -24058,6 +24066,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luke" changedate="20190812T133802Z" creationid="luke" creationdate="20190812T133802Z">
         <seg>F7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>F8</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190812T142710Z" creationid="luke" creationdate="20190812T142710Z">
+        <seg>F8</seg>
       </tuv>
     </tu>
     <tu>
@@ -41144,8 +41160,8 @@
       <tuv lang="EN">
         <seg>Opens the &lt;f0&gt;Thesaurus&lt;/f0&gt; if the current cell contains text.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160505T162145Z" creationid="luciano" creationdate="20160505T162145Z">
-        <seg>Apre i&lt;f0&gt;Sinonimi&lt;/f0&gt; se la cella corrente contiene del testo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190812T142620Z" creationid="luciano" creationdate="20160505T162145Z">
+        <seg>Apre la funzione &lt;f0&gt;Sinonimi&lt;/f0&gt; se la cella attiva contiene del testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62400,8 +62416,8 @@
       <tuv lang="EN">
         <seg>Traces precedents.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160505T162233Z" creationid="luciano" creationdate="20160505T162233Z">
-        <seg>Individua precedenti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190812T142706Z" creationid="luciano" creationdate="20160505T162233Z">
+        <seg>Individua le celle precedenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62464,8 +62480,8 @@
       <tuv lang="EN">
         <seg>Turns additional selection mode on or off.&lt;f0&gt; &lt;/f0&gt;In this mode, you can use the arrow keys to extend the selection.&lt;f1&gt; &lt;/f1&gt;You can also click in another cell to extend the selection.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160505T163134Z" creationid="luciano" creationdate="20160505T162615Z">
-        <seg>Abilita o disabilita la selezione aggiuntiva.&lt;f0&gt; &lt;/f0&gt;In questa modalità, potete utilizzare le frecce della tastiera per estendere la selezionethis mode.&lt;f1&gt; &lt;/f1&gt;Inoltre potete fare clic in un'altra cella per ampliare la selezione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190812T142711Z" creationid="luciano" creationdate="20160505T162615Z">
+        <seg>aaaaAbilita o disabilita la selezione aggiuntiva.&lt;f0&gt; &lt;/f0&gt;In questa modalità, potete utilizzare le frecce della tastiera per estendere la selezionethis mode.&lt;f1&gt; &lt;/f1&gt;Inoltre potete fare clic in un'altra cella per ampliare la selezione.</seg>
       </tuv>
     </tu>
     <tu>
