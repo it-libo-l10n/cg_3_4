@@ -41176,8 +41176,8 @@
       <tuv lang="EN">
         <seg>Opens the Function Wizard.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160505T144957Z" creationid="luciano" creationdate="20160505T144957Z">
-        <seg>Avvia la Funzione Creazione Guidata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190812T095912Z" creationid="luciano" creationdate="20160505T144957Z">
+        <seg>aaaaAvvia la Funzione Creazione Guidata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49774,6 +49774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shift+Ctrl+F2</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190812T095913Z" creationid="luke" creationdate="20190812T095913Z">
+        <seg>Shift+Ctrl+F2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shift+Ctrl+F5</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T152724Z" creationid="luciano" creationdate="20160509T152724Z">
@@ -51376,8 +51384,8 @@
       <tuv lang="EN">
         <seg>Switches to Edit mode and places the cursor at the end of the contents of the current cell.&lt;f0&gt; &lt;/f0&gt;If the cursor is in an input box in a dialog that has a minimize button, the dialog is hidden and the input box remains visible.&lt;f1&gt; &lt;/f1&gt;Press &lt;f2&gt;&lt;f3&gt;F2&lt;/f3&gt;&lt;/f2&gt; again to show the whole dialog.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190809T150300Z" creationid="luciano" creationdate="20160505T144913Z">
-        <seg>aaaaaaaaaaaaaaaaPassa alla modalità di Modifica e posiziona il cursore alla fine del contenuto della cella attiva.&lt;f0&gt; &lt;/f0&gt;Se il cursore è in una casella di inserimento in una finestra di dialogo che ha un pulsante di riduzione, la finestra viene nascosta e la casella di immissione rimane visibile.&lt;f1&gt; &lt;/f1&gt;Premendo nuovamente &lt;f2&gt;&lt;f3&gt;F2&lt;/f3&gt;&lt;/f2&gt; viene visualizzata l'intera finestra di dialogo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190812T095849Z" creationid="luciano" creationdate="20160505T144913Z">
+        <seg>Passa alla modalità di Modifica e posiziona il cursore alla fine del contenuto della cella attiva.&lt;f0&gt; &lt;/f0&gt;Se il cursore si trova in una casella di inserimento in una finestra di dialogo che ha un pulsante di riduzione, la finestra viene nascosta e la casella di inserimento rimane visibile.&lt;f1&gt; &lt;/f1&gt;Premendo nuovamente &lt;f2&gt;&lt;f3&gt;F2&lt;/f3&gt;&lt;/f2&gt; viene visualizzata l'intera finestra di dialogo.</seg>
       </tuv>
     </tu>
     <tu>
