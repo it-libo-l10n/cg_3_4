@@ -12902,6 +12902,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alt+C</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190820T092223Z" creationid="luke" creationdate="20190820T092223Z">
+        <seg>Alt+C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alt+D</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190820T092320Z" creationid="luke" creationdate="20190820T092320Z">
+        <seg>Alt+D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alt+Down Arrow</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160509T142125Z" creationid="luciano" creationdate="20160509T142125Z">
@@ -12930,6 +12946,14 @@
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160505T142844Z" creationid="luciano" creationdate="20160505T142844Z">
         <seg>Alt+Pagina su</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alt+R</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190820T092124Z" creationid="luke" creationdate="20190820T092124Z">
+        <seg>Alt+R</seg>
       </tuv>
     </tu>
     <tu>
@@ -20896,8 +20920,8 @@
       <tuv lang="EN">
         <seg>Ctrl+Up Arrow</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160504T142350Z" creationid="luciano" creationdate="20160504T142350Z">
-        <seg>Ctrl+Freccia su</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190820T092439Z" creationid="luciano" creationdate="20160504T142350Z">
+        <seg>aaaaCtrl+Freccia su</seg>
       </tuv>
     </tu>
     <tu>
@@ -49256,8 +49280,8 @@
       <tuv lang="EN">
         <seg>Selects the last field in the current layout area.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160509T150017Z" creationid="luciano" creationdate="20160509T150017Z">
-        <seg>Seleziona l'ultimo elemento nell'area attiva della finestra di dialogo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190820T092106Z" creationid="luciano" creationdate="20160509T150017Z">
+        <seg>Seleziona l'ultimo campo nell'area attiva del layout.</seg>
       </tuv>
     </tu>
     <tu>
