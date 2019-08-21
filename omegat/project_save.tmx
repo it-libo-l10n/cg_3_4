@@ -12934,6 +12934,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alt+O</seg>
+      </tuv>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190821T084137Z" creationid="luke" creationdate="20190821T084137Z">
+        <seg>Alt+O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alt+Page Down</seg>
       </tuv>
       <tuv lang="IT-IT" changeid="luciano" changedate="20160505T142909Z" creationid="luciano" creationdate="20160505T142909Z">
@@ -22072,8 +22080,8 @@
       <tuv lang="EN">
         <seg>Displays the options for the current field.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160509T150640Z" creationid="luciano" creationdate="20160509T150544Z">
-        <seg>Mostra le opzioni per il campo attivo</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190821T084212Z" creationid="luciano" creationdate="20160509T150544Z">
+        <seg>Mostra le opzioni per il campo attivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38576,8 +38584,8 @@
       <tuv lang="EN">
         <seg>Move the current field to the last place.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160509T150506Z" creationid="luciano" creationdate="20160509T150506Z">
-        <seg>Sposta nell'ultima prima posizione il campo attivo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190821T084131Z" creationid="luciano" creationdate="20160509T150506Z">
+        <seg>Sposta in ultima posizione il campo attivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38720,8 +38728,8 @@
       <tuv lang="EN">
         <seg>Moves the current field to the first place.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190820T094345Z" creationid="luciano" creationdate="20160509T150334Z">
-        <seg>aaaaaaaaaaaaaaaaaaSposta nella prima posizione il campo attivo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190821T082854Z" creationid="luciano" creationdate="20160509T150334Z">
+        <seg>Sposta in prima posizione il campo attivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44184,8 +44192,8 @@
       <tuv lang="EN">
         <seg>Removes the current field from the area.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luciano" changedate="20160509T150654Z" creationid="luciano" creationdate="20160509T150634Z">
-        <seg>Rimuove il campo attivo dall'area.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190821T084225Z" creationid="luciano" creationdate="20160509T150634Z">
+        <seg>aaaaRimuove il campo attivo dall'area.</seg>
       </tuv>
     </tu>
     <tu>
