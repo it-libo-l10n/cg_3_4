@@ -6200,8 +6200,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Functions whose names end with &lt;/f0&gt;&lt;f1&gt;_ADD&lt;/f1&gt;&lt;f2&gt; are provided for compatibility with &lt;/f2&gt;&lt;f3&gt;Microsoft Excel functions.&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;They &lt;/f5&gt;&lt;f6&gt;return&lt;/f6&gt;&lt;f7&gt; the same results as the corresponding functions in Excel (without the suffix), which though they may be correct, are not based on international standards.&lt;/f7&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T073527Z" creationid="Marco Marega" creationdate="20160625T072245Z">
-        <seg>&lt;f0&gt;Le funzioni i cui nomi terminano in &lt;/f0&gt;&lt;f1&gt;_ADD&lt;/f1&gt;&lt;f2&gt; vengono fornite per compatibilità con le funzioni di &lt;/f2&gt;&lt;f3&gt;Microsoft Excel &lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Queste &lt;/f5&gt;&lt;f6&gt;restituiscono&lt;/f6&gt;&lt;f7&gt; lo stesso risultato delle corrispondenti funzioni (senza il suffisso) in Excel, che anche se può essere corretto non si basa sugli standard internazionali.&lt;/f7&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190822T080755Z" creationid="Marco Marega" creationdate="20160625T072245Z">
+        <seg>aaaa&lt;f0&gt;Le funzioni i cui nomi terminano in &lt;/f0&gt;&lt;f1&gt;_ADD&lt;/f1&gt;&lt;f2&gt; vengono fornite per compatibilità con le funzioni di &lt;/f2&gt;&lt;f3&gt;Microsoft Excel &lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Queste &lt;/f5&gt;&lt;f6&gt;restituiscono&lt;/f6&gt;&lt;f7&gt; lo stesso risultato delle corrispondenti funzioni (senza il suffisso) in Excel, che anche se può essere corretto non si basa sugli standard internazionali.&lt;/f7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7464,8 +7464,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Over 300 standard functions &lt;/f0&gt;are&lt;f1&gt; available in Calc.&lt;/f1&gt;&lt;bs2/&gt;&lt;f3&gt; &lt;/f3&gt;&lt;be4/&gt;&lt;f5&gt;More can be added through extensions to Calc (see Chapter 14).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190822T074941Z" creationid="Marco Marega" creationdate="20160625T071927Z">
-        <seg>aaaa&lt;f0&gt;In Calc sono disponibili oltre &lt;/f0&gt;300&lt;f1&gt; funzioni standard. &lt;/f1&gt;&lt;bs2/&gt;&lt;f3&gt; &lt;/f3&gt;&lt;be4/&gt;&lt;f5&gt;Altre possono essere aggiunte tramite delle estensioni a Calc (vedete il Capitolo 14).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190822T080641Z" creationid="Marco Marega" creationdate="20160625T071927Z">
+        <seg>&lt;f0&gt;In Calc sono disponibili oltre &lt;/f0&gt;300&lt;f1&gt; funzioni standard.&lt;/f1&gt;&lt;bs2/&gt;&lt;f3&gt; &lt;/f3&gt;&lt;be4/&gt;&lt;f5&gt;Altre possono essere aggiunte tramite le estensioni per Calc (vedete il Capitolo 14).</seg>
       </tuv>
     </tu>
     <tu>
@@ -55024,8 +55024,8 @@
       <tuv lang="EN">
         <seg>The following tables list Calc’s functions organized into eleven categories.&lt;/f5&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T072022Z" creationid="Marco Marega" creationdate="20160625T072022Z">
-        <seg>Le tabelle seguenti elencano le funzioni di Calc organizzate in undici categorie.&lt;/f5&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190822T080747Z" creationid="Marco Marega" creationdate="20160625T072022Z">
+        <seg>Le seguenti tabelle elencano le funzioni di Calc organizzate in undici categorie.&lt;/f5&gt;</seg>
       </tuv>
     </tu>
     <tu>
