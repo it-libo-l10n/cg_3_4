@@ -8496,8 +8496,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;This appendix attempts to clarify this situation by using the term &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;arguments&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, rather than any of the other phrases.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T080904Z" creationid="Marco Marega" creationdate="20160625T080904Z">
-        <seg>&lt;f0&gt;Questa appendice tenta di essere chiara in queste situazioni usando il termine &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;parametri&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, piuttosto che altre espressioni.&lt;/f3&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190822T121220Z" creationid="Marco Marega" creationdate="20160625T080904Z">
+        <seg>aaaaaaaaaaaaaaaaaaa&lt;f0&gt;Questa appendice tenta di essere chiara in queste situazioni usando il termine &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;parametri&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;, piuttosto che altre espressioni.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -57960,8 +57960,8 @@
       <tuv lang="EN">
         <seg>Therefore one argument can refer to several values, and a function that limits input to 30 arguments may in fact accept more then 30 separate numerical values.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190822T101550Z" creationid="Marco Marega" creationdate="20160625T080529Z">
-        <seg>aaaaPerciò, un parametro può riferirsi a diversi valori ed una funzione che ha un limite di 30 parametri, di fatto può accettare più di 30 distinti valori numerici.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190822T121216Z" creationid="Marco Marega" creationdate="20160625T080529Z">
+        <seg>Perciò un singolo argomento può riferirsi a diversi valori, e una funzione che ha un limite di 30 argomenti può di fatto accettare più di 30 distinti valori numerici.</seg>
       </tuv>
     </tu>
     <tu>
