@@ -4720,8 +4720,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;ATAN&lt;/f0&gt;(number)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T145619Z" creationid="Marco Marega" creationdate="20160625T145619Z">
-        <seg>&lt;f0&gt;ARCTAN&lt;/f0&gt;(numero)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190826T103943Z" creationid="Marco Marega" creationdate="20160625T145619Z">
+        <seg>aaaa&lt;f0&gt;ARCTAN&lt;/f0&gt;(numero)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45632,8 +45632,8 @@
       <tuv lang="EN">
         <seg>Returns the inverse hyperbolic cotangent of the given &lt;f0&gt;number&lt;/f0&gt; in radians.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190826T092830Z" creationid="Marco Marega" creationdate="20160625T145026Z">
-        <seg>aaaaRestituisce l'inverso della cotangente iperbolica del &lt;f0&gt;numero&lt;/f0&gt; dato espresso in radianti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190826T103312Z" creationid="Marco Marega" creationdate="20160625T145026Z">
+        <seg>Restituisce l'inverso della cotangente iperbolica del &lt;f0&gt;numero&lt;/f0&gt; dato espresso in radianti.</seg>
       </tuv>
     </tu>
     <tu>
