@@ -10008,8 +10008,8 @@
       <tuv lang="EN">
         <seg>&lt;s0/&gt;(Angle is returned in radians.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T150142Z" creationid="Marco Marega" creationdate="20160625T150142Z">
-        <seg>&lt;s0/&gt;(L'Angolo viene restituito in radianti.)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190826T130440Z" creationid="Marco Marega" creationdate="20160625T150142Z">
+        <seg>&lt;s0/&gt;(l'angolo viene restituito in radianti).</seg>
       </tuv>
     </tu>
     <tu>
@@ -45648,8 +45648,8 @@
       <tuv lang="EN">
         <seg>Returns the inverse hyperbolic tangent of the given number.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180327T065954Z" creationid="Marco Marega" creationdate="20160625T150058Z">
-        <seg>Restituisce l'inverso della tangente iperbolica del numero dato.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190826T130448Z" creationid="Marco Marega" creationdate="20160625T150058Z">
+        <seg>Restituisce l'inverso della tangente iperbolica del numero dato</seg>
       </tuv>
     </tu>
     <tu>
@@ -45744,8 +45744,8 @@
       <tuv lang="EN">
         <seg>Returns the inverse tangent of the specified x and y coordinates.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number_x&lt;/f1&gt; is the value for the x coordinate.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Number_y&lt;/f3&gt; is the value for the y coordinate.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190826T122050Z" creationid="Marco Marega" creationdate="20160625T145958Z">
-        <seg>aaaaRestituisce l'inverso della tangente delle coordinate x ed y specificate.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Il Numero_x&lt;/f1&gt; è il valore per la coordinata delle x.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Il Numero_y&lt;/f3&gt; è il valore per la coordinata delle y.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190826T130235Z" creationid="Marco Marega" creationdate="20160625T145958Z">
+        <seg>Restituisce l'inverso della tangente delle coordinate x e y specificate.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Il Numero_x&lt;/f1&gt; è il valore per la coordinata x.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Il Numero_y&lt;/f3&gt; è il valore per la coordinata y.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46824,8 +46824,8 @@
       <tuv lang="EN">
         <seg>Rounds the given &lt;f0&gt;number&lt;/f0&gt; to the nearest integer or multiple of significance.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Significance&lt;/f2&gt; is the value to whose multiple of ten the value is to be rounded up (.01, .1, 1, 10, etc.).&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Mode&lt;/f4&gt; is an optional value.&lt;f5&gt; &lt;/f5&gt;If it is indicated and non-zero and if the number and significance are negative, rounding up is carried out based on that value.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T112024Z" creationid="Marco Marega" creationdate="20160625T151619Z">
-        <seg>Arrotonda per eccesso il &lt;f0&gt;numero&lt;/f0&gt; dato all'intero o al multiplo di peso più vicino.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Peso&lt;/f2&gt; è il valore al cui multiplo di dieci il numero deve essere arrotondato (.01, .1, 1, 10, ecc.).&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Modo&lt;/f4&gt; è un valore opzionale.&lt;f5&gt; &lt;/f5&gt;Se viene indicato ed è diverso da zero e se il numero ed il peso sono negativi, l'arrotondamento viene eseguito rispetto al valore assoluto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190826T130649Z" creationid="Marco Marega" creationdate="20160625T151619Z">
+        <seg>aaaaArrotonda per eccesso il &lt;f0&gt;numero&lt;/f0&gt; dato all'intero o al multiplo di peso più vicino.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Peso&lt;/f2&gt; è il valore al cui multiplo di dieci il numero deve essere arrotondato (.01, .1, 1, 10, ecc.).&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Modo&lt;/f4&gt; è un valore opzionale.&lt;f5&gt; &lt;/f5&gt;Se viene indicato ed è diverso da zero e se il numero ed il peso sono negativi, l'arrotondamento viene eseguito rispetto al valore assoluto.</seg>
       </tuv>
     </tu>
     <tu>
