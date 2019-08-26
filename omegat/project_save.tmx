@@ -4720,8 +4720,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;ATAN&lt;/f0&gt;(number)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190826T103943Z" creationid="Marco Marega" creationdate="20160625T145619Z">
-        <seg>aaaa&lt;f0&gt;ARCTAN&lt;/f0&gt;(numero)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190826T121750Z" creationid="Marco Marega" creationdate="20160625T145619Z">
+        <seg>&lt;f0&gt;ARCTAN&lt;/f0&gt;(numero)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45744,8 +45744,8 @@
       <tuv lang="EN">
         <seg>Returns the inverse tangent of the specified x and y coordinates.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number_x&lt;/f1&gt; is the value for the x coordinate.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Number_y&lt;/f3&gt; is the value for the y coordinate.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T145958Z" creationid="Marco Marega" creationdate="20160625T145958Z">
-        <seg>Restituisce l'inverso della tangente delle coordinate x ed y specificate.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Il Numero_x&lt;/f1&gt; è il valore per la coordinata delle x.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Il Numero_y&lt;/f3&gt; è il valore per la coordinata delle y.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190826T122050Z" creationid="Marco Marega" creationdate="20160625T145958Z">
+        <seg>aaaaRestituisce l'inverso della tangente delle coordinate x ed y specificate.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Il Numero_x&lt;/f1&gt; è il valore per la coordinata delle x.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Il Numero_y&lt;/f3&gt; è il valore per la coordinata delle y.</seg>
       </tuv>
     </tu>
     <tu>
