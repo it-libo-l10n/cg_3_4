@@ -5008,16 +5008,16 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;COMBIN&lt;/f0&gt;(count_1; count_2)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190826T143741Z" creationid="Marco Marega" creationdate="20160625T151734Z">
-        <seg>&lt;f0&gt;COMBINAZIONE&lt;/f0&gt;(Numero_1; Numero_2)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190826T160401Z" creationid="Marco Marega" creationdate="20160625T151734Z">
+        <seg>&lt;f0&gt;COMBINAZIONE&lt;/f0&gt;(numero_1; numero_2)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;COMBINA&lt;/f0&gt;(count_1; count_2)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T153934Z" creationid="Marco Marega" creationdate="20160625T153934Z">
-        <seg>&lt;f0&gt;COMBINAZIONE.VALORI&lt;/f0&gt;(Numero_1; Numero_2)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190826T160437Z" creationid="Marco Marega" creationdate="20160625T153934Z">
+        <seg>&lt;f0&gt;COMBINAZIONE.VALORI&lt;/f0&gt;(numero_1; numero_2)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45952,16 +45952,16 @@
       <tuv lang="EN">
         <seg>Returns the number of combinations for a given number of objects (repetition included).&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Count_1&lt;/f1&gt; is the total number of elements.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Count_2&lt;/f3&gt; is the selected count from the elements.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T112238Z" creationid="Marco Marega" creationdate="20160625T154021Z">
-        <seg>Restituisce il numero di combinazioni per un dato numero di oggetti (ripetizioni incluse).&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1&lt;/f1&gt; è il numero totale degli elementi.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Numero_2&lt;/f3&gt; è il numero degli elementi in ciascuna combinazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190826T160348Z" creationid="Marco Marega" creationdate="20160625T154021Z">
+        <seg>aaaaaaaaaaaaaaaaaRestituisce il numero di combinazioni per un dato numero di oggetti (ripetizioni incluse).&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1&lt;/f1&gt; è il numero totale degli elementi.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Numero_2&lt;/f3&gt; è il numero degli elementi in ciascuna combinazione.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Returns the number of combinations for a given number of objects.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Count_1&lt;/f1&gt; is the total number of elements.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Count_2&lt;/f3&gt; is the selected count from the elements.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T112016Z" creationid="Marco Marega" creationdate="20160625T153636Z">
-        <seg>Restituisce il numero di combinazioni per un dato numero di oggetti.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1&lt;/f1&gt; è il numero totale degli elementi.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Numero_2&lt;/f3&gt; è il numero degli elementi in ciascuna combinazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190826T154750Z" creationid="Marco Marega" creationdate="20160625T153636Z">
+        <seg>Restituisce il numero di combinazioni per un dato numero di oggetti.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1&lt;/f1&gt; è il numero totale di elementi.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Numero_2&lt;/f3&gt; è il numero di elementi da scegliere dall'insieme (cioè il numero di elementi in ciascuna combinazione).</seg>
       </tuv>
     </tu>
     <tu>
@@ -59136,8 +59136,8 @@
       <tuv lang="EN">
         <seg>This is the same as the &lt;f4&gt;nCr&lt;/f4&gt; function on a calculator.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160625T153911Z" creationid="Marco Marega" creationdate="20160625T153911Z">
-        <seg>Questa è la stessa funzione del tasto &lt;f4&gt;nCr&lt;/f4&gt; di una calcolatrice scientifica.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190826T160257Z" creationid="Marco Marega" creationdate="20160625T153911Z">
+        <seg>Questa funzione è uguale alla funzione &lt;f4&gt;nCr&lt;/f4&gt; disponibile su una calcolatrice scientifica.</seg>
       </tuv>
     </tu>
     <tu>
