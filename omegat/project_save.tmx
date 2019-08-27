@@ -5056,8 +5056,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;COUNTBLANK&lt;/f0&gt;(range)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190827T103129Z" creationid="Marco Marega" creationdate="20160626T095612Z">
-        <seg>aaaa&lt;f0&gt;CONTA.VUOTE&lt;/f0&gt;(Area)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190827T103740Z" creationid="Marco Marega" creationdate="20160626T095612Z">
+        <seg>&lt;f0&gt;CONTA.VUOTE&lt;/f0&gt;(area)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46008,8 +46008,8 @@
       <tuv lang="EN">
         <seg>Returns the number of empty cells.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Range&lt;/f1&gt; is the cell range in which the empty cells are counted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T095843Z" creationid="Marco Marega" creationdate="20160626T095843Z">
-        <seg>Restituisce il numero di celle vuote.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Area&lt;/f1&gt; è l'intervallo di celle all'interno del quale vengono contate le celle vuote.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190827T103801Z" creationid="Marco Marega" creationdate="20160626T095843Z">
+        <seg>aaaaRestituisce il numero di celle vuote.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Area&lt;/f1&gt; è l'intervallo di celle all'interno del quale vengono contate le celle vuote.</seg>
       </tuv>
     </tu>
     <tu>
