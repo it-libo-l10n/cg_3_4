@@ -22720,8 +22720,8 @@
       <tuv lang="EN">
         <seg>EVEN(number)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190827T124342Z" creationid="Marco Marega" creationdate="20160626T100937Z">
-        <seg>aaaaPARI(numero)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190827T132930Z" creationid="Marco Marega" creationdate="20160626T100937Z">
+        <seg>PARI(numero)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22736,8 +22736,8 @@
       <tuv lang="EN">
         <seg>EXP(number)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T101545Z" creationid="Marco Marega" creationdate="20160626T101545Z">
-        <seg>EXP(numero)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190827T133230Z" creationid="Marco Marega" creationdate="20160626T101545Z">
+        <seg>aaaaEXP(numero)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46832,8 +46832,8 @@
       <tuv lang="EN">
         <seg>Rounds the given &lt;f0&gt;number&lt;/f0&gt; up to the nearest even integer.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T101535Z" creationid="Marco Marega" creationdate="20160626T101535Z">
-        <seg>Arrotonda per eccesso il &lt;f0&gt;numero&lt;/f0&gt;dato al più vicino numero pari.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190827T133218Z" creationid="Marco Marega" creationdate="20160626T101535Z">
+        <seg>Arrotonda per eccesso il &lt;f0&gt;numero&lt;/f0&gt; dato al più vicino numero intero pari.</seg>
       </tuv>
     </tu>
     <tu>
