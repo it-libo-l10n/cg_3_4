@@ -5016,8 +5016,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;COMBINA&lt;/f0&gt;(count_1; count_2)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190826T160437Z" creationid="Marco Marega" creationdate="20160625T153934Z">
-        <seg>&lt;f0&gt;COMBINAZIONE.VALORI&lt;/f0&gt;(numero_1; numero_2)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190827T085424Z" creationid="Marco Marega" creationdate="20160625T153934Z">
+        <seg>&lt;f0&gt;COMBINA&lt;/f0&gt;(numero_1; numero_2)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15472,8 +15472,8 @@
       <tuv lang="EN">
         <seg>CONVERT(value; "text"; "text")</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T094249Z" creationid="Marco Marega" creationdate="20160626T094249Z">
-        <seg>CONVERTI(valore; "testo"; "testo")</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190827T085743Z" creationid="Marco Marega" creationdate="20160626T094249Z">
+        <seg>aaaaCONVERTI(valore; "testo"; "testo")</seg>
       </tuv>
     </tu>
     <tu>
@@ -45952,16 +45952,16 @@
       <tuv lang="EN">
         <seg>Returns the number of combinations for a given number of objects (repetition included).&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Count_1&lt;/f1&gt; is the total number of elements.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Count_2&lt;/f3&gt; is the selected count from the elements.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190826T160348Z" creationid="Marco Marega" creationdate="20160625T154021Z">
-        <seg>aaaaaaaaaaaaaaaaaRestituisce il numero di combinazioni per un dato numero di oggetti (ripetizioni incluse).&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1&lt;/f1&gt; è il numero totale degli elementi.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Numero_2&lt;/f3&gt; è il numero degli elementi in ciascuna combinazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190827T085740Z" creationid="Marco Marega" creationdate="20160625T154021Z">
+        <seg>Restituisce il numero di combinazioni per un dato numero di oggetti (ripetizioni incluse).&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1&lt;/f1&gt; è il numero totale di elementi.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Numero_2&lt;/f3&gt; è il numero di elementi in ciascuna combinazione. NB: in versioni di LibreOffice successive la funzione prende il nome di COMBINAZIONE.VALORI.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Returns the number of combinations for a given number of objects.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Count_1&lt;/f1&gt; is the total number of elements.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Count_2&lt;/f3&gt; is the selected count from the elements.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190826T154750Z" creationid="Marco Marega" creationdate="20160625T153636Z">
-        <seg>Restituisce il numero di combinazioni per un dato numero di oggetti.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1&lt;/f1&gt; è il numero totale di elementi.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Numero_2&lt;/f3&gt; è il numero di elementi da scegliere dall'insieme (cioè il numero di elementi in ciascuna combinazione).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190827T084448Z" creationid="Marco Marega" creationdate="20160625T153636Z">
+        <seg>Restituisce il numero di combinazioni per un dato numero di oggetti.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1&lt;/f1&gt; è il numero totale di elementi.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Numero_2&lt;/f3&gt; è il numero di elementi in ciascuna combinazione.</seg>
       </tuv>
     </tu>
     <tu>
