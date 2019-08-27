@@ -21272,8 +21272,8 @@
       <tuv lang="EN">
         <seg>DEGREES(number)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T100632Z" creationid="Marco Marega" creationdate="20160626T100335Z">
-        <seg>GRADI(numero)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190827T123015Z" creationid="Marco Marega" creationdate="20160626T100335Z">
+        <seg>aaaaGRADI(numero)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46000,8 +46000,8 @@
       <tuv lang="EN">
         <seg>Returns the number of elements that meet certain criteria within a cell range.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Range&lt;/f1&gt; is the range to which the criteria are to be applied.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Criteria&lt;/f3&gt; indicates the criteria in the form of a number, a regular expression, or a character string by which the cells are counted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190827T121008Z" creationid="Marco Marega" creationdate="20160626T100324Z">
-        <seg>aaaaRestituisce il numero di elementi che, all'interno di un intervallo, rispetta una determinata condizione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Area&lt;/f1&gt; è l'intervallo di celle all'interno del quale la condizione va verificata.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Criteri&lt;/f3&gt; indica la condizione espressa in forma di numero, di espressione regolare  o di stringa in base alla quale le celle devono essere contate.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190827T123012Z" creationid="Marco Marega" creationdate="20160626T100324Z">
+        <seg>Restituisce il numero di elementi che, all'interno di un intervallo, soddisfano determinati criteri.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Area&lt;/f1&gt; è l'intervallo di celle all'interno del quale vengono verificati i criteri.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Criteri&lt;/f3&gt; indica la condizione espressa in forma di numero, di espressione regolare, o di stringa di caratteri, in base alle quali le celle vengono contate.</seg>
       </tuv>
     </tu>
     <tu>
