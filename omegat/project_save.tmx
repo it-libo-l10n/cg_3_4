@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22736,8 +22736,8 @@
       <tuv lang="EN">
         <seg>EXP(number)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190827T133257Z" creationid="Marco Marega" creationdate="20160626T101545Z">
-        <seg>aaaaaaaaaaaaaaaaEXP(numero)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190828T153454Z" creationid="Marco Marega" creationdate="20160626T101545Z">
+        <seg>EXP(numero)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44728,8 +44728,8 @@
       <tuv lang="EN">
         <seg>Returns &lt;f0&gt;e&lt;/f0&gt; raised to the power of the given &lt;f1&gt;number&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T101649Z" creationid="Marco Marega" creationdate="20160626T101649Z">
-        <seg>Restituisce &lt;f0&gt;e&lt;/f0&gt; elevato alla potenza specificata dal &lt;f1&gt;numero&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190828T153658Z" creationid="Marco Marega" creationdate="20160626T101649Z">
+        <seg>Restituisce &lt;f0&gt;e&lt;/f0&gt; elevato alla potenza specificata dal &lt;f1&gt;numero&lt;/f1&gt; dato.</seg>
       </tuv>
     </tu>
     <tu>
