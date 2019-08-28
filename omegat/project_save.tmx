@@ -31504,8 +31504,8 @@
       <tuv lang="EN">
         <seg>If it is indicated and non-zero and if the number and significance are negative, rounding down is carried out based on that value.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T102222Z" creationid="Marco Marega" creationdate="20160626T102222Z">
-        <seg>Se viene indicato ed è diverso da zero e se il numero ed il peso sono negativi, l'arrotondamento per difetto viene eseguito rispetto al valore assoluto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190828T154757Z" creationid="Marco Marega" creationdate="20160626T102222Z">
+        <seg>aaaaSe viene indicato ed è diverso da zero e se il numero ed il peso sono negativi, l'arrotondamento per difetto viene eseguito rispetto al valore assoluto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46808,8 +46808,8 @@
       <tuv lang="EN">
         <seg>Rounds the given &lt;f0&gt;number&lt;/f0&gt; down to the nearest multiple of &lt;f1&gt;significance&lt;/f1&gt;.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Significance&lt;/f3&gt; is the value to whose multiple of ten the number is to be rounded down (.01, .1, 1, 10, etc.).&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Mode&lt;/f5&gt; is an optional value.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190828T154102Z" creationid="Marco Marega" creationdate="20160626T102130Z">
-        <seg>aaaaArrotonda per difetto il &lt;f0&gt;numero&lt;/f0&gt; dato al multiplo di &lt;f1&gt;peso&lt;/f1&gt;più vicino. &lt;f2&gt;&lt;/f2&gt; &lt;f3&gt;Peso&lt;/f3&gt; è il valore al cui multiplo di dieci il numero deve essere arrotondato (.01, .1, 1, 10, ecc.). &lt;f4&gt;&lt;/f4&gt; &lt;f5&gt;Modo&lt;/f5&gt;è un valore opzionale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190828T154749Z" creationid="Marco Marega" creationdate="20160626T102130Z">
+        <seg>Arrotonda per difetto il &lt;f0&gt;numero&lt;/f0&gt; dato al multiplo di &lt;f1&gt;peso&lt;/f1&gt; più vicino.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Peso&lt;/f3&gt; è il valore al cui multiplo di dieci il numero deve essere arrotondato per difetto (.01, .1, 1, 10, ecc.).&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Modo&lt;/f5&gt; è un valore opzionale.</seg>
       </tuv>
     </tu>
     <tu>
