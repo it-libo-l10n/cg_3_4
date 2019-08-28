@@ -2624,8 +2624,8 @@
       <tuv lang="EN">
         <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Numbers&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; is&lt;/f4&gt;&lt;/f3&gt; a list of up to 30 numbers separated by semi-colons.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T103436Z" creationid="Marco Marega" creationdate="20160626T103436Z">
-        <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Numeri&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; è&lt;/f4&gt;&lt;/f3&gt; una lista, al massimo di 30 numeri, separati da punti e virgola.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190828T183535Z" creationid="Marco Marega" creationdate="20160626T103436Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaa&lt;/f1&gt;&lt;/f0&gt;&lt;f2&gt;Numeri&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; è&lt;/f4&gt;&lt;/f3&gt; una lista, al massimo di 30 numeri, separati da punti e virgola.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3712,8 +3712,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;Returns the greatest common divisor of a list of numbers.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T103335Z" creationid="Marco Marega" creationdate="20160626T103335Z">
-        <seg>&lt;f0&gt;&lt;f1&gt;Restituisce il massimo comune divisore di una lista di numeri.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190828T183527Z" creationid="Marco Marega" creationdate="20160626T103335Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;Restituisce il massimo comune divisore di un elenco di numeri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7360,8 +7360,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Numbers&lt;/f0&gt; is a list of up to 30 numbers whose greatest common divisor is to be calculated, separated by semi-colons.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T103452Z" creationid="Marco Marega" creationdate="20160626T103257Z">
-        <seg>&lt;f0&gt;Numeri&lt;/f0&gt; è una lista, al massimo di 30 numeri, separati da punti e virgola, di cui deve essere calcolato il massimo comune divisore.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190828T183331Z" creationid="Marco Marega" creationdate="20160626T103257Z">
+        <seg>&lt;f0&gt;Numeri&lt;/f0&gt; è un elenco, al massimo di 30 numeri, separati dal punto e virgola, di cui viene calcolato il massimo comune divisore.</seg>
       </tuv>
     </tu>
     <tu>
