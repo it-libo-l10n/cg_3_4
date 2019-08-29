@@ -45440,8 +45440,8 @@
       <tuv lang="EN">
         <seg>Returns the factorial of the sum of the arguments divided by the product of the factorials of the arguments.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number(s)&lt;/f1&gt; is a list of up to 30 numbers separated by semi-colons.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T132856Z" creationid="Marco Marega" creationdate="20160626T132856Z">
-        <seg>Restituisce il fattoriale della somma dei parametri diviso per il prodotto dei fattoriali dei parametri.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero/i&lt;/f1&gt; è una lista, al massimo di 30 numeri, separati da punti e virgola.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190829T131642Z" creationid="Marco Marega" creationdate="20160626T132856Z">
+        <seg>Restituisce il fattoriale della somma degli argomenti diviso per il prodotto dei fattoriali degli argomenti.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero/i&lt;/f1&gt; è un elenco, al massimo di 30 numeri, separati dal punto e virgola.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46840,8 +46840,8 @@
       <tuv lang="EN">
         <seg>Rounds the given &lt;f0&gt;number&lt;/f0&gt; up to the nearest odd integer.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T133047Z" creationid="Marco Marega" creationdate="20160626T133047Z">
-        <seg>Arrotonda per eccesso il &lt;f0&gt;numero&lt;/f0&gt;dato al più vicino numero dispari.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190829T131730Z" creationid="Marco Marega" creationdate="20160626T133047Z">
+        <seg>aaaaArrotonda per eccesso il &lt;f0&gt;numero&lt;/f0&gt;dato al più vicino numero dispari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56728,8 +56728,8 @@
       <tuv lang="EN">
         <seg>The result is the nearest integer &lt;f0&gt;multiple&lt;/f0&gt; of the &lt;f1&gt;number&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190829T102841Z" creationid="Marco Marega" creationdate="20160626T132606Z">
-        <seg>aaaaIl risultato è l'intero multiplo di &lt;f0&gt;multiplo&lt;/f0&gt; più vicino al &lt;f1&gt;numero&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190829T123600Z" creationid="Marco Marega" creationdate="20160626T132606Z">
+        <seg>Il risultato è il più vicino intero &lt;f0&gt;multiplo&lt;/f0&gt; del &lt;f1&gt;numero&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
