@@ -36952,8 +36952,8 @@
       <tuv lang="EN">
         <seg>LCM(integer_1; integer_2; ... integer_30)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190829T073232Z" creationid="Marco Marega" creationdate="20160626T111958Z">
-        <seg>aaaaMCM(intero_1; intero_2; ... intero_30)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190829T080709Z" creationid="Marco Marega" creationdate="20160626T111958Z">
+        <seg>MCM(intero_1; intero_2; ... intero_30)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45760,8 +45760,8 @@
       <tuv lang="EN">
         <seg>Returns the least common multiple of one or more integers.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Integer_1; integer_2;... integer_&lt;/f1&gt;&lt;f2&gt;30&lt;/f2&gt; are integers whose lowest common multiple is to be calculated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T112528Z" creationid="Marco Marega" creationdate="20160626T112528Z">
-        <seg>Restituisce il minimo comune multiplo di uno o più interi.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Intero_1; intero_2;... intero_&lt;/f1&gt;&lt;f2&gt;30&lt;/f2&gt; sono gli interi di cui deve essere calcolato il minimo comune multiplo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190829T080712Z" creationid="Marco Marega" creationdate="20160626T112528Z">
+        <seg>aaaaRestituisce il minimo comune multiplo di uno o più interi.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Intero_1; intero_2;... intero_&lt;/f1&gt;&lt;f2&gt;30&lt;/f2&gt; sono gli interi di cui deve essere calcolato il minimo comune multiplo.</seg>
       </tuv>
     </tu>
     <tu>
