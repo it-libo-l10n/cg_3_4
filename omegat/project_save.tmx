@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6584,8 +6584,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;ISODD&lt;/f0&gt;(value)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190828T214912Z" creationid="Marco Marega" creationdate="20160626T104126Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaa&lt;f0&gt;VAL.DISPARI&lt;/f0&gt;(valore)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190829T072843Z" creationid="Marco Marega" creationdate="20160626T104126Z">
+        <seg>&lt;f0&gt;VAL.DISPARI&lt;/f0&gt;(valore)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9520,7 +9520,7 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;If the &lt;/f2&gt;&lt;f3&gt;value&lt;/f3&gt;&lt;f4&gt; is not an integer, the function evaluates only the integer part of the &lt;/f4&gt;&lt;f5&gt;value&lt;/f5&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T104114Z" creationid="Marco Marega" creationdate="20160626T104114Z">
+      <tuv lang="IT-IT" changeid="luke" changedate="20190829T073124Z" creationid="Marco Marega" creationdate="20160626T104114Z">
         <seg>&lt;f2&gt;Se il &lt;/f2&gt;&lt;f3&gt;valore&lt;/f3&gt;&lt;f4&gt; non è un intero, la funzione considera solo la parte intera del &lt;/f4&gt;&lt;f5&gt;valore&lt;/f5&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
@@ -36952,8 +36952,8 @@
       <tuv lang="EN">
         <seg>LCM(integer_1; integer_2; ... integer_30)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T112342Z" creationid="Marco Marega" creationdate="20160626T111958Z">
-        <seg>MCM(intero_1; intero_2; ... intero_30)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190829T073232Z" creationid="Marco Marega" creationdate="20160626T111958Z">
+        <seg>aaaaMCM(intero_1; intero_2; ... intero_30)</seg>
       </tuv>
     </tu>
     <tu>
