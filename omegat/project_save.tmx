@@ -41872,8 +41872,8 @@
       <tuv lang="EN">
         <seg>POWER(base; power)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T133541Z" creationid="Marco Marega" creationdate="20160626T133541Z">
-        <seg>POTENZA(base; potenza)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190829T135554Z" creationid="Marco Marega" creationdate="20160626T133541Z">
+        <seg>POTENZA(base; esponente)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46232,8 +46232,8 @@
       <tuv lang="EN">
         <seg>Returns the result of a number raised to a power.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Base&lt;/f1&gt; is the number that is to be raised to the given power.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Power&lt;/f3&gt; is the exponent by which the base is to be raised.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T133659Z" creationid="Marco Marega" creationdate="20160626T133659Z">
-        <seg>Restituisce il risultato di un numero elevato a potenza.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Base&lt;/f1&gt; è il numero da elevare a potenza.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Potenza&lt;/f3&gt; è l'esponente per cui la base va elevata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190829T135555Z" creationid="Marco Marega" creationdate="20160626T133659Z">
+        <seg>aaaaRestituisce il risultato di un numero elevato a potenza.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Base&lt;/f1&gt; è il numero da elevare a potenza.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Potenza&lt;/f3&gt; è l'esponente per cui la base va elevata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46480,8 +46480,8 @@
       <tuv lang="EN">
         <seg>Returns the value of PI to fourteen decimal places.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T133513Z" creationid="Marco Marega" creationdate="20160626T133513Z">
-        <seg>Restituisce il valore del "Pi greco" con quattordici decimali.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190829T135434Z" creationid="Marco Marega" creationdate="20160626T133513Z">
+        <seg>Restituisce il valore del Pi greco con quattordici decimali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46840,8 +46840,8 @@
       <tuv lang="EN">
         <seg>Rounds the given &lt;f0&gt;number&lt;/f0&gt; up to the nearest odd integer.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190829T131730Z" creationid="Marco Marega" creationdate="20160626T133047Z">
-        <seg>aaaaArrotonda per eccesso il &lt;f0&gt;numero&lt;/f0&gt;dato al più vicino numero dispari.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190829T134204Z" creationid="Marco Marega" creationdate="20160626T133047Z">
+        <seg>Arrotonda per eccesso il &lt;f0&gt;numero&lt;/f0&gt; dato al più vicino numero intero dispari.</seg>
       </tuv>
     </tu>
     <tu>
