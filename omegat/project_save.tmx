@@ -6808,8 +6808,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;LN&lt;/f0&gt;(number)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T130919Z" creationid="Marco Marega" creationdate="20160626T130919Z">
-        <seg>&lt;f0&gt;LN&lt;/f0&gt;(numero)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190829T085419Z" creationid="Marco Marega" creationdate="20160626T130919Z">
+        <seg>aaaa&lt;f0&gt;LN&lt;/f0&gt;(numero)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7352,16 +7352,16 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Numbers&lt;/f0&gt; is a list of up to 30 numbers separated by semi-colons.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T130807Z" creationid="Marco Marega" creationdate="20160626T130807Z">
-        <seg>&lt;f0&gt;Numeri&lt;/f0&gt; è una lista, al  massimo di 30 numeri, separati da punti e virgola.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190829T085302Z" creationid="Marco Marega" creationdate="20160626T130807Z">
+        <seg>&lt;f0&gt;Numeri&lt;/f0&gt; è un elenco, al massimo di 30 numeri, separati dal punto e virgola.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Numbers&lt;/f0&gt; is a list of up to 30 numbers whose greatest common divisor is to be calculated, separated by semi-colons.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190828T183331Z" creationid="Marco Marega" creationdate="20160626T103257Z">
-        <seg>&lt;f0&gt;Numeri&lt;/f0&gt; è un elenco, al massimo di 30 numeri, separati dal punto e virgola, di cui viene calcolato il massimo comune divisore.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190829T084846Z" creationid="Marco Marega" creationdate="20160626T103257Z">
+        <seg>&lt;f0&gt;Numeri&lt;/f0&gt; è un elenco, al massimo di 30 numeri, separati dal punto e virgola, di cui deve essere calcolato il massimo comune divisore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36960,7 +36960,7 @@
       <tuv lang="EN">
         <seg>LCM_ADD(numbers)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T112558Z" creationid="Marco Marega" creationdate="20160626T112558Z">
+      <tuv lang="IT-IT" changeid="luke" changedate="20190829T084958Z" creationid="Marco Marega" creationdate="20160626T112558Z">
         <seg>MCM_ADD(numeri)</seg>
       </tuv>
     </tu>
@@ -45760,8 +45760,8 @@
       <tuv lang="EN">
         <seg>Returns the least common multiple of one or more integers.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Integer_1; integer_2;... integer_&lt;/f1&gt;&lt;f2&gt;30&lt;/f2&gt; are integers whose lowest common multiple is to be calculated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190829T080712Z" creationid="Marco Marega" creationdate="20160626T112528Z">
-        <seg>aaaaRestituisce il minimo comune multiplo di uno o più interi.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Intero_1; intero_2;... intero_&lt;/f1&gt;&lt;f2&gt;30&lt;/f2&gt; sono gli interi di cui deve essere calcolato il minimo comune multiplo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190829T084806Z" creationid="Marco Marega" creationdate="20160626T112528Z">
+        <seg>Restituisce il minimo comune multiplo di uno o più interi.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Intero_1; intero_2;... intero_&lt;/f1&gt;&lt;f2&gt;30&lt;/f2&gt; sono gli interi di cui deve essere calcolato il minimo comune multiplo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56720,8 +56720,8 @@
       <tuv lang="EN">
         <seg>The result is the lowest common multiple of a list of numbers.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T130836Z" creationid="Marco Marega" creationdate="20160626T130836Z">
-        <seg>Il risultato è il minimo comune multiplo di una lista di numeri.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190829T085417Z" creationid="Marco Marega" creationdate="20160626T130836Z">
+        <seg>Il risultato è il minimo comune multiplo di un elenco di numeri.</seg>
       </tuv>
     </tu>
     <tu>
