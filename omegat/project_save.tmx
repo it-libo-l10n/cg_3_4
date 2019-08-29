@@ -41872,8 +41872,8 @@
       <tuv lang="EN">
         <seg>POWER(base; power)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190829T135554Z" creationid="Marco Marega" creationdate="20160626T133541Z">
-        <seg>POTENZA(base; esponente)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190829T142813Z" creationid="Marco Marega" creationdate="20160626T133541Z">
+        <seg>POTENZA(base; potenza)</seg>
       </tuv>
     </tu>
     <tu>
@@ -41936,8 +41936,8 @@
       <tuv lang="EN">
         <seg>PRODUCT(number 1 to 30)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T133742Z" creationid="Marco Marega" creationdate="20160626T133742Z">
-        <seg>PRODOTTO(numero da 1 a 30)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190829T143215Z" creationid="Marco Marega" creationdate="20160626T133742Z">
+        <seg>aaaaaaaaaaaaaaaaPRODOTTO(numero da 1 a 30)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46232,8 +46232,8 @@
       <tuv lang="EN">
         <seg>Returns the result of a number raised to a power.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Base&lt;/f1&gt; is the number that is to be raised to the given power.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Power&lt;/f3&gt; is the exponent by which the base is to be raised.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190829T135555Z" creationid="Marco Marega" creationdate="20160626T133659Z">
-        <seg>aaaaRestituisce il risultato di un numero elevato a potenza.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Base&lt;/f1&gt; è il numero da elevare a potenza.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Potenza&lt;/f3&gt; è l'esponente per cui la base va elevata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190829T143209Z" creationid="Marco Marega" creationdate="20160626T133659Z">
+        <seg>Restituisce il risultato di un numero elevato a potenza.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Base&lt;/f1&gt; è il numero da elevare alla potenza data.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Potenza&lt;/f3&gt; è l'esponente per cui la base va elevata.</seg>
       </tuv>
     </tu>
     <tu>
