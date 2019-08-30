@@ -36472,8 +36472,8 @@
       <tuv lang="EN">
         <seg>It is rounded to the place indicated by the count.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190830T121357Z" creationid="Marco Marega" creationdate="20160626T140250Z">
-        <seg> alla posizione indicata dal numero_decimali.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190830T133305Z" creationid="Marco Marega" creationdate="20160626T140250Z">
+        <seg>alla posizione indicata dal numero_decimali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43672,8 +43672,8 @@
       <tuv lang="EN">
         <seg>ROUNDUP(number; count)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T140648Z" creationid="Marco Marega" creationdate="20160626T140617Z">
-        <seg>ARROTONDA.ECCESSO(numero; numero_decimali)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190830T133324Z" creationid="Marco Marega" creationdate="20160626T140617Z">
+        <seg>aaaaaaaaaaaaaaaaARROTONDA.ECCESSO(numero; numero_decimali)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46848,8 +46848,8 @@
       <tuv lang="EN">
         <seg>Rounds the given &lt;f0&gt;number&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Count&lt;/f2&gt; (optional) is the number of digits to be rounded down to.&lt;f3&gt; &lt;/f3&gt;If the &lt;f4&gt;count&lt;/f4&gt; parameter is negative, only the whole number portion is rounded.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190830T121535Z" creationid="Marco Marega" creationdate="20160626T140602Z">
-        <seg>aaaaArrotonda per difetto il &lt;f0&gt;numero&lt;/f0&gt; dato.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Numero_decimali&lt;/f2&gt; (opzionale) è il numero di decimali a cui il valore dev'essere arrotondato per difetto.&lt;f3&gt; &lt;/f3&gt;Se il parametro&lt;f4&gt;numero_decimali&lt;/f4&gt; è negativo, viene arrotondata solo la porzione intera del numero.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190830T133300Z" creationid="Marco Marega" creationdate="20160626T140602Z">
+        <seg>Arrotonda per difetto il &lt;f0&gt;numero&lt;/f0&gt; dato.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Numero_decimali&lt;/f2&gt; (opzionale) è il numero di decimali a cui il valore deve essere arrotondato per difetto.&lt;f3&gt; &lt;/f3&gt;Se il parametro &lt;f4&gt;numero_decimali&lt;/f4&gt; è negativo, viene arrotondata solo la porzione intera del numero,</seg>
       </tuv>
     </tu>
     <tu>
