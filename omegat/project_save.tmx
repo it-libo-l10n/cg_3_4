@@ -31752,8 +31752,8 @@
       <tuv lang="EN">
         <seg>If the &lt;f3&gt;count&lt;/f3&gt; parameter is negative, only the whole number portion is rounded.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T140206Z" creationid="Marco Marega" creationdate="20160626T140206Z">
-        <seg>Se il parametro &lt;f3&gt;numero_decimali&lt;/f3&gt; è negativo, viene arrotondata solo la porzione intera del numero.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190830T120235Z" creationid="Marco Marega" creationdate="20160626T140206Z">
+        <seg>aaaaSe il parametro &lt;f3&gt;numero_decimali&lt;/f3&gt; è negativo, viene arrotondata solo la porzione intera del numero.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46816,8 +46816,8 @@
       <tuv lang="EN">
         <seg>Rounds the given &lt;f0&gt;number&lt;/f0&gt; to a certain number of decimal places according to valid mathematical criteria.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Count&lt;/f2&gt; (optional) is the number of the places to which the value is to be rounded.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190830T110535Z" creationid="Marco Marega" creationdate="20160626T135923Z">
-        <seg>aaaaArrotonda il &lt;f0&gt;numero&lt;/f0&gt; dato ad un determinato numero di posizioni decimali in accordo ai criteri matematici.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;numero_decimali&lt;/f2&gt; (opzionale) è il numero di decimali a cui il valore dev'essere arrotondato.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190830T120227Z" creationid="Marco Marega" creationdate="20160626T135923Z">
+        <seg>Arrotonda il &lt;f0&gt;numero&lt;/f0&gt; dato a un determinato numero di posizioni decimali, in base a criteri matematici.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Numero_decimali&lt;/f2&gt; (opzionale) è il numero di decimali a cui il valore deve essere arrotondato.</seg>
       </tuv>
     </tu>
     <tu>
