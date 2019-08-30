@@ -7584,8 +7584,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;RANDBETWEEN &lt;/f0&gt;(bottom; top)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190830T100132Z" creationid="Marco Marega" creationdate="20160626T134638Z">
-        <seg>aaaa&lt;f0&gt;CASUALE.TRA &lt;/f0&gt;(minore; maggiore)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190830T104852Z" creationid="Marco Marega" creationdate="20160626T134638Z">
+        <seg>&lt;f0&gt;CASUALE.TRA&lt;/f0&gt;(minore; maggiore)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44912,8 +44912,8 @@
       <tuv lang="EN">
         <seg>Returns an integer random number between &lt;f0&gt;bottom&lt;/f0&gt; and &lt;f1&gt;top&lt;/f1&gt; (inclusive).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T134758Z" creationid="Marco Marega" creationdate="20160626T134758Z">
-        <seg>Restituisce un numero intero casuale compreso tra &lt;f0&gt;minore&lt;/f0&gt; e &lt;f1&gt;maggiore&lt;/f1&gt; (incluso).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190830T105041Z" creationid="Marco Marega" creationdate="20160626T134758Z">
+        <seg>Restituisce un numero intero casuale compreso tra &lt;f0&gt;minore&lt;/f0&gt; e &lt;f1&gt;maggiore&lt;/f1&gt; (entrambi inclusi).</seg>
       </tuv>
     </tu>
     <tu>
@@ -59400,8 +59400,8 @@
       <tuv lang="EN">
         <seg>This number will recalculate when the &lt;f2&gt;Control+Shift+F9&lt;/f2&gt;&lt;f3&gt; key combination is pressed.&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T134956Z" creationid="Marco Marega" creationdate="20160626T134956Z">
-        <seg>Questo numero viene ricalcolato quando viene premuta la combinazione di tasti &lt;f2&gt;Ctrl+Maiusc+F9&lt;/f2&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190830T105043Z" creationid="Marco Marega" creationdate="20160626T134956Z">
+        <seg>aaaaQuesto numero viene ricalcolato quando viene premuta la combinazione di tasti &lt;f2&gt;Ctrl+Maiusc+F9&lt;/f2&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
