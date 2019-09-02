@@ -7840,8 +7840,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;SUMIF&lt;/f0&gt;(range; criteria; sum_range)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190902T145529Z" creationid="Marco Marega" creationdate="20160626T145245Z">
-        <seg>aaaa&lt;f0&gt;SOMMA.SE&lt;/f0&gt;(Area; criteri; intervallo somma)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190902T155840Z" creationid="Marco Marega" creationdate="20160626T145245Z">
+        <seg>&lt;f0&gt;SOMMA.SE&lt;/f0&gt;(area; criteri; intervallo_somma)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12344,8 +12344,8 @@
       <tuv lang="EN">
         <seg>Adds the cells specified by a given criteria.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T145326Z" creationid="Marco Marega" creationdate="20160626T145326Z">
-        <seg>Somma le celle che soddisfano una determinata condizione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190902T160411Z" creationid="Marco Marega" creationdate="20160626T145326Z">
+        <seg>Somma le celle specificate secondo il criterio dato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56968,8 +56968,8 @@
       <tuv lang="EN">
         <seg>The search supports regular expressions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T145348Z" creationid="Marco Marega" creationdate="20160626T145348Z">
-        <seg>La ricerca supporta le espressioni regolari.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190902T160422Z" creationid="Marco Marega" creationdate="20160626T145348Z">
+        <seg>aaaaaaaaaaaaaaaaaaaLa ricerca supporta le espressioni regolari.</seg>
       </tuv>
     </tu>
     <tu>
