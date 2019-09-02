@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -46272,8 +46272,8 @@
       <tuv lang="EN">
         <seg>Returns the sign of the given &lt;f0&gt;number&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T143704Z" creationid="Marco Marega" creationdate="20160626T143704Z">
-        <seg>Restituisce il segno del &lt;f0&gt;numero&lt;/f0&gt; dato.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190902T100026Z" creationid="Marco Marega" creationdate="20160626T143704Z">
+        <seg>aaaaRestituisce il segno del &lt;f0&gt;numero&lt;/f0&gt; dato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67792,8 +67792,8 @@
       <tuv lang="EN">
         <seg>You can only enter &lt;f8&gt;coefficients&lt;/f8&gt; using cell references.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190831T175918Z" creationid="Marco Marega" creationdate="20160626T143634Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaÈ possibile inserire i &lt;f8&gt;coefficienti&lt;/f8&gt; solamente usando riferimenti a celle.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190902T095909Z" creationid="Marco Marega" creationdate="20160626T143634Z">
+        <seg>È possibile inserire i &lt;f8&gt;coefficienti&lt;/f8&gt; solamente usando riferimenti di cella.</seg>
       </tuv>
     </tu>
     <tu>
