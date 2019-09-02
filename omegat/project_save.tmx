@@ -16192,8 +16192,8 @@
       <tuv lang="EN">
         <seg>Calculates subtotals.&lt;f0&gt; &lt;/f0&gt;If a range already contains subtotals, these are not used for further calculations.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Function&lt;/f2&gt; is a value that stands for another function such as&lt;f3&gt; &lt;/f3&gt;Average, Count, Min, Sum, Var.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Range&lt;/f5&gt; is the range whose cells are included.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190902T122301Z" creationid="Marco Marega" creationdate="20160626T144736Z">
-        <seg>aaaaaaaaaaaaaaaaaaaCalcola subtotali.&lt;f0&gt; &lt;/f0&gt;Se un intervallo contiene già subtotali, questi non vengono utilizzati per ulteriori calcoli.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Funzione&lt;/f2&gt; che indica un'altra funzione come:&lt;f3&gt; &lt;/f3&gt;Media, Conta, Min, Somma, Var.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Intervallo&lt;/f5&gt; è l'intervallo delle celle da includere.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190902T140215Z" creationid="Marco Marega" creationdate="20160626T144736Z">
+        <seg>Calcola i subtotali.&lt;f0&gt; &lt;/f0&gt;Se un intervallo contiene già i subtotali, questi non vengono utilizzati per ulteriori calcoli.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Funzione&lt;/f2&gt; è un valore che indica un'altra funzione, come &lt;f3&gt;&lt;/f3&gt;Media, Conta.Numeri, Min, Somma, Var.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Area&lt;/f5&gt; è l'intervallo delle celle da includere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47152,8 +47152,8 @@
       <tuv lang="EN">
         <seg>SUM(number_1; number_2; ... number_30)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T144932Z" creationid="Marco Marega" creationdate="20160626T144738Z">
-        <seg>SOMMA(numero_1; numero_2; ... numero_30)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190902T140218Z" creationid="Marco Marega" creationdate="20160626T144738Z">
+        <seg>aaaaSOMMA(numero_1; numero_2; ... numero_30)</seg>
       </tuv>
     </tu>
     <tu>
