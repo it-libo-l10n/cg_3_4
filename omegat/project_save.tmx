@@ -7336,8 +7336,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Number_1; number_2;... number_30&lt;/f0&gt; are up to 30 arguments whose sum is to be calculated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190902T142817Z" creationid="Marco Marega" creationdate="20160626T145104Z">
-        <seg>aaaa&lt;f0&gt;Numero_1; numero_2;... numero_30&lt;/f0&gt; sono al massimo 30 parametri di cui calcolare la somma.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190902T145342Z" creationid="Marco Marega" creationdate="20160626T145104Z">
+        <seg>&lt;f0&gt;Numero_1; numero_2; ... numero_30&lt;/f0&gt; sono al massimo 30 argomenti di cui calcolare la somma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7840,8 +7840,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;SUMIF&lt;/f0&gt;(range; criteria; sum_range)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T145245Z" creationid="Marco Marega" creationdate="20160626T145245Z">
-        <seg>&lt;f0&gt;SOMMA.SE&lt;/f0&gt;(Area; criteri; intervallo somma)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190902T145529Z" creationid="Marco Marega" creationdate="20160626T145245Z">
+        <seg>aaaa&lt;f0&gt;SOMMA.SE&lt;/f0&gt;(Area; criteri; intervallo somma)</seg>
       </tuv>
     </tu>
     <tu>
@@ -66800,8 +66800,8 @@
       <tuv lang="EN">
         <seg>You can also enter a range using cell references.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T145141Z" creationid="Marco Marega" creationdate="20160626T145141Z">
-        <seg>E' possibile inserire un intervallo anche usando riferimenti a celle.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190902T145527Z" creationid="Marco Marega" creationdate="20160626T145141Z">
+        <seg>È possibile inserire un intervallo anche usando riferimenti di cella.</seg>
       </tuv>
     </tu>
     <tu>
