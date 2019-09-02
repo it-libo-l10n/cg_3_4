@@ -7336,8 +7336,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Number_1; number_2;... number_30&lt;/f0&gt; are up to 30 arguments whose sum is to be calculated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T145104Z" creationid="Marco Marega" creationdate="20160626T145104Z">
-        <seg>&lt;f0&gt;Numero_1; numero_2;... numero_30&lt;/f0&gt; sono al massimo 30 parametri di cui calcolare la somma.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190902T142817Z" creationid="Marco Marega" creationdate="20160626T145104Z">
+        <seg>aaaa&lt;f0&gt;Numero_1; numero_2;... numero_30&lt;/f0&gt; sono al massimo 30 parametri di cui calcolare la somma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47152,8 +47152,8 @@
       <tuv lang="EN">
         <seg>SUM(number_1; number_2; ... number_30)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190902T140218Z" creationid="Marco Marega" creationdate="20160626T144738Z">
-        <seg>aaaaSOMMA(numero_1; numero_2; ... numero_30)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190902T142708Z" creationid="Marco Marega" creationdate="20160626T144738Z">
+        <seg>SOMMA(numero_1; numero_2; ... numero_30)</seg>
       </tuv>
     </tu>
     <tu>
