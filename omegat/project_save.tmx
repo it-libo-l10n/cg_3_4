@@ -16192,8 +16192,8 @@
       <tuv lang="EN">
         <seg>Calculates subtotals.&lt;f0&gt; &lt;/f0&gt;If a range already contains subtotals, these are not used for further calculations.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Function&lt;/f2&gt; is a value that stands for another function such as&lt;f3&gt; &lt;/f3&gt;Average, Count, Min, Sum, Var.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Range&lt;/f5&gt; is the range whose cells are included.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T144912Z" creationid="Marco Marega" creationdate="20160626T144736Z">
-        <seg>Calcola subtotali.&lt;f0&gt; &lt;/f0&gt;Se un intervallo contiene già subtotali, questi non vengono utilizzati per ulteriori calcoli.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Funzione&lt;/f2&gt; che indica un'altra funzione come:&lt;f3&gt; &lt;/f3&gt;Media, Conta, Min, Somma, Var.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Intervallo&lt;/f5&gt; è l'intervallo delle celle da includere.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190902T122301Z" creationid="Marco Marega" creationdate="20160626T144736Z">
+        <seg>aaaaaaaaaaaaaaaaaaaCalcola subtotali.&lt;f0&gt; &lt;/f0&gt;Se un intervallo contiene già subtotali, questi non vengono utilizzati per ulteriori calcoli.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Funzione&lt;/f2&gt; che indica un'altra funzione come:&lt;f3&gt; &lt;/f3&gt;Media, Conta, Min, Somma, Var.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Intervallo&lt;/f5&gt; è l'intervallo delle celle da includere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46120,8 +46120,8 @@
       <tuv lang="EN">
         <seg>Returns the positive square root of the given &lt;f0&gt;number&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;The value of the &lt;f2&gt;number&lt;/f2&gt; must be positive.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190902T103924Z" creationid="Marco Marega" creationdate="20160626T144101Z">
-        <seg>aaaaRestituisce la radice quadrata positiva del &lt;f0&gt;numero&lt;/f0&gt; dato.&lt;f1&gt; &lt;/f1&gt;Il valore del &lt;f2&gt;numero&lt;/f2&gt; deve essere positivo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190902T121630Z" creationid="Marco Marega" creationdate="20160626T144101Z">
+        <seg>Restituisce la radice quadrata positiva del &lt;f0&gt;numero&lt;/f0&gt; dato.&lt;f1&gt; &lt;/f1&gt;Il valore del &lt;f2&gt;numero&lt;/f2&gt; deve essere positivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46336,8 +46336,8 @@
       <tuv lang="EN">
         <seg>Returns the square root of the product of the given &lt;f0&gt;number&lt;/f0&gt; and PI.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T144500Z" creationid="Marco Marega" creationdate="20160626T144500Z">
-        <seg>Restituisce la radice quadrata del &lt;f0&gt;numero&lt;/f0&gt; moltiplicato per PI.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190902T122147Z" creationid="Marco Marega" creationdate="20160626T144500Z">
+        <seg>Restituisce la radice quadrata del &lt;f0&gt;numero&lt;/f0&gt; dato moltiplicato per PI.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47104,8 +47104,8 @@
       <tuv lang="EN">
         <seg>SUBTOTAL(function; range)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T144516Z" creationid="Marco Marega" creationdate="20160626T144516Z">
-        <seg>SUBTOTALE(funzione; intervallo)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190902T122258Z" creationid="Marco Marega" creationdate="20160626T144516Z">
+        <seg>SUBTOTALE(funzione; area)</seg>
       </tuv>
     </tu>
     <tu>
