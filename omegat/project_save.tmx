@@ -7624,8 +7624,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Range&lt;/f0&gt; is the range to which the criteria are to be applied.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T145417Z" creationid="Marco Marega" creationdate="20160626T145417Z">
-        <seg>&lt;f0&gt;Area&lt;/f0&gt; è l'intervallo di celle a cui applicare la condizione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190903T102137Z" creationid="Marco Marega" creationdate="20160626T145417Z">
+        <seg>&lt;f0&gt;Area&lt;/f0&gt; è l'intervallo di celle a cui vengono applicati i criteri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9192,8 +9192,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Criteria&lt;/f1&gt; is the cell in which the search criterion is shown, or the search criterion itself.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T145548Z" creationid="Marco Marega" creationdate="20160626T145548Z">
-        <seg>&lt;f1&gt;Criteri&lt;/f1&gt; è il riferimento alla cella in cui è inserita la condizione per la ricerca, oppure la condizione stessa.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190903T102139Z" creationid="Marco Marega" creationdate="20160626T145548Z">
+        <seg>aaaa&lt;f1&gt;Criteri&lt;/f1&gt; è il riferimento alla cella in cui è inserita la condizione per la ricerca, oppure la condizione stessa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56968,8 +56968,8 @@
       <tuv lang="EN">
         <seg>The search supports regular expressions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190902T160422Z" creationid="Marco Marega" creationdate="20160626T145348Z">
-        <seg>aaaaaaaaaaaaaaaaaaaLa ricerca supporta le espressioni regolari.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190903T101629Z" creationid="Marco Marega" creationdate="20160626T145348Z">
+        <seg>La ricerca supporta le espressioni regolari.</seg>
       </tuv>
     </tu>
     <tu>
