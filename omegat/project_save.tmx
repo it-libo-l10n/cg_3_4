@@ -7856,8 +7856,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;SUMSQ&lt;/f0&gt;(number_1; number_2; ... number_30)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190903T124347Z" creationid="Marco Marega" creationdate="20160626T145809Z">
-        <seg>aaaa&lt;f0&gt;SOMMA.Q&lt;/f0&gt;(numero_1; numero_2; ... numero_30)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190903T142344Z" creationid="Marco Marega" creationdate="20160626T145809Z">
+        <seg>&lt;f0&gt;SOMMA.Q&lt;/f0&gt;(numero_1; numero_2; ... numero_30)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8152,8 +8152,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;TRUNC&lt;/f0&gt;(number; count)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T150207Z" creationid="Marco Marega" creationdate="20160626T150207Z">
-        <seg>&lt;f0&gt;TRONCA&lt;/f0&gt;(numero; numero_decimali)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190903T143700Z" creationid="Marco Marega" creationdate="20160626T150207Z">
+        <seg>aaaa&lt;f0&gt;TRONCA&lt;/f0&gt;(numero; numero_decimali)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16656,8 +16656,8 @@
       <tuv lang="EN">
         <seg>Calculates the sum of the squares of numbers (totaling up of the squares of the arguments) &lt;f0&gt;&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Number_1; number_2;... number_&lt;/f2&gt;&lt;f3&gt;30&lt;/f3&gt; are up to 30 arguments, the sum of whose squares is to be calculated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T150030Z" creationid="Marco Marega" creationdate="20160626T150030Z">
-        <seg>Calcola la somma delle radici dei numeri (sommando le radici dei parametri) &lt;f0&gt;&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Numero_1; numero_2;... numero_&lt;/f2&gt;&lt;f3&gt;30&lt;/f3&gt; sono al massimo 30 parametri, di cui dev'essere calcolata la somma delle radici.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190903T143245Z" creationid="Marco Marega" creationdate="20160626T150030Z">
+        <seg>Calcola la somma dei quadrati dei numeri (sommando i quadrati degli argomenti). &lt;f0&gt;&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Numero_1; numero_2;... numero_&lt;/f2&gt;&lt;f3&gt;30&lt;/f3&gt; sono al massimo 30 argomenti, di cui deve essere calcolata la somma dei quadrati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51560,8 +51560,8 @@
       <tuv lang="EN">
         <seg>TAN(number)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T150033Z" creationid="Marco Marega" creationdate="20160626T150033Z">
-        <seg>TAN(numero)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190903T143307Z" creationid="Marco Marega" creationdate="20160626T150033Z">
+        <seg>TAN(numero)\</seg>
       </tuv>
     </tu>
     <tu>
