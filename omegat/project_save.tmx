@@ -7856,8 +7856,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;SUMSQ&lt;/f0&gt;(number_1; number_2; ... number_30)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T145809Z" creationid="Marco Marega" creationdate="20160626T145809Z">
-        <seg>&lt;f0&gt;SOMMA.Q&lt;/f0&gt;(numero_1; numero_2; ... numero_30)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190903T124347Z" creationid="Marco Marega" creationdate="20160626T145809Z">
+        <seg>aaaa&lt;f0&gt;SOMMA.Q&lt;/f0&gt;(numero_1; numero_2; ... numero_30)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9192,8 +9192,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Criteria&lt;/f1&gt; is the cell in which the search criterion is shown, or the search criterion itself.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190903T102139Z" creationid="Marco Marega" creationdate="20160626T145548Z">
-        <seg>aaaa&lt;f1&gt;Criteri&lt;/f1&gt; è il riferimento alla cella in cui è inserita la condizione per la ricerca, oppure la condizione stessa.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190903T124032Z" creationid="Marco Marega" creationdate="20160626T145548Z">
+        <seg>&lt;f1&gt;Criteri&lt;/f1&gt; è la cella in cui è inserito il criterio di ricerca, oppure il criterio di ricerca stesso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9624,8 +9624,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;Sum_range&lt;/f2&gt; is the range from which values are summed; if &lt;f3&gt;it has&lt;/f3&gt; not been indicated, the values found in the &lt;f4&gt;Range&lt;/f4&gt; are summed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160626T145721Z" creationid="Marco Marega" creationdate="20160626T145721Z">
-        <seg>&lt;f2&gt;Intervallo somma&lt;/f2&gt; è l'intervallo di celle di cui sommare i valori; se &lt;f3&gt;non è&lt;/f3&gt; stato indicato, vengono sommati i valori che si trovano nell'&lt;f4&gt;Area&lt;/f4&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190903T124345Z" creationid="Marco Marega" creationdate="20160626T145721Z">
+        <seg>&lt;f2&gt;Intervallo_somma&lt;/f2&gt; è l'intervallo di celle di cui sommare i valori; se &lt;f3&gt;non è&lt;/f3&gt; stato indicato, vengono sommati i valori presenti all'interno dell'&lt;f4&gt;area&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
