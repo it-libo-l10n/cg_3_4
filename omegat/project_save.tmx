@@ -4624,8 +4624,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;ACCRINTM&lt;/f0&gt;(issue;&lt;f1&gt; s&lt;/f1&gt;ettlement; rate; par; basis)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190905T145635Z" creationid="Marco Marega" creationdate="20160629T123619Z">
-        <seg>aaaa&lt;f0&gt;INT.MATURATO.SCAD&lt;/f0&gt;(emissione;&lt;f1&gt; l&lt;/f1&gt;liquidazione; tasso interesse; valore nominale; base)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190905T151411Z" creationid="Marco Marega" creationdate="20160629T123619Z">
+        <seg>&lt;f0&gt;INT.MATURATO.SCAD&lt;/f0&gt;(emissione;&lt;f1&gt; l&lt;/f1&gt;iquidazione; tasso interesse; valore nominale; base)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16208,8 +16208,8 @@
       <tuv lang="EN">
         <seg>Calculates the accrued interest of a security in the case of one-off payment at the settlement date.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Issue&lt;/f1&gt;&lt;f2&gt; is&lt;/f2&gt; the issue date of the security.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Settlement&lt;/f4&gt;&lt;f5&gt; is&lt;/f5&gt; the maturity date.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Rate&lt;/f7&gt;&lt;f8&gt; is&lt;/f8&gt; the annual nominal rate of interest (coupon interest rate).&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Par&lt;/f10&gt;&lt;f11&gt; is&lt;/f11&gt; the par value of the security.&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;Basis&lt;/f13&gt; indicates how the year is to be calculated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160629T203917Z" creationid="Marco Marega" creationdate="20160629T124113Z">
-        <seg>Calcola gli interessi maturati da un titolo in caso di pagamento in un'unica soluzione alla data di liquidazione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Emissione&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; la data di emissione del titolo.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Liquidazione&lt;/f4&gt;&lt;f5&gt; è&lt;/f5&gt; la data di scadenza del titolo.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Tasso interesse&lt;/f7&gt;&lt;f8&gt; è&lt;/f8&gt; il tasso di interesse nominale annuo (tasso cedolare).&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Valore nominale&lt;/f10&gt;&lt;f11&gt; è&lt;/f11&gt; il valore nominale del titolo.&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;Base&lt;/f13&gt; indica il modo in cui viene calcolato l'anno.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190905T151413Z" creationid="Marco Marega" creationdate="20160629T124113Z">
+        <seg>aaaaCalcola gli interessi maturati da un titolo in caso di pagamento in un'unica soluzione alla data di liquidazione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Emissione&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; la data di emissione del titolo.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Liquidazione&lt;/f4&gt;&lt;f5&gt; è&lt;/f5&gt; la data di scadenza del titolo.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Tasso interesse&lt;/f7&gt;&lt;f8&gt; è&lt;/f8&gt; il tasso di interesse nominale annuo (tasso cedolare).&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Valore nominale&lt;/f10&gt;&lt;f11&gt; è&lt;/f11&gt; il valore nominale del titolo.&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;Base&lt;/f13&gt; indica il modo in cui viene calcolato l'anno.</seg>
       </tuv>
     </tu>
     <tu>
