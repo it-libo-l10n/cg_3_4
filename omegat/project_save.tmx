@@ -4616,8 +4616,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;ACCRINT&lt;/f0&gt;(issue; first_interest; settlement;&lt;f1&gt; r&lt;/f1&gt;ate; par; frequency; basis)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160628T121525Z" creationid="Marco Marega" creationdate="20160628T121514Z">
-        <seg>&lt;f0&gt;INT.MATURATO.PER&lt;/f0&gt;(emissione; primo interesse; liquidazione;&lt;f1&gt; t&lt;/f1&gt;asso interesse; valore nominale; frequenza; base)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190905T123900Z" creationid="Marco Marega" creationdate="20160628T121514Z">
+        <seg>aaaa&lt;f0&gt;INT.MATURATO.PER&lt;/f0&gt;(emissione; primo interesse; liquidazione;&lt;f1&gt; t&lt;/f1&gt;asso interesse; valore nominale; frequenza; base)</seg>
       </tuv>
     </tu>
     <tu>
@@ -51880,8 +51880,8 @@
       <tuv lang="EN">
         <seg>Table &lt;seq0&gt;37&lt;/seq0&gt;: Financial analysis functions</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190905T122446Z" creationid="Marco Marega" creationdate="20160626T153822Z">
-        <seg>aaaaTabella &lt;seq0&gt;37&lt;/seq0&gt;: Funzioni di analisi finanziaria</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190905T123837Z" creationid="Marco Marega" creationdate="20160626T153822Z">
+        <seg>Tabella &lt;seq0&gt;37&lt;/seq0&gt;: funzioni di analisi finanziaria</seg>
       </tuv>
     </tu>
     <tu>
