@@ -5104,8 +5104,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;COUPNUM&lt;/f0&gt;(settlement; maturity; frequency; basis)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160702T082144Z" creationid="Marco Marega" creationdate="20160702T075505Z">
-        <seg>&lt;f0&gt;NUM.CED&lt;/f0&gt;(liquidazione; scadenza; frequenza; base)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190906T153356Z" creationid="Marco Marega" creationdate="20160702T075505Z">
+        <seg>aaaaaaaaaaaaaaaa&lt;f0&gt;NUM.CED&lt;/f0&gt;(liquidazione; scadenza; frequenza; base)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16216,8 +16216,8 @@
       <tuv lang="EN">
         <seg>Calculates the accrued interest of a security in the case of periodic payments.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Issue&lt;/f1&gt;&lt;f2&gt; is &lt;/f2&gt;the issue date of the security.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;First_interest&lt;/f4&gt;&lt;f5&gt; is&lt;/f5&gt; the first interest date of the security.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Settlement&lt;/f7&gt;&lt;f8&gt; is&lt;/f8&gt; the maturity date.&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Rate&lt;/f10&gt;&lt;f11&gt; is&lt;/f11&gt; the annual nominal rate of interest (coupon interest rate).&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;Par&lt;/f13&gt;&lt;f14&gt; is&lt;/f14&gt; the par value of the security.&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Frequency&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt; is the number&lt;/f18&gt; of interest payments per year (1, 2 or 4).&lt;f19&gt; &lt;/f19&gt;&lt;f20&gt;Basis&lt;/f20&gt;&lt;f21&gt; &lt;/f21&gt;indicates how the year is to be calculated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190905T145633Z" creationid="Marco Marega" creationdate="20160628T121517Z">
-        <seg>Calcola gli interessi maturati da un titolo a pagamenti periodici.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Emissione&lt;/f1&gt;&lt;f2&gt; è &lt;/f2&gt;la data di emissione del titolo.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Primo interesse&lt;/f4&gt;&lt;f5&gt; è&lt;/f5&gt; la data di maturazione della prima cedola.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Liquidazione&lt;/f7&gt;&lt;f8&gt; è&lt;/f8&gt; la data di liquidazione del titolo.&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Tasso interesse&lt;/f10&gt;&lt;f11&gt; è&lt;/f11&gt; il tasso di interesse nominale annuo (tasso cedolare).&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;Valore nominale&lt;/f13&gt;&lt;f14&gt; è&lt;/f14&gt; il valore nominale del titolo.&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Frequenza&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt; è il numero&lt;/f18&gt; di pagamenti degli interessi all'anno (1, 2 o 4).&lt;f19&gt; &lt;/f19&gt;&lt;f20&gt;Base&lt;/f20&gt;&lt;f21&gt; &lt;/f21&gt;indica il modo in cui viene calcolato l'anno.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190906T153421Z" creationid="Marco Marega" creationdate="20160628T121517Z">
+        <seg>Calcola gli interessi maturati da un titolo a pagamenti periodici.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Emissione&lt;/f1&gt;&lt;f2&gt; è &lt;/f2&gt;la data di emissione del titolo.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Primo interesse&lt;/f4&gt;&lt;f5&gt; è&lt;/f5&gt; la data di maturazione della prima cedola.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Liquidazione&lt;/f7&gt;&lt;f8&gt; è&lt;/f8&gt; la data di liquidazione del titolo.&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Tasso interesse&lt;/f10&gt;&lt;f11&gt; è&lt;/f11&gt; il tasso di interesse nominale annuo (tasso cedolare).&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;Valore nominale&lt;/f13&gt;&lt;f14&gt; è&lt;/f14&gt; il valore nominale del titolo.&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;&lt;f17&gt;Frequenza&lt;/f17&gt;&lt;/f16&gt;&lt;f18&gt; è il numero&lt;/f18&gt; di pagamenti degli interessi in un anno (1, 2 o 4).&lt;f19&gt; &lt;/f19&gt;&lt;f20&gt;Base&lt;/f20&gt;&lt;f21&gt; &lt;/f21&gt;indica il modo in cui viene calcolato l'anno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45304,8 +45304,8 @@
       <tuv lang="EN">
         <seg>Returns the date of the first interest date after the settlement date, and formats the result as a date.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Settlement&lt;/f1&gt;&lt;f2&gt; is&lt;/f2&gt; the date of purchase of the security.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Maturity&lt;/f4&gt;&lt;f5&gt; is&lt;/f5&gt; the date on which the security matures (expires).&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Frequency&lt;/f7&gt;&lt;f8&gt; is the&lt;/f8&gt; number of interest payments per year (1, 2 or 4).&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Basis&lt;/f10&gt; indicates how the year is to be calculated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160702T081422Z" creationid="Marco Marega" creationdate="20160702T075505Z">
-        <seg>Restituisce la data di pagamento della prima cedola di interessi successiva alla data di liquidazione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Liquidazione&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; la data di acquisto del titolo.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Scadenza&lt;/f4&gt;&lt;f5&gt; è&lt;/f5&gt; la data di scadenza del titolo.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Frequenza&lt;/f7&gt;&lt;f8&gt; è il&lt;/f8&gt; numero di pagamenti di interessi in un anno (1, 2 o 4).&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Base&lt;/f10&gt; indica il modo in cui viene calcolato l'anno.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190906T153351Z" creationid="Marco Marega" creationdate="20160702T075505Z">
+        <seg>Restituisce la data di pagamento della prima cedola di interessi successiva alla data di liquidazione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Liquidazione&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; la data di acquisto del titolo.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Scadenza&lt;/f4&gt;&lt;f5&gt; è&lt;/f5&gt; la data di scadenza del titolo.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Frequenza&lt;/f7&gt;&lt;f8&gt; è il&lt;/f8&gt; numero di pagamenti degli interessi in un anno (1, 2 o 4).&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Base&lt;/f10&gt; indica il modo in cui viene calcolato l'anno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45976,24 +45976,24 @@
       <tuv lang="EN">
         <seg>Returns the number of days from the first day of interest payment on a security until the settlement date.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Settlement&lt;/f1&gt;&lt;f2&gt; is&lt;/f2&gt; the date of purchase of the security.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Maturity&lt;/f4&gt;&lt;f5&gt; is&lt;/f5&gt; the date on which the security matures (expires).&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Frequency&lt;/f7&gt;&lt;f8&gt; is&lt;/f8&gt; the number of interest payments per year (1, 2 or 4).&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Basis&lt;/f10&gt; indicates how the year is to be calculated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190906T141335Z" creationid="Marco Marega" creationdate="20160629T205215Z">
-        <seg>Restituisce il numero di giorni che vanno dal primo giorno di maturazione degli interessi sulla cedola fino alla data di liquidazione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Liquidazione&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; la data di acquisto del titolo.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Scadenza&lt;/f4&gt;&lt;f5&gt; è&lt;/f5&gt; la data di scadenza del titolo.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Frequenza&lt;/f7&gt;&lt;f8&gt; è&lt;/f8&gt; il numero di pagamenti degli interessi all'anno (1, 2 o 4).&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Base&lt;/f10&gt; indica il modo in cui viene calcolato l'anno.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190906T153459Z" creationid="Marco Marega" creationdate="20160629T205215Z">
+        <seg>Restituisce il numero di giorni che vanno dal primo giorno di maturazione degli interessi sulla cedola fino alla data di liquidazione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Liquidazione&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; la data di acquisto del titolo.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Scadenza&lt;/f4&gt;&lt;f5&gt; è&lt;/f5&gt; la data di scadenza del titolo.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Frequenza&lt;/f7&gt;&lt;f8&gt; è&lt;/f8&gt; il numero di pagamenti degli interessi in un anno (1, 2 o 4).&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Base&lt;/f10&gt; indica il modo in cui viene calcolato l'anno.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Returns the number of days from the settlement date until the next interest date.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Settlement&lt;/f1&gt;&lt;f2&gt; is&lt;/f2&gt; the date of purchase of the security.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Maturity&lt;/f4&gt;&lt;f5&gt; is&lt;/f5&gt; the date on which the security matures (expires).&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Frequency&lt;/f7&gt;&lt;f8&gt; is&lt;/f8&gt; the number of interest payments per year (1, 2 or 4).&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Basis&lt;/f10&gt; indicates how the year is to be calculated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190906T143320Z" creationid="Marco Marega" creationdate="20160702T075505Z">
-        <seg>Restituisce il numero di giorni intercorrenti tra la data di liquidazione e la nuova scadenza della cedola.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Liquidazione&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; la data di acquisto del titolo.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Scadenza&lt;/f4&gt;&lt;f5&gt; è&lt;/f5&gt; la data di scadenza del titolo.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Frequenza&lt;/f7&gt;&lt;f8&gt; è&lt;/f8&gt; il numero di pagamenti degli interessi all'anno (1, 2 o 4).&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Base&lt;/f10&gt; indica il modo in cui viene calcolato l'anno.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190906T153524Z" creationid="Marco Marega" creationdate="20160702T075505Z">
+        <seg>Restituisce il numero di giorni intercorrenti tra la data di liquidazione e la nuova scadenza della cedola.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Liquidazione&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; la data di acquisto del titolo.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Scadenza&lt;/f4&gt;&lt;f5&gt; è&lt;/f5&gt; la data di scadenza del titolo.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Frequenza&lt;/f7&gt;&lt;f8&gt; è&lt;/f8&gt; il numero di pagamenti degli interessi in un anno (1, 2 o 4).&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Base&lt;/f10&gt; indica il modo in cui viene calcolato l'anno.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Returns the number of days in the current interest period in which the settlement date falls.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Settlement&lt;/f1&gt;&lt;f2&gt; is&lt;/f2&gt; the date of purchase of the security.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Maturity&lt;/f4&gt;&lt;f5&gt; is&lt;/f5&gt; the date on which the security matures (expires).&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Frequency&lt;/f7&gt;&lt;f8&gt; is the&lt;/f8&gt; number of interest payments per year (1, 2 or 4).&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Basis&lt;/f10&gt; indicates how the year is to be calculated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190906T141448Z" creationid="Marco Marega" creationdate="20160702T075420Z">
-        <seg>Restituisce il numero di giorni nel periodo di maturazione degli interessi in cui cade la data di liquidazione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Liquidazione&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; la data di acquisto del titolo.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Scadenza&lt;/f4&gt;&lt;f5&gt; è&lt;/f5&gt; è la data di scadenza del titolo.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Frequenza&lt;/f7&gt;&lt;f8&gt; è il&lt;/f8&gt; numero di pagamenti degli interessi all'anno (1, 2 o 4).&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Base&lt;/f10&gt; indica il modo in cui viene calcolato l'anno.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190906T153513Z" creationid="Marco Marega" creationdate="20160702T075420Z">
+        <seg>Restituisce il numero di giorni nel periodo di maturazione degli interessi in cui cade la data di liquidazione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Liquidazione&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; la data di acquisto del titolo.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Scadenza&lt;/f4&gt;&lt;f5&gt; è&lt;/f5&gt; è la data di scadenza del titolo.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Frequenza&lt;/f7&gt;&lt;f8&gt; è il&lt;/f8&gt; numero di pagamenti degli interessi in un anno (1, 2 o 4).&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Base&lt;/f10&gt; indica il modo in cui viene calcolato l'anno.</seg>
       </tuv>
     </tu>
     <tu>
