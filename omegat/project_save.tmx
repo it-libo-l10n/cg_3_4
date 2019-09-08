@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5104,8 +5104,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;COUPNUM&lt;/f0&gt;(settlement; maturity; frequency; basis)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190906T153356Z" creationid="Marco Marega" creationdate="20160702T075505Z">
-        <seg>aaaaaaaaaaaaaaaa&lt;f0&gt;NUM.CED&lt;/f0&gt;(liquidazione; scadenza; frequenza; base)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190908T104752Z" creationid="Marco Marega" creationdate="20160702T075505Z">
+        <seg>&lt;f0&gt;NUM.CED&lt;/f0&gt;(liquidazione; scadenza; frequenza; base)</seg>
       </tuv>
     </tu>
     <tu>
