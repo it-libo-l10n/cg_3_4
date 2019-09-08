@@ -5112,8 +5112,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;COUPPCD&lt;/f0&gt;(settlement; maturity; frequency; basis)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160702T081711Z" creationid="Marco Marega" creationdate="20160702T075518Z">
-        <seg>&lt;f0&gt;DATA.CED.PREC&lt;/f0&gt;(liquidazione; scadenza; frequenza; base)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190908T105210Z" creationid="Marco Marega" creationdate="20160702T075518Z">
+        <seg>aaaa&lt;f0&gt;DATA.CED.PREC&lt;/f0&gt;(liquidazione; scadenza; frequenza; base)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45968,8 +45968,8 @@
       <tuv lang="EN">
         <seg>Returns the number of coupons (interest payments) between the settlement date and the maturity date.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Settlement&lt;/f1&gt;&lt;f2&gt; is&lt;/f2&gt; the date of purchase of the security.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Maturity&lt;/f4&gt;&lt;f5&gt; is&lt;/f5&gt; the date on which the security matures (expires).&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Frequency&lt;/f7&gt;&lt;f8&gt; is the&lt;/f8&gt; number of interest payments per year (1, 2 or 4).&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Basis&lt;/f10&gt; indicates how the year is to be calculated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160702T082354Z" creationid="Marco Marega" creationdate="20160702T075505Z">
-        <seg>Restituisce il numero di cedole di interessi che maturano tra la data di liquidazione e la scadenza.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Liquidazione&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; la data di acquisto del titolo.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Scadenza&lt;/f4&gt;&lt;f5&gt; è&lt;/f5&gt; la data di scadenza del titolo.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Frequenza&lt;/f7&gt;&lt;f8&gt; è il&lt;/f8&gt; numero di pagamenti di interessi in un anno (1, 2 o 4).&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Base&lt;/f10&gt; indica il modo in cui viene calcolato l'anno.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190908T105208Z" creationid="Marco Marega" creationdate="20160702T075505Z">
+        <seg>Restituisce il numero di cedole degli interessi che maturano tra la data di liquidazione e la data di scadenza.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Liquidazione&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; la data di acquisto del titolo.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Scadenza&lt;/f4&gt;&lt;f5&gt; è&lt;/f5&gt; la data di scadenza del titolo.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Frequenza&lt;/f7&gt;&lt;f8&gt; è il&lt;/f8&gt; numero di pagamenti degli interessi in un anno (1, 2 o 4).&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Base&lt;/f10&gt; indica il modo in cui viene calcolato l'anno.</seg>
       </tuv>
     </tu>
     <tu>
