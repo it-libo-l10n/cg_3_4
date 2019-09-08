@@ -5136,8 +5136,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;CUMIPMT&lt;/f0&gt;(rate; &lt;f1&gt;NPER&lt;/f1&gt;; &lt;f2&gt;PV&lt;/f2&gt;; S; E; type)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190908T114313Z" creationid="Marco Marega" creationdate="20160702T083847Z">
-        <seg>aaaa&lt;f0&gt;INT.CUMUL&lt;/f0&gt;(tasso interesse; &lt;f1&gt;numero rate&lt;/f1&gt;; &lt;f2&gt;valore attuale&lt;/f2&gt;; periodo iniziale; periodo finale; tipo)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190908T123847Z" creationid="Marco Marega" creationdate="20160702T083847Z">
+        <seg>&lt;f0&gt;INT.CUMUL&lt;/f0&gt;(tasso interesse; &lt;f1&gt;numero rate&lt;/f1&gt;; &lt;f2&gt;valore attuale&lt;/f2&gt;; periodo iniziale; periodo finale; tipo)</seg>
       </tuv>
     </tu>
     <tu>
