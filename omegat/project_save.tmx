@@ -5144,8 +5144,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;CUMPRINC&lt;/f0&gt;(rate; NPER; PV; S; E; type)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180327T070014Z" creationid="Marco Marega" creationdate="20160702T090110Z">
-        <seg>&lt;f0&gt;CAP.CUM&lt;/f0&gt;(tasso interesse; numero rate; valore attuale; periodo iniziale; periodo finale; tipo)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190909T081547Z" creationid="Marco Marega" creationdate="20160702T090110Z">
+        <seg>aaaa&lt;f0&gt;CAP.CUM&lt;/f0&gt;(tasso interesse; numero rate; valore attuale; periodo iniziale; periodo finale; tipo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -52568,8 +52568,8 @@
       <tuv lang="EN">
         <seg>The &lt;f4&gt;rate&lt;/f4&gt; and &lt;f5&gt;NPER&lt;/f5&gt; must refer to the same unit, and thus both must be calculated annually or monthly.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;PV&lt;/f7&gt; is the current value.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Start_period&lt;/f9&gt;&lt;f10&gt; the&lt;/f10&gt; first payment period for the calculation.&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;End_period&lt;/f12&gt; the last payment period for the calculation.&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;Type&lt;/f14&gt; &lt;f15&gt;is&lt;/f15&gt; the due date of the payment at the beginning (1) or end (0) of each period.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190909T075001Z" creationid="Marco Marega" creationdate="20160702T085743Z">
-        <seg>Il &lt;f4&gt;tasso interesse&lt;/f4&gt; e il &lt;f5&gt;numero rate&lt;/f5&gt; devono riferirsi alla stessa unità di misura, e quindi devono essere calcolati entrambi su base annuale o mensile.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;aaaaaaaaaaaaaaaaValore attuale&lt;/f7&gt; è il valore corrente nella sequenza dei pagamenti.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Periodo iniziale&lt;/f9&gt;&lt;f10&gt; è&lt;/f10&gt; il primo periodo.&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;Periodo finale&lt;/f12&gt; è l'ultimo periodo.&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;Tipo&lt;/f14&gt;&lt;f15&gt;&lt;/f15&gt; indica se il pagamento degli interessi per ciascun periodo è anticipato (1) o posticipato (0).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190909T081439Z" creationid="Marco Marega" creationdate="20160702T085743Z">
+        <seg>Il &lt;f4&gt;tasso interesse&lt;/f4&gt; e il &lt;f5&gt;numero rate&lt;/f5&gt; devono riferirsi alla stessa unità di misura, e quindi devono essere calcolati entrambi su base annuale o mensile.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Valore attuale&lt;/f7&gt; è il valore corrente.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Periodo iniziale&lt;/f9&gt;&lt;f10&gt; è&lt;/f10&gt; il primo periodo.&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;Periodo finale&lt;/f12&gt; è l'ultimo periodo.&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;Tipo&lt;/f14&gt;&lt;f15&gt;&lt;/f15&gt; indica se il pagamento degli interessi per ciascun periodo è anticipato (1) o posticipato (0).</seg>
       </tuv>
     </tu>
     <tu>
