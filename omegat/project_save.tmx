@@ -5144,8 +5144,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;CUMPRINC&lt;/f0&gt;(rate; NPER; PV; S; E; type)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190909T081547Z" creationid="Marco Marega" creationdate="20160702T090110Z">
-        <seg>aaaa&lt;f0&gt;CAP.CUM&lt;/f0&gt;(tasso interesse; numero rate; valore attuale; periodo iniziale; periodo finale; tipo)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190909T090941Z" creationid="Marco Marega" creationdate="20160702T090110Z">
+        <seg>&lt;f0&gt;CAP.CUM&lt;/f0&gt;(tasso interesse; numero rate; valore attuale; periodo iniziale; periodo finale; tipo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45264,8 +45264,8 @@
       <tuv lang="EN">
         <seg>Returns the cumulative interest paid for an investment period with a constant interest rate.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Rate&lt;/f1&gt;&lt;f2&gt; is&lt;/f2&gt; the periodic interest rate.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;NPER&lt;/f4&gt;&lt;f5&gt; is&lt;/f5&gt; the payment period with the total number of periods.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160702T090309Z" creationid="Marco Marega" creationdate="20160702T090309Z">
-        <seg>Restituisce l'ammontare complessivo del capitale cumulato agli interessi per un investimento a tasso fisso.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Tasso interesse&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; il tasso interesse periodico.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Numero rate&lt;/f4&gt;&lt;f5&gt; è&lt;/f5&gt; il numero complessivo di rate nel periodo di pagamento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190909T090947Z" creationid="Marco Marega" creationdate="20160702T090309Z">
+        <seg>aaaaRestituisce l'ammontare complessivo del capitale cumulato agli interessi per un investimento a tasso fisso.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Tasso interesse&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; il tasso interesse periodico.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Numero rate&lt;/f4&gt;&lt;f5&gt; è&lt;/f5&gt; il numero complessivo di rate nel periodo di pagamento.</seg>
       </tuv>
     </tu>
     <tu>
