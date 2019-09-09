@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15560,8 +15560,8 @@
       <tuv lang="EN">
         <seg>CUMIPMT_ADD(rate; NPER; PV; start_period; end_period; type)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190908T141136Z" creationid="Marco Marega" creationdate="20160702T085356Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaaINT.CUMUL_ADD(tasso interesse; numero rate; valore attuale; periodo iniziale; periodo finale; tipo)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190909T071430Z" creationid="Marco Marega" creationdate="20160702T085356Z">
+        <seg>INT.CUMUL_ADD(tasso interesse; numero rate; valore attuale; periodo iniziale; periodo finale; tipo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16224,8 +16224,8 @@
       <tuv lang="EN">
         <seg>Calculates the accumulated interest for a period.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Rate&lt;/f1&gt; is the interest rate for each period.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;NPER&lt;/f3&gt; is the total number of payment periods.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="ldaghino" changedate="20180327T070008Z" creationid="Marco Marega" creationdate="20160702T085628Z">
-        <seg>Calcola l'ammontare complessivo degli interessi cumulati per un investimento.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Tasso interesse&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; il tasso interesse periodico.&lt;f3&gt; &lt;/f3&gt;Numero rate è il numero complessivo di rate nel periodo di pagamento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190909T071432Z" creationid="Marco Marega" creationdate="20160702T085628Z">
+        <seg>aaaaCalcola l'ammontare complessivo degli interessi cumulati per un investimento.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Tasso interesse&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; il tasso interesse periodico.&lt;f3&gt; &lt;/f3&gt;Numero rate è il numero complessivo di rate nel periodo di pagamento.</seg>
       </tuv>
     </tu>
     <tu>
