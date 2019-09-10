@@ -5488,8 +5488,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Cost&lt;/f0&gt; fixes the initial cost of an asset.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Salvage&lt;/f2&gt; fixes the value of an asset at the end of its life.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Life&lt;/f4&gt; is the number of periods defining how long the asset is to be used.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Period&lt;/f6&gt; defines the length of the period.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190910T140828Z" creationid="Marco Marega" creationdate="20160703T092205Z">
-        <seg>aaaa&lt;f0&gt;Costo&lt;/f0&gt; indica il costo iniziale di un bene.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Valore residuo&lt;/f2&gt; indica il valore di un bene al termine della sua vita utile.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Vita utile&lt;/f4&gt; indica il numero di periodi per cui il bene verrà utilizzato.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Periodi&lt;/f6&gt; definisce la durata di ciascun periodo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190910T151319Z" creationid="Marco Marega" creationdate="20160703T092205Z">
+        <seg>&lt;f0&gt;Costo&lt;/f0&gt; indica il costo iniziale di un bene.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Valore residuo&lt;/f2&gt; indica il valore di un bene al termine della sua vita utile.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Vita utile&lt;/f4&gt; indica il numero di periodi per cui il bene verrà utilizzato.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Periodi&lt;/f6&gt; definisce la durata di ciascun periodo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56184,8 +56184,8 @@
       <tuv lang="EN">
         <seg>The period must be entered in the same time unit as the life.&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;Factor&lt;/f8&gt; (optional) is the factor by which depreciation decreases.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T092716Z" creationid="Marco Marega" creationdate="20160703T092716Z">
-        <seg>I periodi devono essere inseriti nella stessa unità i misura della vita utile.&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;Fattore&lt;/f8&gt; (facoltativo) è il fattore in base al quale l'ammortamento decresce.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190910T153229Z" creationid="Marco Marega" creationdate="20160703T092716Z">
+        <seg>aaaaI periodi devono essere inseriti nella stessa unità i misura della vita utile.&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;Fattore&lt;/f8&gt; (facoltativo) è il fattore in base al quale l'ammortamento decresce.</seg>
       </tuv>
     </tu>
     <tu>
