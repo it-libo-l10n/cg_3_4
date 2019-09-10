@@ -5560,8 +5560,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;DDB&lt;/f0&gt;(cost; salvage; life; period; factor)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T091425Z" creationid="Marco Marega" creationdate="20160703T091425Z">
-        <seg>&lt;f0&gt;AMMORT&lt;/f0&gt;(costo; valore residuo; vita utile; periodi; fattore)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190910T131006Z" creationid="Marco Marega" creationdate="20160703T091425Z">
+        <seg>aaaa&lt;f0&gt;AMMORT&lt;/f0&gt;(costo; valore residuo; vita utile; periodi; fattore)</seg>
       </tuv>
     </tu>
     <tu>
@@ -55408,8 +55408,8 @@
       <tuv lang="EN">
         <seg>The life must be entered in the same date unit as the depreciation period.&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Month&lt;/f10&gt; (optional) denotes the number of months for the first year of depreciation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190909T160545Z" creationid="Marco Marega" creationdate="20160703T091309Z">
-        <seg>aaaaaaaaaaaaaaaaLa vita utile deve essere inserita nella stessa unità di misura del periodo di ammortamento.&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Mese&lt;/f10&gt; (facoltativo) indica il numero di mesi nel primo anno di ammortamento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190910T131003Z" creationid="Marco Marega" creationdate="20160703T091309Z">
+        <seg>La vita utile deve essere inserita nella stessa unità di misura del periodo di ammortamento.&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Mese&lt;/f10&gt; (facoltativo) indica il numero di mesi nel primo anno di ammortamento.</seg>
       </tuv>
     </tu>
     <tu>
