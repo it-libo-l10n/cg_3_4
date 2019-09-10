@@ -5560,8 +5560,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;DDB&lt;/f0&gt;(cost; salvage; life; period; factor)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190910T131006Z" creationid="Marco Marega" creationdate="20160703T091425Z">
-        <seg>aaaa&lt;f0&gt;AMMORT&lt;/f0&gt;(costo; valore residuo; vita utile; periodi; fattore)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190910T133222Z" creationid="Marco Marega" creationdate="20160703T091425Z">
+        <seg>&lt;f0&gt;AMMORT&lt;/f0&gt;(costo; valore residuo; vita utile; periodi; fattore)</seg>
       </tuv>
     </tu>
     <tu>
@@ -39608,8 +39608,8 @@
       <tuv lang="EN">
         <seg>Note that the book value will never reach zero under this calculation type.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T091837Z" creationid="Marco Marega" creationdate="20160703T091837Z">
-        <seg>Da notare che, utilizzando questo tipo di calcolo, il valore contabile non raggiungerà mai lo zero.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190910T134706Z" creationid="Marco Marega" creationdate="20160703T091837Z">
+        <seg>aaaaDa notare che, utilizzando questo tipo di calcolo, il valore contabile non raggiungerà mai lo zero.</seg>
       </tuv>
     </tu>
     <tu>
