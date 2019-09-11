@@ -9216,8 +9216,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Decimal_dollar&lt;/f1&gt; is a decimal number.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190911T101303Z" creationid="Marco Marega" creationdate="20160703T100606Z">
-        <seg>aaaa&lt;f1&gt;Numero&lt;/f1&gt; è un numero decimale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190911T103127Z" creationid="Marco Marega" creationdate="20160703T100606Z">
+        <seg>&lt;f1&gt;Numero&lt;/f1&gt; è un numero decimale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9512,8 +9512,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;Fraction&lt;/f2&gt; is a whole number that is used as the denominator of the decimal fraction.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T100755Z" creationid="Marco Marega" creationdate="20160703T100755Z">
-        <seg>&lt;f2&gt;Divisore&lt;/f2&gt; è un numero intero che viene usato come denominatore della frazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190911T103355Z" creationid="Marco Marega" creationdate="20160703T100755Z">
+        <seg>&lt;f2&gt;Divisore&lt;/f2&gt; è un numero intero usato come denominatore della frazione decimale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21360,8 +21360,8 @@
       <tuv lang="EN">
         <seg>DURATION(rate; PV; &lt;f0&gt;FV&lt;/f0&gt;)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T101107Z" creationid="Marco Marega" creationdate="20160703T101107Z">
-        <seg>DURATA(Tasso; Valore attuale; &lt;f0&gt;Valore futuro&lt;/f0&gt;)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190911T103357Z" creationid="Marco Marega" creationdate="20160703T101107Z">
+        <seg>aaaaDURATA(Tasso; Valore attuale; &lt;f0&gt;Valore futuro&lt;/f0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
