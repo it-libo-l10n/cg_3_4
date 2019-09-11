@@ -21368,8 +21368,8 @@
       <tuv lang="EN">
         <seg>DURATION_ADD (settlement; maturity; coupon; yield; frequency; basis)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T125610Z" creationid="Marco Marega" creationdate="20160703T125610Z">
-        <seg>DURATA_ADD (liquidazione; scadenza; tasso interesse nominale; rendimento; frequenza; base)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190911T135539Z" creationid="Marco Marega" creationdate="20160703T125610Z">
+        <seg>aaaaDURATA_ADD (liquidazione; scadenza; tasso interesse nominale; rendimento; frequenza; base)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23544,8 +23544,8 @@
       <tuv lang="EN">
         <seg>Entering the interest rate divided by the periods per year, can calculate the interest after each period.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;PV&lt;/f5&gt; is the present &lt;s6/&gt;value.&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;FV&lt;/f8&gt; is the desired future value of the investment.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190911T132457Z" creationid="Marco Marega" creationdate="20160703T101833Z">
-        <seg>aaaaInserendo il tasso di interesse diviso per i periodi presenti in un anno, è possibile calcolare l'interesse al termine di ciascun periodo.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Valore attuale&lt;/f5&gt; è il &lt;s6/&gt;valore iniziale dell'investimento.&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;Valore futuro&lt;/f8&gt; è il valore futuro che si desidera venga raggiunto dell'investimento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190911T135536Z" creationid="Marco Marega" creationdate="20160703T101833Z">
+        <seg>Inserendo il tasso di interesse diviso per i periodi presenti in un anno, è possibile calcolare l'interesse al termine di ciascun periodo.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Valore attuale&lt;/f5&gt; è il &lt;s6/&gt;valore iniziale dell'investimento.&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;Valore futuro&lt;/f8&gt; è il valore futuro desiderato dell'investimento.</seg>
       </tuv>
     </tu>
     <tu>
