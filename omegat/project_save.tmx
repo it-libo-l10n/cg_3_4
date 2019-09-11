@@ -16528,8 +16528,8 @@
       <tuv lang="EN">
         <seg>Calculates the number of periods required by an investment to attain the desired value.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Rate&lt;/f1&gt;&lt;f2&gt; (a constant) is&lt;/f2&gt; the interest rate &lt;s3/&gt;to be calculated for the entire duration.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T101426Z" creationid="Marco Marega" creationdate="20160703T101426Z">
-        <seg>Calcola il numero di periodi necessari affinché un investimento raggiunga il valore desiderato.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Tasso&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; il tasso di interesse costante &lt;s3/&gt;per l'intera durata in base al quale viene effettuato il conteggio.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190911T123030Z" creationid="Marco Marega" creationdate="20160703T101426Z">
+        <seg>aaaaCalcola il numero di periodi necessari affinché un investimento raggiunga il valore desiderato.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Tasso&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; il tasso di interesse costante &lt;s3/&gt;per l'intera durata in base al quale viene effettuato il conteggio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21360,8 +21360,8 @@
       <tuv lang="EN">
         <seg>DURATION(rate; PV; &lt;f0&gt;FV&lt;/f0&gt;)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190911T103357Z" creationid="Marco Marega" creationdate="20160703T101107Z">
-        <seg>aaaaDURATA(Tasso; Valore attuale; &lt;f0&gt;Valore futuro&lt;/f0&gt;)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190911T123028Z" creationid="Marco Marega" creationdate="20160703T101107Z">
+        <seg>DURATA(tasso; valore attuale; &lt;f0&gt;valore futuro&lt;/f0&gt;)</seg>
       </tuv>
     </tu>
     <tu>
