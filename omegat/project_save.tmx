@@ -22680,8 +22680,8 @@
       <tuv lang="EN">
         <seg>EFFECTIVE(&lt;f0&gt;NOM&lt;/f0&gt;; P)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190912T135931Z" creationid="Marco Marega" creationdate="20160703T132336Z">
-        <seg>EFFETTIVO(&lt;f0&gt;interesse nominale&lt;/f0&gt;; periodi)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190912T144124Z" creationid="Marco Marega" creationdate="20160703T132336Z">
+        <seg>EFFETTIVO(&lt;f0&gt;interesse nominale&lt;/f0&gt;; P)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24264,8 +24264,8 @@
       <tuv lang="EN">
         <seg>FV(rate; NPER; &lt;f0&gt;PMT&lt;/f0&gt;; PV; type)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T140847Z" creationid="Marco Marega" creationdate="20160703T140847Z">
-        <seg>VAL.FUT(tasso interesse; numero rate; &lt;f0&gt;rata&lt;/f0&gt;; valore attuale; tipo)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190912T144645Z" creationid="Marco Marega" creationdate="20160703T140847Z">
+        <seg>aaaaVAL.FUT(tasso interesse; numero rate; &lt;f0&gt;rata&lt;/f0&gt;; valore attuale; tipo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -72436,8 +72436,8 @@
       <tuv lang="EN">
         <seg>Calculates the effective annual rate of interest on the basis of the nominal interest rate and the number of interest payments per annum.&lt;f0&gt; &lt;/f0&gt;Nominal interest refers to the amount of interest due at the end of a calculation period.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;NOM&lt;/f2&gt; is the nominal interest.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;P&lt;/f4&gt; is the number of interest payment periods per year.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190912T135933Z" creationid="Marco Marega" creationdate="20160703T132827Z">
-        <seg>aaaaCalcola il tasso di interesse effettivo annuo sulla base del tasso di interesse nominale e del numero di pagamenti di interessi per anno.&lt;f0&gt; &lt;/f0&gt;Il tasso di interessi nominale è riferito all'ammontare degli interessi dovuti alla fine di un periodo. &lt;f1&gt;Interesse nominale&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; il tasso di interesse nominale annuo.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;P&lt;/f4&gt; è  il numero di pagamenti di interessi in un anno.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190912T144643Z" creationid="Marco Marega" creationdate="20160703T132827Z">
+        <seg>Calcola il tasso di interesse effettivo annuo sulla base del tasso di interesse nominale e del numero di pagamenti degli interessi per anno.&lt;f0&gt; &lt;/f0&gt;Il tasso di interesse nominale è riferito all'ammontare degli interessi dovuti alla fine di un periodo.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Interesse nominale&lt;/f2&gt; è il tasso di interesse nominale annuo.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;P&lt;/f4&gt; è il numero di pagamenti degli interessi in un anno.</seg>
       </tuv>
     </tu>
   </body>
