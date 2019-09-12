@@ -24264,8 +24264,8 @@
       <tuv lang="EN">
         <seg>FV(rate; NPER; &lt;f0&gt;PMT&lt;/f0&gt;; PV; type)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190912T144645Z" creationid="Marco Marega" creationdate="20160703T140847Z">
-        <seg>aaaaVAL.FUT(tasso interesse; numero rate; &lt;f0&gt;rata&lt;/f0&gt;; valore attuale; tipo)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190912T152826Z" creationid="Marco Marega" creationdate="20160703T140847Z">
+        <seg>VAL.FUT(tasso interesse; numero rate; &lt;f0&gt;rata&lt;/f0&gt;; valore attuale; tipo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45456,8 +45456,8 @@
       <tuv lang="EN">
         <seg>Returns the future value of an investment based on periodic, constant payments and a constant interest rate.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Rate&lt;/f1&gt; is the periodic interest rate.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;NPER&lt;/f3&gt; is the total number of periods.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;PMT&lt;/f5&gt; is the annuity paid regularly per period.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;PV&lt;/f7&gt; (optional) is the present cash value of an investment.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Type&lt;/f9&gt; (optional) defines whether the payment is due at the beginning (1) or the end (0) of a period.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T142842Z" creationid="Marco Marega" creationdate="20160703T141626Z">
-        <seg>Restituisce il montante di un investimento con pagamenti periodici e tasso di interesse fisso.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Tasso interesse&lt;/f1&gt; è il tasso di interesse periodico.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Numero rate&lt;/f3&gt; è il numero totale di periodi.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Rata&lt;/f5&gt; è l'importo dell'annualità da pagare in ciascun periodo.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Valore attuale&lt;/f7&gt; (facoltativo) è il valore attuale dell'investimento.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Tipo&lt;/f9&gt; (facoltativo) indica se il pagamento degli interessi per ciascun periodo è anticipato (1) o posticipato (0).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190912T152828Z" creationid="Marco Marega" creationdate="20160703T141626Z">
+        <seg>aaaaRestituisce il montante di un investimento con pagamenti periodici e tasso di interesse fisso.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Tasso interesse&lt;/f1&gt; è il tasso di interesse periodico.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Numero rate&lt;/f3&gt; è il numero totale di periodi.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Rata&lt;/f5&gt; è l'importo dell'annualità da pagare in ciascun periodo.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Valore attuale&lt;/f7&gt; (facoltativo) è il valore attuale dell'investimento.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Tipo&lt;/f9&gt; (facoltativo) indica se il pagamento degli interessi per ciascun periodo è anticipato (1) o posticipato (0).</seg>
       </tuv>
     </tu>
     <tu>
