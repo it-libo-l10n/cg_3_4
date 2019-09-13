@@ -6016,8 +6016,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;FVSCHEDULE&lt;/f0&gt;(principal; schedule)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190913T124018Z" creationid="Marco Marega" creationdate="20160703T141926Z">
-        <seg>aaaa&lt;f0&gt;VAL.FUT.CAPITALE&lt;/f0&gt;(capitale; interessi)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190913T135542Z" creationid="Marco Marega" creationdate="20160703T141926Z">
+        <seg>&lt;f0&gt;VAL.FUT.CAPITALE&lt;/f0&gt;(capitale; interessi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6480,8 +6480,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;INTRATE&lt;/f0&gt;(settlement; maturity; investment;&lt;f1&gt; &lt;/f1&gt;redemption; basis)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T145138Z" creationid="Marco Marega" creationdate="20160703T145138Z">
-        <seg>&lt;f0&gt;TASSO.INT&lt;/f0&gt;(liquidazione; scadenza; investimento;&lt;f1&gt; &lt;/f1&gt;rimborso; base)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190913T141112Z" creationid="Marco Marega" creationdate="20160703T145138Z">
+        <seg>aaaa&lt;f0&gt;TASSO.INT&lt;/f0&gt;(liquidazione; scadenza; investimento;&lt;f1&gt; &lt;/f1&gt;rimborso; base)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16232,8 +16232,8 @@
       <tuv lang="EN">
         <seg>Calculates the accumulated value of the starting capital for a series of periodically varying interest rates.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Principal&lt;/f1&gt;&lt;f2&gt; is&lt;/f2&gt; the starting capital.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Schedule&lt;/f4&gt;&lt;f5&gt; is&lt;/f5&gt; a series of interest rates.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160703T142818Z" creationid="Marco Marega" creationdate="20160703T142818Z">
-        <seg>Calcola il montate di un capitale iniziale su cui viene calcolata una serie di interessi periodici in base ad un tasso variabile.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Capitale&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; il capitale iniziale.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Interessi&lt;/f4&gt;&lt;f5&gt; è&lt;/f5&gt; una serie di tassi di interesse.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190913T140953Z" creationid="Marco Marega" creationdate="20160703T142818Z">
+        <seg>Calcola il valore futuro di un capitale iniziale soggetto a una serie di tassi d'interesse periodici variabili.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Capitale&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; il capitale iniziale.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Interessi&lt;/f4&gt;&lt;f5&gt; è&lt;/f5&gt; una serie di tassi di interesse.</seg>
       </tuv>
     </tu>
     <tu>
