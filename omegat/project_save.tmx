@@ -6496,8 +6496,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;IRR&lt;/f0&gt;(values; guess)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190916T151635Z" creationid="Marco Marega" creationdate="20160704T122536Z">
-        <seg>aaaa&lt;f0&gt;TIR.COST&lt;/f0&gt;(valori; ipotesi)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190916T154315Z" creationid="Marco Marega" creationdate="20160704T122536Z">
+        <seg>&lt;f0&gt;TIR.COST&lt;/f0&gt;(valori; ipotesi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16448,8 +16448,8 @@
       <tuv lang="EN">
         <seg>Calculates the internal rate of return for an investment.&lt;f0&gt; &lt;/f0&gt;The values represent cash flow values at regular intervals; at least one value must be negative (payments), and at least one value must be positive (income).&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Values&lt;/f2&gt; is an array containing the values.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Guess&lt;/f4&gt; (optional) is the estimated value.&lt;f5&gt; &lt;/f5&gt;If you can provide only a few values, you should provide an initial guess to enable the iteration.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160704T123151Z" creationid="Marco Marega" creationdate="20160704T123151Z">
-        <seg>Calcola il tasso di rendimento interno di un investimento.&lt;f0&gt; &lt;/f0&gt;I valori rappresentano gli importi dei movimenti di denaro ad intervalli regolari; almeno un valore deve essere negativo (pagamento), ed almeno un valore deve essere positivo (incasso).&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Valori&lt;/f2&gt; è una matrice che contiene i valori.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Ipotesi&lt;/f4&gt; (facoltativo) è il valore stimato.&lt;f5&gt; &lt;/f5&gt;Se potete fornire solo pochi valori, allora dovreste inserire un valore iniziale stimato al fine di abilitare l'interazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190916T154317Z" creationid="Marco Marega" creationdate="20160704T123151Z">
+        <seg>aaaaCalcola il tasso di rendimento interno di un investimento.&lt;f0&gt; &lt;/f0&gt;I valori rappresentano gli importi dei movimenti di denaro ad intervalli regolari; almeno un valore deve essere negativo (pagamento), ed almeno un valore deve essere positivo (incasso).&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Valori&lt;/f2&gt; è una matrice che contiene i valori.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Ipotesi&lt;/f4&gt; (facoltativo) è il valore stimato.&lt;f5&gt; &lt;/f5&gt;Se potete fornire solo pochi valori, allora dovreste inserire un valore iniziale stimato al fine di abilitare l'interazione.</seg>
       </tuv>
     </tu>
     <tu>
