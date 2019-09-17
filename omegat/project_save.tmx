@@ -6592,8 +6592,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;ISPMT&lt;/f0&gt;(rate; period; total_periods; invest)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190917T094427Z" creationid="Marco Marega" creationdate="20160708T164718Z">
-        <seg>&lt;f0&gt;INTERESSE.RATA&lt;/f0&gt;(tasso interesse; periodi; periodi totali; investimento)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190917T102553Z" creationid="Marco Marega" creationdate="20160708T164718Z">
+        <seg>&lt;f0&gt;INTERESSE.RATA&lt;/f0&gt;(tasso interesse; periodi; periodi_totali; investimento)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16456,8 +16456,8 @@
       <tuv lang="EN">
         <seg>Calculates the level of interest for unchanged amortization installments.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Rate&lt;/f1&gt; sets the periodic interest rate.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Period&lt;/f3&gt; is the number of installments for calculation of interest.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Total_periods&lt;/f5&gt; is the total number of installment periods.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Invest&lt;/f7&gt; is the amount of the investment.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190917T094430Z" creationid="Marco Marega" creationdate="20160708T165206Z">
-        <seg>aaaaCalcola gli interessi per ammortamenti a rate costanti.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Tasso interesse&lt;/f1&gt; imposta il tasso di interesse periodico.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Periodi&lt;/f3&gt; è il numero della rata di cui calcolare gli interessi.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Periodi totali&lt;/f5&gt; è il numero totale delle rate.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Investimento&lt;/f7&gt; è l'ammontare dell'investimento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190917T103753Z" creationid="Marco Marega" creationdate="20160708T165206Z">
+        <seg>Calcola gli interessi per ammortamenti a rate costanti.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Tasso interesse&lt;/f1&gt; imposta il tasso di interesse periodico.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Periodi&lt;/f3&gt; aaaaè il numero della rata di cui calcolare gli interessi.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Periodi totali&lt;/f5&gt; è il numero totale delle rate.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Investimento&lt;/f7&gt; è l'ammontare dell'investimento.</seg>
       </tuv>
     </tu>
     <tu>
