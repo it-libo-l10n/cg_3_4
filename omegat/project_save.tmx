@@ -16712,8 +16712,8 @@
       <tuv lang="EN">
         <seg>Calculates the yearly nominal rate of interest, given the effective rate and the number of compounding periods per year.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Effective_rate&lt;/f1&gt; is the effective annual rate of interest.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Npery&lt;/f3&gt; is the number of interest payments per year.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190918T150615Z" creationid="Marco Marega" creationdate="20160711T121159Z">
-        <seg>aaaaCalcola il tasso di interesse nominale annuo, dato il tasso di interesse effettivo ed il numero di periodo di calcolo in un anno.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Interesse effettivo&lt;/f1&gt; è il tasso di interesse effettivo&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Periodi&lt;/f3&gt; è il numero di pagamenti periodici di interessi in un anno.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190918T155325Z" creationid="Marco Marega" creationdate="20160711T121159Z">
+        <seg>Calcola il tasso di interesse nominale annuo, dato il tasso di interesse effettivo e il numero di periodi di calcolo in un anno.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Interesse_effettivo&lt;/f1&gt; è il tasso di interesse effettivo.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Periodi&lt;/f3&gt; è il numero di pagamenti periodici degli interessi in un anno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39168,8 +39168,8 @@
       <tuv lang="EN">
         <seg>NPER(rate; PMT; PV; FV; type)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160711T121332Z" creationid="Marco Marega" creationdate="20160711T121332Z">
-        <seg>NUM.RATE(tasso interesse; rata; valore attuale; valore futuro; tipo)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190918T155327Z" creationid="Marco Marega" creationdate="20160711T121332Z">
+        <seg>aaaaaaaaaaaaaaaaaaNUM.RATE(tasso interesse; rata; valore attuale; valore futuro; tipo)</seg>
       </tuv>
     </tu>
     <tu>
