@@ -16704,16 +16704,16 @@
       <tuv lang="EN">
         <seg>Calculates the yearly nominal interest rate, given the effective rate and the number of compounding periods per year.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Effective_rate&lt;/f1&gt; is the effective interest rate&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Npery&lt;/f3&gt; is the number of periodic interest payments per year.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160711T121103Z" creationid="Marco Marega" creationdate="20160711T121103Z">
-        <seg>Calcula il tasso di interesse nominale annuo, dato il tasso di interesse effettivo ed il numero di periodo di calcolo in un anno.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Interesse effettivo&lt;/f1&gt; è il tasso di interesse effettivo&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Periodi&lt;/f3&gt; è il numero di pagamenti periodici di interessi in un anno.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190918T150513Z" creationid="Marco Marega" creationdate="20160711T121103Z">
+        <seg>Calcola il tasso di interesse nominale annuo, dato il tasso di interesse effettivo e il numero di periodi di calcolo in un anno.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Interesse_effettivo&lt;/f1&gt; è il tasso di interesse effettivo.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Periodi&lt;/f3&gt; è il numero di pagamenti periodici degli interessi in un anno.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Calculates the yearly nominal rate of interest, given the effective rate and the number of compounding periods per year.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Effective_rate&lt;/f1&gt; is the effective annual rate of interest.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Npery&lt;/f3&gt; is the number of interest payments per year.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160711T121159Z" creationid="Marco Marega" creationdate="20160711T121159Z">
-        <seg>Calcula il tasso di interesse nominale annuo, dato il tasso di interesse effettivo ed il numero di periodo di calcolo in un anno.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Interesse effettivo&lt;/f1&gt; è il tasso di interesse effettivo&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Periodi&lt;/f3&gt; è il numero di pagamenti periodici di interessi in un anno.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190918T150615Z" creationid="Marco Marega" creationdate="20160711T121159Z">
+        <seg>aaaaCalcola il tasso di interesse nominale annuo, dato il tasso di interesse effettivo ed il numero di periodo di calcolo in un anno.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Interesse effettivo&lt;/f1&gt; è il tasso di interesse effettivo&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Periodi&lt;/f3&gt; è il numero di pagamenti periodici di interessi in un anno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39112,16 +39112,16 @@
       <tuv lang="EN">
         <seg>NOMINAL(effective_rate; Npery)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190918T142945Z" creationid="Marco Marega" creationdate="20160711T120812Z">
-        <seg>aaaaNOMINALE(interesse effettivo; periodi)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190918T144839Z" creationid="Marco Marega" creationdate="20160711T120812Z">
+        <seg>NOMINALE(interesse_effettivo; periodi)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>NOMINAL_ADD(effective_rate; Npery)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160711T121133Z" creationid="Marco Marega" creationdate="20160711T121133Z">
-        <seg>NOMINALE_ADD(interesse effettivo; periodi)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190918T150559Z" creationid="Marco Marega" creationdate="20160711T121133Z">
+        <seg>NOMINALE_ADD(interesse_effettivo; periodi)</seg>
       </tuv>
     </tu>
     <tu>
