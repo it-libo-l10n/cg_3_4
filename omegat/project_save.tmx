@@ -7376,8 +7376,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;ODDFPRICE&lt;/f0&gt;(settlement; maturity; issue; first_coupon; rate; yield; redemption; frequency; basis)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190919T124442Z" creationid="Marco Marega" creationdate="20160711T123312Z">
-        <seg>aaaa&lt;f0&gt;PREZZO.PRIMO.IRR&lt;/f0&gt;(liquidazione; scadenza; emissione; primo interesse; tasso interesse; rendimento; rimborso; frequenza; base)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190919T142327Z" creationid="Marco Marega" creationdate="20160711T123312Z">
+        <seg>&lt;f0&gt;PREZZO.PRIMO.IRR&lt;/f0&gt;(liquidazione; scadenza; emissione; primo interesse; tasso interesse; rendimento; rimborso; frequenza; base)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16592,8 +16592,8 @@
       <tuv lang="EN">
         <seg>Calculates the price per 100 currency units par value of a security, if the first interest date falls irregularly.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Settlement&lt;/f1&gt; is the date of purchase of the security.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Maturity&lt;/f3&gt; is the date on which the security matures (expires).&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Issue&lt;/f5&gt; is the date of issue of the security.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;First_coupon&lt;/f7&gt; is the first interest date of the security.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Rate&lt;/f9&gt; is the annual rate of interest.&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;Yield&lt;/f11&gt; is the annual yield of the security.&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;Redemption&lt;/f13&gt; is the redemption value per 100 currency units of par value.&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;Frequency&lt;/f15&gt; is the number of interest payments per year (1, 2 or 4).&lt;f16&gt; &lt;/f16&gt;&lt;f17&gt;Basis&lt;/f17&gt; indicates how the year is to be calculated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160711T124035Z" creationid="Marco Marega" creationdate="20160711T124035Z">
-        <seg>Calcola il prezzo di un titolo del valore nominale di 100 unità monetarie, la cui prima data di interessi cade in modo irregolare.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Liquidazione&lt;/f1&gt; è la data di acquisto del titolo.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Scadenza&lt;/f3&gt; è la data di scadenza del titolo.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Emissione&lt;/f5&gt; è la data di emissione del titolo.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Primo interesse&lt;/f7&gt; è la prima data di pagamento di interessi del titolo.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Tasso interesse&lt;/f9&gt; è il tasso di interesse annuale.&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;Rendimento&lt;/f11&gt; è il rendimento annuale del titolo.&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;Rimborso&lt;/f13&gt; è il valore di rimborso per un valore nominale di 100 unità monetarie.&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;Frequenza&lt;/f15&gt; è il numero di pagamenti di interessi in un anno (1, 2 o 4).&lt;f16&gt; &lt;/f16&gt;&lt;f17&gt;Base&lt;/f17&gt; indica il modo in cui viene calcolato l'anno.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190919T142331Z" creationid="Marco Marega" creationdate="20160711T124035Z">
+        <seg>aaaaCalcola il prezzo di un titolo del valore nominale di 100 unità monetarie, la cui prima data di interessi cade in modo irregolare.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Liquidazione&lt;/f1&gt; è la data di acquisto del titolo.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Scadenza&lt;/f3&gt; è la data di scadenza del titolo.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Emissione&lt;/f5&gt; è la data di emissione del titolo.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Primo interesse&lt;/f7&gt; è la prima data di pagamento di interessi del titolo.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Tasso interesse&lt;/f9&gt; è il tasso di interesse annuale.&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;Rendimento&lt;/f11&gt; è il rendimento annuale del titolo.&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;Rimborso&lt;/f13&gt; è il valore di rimborso per un valore nominale di 100 unità monetarie.&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;Frequenza&lt;/f15&gt; è il numero di pagamenti di interessi in un anno (1, 2 o 4).&lt;f16&gt; &lt;/f16&gt;&lt;f17&gt;Base&lt;/f17&gt; indica il modo in cui viene calcolato l'anno.</seg>
       </tuv>
     </tu>
     <tu>
