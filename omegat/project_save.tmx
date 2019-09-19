@@ -7144,8 +7144,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;NPV&lt;/f0&gt;(Rate; value_1; value_2; ... value_30)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190919T094915Z" creationid="Marco Marega" creationdate="20160711T122403Z">
-        <seg>aaaa&lt;f0&gt;VAN&lt;/f0&gt;(Tasso; valore_1; valore_2; ... valore_30)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190919T101958Z" creationid="Marco Marega" creationdate="20160711T122403Z">
+        <seg>&lt;f0&gt;VAN&lt;/f0&gt;(tasso; valore_1; valore_2; ... valore_30)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45904,8 +45904,8 @@
       <tuv lang="EN">
         <seg>Returns the net present value of an investment based on a series of periodic cash flows and a discount rate.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Rate&lt;/f1&gt;&lt;f2&gt; is&lt;/f2&gt; the discount rate for a period.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Value_1; value_2;... value&lt;/f4&gt;&lt;f5&gt;_30&lt;/f5&gt; are values representing deposits or withdrawals.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160711T122656Z" creationid="Marco Marega" creationdate="20160711T122656Z">
-        <seg>Restituisce il valore attuale netto di un investimento basato su di una serie di pagamenti periodici ed un tasso di sconto.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Tasso&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; il tasso di sconto per un periodo.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Valore_1; valore_2;... valore&lt;/f4&gt;&lt;f5&gt;_30&lt;/f5&gt; sono dei valori che rappresentano dei depositi o dei prelievi.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190919T102000Z" creationid="Marco Marega" creationdate="20160711T122656Z">
+        <seg>aaaaRestituisce il valore attuale netto di un investimento basato su di una serie di pagamenti periodici ed un tasso di sconto.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Tasso&lt;/f1&gt;&lt;f2&gt; è&lt;/f2&gt; il tasso di sconto per un periodo.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Valore_1; valore_2;... valore&lt;/f4&gt;&lt;f5&gt;_30&lt;/f5&gt; sono dei valori che rappresentano dei depositi o dei prelievi.</seg>
       </tuv>
     </tu>
     <tu>
