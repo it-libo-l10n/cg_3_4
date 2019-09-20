@@ -5560,8 +5560,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;DDB&lt;/f0&gt;(cost; salvage; life; period; factor)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190910T133222Z" creationid="Marco Marega" creationdate="20160703T091425Z">
-        <seg>&lt;f0&gt;AMMORT&lt;/f0&gt;(costo; valore residuo; vita utile; periodi; fattore)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190920T151534Z" creationid="Marco Marega" creationdate="20160703T091425Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaa&lt;f0&gt;AMMORT&lt;/f0&gt;(costo; valore residuo; vita utile; periodi; fattore)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7384,8 +7384,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;ODDFYIELD&lt;/f0&gt;(settlement; maturity; issue; first_coupon; rate; price; redemption; frequency; basis)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190920T143059Z" creationid="Marco Marega" creationdate="20160711T195607Z">
-        <seg>aaaa&lt;f0&gt;REND.PRIMO.IRR&lt;/f0&gt;(liquidazione; scadenza; emissione; primo interesse; tasso interesse; prezzo; rimborso; frequenza; base)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190920T151530Z" creationid="Marco Marega" creationdate="20160711T195607Z">
+        <seg>&lt;f0&gt;REND.PRIMO.IRR&lt;/f0&gt;(liquidazione; scadenza; emissione; primo interesse; tasso interesse; prezzo; rimborso; frequenza; base)</seg>
       </tuv>
     </tu>
     <tu>
