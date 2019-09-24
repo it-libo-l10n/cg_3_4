@@ -41880,8 +41880,8 @@
       <tuv lang="EN">
         <seg>PPMT(rate; period; NPER; PV; FV; type)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160711T203510Z" creationid="Marco Marega" creationdate="20160711T203510Z">
-        <seg>P.RATA(tasso interesse; periodi; numero rate; valore attuale; valore futuro; tipo)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190924T155856Z" creationid="Marco Marega" creationdate="20160711T203510Z">
+        <seg>aaaaaaaaaaaaaaaaaaP.RATA(tasso interesse; periodi; numero rate; valore attuale; valore futuro; tipo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46104,8 +46104,8 @@
       <tuv lang="EN">
         <seg>Returns the periodic payment for an annuity with constant interest rates.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Rate&lt;/f1&gt; is the periodic interest rate.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;NPER&lt;/f3&gt; is the number of periods in which annuity is paid.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;PV&lt;/f5&gt; is the present value (cash value) in a sequence of payments.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;FV&lt;/f7&gt; (optional) is&lt;f8&gt; &lt;/f8&gt;the desired value (future value) to be reached at the end of the periodic payments.&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Type&lt;/f10&gt; (optional) defines whether the payment is due at the beginning (1) or the end (0) of a period.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190924T154021Z" creationid="Marco Marega" creationdate="20160711T203251Z">
-        <seg>aaaaRestituisce l'importo del pagamento periodico per una rendita con interessi a tasso fisso.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Tasso interesse&lt;/f1&gt; è il tasso di interesse periodico.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Numero rate&lt;/f3&gt; è il numero di rate in cui la rendita viene pagata.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Valore attuale&lt;/f5&gt; è il valore attuale (espresso in contanti) di una serie di pagamenti.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Valore futuro&lt;/f7&gt;aaaaaaaa (facoltativo) è&lt;f8&gt; &lt;/f8&gt; il valore desiderato (valore futuro) che verrà raggiunto al termine dei pagamenti periodici.&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Tipo&lt;/f10&gt; (facoltativo) indica se il pagamento degli interessi per ciascun periodo è anticipato (1) o posticipato (0).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190924T155852Z" creationid="Marco Marega" creationdate="20160711T203251Z">
+        <seg>Restituisce l'importo del pagamento periodico per una rendita con interessi a tasso fisso.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Tasso interesse&lt;/f1&gt; è il tasso di interesse periodico.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Numero rate&lt;/f3&gt; è il numero di rate in cui la rendita viene pagata.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Valore attuale&lt;/f5&gt; è il valore attuale (espresso in contanti) di una serie di pagamenti.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Valore futuro&lt;/f7&gt; (facoltativo) è&lt;f8&gt; &lt;/f8&gt;il valore desiderato (valore futuro) che verrà raggiunto al termine dei pagamenti periodici.&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Tipo&lt;/f10&gt; (facoltativo) indica se il pagamento degli interessi per ciascun periodo è anticipato (1) o posticipato (0).</seg>
       </tuv>
     </tu>
     <tu>
