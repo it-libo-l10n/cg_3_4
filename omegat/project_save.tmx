@@ -7496,8 +7496,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;PRICEDISC&lt;/f0&gt;(settlement; maturity; discount;&lt;f1&gt; r&lt;/f1&gt;edemption; basis)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190925T130959Z" creationid="Marco Marega" creationdate="20160716T090228Z">
-        <seg>aaaa&lt;f0&gt;PREZZO.SCONT&lt;/f0&gt;(liquidazione; scadenza; sconto;&lt;f1&gt; r&lt;/f1&gt;imborso; base)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190925T145934Z" creationid="Marco Marega" creationdate="20160716T090228Z">
+        <seg>&lt;f0&gt;PREZZO.SCONT&lt;/f0&gt;(liquidazione; scadenza; sconto;&lt;f1&gt; r&lt;/f1&gt;imborso; base)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16576,8 +16576,8 @@
       <tuv lang="EN">
         <seg>Calculates the price per 100 currency units of par value of a non-interest-bearing security.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Settlement&lt;/f1&gt; is the date of purchase of the security.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Maturity&lt;/f3&gt; is the date on which the security matures (expires).&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Discount&lt;/f5&gt; is the discount of a security as a percentage.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Redemption&lt;/f7&gt; is the redemption value per 100 currency units of par value.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Basis&lt;/f9&gt; indicates how the year is to be calculated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160716T090616Z" creationid="Marco Marega" creationdate="20160716T090429Z">
-        <seg>Calcola il prezzo di un titolo non produttivo di interessi del valore nominale di 100 unità monetarie.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Liquidazione&lt;/f1&gt; è la data di acquisto del titolo.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Scadenza&lt;/f3&gt; è la data di scadenza del titolo.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Sconto&lt;/f5&gt; è la percentuale di sconto applicata al titolo.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Rimborso&lt;/f7&gt; è il valore di rimborso per un valore nominale di 100 unità monetarie.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Base&lt;/f9&gt; indica il modo in cui viene calcolato l'anno.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190925T145936Z" creationid="Marco Marega" creationdate="20160716T090429Z">
+        <seg>aaaaCalcola il prezzo di un titolo non produttivo di interessi del valore nominale di 100 unità monetarie.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Liquidazione&lt;/f1&gt; è la data di acquisto del titolo.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Scadenza&lt;/f3&gt; è la data di scadenza del titolo.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Sconto&lt;/f5&gt; è la percentuale di sconto applicata al titolo.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Rimborso&lt;/f7&gt; è il valore di rimborso per un valore nominale di 100 unità monetarie.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Base&lt;/f9&gt; indica il modo in cui viene calcolato l'anno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46136,8 +46136,8 @@
       <tuv lang="EN">
         <seg>Returns the present value of an investment resulting from a series of regular payments.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Rate&lt;/f1&gt; defines the interest rate per period.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;NPER&lt;/f3&gt; is the total number of payment periods.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;PMT&lt;/f5&gt; is the regular payment made per period.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;FV&lt;/f7&gt; (optional) defines the future value remaining after the final installment has been made.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Type&lt;/f9&gt; (optional) defines whether the payment is due at the beginning (1) or the end (0) of a period.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160716T091745Z" creationid="Marco Marega" creationdate="20160716T091745Z">
-        <seg>Restituisce il valore attuuale di un investimento derivante da una serie di pagamenti costanti.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Tasso interesse&lt;/f1&gt; definisce il tasso di interesse per periodo.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Numero rate&lt;/f3&gt; è il numero complessivo di periodi di pagamento.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Rata&lt;/f5&gt; è l'importo del pagamento costante effettuato in ogni periodo.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Valore futuro&lt;/f7&gt; (facoltativo) indica il valore futuro che rimane dopo che l'ultima rata è stata pagata.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Tipo&lt;/f9&gt; (facoltativo) indica se il pagamento degli interessi per ciascun periodo è anticipato (1) o posticipato (0).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190925T144544Z" creationid="Marco Marega" creationdate="20160716T091745Z">
+        <seg>Restituisce il valore attuale di un investimento derivante da una serie di pagamenti costanti.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Tasso interesse&lt;/f1&gt; definisce il tasso di interesse per periodo.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Numero rate&lt;/f3&gt; è il numero complessivo di periodi di pagamento.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Rata&lt;/f5&gt; è l'importo del pagamento costante effettuato in ogni periodo.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Valore futuro&lt;/f7&gt; (facoltativo) indica il valore futuro che rimane dopo che l'ultima rata è stata pagata.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Tipo&lt;/f9&gt; (facoltativo) indica se il pagamento degli interessi per ciascun periodo è anticipato (1) o posticipato (0).</seg>
       </tuv>
     </tu>
     <tu>
