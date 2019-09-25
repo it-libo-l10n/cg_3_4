@@ -7504,8 +7504,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;PRICEMAT&lt;/f0&gt;(settlement; maturity; issue; rate; yield; basis)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160716T090701Z" creationid="Marco Marega" creationdate="20160716T090433Z">
-        <seg>&lt;f0&gt;PREZZO.SCAD&lt;/f0&gt;(liquidazione; scadenza; emissione; tasso interesse; rendimento; base)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190925T160244Z" creationid="Marco Marega" creationdate="20160716T090433Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaa&lt;f0&gt;PREZZO.SCAD&lt;/f0&gt;(liquidazione; scadenza; emissione; tasso interesse; rendimento; base)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16576,8 +16576,8 @@
       <tuv lang="EN">
         <seg>Calculates the price per 100 currency units of par value of a non-interest-bearing security.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Settlement&lt;/f1&gt; is the date of purchase of the security.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Maturity&lt;/f3&gt; is the date on which the security matures (expires).&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Discount&lt;/f5&gt; is the discount of a security as a percentage.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Redemption&lt;/f7&gt; is the redemption value per 100 currency units of par value.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Basis&lt;/f9&gt; indicates how the year is to be calculated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190925T145936Z" creationid="Marco Marega" creationdate="20160716T090429Z">
-        <seg>aaaaCalcola il prezzo di un titolo non produttivo di interessi del valore nominale di 100 unità monetarie.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Liquidazione&lt;/f1&gt; è la data di acquisto del titolo.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Scadenza&lt;/f3&gt; è la data di scadenza del titolo.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Sconto&lt;/f5&gt; è la percentuale di sconto applicata al titolo.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Rimborso&lt;/f7&gt; è il valore di rimborso per un valore nominale di 100 unità monetarie.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Base&lt;/f9&gt; indica il modo in cui viene calcolato l'anno.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190925T160241Z" creationid="Marco Marega" creationdate="20160716T090429Z">
+        <seg>Calcola il prezzo di un titolo non produttivo di interessi del valore nominale di 100 unità monetarie.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Liquidazione&lt;/f1&gt; è la data di acquisto del titolo.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Scadenza&lt;/f3&gt; è la data di scadenza del titolo.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Sconto&lt;/f5&gt; è la percentuale di sconto applicata al titolo.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Rimborso&lt;/f7&gt; è il valore di rimborso per un valore nominale di 100 unità monetarie.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Base&lt;/f9&gt; indica il modo in cui viene calcolato l'anno.</seg>
       </tuv>
     </tu>
     <tu>
