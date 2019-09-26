@@ -7504,8 +7504,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;PRICEMAT&lt;/f0&gt;(settlement; maturity; issue; rate; yield; basis)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190925T160244Z" creationid="Marco Marega" creationdate="20160716T090433Z">
-        <seg>aaaaaaaaaaaaaaaaaaaaa&lt;f0&gt;PREZZO.SCAD&lt;/f0&gt;(liquidazione; scadenza; emissione; tasso interesse; rendimento; base)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190926T070024Z" creationid="Marco Marega" creationdate="20160716T090433Z">
+        <seg>&lt;f0&gt;PREZZO.SCAD&lt;/f0&gt;(liquidazione; scadenza; emissione; tasso interesse; rendimento; base)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16584,8 +16584,8 @@
       <tuv lang="EN">
         <seg>Calculates the price per 100 currency units of par value of a security, that pays interest on the maturity date.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Settlement&lt;/f1&gt; is the date of purchase of the security.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Maturity&lt;/f3&gt; is the date on which the security matures (expires).&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Issue&lt;/f5&gt; is the date of issue of the security.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Rate&lt;/f7&gt; is the interest rate of the security on the issue date.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Yield&lt;/f9&gt; is the annual yield of the security.&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;Basis&lt;/f11&gt; indicates how the year is to be calculated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160716T091020Z" creationid="Marco Marega" creationdate="20160716T091020Z">
-        <seg>Calcola il prezzo di un titolo del valore nominale d 100 unità monetarie, che paga interessi alla data di scadenza.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Liquidazione&lt;/f1&gt; è la data di acquisto del titolo.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Scadenza&lt;/f3&gt; è la data di scadenza del titolo.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Emissione&lt;/f5&gt; è la data di emissione del titolo.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Tasso interesse&lt;/f7&gt; è il tasso di interesse del titolo alla data di emissione.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Rendimento&lt;/f9&gt; è il rendimento annuale del titolo.&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;Base&lt;/f11&gt; indica il modo in cui viene calcolato l'anno.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190926T071924Z" creationid="Marco Marega" creationdate="20160716T091020Z">
+        <seg>Calcola il prezzo di un titolo del valore nominale di 100 unità monetarie, che paga gli interessi alla data di scadenza.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Liquidazione&lt;/f1&gt; è la data di acquisto del titolo.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Scadenza&lt;/f3&gt; è la data di scadenza del titolo.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Emissione&lt;/f5&gt; è la data di emissione del titolo.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Tasso interesse&lt;/f7&gt; è il tasso di interesse del titolo alla data di emissione.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Rendimento&lt;/f9&gt; è il rendimento annuale del titolo.&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;Base&lt;/f11&gt; indica il modo in cui viene calcolato l'anno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46136,8 +46136,8 @@
       <tuv lang="EN">
         <seg>Returns the present value of an investment resulting from a series of regular payments.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Rate&lt;/f1&gt; defines the interest rate per period.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;NPER&lt;/f3&gt; is the total number of payment periods.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;PMT&lt;/f5&gt; is the regular payment made per period.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;FV&lt;/f7&gt; (optional) defines the future value remaining after the final installment has been made.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Type&lt;/f9&gt; (optional) defines whether the payment is due at the beginning (1) or the end (0) of a period.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190925T144544Z" creationid="Marco Marega" creationdate="20160716T091745Z">
-        <seg>Restituisce il valore attuale di un investimento derivante da una serie di pagamenti costanti.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Tasso interesse&lt;/f1&gt; definisce il tasso di interesse per periodo.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Numero rate&lt;/f3&gt; è il numero complessivo di periodi di pagamento.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Rata&lt;/f5&gt; è l'importo del pagamento costante effettuato in ogni periodo.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Valore futuro&lt;/f7&gt; (facoltativo) indica il valore futuro che rimane dopo che l'ultima rata è stata pagata.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Tipo&lt;/f9&gt; (facoltativo) indica se il pagamento degli interessi per ciascun periodo è anticipato (1) o posticipato (0).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190926T072059Z" creationid="Marco Marega" creationdate="20160716T091745Z">
+        <seg>aaaaaaaaaaaaaaaaaaaaRestituisce il valore attuale di un investimento derivante da una serie di pagamenti costanti.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Tasso interesse&lt;/f1&gt; definisce il tasso di interesse per periodo.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Numero rate&lt;/f3&gt; è il numero complessivo di periodi di pagamento.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Rata&lt;/f5&gt; è l'importo del pagamento costante effettuato in ogni periodo.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Valore futuro&lt;/f7&gt; (facoltativo) indica il valore futuro che rimane dopo che l'ultima rata è stata pagata.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Tipo&lt;/f9&gt; (facoltativo) indica se il pagamento degli interessi per ciascun periodo è anticipato (1) o posticipato (0).</seg>
       </tuv>
     </tu>
     <tu>
