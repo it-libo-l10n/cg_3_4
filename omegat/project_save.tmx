@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7792,8 +7792,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;SLN&lt;/f0&gt;(cost; salvage; life)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160716T123020Z" creationid="Marco Marega" creationdate="20160716T123020Z">
-        <seg>&lt;f0&gt;AMMORT.COST&lt;/f0&gt;(costo; valore residuo; vita utile)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190930T083802Z" creationid="Marco Marega" creationdate="20160716T123020Z">
+        <seg>aaaa&lt;f0&gt;AMMORT.COST&lt;/f0&gt;(costo; valore residuo; vita utile)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16432,8 +16432,8 @@
       <tuv lang="EN">
         <seg>Calculates the interest rate resulting from the profit (return) of an investment.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;P&lt;/f1&gt; is the number of periods needed for calculating the interest rate.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;PV&lt;/f3&gt; is the present value (must be &gt;0).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190928T181554Z" creationid="Marco Marega" creationdate="20160716T122733Z">
-        <seg>aaaaaaaaaaaaaaaaCalcola il tasso di interesse derivante dal guadagno (utile) ottenuto da u investimento.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;P&lt;/f1&gt; è il numero di periodi necessario per calcolare il tasso di interesse.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Valore attuale&lt;/f3&gt; è il valore attuale  (deve essere &gt;0).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190930T083516Z" creationid="Marco Marega" creationdate="20160716T122733Z">
+        <seg>Calcola il tasso di interesse risultante dal guadagno (utile) ottenuto da un investimento.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;P&lt;/f1&gt; è il numero di periodi necessario per calcolare il tasso di interesse.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Valore attuale&lt;/f3&gt; è il valore attuale (deve essere &gt;0).</seg>
       </tuv>
     </tu>
     <tu>
