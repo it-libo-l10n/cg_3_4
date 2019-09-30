@@ -46368,8 +46368,8 @@
       <tuv lang="EN">
         <seg>Returns the straight-line depreciation of an asset for one period.&lt;f0&gt; &lt;/f0&gt;The amount of the depreciation is constant during the depreciation period.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Cost&lt;/f2&gt; is the initial cost of an asset.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Salvage&lt;/f4&gt; is the value of an asset at the end of the depreciation.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Life&lt;/f6&gt; is the depreciation period determining the number of periods in the depreciation of the asset.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190930T144404Z" creationid="Marco Marega" creationdate="20160716T123538Z">
-        <seg>Restituisce l'ammortamento a quote costanti di un bene per un periodo.&lt;f0&gt; &lt;/f0&gt;L'importo dell'ammortamento è costante durante il periodo di ammortamento.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;aaaaaaaaCosto&lt;/f2&gt; è il costo iniziale del bene.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Valore residuo&lt;/f4&gt; è il valore del bene alla fine dell'ammortamento.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Vita utile&lt;/f6&gt; è il periodo di ammortamento che determina il numero di rate di ammortamento del bene.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190930T151027Z" creationid="Marco Marega" creationdate="20160716T123538Z">
+        <seg>Restituisce l'ammortamento a quote costanti di un bene per un periodo.&lt;f0&gt; &lt;/f0&gt;L'importo dell'ammortamento è costante durante il periodo di ammortamento.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Costo&lt;/f2&gt; è il costo iniziale del bene.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Valore residuo&lt;/f4&gt; è il valore del bene alla fine dell'ammortamento.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Vita utile&lt;/f6&gt; è il periodo di ammortamento che determina il numero di rate di ammortamento del bene.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47200,8 +47200,8 @@
       <tuv lang="EN">
         <seg>SYD(cost; salvage; life; period)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160716T123809Z" creationid="Marco Marega" creationdate="20160716T123809Z">
-        <seg>AMMORT.ANNUO(costo; valore residuo; vita utile; periodi)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20190930T151030Z" creationid="Marco Marega" creationdate="20160716T123809Z">
+        <seg>aaaaaaaaaaaaaaaaaaAMMORT.ANNUO(costo; valore residuo; vita utile; periodi)</seg>
       </tuv>
     </tu>
     <tu>
