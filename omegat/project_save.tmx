@@ -45048,8 +45048,8 @@
       <tuv lang="EN">
         <seg>Returns the arithmetic-declining depreciation rate.&lt;f0&gt; &lt;/f0&gt;Use this function to calculate the depreciation amount for one period of the total depreciation span of an object.&lt;f1&gt; &lt;/f1&gt;Arithmetic declining depreciation reduces the depreciation amount from period to period by a fixed sum.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Cost&lt;/f3&gt; is the initial cost of an asset.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Salvage&lt;/f5&gt; is the value of an asset after depreciation.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Life&lt;/f7&gt; is the period fixing the time span over which an asset is depreciated.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Period&lt;/f9&gt; defines the period for which the depreciation is to be calculated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160716T124651Z" creationid="Marco Marega" creationdate="20160716T124651Z">
-        <seg>Restituisce l'ammortamento degressivo aritmetico.&lt;f0&gt; &lt;/f0&gt;Utilizzate questa funzione per calcolare l'importo di una rata dell'ammortamento tra quelle dell'intero arco di tempo dell'ammortamento di un oggetto.&lt;f1&gt; &lt;/f1&gt;L'ammortamento degressivo aritmetico riduce l'importo dell'ammortamento di una somma fissa di periodo in periodo.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Costo&lt;/f3&gt; è il costo iniziale del bene.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Valore residuo&lt;/f5&gt; è il valore del bene alla fine dell'ammortamento.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Vita utile&lt;/f7&gt; è il periodo che fissa l'arco di tempo in cui viene ammortizzato il bene.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Periodi&lt;/f9&gt; indica il periodo per il quale viene calcolato l'ammortamento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191002T073354Z" creationid="Marco Marega" creationdate="20160716T124651Z">
+        <seg>aaaaRestituisce l'ammortamento degressivo aritmetico.&lt;f0&gt; &lt;/f0&gt;Utilizzate questa funzione per calcolare l'importo di una rata dell'ammortamento tra quelle dell'intero arco di tempo dell'ammortamento di un oggetto.&lt;f1&gt; &lt;/f1&gt;L'ammortamento degressivo aritmetico riduce l'importo dell'ammortamento di una somma fissa di periodo in periodo.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Costo&lt;/f3&gt; è il costo iniziale del bene.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Valore residuo&lt;/f5&gt; è il valore del bene alla fine dell'ammortamento.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Vita utile&lt;/f7&gt; è il periodo che fissa l'arco di tempo in cui viene ammortizzato il bene.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Periodi&lt;/f9&gt; indica il periodo per il quale viene calcolato l'ammortamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47200,8 +47200,8 @@
       <tuv lang="EN">
         <seg>SYD(cost; salvage; life; period)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190930T151030Z" creationid="Marco Marega" creationdate="20160716T123809Z">
-        <seg>aaaaaaaaaaaaaaaaaaAMMORT.ANNUO(costo; valore residuo; vita utile; periodi)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191002T073350Z" creationid="Marco Marega" creationdate="20160716T123809Z">
+        <seg>AMMORT.ANNUO(costo; valore residuo; vita utile; periodi)</seg>
       </tuv>
     </tu>
     <tu>
