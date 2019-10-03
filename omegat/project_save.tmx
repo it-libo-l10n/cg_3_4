@@ -8800,8 +8800,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;VDB&lt;/f0&gt;(cost; salvage; life; start; end; factor; type)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160719T123110Z" creationid="Marco Marega" creationdate="20160719T123110Z">
-        <seg>&lt;f0&gt;AMMORT.VAR&lt;/f0&gt;(costo; valore residuo; vita utile; periodo iniziale; periodo finale; fattore; tipo)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191003T101622Z" creationid="Marco Marega" creationdate="20160719T123110Z">
+        <seg>aaaa&lt;f0&gt;AMMORT.VAR&lt;/f0&gt;(costo; valore residuo; vita utile; periodo iniziale; periodo finale; fattore; tipo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16736,8 +16736,8 @@
       <tuv lang="EN">
         <seg>Calculates the yield of a treasury bill.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Settlement&lt;/f1&gt; is the date of purchase of the security.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Maturity&lt;/f3&gt; is the date on which the security matures (expires).&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Price&lt;/f5&gt; is the price (purchase price) of the treasury bill per 100 currency units of par value.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191003T093130Z" creationid="Marco Marega" creationdate="20160719T122930Z">
-        <seg>aaaaCalcola il rendimento di un buono del tesoro.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Liquidazione&lt;/f1&gt; è la data di acquisto del titolo.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Scadenza&lt;/f3&gt; è la data di scadenza del titolo.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Prezzo&lt;/f5&gt; è il prezzo (di acquisto) per 100 unità monetarie di valore nominale del buono del tesoro.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191003T101616Z" creationid="Marco Marega" creationdate="20160719T122930Z">
+        <seg>Calcola il rendimento di un buono del tesoro.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Liquidazione&lt;/f1&gt; è la data di acquisto del titolo.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Scadenza&lt;/f3&gt; è la data di scadenza del titolo.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Prezzo&lt;/f5&gt; è il prezzo (di acquisto) per 100 unità monetarie di valore nominale del buono del tesoro.</seg>
       </tuv>
     </tu>
     <tu>
