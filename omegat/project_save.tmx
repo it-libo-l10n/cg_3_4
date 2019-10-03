@@ -8800,8 +8800,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;VDB&lt;/f0&gt;(cost; salvage; life; start; end; factor; type)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191003T101622Z" creationid="Marco Marega" creationdate="20160719T123110Z">
-        <seg>aaaa&lt;f0&gt;AMMORT.VAR&lt;/f0&gt;(costo; valore residuo; vita utile; periodo iniziale; periodo finale; fattore; tipo)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191003T102406Z" creationid="Marco Marega" creationdate="20160719T123110Z">
+        <seg>&lt;f0&gt;AMMORT.VAR&lt;/f0&gt;(costo; valore residuo; vita utile; periodo iniziale; periodo finale; fattore; tipo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45368,8 +45368,8 @@
       <tuv lang="EN">
         <seg>Returns the depreciation of an asset for a specified or partial period using a variable declining balance method.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Cost&lt;/f1&gt; is the initial value of an asset.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Salvage&lt;/f3&gt; is the value of an asset at the end of the depreciation.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Life&lt;/f5&gt; is the depreciation duration of the asset.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Start&lt;/f7&gt; is the start of the depreciation entered in the same date unit as the life.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;End&lt;/f9&gt; is the end of the depreciation.&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;Factor&lt;/f11&gt; (optional) is the depreciation factor.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160719T123722Z" creationid="Marco Marega" creationdate="20160719T123722Z">
-        <seg>Restituisce il deprezzamento di un bene in un periodi specificato o parziale utilizzando il metodo dell'ammortamento decrescente.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Costo&lt;/f1&gt; è il valore iniziale del bene.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Valore residuo&lt;/f3&gt; è il valore del bene al termine dell'ammortamento.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Vita utile&lt;/f5&gt; è la durata dell'ammortamento del bene.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Periodo iniziale&lt;/f7&gt; è il periodo di inizio dell'ammortamento indicato nella stessa unità di misura della vita utile.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Periodo finale&lt;/f9&gt; è l'ultimo periodo dell'ammortamento.&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;Fattore&lt;/f11&gt; (facoltativo) è il fattore di ammortamento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191003T102412Z" creationid="Marco Marega" creationdate="20160719T123722Z">
+        <seg>aaaaRestituisce il deprezzamento di un bene in un periodi specificato o parziale utilizzando il metodo dell'ammortamento decrescente.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Costo&lt;/f1&gt; è il valore iniziale del bene.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Valore residuo&lt;/f3&gt; è il valore del bene al termine dell'ammortamento.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Vita utile&lt;/f5&gt; è la durata dell'ammortamento del bene.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Periodo iniziale&lt;/f7&gt; è il periodo di inizio dell'ammortamento indicato nella stessa unità di misura della vita utile.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Periodo finale&lt;/f9&gt; è l'ultimo periodo dell'ammortamento.&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;Fattore&lt;/f11&gt; (facoltativo) è il fattore di ammortamento.</seg>
       </tuv>
     </tu>
     <tu>
