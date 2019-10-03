@@ -8928,8 +8928,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;XIRR&lt;/f0&gt;(values; dates; guess)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160720T202601Z" creationid="Marco Marega" creationdate="20160720T202601Z">
-        <seg>&lt;f0&gt;TIR.X&lt;/f0&gt;(valori; date; ipotesi)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191003T133422Z" creationid="Marco Marega" creationdate="20160720T202601Z">
+        <seg>aaaa&lt;f0&gt;TIR.X&lt;/f0&gt;(valori; date; ipotesi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24168,8 +24168,8 @@
       <tuv lang="EN">
         <seg>FA=2 is double rate depreciation.&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;Type&lt;/f13&gt; (optional) defines whether the payment is due at the beginning (1) or the end (0) of a period.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191003T123617Z" creationid="Marco Marega" creationdate="20160719T123757Z">
-        <seg>aaaaFattore=2 tasso di ammortamento doppio.&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;Tipo&lt;/f13&gt; (facoltativo) indica se il pagamento degli interessi per ciascun periodo è anticipato (1) o posticipato (0).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191003T133420Z" creationid="Marco Marega" creationdate="20160719T123757Z">
+        <seg>Fattore=2 è un tasso di ammortamento doppio.&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;Tipo&lt;/f13&gt; (facoltativo) indica se il pagamento degli interessi per ciascun periodo è anticipato (1) o posticipato (0).</seg>
       </tuv>
     </tu>
     <tu>
