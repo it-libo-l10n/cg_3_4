@@ -16328,8 +16328,8 @@
       <tuv lang="EN">
         <seg>Calculates the capital value (net present value) for a list of payments which take place on different dates.&lt;f0&gt; &lt;/f0&gt;The calculation is based on a 365 days per year basis, ignoring leap years.&lt;f1&gt; &lt;/f1&gt;If the payments take place at regular intervals, use the NPV function.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Rate&lt;/f3&gt; is the internal rate of return for the payments.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Values&lt;/f5&gt; and &lt;f6&gt;dates&lt;/f6&gt; are a series of payments and the series of associated date values entered as cell references.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191004T122138Z" creationid="Marco Marega" creationdate="20160720T204133Z">
-        <seg>Calcola il valore del capitale (valore attuale netto) per una serie di pagamenti effettuati in date diverse.&lt;f0&gt; &lt;/f0&gt;Il calcolo è basato sull'anno di 365 giorni, ignorando gli anni bisestili.&lt;f1&gt; &lt;/f1&gt;Se i pagamenti vengono effettuati a scadenze regolari, utilizzate la funzione VAN.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;aaaaTasso interesse&lt;/f3&gt; è il tasso di rendimento interno dei pagamenti.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Valori&lt;/f5&gt; e &lt;f6&gt;date&lt;/f6&gt; sono una serie di pagamenti ed una serie di date associate inserite come riferimenti di celle.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191004T122940Z" creationid="Marco Marega" creationdate="20160720T204133Z">
+        <seg>Calcola il valore del capitale (valore attuale netto) per una serie di pagamenti effettuati in date diverse.&lt;f0&gt; &lt;/f0&gt;Il calcolo è basato sull'anno di 365 giorni, ignorando gli anni bisestili.&lt;f1&gt; &lt;/f1&gt;Se i pagamenti vengono effettuati a scadenze regolari, utilizzate la funzione VAN.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Tasso interesse&lt;/f3&gt; è il tasso di rendimento interno dei pagamenti.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Valori&lt;/f5&gt; e &lt;f6&gt;date&lt;/f6&gt; sono una serie di pagamenti e una serie di date associate inserite come riferimenti di cella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66488,8 +66488,8 @@
       <tuv lang="EN">
         <seg>YIELD(settlement; maturity; rate; price; redemption; frequency; basis)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160720T204234Z" creationid="Marco Marega" creationdate="20160720T204234Z">
-        <seg>REND(liquidazione; scadenza; tasso interesse; prezzo; rimborso; frequenza; base)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191004T122943Z" creationid="Marco Marega" creationdate="20160720T204234Z">
+        <seg>aaaaREND(liquidazione; scadenza; tasso interesse; prezzo; rimborso; frequenza; base)</seg>
       </tuv>
     </tu>
     <tu>
