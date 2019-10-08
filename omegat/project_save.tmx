@@ -4736,8 +4736,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;AVEDEV&lt;/f0&gt;(number1; number2; ... number_30)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191007T133344Z" creationid="Marco Marega" creationdate="20160726T190621Z">
-        <seg>aaaaaaaaaaaaaaaaaa&lt;f0&gt;MEDIA.DEV&lt;/f0&gt;(numero 1; numero 2; ... numero_30)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191008T074535Z" creationid="Marco Marega" creationdate="20160726T190621Z">
+        <seg>&lt;f0&gt;MEDIA.DEV&lt;/f0&gt;(numero 1; numero 2; ... numero_30)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12016,8 +12016,8 @@
       <tuv lang="EN">
         <seg>AVERAGE(number_1; number_2; ... number_30)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T200625Z" creationid="Marco Marega" creationdate="20160726T200625Z">
-        <seg>MEDIA(numero_1; numero_2; ... numero_30)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191008T075057Z" creationid="Marco Marega" creationdate="20160726T200625Z">
+        <seg>aaaaMEDIA(numero_1; numero_2; ... numero_30)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22024,8 +22024,8 @@
       <tuv lang="EN">
         <seg>Displays the diffusion in a data set.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number_1; number_2; ... number_30&lt;/f1&gt; are values or ranges that represent a sample.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T200536Z" creationid="Marco Marega" creationdate="20160726T200536Z">
-        <seg>Mostra la dispersione in un insieme di dati.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1; numero_2; ... numero_30&lt;/f1&gt; sono i valori o gli intervalli che rappresentano un campione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191008T075013Z" creationid="Marco Marega" creationdate="20160726T200536Z">
+        <seg>Mostra la dispersione in un insieme di dati.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1; numero_2; ... numero_30&lt;/f1&gt; sono valori o intervalli che rappresentano un campione.</seg>
       </tuv>
     </tu>
     <tu>
