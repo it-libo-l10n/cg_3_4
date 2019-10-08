@@ -4744,8 +4744,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;AVERAGEA&lt;/f0&gt;(value_1; value_2; ... value_30)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T200829Z" creationid="Marco Marega" creationdate="20160726T200829Z">
-        <seg>&lt;f0&gt;MEDIA.VALORI&lt;/f0&gt;(valore_1; valore_2; ... valore_30)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191008T083028Z" creationid="Marco Marega" creationdate="20160726T200829Z">
+        <seg>aaaa&lt;f0&gt;MEDIA.VALORI&lt;/f0&gt;(valore_1; valore_2; ... valore_30)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12016,8 +12016,8 @@
       <tuv lang="EN">
         <seg>AVERAGE(number_1; number_2; ... number_30)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191008T075057Z" creationid="Marco Marega" creationdate="20160726T200625Z">
-        <seg>aaaaMEDIA(numero_1; numero_2; ... numero_30)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191008T082759Z" creationid="Marco Marega" creationdate="20160726T200625Z">
+        <seg>MEDIA(numero_1; numero_2; ... numero_30)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45080,8 +45080,8 @@
       <tuv lang="EN">
         <seg>Returns the average of the arguments.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number_1; number_2; ... number_30&lt;/f1&gt; are numerical values or ranges.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T200720Z" creationid="Marco Marega" creationdate="20160726T200720Z">
-        <seg>Restituisce la media dei parametri.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1; numero_2; ... numero_30&lt;/f1&gt; sono valori numerici o intervalli.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191008T082958Z" creationid="Marco Marega" creationdate="20160726T200720Z">
+        <seg>Restituisce la media degli argomenti.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1; numero_2; ... numero_30&lt;/f1&gt; sono valori numerici o intervalli.</seg>
       </tuv>
     </tu>
     <tu>
