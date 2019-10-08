@@ -4744,8 +4744,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;AVERAGEA&lt;/f0&gt;(value_1; value_2; ... value_30)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191008T083028Z" creationid="Marco Marega" creationdate="20160726T200829Z">
-        <seg>aaaa&lt;f0&gt;MEDIA.VALORI&lt;/f0&gt;(valore_1; valore_2; ... valore_30)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191008T085034Z" creationid="Marco Marega" creationdate="20160726T200829Z">
+        <seg>&lt;f0&gt;MEDIA.VALORI&lt;/f0&gt;(valore_1; valore_2; ... valore_30)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14544,8 +14544,8 @@
       <tuv lang="EN">
         <seg>B(trials; SP; T_1; T_2)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T201202Z" creationid="Marco Marega" creationdate="20160726T201202Z">
-        <seg>B(Tentativi; Probabilità; Tentativo_1; Tentativo_2)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191008T085655Z" creationid="Marco Marega" creationdate="20160726T201202Z">
+        <seg>aaaaB(Tentativi; Probabilità; Tentativo_1; Tentativo_2)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45072,8 +45072,8 @@
       <tuv lang="EN">
         <seg>Returns the average of the arguments.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T200949Z" creationid="Marco Marega" creationdate="20160726T200949Z">
-        <seg>Restituisce la media dei parametri.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191008T085309Z" creationid="Marco Marega" creationdate="20160726T200949Z">
+        <seg>Restituisce la media degli argomenti.</seg>
       </tuv>
     </tu>
     <tu>
