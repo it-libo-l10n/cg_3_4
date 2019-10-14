@@ -4952,8 +4952,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;BINOMDIST&lt;/f0&gt;(X; trials; SP; C)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T203710Z" creationid="Marco Marega" creationdate="20160726T203710Z">
-        <seg>&lt;f0&gt;DISTRIB.BINOM&lt;/f0&gt;(X; tentativi; probabilità; C)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191014T122037Z" creationid="Marco Marega" creationdate="20160726T203710Z">
+        <seg>aaaa&lt;f0&gt;DISTRIB.BINOM&lt;/f0&gt;(X; tentativi; probabilità; C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45688,8 +45688,8 @@
       <tuv lang="EN">
         <seg>Returns the inverse of the cumulative beta probability density function.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number&lt;/f1&gt; is the value between &lt;f2&gt;Start&lt;/f2&gt; and &lt;f3&gt;End&lt;/f3&gt; at which to evaluate the function.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Alpha&lt;/f5&gt; is a parameter to the distribution.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Beta&lt;/f7&gt; is a parameter to the distribution.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Start&lt;/f9&gt; (optional) is the lower bound for &lt;f10&gt;number&lt;/f10&gt;.&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;End&lt;/f12&gt; (optional) is the upper bound for&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;number.&lt;/f14&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191009T153734Z" creationid="Marco Marega" creationdate="20160726T203514Z">
-        <seg>aaaaaaaaaaaaaaaaRestituisce l'inverso della funzione di densità di probabilità cumulativa beta.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; è il valore compreso tra &lt;f2&gt;inizio&lt;/f2&gt; e &lt;f3&gt;fine&lt;/f3&gt; al quale elevare la funzione.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Alfa&lt;/f5&gt; is è un parametro della distribuzione.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Beta&lt;/f7&gt; è un parametro della distribuzione.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Inizio&lt;/f9&gt; (facoltativo) è il limite inferiore per il &lt;f10&gt;numero&lt;/f10&gt;.&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;Fine&lt;/f12&gt; (facoltativo) è il limite superiore per il&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;numero.&lt;/f14&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191014T122035Z" creationid="Marco Marega" creationdate="20160726T203514Z">
+        <seg>Restituisce l'inverso della funzione di densità di probabilità cumulativa beta.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; è il valore compreso tra &lt;f2&gt;inizio&lt;/f2&gt; e &lt;f3&gt;fine&lt;/f3&gt; nel quale calcolare la funzione.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Alfa&lt;/f5&gt; è un parametro della distribuzione.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Beta&lt;/f7&gt; è un parametro della distribuzione.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Inizio&lt;/f9&gt; (facoltativo) è il limite inferiore per il &lt;f10&gt;numero&lt;/f10&gt;.&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;Fine&lt;/f12&gt; (facoltativo) è il limite superiore per il&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;numero&lt;/f14&gt;.</seg>
       </tuv>
     </tu>
     <tu>
