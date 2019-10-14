@@ -45560,8 +45560,8 @@
       <tuv lang="EN">
         <seg>Returns the individual term binomial distribution probability.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;X&lt;/f1&gt; is the number of successes in a set of trials.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Trials&lt;/f3&gt; is the number of independent trials.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;SP&lt;/f5&gt; is the probability of success on each trial.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;C&lt;/f7&gt; = 0 calculates the probability of a single event and &lt;f8&gt;C&lt;/f8&gt; = 1 calculates the cumulative probability.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191014T141531Z" creationid="Marco Marega" creationdate="20160726T204307Z">
-        <seg>Restituisce la probabilità di un singolo elemento usando la distribuzione binomiale.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;X&lt;/f1&gt;aaaaaaaa è il numero di successi in un insieme di tentativi.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Tentativi&lt;/f3&gt; è il numero di tentativi indipendenti.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Probabilità&lt;/f5&gt; è la probabilità di successo di ciascun tentativo.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;C&lt;/f7&gt; = 0 calcola la probabilità di un singolo evento e &lt;f8&gt;C&lt;/f8&gt; = 1 calcola la probabilità cumulativa.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191014T153528Z" creationid="Marco Marega" creationdate="20160726T204307Z">
+        <seg>Restituisce la probabilità di un singolo elemento usando la distribuzione binomiale.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;X&lt;/f1&gt; è il numero di successi in un insieme di tentativi.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Tentativi&lt;/f3&gt; è il numero di tentativi indipendenti.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Probabilità&lt;/f5&gt; è la probabilità di successo di ciascun tentativo.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;C&lt;/f7&gt; = 0 calcola la probabilità di un singolo evento e &lt;f8&gt;C&lt;/f8&gt; = 1 calcola la probabilità cumulativa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46168,8 +46168,8 @@
       <tuv lang="EN">
         <seg>Returns the probability value that a hypothesis will be confirmed from the indicated chi square.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T090036Z" creationid="Marco Marega" creationdate="20160726T204841Z">
-        <seg>Restituisce il valore della probabilità che un ipotesi sia confermata usando la distribuzione chi quadrato indicata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191014T160025Z" creationid="Marco Marega" creationdate="20160726T204841Z">
+        <seg>Restituisce il valore della probabilità che un'ipotesi sia confermata usando la distribuzione chi quadrato indicata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56336,8 +56336,8 @@
       <tuv lang="EN">
         <seg>The probability determined by CHIDIST can also be determined by &lt;f0&gt;CHITEST.&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Number&lt;/f2&gt; is the chi-square value of the random sample used to determine the error probability.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Degrees_freedom&lt;/f4&gt; is the degrees of freedom of the experiment.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T205202Z" creationid="Marco Marega" creationdate="20160726T205202Z">
-        <seg>La probabilità calcolata dalla funzione DISTRIB.CHI può essere calcolata anche con la funzione &lt;f0&gt;TEST.CHI.&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Numero&lt;/f2&gt; è il valore chi-quadrato del campione casuale utilizzato per determinare la probabilità di errore.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Gradi libertà&lt;/f4&gt; sono i gradi di libertà dell'esperimento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191014T160030Z" creationid="Marco Marega" creationdate="20160726T205202Z">
+        <seg>aaaaaaaaaaaaaaaaaaLa probabilità calcolata dalla funzione DISTRIB.CHI può essere calcolata anche con la funzione &lt;f0&gt;TEST.CHI.&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Numero&lt;/f2&gt; è il valore chi-quadrato del campione casuale utilizzato per determinare la probabilità di errore.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Gradi libertà&lt;/f4&gt; sono i gradi di libertà dell'esperimento.</seg>
       </tuv>
     </tu>
     <tu>
