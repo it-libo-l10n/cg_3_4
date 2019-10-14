@@ -4952,8 +4952,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;BINOMDIST&lt;/f0&gt;(X; trials; SP; C)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191014T122037Z" creationid="Marco Marega" creationdate="20160726T203710Z">
-        <seg>aaaa&lt;f0&gt;DISTRIB.BINOM&lt;/f0&gt;(X; tentativi; probabilità; C)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191014T123349Z" creationid="Marco Marega" creationdate="20160726T203710Z">
+        <seg>&lt;f0&gt;DISTRIB.BINOM&lt;/f0&gt;(X; tentativi; probabilità; C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45560,8 +45560,8 @@
       <tuv lang="EN">
         <seg>Returns the individual term binomial distribution probability.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;X&lt;/f1&gt; is the number of successes in a set of trials.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Trials&lt;/f3&gt; is the number of independent trials.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;SP&lt;/f5&gt; is the probability of success on each trial.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;C&lt;/f7&gt; = 0 calculates the probability of a single event and &lt;f8&gt;C&lt;/f8&gt; = 1 calculates the cumulative probability.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T204307Z" creationid="Marco Marega" creationdate="20160726T204307Z">
-        <seg>Restrituisce la probabilità di un singolo elemento usando la distribuzione binomiale.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;X&lt;/f1&gt; è il numero di successi in un insieme di tentativi.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Tentativi&lt;/f3&gt; è il numero di tentativi indipendenti.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Probabilità&lt;/f5&gt; è la probabilità di successo di ciascun tentativo.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;C&lt;/f7&gt; = 0 calcola la probabilità di un singolo evento e &lt;f8&gt;C&lt;/f8&gt; = 1 calcola la probabilità cumulativa.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191014T123351Z" creationid="Marco Marega" creationdate="20160726T204307Z">
+        <seg>aaaaRestrituisce la probabilità di un singolo elemento usando la distribuzione binomiale.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;X&lt;/f1&gt; è il numero di successi in un insieme di tentativi.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Tentativi&lt;/f3&gt; è il numero di tentativi indipendenti.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Probabilità&lt;/f5&gt; è la probabilità di successo di ciascun tentativo.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;C&lt;/f7&gt; = 0 calcola la probabilità di un singolo evento e &lt;f8&gt;C&lt;/f8&gt; = 1 calcola la probabilità cumulativa.</seg>
       </tuv>
     </tu>
     <tu>
