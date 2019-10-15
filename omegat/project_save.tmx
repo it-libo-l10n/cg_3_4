@@ -15464,8 +15464,8 @@
       <tuv lang="EN">
         <seg>CONFIDENCE(alpha; &lt;f0&gt;STDEV&lt;/f0&gt;; size)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191015T093057Z" creationid="Marco Marega" creationdate="20160730T092402Z">
-        <seg>aaaaCONFIDENZA(alfa; &lt;f0&gt;DEV.ST&lt;/f0&gt;; dimensione)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191015T094717Z" creationid="Marco Marega" creationdate="20160730T092402Z">
+        <seg>CONFIDENZA(alfa; &lt;f0&gt;DEV.ST&lt;/f0&gt;; dimensione)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44952,8 +44952,8 @@
       <tuv lang="EN">
         <seg>Returns the (1-alpha) confidence interval for a normal distribution.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Alpha&lt;/f1&gt; is the level of the confidence interval.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;STDEV&lt;/f3&gt; is the standard deviation for the total population.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Size&lt;/f5&gt; is the size of the total population.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T092635Z" creationid="Marco Marega" creationdate="20160730T092635Z">
-        <seg>Restituisce l'intervallo di confidenza (1-alpha) di una distribuzione normale.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Alfa&lt;/f1&gt; è il livello dell'intervallo di confidenza.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;DEV.ST&lt;/f3&gt; è la deviazione standard nella popolazione totale.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Dimensione&lt;/f5&gt; sono le dimensioni totali della popolazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191015T094719Z" creationid="Marco Marega" creationdate="20160730T092635Z">
+        <seg>aaaaRestituisce l'intervallo di confidenza (1-alpha) di una distribuzione normale.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Alfa&lt;/f1&gt; è il livello dell'intervallo di confidenza.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;DEV.ST&lt;/f3&gt; è la deviazione standard nella popolazione totale.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Dimensione&lt;/f5&gt; sono le dimensioni totali della popolazione.</seg>
       </tuv>
     </tu>
     <tu>
