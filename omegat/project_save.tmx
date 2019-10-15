@@ -5000,8 +5000,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;CHIINV&lt;/f0&gt;(number;&lt;f1&gt; &lt;/f1&gt;degrees_freedom)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191015T083208Z" creationid="Marco Marega" creationdate="20160730T085850Z">
-        <seg>aaaa&lt;f0&gt;INV.CHI&lt;/f0&gt;(numero;&lt;f1&gt; &lt;/f1&gt;gradi libertà)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191015T083655Z" creationid="Marco Marega" creationdate="20160730T085850Z">
+        <seg>&lt;f0&gt;INV.CHI&lt;/f0&gt;(numero;&lt;f1&gt; &lt;/f1&gt;gradi libertà)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45704,8 +45704,8 @@
       <tuv lang="EN">
         <seg>Returns the inverse of the one-tailed probability of the chi-squared distribution.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number&lt;/f1&gt; is the value of the error probability.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Degrees_freedom&lt;/f3&gt; is the degrees of freedom of the experiment.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T090539Z" creationid="Marco Marega" creationdate="20160730T090025Z">
-        <seg>Restituisce l'inverso della probabilità ad una coda usando la distribuzione chi quadrato.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; è il valore della probabilità di errore.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Gradi libertà&lt;/f3&gt; sono i gradi di libertà dell'esperimento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191015T083658Z" creationid="Marco Marega" creationdate="20160730T090025Z">
+        <seg>aaaaRestituisce l'inverso della probabilità ad una coda usando la distribuzione chi quadrato.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; è il valore della probabilità di errore.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Gradi libertà&lt;/f3&gt; sono i gradi di libertà dell'esperimento.</seg>
       </tuv>
     </tu>
     <tu>
