@@ -5000,8 +5000,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;CHIINV&lt;/f0&gt;(number;&lt;f1&gt; &lt;/f1&gt;degrees_freedom)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T090545Z" creationid="Marco Marega" creationdate="20160730T085850Z">
-        <seg>&lt;f0&gt;INV.CHI&lt;/f0&gt;(numero;&lt;f1&gt; &lt;/f1&gt;gradi libertà)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191015T083208Z" creationid="Marco Marega" creationdate="20160730T085850Z">
+        <seg>aaaa&lt;f0&gt;INV.CHI&lt;/f0&gt;(numero;&lt;f1&gt; &lt;/f1&gt;gradi libertà)</seg>
       </tuv>
     </tu>
     <tu>
@@ -56336,8 +56336,8 @@
       <tuv lang="EN">
         <seg>The probability determined by CHIDIST can also be determined by &lt;f0&gt;CHITEST.&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Number&lt;/f2&gt; is the chi-square value of the random sample used to determine the error probability.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Degrees_freedom&lt;/f4&gt; is the degrees of freedom of the experiment.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191014T160030Z" creationid="Marco Marega" creationdate="20160726T205202Z">
-        <seg>aaaaaaaaaaaaaaaaaaLa probabilità calcolata dalla funzione DISTRIB.CHI può essere calcolata anche con la funzione &lt;f0&gt;TEST.CHI.&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Numero&lt;/f2&gt; è il valore chi-quadrato del campione casuale utilizzato per determinare la probabilità di errore.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Gradi libertà&lt;/f4&gt; sono i gradi di libertà dell'esperimento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191015T082438Z" creationid="Marco Marega" creationdate="20160726T205202Z">
+        <seg>La probabilità calcolata dalla funzione DISTRIB.CHI può essere calcolata anche con la funzione &lt;f0&gt;TEST.CHI.&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Numero&lt;/f2&gt; è il valore chi-quadrato del campione casuale utilizzato per determinare la probabilità di errore.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Gradi libertà&lt;/f4&gt; sono i gradi di libertà dell'esperimento.</seg>
       </tuv>
     </tu>
     <tu>
