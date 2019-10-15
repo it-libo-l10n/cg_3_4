@@ -15392,8 +15392,8 @@
       <tuv lang="EN">
         <seg>CHITEST(data_B; data_E)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191015T084739Z" creationid="Marco Marega" creationdate="20160730T090658Z">
-        <seg>aaaaTEST.CHI(dati B; dati E)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191015T092545Z" creationid="Marco Marega" creationdate="20160730T090658Z">
+        <seg>TEST.CHI(dati_B; dati_E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15464,8 +15464,8 @@
       <tuv lang="EN">
         <seg>CONFIDENCE(alpha; &lt;f0&gt;STDEV&lt;/f0&gt;; size)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T092402Z" creationid="Marco Marega" creationdate="20160730T092402Z">
-        <seg>CONFIDENZA(alfa; &lt;f0&gt;DEV.ST&lt;/f0&gt;; dimensione)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191015T093057Z" creationid="Marco Marega" creationdate="20160730T092402Z">
+        <seg>aaaaCONFIDENZA(alfa; &lt;f0&gt;DEV.ST&lt;/f0&gt;; dimensione)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45136,8 +45136,8 @@
       <tuv lang="EN">
         <seg>Returns the chi-square distribution from a random distribution of two test series based on the chi-square test for independence.&lt;f0&gt; &lt;/f0&gt;The probability determined by CHITEST can also be determined with CHIDIST, in which case the chi square of the random sample must then be passed as a parameter instead of the data row.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Data_B&lt;/f2&gt; is the array of the observations.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Data_E&lt;/f4&gt; is the range of the expected values.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T092251Z" creationid="Marco Marega" creationdate="20160730T092251Z">
-        <seg>Restituisce la distribuzione chi quadrato da una distribuzione casuale di due serie usando il test di indipedenza chi quadrato.&lt;f0&gt; &lt;/f0&gt;La probabilità calcolata da TEST.CHI può essere calcolata anche con DIST.CHI, in tal caso il chi quadrato del campione casuale deve essere passato come parametro al posto della serie di dati.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Dati_B&lt;/f2&gt; è la matrice dei dati osservati.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Dati_E&lt;/f4&gt; è la matrice dei valori attesi.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191015T093055Z" creationid="Marco Marega" creationdate="20160730T092251Z">
+        <seg>Restituisce la distribuzione chi quadrato da una distribuzione casuale di due serie di test usando il test di indipendenza chi quadrato.&lt;f0&gt; &lt;/f0&gt;La probabilità calcolata da TEST.CHI può essere calcolata anche con DISTRIB.CHI; in tal caso il chi quadrato del campione casuale deve essere passato come parametro al posto della serie di dati.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Dati_B&lt;/f2&gt; è la matrice dei valori osservati.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Dati_E&lt;/f4&gt; è l'intervallo dei valori attesi.</seg>
       </tuv>
     </tu>
     <tu>
