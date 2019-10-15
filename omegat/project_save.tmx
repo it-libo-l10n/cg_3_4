@@ -5024,8 +5024,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;CORREL&lt;/f0&gt;(data_1; data_2)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T092723Z" creationid="Marco Marega" creationdate="20160730T092723Z">
-        <seg>&lt;f0&gt;CORRELAZIONE&lt;/f0&gt;(dati 1; dati 2)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191015T102924Z" creationid="Marco Marega" creationdate="20160730T092723Z">
+        <seg>&lt;f0&gt;CORRELAZIONE&lt;/f0&gt;(dati_1; dati_2)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44952,8 +44952,8 @@
       <tuv lang="EN">
         <seg>Returns the (1-alpha) confidence interval for a normal distribution.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Alpha&lt;/f1&gt; is the level of the confidence interval.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;STDEV&lt;/f3&gt; is the standard deviation for the total population.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Size&lt;/f5&gt; is the size of the total population.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191015T094719Z" creationid="Marco Marega" creationdate="20160730T092635Z">
-        <seg>aaaaRestituisce l'intervallo di confidenza (1-alpha) di una distribuzione normale.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Alfa&lt;/f1&gt; è il livello dell'intervallo di confidenza.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;DEV.ST&lt;/f3&gt; è la deviazione standard nella popolazione totale.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Dimensione&lt;/f5&gt; sono le dimensioni totali della popolazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191015T102753Z" creationid="Marco Marega" creationdate="20160730T092635Z">
+        <seg>Restituisce l'intervallo di confidenza (1-alpha) per una distribuzione normale.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Alfa&lt;/f1&gt; è il livello dell'intervallo di confidenza.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;DEV.ST&lt;/f3&gt; è la deviazione standard per la popolazione totale.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Dimensione&lt;/f5&gt; è la dimensione della popolazione totale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45216,8 +45216,8 @@
       <tuv lang="EN">
         <seg>Returns the correlation coefficient between two data sets.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Data_1&lt;/f1&gt; is the first data set.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Data_2&lt;/f3&gt; is the second data set.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T092902Z" creationid="Marco Marega" creationdate="20160730T092902Z">
-        <seg>Restituisce il coefficiente di correlazione tra due insiemi di dati.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati 1&lt;/f1&gt; è il primo insieme di dati.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Dati 2&lt;/f3&gt; è il secondo insieme di dati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191015T102932Z" creationid="Marco Marega" creationdate="20160730T092902Z">
+        <seg>aaaaRestituisce il coefficiente di correlazione tra due insiemi di dati.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati 1&lt;/f1&gt; è il primo insieme di dati.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Dati 2&lt;/f3&gt; è il secondo insieme di dati.</seg>
       </tuv>
     </tu>
     <tu>
