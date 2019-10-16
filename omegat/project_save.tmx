@@ -5048,8 +5048,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;COUNTA&lt;/f0&gt;(value_1; value_2; ... value_30)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191015T154322Z" creationid="Marco Marega" creationdate="20160730T093340Z">
-        <seg>aaaaaaaaaaaaaaaaaa&lt;f0&gt;CONTA.VALORI&lt;/f0&gt;(valore 1; valore 2; ... valore 30)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191016T070044Z" creationid="Marco Marega" creationdate="20160730T093340Z">
+        <seg>&lt;f0&gt;CONTA.VALORI&lt;/f0&gt;(valore_1; valore_2; ... valore_30)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5120,8 +5120,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;COVAR&lt;/f0&gt;(data_1; data_2)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T093749Z" creationid="Marco Marega" creationdate="20160730T093749Z">
-        <seg>&lt;f0&gt;COVARIANZA&lt;/f0&gt;(dati 1; dati 2)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191016T071156Z" creationid="Marco Marega" creationdate="20160730T093749Z">
+        <seg>&lt;f0&gt;COVARIANZA&lt;/f0&gt;(dati_1; dati_2)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20376,8 +20376,8 @@
       <tuv lang="EN">
         <seg>Counts how many values are in the list of arguments.&lt;f0&gt; &lt;/f0&gt;Text entries are also counted, even when they contain an empty string of length 0.&lt;f1&gt; &lt;/f1&gt;If an argument is an array or reference, empty cells within the array or reference are ignored.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;value_1; value_2; ...&lt;/f3&gt;&lt;f4&gt; value_30&lt;/f4&gt; are up to 30 arguments representing the values to be counted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T093709Z" creationid="Marco Marega" creationdate="20160730T093709Z">
-        <seg>Conta quanti valori sono presenti nella lista dei parametri.&lt;f0&gt; &lt;/f0&gt;Vengono conteggiati anche i valori di testo, anche se contengono una stringa vuota di lunghezza 0.&lt;f1&gt; &lt;/f1&gt;Se un parametro è una matrice o un riferimento, le celle vuote all'interno della matrice o del riferimento vengono ignorate.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Valore 1; valore 2; ...&lt;/f3&gt;&lt;f4&gt; valore 30&lt;/f4&gt; sono un massimo di 30 parametri contenenti i valori da contare.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191016T071037Z" creationid="Marco Marega" creationdate="20160730T093709Z">
+        <seg>Conta quanti valori sono presenti nell'elenco degli argomenti.&lt;f0&gt; &lt;/f0&gt;Vengono conteggiati anche i valori di testo, anche se contengono una stringa vuota di lunghezza 0.&lt;f1&gt; &lt;/f1&gt;Se un argomento è una matrice o un riferimento, le celle vuote all'interno della matrice o del riferimento vengono ignorate.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Valore_1; valore_2; ...&lt;/f3&gt;&lt;f4&gt; valore_30&lt;/f4&gt; sono un massimo di 30 argomenti contenenti i valori da contare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45248,8 +45248,8 @@
       <tuv lang="EN">
         <seg>Returns the covariance of the product of paired deviations.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Data_1&lt;/f1&gt; is the first data set.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Data_2&lt;/f3&gt; is the second data set.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T094518Z" creationid="Marco Marega" creationdate="20160730T094518Z">
-        <seg>Restituisce la covarianza del prodotto di due deviazioni accoppiate.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati 1&lt;/f1&gt; è il primo insieme di dati.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Dati 2&lt;/f3&gt; è il secondo insieme di dati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191016T071931Z" creationid="Marco Marega" creationdate="20160730T094518Z">
+        <seg>Restituisce la covarianza del prodotto di due deviazioni accoppiate.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati_1&lt;/f1&gt; è il primo insieme di dati.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Dati_2&lt;/f3&gt; è il secondo insieme di dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46312,8 +46312,8 @@
       <tuv lang="EN">
         <seg>Returns the smallest value for which the cumulative binomial distribution is less than or equal to a criterion value.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Trials&lt;/f1&gt; is the total number of trials.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;SP&lt;/f3&gt; is the probability of success for one trial.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Alpha&lt;/f5&gt; is the threshold probability to be reached or exceeded.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T100809Z" creationid="Marco Marega" creationdate="20160730T100809Z">
-        <seg>Rstituisce il valore più piccolo per il quale la distribuzione cumulativa binomiale è minore o uguale ad un valore di riferimento.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Tentativi&lt;/f1&gt; è il numero totale di tentativi.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Probabilità&lt;/f3&gt; è la probabilità di successo di un tentativo.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Alfa&lt;/f5&gt; è la soglia di probabilità da raggiungere o superare.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191016T072121Z" creationid="Marco Marega" creationdate="20160730T100809Z">
+        <seg>aaaaRestituisce il valore più piccolo per il quale la distribuzione cumulativa binomiale è minore o uguale ad un valore di riferimento.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Tentativi&lt;/f1&gt; è il numero totale di tentativi.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Probabilità&lt;/f3&gt; è la probabilità di successo di un tentativo.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Alfa&lt;/f5&gt; è la soglia di probabilità da raggiungere o superare.</seg>
       </tuv>
     </tu>
     <tu>
