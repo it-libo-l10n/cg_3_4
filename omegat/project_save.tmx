@@ -5864,8 +5864,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;EXPONDIST&lt;/f0&gt;(number; lambda; C)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T101807Z" creationid="Marco Marega" creationdate="20160730T101807Z">
-        <seg>&lt;f0&gt;DISTRIB.EXP&lt;/f0&gt;(numero; lambda; C)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191016T104052Z" creationid="Marco Marega" creationdate="20160730T101807Z">
+        <seg>aaaa&lt;f0&gt;DISTRIB.EXP&lt;/f0&gt;(numero; lambda; C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46384,8 +46384,8 @@
       <tuv lang="EN">
         <seg>Returns the sum of squares of deviations based on a sample mean.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number_1; number_2; ... number_30&lt;/f1&gt; are numerical values or ranges representing a sample.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T101354Z" creationid="Marco Marega" creationdate="20160730T101354Z">
-        <seg>Restituisce la somma dei quadrati delle deviazioni calcolate su una media campione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero 1; numero 2; ... numero 30&lt;/f1&gt; sono valori numerici o intervalli che rappresentano un campione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191016T104050Z" creationid="Marco Marega" creationdate="20160730T101354Z">
+        <seg>Restituisce la somma dei quadrati delle deviazioni calcolate su una media campione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1; numero_2; ... numero_30&lt;/f1&gt; sono valori numerici o intervalli che rappresentano un campione.</seg>
       </tuv>
     </tu>
     <tu>
