@@ -5864,8 +5864,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;EXPONDIST&lt;/f0&gt;(number; lambda; C)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191016T155656Z" creationid="Marco Marega" creationdate="20160730T101807Z">
-        <seg>aaaaaaaaaaaaaaaa&lt;f0&gt;DISTRIB.EXP&lt;/f0&gt;(numero; lambda; C)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191021T095818Z" creationid="Marco Marega" creationdate="20160730T101807Z">
+        <seg>&lt;f0&gt;DISTRIB.EXP&lt;/f0&gt;(numero; lambda; C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45416,8 +45416,8 @@
       <tuv lang="EN">
         <seg>Returns the exponential distribution.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number&lt;/f1&gt; is the value of the function.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Lambda&lt;/f3&gt; is the parameter value.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;C&lt;/f5&gt; is a logical value that determines the form of the function.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;C&lt;/f7&gt;&lt;f8&gt; = 0&lt;/f8&gt; calculates the density function, and &lt;f9&gt;C&lt;/f9&gt; = 1 calculates the distribution.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T102223Z" creationid="Marco Marega" creationdate="20160730T102223Z">
-        <seg>Restituisce la distribuzione esponenziale.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; è il valore di cui calcolare la distribuzione.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Lambda&lt;/f3&gt; è il valore parametro per la distribuzione esponenziale.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;C&lt;/f5&gt; è un valore logico che determina la forma della funzione.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;C&lt;/f7&gt;&lt;f8&gt; = 0&lt;/f8&gt; calcola la densità, e &lt;f9&gt;C&lt;/f9&gt; = 1 calcola la distribuzione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191021T095820Z" creationid="Marco Marega" creationdate="20160730T102223Z">
+        <seg>aaaaRestituisce la distribuzione esponenziale.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; è il valore di cui calcolare la distribuzione.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Lambda&lt;/f3&gt; è il valore parametro per la distribuzione esponenziale.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;C&lt;/f5&gt; è un valore logico che determina la forma della funzione.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;C&lt;/f7&gt;&lt;f8&gt; = 0&lt;/f8&gt; calcola la densità, e &lt;f9&gt;C&lt;/f9&gt; = 1 calcola la distribuzione.</seg>
       </tuv>
     </tu>
     <tu>
