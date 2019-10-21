@@ -5992,8 +5992,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;FINV&lt;/f0&gt;(number; degrees_freedom_1; degrees_freedom_2)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T123106Z" creationid="Marco Marega" creationdate="20160730T123106Z">
-        <seg>&lt;f0&gt;INVF&lt;/f0&gt;(numero; gradi libertà 1; gradi libertà 2)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191021T145855Z" creationid="Marco Marega" creationdate="20160730T123106Z">
+        <seg>aaaa&lt;f0&gt;INVF&lt;/f0&gt;(numero; gradi libertà 1; gradi libertà 2)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16672,8 +16672,8 @@
       <tuv lang="EN">
         <seg>Calculates the values of an F probability distribution.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number&lt;/f1&gt; is the value for which the F distribution is to be calculated.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Degrees_freedom_1&lt;/f3&gt; is the degrees of freedom in the numerator in the F distribution.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Degrees_freedom_2&lt;/f5&gt; is the degrees of freedom in the denominator in the F distribution.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191021T143349Z" creationid="Marco Marega" creationdate="20160730T123024Z">
-        <seg>Calcola il valore della distribuzione di probabilità F.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; è il valore per cui calcolare la distribuzione F.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Gradi_libertà_1&lt;/f3&gt; sono i gradi di libertà al numeratore nella distribuzione F.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Gradi_libertà_2&lt;/f5&gt;aaaaaaaa sono i gradi di libertà al denominatore nella distribuzione F.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191021T145852Z" creationid="Marco Marega" creationdate="20160730T123024Z">
+        <seg>Calcola il valore della distribuzione di probabilità F.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; è il valore per cui calcolare la distribuzione F.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Gradi_libertà_1&lt;/f3&gt; sono i gradi di libertà al numeratore nella distribuzione F.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Gradi_libertà_2&lt;/f5&gt; sono i gradi di libertà al denominatore nella distribuzione F.</seg>
       </tuv>
     </tu>
     <tu>
