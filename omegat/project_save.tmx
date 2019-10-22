@@ -24240,8 +24240,8 @@
       <tuv lang="EN">
         <seg>FORECAST(value; data_Y; data_X)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T124046Z" creationid="Marco Marega" creationdate="20160730T124046Z">
-        <seg>PREVISIONE(valore; dati Y; dati X)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191022T085110Z" creationid="Marco Marega" creationdate="20160730T124046Z">
+        <seg>aaaaPREVISIONE(valore; dati Y; dati X)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45672,8 +45672,8 @@
       <tuv lang="EN">
         <seg>Returns the inverse of the Fisher transformation for the given &lt;f0&gt;number&lt;/f0&gt; and creates a function close to a normal distribution.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191022T081648Z" creationid="Marco Marega" creationdate="20160730T123901Z">
-        <seg>aaaaRestituisce l'inverso della trasformazione di Fisher per il &lt;f0&gt;numero&lt;/f0&gt; dato e crea una funzione vicina ad una distribuzione normale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191022T085108Z" creationid="Marco Marega" creationdate="20160730T123901Z">
+        <seg>Restituisce l'inverso della trasformazione di Fisher per il &lt;f0&gt;numero&lt;/f0&gt; dato e crea una funzione vicina a una distribuzione normale.</seg>
       </tuv>
     </tu>
     <tu>
