@@ -7312,8 +7312,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Number&lt;/f0&gt; is the probability value for which the inverse Gamma distribution is to be calculated.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Alpha&lt;/f2&gt; is the parameter Alpha of the Gamma distribution.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Beta&lt;/f4&gt; is the parameter Beta of the Gamma distribution.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191023T122424Z" creationid="Marco Marega" creationdate="20160730T125731Z">
-        <seg>&lt;f0&gt;Numero&lt;/f0&gt; è il valore di probabilità per il quale calcolare l'inverso della distribuzione Gamma.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Alfa&lt;/f2&gt;aaaa è il parametro Alfa della distribuzione Gamma.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Beta&lt;/f4&gt; è il parametro Beta della distribuzione Gamma.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191023T145221Z" creationid="Marco Marega" creationdate="20160730T125731Z">
+        <seg>&lt;f0&gt;Numero&lt;/f0&gt; è il valore di probabilità per il quale calcolare l'inverso della distribuzione Gamma.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Alfa&lt;/f2&gt; è il parametro Alfa della distribuzione Gamma.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Beta&lt;/f4&gt; è il parametro Beta della distribuzione Gamma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45888,8 +45888,8 @@
       <tuv lang="EN">
         <seg>Returns the natural logarithm of the Gamma function, G(x), for the given &lt;f0&gt;number&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T130128Z" creationid="Marco Marega" creationdate="20160730T130128Z">
-        <seg>Restituisce il logaritmo naturale della funzione Gamma, G(x), per il &lt;f0&gt;numero&lt;/f0&gt; dato.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191023T145352Z" creationid="Marco Marega" creationdate="20160730T130128Z">
+        <seg>aaaaRestituisce il logaritmo naturale della funzione Gamma, G(x), per il &lt;f0&gt;numero&lt;/f0&gt; dato.</seg>
       </tuv>
     </tu>
     <tu>
