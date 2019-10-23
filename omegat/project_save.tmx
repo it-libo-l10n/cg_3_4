@@ -6240,8 +6240,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;GEOMEAN&lt;/f0&gt;(number_1; number_2; ... number_30)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T134128Z" creationid="Marco Marega" creationdate="20160730T134128Z">
-        <seg>&lt;f0&gt;MEDIA.GEOMETRICA&lt;/f0&gt;(numero 1; numero 2; ... numero 30)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191023T160336Z" creationid="Marco Marega" creationdate="20160730T134128Z">
+        <seg>aaaa&lt;f0&gt;MEDIA.GEOMETRICA&lt;/f0&gt;(numero 1; numero 2; ... numero 30)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46352,8 +46352,8 @@
       <tuv lang="EN">
         <seg>Returns the standard normal cumulative distribution for the given &lt;f0&gt;number&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191023T160103Z" creationid="Marco Marega" creationdate="20160730T130241Z">
-        <seg>aaaaRestituisce la distribuzione cumulativa normale standard per il &lt;f0&gt;numero&lt;/f0&gt; dato.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191023T160334Z" creationid="Marco Marega" creationdate="20160730T130241Z">
+        <seg>Restituisce la distribuzione cumulativa normale standard per il &lt;f0&gt;numero&lt;/f0&gt; dato.</seg>
       </tuv>
     </tu>
     <tu>
