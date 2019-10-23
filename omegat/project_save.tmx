@@ -46496,8 +46496,8 @@
       <tuv lang="EN">
         <seg>Returns the values of a Gamma cumulative distribution.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number&lt;/f1&gt; is the value for which the Gamma distribution is to be calculated.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Alpha&lt;/f3&gt; is the parameter Alpha of the Gamma distribution.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Beta&lt;/f5&gt; is the parameter Beta of the Gamma distribution.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;C&lt;/f7&gt; = 0 calculates the density function, and &lt;f8&gt;C&lt;/f8&gt; = 1 calculates the distribution.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191023T074557Z" creationid="Marco Marega" creationdate="20160730T125422Z">
-        <seg>Restituisce i valori di una distribuzione Gamma cumulativa.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt;aaaa è il valore del quale calcolare la distribuzione Gamma.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Alfa&lt;/f3&gt; è il parametro Alfa della distribuzione Gamma.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Beta&lt;/f5&gt; è il parametro Beta della distribuzione Gamma.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Cumulativo&lt;/f7&gt; = 0 calcola la funzione di densità, e &lt;f8&gt;Cumulativo&lt;/f8&gt; = 1 calcola la distribuzione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191023T083804Z" creationid="Marco Marega" creationdate="20160730T125422Z">
+        <seg>Restituisce i valori di una distribuzione Gamma cumulativa.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; è il valore per cui calcolare la distribuzione Gamma.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Alfa&lt;/f3&gt; è il parametro Alfa della distribuzione Gamma.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Beta&lt;/f5&gt; è il parametro Beta della distribuzione Gamma.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Cumulativo&lt;/f7&gt; = 0 calcola la funzione di densità e &lt;f8&gt;Cumulativo&lt;/f8&gt; = 1 calcola la distribuzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58768,8 +58768,8 @@
       <tuv lang="EN">
         <seg>This function allows you to search for variables with different distribution.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T125640Z" creationid="Marco Marega" creationdate="20160730T125640Z">
-        <seg>Questa funzione permette di cercare variabili con differente distribuzione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191023T084112Z" creationid="Marco Marega" creationdate="20160730T125640Z">
+        <seg>aaaaQuesta funzione permette di cercare variabili con differente distribuzione.</seg>
       </tuv>
     </tu>
     <tu>
