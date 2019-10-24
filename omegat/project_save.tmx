@@ -6288,8 +6288,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;HYPGEOMDIST&lt;/f0&gt;(X; n_sample; successes; n_population)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T134737Z" creationid="Marco Marega" creationdate="20160730T134737Z">
-        <seg>&lt;f0&gt;DISTRIB.IPERGEOM&lt;/f0&gt;(X; numero campione; successi popolazione; numero popolazione)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191024T100416Z" creationid="Marco Marega" creationdate="20160730T134737Z">
+        <seg>aaaa&lt;f0&gt;DISTRIB.IPERGEOM&lt;/f0&gt;(X; numero campione; successi popolazione; numero popolazione)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45480,8 +45480,8 @@
       <tuv lang="EN">
         <seg>Returns the harmonic mean of a data set.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number_1; number_2; ... number_30&lt;/f1&gt; are values or ranges that can be used to calculate the harmonic mean.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191024T094810Z" creationid="Marco Marega" creationdate="20160730T134523Z">
-        <seg>aaaaRestituisce la media armonica di un insieme di dati.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero 1; numero 2; ... numero 30&lt;/f1&gt; sono i valori o gli intervali che vengono utilizzati per calcolare la media armonica.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191024T100413Z" creationid="Marco Marega" creationdate="20160730T134523Z">
+        <seg>Restituisce la media armonica di un insieme di dati.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1; numero_2; ... numero_30&lt;/f1&gt; sono i valori o gli intervalli che vengono utilizzati per calcolare la media armonica.</seg>
       </tuv>
     </tu>
     <tu>
