@@ -6256,8 +6256,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;HARMEAN&lt;/f0&gt;(number_1; number_2; ... number_30)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191024T084719Z" creationid="Marco Marega" creationdate="20160730T134351Z">
-        <seg>aaaa&lt;f0&gt;MEDIA.ARMONICA&lt;/f0&gt;(numero 1; numero 2; ... numero 30)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191024T094807Z" creationid="Marco Marega" creationdate="20160730T134351Z">
+        <seg>&lt;f0&gt;MEDIA.ARMONICA&lt;/f0&gt;(numero_1; numero_2; ... numero_30)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45480,8 +45480,8 @@
       <tuv lang="EN">
         <seg>Returns the harmonic mean of a data set.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number_1; number_2; ... number_30&lt;/f1&gt; are values or ranges that can be used to calculate the harmonic mean.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T134523Z" creationid="Marco Marega" creationdate="20160730T134523Z">
-        <seg>Restituisce la media armonica di un insieme di dati.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero 1; numero 2; ... numero 30&lt;/f1&gt; sono i valori o gli intervali che vengono utilizzati per calcolare la media armonica.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191024T094810Z" creationid="Marco Marega" creationdate="20160730T134523Z">
+        <seg>aaaaRestituisce la media armonica di un insieme di dati.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero 1; numero 2; ... numero 30&lt;/f1&gt; sono i valori o gli intervali che vengono utilizzati per calcolare la media armonica.</seg>
       </tuv>
     </tu>
     <tu>
