@@ -44960,8 +44960,8 @@
       <tuv lang="EN">
         <seg>Returns the &lt;f0&gt;hypergeometric&lt;/f0&gt; distribution.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;X&lt;/f2&gt; is the number of results achieved in the random sample.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;N_sample&lt;/f4&gt; is the size of the random sample.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Successes&lt;/f6&gt; is the number of possible results in the total population.&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;N_population &lt;/f8&gt;is the size of the total population.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191025T091949Z" creationid="Marco Marega" creationdate="20160730T135037Z">
-        <seg>Restituisce la distribuzione &lt;f0&gt;ipergeometrica&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;X&lt;/f2&gt; è il numero di risultati ottenuti nel campione casuale.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Numero_campione&lt;/f4&gt;aaaa è la dimensione del campione casuale.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Successi popolazione&lt;/f6&gt; è il numero dei risultati possibili sul totale della popolazione.&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;Numero popolazione &lt;/f8&gt;è la dimensione della popolazione totale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191025T095311Z" creationid="Marco Marega" creationdate="20160730T135037Z">
+        <seg>Restituisce la distribuzione &lt;f0&gt;ipergeometrica&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;X&lt;/f2&gt; è il numero di risultati ottenuti nel campione casuale.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Numero_campione&lt;/f4&gt; è la dimensione del campione casuale.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Successi_popolazione&lt;/f6&gt; è il numero dei risultati possibili sul totale della popolazione.&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;Numero_popolazione&lt;/f8&gt;aaaa è la dimensione della popolazione totale.</seg>
       </tuv>
     </tu>
     <tu>
