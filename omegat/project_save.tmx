@@ -6984,8 +6984,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;MAXA&lt;/f0&gt;(value_1; value_2; ... &lt;s1/&gt;value_30)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T190436Z" creationid="Marco Marega" creationdate="20160807T190436Z">
-        <seg>&lt;f0&gt;MAX.VALORI&lt;/f0&gt;(valore_1; valore_2; ... &lt;s1/&gt;valore_30)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191028T163507Z" creationid="Marco Marega" creationdate="20160807T190436Z">
+        <seg>aaaa&lt;f0&gt;MAX.VALORI&lt;/f0&gt;(valore_1; valore_2; ... &lt;s1/&gt;valore_30)</seg>
       </tuv>
     </tu>
     <tu>
@@ -37752,8 +37752,8 @@
       <tuv lang="EN">
         <seg>MAX(number_1; number_2; ... number_30)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191028T160431Z" creationid="Marco Marega" creationdate="20160807T190214Z">
-        <seg>aaaaMAX(numero_1; numero_2; ... numero_30)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191028T162857Z" creationid="Marco Marega" creationdate="20160807T190214Z">
+        <seg>MAX(numero_1; numero_2; ... numero_30)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45792,8 +45792,8 @@
       <tuv lang="EN">
         <seg>Returns the maximum value in a list of arguments.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number_1; number_2; ... number_30&lt;/f1&gt; are numerical values or ranges.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T190355Z" creationid="Marco Marega" creationdate="20160807T190355Z">
-        <seg>Restituisce il valore massimo di una lista di parametri.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1; numero_2; ... numero_30&lt;/f1&gt; sono valori numerici o intervalli.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191028T163505Z" creationid="Marco Marega" creationdate="20160807T190355Z">
+        <seg>Restituisce il valore massimo di un elenco di argomenti.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1; numero_2; ... numero_30&lt;/f1&gt; sono valori o intervalli numerici.</seg>
       </tuv>
     </tu>
     <tu>
