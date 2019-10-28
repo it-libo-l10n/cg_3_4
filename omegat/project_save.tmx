@@ -6824,8 +6824,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;LOGINV&lt;/f0&gt;(number; mean; STDEV)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191028T132105Z" creationid="Marco Marega" creationdate="20160807T184639Z">
-        <seg>aaaa&lt;f0&gt;INV.LOGNORM&lt;/f0&gt;(numero; valore medio; DEV.ST)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191028T135339Z" creationid="Marco Marega" creationdate="20160807T184639Z">
+        <seg>&lt;f0&gt;INV.LOGNORM&lt;/f0&gt;(numero; valore medio; DEV.ST)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45656,8 +45656,8 @@
       <tuv lang="EN">
         <seg>Returns the inverse of the &lt;f0&gt;lognormal&lt;/f0&gt; distribution for the given &lt;f1&gt;Number&lt;/f1&gt;, a probability value.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Mean&lt;/f3&gt; is the arithmetic mean of the standard logarithmic distribution.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;STDEV&lt;/f5&gt; is the standard deviation of the standard logarithmic distribution.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T190051Z" creationid="Marco Marega" creationdate="20160807T184934Z">
-        <seg>Restituisce l'inverso della distribuzione &lt;f0&gt;log-normale&lt;/f0&gt; per un dato &lt;f1&gt;Numero&lt;/f1&gt; (un valore di probabilità).&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Valore medio&lt;/f3&gt; è la media aritmetica della distribuzione logaritmica standard.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;DEV.ST&lt;/f5&gt; è la deviazione standard della distribuzione logaritmica standard.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191028T135341Z" creationid="Marco Marega" creationdate="20160807T184934Z">
+        <seg>aaaaRestituisce l'inverso della distribuzione &lt;f0&gt;log-normale&lt;/f0&gt; per un dato &lt;f1&gt;Numero&lt;/f1&gt; (un valore di probabilità).&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Valore medio&lt;/f3&gt; è la media aritmetica della distribuzione logaritmica standard.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;DEV.ST&lt;/f5&gt; è la deviazione standard della distribuzione logaritmica standard.</seg>
       </tuv>
     </tu>
     <tu>
