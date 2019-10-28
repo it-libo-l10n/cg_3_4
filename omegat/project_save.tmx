@@ -37752,8 +37752,8 @@
       <tuv lang="EN">
         <seg>MAX(number_1; number_2; ... number_30)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T190214Z" creationid="Marco Marega" creationdate="20160807T190214Z">
-        <seg>MAX(numero_1; numero_2; ... numero_30)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191028T160431Z" creationid="Marco Marega" creationdate="20160807T190214Z">
+        <seg>aaaaMAX(numero_1; numero_2; ... numero_30)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45272,8 +45272,8 @@
       <tuv lang="EN">
         <seg>Returns the cumulative lognormal distribution for the given&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number&lt;/f1&gt;&lt;f2&gt;, a&lt;/f2&gt; probability value.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Mean&lt;/f4&gt; is the mean value of the standard logarithmic distribution.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;STDEV&lt;/f6&gt; is the standard deviation of the standard logarithmic distribution.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191028T155450Z" creationid="Marco Marega" creationdate="20160807T190045Z">
-        <seg>aaaaRestituisce la distribuzione log-normale per un dato &lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt;&lt;f2&gt;, (un&lt;/f2&gt; valore di probabilità).&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Valore medio&lt;/f4&gt; è il valore medio della distribuzione logaritmica standard.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;DEV.ST&lt;/f6&gt; è la deviazione standard della distribuzione logaritmica standard.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191028T160430Z" creationid="Marco Marega" creationdate="20160807T190045Z">
+        <seg>Restituisce la distribuzione lognormale per un dato &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt;&lt;f2&gt;, (un&lt;/f2&gt; valore di probabilità).&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Valore medio&lt;/f4&gt; è il valore medio della distribuzione logaritmica standard.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;DEV.ST&lt;/f6&gt; è la deviazione standard della distribuzione logaritmica standard.</seg>
       </tuv>
     </tu>
     <tu>
