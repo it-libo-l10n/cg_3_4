@@ -6824,8 +6824,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;LOGINV&lt;/f0&gt;(number; mean; STDEV)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T184639Z" creationid="Marco Marega" creationdate="20160807T184639Z">
-        <seg>&lt;f0&gt;INV.LOGNORM&lt;/f0&gt;(numero; valore medio; DEV.ST)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191028T132105Z" creationid="Marco Marega" creationdate="20160807T184639Z">
+        <seg>aaaa&lt;f0&gt;INV.LOGNORM&lt;/f0&gt;(numero; valore medio; DEV.ST)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45000,8 +45000,8 @@
       <tuv lang="EN">
         <seg>Returns the Rank_c-th largest value in a data set.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Data&lt;/f1&gt; is the cell range of data.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Rank_c&lt;/f3&gt; is the ranking of the value (2nd largest, 3rd largest, etc.) written as an integer.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191028T113506Z" creationid="Marco Marega" creationdate="20160730T140409Z">
-        <seg>aaaaRestituisce il k-esimo valore più grande in un insieme di dati.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati&lt;/f1&gt; è l'intervallo di celle contenenti i dati.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;K&lt;/f3&gt; è la posizione del valore (II più grande, III più grande, ecc.) inserita come numero intero.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191028T132103Z" creationid="Marco Marega" creationdate="20160730T140409Z">
+        <seg>Restituisce il k-esimo valore più grande in un insieme di dati.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati&lt;/f1&gt; è l'intervallo di celle contenente i dati.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;K&lt;/f3&gt; è la posizione del valore (secondo più grande, terzo più grande, ecc.) inserita come numero intero.</seg>
       </tuv>
     </tu>
     <tu>
