@@ -16696,8 +16696,8 @@
       <tuv lang="EN">
         <seg>Calculates the y-value at which a line will intersect the y-axis by using known x-values and y-values.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Data_Y&lt;/f1&gt; is the dependent set of observations or data.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Data_X&lt;/f3&gt; is the independent set of observations or data.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T135512Z" creationid="Marco Marega" creationdate="20160730T135512Z">
-        <seg>Calcola il valore della y nel quale una linea interseca l'asse delle y usando dei valori noti di x ed y.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati Y&lt;/f1&gt; è l'insieme dipendente dei dati di osservazione.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Dati X&lt;/f3&gt; è l'insieme indipendente dei dati di osservazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191028T091623Z" creationid="Marco Marega" creationdate="20160730T135512Z">
+        <seg>aaaaCalcola il valore della y nel quale una linea interseca l'asse delle y usando dei valori noti di x ed y.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati Y&lt;/f1&gt; è l'insieme dipendente dei dati di osservazione.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Dati X&lt;/f3&gt; è l'insieme indipendente dei dati di osservazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31024,8 +31024,8 @@
       <tuv lang="EN">
         <seg>INTERCEPT(data_Y; data_X)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T135113Z" creationid="Marco Marega" creationdate="20160730T135113Z">
-        <seg>INTERCETTA(dati Y; dati X)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191028T091621Z" creationid="Marco Marega" creationdate="20160730T135113Z">
+        <seg>INTERCETTA(dati_Y; dati_X)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44960,8 +44960,8 @@
       <tuv lang="EN">
         <seg>Returns the &lt;f0&gt;hypergeometric&lt;/f0&gt; distribution.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;X&lt;/f2&gt; is the number of results achieved in the random sample.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;N_sample&lt;/f4&gt; is the size of the random sample.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Successes&lt;/f6&gt; is the number of possible results in the total population.&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;N_population &lt;/f8&gt;is the size of the total population.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191025T142710Z" creationid="Marco Marega" creationdate="20160730T135037Z">
-        <seg>aaaaaaaaaaaaaaRestituisce la distribuzione &lt;f0&gt;ipergeometrica&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;X&lt;/f2&gt; è il numero di risultati ottenuti nel campione casuale.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Numero_campione&lt;/f4&gt; è la dimensione del campione casuale.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Successi_popolazione&lt;/f6&gt; è il numero dei risultati possibili sul totale della popolazione.&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;Numero_popolazione&lt;/f8&gt;aaaa è la dimensione della popolazione totale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191028T091457Z" creationid="Marco Marega" creationdate="20160730T135037Z">
+        <seg>Restituisce la distribuzione &lt;f0&gt;ipergeometrica&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;X&lt;/f2&gt; è il numero di risultati ottenuti nel campione casuale.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Numero_campione&lt;/f4&gt; è la dimensione del campione casuale.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Successi_popolazione&lt;/f6&gt; è il numero dei risultati possibili sul totale della popolazione.&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;Numero_popolazione&lt;/f8&gt; è la dimensione della popolazione totale.</seg>
       </tuv>
     </tu>
     <tu>
