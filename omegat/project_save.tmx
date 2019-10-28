@@ -16696,8 +16696,8 @@
       <tuv lang="EN">
         <seg>Calculates the y-value at which a line will intersect the y-axis by using known x-values and y-values.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Data_Y&lt;/f1&gt; is the dependent set of observations or data.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Data_X&lt;/f3&gt; is the independent set of observations or data.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191028T091623Z" creationid="Marco Marega" creationdate="20160730T135512Z">
-        <seg>aaaaCalcola il valore della y nel quale una linea interseca l'asse delle y usando dei valori noti di x ed y.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati Y&lt;/f1&gt; è l'insieme dipendente dei dati di osservazione.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Dati X&lt;/f3&gt; è l'insieme indipendente dei dati di osservazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191028T094302Z" creationid="Marco Marega" creationdate="20160730T135512Z">
+        <seg>Calcola il valore y in corrispondenza di una linea che interseca l'asse y utilizzando valori x e y noti.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati_Y&lt;/f1&gt; è l'insieme dipendente di osservazioni o di dati.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Dati_X&lt;/f3&gt; è l'insieme indipendente di osservazioni o di dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36840,8 +36840,8 @@
       <tuv lang="EN">
         <seg>KURT(number_1; number_2; ... number_30)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T135748Z" creationid="Marco Marega" creationdate="20160730T135748Z">
-        <seg>CURTOSI(numero 1; numero 2; ... numero 30)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191028T094822Z" creationid="Marco Marega" creationdate="20160730T135748Z">
+        <seg>aaaaaCURTOSI(numero 1; numero 2; ... numero 30)</seg>
       </tuv>
     </tu>
     <tu>
@@ -39848,8 +39848,8 @@
       <tuv lang="EN">
         <seg>Numbers can also be entered directly.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T135651Z" creationid="Marco Marega" creationdate="20160730T135651Z">
-        <seg>I numeri si possono inserire anche direttamente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191028T094818Z" creationid="Marco Marega" creationdate="20160730T135651Z">
+        <seg>È possibile inserire i numeri anche direttamente.</seg>
       </tuv>
     </tu>
     <tu>
