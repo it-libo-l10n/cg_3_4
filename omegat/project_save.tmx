@@ -36840,8 +36840,8 @@
       <tuv lang="EN">
         <seg>KURT(number_1; number_2; ... number_30)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191028T094822Z" creationid="Marco Marega" creationdate="20160730T135748Z">
-        <seg>aaaaaCURTOSI(numero 1; numero 2; ... numero 30)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191028T111127Z" creationid="Marco Marega" creationdate="20160730T135748Z">
+        <seg>CURTOSI(numero_1; numero_2; ... numero_30)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36936,8 +36936,8 @@
       <tuv lang="EN">
         <seg>LARGE(data; rank_c)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T140042Z" creationid="Marco Marega" creationdate="20160730T140042Z">
-        <seg>GRANDE(dati; k)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191028T111901Z" creationid="Marco Marega" creationdate="20160730T140042Z">
+        <seg>aaaaGRANDE(dati; k)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45752,8 +45752,8 @@
       <tuv lang="EN">
         <seg>Returns the kurtosis of a data set (at least 4 values required).&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number_1; number_2; ... number_30&lt;/f1&gt; are numerical arguments or ranges representing a random sample of distribution.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T135950Z" creationid="Marco Marega" creationdate="20160730T135950Z">
-        <seg>Restituisce la curtosi d un insieme di dati (sono richiesti almeno 4 valori).&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero 1; numero 2; ... numero 30&lt;/f1&gt; sono dei parametri numerici o intervali che rappresentano un campione di distribuzione casuale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191028T111859Z" creationid="Marco Marega" creationdate="20160730T135950Z">
+        <seg>Restituisce la curtosi di un insieme di dati (sono richiesti almeno 4 valori).&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1; numero_2; ... numero_30&lt;/f1&gt; sono argomenti o intervalli numerici che rappresentano un campione casuale della distribuzione.</seg>
       </tuv>
     </tu>
     <tu>
