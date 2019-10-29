@@ -37776,8 +37776,8 @@
       <tuv lang="EN">
         <seg>MEDIAN(number_1; number_2; ... number_30)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T190710Z" creationid="Marco Marega" creationdate="20160807T190710Z">
-        <seg>MEDIANA(numero_1; numero_2; ... numero_30)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191029T081513Z" creationid="Marco Marega" creationdate="20160807T190710Z">
+        <seg>aaaaMEDIANA(numero_1; numero_2; ... numero_30)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45800,8 +45800,8 @@
       <tuv lang="EN">
         <seg>Returns the maximum value in a list of arguments.&lt;f0&gt; &lt;/f0&gt;Unlike MAX, text can be entered.&lt;f1&gt; &lt;/f1&gt;The value of the text is 0.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Value_1; value_2; ... value_30&lt;/f3&gt; &lt;f4&gt;are values or ranges.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191029T080500Z" creationid="Marco Marega" creationdate="20160807T190639Z">
-        <seg>aaaaRestituisce il valore massimo di una lista di parametri.&lt;f0&gt; &lt;/f0&gt;A differenza di MAX, può essere inserito anche del testo.&lt;f1&gt; &lt;/f1&gt;I valori di testo equivalgono a 0.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Valore_1; valore_2; ... valore_30&lt;/f3&gt; &lt;f4&gt;sono valori o intervalli.&lt;/f4&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191029T081511Z" creationid="Marco Marega" creationdate="20160807T190639Z">
+        <seg>Restituisce il valore massimo di un elenco di argomenti.&lt;f0&gt; &lt;/f0&gt;A differenza di MAX, è anche possibile inserire del testo.&lt;f1&gt; &lt;/f1&gt;Il testo viene considerato come avente valore 0.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Valore_1; valore_2; ... valore_30&lt;/f3&gt; &lt;f4&gt;sono valori o intervalli.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
