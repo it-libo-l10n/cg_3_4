@@ -22848,8 +22848,8 @@
       <tuv lang="EN">
         <seg>Each number can also be replaced by a reference.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160726T200604Z" creationid="Marco Marega" creationdate="20160726T200604Z">
-        <seg>Ogni numero può essere sostituito con un riferimento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191030T151735Z" creationid="Marco Marega" creationdate="20160726T200604Z">
+        <seg>Ogni numero può essere sostituito da un riferimento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37808,8 +37808,8 @@
       <tuv lang="EN">
         <seg>MIN(number_1; number_2; ... number_30)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T190833Z" creationid="Marco Marega" creationdate="20160807T190833Z">
-        <seg>MIN(Numero_1; numero_2; ... numero_30)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191030T151737Z" creationid="Marco Marega" creationdate="20160807T190833Z">
+        <seg>aaaaMIN(Numero_1; numero_2; ... numero_30)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45816,8 +45816,8 @@
       <tuv lang="EN">
         <seg>Returns the median of a set of numbers.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number_1; number_2; ... number_30&lt;/f1&gt; are values or ranges, which represent a sample.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191030T141914Z" creationid="Marco Marega" creationdate="20160807T190813Z">
-        <seg>aaaaRestituisce la mediana di un insieme di numeri.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1; numero_2; ... numero_30&lt;/f1&gt; sono i valori o gli intervalli che rappresentano un campione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191030T151634Z" creationid="Marco Marega" creationdate="20160807T190813Z">
+        <seg>Restituisce la mediana di un insieme di numeri.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1; numero_2; ... numero_30&lt;/f1&gt; sono valori o intervalli che rappresentano un campione.</seg>
       </tuv>
     </tu>
     <tu>
