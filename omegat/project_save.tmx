@@ -37776,8 +37776,8 @@
       <tuv lang="EN">
         <seg>MEDIAN(number_1; number_2; ... number_30)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191029T114939Z" creationid="Marco Marega" creationdate="20160807T190710Z">
-        <seg>aaaaaaaaaaaaaaaaMEDIANA(numero_1; numero_2; ... numero_30)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191030T141912Z" creationid="Marco Marega" creationdate="20160807T190710Z">
+        <seg>MEDIANA(numero_1; numero_2; ... numero_30)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45816,8 +45816,8 @@
       <tuv lang="EN">
         <seg>Returns the median of a set of numbers.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number_1; number_2; ... number_30&lt;/f1&gt; are values or ranges, which represent a sample.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T190813Z" creationid="Marco Marega" creationdate="20160807T190813Z">
-        <seg>Restituisce la mediana di un insieme di numeri.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1; numero_2; ... numero_30&lt;/f1&gt; sono i valori o gli intervalli che rappresentano un campione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191030T141914Z" creationid="Marco Marega" creationdate="20160807T190813Z">
+        <seg>aaaaRestituisce la mediana di un insieme di numeri.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1; numero_2; ... numero_30&lt;/f1&gt; sono i valori o gli intervalli che rappresentano un campione.</seg>
       </tuv>
     </tu>
     <tu>
