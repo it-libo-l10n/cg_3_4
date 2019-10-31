@@ -37824,7 +37824,7 @@
       <tuv lang="EN">
         <seg>MINA(value_1; value_2; ... value_30)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T191003Z" creationid="Marco Marega" creationdate="20160807T191003Z">
+      <tuv lang="IT-IT" changeid="luke" changedate="20191031T152625Z" creationid="Marco Marega" creationdate="20160807T191003Z">
         <seg>MIN.VALORI(valore_1; valore_2; ... valore_30)</seg>
       </tuv>
     </tu>
@@ -45080,8 +45080,8 @@
       <tuv lang="EN">
         <seg>Returns the average of the arguments.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number_1; number_2; ... number_30&lt;/f1&gt; are numerical values or ranges.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191008T082958Z" creationid="Marco Marega" creationdate="20160726T200720Z">
-        <seg>Restituisce la media degli argomenti.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1; numero_2; ... numero_30&lt;/f1&gt; sono valori numerici o intervalli.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191031T145722Z" creationid="Marco Marega" creationdate="20160726T200720Z">
+        <seg>Restituisce la media degli argomenti.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1; numero_2; ... numero_30&lt;/f1&gt; sono valori o intervalli numerici.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45832,16 +45832,16 @@
       <tuv lang="EN">
         <seg>Returns the minimum value in a list of arguments.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number_1; number_2; ... number_30&lt;/f1&gt; are numerical values or ranges.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191031T112858Z" creationid="Marco Marega" creationdate="20160807T190938Z">
-        <seg>aaaaRestituisce il valore minimo di una lista di parametri.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1; numero_2; ... numero_30&lt;/f1&gt; sono valori numerici o intervalli.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191031T145610Z" creationid="Marco Marega" creationdate="20160807T190938Z">
+        <seg>Restituisce il valore minimo di un elenco di argomenti.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1; numero_2; ... numero_30&lt;/f1&gt; sono valori o intervalli numerici.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Returns the minimum value in a list of arguments.&lt;f0&gt; &lt;/f0&gt;Here text can also be entered.&lt;f1&gt; &lt;/f1&gt;The value of the text is 0.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Value_1; value_2; ... value_30&lt;/f3&gt; are values or ranges.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T191147Z" creationid="Marco Marega" creationdate="20160807T191147Z">
-        <seg>Restituisce il valore massimo di una lista di parametri.&lt;f0&gt; &lt;/f0&gt;Qui è possibile inserire anche del testo.&lt;f1&gt; &lt;/f1&gt;I valori di testo equivalgono a 0.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Valore_1; valore_2; ... valore_30&lt;/f3&gt; sono valori o intervalli.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191031T152628Z" creationid="Marco Marega" creationdate="20160807T191147Z">
+        <seg>aaaaRestituisce il valore massimo di una lista di parametri.&lt;f0&gt; &lt;/f0&gt;Qui è possibile inserire anche del testo.&lt;f1&gt; &lt;/f1&gt;I valori di testo equivalgono a 0.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Valore_1; valore_2; ... valore_30&lt;/f3&gt; sono valori o intervalli.</seg>
       </tuv>
     </tu>
     <tu>
