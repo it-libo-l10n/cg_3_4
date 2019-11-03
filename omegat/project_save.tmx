@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7096,8 +7096,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;NEGBINOMDIST&lt;/f0&gt;(X; R; SP)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T192314Z" creationid="Marco Marega" creationdate="20160807T191912Z">
-        <seg>&lt;f0&gt;DISTRIB.BINOM.NEG&lt;/f0&gt;(X; R; Probabilità)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191103T121330Z" creationid="Marco Marega" creationdate="20160807T191912Z">
+        <seg>aaaa&lt;f0&gt;DISTRIB.BINOM.NEG&lt;/f0&gt;(X; R; Probabilità)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10056,8 +10056,8 @@
       <tuv lang="EN">
         <seg>&lt;s2/&gt;If several values have the same frequency, it returns the smallest value.&lt;f3&gt; &lt;/f3&gt;An error occurs when a value does not appear twice.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T191841Z" creationid="Marco Marega" creationdate="20160807T191841Z">
-        <seg>&lt;s2/&gt;Se più valori hanno la stessa frequenza, viene restituito il valore più basso.&lt;f3&gt; &lt;/f3&gt;Se nessun valore appare almeno due volte, viene generato un errore.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191103T121327Z" creationid="Marco Marega" creationdate="20160807T191841Z">
+        <seg>&lt;s2/&gt;Se più valori hanno la stessa frequenza, viene restituito il valore più piccolo.&lt;f3&gt; &lt;/f3&gt;Se nessun valore appare almeno due volte viene generato un errore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45864,8 +45864,8 @@
       <tuv lang="EN">
         <seg>Returns the most common value in a data set.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number_1; number_2; ... number_30&lt;/f1&gt; are numerical values or ranges.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191031T165927Z" creationid="Marco Marega" creationdate="20160807T191315Z">
-        <seg>aaaaaaaaaaaaaaaaRestituisce il valore più presente in un insieme di dati.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1; numero_2; ... numero_30&lt;/f1&gt; sono valori numerici o intervalli.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191103T121015Z" creationid="Marco Marega" creationdate="20160807T191315Z">
+        <seg>Restituisce il valore più ricorrente in un insieme di dati.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1; numero_2; ... numero_30&lt;/f1&gt; sono valori o intervalli numerici.</seg>
       </tuv>
     </tu>
     <tu>
