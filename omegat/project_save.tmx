@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7096,8 +7096,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;NEGBINOMDIST&lt;/f0&gt;(X; R; SP)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191103T140210Z" creationid="Marco Marega" creationdate="20160807T191912Z">
-        <seg>aaaaaaaaaaaaaaaa&lt;f0&gt;DISTRIB.BINOM.NEG&lt;/f0&gt;(X; R; Probabilità)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191104T134154Z" creationid="Marco Marega" creationdate="20160807T191912Z">
+        <seg>&lt;f0&gt;DISTRIB.BINOM.NEG&lt;/f0&gt;(X; R; Probabilità)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45896,8 +45896,8 @@
       <tuv lang="EN">
         <seg>Returns the negative binomial distribution.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;X&lt;/f1&gt; is the value returned for unsuccessful tests.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;R&lt;/f3&gt; is the value returned for successful tests.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;SP&lt;/f5&gt; is the probability of the success of an attempt.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T192626Z" creationid="Marco Marega" creationdate="20160807T192626Z">
-        <seg>Restituisce la distribuzione binomiale negativa.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;X&lt;/f1&gt; è il numero restituito per i tentativi falliti.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;R&lt;/f3&gt; è il valore restituito per i tentativi riusciti.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Probabilità&lt;/f5&gt; è la probabilità di successo di un tentativo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191104T134156Z" creationid="Marco Marega" creationdate="20160807T192626Z">
+        <seg>aaaaRestituisce la distribuzione binomiale negativa.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;X&lt;/f1&gt; è il numero restituito per i tentativi falliti.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;R&lt;/f3&gt; è il valore restituito per i tentativi riusciti.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Probabilità&lt;/f5&gt; è la probabilità di successo di un tentativo.</seg>
       </tuv>
     </tu>
     <tu>
