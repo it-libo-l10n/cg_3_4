@@ -45696,8 +45696,8 @@
       <tuv lang="EN">
         <seg>Returns the inverse of the normal distribution for the given&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number&lt;/f1&gt; in the distribution.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Mean&lt;/f3&gt; is the mean value in the normal distribution.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;STDEV&lt;/f5&gt; is the standard deviation of the normal distribution.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191104T164814Z" creationid="Marco Marega" creationdate="20160807T193223Z">
-        <seg>aaaaaaaaaaaaaaaaRestituisce l'inverso della distribuzione normale di un dato&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; nella distribuzione.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Valore medio&lt;/f3&gt; è il valore medio della distribuzione normale.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;DEV.ST&lt;/f5&gt; è la deviazione standard della distribuzione normale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191112T140654Z" creationid="Marco Marega" creationdate="20160807T193223Z">
+        <seg>Restituisce l'inverso della distribuzione normale per il &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;numero&lt;/f1&gt; dato nella distribuzione.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Media&lt;/f3&gt; è il valore medio della distribuzione normale.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;DEV.ST&lt;/f5&gt; è la deviazione standard della distribuzione normale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46360,8 +46360,8 @@
       <tuv lang="EN">
         <seg>Returns the standard normal cumulative distribution for the given&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T193722Z" creationid="Marco Marega" creationdate="20160807T193440Z">
-        <seg>Restituisce la distribuzione normale standard cumulata di un dato&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191112T141255Z" creationid="Marco Marega" creationdate="20160807T193440Z">
+        <seg>aaaaRestituisce la distribuzione normale standard cumulata di un dato&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
