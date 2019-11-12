@@ -41832,8 +41832,8 @@
       <tuv lang="EN">
         <seg>PERCENTILE(data; alpha)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160813T132440Z" creationid="Marco Marega" creationdate="20160813T132440Z">
-        <seg>PERCENTILE(dati; alfa)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191112T162643Z" creationid="Marco Marega" creationdate="20160813T132440Z">
+        <seg>aaaaPERCENTILE(dati; alfa)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44984,8 +44984,8 @@
       <tuv lang="EN">
         <seg>Returns the Pearson product moment correlation coefficient r.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Data_1&lt;/f1&gt; is the array of the first data set.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Data_2&lt;/f3&gt; is the array of the second data set.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191112T161837Z" creationid="Marco Marega" creationdate="20160813T132431Z">
-        <seg>aaaaRestituisce l'indice r di correlazione prodotto-momento di Pearson.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati 1&lt;/f1&gt; è la matrice del primo insieme di dati.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Dati 2&lt;/f3&gt; è la matrice del secondo insieme di dati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191112T162640Z" creationid="Marco Marega" creationdate="20160813T132431Z">
+        <seg>Restituisce il coefficiente di correlazione prodotto-momento di Pearson (r).&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati_1&lt;/f1&gt; è la matrice del primo insieme di dati.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Dati_2&lt;/f3&gt; è la matrice del secondo insieme di dati.</seg>
       </tuv>
     </tu>
     <tu>
