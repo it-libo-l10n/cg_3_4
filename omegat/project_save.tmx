@@ -7136,8 +7136,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;NORMSINV&lt;/f0&gt;(number)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160807T193940Z" creationid="Marco Marega" creationdate="20160807T193940Z">
-        <seg>&lt;f0&gt;INV..NORM.ST&lt;/f0&gt;(numero)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191112T143057Z" creationid="Marco Marega" creationdate="20160807T193940Z">
+        <seg>aaaa&lt;f0&gt;INV.NORM.ST&lt;/f0&gt;(numero)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46360,8 +46360,8 @@
       <tuv lang="EN">
         <seg>Returns the standard normal cumulative distribution for the given&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191112T141255Z" creationid="Marco Marega" creationdate="20160807T193440Z">
-        <seg>aaaaRestituisce la distribuzione normale standard cumulata di un dato&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191112T143055Z" creationid="Marco Marega" creationdate="20160807T193440Z">
+        <seg>Restituisce la distribuzione normale standard cumulata per il &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;numero&lt;/f1&gt; dato.</seg>
       </tuv>
     </tu>
     <tu>
