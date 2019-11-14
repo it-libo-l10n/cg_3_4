@@ -41864,8 +41864,8 @@
       <tuv lang="EN">
         <seg>POISSON(number; mean; C)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191114T143130Z" creationid="Marco Marega" creationdate="20160813T134028Z">
-        <seg>aaaaPOISSON(numero; valore medio; cumulativo)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191114T143446Z" creationid="Marco Marega" creationdate="20160813T134028Z">
+        <seg>POISSON(numero; valore medio; cumulativo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44992,8 +44992,8 @@
       <tuv lang="EN">
         <seg>Returns the Poisson distribution for the given&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number&lt;/f1&gt;.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Mean&lt;/f3&gt; is the middle value of the Poisson distribution.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;C&lt;/f5&gt; = 0 calculates the density function, and &lt;f6&gt;C&lt;/f6&gt; = 1 calculates the distribution.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160813T134910Z" creationid="Marco Marega" creationdate="20160813T134910Z">
-        <seg>Restituisce la distribuzione di Poisson per un dato &lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt;.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Valore medio&lt;/f3&gt; è il valore medio della distribuzione di Poisson.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Cumulativo&lt;/f5&gt; = 0 calcola la densità, e &lt;f6&gt;Cumulativo&lt;/f6&gt; = 1 calcola la distribuzione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191114T143449Z" creationid="Marco Marega" creationdate="20160813T134910Z">
+        <seg>aaaaRestituisce la distribuzione di Poisson per un dato &lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt;.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Valore medio&lt;/f3&gt; è il valore medio della distribuzione di Poisson.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Cumulativo&lt;/f5&gt; = 0 calcola la densità, e &lt;f6&gt;Cumulativo&lt;/f6&gt; = 1 calcola la distribuzione.</seg>
       </tuv>
     </tu>
     <tu>
