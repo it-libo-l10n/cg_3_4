@@ -7488,8 +7488,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;PERMUTATIONA&lt;/f0&gt;(count_1; count_2)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160813T133240Z" creationid="Marco Marega" creationdate="20160813T133141Z">
-        <seg>&lt;f0&gt;PERMUTAZIONE.VALORI&lt;/f0&gt;(numero 1; numero 2)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191114T113523Z" creationid="Marco Marega" creationdate="20160813T133141Z">
+        <seg>aaaa&lt;f0&gt;PERMUTAZIONE.VALORI&lt;/f0&gt;(numero 1; numero 2)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46040,8 +46040,8 @@
       <tuv lang="EN">
         <seg>Returns the number of permutations for a given number of objects.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Count_1&lt;/f1&gt; is the total number of objects.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Count_2&lt;/f3&gt; is the number of objects in each permutation.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191114T094655Z" creationid="Marco Marega" creationdate="20160813T133136Z">
-        <seg>aaaaRestituisce il numero di permutazioni per un determinato numero di oggetti.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero 1&lt;/f1&gt; è il numero complessivo di oggetti.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Numero 2&lt;/f3&gt; è il numero di oggetti in ciascuna permutazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191114T113521Z" creationid="Marco Marega" creationdate="20160813T133136Z">
+        <seg>Restituisce il numero di permutazioni per un dato numero di oggetti.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1&lt;/f1&gt; è il numero complessivo di oggetti.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Numero_2&lt;/f3&gt; è il numero di oggetti in ciascuna permutazione.</seg>
       </tuv>
     </tu>
     <tu>
