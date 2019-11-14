@@ -7480,8 +7480,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;PERMUT&lt;/f0&gt;(count_1; count_2)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160813T132951Z" creationid="Marco Marega" creationdate="20160813T132951Z">
-        <seg>&lt;f0&gt;PERMUTAZIONE&lt;/f0&gt;(numero 1; numero 2)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191114T085231Z" creationid="Marco Marega" creationdate="20160813T132951Z">
+        <seg>aaaa&lt;f0&gt;PERMUTAZIONE&lt;/f0&gt;(numero 1; numero 2)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46096,8 +46096,8 @@
       <tuv lang="EN">
         <seg>Returns the percentage rank (percentile) of the given &lt;f0&gt;value&lt;/f0&gt; in a sample.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Data&lt;/f2&gt; is the array of data in the sample.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191114T082309Z" creationid="Marco Marega" creationdate="20160813T132910Z">
-        <seg>aaaaRestituisce il rango percentuale (percentile) di un dato &lt;f0&gt;valore&lt;/f0&gt; all'interno di un campione.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Dati&lt;/f2&gt; è la matrice di dati del campione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191114T085229Z" creationid="Marco Marega" creationdate="20160813T132910Z">
+        <seg>Restituisce il rango percentuale (percentile) di un dato &lt;f0&gt;valore&lt;/f0&gt; in un campione.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Dati&lt;/f2&gt; è la matrice dei dati nel campione.</seg>
       </tuv>
     </tu>
     <tu>
