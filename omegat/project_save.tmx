@@ -41904,8 +41904,8 @@
       <tuv lang="EN">
         <seg>PROB(data; probability: start; end)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191115T103116Z" creationid="Marco Marega" creationdate="20160813T135530Z">
-        <seg>aaaaPROBABILITÀ(dati; probabilità: inizio; fine)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191115T142814Z" creationid="Marco Marega" creationdate="20160813T135530Z">
+        <seg>PROBABILITÀ(dati; probabilità; inizio; fine)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46160,8 +46160,8 @@
       <tuv lang="EN">
         <seg>Returns the probability that values in a range are between two limits.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Data&lt;/f1&gt; is the array or range of data in the sample.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Probability&lt;/f3&gt; is the array or range of the corresponding probabilities.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Start&lt;/f5&gt; is the start value of the interval whose probabilities are to be summed.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;End&lt;/f7&gt; (optional) is the end value of the interval whose probabilities are to be summed.&lt;f8&gt; &lt;/f8&gt;If this parameter is missing, the probability for the &lt;f9&gt;Start &lt;/f9&gt;value is calculated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160813T140311Z" creationid="Marco Marega" creationdate="20160813T140311Z">
-        <seg>Restituisce la probabilità che i valori di un intervallo siano compresi tra due limiti.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati&lt;/f1&gt; è la matrice o l'intervallo di dati nel campione.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Probabilità&lt;/f3&gt; è la matrice o l'intervallo delle probabilità corrispondenti.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Inizio&lt;/f5&gt; è il valore iniziale dell'intervallo le cui probabilità devono essere sommate.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Fine&lt;/f7&gt; (facoltativo) è il valore finale dell'intervallo le cui probabilità devono essere sommate.&lt;f8&gt; &lt;/f8&gt;Se questo parametro non viene inserito, viene calcolata la probabilità del valore di &lt;f9&gt;Inizio&lt;/f9&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191115T142816Z" creationid="Marco Marega" creationdate="20160813T140311Z">
+        <seg>aaaaRestituisce la probabilità che i valori di un intervallo siano compresi tra due limiti.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati&lt;/f1&gt; è la matrice o l'intervallo di dati nel campione.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Probabilità&lt;/f3&gt; è la matrice o l'intervallo delle probabilità corrispondenti.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Inizio&lt;/f5&gt; è il valore iniziale dell'intervallo le cui probabilità devono essere sommate.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Fine&lt;/f7&gt; (facoltativo) è il valore finale dell'intervallo le cui probabilità devono essere sommate.&lt;f8&gt; &lt;/f8&gt;Se questo parametro non viene inserito, viene calcolata la probabilità del valore di &lt;f9&gt;Inizio&lt;/f9&gt;.</seg>
       </tuv>
     </tu>
     <tu>
