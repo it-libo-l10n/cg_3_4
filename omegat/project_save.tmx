@@ -4576,8 +4576,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Data_Y&lt;/f2&gt; is the array or matrix of Y data.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Data_X&lt;/f4&gt; is the array or matrix of X data.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160815T125846Z" creationid="Marco Marega" creationdate="20160815T125846Z">
-        <seg>&lt;f0&gt;&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Dati Y&lt;/f2&gt; è la serie o la matrice dei dati delle Y.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Dati X&lt;/f4&gt; è la serie o la matrice dei dati delle X.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191118T163404Z" creationid="Marco Marega" creationdate="20160815T125846Z">
+        <seg>aaaa&lt;f0&gt;&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;Dati Y&lt;/f2&gt; è la serie o la matrice dei dati delle Y.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Dati X&lt;/f4&gt; è la serie o la matrice dei dati delle X.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46304,8 +46304,8 @@
       <tuv lang="EN">
         <seg>Returns the slope of the linear regression line.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160815T125721Z" creationid="Marco Marega" creationdate="20160815T125721Z">
-        <seg>Restituisce la pendenza della retta della regressione lineare.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191118T163359Z" creationid="Marco Marega" creationdate="20160815T125721Z">
+        <seg>Restituisce la pendenza della retta di regressione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46976,8 +46976,8 @@
       <tuv lang="EN">
         <seg>SLOPE(data_Y; data_X)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191118T130432Z" creationid="Marco Marega" creationdate="20160815T125639Z">
-        <seg>aaaaPENDENZA(dati Y; dati X)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191118T163044Z" creationid="Marco Marega" creationdate="20160815T125639Z">
+        <seg>PENDENZA(dati_Y; dati_X)</seg>
       </tuv>
     </tu>
     <tu>
