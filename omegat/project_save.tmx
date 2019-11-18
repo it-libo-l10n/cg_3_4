@@ -7616,8 +7616,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;RSQ&lt;/f0&gt;(data_Y; data_X)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160813T142351Z" creationid="Marco Marega" creationdate="20160813T142351Z">
-        <seg>&lt;f0&gt;RQ&lt;/f0&gt;(dati Y; dati X)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191118T090304Z" creationid="Marco Marega" creationdate="20160813T142351Z">
+        <seg>aaaa&lt;f0&gt;RQ&lt;/f0&gt;(dati Y; dati X)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46192,8 +46192,8 @@
       <tuv lang="EN">
         <seg>Returns the rank of the given &lt;f0&gt;Value&lt;/f0&gt; in a sample.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Data&lt;/f2&gt; is the array or range of data in the sample.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Type&lt;/f4&gt; (optional) is the sequence order, either ascending (0) or descending (1).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191118T084317Z" creationid="Marco Marega" creationdate="20160813T142254Z">
-        <seg>aaaaRestituisce il rango di un dato &lt;f0&gt;Valore&lt;/f0&gt; in un campione.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Dati&lt;/f2&gt; è la matrice o l'intervallo di dati nel campione.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Tipo&lt;/f4&gt; (facoltativo) è l'ordine della sequenza, sia ascendente (0) o discendente (1).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191118T090301Z" creationid="Marco Marega" creationdate="20160813T142254Z">
+        <seg>Restituisce il rango di un dato &lt;f0&gt;Valore&lt;/f0&gt; in un campione.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Dati&lt;/f2&gt; è la matrice o l'intervallo di dati nel campione.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Tipo&lt;/f4&gt; (facoltativo) è l'ordine della sequenza, ascendente (0) o discendente (1).</seg>
       </tuv>
     </tu>
     <tu>
