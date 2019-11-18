@@ -46320,8 +46320,8 @@
       <tuv lang="EN">
         <seg>Returns the square of the Pearson correlation coefficient based on the given values.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Data_Y&lt;/f1&gt; is an array or range of data points.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Data_X&lt;/f3&gt; is an array or range of data points.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191118T092449Z" creationid="Marco Marega" creationdate="20160813T142545Z">
-        <seg>aaaaRestituisce il quadrato dell'indice di correlazione di Pearson in base ai valori dati.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati Y&lt;/f1&gt; è una matrice o un intervallo di dati.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Dati X&lt;/f3&gt;  è una matrice o un intervallo di dati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191118T102030Z" creationid="Marco Marega" creationdate="20160813T142545Z">
+        <seg>Restituisce il quadrato del coefficiente di correlazione di Pearson in base ai valori dati.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati_Y&lt;/f1&gt; è una matrice o un intervallo di punti di dati.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Dati_X&lt;/f3&gt; è una matrice o un intervallo di punti di dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46968,8 +46968,8 @@
       <tuv lang="EN">
         <seg>SKEW(number_1; number_2; ... number_30)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160813T142820Z" creationid="Marco Marega" creationdate="20160813T142634Z">
-        <seg>ASIMMETRIA(numero 1; numero 2; ... numero 30)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191118T102033Z" creationid="Marco Marega" creationdate="20160813T142634Z">
+        <seg>aaaaASIMMETRIA(numero 1; numero 2; ... numero 30)</seg>
       </tuv>
     </tu>
     <tu>
