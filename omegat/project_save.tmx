@@ -7616,8 +7616,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;RSQ&lt;/f0&gt;(data_Y; data_X)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191118T090304Z" creationid="Marco Marega" creationdate="20160813T142351Z">
-        <seg>aaaa&lt;f0&gt;RQ&lt;/f0&gt;(dati Y; dati X)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191118T092445Z" creationid="Marco Marega" creationdate="20160813T142351Z">
+        <seg>&lt;f0&gt;RQ&lt;/f0&gt;(dati_Y; dati_X)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46320,8 +46320,8 @@
       <tuv lang="EN">
         <seg>Returns the square of the Pearson correlation coefficient based on the given values.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Data_Y&lt;/f1&gt; is an array or range of data points.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Data_X&lt;/f3&gt; is an array or range of data points.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160813T142545Z" creationid="Marco Marega" creationdate="20160813T142545Z">
-        <seg>Restituisce il quadrato dell'indice di correlazione di Pearson in base ai valori dati.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati Y&lt;/f1&gt; è una matrice o un intervallo di dati.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Dati X&lt;/f3&gt;  è una matrice o un intervallo di dati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191118T092449Z" creationid="Marco Marega" creationdate="20160813T142545Z">
+        <seg>aaaaRestituisce il quadrato dell'indice di correlazione di Pearson in base ai valori dati.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati Y&lt;/f1&gt; è una matrice o un intervallo di dati.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Dati X&lt;/f3&gt;  è una matrice o un intervallo di dati.</seg>
       </tuv>
     </tu>
     <tu>
