@@ -224,8 +224,8 @@
       <tuv lang="EN">
         <seg>(0 = Min, 1 = 25%, 2 = 50% (Median), 3 = 75% and 4 = Max.)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160813T141926Z" creationid="Marco Marega" creationdate="20160813T141926Z">
-        <seg>(0 = Min, 1 = 25%, 2 = 50% (Mediana), 3 = 75% e 4 = Max.)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191118T082424Z" creationid="Marco Marega" creationdate="20160813T141926Z">
+        <seg>aaaa(0 = Min, 1 = 25%, 2 = 50% (Mediana), 3 = 75% e 4 = Max.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46184,8 +46184,8 @@
       <tuv lang="EN">
         <seg>Returns the quartile of a data set.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Data&lt;/f1&gt; is the array of data in the sample.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Type&lt;/f3&gt; is the type of quartile.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191118T080156Z" creationid="Marco Marega" creationdate="20160813T141818Z">
-        <seg>aaaaRestituisce il quartile di un insieme di dati.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati&lt;/f1&gt; è la matrice dei dati nel campione.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Tipo&lt;/f3&gt; è il tipo del quartile.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191118T082421Z" creationid="Marco Marega" creationdate="20160813T141818Z">
+        <seg>Restituisce il quartile di un insieme di dati.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati&lt;/f1&gt; è la matrice dei dati nel campione.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Tipo&lt;/f3&gt; è il tipo del quartile.</seg>
       </tuv>
     </tu>
     <tu>
