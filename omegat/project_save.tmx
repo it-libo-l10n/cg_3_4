@@ -7816,8 +7816,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;STDEVP&lt;/f0&gt;(number_1; number_2; ... number_30)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160815T133434Z" creationid="Marco Marega" creationdate="20160815T133213Z">
-        <seg>&lt;f0&gt;DEV.ST.POP&lt;/f0&gt;(numero 1; numero 2; ... numero 30)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191119T163714Z" creationid="Marco Marega" creationdate="20160815T133213Z">
+        <seg>aaaa&lt;f0&gt;DEV.ST.POP&lt;/f0&gt;(numero 1; numero 2; ... numero 30)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16640,8 +16640,8 @@
       <tuv lang="EN">
         <seg>Calculates the standard deviation of an estimation based on a sample.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Value_1; value_2; ... value_30&lt;/f1&gt; are values or ranges representing a sample derived from an entire population.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191119T160147Z" creationid="Marco Marega" creationdate="20160815T133100Z">
-        <seg>aaaaCalcola la deviazione standard di una stima basata su di un campione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Valore 1; valore 2; ... valore 30&lt;/f1&gt; sono valori o intervalli che rappresentano un campione estratto dall'intera popolazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191119T162953Z" creationid="Marco Marega" creationdate="20160815T133100Z">
+        <seg>Calcola la deviazione standard di una stima sulla base di un campione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Valore_1; valore_2; ... valore_30&lt;/f1&gt; sono valori o intervalli che rappresentano un campione estratto dall'intera popolazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52192,8 +52192,8 @@
       <tuv lang="EN">
         <seg>Text has the value 0.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160815T133142Z" creationid="Marco Marega" creationdate="20160815T133142Z">
-        <seg>Il valore dei testi è pari a 0.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191119T163712Z" creationid="Marco Marega" creationdate="20160815T133142Z">
+        <seg>Il testo viene considerato come avente valore 0.</seg>
       </tuv>
     </tu>
     <tu>
