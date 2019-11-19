@@ -45008,8 +45008,8 @@
       <tuv lang="EN">
         <seg>Returns the Rank_c-th smallest value in a data set.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Data&lt;/f1&gt; is the cell range of data.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Rank_c&lt;/f3&gt; is the rank of the value (2nd&lt;f4&gt; &lt;/f4&gt;smallest, 3rd smallest, etc.) written as an integer.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160815T130242Z" creationid="Marco Marega" creationdate="20160815T130242Z">
-        <seg>Restituisce il k-esimo valore più piccolo in un insieme di dati.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati&lt;/f1&gt; è l'intervallo di celle contentente i dati.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;K&lt;/f3&gt; è il rango del valore (secondo&lt;f4&gt; &lt;/f4&gt;, terzo più piccolo, ecc.) scritto come intero.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191119T104214Z" creationid="Marco Marega" creationdate="20160815T130242Z">
+        <seg>Restituisce il k-esimo valore più piccolo in un insieme di dati.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati&lt;/f1&gt; è l'intervallo di celle contenente i dati.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;K&lt;/f3&gt; è la posizione del valore (secondo&lt;f4&gt; &lt;/f4&gt;più piccolo, terzo più piccolo, ecc.) scritto come intero.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46984,8 +46984,8 @@
       <tuv lang="EN">
         <seg>SMALL(data; rank_c)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191119T081729Z" creationid="Marco Marega" creationdate="20160815T125926Z">
-        <seg>aaaaPICCOLO(dati; K)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191119T103251Z" creationid="Marco Marega" creationdate="20160815T125926Z">
+        <seg>PICCOLO(dati; K)</seg>
       </tuv>
     </tu>
     <tu>
@@ -47008,8 +47008,8 @@
       <tuv lang="EN">
         <seg>STANDARDIZE(number; mean; STDEV)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160815T130405Z" creationid="Marco Marega" creationdate="20160815T130405Z">
-        <seg>NORMALIZZA(numero; valore medio; DEV.ST)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191119T104217Z" creationid="Marco Marega" creationdate="20160815T130405Z">
+        <seg>aaaaNORMALIZZA(numero; valore medio; DEV.ST)</seg>
       </tuv>
     </tu>
     <tu>
