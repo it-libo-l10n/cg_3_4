@@ -8120,8 +8120,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;TDIST&lt;/f0&gt;(number; degrees_freedom; mode)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160815T151130Z" creationid="Marco Marega" creationdate="20160815T151130Z">
-        <seg>&lt;f0&gt;DISTRIB.T&lt;/f0&gt;(numero; gradi libertà; cumulativo)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191121T161332Z" creationid="Marco Marega" creationdate="20160815T151130Z">
+        <seg>aaaa&lt;f0&gt;DISTRIB.T&lt;/f0&gt;(numero; gradi libertà; cumulativo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46344,8 +46344,8 @@
       <tuv lang="EN">
         <seg>Returns the standard error of the predicted y value for each x in the regression.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Data_Y&lt;/f1&gt; is the array or matrix of Y data.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Data_X&lt;/f3&gt; is the array or matrix of X data.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160815T150952Z" creationid="Marco Marega" creationdate="20160815T150952Z">
-        <seg>Restituisce l'errore standard del valore y predetto per ciascuna x nella regressione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati Y&lt;/f1&gt; è la serie o la matrice dei dati delle Y.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Dati X&lt;/f3&gt; è la serie o la matrice dei dati delle X.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191121T161329Z" creationid="Marco Marega" creationdate="20160815T150952Z">
+        <seg>Restituisce l'errore standard del valore y predetto per ciascuna x nella regressione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati_Y&lt;/f1&gt; è la matrice dei dati delle Y.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Dati_X&lt;/f3&gt; è la matrice dei dati delle X.</seg>
       </tuv>
     </tu>
     <tu>
