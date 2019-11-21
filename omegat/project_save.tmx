@@ -7824,16 +7824,16 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;STDEVPA&lt;/f0&gt;(value_1; value_2; ... value_30)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191121T093001Z" creationid="Marco Marega" creationdate="20160815T133506Z">
-        <seg>aaaa&lt;f0&gt;DEV.ST.POP.VALORI&lt;/f0&gt;(valore 1; valore 2; ... valore 30)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191121T103849Z" creationid="Marco Marega" creationdate="20160815T133506Z">
+        <seg>&lt;f0&gt;DEV.ST.POP.VALORI&lt;/f0&gt;(valore_1; valore_2; ... valore_30)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;STEYX&lt;/f0&gt;(data_Y; data_X)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160815T150737Z" creationid="Marco Marega" creationdate="20160815T150737Z">
-        <seg>&lt;f0&gt;ERR.STD.YX&lt;/f0&gt;(dati Y; dati X)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191121T104249Z" creationid="Marco Marega" creationdate="20160815T150737Z">
+        <seg>aaaa&lt;f0&gt;ERR.STD.YX&lt;/f0&gt;(dati Y; dati X)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16616,8 +16616,8 @@
       <tuv lang="EN">
         <seg>Calculates the standard deviation based on the entire population.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Value_1; value_2; ... value_30&lt;/f1&gt; are values or ranges representing a sample derived from an entire population.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160815T133608Z" creationid="Marco Marega" creationdate="20160815T133608Z">
-        <seg>Calcola la deviazione standard basandosi sull'intera popolazione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Valore 1; valore 2; ... valore 30&lt;/f1&gt; sono valori o intervalli che rappresentano un campione rappresentativo dell'intera popolazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191121T104233Z" creationid="Marco Marega" creationdate="20160815T133608Z">
+        <seg>Calcola la deviazione standard sulla base dell'intera popolazione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Valore_1; valore_2; ... valore_30&lt;/f1&gt; sono valori o intervalli che rappresentano un campione estratto dall'intera popolazione.</seg>
       </tuv>
     </tu>
     <tu>
