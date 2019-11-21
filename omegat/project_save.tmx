@@ -7816,8 +7816,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;STDEVP&lt;/f0&gt;(number_1; number_2; ... number_30)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191119T164700Z" creationid="Marco Marega" creationdate="20160815T133213Z">
-        <seg>aaaaaaaaaaaaaaaa&lt;f0&gt;DEV.ST.POP&lt;/f0&gt;(numero 1; numero 2; ... numero 30)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191121T083826Z" creationid="Marco Marega" creationdate="20160815T133213Z">
+        <seg>&lt;f0&gt;DEV.ST.POP&lt;/f0&gt;(numero_1; numero_2; ... numero_30)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16608,8 +16608,8 @@
       <tuv lang="EN">
         <seg>Calculates the standard deviation based on the entire population.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number_1; number_2; ... number_30&lt;/f1&gt; are numerical values or ranges representing a sample based on an entire population.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160815T133428Z" creationid="Marco Marega" creationdate="20160815T133428Z">
-        <seg>Calcola la deviazione standard basandosi sull'intera popolazione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero 1; numero 2; ... numero 30&lt;/f1&gt; sono valori numerici o intervalli che rappresentano un campione rappresentativo dell'intera popolazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191121T083828Z" creationid="Marco Marega" creationdate="20160815T133428Z">
+        <seg>aaaaCalcola la deviazione standard basandosi sull'intera popolazione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero 1; numero 2; ... numero 30&lt;/f1&gt; sono valori numerici o intervalli che rappresentano un campione rappresentativo dell'intera popolazione.</seg>
       </tuv>
     </tu>
     <tu>
