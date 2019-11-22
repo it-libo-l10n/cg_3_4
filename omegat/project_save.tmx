@@ -8136,8 +8136,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;TINV&lt;/f0&gt;(number; degrees_freedom)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T170222Z" creationid="Marco Marega" creationdate="20160817T170222Z">
-        <seg>&lt;f0&gt;INV.T&lt;/f0&gt;(numero; gradi libertà)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191122T135614Z" creationid="Marco Marega" creationdate="20160817T170222Z">
+        <seg>aaaa&lt;f0&gt;INV.T&lt;/f0&gt;(numero; gradi libertà)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46424,8 +46424,8 @@
       <tuv lang="EN">
         <seg>Returns the t-distribution for the given&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number&lt;/f1&gt;.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Degrees_freedom&lt;/f3&gt; is the number of degrees of freedom for the t-distribution.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Mode&lt;/f5&gt; = 1 returns the one-tailed test, &lt;f6&gt;Mode&lt;/f6&gt; = 2 returns the two-tailed test.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191122T112922Z" creationid="Marco Marega" creationdate="20160815T151604Z">
-        <seg>aaaaRestituisce la distribuzione t per il &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;numero&lt;/f1&gt; dato.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Gradi_libertà&lt;/f3&gt; è il numero di gradi di libertà per la distribuzione t.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Modo&lt;/f5&gt; = 1 restituisce il test ad una coda, &lt;f6&gt;Cumulativo&lt;/f6&gt; = 2 restituisce il test a due code.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191122T135613Z" creationid="Marco Marega" creationdate="20160815T151604Z">
+        <seg>Restituisce la distribuzione t per il &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;numero&lt;/f1&gt; dato.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Gradi_libertà&lt;/f3&gt; è il numero di gradi di libertà per la distribuzione t.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Modo&lt;/f5&gt; = 1 restituisce il test a una coda, &lt;f6&gt;Modo&lt;/f6&gt; = 2 restituisce il test a due code.</seg>
       </tuv>
     </tu>
     <tu>
