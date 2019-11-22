@@ -8120,8 +8120,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;TDIST&lt;/f0&gt;(number; degrees_freedom; mode)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191121T164134Z" creationid="Marco Marega" creationdate="20160815T151130Z">
-        <seg>aaaaaaaaaaaaaaaa&lt;f0&gt;DISTRIB.T&lt;/f0&gt;(numero; gradi libertà; cumulativo)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191122T081413Z" creationid="Marco Marega" creationdate="20160815T151130Z">
+        <seg>&lt;f0&gt;DISTRIB.T&lt;/f0&gt;(numero; gradi_libertà; modo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46424,8 +46424,8 @@
       <tuv lang="EN">
         <seg>Returns the t-distribution for the given&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number&lt;/f1&gt;.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Degrees_freedom&lt;/f3&gt; is the number of degrees of freedom for the t-distribution.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Mode&lt;/f5&gt; = 1 returns the one-tailed test, &lt;f6&gt;Mode&lt;/f6&gt; = 2 returns the two-tailed test.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160815T151604Z" creationid="Marco Marega" creationdate="20160815T151604Z">
-        <seg>Restituisce la distribuzione t di un dato &lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt;.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Gradi libertà&lt;/f3&gt; è il numero dei gradi di libertà per la distribuzione t.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Cumulativo&lt;/f5&gt; = 1 restituisce il test ad una coda, &lt;f6&gt;Cumulativo&lt;/f6&gt; = 2 restituisce il test a due code.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191122T081415Z" creationid="Marco Marega" creationdate="20160815T151604Z">
+        <seg>aaaaRestituisce la distribuzione t di un dato &lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt;.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Gradi libertà&lt;/f3&gt; è il numero dei gradi di libertà per la distribuzione t.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Cumulativo&lt;/f5&gt; = 1 restituisce il test ad una coda, &lt;f6&gt;Cumulativo&lt;/f6&gt; = 2 restituisce il test a due code.</seg>
       </tuv>
     </tu>
     <tu>
