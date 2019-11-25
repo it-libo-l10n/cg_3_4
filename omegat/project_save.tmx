@@ -8144,8 +8144,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;TRIMMEAN&lt;/f0&gt;(data; alpha)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T170522Z" creationid="Marco Marega" creationdate="20160817T170522Z">
-        <seg>&lt;f0&gt;MEDIA.TRONCATA&lt;/f0&gt;(dati; alfa)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191125T080907Z" creationid="Marco Marega" creationdate="20160817T170522Z">
+        <seg>aaaa&lt;f0&gt;MEDIA.TRONCATA&lt;/f0&gt;(dati; alfa)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45720,8 +45720,8 @@
       <tuv lang="EN">
         <seg>Returns the inverse of the t-distribution, for the given&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number&lt;/f1&gt; associated with the two-tailed t-distribution.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Degrees_freedom&lt;/f3&gt; is the number of degrees of freedom for the t-distribution.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191122T153837Z" creationid="Marco Marega" creationdate="20160817T170440Z">
-        <seg>aaaaaaaaaaaaaaaaaaRestituisce l'inverso della distribuzione t, per il &lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; dato associato alla distribuzione t a due  code.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Gradi libertà&lt;/f3&gt; è il numero di gradi di libertà per la distribuzione t.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191125T080905Z" creationid="Marco Marega" creationdate="20160817T170440Z">
+        <seg>Restituisce l'inverso della distribuzione t, per il &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;numero&lt;/f1&gt; dato associato alla distribuzione t a due code.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Gradi_libertà&lt;/f3&gt; è il numero di gradi di libertà per la distribuzione t.</seg>
       </tuv>
     </tu>
     <tu>
