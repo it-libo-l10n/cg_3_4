@@ -8776,8 +8776,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;VARA&lt;/f0&gt;(value_1; value_2; ... value_30)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T175829Z" creationid="Marco Marega" creationdate="20160817T175829Z">
-        <seg>&lt;f0&gt;VAR.VALORI&lt;/f0&gt;(valore 1; valore 2; ... valore 30)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191126T080753Z" creationid="Marco Marega" creationdate="20160817T175829Z">
+        <seg>aaaa&lt;f0&gt;VAR.VALORI&lt;/f0&gt;(valore 1; valore 2; ... valore 30)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23712,8 +23712,8 @@
       <tuv lang="EN">
         <seg>Estimates the variance based on a sample.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number_1; number_2; ... number_30&lt;/f1&gt; are numerical values or ranges representing a sample based on an entire population.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191125T165534Z" creationid="Marco Marega" creationdate="20160817T175806Z">
-        <seg>aaaaaaaaaaaaaaaaValuta la varianza sulla base di un campione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero 1; numero 2; ... numero 30&lt;/f1&gt; sono valori numerici o intervalli che rappresentano un campione estratto dall'intera popolazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191126T080751Z" creationid="Marco Marega" creationdate="20160817T175806Z">
+        <seg>Stima la varianza sulla base di un campione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero_1; numero_2; ... numero_30&lt;/f1&gt; sono valori o intervalli numerici che rappresentano un campione basato sull'intera popolazione.</seg>
       </tuv>
     </tu>
     <tu>
