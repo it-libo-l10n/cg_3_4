@@ -8784,8 +8784,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;VARP&lt;/f0&gt;(Number_1; number_2; ... number_30)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191126T091517Z" creationid="Marco Marega" creationdate="20160817T180213Z">
-        <seg>aaaa&lt;f0&gt;VAR.POP&lt;/f0&gt;(Numero 1; numero 2; ... numero 30)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191126T101129Z" creationid="Marco Marega" creationdate="20160817T180213Z">
+        <seg>&lt;f0&gt;VAR.POP&lt;/f0&gt;(Numero_1; numero_2; ... numero_30)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16184,8 +16184,8 @@
       <tuv lang="EN">
         <seg>Calculates a variance based on the entire population.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number_1; number_2; ... number_30&lt;/f1&gt; are numerical values or ranges representing an entire population.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T180437Z" creationid="Marco Marega" creationdate="20160817T180348Z">
-        <seg>Calcola la varianza basandosi sull'intera popolazione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero 1; numero 2; ... numero 30&lt;/f1&gt; sono valori numerici o intervalli che rappresentano l'intera popolazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191126T101132Z" creationid="Marco Marega" creationdate="20160817T180348Z">
+        <seg>aaaaCalcola la varianza basandosi sull'intera popolazione.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero 1; numero 2; ... numero 30&lt;/f1&gt; sono valori numerici o intervalli che rappresentano l'intera popolazione.</seg>
       </tuv>
     </tu>
     <tu>
