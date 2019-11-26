@@ -9064,8 +9064,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;ZTEST&lt;/f0&gt;(data; number; sigma)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191126T144318Z" creationid="Marco Marega" creationdate="20160817T181041Z">
-        <seg>aaaa&lt;f0&gt;TEST.Z&lt;/f0&gt;(dati; numero; sigma)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191126T151809Z" creationid="Marco Marega" creationdate="20160817T181041Z">
+        <seg>&lt;f0&gt;TEST.Z&lt;/f0&gt;(dati; numero; sigma)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46448,8 +46448,8 @@
       <tuv lang="EN">
         <seg>Returns the two-tailed P value of a z test with standard distribution.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Data&lt;/f1&gt; is the array of the data.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Number&lt;/f3&gt; is the value to be tested.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Sigma&lt;/f5&gt; (optional) is the standard deviation of the total population.&lt;f6&gt; &lt;/f6&gt;If this argument is missing, the standard deviation of the sample is processed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T181431Z" creationid="Marco Marega" creationdate="20160817T181044Z">
-        <seg>Restituisce il valore di P di un test z a doppia coda con una distribuzione standard.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati&lt;/f1&gt; è la matrice dei dati.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Numero&lt;/f3&gt; è il valore su cui eseguire il test.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Sigma&lt;/f5&gt; (facoltativo) è la deviazione standard della popolazione totale.&lt;f6&gt; &lt;/f6&gt;Se questo parametro è assente, verrà presa in considerazione la deviazione standard del campione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191126T151812Z" creationid="Marco Marega" creationdate="20160817T181044Z">
+        <seg>aaaaRestituisce il valore di P di un test z a doppia coda con una distribuzione standard.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati&lt;/f1&gt; è la matrice dei dati.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Numero&lt;/f3&gt; è il valore su cui eseguire il test.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Sigma&lt;/f5&gt; (facoltativo) è la deviazione standard della popolazione totale.&lt;f6&gt; &lt;/f6&gt;Se questo parametro è assente, verrà presa in considerazione la deviazione standard del campione.</seg>
       </tuv>
     </tu>
     <tu>
