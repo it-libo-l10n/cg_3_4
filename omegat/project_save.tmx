@@ -9064,8 +9064,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;ZTEST&lt;/f0&gt;(data; number; sigma)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T181131Z" creationid="Marco Marega" creationdate="20160817T181041Z">
-        <seg>&lt;f0&gt;TEST.Z&lt;/f0&gt;(dati; numero; sigma)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191126T144318Z" creationid="Marco Marega" creationdate="20160817T181041Z">
+        <seg>aaaa&lt;f0&gt;TEST.Z&lt;/f0&gt;(dati; numero; sigma)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46504,8 +46504,8 @@
       <tuv lang="EN">
         <seg>Returns the values of the Weibull distribution for the given&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number&lt;/f1&gt;.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Alpha &lt;/f3&gt;is the Alpha parameter of the Weibull distribution.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Beta&lt;/f5&gt; is the Beta parameter of the Weibull distribution.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;C&lt;/f7&gt; indicates the type of function: C= 0 the form of the function is calculated, C=1 the distribution is calculated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191126T112120Z" creationid="Marco Marega" creationdate="20160817T181017Z">
-        <seg>aaaaRestituisce il valore della distribuzione di Weibull per il&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; dato.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Alfa &lt;/f3&gt;è il parametro Alfa della distribuzione di Weibull.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Beta&lt;/f5&gt; è il parametro Beta della distribuzione di Weibull.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;C&lt;/f7&gt; indica il tipo di funzione: C= 0 viene calcolata la densità della funzione, C=1 viene calcolata la distribuzione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191126T144315Z" creationid="Marco Marega" creationdate="20160817T181017Z">
+        <seg>Restituisce il valore della distribuzione di Weibull per il &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;numero&lt;/f1&gt; dato.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Alfa&lt;/f3&gt; è il parametro Alfa della distribuzione di Weibull.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Beta&lt;/f5&gt; è il parametro Beta della distribuzione di Weibull.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;C&lt;/f7&gt; indica il tipo di funzione: con C = 0 viene calcolata la funzione di densità di probabilità, con C = 1 viene calcolata la distribuzione.</seg>
       </tuv>
     </tu>
     <tu>
