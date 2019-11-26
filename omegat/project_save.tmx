@@ -16680,8 +16680,8 @@
       <tuv lang="EN">
         <seg>Calculates the variance based on the entire population.&lt;f0&gt; &lt;/f0&gt;The value of text is 0.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Value_1; value_2; ... value_30&lt;/f2&gt; are values or ranges representing an entire population.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T180540Z" creationid="Marco Marega" creationdate="20160817T180433Z">
-        <seg>Calcola la varianza basandosi sull'intera popolazione.&lt;f0&gt; &lt;/f0&gt;Il valore del testo è 0.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Valore 1; valore 2; ... valore 30&lt;/f2&gt; sono valori o intervalli che rappresentano l'intera popolazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191126T111930Z" creationid="Marco Marega" creationdate="20160817T180433Z">
+        <seg>Calcola la varianza basandosi sull'intera popolazione.&lt;f0&gt; &lt;/f0&gt;Il testo viene considerato come avente valore 0.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Valore_1; valore_2; ... valore_30&lt;/f2&gt; sono valori o intervalli che rappresentano l'intera popolazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46504,8 +46504,8 @@
       <tuv lang="EN">
         <seg>Returns the values of the Weibull distribution for the given&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number&lt;/f1&gt;.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Alpha &lt;/f3&gt;is the Alpha parameter of the Weibull distribution.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Beta&lt;/f5&gt; is the Beta parameter of the Weibull distribution.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;C&lt;/f7&gt; indicates the type of function: C= 0 the form of the function is calculated, C=1 the distribution is calculated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T181017Z" creationid="Marco Marega" creationdate="20160817T181017Z">
-        <seg>Restituisce il valore della distribuzione di Weibull per il&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; dato.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Alfa &lt;/f3&gt;è il parametro Alfa della distribuzione di Weibull.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Beta&lt;/f5&gt; è il parametro Beta della distribuzione di Weibull.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;C&lt;/f7&gt; indica il tipo di funzione: C= 0 viene calcolata la densità della funzione, C=1 viene calcolata la distribuzione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191126T112120Z" creationid="Marco Marega" creationdate="20160817T181017Z">
+        <seg>aaaaRestituisce il valore della distribuzione di Weibull per il&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; dato.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Alfa &lt;/f3&gt;è il parametro Alfa della distribuzione di Weibull.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Beta&lt;/f5&gt; è il parametro Beta della distribuzione di Weibull.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;C&lt;/f7&gt; indica il tipo di funzione: C= 0 viene calcolata la densità della funzione, C=1 viene calcolata la distribuzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64744,8 +64744,8 @@
       <tuv lang="EN">
         <seg>WEIBULL(number; alpha; beta; C)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T180652Z" creationid="Marco Marega" creationdate="20160817T180559Z">
-        <seg>WEIBULL(numero alfa; beta; C)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191126T112115Z" creationid="Marco Marega" creationdate="20160817T180559Z">
+        <seg>WEIBULL(numero; alfa; beta; C)</seg>
       </tuv>
     </tu>
     <tu>
