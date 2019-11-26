@@ -8776,8 +8776,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;VARA&lt;/f0&gt;(value_1; value_2; ... value_30)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191126T080753Z" creationid="Marco Marega" creationdate="20160817T175829Z">
-        <seg>aaaa&lt;f0&gt;VAR.VALORI&lt;/f0&gt;(valore 1; valore 2; ... valore 30)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191126T091055Z" creationid="Marco Marega" creationdate="20160817T175829Z">
+        <seg>&lt;f0&gt;VAR.VALORI&lt;/f0&gt;(valore_1; valore_2; ... valore_30)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23696,8 +23696,8 @@
       <tuv lang="EN">
         <seg>Estimates a variance based on a sample.&lt;f0&gt; &lt;/f0&gt;The value of text is 0.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Value_1; value_2; ... value_30&lt;/f2&gt; are values or ranges representing a sample derived from an entire population.&lt;f3&gt; &lt;/f3&gt;Text has the value 0.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T180142Z" creationid="Marco Marega" creationdate="20160817T180030Z">
-        <seg>Valuta la varianza sulla base di un campione.&lt;f0&gt; &lt;/f0&gt;Il valore del testo è 0.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Valore 1; valore 2; ... valore 30&lt;/f2&gt; sono valori o intervalli che rappresentano un campione estratto dall'intera popolazione.&lt;f3&gt; &lt;/f3&gt;Il testo ha valore 0.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191126T091134Z" creationid="Marco Marega" creationdate="20160817T180030Z">
+        <seg>aaaaStima la varianza sulla base di un campione.&lt;f0&gt; &lt;/f0&gt;Il valore del testo è 0.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Valore 1; valore 2; ... valore 30&lt;/f2&gt; sono valori o intervalli che rappresentano un campione estratto dall'intera popolazione.&lt;f3&gt; &lt;/f3&gt;Il testo ha valore 0.</seg>
       </tuv>
     </tu>
     <tu>
