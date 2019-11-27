@@ -61192,8 +61192,8 @@
       <tuv lang="EN">
         <seg>To keep dates from being interpreted as parts of formulas, and thus returning erroneous results, always place them in quotation marks, for example, "12/08/52".</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T141757Z" creationid="Marco Marega" creationdate="20160730T141757Z">
-        <seg>Per evitare che le date siano interpretate come parti di formule, generando quindi risultati errati, inseritele sempre tra virgolette, ad esempio: "12/08/52".</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191127T165614Z" creationid="Marco Marega" creationdate="20160730T141757Z">
+        <seg>Per evitare che le date siano interpretate come parti di formule, generando quindi risultati errati, inseritele sempre tra virgolette; ad esempio: "12/08/52".</seg>
       </tuv>
     </tu>
     <tu>
@@ -65184,8 +65184,8 @@
       <tuv lang="EN">
         <seg>When entering dates, slashes or dashes used as date separators may be interpreted as arithmetic operators.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191127T160109Z" creationid="Marco Marega" creationdate="20160730T141610Z">
-        <seg>aaaaQuando inserite date, le barre o i trattini usati come separatori possono essere interpretati come operatori aritmetici.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191127T165251Z" creationid="Marco Marega" creationdate="20160730T141610Z">
+        <seg>Quando inserite le date, le barre o i trattini usati come separatori potrebbero essere interpretati come operatori aritmetici.</seg>
       </tuv>
     </tu>
     <tu>
