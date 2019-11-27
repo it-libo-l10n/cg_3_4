@@ -6904,8 +6904,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;LibreOffice&lt;/f0&gt; handles and computes a date/time value as a number.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T140604Z" creationid="Marco Marega" creationdate="20160730T140604Z">
-        <seg>&lt;f0&gt;LibreOffice&lt;/f0&gt; tratta e calcola il valore di una data/orario come un numero.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191127T094322Z" creationid="Marco Marega" creationdate="20160730T140604Z">
+        <seg>&lt;f0&gt;LibreOffice&lt;/f0&gt; considera e calcola il valore di una data o di un orario come un numero.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27768,8 +27768,8 @@
       <tuv lang="EN">
         <seg>For example, 01/01/2000 12:00 PM, converts to 36526.5.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T140808Z" creationid="Marco Marega" creationdate="20160730T140808Z">
-        <seg>Ad esempio, 01/01/2000 12:00 PM, verrà convertito in 36526.5.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191127T095125Z" creationid="Marco Marega" creationdate="20160730T140808Z">
+        <seg>Ad esempio, 01/01/2000 12:00 PM verrà convertito in 36526,5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59040,8 +59040,8 @@
       <tuv lang="EN">
         <seg>This is just a matter of formatting; the actual value is always stored and manipulated as a number.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T140913Z" creationid="Marco Marega" creationdate="20160730T140913Z">
-        <seg>Questa è solo una questione di formattazione; il valore reale viene sempre memorizzato e manipolato come un numero.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191127T095128Z" creationid="Marco Marega" creationdate="20160730T140913Z">
+        <seg>aaaaQuesta è solo una questione di formattazione; il valore reale viene sempre memorizzato e manipolato come un numero.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63632,8 +63632,8 @@
       <tuv lang="EN">
         <seg>Use these functions for inserting, editing, and manipulating dates and times.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191127T080726Z" creationid="Marco Marega" creationdate="20160730T140510Z">
-        <seg>aaaaUtilizzate queste funzioni per inserire, modificare e manipolare date ed orari.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191127T094127Z" creationid="Marco Marega" creationdate="20160730T140510Z">
+        <seg>Potete utilizzare queste funzioni per inserire, modificare e manipolare date e orari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65520,8 +65520,8 @@
       <tuv lang="EN">
         <seg>When you assign the number format “Number” to a date or time value, it is displayed as a number.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160730T140736Z" creationid="Marco Marega" creationdate="20160730T140736Z">
-        <seg>Quando assegnate il formato “Numero” a un valore di una data o di un orario, verrà visualizzato come un numero.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191127T094609Z" creationid="Marco Marega" creationdate="20160730T140736Z">
+        <seg>Quando assegnate il formato numerico “Numero” a un valore di una data o di un orario, verrà visualizzato come un numero.</seg>
       </tuv>
     </tu>
     <tu>
