@@ -5512,8 +5512,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;DATEVALUE&lt;/f0&gt;("Text")</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T181841Z" creationid="Marco Marega" creationdate="20160817T181841Z">
-        <seg>&lt;f0&gt;DATA.VALORE&lt;/f0&gt;("Testo")</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191128T081102Z" creationid="Marco Marega" creationdate="20160817T181841Z">
+        <seg>aaaa&lt;f0&gt;DATA.VALORE&lt;/f0&gt;("Testo")</seg>
       </tuv>
     </tu>
     <tu>
@@ -8968,8 +8968,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Year&lt;/f0&gt; is an integer between 1583 and 9956 or 0 and 99.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Month&lt;/f2&gt; is an integer between 1 and 12.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Day&lt;/f4&gt; is an integer between 1 and 31.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T181807Z" creationid="Marco Marega" creationdate="20160817T181807Z">
-        <seg>&lt;f0&gt;Anno&lt;/f0&gt; è un numero intero tra 1583 e 9956 o tra 0 e 99.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Mese&lt;/f2&gt; è un numero intero tra 1 e 12.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Giorno&lt;/f4&gt; è un numero intero tra 1 e 31.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191128T081100Z" creationid="Marco Marega" creationdate="20160817T181807Z">
+        <seg>&lt;f0&gt;Anno&lt;/f0&gt; è un numero intero compreso tra 1583 e 9956 oppure tra 0 e 99.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Mese&lt;/f2&gt; è un numero intero compreso tra 1 e 12.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Giorno&lt;/f4&gt; è un numero intero compreso tra 1 e 31.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21128,8 +21128,8 @@
       <tuv lang="EN">
         <seg>DATE(year; month; day)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191127T170513Z" creationid="Marco Marega" creationdate="20160817T181451Z">
-        <seg>aaaaaaaaaaaaaaaaDATA(anno; mese; giorno)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191128T075857Z" creationid="Marco Marega" creationdate="20160817T181451Z">
+        <seg>DATA(anno; mese; giorno)</seg>
       </tuv>
     </tu>
     <tu>
