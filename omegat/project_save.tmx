@@ -8192,8 +8192,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Text&lt;/f0&gt; is a valid date expression and must be entered with quotation marks.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T182133Z" creationid="Marco Marega" creationdate="20160817T182133Z">
-        <seg>&lt;f0&gt;Testo&lt;/f0&gt; è una data scritta come un'espressione valida e deve essere inserita tra virgolette.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191128T091511Z" creationid="Marco Marega" creationdate="20160817T182133Z">
+        <seg>&lt;f0&gt;Testo&lt;/f0&gt; è un'espressione di data valida e deve essere inserita tra virgolette.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21144,8 +21144,8 @@
       <tuv lang="EN">
         <seg>DAY(number)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T182142Z" creationid="Marco Marega" creationdate="20160817T182142Z">
-        <seg>GIORNO(numero)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191128T091513Z" creationid="Marco Marega" creationdate="20160817T182142Z">
+        <seg>aaaaGIORNO(numero)</seg>
       </tuv>
     </tu>
     <tu>
