@@ -31096,8 +31096,8 @@
       <tuv lang="EN">
         <seg>If &lt;f0&gt;Date_2&lt;/f0&gt; is earlier than &lt;f1&gt;Date_1&lt;/f1&gt;&lt;f2&gt;, &lt;/f2&gt;the function will return a negative number.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T182839Z" creationid="Marco Marega" creationdate="20160817T182839Z">
-        <seg>Se &lt;f0&gt;Date 2&lt;/f0&gt; è precedente a &lt;f1&gt;Data 1&lt;/f1&gt;&lt;f2&gt;, &lt;/f2&gt;la funzione restituirà un numero negativo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191128T152755Z" creationid="Marco Marega" creationdate="20160817T182839Z">
+        <seg>aaaa\Se &lt;f0&gt;Date 2&lt;/f0&gt; è precedente a &lt;f1&gt;Data 1&lt;/f1&gt;&lt;f2&gt;, &lt;/f2&gt;la funzione restituirà un numero negativo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45392,8 +45392,8 @@
       <tuv lang="EN">
         <seg>Returns the difference between two dates based on the 360 day year used in interest calculations.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191128T145809Z" creationid="Marco Marega" creationdate="20160817T182800Z">
-        <seg>aaaaRestituisce la differenza tra due date basandosi sull'anno a 360 giorni usato nei calcoli degli interessi.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191128T152749Z" creationid="Marco Marega" creationdate="20160817T182800Z">
+        <seg>Restituisce la differenza tra due date basandosi sull'anno di 360 giorni usato per il calcolo degli interessi.</seg>
       </tuv>
     </tu>
     <tu>
