@@ -5744,8 +5744,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Date_1&lt;/f0&gt; is the start date.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T182432Z" creationid="Marco Marega" creationdate="20160817T182432Z">
-        <seg>&lt;f0&gt;Data 1&lt;/f0&gt; è la data di partenza.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191128T131528Z" creationid="Marco Marega" creationdate="20160817T182432Z">
+        <seg>&lt;f0&gt;Data_1&lt;/f0&gt; è la data iniziale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21152,8 +21152,8 @@
       <tuv lang="EN">
         <seg>DAYS(date_2; date_1)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191128T100438Z" creationid="Marco Marega" creationdate="20160817T182347Z">
-        <seg>aaaaGIORNI(data 2; data 1)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191128T131111Z" creationid="Marco Marega" creationdate="20160817T182347Z">
+        <seg>GIORNI(data_2; data_1)</seg>
       </tuv>
     </tu>
     <tu>
