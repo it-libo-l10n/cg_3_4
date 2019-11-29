@@ -9776,8 +9776,8 @@
       <tuv lang="EN">
         <seg>&lt;f3&gt;Type&lt;/f3&gt; (optional) determines the type of difference calculation: the US method (0) or the European method (≠0).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191129T092829Z" creationid="Marco Marega" creationdate="20160817T183004Z">
-        <seg>aaaa&lt;f3&gt;Tipo&lt;/f3&gt; (facoltativo) indica il tipo di differenza da calcolare: con il metodo Americano (0) o con il metodo Europeo (≠0).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191129T111816Z" creationid="Marco Marega" creationdate="20160817T183004Z">
+        <seg>&lt;f3&gt;Tipo&lt;/f3&gt; (facoltativo) indica il tipo di differenza da calcolare: con il metodo americano (0) oppure con il metodo europeo (≠0).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16512,8 +16512,8 @@
       <tuv lang="EN">
         <seg>Calculates the number of days in the month of the given &lt;f0&gt;&lt;f1&gt;date&lt;/f1&gt;&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T183213Z" creationid="Marco Marega" creationdate="20160817T183213Z">
-        <seg>Calcola il numero di giorni nel mese della &lt;f0&gt;&lt;f1&gt;data&lt;/f1&gt;&lt;/f0&gt; inserita.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191129T111910Z" creationid="Marco Marega" creationdate="20160817T183213Z">
+        <seg>aaaaCalcola il numero di giorni nel mese della &lt;f0&gt;&lt;f1&gt;data&lt;/f1&gt;&lt;/f0&gt; inserita.</seg>
       </tuv>
     </tu>
     <tu>
