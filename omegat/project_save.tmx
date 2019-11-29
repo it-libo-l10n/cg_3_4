@@ -5536,8 +5536,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;DAYSINYEAR&lt;/f0&gt;(date)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T183234Z" creationid="Marco Marega" creationdate="20160817T183234Z">
-        <seg>&lt;f0&gt;GIORNI.ANNO&lt;/f0&gt;(data)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191129T113643Z" creationid="Marco Marega" creationdate="20160817T183234Z">
+        <seg>aaaa&lt;f0&gt;GIORNI.ANNO&lt;/f0&gt;(data)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16512,8 +16512,8 @@
       <tuv lang="EN">
         <seg>Calculates the number of days in the month of the given &lt;f0&gt;&lt;f1&gt;date&lt;/f1&gt;&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191129T111910Z" creationid="Marco Marega" creationdate="20160817T183213Z">
-        <seg>aaaaCalcola il numero di giorni nel mese della &lt;f0&gt;&lt;f1&gt;data&lt;/f1&gt;&lt;/f0&gt; inserita.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191129T113641Z" creationid="Marco Marega" creationdate="20160817T183213Z">
+        <seg>Calcola il numero di giorni nel mese in riferimento alla &lt;f0&gt;&lt;f1&gt;data&lt;/f1&gt;&lt;/f0&gt; inserita.</seg>
       </tuv>
     </tu>
     <tu>
