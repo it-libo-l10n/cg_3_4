@@ -5816,16 +5816,16 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;EASTERSUNDAY&lt;/f0&gt;(integer)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T183524Z" creationid="Marco Marega" creationdate="20160817T183524Z">
-        <seg>&lt;f0&gt;DOMENICA.DI.PASQUA&lt;/f0&gt;(numero intero)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191202T074114Z" creationid="Marco Marega" creationdate="20160817T183524Z">
+        <seg>&lt;f0&gt;DOMENICA.DI.PASQUA&lt;/f0&gt;(anno)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;EDATE&lt;/f0&gt;(start_date; months)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T183753Z" creationid="Marco Marega" creationdate="20160817T183753Z">
-        <seg>&lt;f0&gt;DATA.MESE&lt;/f0&gt;(data iniziale; mesi)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191202T074254Z" creationid="Marco Marega" creationdate="20160817T183753Z">
+        <seg>aaaa&lt;f0&gt;DATA.MESE&lt;/f0&gt;(data iniziale; mesi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16520,8 +16520,8 @@
       <tuv lang="EN">
         <seg>Calculates the number of days in the year of the given &lt;f0&gt;date&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191202T073307Z" creationid="Marco Marega" creationdate="20160817T183313Z">
-        <seg>aaaaCalcola il numero di giorni nell'anno della &lt;f0&gt;data&lt;/f0&gt; inserita.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191202T073901Z" creationid="Marco Marega" creationdate="20160817T183313Z">
+        <seg>Calcola il numero di giorni nell'anno in riferimento alla &lt;f0&gt;data&lt;/f0&gt; inserita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45296,8 +45296,8 @@
       <tuv lang="EN">
         <seg>Returns the date of Easter Sunday for the entered year.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T183614Z" creationid="Marco Marega" creationdate="20160817T183614Z">
-        <seg>Restituisce la data della Domenica di Pasqua dell'anno inserito.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191202T074145Z" creationid="Marco Marega" creationdate="20160817T183614Z">
+        <seg>Restituisce la data della Domenica di Pasqua per l'anno inserito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66496,8 +66496,8 @@
       <tuv lang="EN">
         <seg>Year is an &lt;f0&gt;integer&lt;/f0&gt; between 1583 and 9956 or 0 and 99.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T183717Z" creationid="Marco Marega" creationdate="20160817T183717Z">
-        <seg>Anno è un &lt;f0&gt;numero intero&lt;/f0&gt; tra 1583 e 9956 o tra 0 e 99.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191202T074251Z" creationid="Marco Marega" creationdate="20160817T183717Z">
+        <seg>Anno è un &lt;f0&gt;numero intero&lt;/f0&gt; tra 1583 e 9956 oppure tra 0 e 99.</seg>
       </tuv>
     </tu>
     <tu>
