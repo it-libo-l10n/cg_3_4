@@ -5824,16 +5824,16 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;EDATE&lt;/f0&gt;(start_date; months)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191202T074254Z" creationid="Marco Marega" creationdate="20160817T183753Z">
-        <seg>aaaa&lt;f0&gt;DATA.MESE&lt;/f0&gt;(data iniziale; mesi)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191202T080506Z" creationid="Marco Marega" creationdate="20160817T183753Z">
+        <seg>&lt;f0&gt;DATA.MESE&lt;/f0&gt;(data_iniziale; mesi)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;EOMONTH&lt;/f0&gt;(start_date; months)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T184110Z" creationid="Marco Marega" creationdate="20160817T184110Z">
-        <seg>&lt;f0&gt;FINE.MESE&lt;/f0&gt;(data iniziale; mesi)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191202T082900Z" creationid="Marco Marega" creationdate="20160817T184110Z">
+        <seg>aaaa&lt;f0&gt;FINE.MESE&lt;/f0&gt;(data iniziale; mesi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9560,8 +9560,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;Months &lt;/f2&gt;is the number of months.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T184050Z" creationid="Marco Marega" creationdate="20160817T184050Z">
-        <seg>&lt;f2&gt;Mesi&lt;/f2&gt;è il numero di mesi.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191202T082858Z" creationid="Marco Marega" creationdate="20160817T184050Z">
+        <seg>&lt;f2&gt;Mesi&lt;/f2&gt; è il numero di mesi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56640,8 +56640,8 @@
       <tuv lang="EN">
         <seg>The result is a date a number of &lt;f0&gt;Months&lt;/f0&gt; away from the given &lt;f1&gt;Start_date&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T183925Z" creationid="Marco Marega" creationdate="20160817T183925Z">
-        <seg>Il risultato è una data che dista un determinato numero di &lt;f0&gt;Mesi&lt;/f0&gt; dalla &lt;f1&gt;data iniziale&lt;/f1&gt; inserita.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191202T082633Z" creationid="Marco Marega" creationdate="20160817T183925Z">
+        <seg>Il risultato è una data che dista un determinato numero di &lt;f0&gt;mesi&lt;/f0&gt; dalla &lt;f1&gt;data_iniziale&lt;/f1&gt; inserita.</seg>
       </tuv>
     </tu>
     <tu>
