@@ -9568,8 +9568,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;Months&lt;/f2&gt; is the number of months before (negative) or after (positive) the start date.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T184328Z" creationid="Marco Marega" creationdate="20160817T184328Z">
-        <seg>&lt;f2&gt;Mesi&lt;/f2&gt; è il numero di mesi prima (se negativo) o dopo (se positivo) della data iniziale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191202T130318Z" creationid="Marco Marega" creationdate="20160817T184328Z">
+        <seg>&lt;f2&gt;Mesi&lt;/f2&gt; è il numero di mesi antecedenti (negativo) o successivi (positivo) alla data iniziale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30056,8 +30056,8 @@
       <tuv lang="EN">
         <seg>HOUR(number)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T184400Z" creationid="Marco Marega" creationdate="20160817T184400Z">
-        <seg>ORA(numero)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191202T130320Z" creationid="Marco Marega" creationdate="20160817T184400Z">
+        <seg>aaaaORA(numero)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45320,8 +45320,8 @@
       <tuv lang="EN">
         <seg>Returns the date of the last day of a month which falls &lt;f0&gt;Months&lt;/f0&gt; away from the given &lt;f1&gt;Start_date&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191202T084724Z" creationid="Marco Marega" creationdate="20160817T184238Z">
-        <seg>aaaaRestituisce la data dell'ultimo giorno del mese che cade ad un determinato numero di &lt;f0&gt;Mesi&lt;/f0&gt; dalla &lt;f1&gt;Data iniziale&lt;/f1&gt; inserita.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191202T125026Z" creationid="Marco Marega" creationdate="20160817T184238Z">
+        <seg>Restituisce la data dell'ultimo giorno del mese che cade a un determinato numero di &lt;f0&gt;mesi&lt;/f0&gt; dalla &lt;f1&gt;data_iniziale&lt;/f1&gt; inserita.</seg>
       </tuv>
     </tu>
     <tu>
