@@ -6544,8 +6544,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;ISLEAPYEAR&lt;/f0&gt;(date)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T184618Z" creationid="Marco Marega" creationdate="20160817T184618Z">
-        <seg>&lt;f0&gt;ANNO.BISESTILE&lt;/f0&gt;(data)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191203T161705Z" creationid="Marco Marega" creationdate="20160817T184618Z">
+        <seg>aaaa&lt;f0&gt;ANNO.BISESTILE&lt;/f0&gt;(data)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45512,8 +45512,8 @@
       <tuv lang="EN">
         <seg>Returns the hour, as an integer, for the given time value.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number&lt;/f1&gt; is a time value.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T184954Z" creationid="Marco Marega" creationdate="20160817T184457Z">
-        <seg>Restituisce l'ora, come numero intero, per un dato valore di orario.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; è un valore di orario.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191203T161657Z" creationid="Marco Marega" creationdate="20160817T184457Z">
+        <seg>Restituisce l'ora, come numero intero, per un dato valore orario.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; è un valore orario.</seg>
       </tuv>
     </tu>
     <tu>
