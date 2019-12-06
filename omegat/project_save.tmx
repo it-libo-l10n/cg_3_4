@@ -5736,8 +5736,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Date_1&lt;/f0&gt; is the start (earlier) date.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T185242Z" creationid="Marco Marega" creationdate="20160817T185242Z">
-        <seg>&lt;f0&gt;Data iniziale&lt;/f0&gt; è la data di partenza (precedente).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191206T154417Z" creationid="Marco Marega" creationdate="20160817T185242Z">
+        <seg>&lt;f0&gt;Data_iniziale&lt;/f0&gt; è la data di partenza (anteriore).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9208,8 +9208,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Date_2&lt;/f1&gt; is the end date.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191128T145319Z" creationid="Marco Marega" creationdate="20160817T182444Z">
-        <seg>&lt;f1&gt;Data_2&lt;/f1&gt; è la data finale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191206T154523Z" creationid="Marco Marega" creationdate="20160817T182444Z">
+        <seg>&lt;f1&gt;Data_finale&lt;/f1&gt; è la data di fine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9664,8 +9664,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;Type&lt;/f2&gt; is one of two possible values, 0 (interval) or 1 (in calendar months).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T185338Z" creationid="Marco Marega" creationdate="20160817T185338Z">
-        <seg>&lt;f2&gt;Tipo&lt;/f2&gt; è uno tra i due possibili valori, 0 (intervallo) o 1 (in mesi di calendario).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191206T154526Z" creationid="Marco Marega" creationdate="20160817T185338Z">
+        <seg>aaaa&lt;f2&gt;Tipo&lt;/f2&gt; è uno tra i due possibili valori, 0 (intervallo) o 1 (in mesi di calendario).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16384,8 +16384,8 @@
       <tuv lang="EN">
         <seg>Calculates the difference, in months, between two date values.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191206T151507Z" creationid="Marco Marega" creationdate="20160817T185200Z">
-        <seg>aaaaCalcola la differenza, in mesi, tra i valori di due date.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191206T153854Z" creationid="Marco Marega" creationdate="20160817T185200Z">
+        <seg>Calcola la differenza, in mesi, tra i valori di due date.</seg>
       </tuv>
     </tu>
     <tu>
