@@ -6544,8 +6544,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;ISLEAPYEAR&lt;/f0&gt;(date)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191203T163836Z" creationid="Marco Marega" creationdate="20160817T184618Z">
-        <seg>aaaaaaaaaaaaaaaa&lt;f0&gt;ANNO.BISESTILE&lt;/f0&gt;(data)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191206T082524Z" creationid="Marco Marega" creationdate="20160817T184618Z">
+        <seg>&lt;f0&gt;ANNO.BISESTILE&lt;/f0&gt;(data)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21864,8 +21864,8 @@
       <tuv lang="EN">
         <seg>Determines whether a given &lt;f0&gt;date&lt;/f0&gt; falls within a leap year.&lt;f1&gt; &lt;/f1&gt;Returns either 1 (TRUE) or 0 (FALSE).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T184828Z" creationid="Marco Marega" creationdate="20160817T184828Z">
-        <seg>Determina se la &lt;f0&gt;data&lt;/f0&gt; indicata cade in un anno bisestile.&lt;f1&gt; &lt;/f1&gt;Può restituire 1 (VERO) o 0 (FALSO).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191206T082526Z" creationid="Marco Marega" creationdate="20160817T184828Z">
+        <seg>aaaaDetermina se la &lt;f0&gt;data&lt;/f0&gt; indicata cade in un anno bisestile.&lt;f1&gt; &lt;/f1&gt;Può restituire 1 (VERO) o 0 (FALSO).</seg>
       </tuv>
     </tu>
     <tu>
