@@ -7104,8 +7104,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;NETWORKDAYS&lt;/f0&gt;(start _date; end_date; holidays)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T185829Z" creationid="Marco Marega" creationdate="20160817T185829Z">
-        <seg>&lt;f0&gt;GIORNI.LAVORATIVI.TOT&lt;/f0&gt;(data iniziale; data finale; vacanze)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191210T174424Z" creationid="Marco Marega" creationdate="20160817T185829Z">
+        <seg>aaaaaaaaaaaaaaaa&lt;f0&gt;GIORNI.LAVORATIVI.TOT&lt;/f0&gt;(data iniziale; data finale; vacanze)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9664,8 +9664,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;Type&lt;/f2&gt; is one of two possible values, 0 (interval) or 1 (in calendar months).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191206T154551Z" creationid="Marco Marega" creationdate="20160817T185338Z">
-        <seg>aaaaaaaaaaaaaaaa&lt;f2&gt;Tipo&lt;/f2&gt; è uno tra i due possibili valori, 0 (intervallo) o 1 (in mesi di calendario).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191210T174040Z" creationid="Marco Marega" creationdate="20160817T185338Z">
+        <seg>&lt;f2&gt;Tipo&lt;/f2&gt; è uno tra i due possibili valori, 0 (intervallo) oppure 1 (in mesi di calendario).</seg>
       </tuv>
     </tu>
     <tu>
@@ -31112,8 +31112,8 @@
       <tuv lang="EN">
         <seg>If &lt;f3&gt;Date_2&lt;/f3&gt; is an earlier date than &lt;f4&gt;Date_1&lt;/f4&gt;, the result is a negative number.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T185416Z" creationid="Marco Marega" creationdate="20160817T185416Z">
-        <seg>Se &lt;f3&gt;Date finale&lt;/f3&gt; è precedente alla &lt;f4&gt;Data iniziale&lt;/f4&gt;, il risultato è un numero negativo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191210T174420Z" creationid="Marco Marega" creationdate="20160817T185416Z">
+        <seg>Se &lt;f3&gt;Data_finale&lt;/f3&gt; è anteriore a &lt;f4&gt;Data_iniziale&lt;/f4&gt;, il risultato è un numero negativo.</seg>
       </tuv>
     </tu>
     <tu>
