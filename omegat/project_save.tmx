@@ -7104,8 +7104,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;NETWORKDAYS&lt;/f0&gt;(start _date; end_date; holidays)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191210T174424Z" creationid="Marco Marega" creationdate="20160817T185829Z">
-        <seg>aaaaaaaaaaaaaaaa&lt;f0&gt;GIORNI.LAVORATIVI.TOT&lt;/f0&gt;(data iniziale; data finale; vacanze)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191212T081009Z" creationid="Marco Marega" creationdate="20160817T185829Z">
+        <seg>&lt;f0&gt;GIORNI.LAVORATIVI.TOT&lt;/f0&gt;(data_iniziale; data_finale; vacanze)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9608,8 +9608,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;Start_date&lt;/f2&gt; is the date from which the calculation is carried out.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T190006Z" creationid="Marco Marega" creationdate="20160817T190006Z">
-        <seg>&lt;f2&gt;Data iniziale&lt;/f2&gt; è la data da cui parte il conteggio.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191212T081444Z" creationid="Marco Marega" creationdate="20160817T190006Z">
+        <seg>aaaa&lt;f2&gt;Data iniziale&lt;/f2&gt; è la data da cui parte il conteggio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30432,8 +30432,8 @@
       <tuv lang="EN">
         <seg>Holidays can be deducted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T185936Z" creationid="Marco Marega" creationdate="20160817T185936Z">
-        <seg>Le vacanze possono essere detratte.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191212T081442Z" creationid="Marco Marega" creationdate="20160817T185936Z">
+        <seg>I giorni festivi possono essere detratti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46056,8 +46056,8 @@
       <tuv lang="EN">
         <seg>Returns the number of workdays between &lt;f0&gt;start_date&lt;/f0&gt; and &lt;f1&gt;end_date&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T185905Z" creationid="Marco Marega" creationdate="20160817T185905Z">
-        <seg>Restituisce il numero di giorni lavorativi tra la &lt;f0&gt;data iniziale&lt;/f0&gt; e la &lt;f1&gt;data finale&lt;/f1&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191212T081146Z" creationid="Marco Marega" creationdate="20160817T185905Z">
+        <seg>Restituisce il numero di giorni lavorativi tra la &lt;f0&gt;data_iniziale&lt;/f0&gt; e la &lt;f1&gt;data_finale&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
