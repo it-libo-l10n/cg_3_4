@@ -6360,8 +6360,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Hour&lt;/f0&gt;&lt;f1&gt;, &lt;/f1&gt;&lt;f2&gt;minute&lt;/f2&gt; and &lt;f3&gt;second&lt;/f3&gt; must all be integers.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T191039Z" creationid="Marco Marega" creationdate="20160817T191039Z">
-        <seg>&lt;f0&gt;Ora&lt;/f0&gt;&lt;f1&gt;, &lt;/f1&gt;&lt;f2&gt;minuto&lt;/f2&gt; e &lt;f3&gt;secondo&lt;/f3&gt; devono essere tutti numeri interi.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191212T131803Z" creationid="Marco Marega" creationdate="20160817T191039Z">
+        <seg>aaaa&lt;f0&gt;Ora&lt;/f0&gt;&lt;f1&gt;, &lt;/f1&gt;&lt;f2&gt;minuto&lt;/f2&gt; e &lt;f3&gt;secondo&lt;/f3&gt; devono essere tutti numeri interi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45288,8 +45288,8 @@
       <tuv lang="EN">
         <seg>Returns the current time value from values for hours, minutes and seconds.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T190857Z" creationid="Marco Marega" creationdate="20160817T190857Z">
-        <seg>Restituisce il valore temporale dai valori di ora, minuto e secondo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191212T131415Z" creationid="Marco Marega" creationdate="20160817T190857Z">
+        <seg>Restituisce il valore temporale corrente partendo dai valori di ora, minuto e secondo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58784,8 +58784,8 @@
       <tuv lang="EN">
         <seg>This function can be used to convert a time based on these three elements to a decimal time value.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T191002Z" creationid="Marco Marega" creationdate="20160817T191002Z">
-        <seg>Questa funzione può essere usata per convertire un orario basato su questi tre elementi in un orario in formato decimale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191212T131800Z" creationid="Marco Marega" creationdate="20160817T191002Z">
+        <seg>Questa funzione può essere usata per convertire un orario basato su questi tre elementi in un valore temporale decimale.</seg>
       </tuv>
     </tu>
     <tu>
