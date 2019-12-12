@@ -9608,8 +9608,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;Start_date&lt;/f2&gt; is the date from which the calculation is carried out.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191212T081444Z" creationid="Marco Marega" creationdate="20160817T190006Z">
-        <seg>aaaa&lt;f2&gt;Data iniziale&lt;/f2&gt; è la data da cui parte il conteggio.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191212T093742Z" creationid="Marco Marega" creationdate="20160817T190006Z">
+        <seg>&lt;f2&gt;Data_iniziale&lt;/f2&gt; è la data da cui parte il conteggio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9688,8 +9688,8 @@
       <tuv lang="EN">
         <seg>&lt;f3&gt;End_date&lt;/f3&gt; is the date up to which the calculation is carried out.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T190026Z" creationid="Marco Marega" creationdate="20160817T190026Z">
-        <seg>&lt;f3&gt;Data finale&lt;/f3&gt; è la data fino alla quale arriva il conteggio.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191212T093916Z" creationid="Marco Marega" creationdate="20160817T190026Z">
+        <seg>&lt;f3&gt;Data_finale&lt;/f3&gt; è la data fino alla quale viene eseguito il calcolo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9824,8 +9824,8 @@
       <tuv lang="EN">
         <seg>&lt;f4&gt;Holidays&lt;/f4&gt; (optional) is a list of holidays.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T190135Z" creationid="Marco Marega" creationdate="20160817T190135Z">
-        <seg>&lt;f4&gt;Vacanze&lt;/f4&gt; (facoltativo) è una lista di giorni di vacanza.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191212T094259Z" creationid="Marco Marega" creationdate="20160817T190135Z">
+        <seg>&lt;f4&gt;Vacanze&lt;/f4&gt; (facoltativo) è un elenco di giorni di vacanza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30432,8 +30432,8 @@
       <tuv lang="EN">
         <seg>Holidays can be deducted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191212T081442Z" creationid="Marco Marega" creationdate="20160817T185936Z">
-        <seg>I giorni festivi possono essere detratti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191212T094313Z" creationid="Marco Marega" creationdate="20160817T185936Z">
+        <seg>Le vacanze possono essere detratte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45160,8 +45160,8 @@
       <tuv lang="EN">
         <seg>Returns the computer system date and time.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T190306Z" creationid="Marco Marega" creationdate="20160817T190306Z">
-        <seg>Restituisce la data e l'ora di sistema del computer in uso.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191212T094500Z" creationid="Marco Marega" creationdate="20160817T190306Z">
+        <seg>aaaaRestituisce la data e l'ora di sistema del computer in uso.</seg>
       </tuv>
     </tu>
     <tu>
