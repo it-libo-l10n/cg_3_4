@@ -46256,8 +46256,8 @@
       <tuv lang="EN">
         <seg>Returns the second, as an integer, for the given time value.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number&lt;/f1&gt; is a time value.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T190612Z" creationid="Marco Marega" creationdate="20160817T190612Z">
-        <seg>Restituisce il secondo, come numero intero, per un dato valore di orario.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; è un valore di orario.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191212T113119Z" creationid="Marco Marega" creationdate="20160817T190612Z">
+        <seg>Restituisce il secondo, come numero intero, per un dato valore orario.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; è un valore orario.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46920,8 +46920,8 @@
       <tuv lang="EN">
         <seg>SECOND(number)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191212T104316Z" creationid="Marco Marega" creationdate="20160817T190528Z">
-        <seg>aaaaSECONDO(numero)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191212T112523Z" creationid="Marco Marega" creationdate="20160817T190528Z">
+        <seg>SECONDO(numero)</seg>
       </tuv>
     </tu>
     <tu>
@@ -51576,7 +51576,7 @@
       <tuv lang="EN">
         <seg>TIME(hour; minute; second)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T190719Z" creationid="Marco Marega" creationdate="20160817T190719Z">
+      <tuv lang="IT-IT" changeid="luke" changedate="20191212T113316Z" creationid="Marco Marega" creationdate="20160817T190719Z">
         <seg>ORARIO(ora; minuto; secondo)</seg>
       </tuv>
     </tu>
