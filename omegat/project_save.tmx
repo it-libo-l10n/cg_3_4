@@ -45592,8 +45592,8 @@
       <tuv lang="EN">
         <seg>Returns the internal time number from a &lt;f0&gt;text&lt;/f0&gt; enclosed by quotes in a time entry format.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191213T104823Z" creationid="Marco Marega" creationdate="20160817T191251Z">
-        <seg>aaaaRestituisce il numero interno dell'orario scritto come &lt;f0&gt;testo&lt;/f0&gt; racchiuso tra virgolette in un formato valido per l'inserimento di orari.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191213T111617Z" creationid="Marco Marega" creationdate="20160817T191251Z">
+        <seg>Restituisce il numero interno orario da un &lt;f0&gt;testo&lt;/f0&gt; racchiuso tra virgolette in un formato valido per l'inserimento di orari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55344,8 +55344,8 @@
       <tuv lang="EN">
         <seg>The internal number indicated as a decimal is the result of the date system used under &lt;f1&gt;LibreOffice&lt;/f1&gt; to calculate date entries.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T191502Z" creationid="Marco Marega" creationdate="20160817T191502Z">
-        <seg>Il numero interno indicato come decimale è il risultato del sistema di date usato da &lt;f1&gt;LibreOffice&lt;/f1&gt; per valutare le date inserite.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191213T111620Z" creationid="Marco Marega" creationdate="20160817T191502Z">
+        <seg>aaaaIl numero interno indicato come decimale è il risultato del sistema di date usato da &lt;f1&gt;LibreOffice&lt;/f1&gt; per valutare le date inserite.</seg>
       </tuv>
     </tu>
     <tu>
