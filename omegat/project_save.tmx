@@ -8840,8 +8840,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;WEEKNUM&lt;/f0&gt;(number; mode)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191216T091602Z" creationid="Marco Marega" creationdate="20160817T212831Z">
-        <seg>aaaa&lt;f0&gt;NUM.SETTIMANA&lt;/f0&gt;(numero; modo)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191216T111158Z" creationid="Marco Marega" creationdate="20160817T212831Z">
+        <seg>&lt;f0&gt;NUM.SETTIMANA&lt;/f0&gt;(numero; modo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16536,8 +16536,8 @@
       <tuv lang="EN">
         <seg>Calculates the number of the calendar week of the year for the internal date &lt;f0&gt;number&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T213107Z" creationid="Marco Marega" creationdate="20160817T213107Z">
-        <seg>Calcola il numero della settimana nel calendario dell'anno in base al &lt;f0&gt;numero&lt;/f0&gt; interno della data.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191216T111203Z" creationid="Marco Marega" creationdate="20160817T213107Z">
+        <seg>aaaaCalcola il numero della settimana nel calendario dell'anno in base al &lt;f0&gt;numero&lt;/f0&gt; interno della data.</seg>
       </tuv>
     </tu>
     <tu>
