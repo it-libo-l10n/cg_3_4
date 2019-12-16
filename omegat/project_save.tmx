@@ -9296,8 +9296,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Mode&lt;/f1&gt; sets the start of the week and the calculation type: 1 = Sunday, 2 = Monday.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T213154Z" creationid="Marco Marega" creationdate="20160817T213154Z">
-        <seg>&lt;f1&gt;Modo&lt;/f1&gt; imposta l'inizio della settimana ed il tipo di calcolo: 1 = Domenica, 2 = Lunedì.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191216T120028Z" creationid="Marco Marega" creationdate="20160817T213154Z">
+        <seg>&lt;f1&gt;Modo&lt;/f1&gt; imposta l'inizio della settimana e il tipo di calcolo: 1 = Domenica, 2 = Lunedì.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16536,8 +16536,8 @@
       <tuv lang="EN">
         <seg>Calculates the number of the calendar week of the year for the internal date &lt;f0&gt;number&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191216T111203Z" creationid="Marco Marega" creationdate="20160817T213107Z">
-        <seg>aaaaCalcola il numero della settimana nel calendario dell'anno in base al &lt;f0&gt;numero&lt;/f0&gt; interno della data.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191216T115819Z" creationid="Marco Marega" creationdate="20160817T213107Z">
+        <seg>Calcola il numero della settimana di calendario dell'anno in base al &lt;f0&gt;numero&lt;/f0&gt; di data interno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64728,8 +64728,8 @@
       <tuv lang="EN">
         <seg>WEEKNUM_ADD(date; return_type)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T215535Z" creationid="Marco Marega" creationdate="20160817T213805Z">
-        <seg>NUM.SETTIMANA_ADD(data; metodo)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191216T120030Z" creationid="Marco Marega" creationdate="20160817T213805Z">
+        <seg>aaaaNUM.SETTIMANA_ADD(data; metodo)</seg>
       </tuv>
     </tu>
     <tu>
