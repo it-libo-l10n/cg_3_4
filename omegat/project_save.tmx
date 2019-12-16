@@ -9200,8 +9200,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Date&lt;/f1&gt; is the date within the calendar week.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Return_type&lt;/f3&gt; sets the start of the week and the calculation type: 1 = Sunday, 2 = Monday.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T215525Z" creationid="Marco Marega" creationdate="20160817T215525Z">
-        <seg>&lt;f1&gt;Data&lt;/f1&gt; è la data compresa nella settimana di calendario.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Return_type&lt;/f3&gt; imposta l'inizio della settimana ed il tipo di calcolo: 1 = Domenica, 2 = Lunedì.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191216T140722Z" creationid="Marco Marega" creationdate="20160817T215525Z">
+        <seg>aaaa&lt;f1&gt;Data&lt;/f1&gt; è la data compresa nella settimana di calendario.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Return_type&lt;/f3&gt; imposta l'inizio della settimana ed il tipo di calcolo: 1 = Domenica, 2 = Lunedì.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16320,8 +16320,8 @@
       <tuv lang="EN">
         <seg>Calculates the calendar week of the year for a &lt;f0&gt;Date&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191216T130959Z" creationid="Marco Marega" creationdate="20160817T213905Z">
-        <seg>aaaaCalcola il numero della settimana nel calendario dell'anno in cui cade una &lt;f0&gt;Data&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191216T140142Z" creationid="Marco Marega" creationdate="20160817T213905Z">
+        <seg>Calcola il numero della settimana nel calendario dell'anno in cui cade una &lt;f0&gt;Data&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16536,8 +16536,8 @@
       <tuv lang="EN">
         <seg>Calculates the number of the calendar week of the year for the internal date &lt;f0&gt;number&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191216T115819Z" creationid="Marco Marega" creationdate="20160817T213107Z">
-        <seg>Calcola il numero della settimana di calendario dell'anno in base al &lt;f0&gt;numero&lt;/f0&gt; di data interno.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191216T140203Z" creationid="Marco Marega" creationdate="20160817T213107Z">
+        <seg>Calcola il numero della settimana nel calendario dell'anno in base al &lt;f0&gt;numero&lt;/f0&gt; di data interno.</seg>
       </tuv>
     </tu>
     <tu>
