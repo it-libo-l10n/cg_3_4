@@ -8840,8 +8840,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;WEEKNUM&lt;/f0&gt;(number; mode)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T212831Z" creationid="Marco Marega" creationdate="20160817T212831Z">
-        <seg>&lt;f0&gt;NUM.SETTIMANA&lt;/f0&gt;(numero; modo)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191216T091602Z" creationid="Marco Marega" creationdate="20160817T212831Z">
+        <seg>aaaa&lt;f0&gt;NUM.SETTIMANA&lt;/f0&gt;(numero; modo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9408,8 +9408,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Type&lt;/f1&gt; determines the type of calculation: &lt;s2/&gt;type = 1 (default), the weekdays are counted starting from Sunday (Monday = 0; type = 2, the weekdays are counted starting from Monday (Monday = 1); type = 3, the weekdays are counted &lt;f3&gt;starting from&lt;/f3&gt; Monday (Monday = 0).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T212730Z" creationid="Marco Marega" creationdate="20160817T212730Z">
-        <seg>&lt;f1&gt;Tipo&lt;/f1&gt; indica il tipo di calcolo: &lt;s2/&gt;tipo = 1 (predefinito), i giorni della settimana vengono contati partendo dalla Domenica (Lunedì = 0); tipo= 2, i giorni della settimana vengono contati partendo dal Lunedì (Lunedì = 1); tipo = 3, i giorni della settimana vengono contati &lt;f3&gt;partendo da &lt;/f3&gt; Lunedì (Lunedì = 0).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191216T090252Z" creationid="Marco Marega" creationdate="20160817T212730Z">
+        <seg>&lt;f1&gt;Tipo&lt;/f1&gt; indica il tipo di calcolo: &lt;s2/&gt;tipo = 1 (predefinito), i giorni della settimana vengono contati partendo dalla Domenica (Lunedì = 0); tipo = 2, i giorni della settimana vengono contati partendo dal Lunedì (Lunedì = 1); tipo = 3, i giorni della settimana vengono contati &lt;f3&gt;partendo dal&lt;/f3&gt; Lunedì (Lunedì = 0).</seg>
       </tuv>
     </tu>
     <tu>
@@ -45328,8 +45328,8 @@
       <tuv lang="EN">
         <seg>Returns the day of the week for the given &lt;f0&gt;number&lt;/f0&gt; (date value).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191216T083333Z" creationid="Marco Marega" creationdate="20160817T212334Z">
-        <seg>aaaaRestituisce il giorno della settimana per il &lt;f0&gt;numero&lt;/f0&gt; dato (valore di una data).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191216T084940Z" creationid="Marco Marega" creationdate="20160817T212334Z">
+        <seg>Restituisce il giorno della settimana per il &lt;f0&gt;numero&lt;/f0&gt; dato (valore di una data).</seg>
       </tuv>
     </tu>
     <tu>
