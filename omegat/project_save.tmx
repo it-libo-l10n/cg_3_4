@@ -16320,8 +16320,8 @@
       <tuv lang="EN">
         <seg>Calculates the calendar week of the year for a &lt;f0&gt;Date&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T213905Z" creationid="Marco Marega" creationdate="20160817T213905Z">
-        <seg>Calcola il numero della settimana nel calendario dell'anno in cui cade una &lt;f0&gt;Data&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191216T130959Z" creationid="Marco Marega" creationdate="20160817T213905Z">
+        <seg>aaaaCalcola il numero della settimana nel calendario dell'anno in cui cade una &lt;f0&gt;Data&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64728,8 +64728,8 @@
       <tuv lang="EN">
         <seg>WEEKNUM_ADD(date; return_type)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191216T120030Z" creationid="Marco Marega" creationdate="20160817T213805Z">
-        <seg>aaaaNUM.SETTIMANA_ADD(data; metodo)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191216T130956Z" creationid="Marco Marega" creationdate="20160817T213805Z">
+        <seg>NUM.SETTIMANA_ADD(data; metodo)</seg>
       </tuv>
     </tu>
     <tu>
