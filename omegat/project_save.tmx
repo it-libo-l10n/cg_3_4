@@ -9200,8 +9200,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Date&lt;/f1&gt; is the date within the calendar week.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Return_type&lt;/f3&gt; sets the start of the week and the calculation type: 1 = Sunday, 2 = Monday.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191216T140722Z" creationid="Marco Marega" creationdate="20160817T215525Z">
-        <seg>aaaa&lt;f1&gt;Data&lt;/f1&gt; è la data compresa nella settimana di calendario.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Return_type&lt;/f3&gt; imposta l'inizio della settimana ed il tipo di calcolo: 1 = Domenica, 2 = Lunedì.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191216T152341Z" creationid="Marco Marega" creationdate="20160817T215525Z">
+        <seg>&lt;f1&gt;Data&lt;/f1&gt; è la data compresa nella settimana di calendario.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Metodo&lt;/f3&gt; imposta l'inizio della settimana e il tipo di calcolo: 1 = Domenica, 2 = Lunedì.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64736,8 +64736,8 @@
       <tuv lang="EN">
         <seg>WEEKS(start_date; end_date; type)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T220138Z" creationid="Marco Marega" creationdate="20160817T220138Z">
-        <seg>SETTIMANE(data iniziale; data finale; tipo)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191216T152343Z" creationid="Marco Marega" creationdate="20160817T220138Z">
+        <seg>aaaaSETTIMANE(data iniziale; data finale; tipo)</seg>
       </tuv>
     </tu>
     <tu>
