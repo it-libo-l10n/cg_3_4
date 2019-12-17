@@ -16360,8 +16360,8 @@
       <tuv lang="EN">
         <seg>Calculates the difference in weeks between two dates, &lt;f0&gt;start_date&lt;/f0&gt; and &lt;f1&gt;end_date&lt;/f1&gt;.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Type&lt;/f3&gt; is one of two possible values, 0 (interval) or 1 (in numbers of weeks).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T220350Z" creationid="Marco Marega" creationdate="20160817T220244Z">
-        <seg>Calcola la differenza, in settimane, tra due date, &lt;f0&gt;data iniziale&lt;/f0&gt; e &lt;f1&gt;data finale&lt;/f1&gt;.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Tipo&lt;/f3&gt; è uno dei due possibili valori, 0 (intervallo) o 1 (in numeri di settimane).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191217T093806Z" creationid="Marco Marega" creationdate="20160817T220244Z">
+        <seg>Calcola la differenza, in settimane, tra due date, &lt;f0&gt;data_iniziale&lt;/f0&gt; e &lt;f1&gt;data_finale&lt;/f1&gt;.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Tipo&lt;/f3&gt; è uno dei due possibili valori, 0 (intervallo) o 1 (in numeri di settimane).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16544,8 +16544,8 @@
       <tuv lang="EN">
         <seg>Calculates the number of weeks in a year until a certain &lt;f0&gt;date&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T220758Z" creationid="Marco Marega" creationdate="20160817T220758Z">
-        <seg>Calcola il numero di settimane in un anno fino ad una certa &lt;f0&gt;data&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191217T094143Z" creationid="Marco Marega" creationdate="20160817T220758Z">
+        <seg>Calcola il numero di settimane in un anno fino a una certa &lt;f0&gt;data&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64736,8 +64736,8 @@
       <tuv lang="EN">
         <seg>WEEKS(start_date; end_date; type)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191216T161554Z" creationid="Marco Marega" creationdate="20160817T220138Z">
-        <seg>aaaaaaaaaaaaaaaaSETTIMANE(data iniziale; data finale; tipo)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191217T091507Z" creationid="Marco Marega" creationdate="20160817T220138Z">
+        <seg>SETTIMANE(data_iniziale; data_finale; tipo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -64752,8 +64752,8 @@
       <tuv lang="EN">
         <seg>WORKDAY(start_date; days; holidays)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T125035Z" creationid="Marco Marega" creationdate="20160818T125035Z">
-        <seg>GIORNO.LAVORATIVO(data iniziale; giorni; vacanze)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191217T094259Z" creationid="Marco Marega" creationdate="20160818T125035Z">
+        <seg>aaaaGIORNO.LAVORATIVO(data iniziale; giorni; vacanze)</seg>
       </tuv>
     </tu>
     <tu>
