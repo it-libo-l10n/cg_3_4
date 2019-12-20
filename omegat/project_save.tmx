@@ -9952,8 +9952,8 @@
       <tuv lang="EN">
         <seg>&lt;f8&gt;Basis&lt;/f8&gt; is chosen from a list of options and indicates how the year is to be calculated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191220T114145Z" creationid="Marco Marega" creationdate="20160818T125909Z">
-        <seg>aaaa&lt;f8&gt;Base&lt;/f8&gt; viene scelta tra una lista di opzioni ed indica il modo in cui viene calcolato l'anno.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191220T114616Z" creationid="Marco Marega" creationdate="20160818T125909Z">
+        <seg>&lt;f8&gt;Base&lt;/f8&gt; viene scelta da un elenco di opzioni e indica il modo in cui viene calcolato l'anno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66480,8 +66480,8 @@
       <tuv lang="EN">
         <seg>YEARS(start_date; end_date; type)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T125933Z" creationid="Marco Marega" creationdate="20160818T125933Z">
-        <seg>ANNI(data iniziale; data finale; tipo)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191220T114618Z" creationid="Marco Marega" creationdate="20160818T125933Z">
+        <seg>aaaaANNI(data iniziale; data finale; tipo)</seg>
       </tuv>
     </tu>
     <tu>
