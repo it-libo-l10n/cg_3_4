@@ -23240,8 +23240,8 @@
       <tuv lang="EN">
         <seg>Enter a cell range in which the holidays are listed individually.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160817T190224Z" creationid="Marco Marega" creationdate="20160817T190224Z">
-        <seg>Va inserito un intervallo di celle in cui le vacanze sono elencate singolarmente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191220T083158Z" creationid="Marco Marega" creationdate="20160817T190224Z">
+        <seg>Va inserito un intervallo di celle in cui i giorni di vacanza sono elencati singolarmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44864,8 +44864,8 @@
       <tuv lang="EN">
         <seg>Returns a date number that can be formatted as a date.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T125125Z" creationid="Marco Marega" creationdate="20160818T125125Z">
-        <seg>Restituisce un numero interno di data che può essere formattato come data.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191220T081317Z" creationid="Marco Marega" creationdate="20160818T125125Z">
+        <seg>Restituisce un numero di data che può essere formattato come data.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46528,8 +46528,8 @@
       <tuv lang="EN">
         <seg>Returns the year as a number according to the internal calculation rules.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T125445Z" creationid="Marco Marega" creationdate="20160818T125445Z">
-        <seg>Restituisce l'anno come numero secondo le regole interne di calcolo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191220T083229Z" creationid="Marco Marega" creationdate="20160818T125445Z">
+        <seg>aaaaRestituisce l'anno come numero secondo le regole interne di calcolo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64752,8 +64752,8 @@
       <tuv lang="EN">
         <seg>WORKDAY(start_date; days; holidays)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191217T162809Z" creationid="Marco Marega" creationdate="20160818T125035Z">
-        <seg>aaaaaaaaaaaaaaaaGIORNO.LAVORATIVO(data iniziale; giorni; vacanze)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191220T081042Z" creationid="Marco Marega" creationdate="20160818T125035Z">
+        <seg>GIORNO.LAVORATIVO(data_iniziale; giorni; vacanze)</seg>
       </tuv>
     </tu>
     <tu>
@@ -68688,8 +68688,8 @@
       <tuv lang="EN">
         <seg>You then see the date of a day that is a certain number of &lt;f0&gt;Workdays&lt;/f0&gt; away from the &lt;f1&gt;start_date&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt; &lt;f3&gt;Holidays&lt;/f3&gt; (optional) is a list of holidays.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T125348Z" creationid="Marco Marega" creationdate="20160818T125348Z">
-        <seg>Otterrete la data di un giorno che dista un determinato numero di &lt;f0&gt;giorni lavorativi&lt;/f0&gt; dalla &lt;f1&gt;data iniziale&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt; &lt;f3&gt;Vacanze&lt;/f3&gt; (facoltativo) è una lista di giorni festivi.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191220T082941Z" creationid="Marco Marega" creationdate="20160818T125348Z">
+        <seg>Otterrete la data di un giorno che dista un determinato numero di &lt;f0&gt;giorni lavorativi&lt;/f0&gt; dalla &lt;f1&gt;data_iniziale&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt; &lt;f3&gt;Vacanze&lt;/f3&gt; (facoltativo) è un elenco di giorni di ferie.</seg>
       </tuv>
     </tu>
     <tu>
