@@ -16368,8 +16368,8 @@
       <tuv lang="EN">
         <seg>Calculates the difference in years between two dates: the &lt;f0&gt;start_date &lt;/f0&gt;and the &lt;f1&gt;end_date&lt;/f1&gt;.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Type&lt;/f3&gt; calculates the type of difference.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T130043Z" creationid="Marco Marega" creationdate="20160818T130043Z">
-        <seg>Calcola la differenza, in anni, tra due date: la &lt;f0&gt;data iniziale &lt;/f0&gt;e la &lt;f1&gt;data finale&lt;/f1&gt;.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Tipo&lt;/f3&gt; indica il tipo di differenza.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191220T143602Z" creationid="Marco Marega" creationdate="20160818T130043Z">
+        <seg>Calcola la differenza, in anni, tra due date: la &lt;f0&gt;data_iniziale&lt;/f0&gt; e la &lt;f1&gt;data_finale&lt;/f1&gt;.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Tipo&lt;/f3&gt; indica il tipo di differenza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63440,8 +63440,8 @@
       <tuv lang="EN">
         <seg>Use the &lt;i0/&gt;&lt;is1/&gt;logical functions&lt;ie2/&gt; to test values and produce results based on the result of the test.&lt;f3&gt; &lt;/f3&gt;These functions are conditional and provide the ability to write longer formulas based on input or output.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T131256Z" creationid="Marco Marega" creationdate="20160818T131256Z">
-        <seg>Utilizzate le &lt;i0/&gt;&lt;is1/&gt;funzioni logiche&lt;ie2/&gt; per valutare dei contenuti e produrre dei risultati in base al risultato della valutazione.&lt;f3&gt; &lt;/f3&gt;Queste funzioni sono condizionali e forniscono la capacità di scrivere formule più lunghe che si basano sull'inserimento di valori o sui valori restituiti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191220T143633Z" creationid="Marco Marega" creationdate="20160818T131256Z">
+        <seg>aaaaUtilizzate le &lt;i0/&gt;&lt;is1/&gt;funzioni logiche&lt;ie2/&gt; per valutare dei contenuti e produrre dei risultati in base al risultato della valutazione.&lt;f3&gt; &lt;/f3&gt;Queste funzioni sono condizionali e forniscono la capacità di scrivere formule più lunghe che si basano sull'inserimento di valori o sui valori restituiti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66480,8 +66480,8 @@
       <tuv lang="EN">
         <seg>YEARS(start_date; end_date; type)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191220T114618Z" creationid="Marco Marega" creationdate="20160818T125933Z">
-        <seg>aaaaANNI(data iniziale; data finale; tipo)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191220T143126Z" creationid="Marco Marega" creationdate="20160818T125933Z">
+        <seg>ANNI(data_iniziale; data_finale; tipo)</seg>
       </tuv>
     </tu>
     <tu>
