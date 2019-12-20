@@ -7328,8 +7328,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Number&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;shows the internal date value for which the year is to be returned.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T125534Z" creationid="Marco Marega" creationdate="20160818T125534Z">
-        <seg>&lt;f0&gt;Numero&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;indica il valore interno della data di cui verrà restituito l'anno.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191220T092151Z" creationid="Marco Marega" creationdate="20160818T125534Z">
+        <seg>&lt;f0&gt;Numero&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;indica il valore di data interno di cui verrà restituito l'anno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8944,8 +8944,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;YEARFRAC&lt;/f0&gt;(start_date; end_date; basis)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T125625Z" creationid="Marco Marega" creationdate="20160818T125625Z">
-        <seg>&lt;f0&gt;FRAZIONE.ANNO&lt;/f0&gt;(data iniziale; data finale; base)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191220T092458Z" creationid="Marco Marega" creationdate="20160818T125625Z">
+        <seg>&lt;f0&gt;FRAZIONE.ANNO&lt;/f0&gt;(data_iniziale; data_finale; base)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44872,8 +44872,8 @@
       <tuv lang="EN">
         <seg>Returns a number between 0 and 1, representing the fraction of a year between &lt;f0&gt;start_date&lt;/f0&gt; and&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;end_date&lt;/f2&gt;&lt;f3&gt;.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T125738Z" creationid="Marco Marega" creationdate="20160818T125738Z">
-        <seg>Restituisce un numero tra 0 ed 1, che rappresenta la frazione di un anno compresa tra la &lt;f0&gt;data iniziale&lt;/f0&gt; e la&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;data finale&lt;/f2&gt;&lt;f3&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191220T092500Z" creationid="Marco Marega" creationdate="20160818T125738Z">
+        <seg>aaaaRestituisce un numero tra 0 ed 1, che rappresenta la frazione di un anno compresa tra la &lt;f0&gt;data iniziale&lt;/f0&gt; e la&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;data finale&lt;/f2&gt;&lt;f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46528,8 +46528,8 @@
       <tuv lang="EN">
         <seg>Returns the year as a number according to the internal calculation rules.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191220T083229Z" creationid="Marco Marega" creationdate="20160818T125445Z">
-        <seg>aaaaRestituisce l'anno come numero secondo le regole interne di calcolo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191220T090302Z" creationid="Marco Marega" creationdate="20160818T125445Z">
+        <seg>Restituisce l'anno come numero secondo le regole di calcolo interne.</seg>
       </tuv>
     </tu>
     <tu>
