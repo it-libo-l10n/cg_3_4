@@ -6960,8 +6960,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Logical_value_1; logical_value_2; ...logical_value_30&lt;/f0&gt; are conditions to be checked.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T131548Z" creationid="Marco Marega" creationdate="20160818T131548Z">
-        <seg>&lt;f0&gt;Valore logico 1; valore logico 2; ...valore logico 30&lt;/f0&gt; sono le condizioni da verificare.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191223T094806Z" creationid="Marco Marega" creationdate="20160818T131548Z">
+        <seg>&lt;f0&gt;Valore_logico_1; valore_logico_2; ...valore_logico_30&lt;/f0&gt; sono le condizioni da verificare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11976,8 +11976,8 @@
       <tuv lang="EN">
         <seg>AND(logical_value_1; logical_value_2; ...logical_value_30)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191223T080744Z" creationid="Marco Marega" creationdate="20160818T131339Z">
-        <seg>aaaaE(valore logico 1; valore logico 2; ...valore logico 30)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191223T094429Z" creationid="Marco Marega" creationdate="20160818T131339Z">
+        <seg>E(valore_logico_1; valore_logico_2; ...valore_logico_30)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12720,8 +12720,8 @@
       <tuv lang="EN">
         <seg>All conditions can be either TRUE or FALSE.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T131617Z" creationid="Marco Marega" creationdate="20160818T131617Z">
-        <seg>Tutte le condizioni possono essere sia VERE che FALSE.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191223T095928Z" creationid="Marco Marega" creationdate="20160818T131617Z">
+        <seg>Tutte le condizioni possono essere o VERO o FALSO.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31280,8 +31280,8 @@
       <tuv lang="EN">
         <seg>If a range is entered as a parameter, the function uses the value from the range that is in the current column or row.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T131747Z" creationid="Marco Marega" creationdate="20160818T131747Z">
-        <seg>Se come parametro viene inserito un intervallo, la funzione utilizzerà i valori dell'intervallo che si trovano nella colonna o nella riga corrente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191223T100026Z" creationid="Marco Marega" creationdate="20160818T131747Z">
+        <seg>aaaaSe come parametro viene inserito un intervallo, la funzione utilizzerà i valori dell'intervallo che si trovano nella colonna o nella riga corrente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44776,8 +44776,8 @@
       <tuv lang="EN">
         <seg>Returns TRUE if all arguments are TRUE.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T131432Z" creationid="Marco Marega" creationdate="20160818T131432Z">
-        <seg>Restituisce VERO se tutti i parametri sono VERI.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191223T100011Z" creationid="Marco Marega" creationdate="20160818T131432Z">
+        <seg>Restituisce VERO se tutti gli argomenti hanno valore VERO.</seg>
       </tuv>
     </tu>
     <tu>
