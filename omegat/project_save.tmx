@@ -8184,8 +8184,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Test&lt;/f0&gt; is any value or expression that can be TRUE or FALSE.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T132140Z" creationid="Marco Marega" creationdate="20160818T132140Z">
-        <seg>&lt;f0&gt;Test&lt;/f0&gt; è qualsiasi valore o espressione che può dare come risultato VERO o FALSO.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191223T135309Z" creationid="Marco Marega" creationdate="20160818T132140Z">
+        <seg>aaaa&lt;f0&gt;Test&lt;/f0&gt; è qualsiasi valore o espressione che può dare come risultato VERO o FALSO.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30848,8 +30848,8 @@
       <tuv lang="EN">
         <seg>IF(test; then_value; otherwise_value)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T132021Z" creationid="Marco Marega" creationdate="20160818T131940Z">
-        <seg>SE(test; se vero; se falso)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191223T135228Z" creationid="Marco Marega" creationdate="20160818T131940Z">
+        <seg>SE(test; se_vero; se_falso)</seg>
       </tuv>
     </tu>
     <tu>
@@ -52856,8 +52856,8 @@
       <tuv lang="EN">
         <seg>The FALSE() function does not require any arguments.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191223T125257Z" creationid="Marco Marega" creationdate="20160818T131930Z">
-        <seg>aaaaLa funzione FALSO() non richiede parametri.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191223T135041Z" creationid="Marco Marega" creationdate="20160818T131930Z">
+        <seg>La funzione FALSO() non richiede argomenti.</seg>
       </tuv>
     </tu>
     <tu>
