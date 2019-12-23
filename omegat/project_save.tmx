@@ -31280,8 +31280,8 @@
       <tuv lang="EN">
         <seg>If a range is entered as a parameter, the function uses the value from the range that is in the current column or row.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191223T100026Z" creationid="Marco Marega" creationdate="20160818T131747Z">
-        <seg>aaaaSe come parametro viene inserito un intervallo, la funzione utilizzerà i valori dell'intervallo che si trovano nella colonna o nella riga corrente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191223T122250Z" creationid="Marco Marega" creationdate="20160818T131747Z">
+        <seg>Se come parametro viene inserito un intervallo, la funzione utilizzerà il valore dell'intervallo che si trova nella colonna o nella riga corrente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56632,8 +56632,8 @@
       <tuv lang="EN">
         <seg>The result is TRUE if the logical value in all cells within the cell range is TRUE</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T131848Z" creationid="Marco Marega" creationdate="20160818T131848Z">
-        <seg>Il risultato è VERO se tutti i valori logici, in tutte le celle dell'intervallo, sono VERI.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191223T122252Z" creationid="Marco Marega" creationdate="20160818T131848Z">
+        <seg>aaaaIl risultato è VERO se tutti i valori logici, in tutte le celle dell'intervallo, sono VERI.</seg>
       </tuv>
     </tu>
     <tu>
