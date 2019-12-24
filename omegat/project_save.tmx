@@ -9400,8 +9400,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Then_value&lt;/f1&gt; (optional) is the value that is returned if the logical test is TRUE.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191224T100619Z" creationid="Marco Marega" creationdate="20160818T132230Z">
-        <seg>aaaa&lt;f1&gt;Se vero&lt;/f1&gt; (facoltativo) è il valore che viene restituito se il test logico da come risultato VERO.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191224T143709Z" creationid="Marco Marega" creationdate="20160818T132230Z">
+        <seg>&lt;f1&gt;Se_vero&lt;/f1&gt; (facoltativo) è il valore che viene restituito se il test logico è VERO.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9592,8 +9592,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;Otherwise_value&lt;/f2&gt; (optional) is the value that is returned if the logical test is FALSE.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T132253Z" creationid="Marco Marega" creationdate="20160818T132253Z">
-        <seg>&lt;f2&gt;Se falso&lt;/f2&gt; (facoltativo) è il valore che viene restituito se il test logico da come risultato FALSO.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191224T143825Z" creationid="Marco Marega" creationdate="20160818T132253Z">
+        <seg>&lt;f2&gt;Se_falso&lt;/f2&gt; (facoltativo) è il valore che viene restituito se il test logico è FALSO.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39136,8 +39136,8 @@
       <tuv lang="EN">
         <seg>NOT(logical_value)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T132353Z" creationid="Marco Marega" creationdate="20160818T132353Z">
-        <seg>NON(valore logico)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191224T143827Z" creationid="Marco Marega" creationdate="20160818T132353Z">
+        <seg>aaaaNON(valore logico)</seg>
       </tuv>
     </tu>
     <tu>
