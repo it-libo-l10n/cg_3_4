@@ -16352,8 +16352,8 @@
       <tuv lang="EN">
         <seg>Calculates the current value of a formula at the actual position.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T130804Z" creationid="Marco Marega" creationdate="20160819T130349Z">
-        <seg>Calcola il valore attuale di una formula nella posizione corrente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191227T135552Z" creationid="Marco Marega" creationdate="20160819T130349Z">
+        <seg>aaaaCalcola il valore attuale di una formula nella posizione corrente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31624,16 +31624,16 @@
       <tuv lang="EN">
         <seg>If r&lt;f7&gt;eference&lt;/f7&gt; is a range, the cell reference moves to the top left of the range.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T133919Z" creationid="Marco Marega" creationdate="20160818T133919Z">
-        <seg>Se r&lt;f7&gt;iferimento&lt;/f7&gt; è un intervallo, il riferimento viene spostato alla prima cella in alto a sinistra dell'intervallo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191227T135121Z" creationid="Marco Marega" creationdate="20160818T133919Z">
+        <seg>Se il r&lt;f7&gt;iferimento&lt;/f7&gt; è un intervallo, viene considerata la prima cella in alto a sinistra dell'intervallo.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If r&lt;f8&gt;eference&lt;/f8&gt; is missing, Calc uses the position of the cell in which this formula is located.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T134023Z" creationid="Marco Marega" creationdate="20160818T134023Z">
-        <seg>Se r&lt;f8&gt;iferimento&lt;/f8&gt; è mancante, Calc utilizza la posizione della cella al cui interno si trova questa formula.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191227T135509Z" creationid="Marco Marega" creationdate="20160818T134023Z">
+        <seg>Se il r&lt;f8&gt;iferimento&lt;/f8&gt; è mancante, Calc utilizza la posizione della cella in cui si trova questa formula.</seg>
       </tuv>
     </tu>
     <tu>
