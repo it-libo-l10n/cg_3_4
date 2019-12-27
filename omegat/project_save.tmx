@@ -15376,8 +15376,8 @@
       <tuv lang="EN">
         <seg>CELL(info_type; reference)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T133343Z" creationid="Marco Marega" creationdate="20160818T133343Z">
-        <seg>CELLA(tipo di informazioni; riferimento)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191227T125034Z" creationid="Marco Marega" creationdate="20160818T133343Z">
+        <seg>CELLA(tipo_di_informazioni; riferimento)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31280,8 +31280,8 @@
       <tuv lang="EN">
         <seg>If a range is entered as a parameter, the function uses the value from the range that is in the current column or row.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191227T115131Z" creationid="Marco Marega" creationdate="20160818T131747Z">
-        <seg>aaaaSe come parametro viene inserito un intervallo, la funzione utilizzerà il valore dell'intervallo che si trova nella colonna o nella riga corrente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191227T122707Z" creationid="Marco Marega" creationdate="20160818T131747Z">
+        <seg>Se come parametro viene inserito un intervallo, la funzione utilizzerà il valore dell'intervallo che si trova nella colonna o nella riga corrente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44944,8 +44944,8 @@
       <tuv lang="EN">
         <seg>Returns information on a cell such as its address, formatting or contents of a cell based on the value of the &lt;f0&gt;info_type&lt;/f0&gt; argument.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T133530Z" creationid="Marco Marega" creationdate="20160818T133530Z">
-        <seg>Restituisce informazioni su di una cella come il suo indirizzo, la formattazione o i contenuti e ciò sulla base del valore del parametro &lt;f0&gt;tipo di informazioni&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191227T125038Z" creationid="Marco Marega" creationdate="20160818T133530Z">
+        <seg>aaaaRestituisce informazioni su di una cella come il suo indirizzo, la formattazione o i contenuti e ciò sulla base del valore del parametro &lt;f0&gt;tipo di informazioni&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51920,8 +51920,8 @@
       <tuv lang="EN">
         <seg>Table &lt;seq0&gt;41&lt;/seq0&gt;: Informational functions</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T133300Z" creationid="Marco Marega" creationdate="20160818T133300Z">
-        <seg>Tabella &lt;seq0&gt;41&lt;/seq0&gt;: Funzioni di informazione</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191227T124850Z" creationid="Marco Marega" creationdate="20160818T133300Z">
+        <seg>Tabella &lt;seq0&gt;41&lt;/seq0&gt;: funzioni di informazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -53312,8 +53312,8 @@
       <tuv lang="EN">
         <seg>The TRUE() function does not require any arguments.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T132901Z" creationid="Marco Marega" creationdate="20160818T132901Z">
-        <seg>La funzione VERO() non richiede parametri.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191227T123413Z" creationid="Marco Marega" creationdate="20160818T132901Z">
+        <seg>La funzione VERO() non richiede argomenti.</seg>
       </tuv>
     </tu>
     <tu>
