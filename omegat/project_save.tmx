@@ -9264,8 +9264,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Info_type&lt;/f1&gt; specifies the type of information to be returned and comes from a predefined list of arguments.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T133630Z" creationid="Marco Marega" creationdate="20160818T133630Z">
-        <seg>&lt;f1&gt;Tipo di informazioni&lt;/f1&gt; specifica il tipo di informazioni da restituire e va scelto da una lista predefinita di parametri.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191227T133224Z" creationid="Marco Marega" creationdate="20160818T133630Z">
+        <seg>&lt;f1&gt;Tipo_di_informazioni&lt;/f1&gt; specifica il tipo di informazioni da restituire e va scelto da un elenco predefinito di argomenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9528,8 +9528,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;Info_type&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; is not case sensitive, but it must be enclosed within quotes.&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Reference&lt;/f6&gt; is the address of the cell to be examined.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T133746Z" creationid="Marco Marega" creationdate="20160818T133746Z">
-        <seg>&lt;f2&gt;Tipo di informazioni&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; non fa distinzione tra maiuscole e minuscole, ma deve essere racchiuso tra virgolette.&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Riferimento&lt;/f6&gt; è l'indirizzo della cella da esaminare.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191227T134546Z" creationid="Marco Marega" creationdate="20160818T133746Z">
+        <seg>&lt;f2&gt;Tipo_di_informazioni&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt; non fa distinzione tra maiuscole e minuscole, ma deve essere racchiuso tra virgolette.&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Riferimento&lt;/f6&gt; è l'indirizzo della cella da esaminare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44944,8 +44944,8 @@
       <tuv lang="EN">
         <seg>Returns information on a cell such as its address, formatting or contents of a cell based on the value of the &lt;f0&gt;info_type&lt;/f0&gt; argument.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191227T125038Z" creationid="Marco Marega" creationdate="20160818T133530Z">
-        <seg>aaaaRestituisce informazioni su di una cella come il suo indirizzo, la formattazione o i contenuti e ciò sulla base del valore del parametro &lt;f0&gt;tipo di informazioni&lt;/f0&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191227T133059Z" creationid="Marco Marega" creationdate="20160818T133530Z">
+        <seg>Restituisce informazioni sull'indirizzo, la formattazione o il contenuto di una cella, sulla base del valore dell'argomento &lt;f0&gt;tipo_di_informazioni&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
