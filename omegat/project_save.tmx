@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6952,8 +6952,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Logical_value&lt;/f0&gt; is any value to be reversed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T132546Z" creationid="Marco Marega" creationdate="20160818T132546Z">
-        <seg>&lt;f0&gt;Valore logico&lt;/f0&gt; è un valore qualsiasi da invertire.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191227T113929Z" creationid="Marco Marega" creationdate="20160818T132546Z">
+        <seg>&lt;f0&gt;Valore_logico&lt;/f0&gt; è un valore qualsiasi da invertire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7688,8 +7688,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Returns&lt;/f0&gt; the value FALSE if all the arguments have the logical value FALSE.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T132743Z" creationid="Marco Marega" creationdate="20160818T132719Z">
-        <seg>&lt;f0&gt;Restituisce&lt;/f0&gt; il valore FALSO se tutti i parametri hanno come valore logico FALSO.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191227T114655Z" creationid="Marco Marega" creationdate="20160818T132719Z">
+        <seg>&lt;f0&gt;Restituisce&lt;/f0&gt; il valore FALSO se tutti gli argomenti hanno come valore logico FALSO.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39136,8 +39136,8 @@
       <tuv lang="EN">
         <seg>NOT(logical_value)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191224T170809Z" creationid="Marco Marega" creationdate="20160818T132353Z">
-        <seg>aaaaaaaaaaaaaaaaNON(valore logico)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191227T113651Z" creationid="Marco Marega" creationdate="20160818T132353Z">
+        <seg>NON(valore_logico)</seg>
       </tuv>
     </tu>
     <tu>
@@ -40016,8 +40016,8 @@
       <tuv lang="EN">
         <seg>OR(logical_value_1; logical_value_2; ...logical_value_30)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T132619Z" creationid="Marco Marega" creationdate="20160818T132619Z">
-        <seg>O(valore logico 1; valore logico 2; ...valore logico 30)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191227T114104Z" creationid="Marco Marega" creationdate="20160818T132619Z">
+        <seg>O(valore_logico_1; valore_logico_2; ...valore_logico_30)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44784,8 +44784,8 @@
       <tuv lang="EN">
         <seg>Returns TRUE if at least one argument is TRUE.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160818T132644Z" creationid="Marco Marega" creationdate="20160818T132644Z">
-        <seg>Restituisce VERSO se almeno un parametro è VERO.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191227T114425Z" creationid="Marco Marega" creationdate="20160818T132644Z">
+        <seg>Restituisce VERO se almeno un argomento è VERO.</seg>
       </tuv>
     </tu>
     <tu>
