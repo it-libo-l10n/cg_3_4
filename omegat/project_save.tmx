@@ -6504,8 +6504,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;ISBLANK&lt;/f0&gt;(value)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T131329Z" creationid="Marco Marega" creationdate="20160819T131329Z">
-        <seg>&lt;f0&gt;VAL.VUOTO&lt;/f0&gt;(valore)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191231T092805Z" creationid="Marco Marega" creationdate="20160819T131329Z">
+        <seg>aaaa&lt;f0&gt;VAL.VUOTO&lt;/f0&gt;(valore)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22048,8 +22048,8 @@
       <tuv lang="EN">
         <seg>Displays the formula of a formula cell at any position.&lt;f0&gt; &lt;/f0&gt;The formula will be returned as a string in the &lt;f1&gt;Reference&lt;/f1&gt; position.&lt;f2&gt; &lt;/f2&gt;If no formula cell can be found, or if the presented argument is not a reference, returns the error value #N/A.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191230T154705Z" creationid="Marco Marega" creationdate="20160819T131250Z">
-        <seg>aaaaaaaaaaaaaaaaVisualizza la formula contenuta in una cella qualunque.&lt;f0&gt; &lt;/f0&gt;La formula contenuta nella cella di  &lt;f1&gt;Riferimento&lt;/f1&gt; viene restituita come stringa di testo .&lt;f2&gt; &lt;/f2&gt;Se non viene trovata una formula, o se il paramentro non è un riferimento, viene restituito l'errore #N/D.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191231T092802Z" creationid="Marco Marega" creationdate="20160819T131250Z">
+        <seg>Visualizza la formula contenuta in una cella qualunque.&lt;f0&gt; &lt;/f0&gt;La formula viene restituita come una stringa di testo nella cella di &lt;f1&gt;riferimento&lt;/f1&gt;.&lt;f2&gt; &lt;/f2&gt;Se non viene trovata una formula, o se l'argomento non è un riferimento, viene restituito l'errore #N/D.</seg>
       </tuv>
     </tu>
     <tu>
