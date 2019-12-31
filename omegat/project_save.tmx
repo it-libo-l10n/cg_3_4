@@ -10928,8 +10928,8 @@
       <tuv lang="EN">
         <seg>A cell with a formula inside is not empty.&lt;f1&gt; &lt;/f1&gt;If an error occurs, the function returns a logical or numerical value.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Value&lt;/f3&gt; is the content to be tested.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T131830Z" creationid="Marco Marega" creationdate="20160819T131737Z">
-        <seg>Una cella che contiene una formula non è vuota.&lt;f1&gt; &lt;/f1&gt;Se si verifica un errore, la funzione restituisce un valore logico o numerico.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Valore&lt;/f3&gt; è il contenuto da esaminare.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191231T111540Z" creationid="Marco Marega" creationdate="20160819T131737Z">
+        <seg>aaaaUna cella che contiene una formula non è vuota.&lt;f1&gt; &lt;/f1&gt;Se si verifica un errore, la funzione restituisce un valore logico o numerico.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Valore&lt;/f3&gt; è il contenuto da esaminare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44824,8 +44824,8 @@
       <tuv lang="EN">
         <seg>Returns TRUE if the reference to a cell is blank.&lt;f0&gt; &lt;/f0&gt;This function is used to determine if the content of a cell is empty.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20191231T104842Z" creationid="Marco Marega" creationdate="20160819T131624Z">
-        <seg>aaaaRestituisce VERO se il riferimento ad una cella è vuoto.&lt;f0&gt; &lt;/f0&gt;Questa funzione viene usata per stabilire se il contenuto di una cella è vuoto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20191231T111537Z" creationid="Marco Marega" creationdate="20160819T131624Z">
+        <seg>Restituisce VERO se il riferimento a una cella è vuoto.&lt;f0&gt; &lt;/f0&gt;Questa funzione viene usata per stabilire se il contenuto di una cella è vuoto.</seg>
       </tuv>
     </tu>
     <tu>
