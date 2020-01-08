@@ -6520,8 +6520,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;ISERROR&lt;/f0&gt;(value)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T132258Z" creationid="Marco Marega" creationdate="20160819T132258Z">
-        <seg>&lt;f0&gt;VAL.ERRORE&lt;/f0&gt;(valore)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200108T125446Z" creationid="Marco Marega" creationdate="20160819T132258Z">
+        <seg>aaaa&lt;f0&gt;VAL.ERRORE&lt;/f0&gt;(valore)</seg>
       </tuv>
     </tu>
     <tu>
@@ -68200,8 +68200,8 @@
       <tuv lang="EN">
         <seg>You can use this function to control error values in certain cells.&lt;f0&gt; &lt;/f0&gt;If an error occurs, the function returns a logical or numerical value.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Value&lt;/f2&gt; is any value or expression in which a test is performed to determine whether an error value not equal to #N/A is present.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T132248Z" creationid="Marco Marega" creationdate="20160819T132248Z">
-        <seg>Potete utilizzare questa funzione per controllare i valori di errore in determinate celle.&lt;f0&gt; &lt;/f0&gt;Se si verifica un errore, la funzione restituisce un valore logico o numerico.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Valore&lt;/f2&gt; è qualsiasi valore o espressione che viene esaminato al fine di stabilire se contiene un errore diverso da #N/D.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200108T125118Z" creationid="Marco Marega" creationdate="20160819T132248Z">
+        <seg>Potete utilizzare questa funzione per controllare i valori di errore in determinate celle.&lt;f0&gt; &lt;/f0&gt;Se si verifica un errore, la funzione restituisce un valore logico o numerico.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Valore&lt;/f2&gt; è qualsiasi valore o espressione che viene esaminato al fine di stabilire se è presente un valore di errore diverso da #N/D.</seg>
       </tuv>
     </tu>
     <tu>
