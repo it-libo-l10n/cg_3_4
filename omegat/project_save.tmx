@@ -6512,8 +6512,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;ISERR&lt;/f0&gt;(value)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200108T113900Z" creationid="Marco Marega" creationdate="20160819T131751Z">
-        <seg>aaaa&lt;f0&gt;VAL.ERR&lt;/f0&gt;(valore)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200108T115021Z" creationid="Marco Marega" creationdate="20160819T131751Z">
+        <seg>&lt;f0&gt;VAL.ERR&lt;/f0&gt;(valore)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44840,8 +44840,8 @@
       <tuv lang="EN">
         <seg>Returns TRUE if the value refers to any error value except #N/A.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T131959Z" creationid="Marco Marega" creationdate="20160819T131959Z">
-        <seg>Restituisce VERO se il valore si riferisce ad un qualsiasi errore, eccetto a #N/D.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200108T115615Z" creationid="Marco Marega" creationdate="20160819T131959Z">
+        <seg>Restituisce VERO se il valore si riferisce a un qualsiasi valore di errore, eccetto #N/D.</seg>
       </tuv>
     </tu>
     <tu>
