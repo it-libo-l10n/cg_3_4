@@ -6560,8 +6560,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;ISNA&lt;/f0&gt;(value)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T134038Z" creationid="Marco Marega" creationdate="20160819T134038Z">
-        <seg>&lt;f0&gt;VAL.NON.DISP&lt;/f0&gt;(valore)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200109T114651Z" creationid="Marco Marega" creationdate="20160819T134038Z">
+        <seg>aaaa&lt;f0&gt;VAL.NON.DISP&lt;/f0&gt;(valore)</seg>
       </tuv>
     </tu>
     <tu>
@@ -55160,8 +55160,8 @@
       <tuv lang="EN">
         <seg>The function is used in order to check for both TRUE and FALSE values in certain cells.&lt;f0&gt; &lt;/f0&gt;If an error occurs, the function returns a logical or numerical value.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Value&lt;/f2&gt; is the value to be tested for logical number format.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T134012Z" creationid="Marco Marega" creationdate="20160819T134012Z">
-        <seg>La funzione viene utilizzata al fine di controllare se determinate celle contengono uno dei valori VERO o FALSO.&lt;f0&gt; &lt;/f0&gt;Se si verifica un errore, la funzione restituisce un valore logico o numerico.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Valore&lt;/f2&gt; è il valore da verificare se è un numero in formato logico.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200109T114649Z" creationid="Marco Marega" creationdate="20160819T134012Z">
+        <seg>La funzione viene utilizzata al fine di controllare se determinate celle contengono uno dei valori VERO o FALSO.&lt;f0&gt; &lt;/f0&gt;Se si verifica un errore, la funzione restituisce un valore logico o numerico.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Valore&lt;/f2&gt; è il valore per cui verificare la presenza di un numero in formato logico.</seg>
       </tuv>
     </tu>
     <tu>
