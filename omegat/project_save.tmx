@@ -6552,8 +6552,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;ISLOGICAL&lt;/f0&gt;(value)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T133646Z" creationid="Marco Marega" creationdate="20160819T133646Z">
-        <seg>&lt;f0&gt;VAL.LOGICO&lt;/f0&gt;(valore)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200109T104040Z" creationid="Marco Marega" creationdate="20160819T133646Z">
+        <seg>aaaa&lt;f0&gt;VAL.LOGICO&lt;/f0&gt;(valore)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44768,8 +44768,8 @@
       <tuv lang="EN">
         <seg>Returns TRUE if a cell is a formula cell.&lt;f0&gt; &lt;/f0&gt;If an error occurs, the function returns a logical or numerical value.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Reference&lt;/f2&gt; indicates the reference to a cell in which a test will be performed to determine if it contains a reference.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200109T082849Z" creationid="Marco Marega" creationdate="20160819T133616Z">
-        <seg>aaaaRestituisce VERO  se una cella è una cella formula.&lt;f0&gt; &lt;/f0&gt;Se si verifica un errore, la funzione restituisce un valore logico o numerico.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Riferimento&lt;/f2&gt; indica il riferimento ad una cella che viene esaminata al fine di stabilire se contiene una formula.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200109T104035Z" creationid="Marco Marega" creationdate="20160819T133616Z">
+        <seg>Restituisce VERO se una cella è una cella formula.&lt;f0&gt; &lt;/f0&gt;Se si verifica un errore, la funzione restituisce un valore logico o numerico.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Riferimento&lt;/f2&gt; indica il riferimento a una cella che viene esaminata al fine di stabilire se contiene una formula.</seg>
       </tuv>
     </tu>
     <tu>
