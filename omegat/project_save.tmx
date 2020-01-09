@@ -6560,8 +6560,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;ISNA&lt;/f0&gt;(value)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200109T114651Z" creationid="Marco Marega" creationdate="20160819T134038Z">
-        <seg>aaaa&lt;f0&gt;VAL.NON.DISP&lt;/f0&gt;(valore)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200109T132125Z" creationid="Marco Marega" creationdate="20160819T134038Z">
+        <seg>&lt;f0&gt;VAL.NON.DISP&lt;/f0&gt;(valore)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44760,8 +44760,8 @@
       <tuv lang="EN">
         <seg>Returns TRUE if a cell contains the #N/A (value not available) error value.&lt;f0&gt; &lt;/f0&gt;If an error occurs, the function returns a logical or numerical value.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Value&lt;/f2&gt; is the value or expression to be tested.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T135508Z" creationid="Marco Marega" creationdate="20160819T134208Z">
-        <seg>Restituisce VERO se una cella contiene il valore di errore #N/D (non disponibile).&lt;f0&gt; &lt;/f0&gt;Se si verifica un errore, la funzione restituisce un valore logico o numerico.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Valore&lt;/f2&gt; è il valore o l'espressione da verificare.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200109T133414Z" creationid="Marco Marega" creationdate="20160819T134208Z">
+        <seg>Restituisce VERO se una cella contiene il valore di errore #N/D (valore non disponibile).&lt;f0&gt; &lt;/f0&gt;Se si verifica un errore, la funzione restituisce un valore logico o numerico.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Valore&lt;/f2&gt; è il valore o espressione da verificare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52120,8 +52120,8 @@
       <tuv lang="EN">
         <seg>Tests if the cell contents are text or numbers, and returns FALSE if the contents are text.&lt;f0&gt; &lt;/f0&gt;If an error occurs, the function returns a logical or numerical value.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Value&lt;/f2&gt; is any value or expression where a test is performed to determine whether it is a text or numbers or a Boolean value.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T134533Z" creationid="Marco Marega" creationdate="20160819T134533Z">
-        <seg>Verifica se i contenuti di una cella sono testo o numeri e restituisce FALSO se i contenuti sono testo.&lt;f0&gt; &lt;/f0&gt;Se si verifica un errore, la funzione restituisce un valore logico o numerico.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Valore&lt;/f2&gt; è qualsiasi valore o espressione che viene esaminato al fine di stabilire se si tratta di testo, numeri o valori booleani.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200109T133452Z" creationid="Marco Marega" creationdate="20160819T134533Z">
+        <seg>aaaaVerifica se i contenuti di una cella sono testo o numeri e restituisce FALSO se i contenuti sono testo.&lt;f0&gt; &lt;/f0&gt;Se si verifica un errore, la funzione restituisce un valore logico o numerico.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Valore&lt;/f2&gt; è qualsiasi valore o espressione che viene esaminato al fine di stabilire se si tratta di testo, numeri o valori booleani.</seg>
       </tuv>
     </tu>
     <tu>
