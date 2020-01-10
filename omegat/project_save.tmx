@@ -31048,8 +31048,8 @@
       <tuv lang="EN">
         <seg>ISODD_ADD(number)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T134801Z" creationid="Marco Marega" creationdate="20160819T134801Z">
-        <seg>VAL.DISPARI_ADD(numero)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200110T092323Z" creationid="Marco Marega" creationdate="20160819T134801Z">
+        <seg>aaaaaaaaaaaaaaaVAL.DISPARI_ADD(numero)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44832,8 +44832,8 @@
       <tuv lang="EN">
         <seg>Returns TRUE if the value refers to a number.&lt;f0&gt; &lt;/f0&gt;If an error occurs, the function returns a logical or numerical value.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Value&lt;/f2&gt; is any expression to be tested to determine whether it is a number or text.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200110T080320Z" creationid="Marco Marega" creationdate="20160819T134745Z">
-        <seg>aaaaRestituisce VERO se il valore si riferisce ad un numero.&lt;f0&gt; &lt;/f0&gt;Se si verifica un errore, la funzione restituisce un valore logico o numerico.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Valore&lt;/f2&gt; è qualsiasi espressione che viene esaminata al fine di stabilire se si tratta di un numero o di testo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200110T092320Z" creationid="Marco Marega" creationdate="20160819T134745Z">
+        <seg>Restituisce VERO se il valore si riferisce a un numero.&lt;f0&gt; &lt;/f0&gt;Se si verifica un errore, la funzione restituisce un valore logico o numerico.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Valore&lt;/f2&gt; è qualsiasi espressione che viene esaminata al fine di stabilire se si tratta di un numero o di testo.</seg>
       </tuv>
     </tu>
     <tu>
