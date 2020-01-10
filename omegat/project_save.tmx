@@ -31048,8 +31048,8 @@
       <tuv lang="EN">
         <seg>ISODD_ADD(number)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200110T092323Z" creationid="Marco Marega" creationdate="20160819T134801Z">
-        <seg>aaaaaaaaaaaaaaaVAL.DISPARI_ADD(numero)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200110T110915Z" creationid="Marco Marega" creationdate="20160819T134801Z">
+        <seg>VAL.DISPARI_ADD(numero)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44752,8 +44752,8 @@
       <tuv lang="EN">
         <seg>Returns TRUE (1) if the number does not return a whole number when divided by 2.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Number&lt;/f1&gt; is the number to be tested.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T134921Z" creationid="Marco Marega" creationdate="20160819T134921Z">
-        <seg>Restituisce VERO (1) se il numero diviso per 2 non dà un numero intero.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; è il numero da verificare.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200110T110917Z" creationid="Marco Marega" creationdate="20160819T134921Z">
+        <seg>aaaaRestituisce VERO (1) se il numero diviso per 2 non dà un numero intero.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Numero&lt;/f1&gt; è il numero da verificare.</seg>
       </tuv>
     </tu>
     <tu>
