@@ -6608,8 +6608,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;ISTEXT&lt;/f0&gt;(value)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200110T155828Z" creationid="Marco Marega" creationdate="20160819T135156Z">
-        <seg>aaaaaaaaaaaaaaaa&lt;f0&gt;VAL.TESTO&lt;/f0&gt;(valore)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200113T100610Z" creationid="Marco Marega" creationdate="20160819T135156Z">
+        <seg>&lt;f0&gt;VAL.TESTO&lt;/f0&gt;(valore)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44800,8 +44800,8 @@
       <tuv lang="EN">
         <seg>Returns TRUE if the cell contents refer to text.&lt;f0&gt; &lt;/f0&gt;If an error occurs, the function returns a logical or numerical value.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Value&lt;/f2&gt; is a value, number, Boolean value, or error value to be tested.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T135430Z" creationid="Marco Marega" creationdate="20160819T135430Z">
-        <seg>Restituisce VERO se i contenuti della cella sono del testo.&lt;f0&gt; &lt;/f0&gt;Se si verifica un errore, la funzione restituisce un valore logico o numerico.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Valore&lt;/f2&gt; è un valore, un numero, un valore booleano, o un valore di errore da esaminare.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200113T100612Z" creationid="Marco Marega" creationdate="20160819T135430Z">
+        <seg>aaaaRestituisce VERO se i contenuti della cella sono del testo.&lt;f0&gt; &lt;/f0&gt;Se si verifica un errore, la funzione restituisce un valore logico o numerico.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Valore&lt;/f2&gt; è un valore, un numero, un valore booleano, o un valore di errore da esaminare.</seg>
       </tuv>
     </tu>
     <tu>
