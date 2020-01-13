@@ -46456,8 +46456,8 @@
       <tuv lang="EN">
         <seg>Returns the type of value.&lt;f0&gt; &lt;/f0&gt;If an error occurs, the function returns a logical or numerical value.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Value&lt;/f2&gt; is a specific value for which the data type is determined.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T140020Z" creationid="Marco Marega" creationdate="20160819T140020Z">
-        <seg>Restituisce il tipo del valore.&lt;f0&gt; &lt;/f0&gt;Se si verifica un errore, la funzione restituisce un valore logico o numerico.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Valore&lt;/f2&gt; è uno specifico valore del quale viene determinato il tipo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200113T132134Z" creationid="Marco Marega" creationdate="20160819T140020Z">
+        <seg>Restituisce il tipo di valore.&lt;f0&gt; &lt;/f0&gt;Se si verifica un errore, la funzione restituisce un valore logico o numerico.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Valore&lt;/f2&gt; è uno specifico valore del quale viene determinato il tipo di dati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51640,8 +51640,8 @@
       <tuv lang="EN">
         <seg>TYPE(value)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200113T113302Z" creationid="Marco Marega" creationdate="20160819T135837Z">
-        <seg>aaaaTIPO(valore)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200113T131710Z" creationid="Marco Marega" creationdate="20160819T135837Z">
+        <seg>TIPO(valore)</seg>
       </tuv>
     </tu>
     <tu>
@@ -64584,8 +64584,8 @@
       <tuv lang="EN">
         <seg>Value 1 = number, value 2 = text, value 4 = Boolean value, value 8 = formula, value 16 = error value.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T140100Z" creationid="Marco Marega" creationdate="20160819T140100Z">
-        <seg>Valore 1 = numero, valore 2 = testo, valore 4 = valore booleano, valore 8 = formula, valore 16 = valore di errore.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200113T132136Z" creationid="Marco Marega" creationdate="20160819T140100Z">
+        <seg>aaaaValore 1 = numero, valore 2 = testo, valore 4 = valore booleano, valore 8 = formula, valore 16 = valore di errore.</seg>
       </tuv>
     </tu>
     <tu>
