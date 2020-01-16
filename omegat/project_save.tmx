@@ -4824,8 +4824,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;All of the &lt;/f0&gt;&lt;f1&gt;search-criteria&lt;/f1&gt;&lt;f2&gt; arguments for the database functions support regular expressions.&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;For example, “all.*&lt;/f4&gt;&lt;f5&gt;”&lt;/f5&gt;&lt;f6&gt; can be entered to find the first location of “all&lt;/f6&gt;&lt;f7&gt;”&lt;/f7&gt;&lt;f8&gt; followed by any characters.&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;To search for text that is also a regular expression, precede every character with a \ character.&lt;/f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;You can switch the automatic evaluation of regular expressions on and off in &lt;/f12&gt;&lt;f13&gt;Tools &gt; Options &gt; &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;LibreOffice&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt; Calc &gt; Calculate&lt;/f16&gt;&lt;f17&gt;.&lt;/f17&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200116T080152Z" creationid="Marco Marega" creationdate="20160819T151400Z">
-        <seg>&lt;f0&gt;Tutti gli argomenti &lt;/f0&gt;&lt;f1&gt;criteri di ricerca&lt;/f1&gt;&lt;f2&gt; delle funzioni di database supportano le espressioni regolari.&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Ad esempio, è possibile inserire “all.*&lt;/f4&gt;&lt;f5&gt;”&lt;/f5&gt;&lt;f6&gt; per trovare la prima ricorrenza di “all&lt;/f6&gt;&lt;f7&gt;”&lt;/f7&gt;&lt;f8&gt; seguito da qualsiasi carattere.&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Per cercare del testo che è anche una espressione regolare, inserite prima di ogni carattere il simbolo \.&lt;/f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;Tramite il menu &lt;/f12&gt;&lt;f13&gt;Strumenti &gt; Opzioni &gt; &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;LibreOffice&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt; Calc &gt; Calcola&lt;/f16&gt;&lt;f17&gt; è possibile attivare o disattivare la valutazione automatica delle espressioni regolari.&lt;/f17&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200116T162325Z" creationid="Marco Marega" creationdate="20160819T151400Z">
+        <seg>&lt;f0&gt;Tutti gli argomenti &lt;/f0&gt;&lt;f1&gt;criteri di ricerca&lt;/f1&gt;&lt;f2&gt; delle funzioni di database supportano le espressioni regolari.&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Ad esempio, è possibile inserire “tutto.*&lt;/f4&gt;&lt;f5&gt;”&lt;/f5&gt;&lt;f6&gt; per trovare la prima ricorrenza di “tutto&lt;/f6&gt;&lt;f7&gt;”&lt;/f7&gt;&lt;f8&gt; seguito da qualsiasi carattere.&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Per cercare del testo che è anche una espressione regolare, inserite prima di ogni carattere il simbolo \.&lt;/f10&gt;&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;Tramite il menu &lt;/f12&gt;&lt;f13&gt;Strumenti &gt; Opzioni &gt; &lt;/f13&gt;&lt;f14&gt;&lt;f15&gt;LibreOffice&lt;/f15&gt;&lt;/f14&gt;&lt;f16&gt; Calc &gt; Calcola&lt;/f16&gt;&lt;f17&gt; è possibile attivare o disattivare la valutazione automatica delle espressioni regolari.&lt;/f17&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5552,8 +5552,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;DCOUNTA&lt;/f0&gt;(database; database_field; search_criteria)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200116T162135Z" creationid="Marco Marega" creationdate="20160819T201532Z">
-        <seg>aaaa&lt;f0&gt;DB.CONTA.VALORI&lt;/f0&gt;(database; campo database; criteri)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200116T164432Z" creationid="Marco Marega" creationdate="20160819T201532Z">
+        <seg>&lt;f0&gt;DB.CONTA.VALORI&lt;/f0&gt;(database; campo_database; criteri)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20384,16 +20384,16 @@
       <tuv lang="EN">
         <seg>Counts the number of rows (records) in a database that match the specified &lt;f0&gt;search_criteria&lt;/f0&gt; and contain numeric or alphanumeric values.&lt;f1&gt; &lt;/f1&gt;The search supports regular expressions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T201626Z" creationid="Marco Marega" creationdate="20160819T201626Z">
-        <seg>Conta il numero di righe (record) di un database che rispondono ai &lt;f0&gt;criteri&lt;/f0&gt; di ricerca specificati e che contengono  valori numerici o alfanumerici.&lt;f1&gt; &lt;/f1&gt;La ricerca supporta le espressioni regolari.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200116T164809Z" creationid="Marco Marega" creationdate="20160819T201626Z">
+        <seg>aaaaaaaaaaaaaaaaConta il numero di righe (record) di un database che soddisfano i &lt;f0&gt;criteri&lt;/f0&gt; di ricerca specificati e che contengono  valori numerici o alfanumerici.&lt;f1&gt; &lt;/f1&gt;La ricerca supporta le espressioni regolari.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Counts the number of rows (records) in a database that match the specified &lt;f0&gt;search_criteria&lt;/f0&gt; and contain numerical values.&lt;f1&gt; &lt;/f1&gt;The search supports regular expressions.&lt;f2&gt; &lt;/f2&gt;For the &lt;f3&gt;database_field&lt;/f3&gt; parameter, enter a cell address to specify the column, or enter the number 0 for the entire database.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200116T162107Z" creationid="Marco Marega" creationdate="20160819T201445Z">
-        <seg>Conta il numero di righe (record) di un database che corrispondono ai &lt;f0&gt;criteri&lt;/f0&gt; di ricerca specificati e che contengono valori numerici.&lt;f1&gt; &lt;/f1&gt;La ricerca supporta le espressioni regolari.&lt;f2&gt; &lt;/f2&gt;Nel parametro &lt;f3&gt;campo_database&lt;/f3&gt; va inserito l'indirizzo di una cella per specificare la colonna, oppure il numero 0 per l'intero database.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200116T162751Z" creationid="Marco Marega" creationdate="20160819T201445Z">
+        <seg>Conta il numero di righe (record) di un database che soddisfano i &lt;f0&gt;criteri&lt;/f0&gt; di ricerca specificati e che contengono valori numerici.&lt;f1&gt; &lt;/f1&gt;La ricerca supporta le espressioni regolari.&lt;f2&gt; &lt;/f2&gt;Nel parametro &lt;f3&gt;campo_database&lt;/f3&gt; va inserito l'indirizzo di una cella per specificare la colonna, oppure il numero 0 per l'intero database.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45088,8 +45088,8 @@
       <tuv lang="EN">
         <seg>Returns the average of the values of all cells (fields) in all rows (database records) that match the specified &lt;f0&gt;search_criteria&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;The search supports regular expressions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200116T155956Z" creationid="Marco Marega" creationdate="20160819T201045Z">
-        <seg>Restituisce la media dei valori di tutte le celle (campi) in tutte le righe (record del database) che corrispondono ai &lt;f0&gt;criteri&lt;/f0&gt; di ricerca specificati.&lt;f1&gt; &lt;/f1&gt;La ricerca supporta le espressioni regolari.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200116T162247Z" creationid="Marco Marega" creationdate="20160819T201045Z">
+        <seg>Restituisce la media dei valori di tutte le celle (campi) in tutte le righe (record del database) che soddisfano i &lt;f0&gt;criteri&lt;/f0&gt; di ricerca specificati.&lt;f1&gt; &lt;/f1&gt;La ricerca supporta le espressioni regolari.</seg>
       </tuv>
     </tu>
     <tu>
