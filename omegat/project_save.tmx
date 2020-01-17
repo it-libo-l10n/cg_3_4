@@ -5592,8 +5592,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;DMAX&lt;/f0&gt;(database; database_field; search_criteria)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T202222Z" creationid="Marco Marega" creationdate="20160819T202206Z">
-        <seg>&lt;f0&gt;DB.MAX&lt;/f0&gt;(database; campo database; criteri)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200117T085426Z" creationid="Marco Marega" creationdate="20160819T202206Z">
+        <seg>&lt;f0&gt;DB.MAX&lt;/f0&gt;(database; campo_database; criteri)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45208,8 +45208,8 @@
       <tuv lang="EN">
         <seg>Returns the contents of the referenced cell in a database which matches the specified &lt;f0&gt;search_criteria&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;In case of an error, the function returns either #VALUE!</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200117T080346Z" creationid="Marco Marega" creationdate="20160819T202021Z">
-        <seg>aaaaRestituisce i contenuti della cella referenziata in un database, che risponde ai &lt;f0&gt;criteri&lt;/f0&gt; di ricerca specificati.&lt;f1&gt; &lt;/f1&gt;In caso di errore, la funzione restituisce #VALORE!</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200117T082425Z" creationid="Marco Marega" creationdate="20160819T202021Z">
+        <seg>Restituisce i contenuti della cella referenziata in un database che soddisfa i &lt;f0&gt;criteri&lt;/f0&gt; di ricerca specificati.&lt;f1&gt; &lt;/f1&gt;In caso di errore, la funzione restituisce #VALORE!</seg>
       </tuv>
     </tu>
     <tu>
@@ -45784,8 +45784,8 @@
       <tuv lang="EN">
         <seg>Returns the maximum content of a cell (field) in a database (all records) that matches the specified &lt;f0&gt;search_criteria&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;The search supports regular expressions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T202545Z" creationid="Marco Marega" creationdate="20160819T202428Z">
-        <seg>Restituisce il contenuto massimo di una cella (campo) di un database (tutti i record) che risponde ai &lt;f0&gt;criteri&lt;/f0&gt; di ricerca specificati.&lt;f1&gt; &lt;/f1&gt;La ricerca supporta le espressioni regolari.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200117T085429Z" creationid="Marco Marega" creationdate="20160819T202428Z">
+        <seg>aaaaRestituisce il contenuto massimo di una cella (campo) di un database (tutti i record) che risponde ai &lt;f0&gt;criteri&lt;/f0&gt; di ricerca specificati.&lt;f1&gt; &lt;/f1&gt;La ricerca supporta le espressioni regolari.</seg>
       </tuv>
     </tu>
     <tu>
