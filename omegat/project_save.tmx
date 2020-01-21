@@ -46440,8 +46440,8 @@
       <tuv lang="EN">
         <seg>Returns the total of all cells in a database field in all rows (records) that match the specified &lt;f0&gt;search_criteria&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;The search supports regular expressions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200121T111448Z" creationid="Marco Marega" creationdate="20160819T203946Z">
-        <seg>aaaaRestituisce la somma delle celle di tutte le righe di un campo del database che rispondono ai &lt;f0&gt;criteri&lt;/f0&gt; di ricerca specificati.&lt;f1&gt; &lt;/f1&gt;La ricerca supporta le espressioni regolari.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200121T114520Z" creationid="Marco Marega" creationdate="20160819T203946Z">
+        <seg>aaaaRestituisce la somma delle celle di tutte le righe di un campo del database che soddisfano i &lt;f0&gt;criteri&lt;/f0&gt; di ricerca specificati.&lt;f1&gt; &lt;/f1&gt;La ricerca supporta le espressioni regolari.</seg>
       </tuv>
     </tu>
     <tu>
