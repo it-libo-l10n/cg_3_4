@@ -5664,8 +5664,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;DVARP&lt;/f0&gt;(database; database_field; search_criteria)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160819T204519Z" creationid="Marco Marega" creationdate="20160819T204519Z">
-        <seg>&lt;f0&gt;DB.VAR.POP&lt;/f0&gt;(database; campo database; criteri)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200121T142301Z" creationid="Marco Marega" creationdate="20160819T204519Z">
+        <seg>aaaa&lt;f0&gt;DB.VAR.POP&lt;/f0&gt;(database; campo database; criteri)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46440,8 +46440,8 @@
       <tuv lang="EN">
         <seg>Returns the total of all cells in a database field in all rows (records) that match the specified &lt;f0&gt;search_criteria&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;The search supports regular expressions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200121T132918Z" creationid="Marco Marega" creationdate="20160819T203946Z">
-        <seg>Restituisce la somma delle celle di tutte le righe di un campo di database che soddisfano i &lt;f0&gt;criteri&lt;/f0&gt; di ricerca specificati.&lt;f1&gt; &lt;/f1&gt;La ricerca supporta le espressioni regolari.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200121T141853Z" creationid="Marco Marega" creationdate="20160819T203946Z">
+        <seg>Restituisce la somma di tutte le celle di un campo di database in tutte le righe (record di dati) che soddisfano i &lt;f0&gt;criteri&lt;/f0&gt; di ricerca specificati.&lt;f1&gt; &lt;/f1&gt;La ricerca supporta le espressioni regolari.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46520,8 +46520,8 @@
       <tuv lang="EN">
         <seg>Returns the variance of all cells of a database field in all records that match the specified &lt;f0&gt;search_criteria&lt;/f0&gt;.&lt;f1&gt; &lt;/f1&gt;The records from the example are treated as a sample of data.&lt;f2&gt; &lt;/f2&gt;A representative result of a large population cannot be obtained from a sample population of fewer than one thousand.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200121T133226Z" creationid="Marco Marega" creationdate="20160819T204500Z">
-        <seg>aaaaRestituisce la varianza delle celle di tutti i record di un campo del database che rispondono ai &lt;f0&gt;criteri&lt;/f0&gt; di ricerca specificati.&lt;f1&gt; &lt;/f1&gt;I record derivanti dall'esempio vengono trattati come un campione.&lt;f2&gt; &lt;/f2&gt;Da un campione di popolazione inferiore ad un migliaio, non è possibile ottenere un risultato rappresentativo di una popolazione numerosa.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200121T142258Z" creationid="Marco Marega" creationdate="20160819T204500Z">
+        <seg>Restituisce la varianza di tutte le celle di un campo di database in tutti i record che soddisfano i &lt;f0&gt;criteri&lt;/f0&gt; di ricerca specificati.&lt;f1&gt; &lt;/f1&gt;I record dell'esempio vengono trattati come un campione di dati.&lt;f2&gt; &lt;/f2&gt;Da un campione di popolazione inferiore a un migliaio non è possibile ottenere un risultato rappresentativo di una popolazione numerosa.</seg>
       </tuv>
     </tu>
     <tu>
