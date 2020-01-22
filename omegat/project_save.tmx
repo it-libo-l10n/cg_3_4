@@ -6816,8 +6816,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;LOGEST&lt;/f0&gt;(data_Y; data_X; function_type; stats)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T132341Z" creationid="Marco Marega" creationdate="20160820T132341Z">
-        <seg>&lt;f0&gt;REGR.LOG&lt;/f0&gt;(dati Y; dati X; tipo funzione; parametri)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200122T113051Z" creationid="Marco Marega" creationdate="20160820T132341Z">
+        <seg>aaaa&lt;f0&gt;REGR.LOG&lt;/f0&gt;(dati Y; dati X; tipo funzione; parametri)</seg>
       </tuv>
     </tu>
     <tu>
@@ -41728,8 +41728,8 @@
       <tuv lang="EN">
         <seg>Otherwise, other statistics will be seen.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T132245Z" creationid="Marco Marega" creationdate="20160820T132210Z">
-        <seg>Altrimenti, saranno visibili anche altri dati statistici.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200122T113048Z" creationid="Marco Marega" creationdate="20160820T132210Z">
+        <seg>Altrimenti saranno visibili anche altri dati statistici.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46088,8 +46088,8 @@
       <tuv lang="EN">
         <seg>Returns the parameters of a linear trend.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Data_Y&lt;/f1&gt; is the Y Data array.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Data_X&lt;/f3&gt; (optional) is the X Data array.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Linear_Type&lt;/f5&gt; (optional): If the line goes through the zero point, then set Linear_Type = 0.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Stats&lt;/f7&gt; (optional): If Stats=0, only the regression coefficient is calculated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200122T110318Z" creationid="Marco Marega" creationdate="20160820T132142Z">
-        <seg>aaaaRestituisce i parametri di una tendenza lineare.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati Y&lt;/f1&gt; è la matrice dei dati delle Y.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Dati X&lt;/f3&gt; (facoltativo) è la matrice dei dati delle X.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Tipo retta&lt;/f5&gt; (facoltativo): Se la linea passa per il punto zero, impostate il tipo retta = 0.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Parametri&lt;/f7&gt; (facoltativo): Se parametri=0, viene calcolato solo il coefficiente di regressione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200122T113002Z" creationid="Marco Marega" creationdate="20160820T132142Z">
+        <seg>Restituisce i parametri di una tendenza lineare.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati_Y&lt;/f1&gt; è la matrice dati Y.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Dati_X&lt;/f3&gt; (facoltativo) è la matrice dati X.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Tipo_rette&lt;/f5&gt; (facoltativo): se la linea passa per il punto zero, impostate il tipo_rette = 0.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Parametri&lt;/f7&gt; (facoltativo): se parametri=0, viene calcolato solo il coefficiente di regressione.</seg>
       </tuv>
     </tu>
     <tu>
