@@ -4880,8 +4880,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Array&lt;/f0&gt; is a square array that is to be inverted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T133407Z" creationid="Marco Marega" creationdate="20160820T133407Z">
-        <seg>&lt;f0&gt;Matrice&lt;/f0&gt; è la matrice quadrata che da invertire.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200122T165000Z" creationid="Marco Marega" creationdate="20160820T133407Z">
+        <seg>&lt;f0&gt;Matrice&lt;/f0&gt; è la matrice quadrata da invertire.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7024,8 +7024,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;MMULT&lt;/f0&gt;(array; array)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T133541Z" creationid="Marco Marega" creationdate="20160820T133541Z">
-        <seg>&lt;f0&gt;MATR.PRODOTTO&lt;/f0&gt;(matrice; matrice)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200122T165008Z" creationid="Marco Marega" creationdate="20160820T133541Z">
+        <seg>aaaaaaaaaaaaaaaa&lt;f0&gt;MATR.PRODOTTO&lt;/f0&gt;(matrice; matrice)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45056,8 +45056,8 @@
       <tuv lang="EN">
         <seg>Returns the array determinant of an array.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T132956Z" creationid="Marco Marega" creationdate="20160820T132956Z">
-        <seg>Restituisce il determinante di una matrice.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200122T164155Z" creationid="Marco Marega" creationdate="20160820T132956Z">
+        <seg>Restituisce il fattore determinante di una matrice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58840,8 +58840,8 @@
       <tuv lang="EN">
         <seg>This function returns a value in the current cell; it is not necessary to define a range for the results.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Array&lt;/f1&gt; is a square array in which the determinants are defined.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200122T162007Z" creationid="Marco Marega" creationdate="20160820T133248Z">
-        <seg>aaaaQuesta funzione restituisce un valore nella cella attiva; non è necessario definire un intervallo per i risultati.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Matrice&lt;/f1&gt; è una matrice quadrata nella quale sono definiti i determinanti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200122T164259Z" creationid="Marco Marega" creationdate="20160820T133248Z">
+        <seg>Questa funzione restituisce un valore nella cella attiva; non è necessario definire un'area per i risultati.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Matrice&lt;/f1&gt; è una matrice quadrata nella quale sono definiti i fattori determinanti.</seg>
       </tuv>
     </tu>
     <tu>
