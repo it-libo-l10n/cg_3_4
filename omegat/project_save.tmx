@@ -9808,8 +9808,8 @@
       <tuv lang="EN">
         <seg>&lt;f4&gt;Function_type&lt;/f4&gt; (optional): If function_type = 0, functions in the form y = m^x are calculated.&lt;f5&gt; &lt;/f5&gt;Otherwise, y = b*m^x functions are calculated.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Stats&lt;/f7&gt; (optional).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T132721Z" creationid="Marco Marega" creationdate="20160820T132721Z">
-        <seg>&lt;f4&gt;Tipo funzione&lt;/f4&gt; (facoltativo): Se il tipo funzione = 0, le funzioni vengono calcolate nella forma y = m^x.&lt;f5&gt; &lt;/f5&gt;Altrimenti vengono calcolate le funzioni:  y = b*m^x.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Parametri&lt;/f7&gt; (facoltativo).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200122T133740Z" creationid="Marco Marega" creationdate="20160820T132721Z">
+        <seg>aaaa&lt;f4&gt;Tipo funzione&lt;/f4&gt; (facoltativo): Se il tipo funzione = 0, le funzioni vengono calcolate nella forma y = m^x.&lt;f5&gt; &lt;/f5&gt;Altrimenti vengono calcolate le funzioni:  y = b*m^x.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Parametri&lt;/f7&gt; (facoltativo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16240,8 +16240,8 @@
       <tuv lang="EN">
         <seg>Calculates the adjustment of the entered data as an exponential regression curve (y=b*m^x).&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Data_Y&lt;/f1&gt; is the Y Data array.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Data_X&lt;/f3&gt; (optional) is the X Data array.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200122T114202Z" creationid="Marco Marega" creationdate="20160820T132613Z">
-        <seg>aaaaCalcola l'adeguamento dei dati inseriti in forma di curva di regressione esponenziale (y=b*m^x).&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati Y&lt;/f1&gt; è la matrice dei dati delle Y.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Dati X&lt;/f3&gt; (facoltativo) è la matrice dei dati delle X.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200122T133738Z" creationid="Marco Marega" creationdate="20160820T132613Z">
+        <seg>Calcola l'adattamento dei dati inseriti come curva di regressione esponenziale (y=b*m^x).&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati_Y&lt;/f1&gt; è la matrice dati Y.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Dati_X&lt;/f3&gt; (facoltativo) è la matrice dati X.</seg>
       </tuv>
     </tu>
     <tu>
