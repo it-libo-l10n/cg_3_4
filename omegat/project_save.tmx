@@ -6800,8 +6800,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;LINEST&lt;/f0&gt;(data_Y; data_X; linear_type; stats)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200122T094915Z" creationid="Marco Marega" creationdate="20160820T131733Z">
-        <seg>aaaa&lt;f0&gt;REGR.LIN&lt;/f0&gt;(dati Y; dati X; tipo retta; parametri)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200122T110311Z" creationid="Marco Marega" creationdate="20160820T131733Z">
+        <seg>&lt;f0&gt;REGR.LIN&lt;/f0&gt;(dati_Y; dati_X; tipo_rette; parametri)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46088,8 +46088,8 @@
       <tuv lang="EN">
         <seg>Returns the parameters of a linear trend.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Data_Y&lt;/f1&gt; is the Y Data array.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Data_X&lt;/f3&gt; (optional) is the X Data array.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Linear_Type&lt;/f5&gt; (optional): If the line goes through the zero point, then set Linear_Type = 0.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Stats&lt;/f7&gt; (optional): If Stats=0, only the regression coefficient is calculated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T132142Z" creationid="Marco Marega" creationdate="20160820T132142Z">
-        <seg>Restituisce i parametri di una tendenza lineare.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati Y&lt;/f1&gt; è la matrice dei dati delle Y.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Dati X&lt;/f3&gt; (facoltativo) è la matrice dei dati delle X.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Tipo retta&lt;/f5&gt; (facoltativo): Se la linea passa per il punto zero, impostate il tipo retta = 0.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Parametri&lt;/f7&gt; (facoltativo): Se parametri=0, viene calcolato solo il coefficiente di regressione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200122T110318Z" creationid="Marco Marega" creationdate="20160820T132142Z">
+        <seg>aaaaRestituisce i parametri di una tendenza lineare.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati Y&lt;/f1&gt; è la matrice dei dati delle Y.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Dati X&lt;/f3&gt; (facoltativo) è la matrice dei dati delle X.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Tipo retta&lt;/f5&gt; (facoltativo): Se la linea passa per il punto zero, impostate il tipo retta = 0.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Parametri&lt;/f7&gt; (facoltativo): Se parametri=0, viene calcolato solo il coefficiente di regressione.</seg>
       </tuv>
     </tu>
     <tu>
