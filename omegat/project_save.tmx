@@ -6800,8 +6800,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;LINEST&lt;/f0&gt;(data_Y; data_X; linear_type; stats)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T132303Z" creationid="Marco Marega" creationdate="20160820T131733Z">
-        <seg>&lt;f0&gt;REGR.LIN&lt;/f0&gt;(dati Y; dati X; tipo retta; parametri)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200122T094915Z" creationid="Marco Marega" creationdate="20160820T131733Z">
+        <seg>aaaa&lt;f0&gt;REGR.LIN&lt;/f0&gt;(dati Y; dati X; tipo retta; parametri)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9480,8 +9480,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;Data_X&lt;/f2&gt; (optional) is the X Data array.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200122T093650Z" creationid="Marco Marega" creationdate="20160820T131229Z">
-        <seg>&lt;f2&gt;Dati_X&lt;/f2&gt; (facoltativo) è la matrice dei dati delle X.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200122T095037Z" creationid="Marco Marega" creationdate="20160820T131229Z">
+        <seg>&lt;f2&gt;Dati_X&lt;/f2&gt; (facoltativo) è la matrice dati X.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9728,8 +9728,8 @@
       <tuv lang="EN">
         <seg>&lt;f3&gt;New_Data_X&lt;/f3&gt; (optional) is the X data array, in which the values are recalculated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200122T093653Z" creationid="Marco Marega" creationdate="20160820T131325Z">
-        <seg>aaaa&lt;f3&gt;Nuovi dati X&lt;/f3&gt; (facoltativo) è la matrice dei dati delle X, nella quale vengono riconteggiati i valori.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200122T095216Z" creationid="Marco Marega" creationdate="20160820T131325Z">
+        <seg>&lt;f3&gt;Nuovi_dati_X&lt;/f3&gt; (facoltativo) è la matrice dei dati X, nella quale vengono ricalcolati i valori.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9816,8 +9816,8 @@
       <tuv lang="EN">
         <seg>&lt;f4&gt;Function_type&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt; is &lt;/f6&gt;&lt;/f5&gt;optional.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T131400Z" creationid="Marco Marega" creationdate="20160820T131400Z">
-        <seg>&lt;f4&gt;Tipo funzione&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt; è &lt;/f6&gt;&lt;/f5&gt;facoltativo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200122T094728Z" creationid="Marco Marega" creationdate="20160820T131400Z">
+        <seg>&lt;f4&gt;Tipo_funzione&lt;/f4&gt;&lt;f5&gt;&lt;f6&gt; è &lt;/f6&gt;&lt;/f5&gt;facoltativo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16560,8 +16560,8 @@
       <tuv lang="EN">
         <seg>Calculates the points of an exponential trend in an array.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Data_Y&lt;/f1&gt; is the Y Data array.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200122T093445Z" creationid="Marco Marega" creationdate="20160820T131204Z">
-        <seg>Calcola i punti di una tendenza esponenziale in una matrice.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati_Y&lt;/f1&gt; è la matrice dei dati delle Y.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200122T095006Z" creationid="Marco Marega" creationdate="20160820T131204Z">
+        <seg>Calcola i punti di una tendenza esponenziale in una matrice.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati_Y&lt;/f1&gt; è la matrice dati Y.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31480,8 +31480,8 @@
       <tuv lang="EN">
         <seg>If function_type = 0, functions in the form y = m^x are calculated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T131508Z" creationid="Marco Marega" creationdate="20160820T131508Z">
-        <seg>Se il tipo funzione = 0, le funzioni vengono calcolate nella forma y = m^x.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200122T095339Z" creationid="Marco Marega" creationdate="20160820T131508Z">
+        <seg>Se tipo funzione = 0, vengono calcolate le funzioni nella forma y = m^x.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41760,8 +41760,8 @@
       <tuv lang="EN">
         <seg>Otherwise, y = b*m^x functions are calculated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T131614Z" creationid="Marco Marega" creationdate="20160820T131614Z">
-        <seg>Altrimenti vengono calcolate le funzioni:  y = b*m^x.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200122T094914Z" creationid="Marco Marega" creationdate="20160820T131614Z">
+        <seg>Altrimenti vengono calcolate le funzioni y = b*m^x.</seg>
       </tuv>
     </tu>
     <tu>
