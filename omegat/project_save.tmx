@@ -9480,8 +9480,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;Data_X&lt;/f2&gt; (optional) is the X Data array.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T131229Z" creationid="Marco Marega" creationdate="20160820T131229Z">
-        <seg>&lt;f2&gt;Dati X&lt;/f2&gt; (facoltativo) è la matrice dei dati delle X.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200122T093650Z" creationid="Marco Marega" creationdate="20160820T131229Z">
+        <seg>&lt;f2&gt;Dati_X&lt;/f2&gt; (facoltativo) è la matrice dei dati delle X.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9728,8 +9728,8 @@
       <tuv lang="EN">
         <seg>&lt;f3&gt;New_Data_X&lt;/f3&gt; (optional) is the X data array, in which the values are recalculated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T131533Z" creationid="Marco Marega" creationdate="20160820T131325Z">
-        <seg>&lt;f3&gt;Nuovi dati X&lt;/f3&gt; (facoltativo) è la matrice dei dati delle X, nella quale vengono riconteggiati i valori.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200122T093653Z" creationid="Marco Marega" creationdate="20160820T131325Z">
+        <seg>aaaa&lt;f3&gt;Nuovi dati X&lt;/f3&gt; (facoltativo) è la matrice dei dati delle X, nella quale vengono riconteggiati i valori.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16560,8 +16560,8 @@
       <tuv lang="EN">
         <seg>Calculates the points of an exponential trend in an array.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Data_Y&lt;/f1&gt; is the Y Data array.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200122T091805Z" creationid="Marco Marega" creationdate="20160820T131204Z">
-        <seg>aaaaCalcola i punti di una tendenza esponenziale in una matrice.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati Y&lt;/f1&gt; è la matrice dei dati delle Y.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200122T093445Z" creationid="Marco Marega" creationdate="20160820T131204Z">
+        <seg>Calcola i punti di una tendenza esponenziale in una matrice.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati_Y&lt;/f1&gt; è la matrice dei dati delle Y.</seg>
       </tuv>
     </tu>
     <tu>
