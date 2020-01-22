@@ -16560,8 +16560,8 @@
       <tuv lang="EN">
         <seg>Calculates the points of an exponential trend in an array.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Data_Y&lt;/f1&gt; is the Y Data array.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T131204Z" creationid="Marco Marega" creationdate="20160820T131204Z">
-        <seg>Calcola i punti di una tendenza esponenziale in una matrice.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati Y&lt;/f1&gt; è la matrice dei dati delle Y.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200122T091805Z" creationid="Marco Marega" creationdate="20160820T131204Z">
+        <seg>aaaaCalcola i punti di una tendenza esponenziale in una matrice.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati Y&lt;/f1&gt; è la matrice dei dati delle Y.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29624,8 +29624,8 @@
       <tuv lang="EN">
         <seg>GROWTH(data_Y; data_X; new_data_X;&lt;f0&gt; &lt;/f0&gt;function_type)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T131105Z" creationid="Marco Marega" creationdate="20160820T131105Z">
-        <seg>CRESCITA(dati Y; dati X; nuovi dati X;&lt;f0&gt; &lt;/f0&gt;tipo funzione)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200122T091803Z" creationid="Marco Marega" creationdate="20160820T131105Z">
+        <seg>CRESCITA(dati_Y; dati_X; nuovi_dati_X;&lt;f0&gt; &lt;/f0&gt;tipo_funzione)</seg>
       </tuv>
     </tu>
     <tu>
@@ -54368,8 +54368,8 @@
       <tuv lang="EN">
         <seg>The default value supply and the number of intervals or classes are used to count how many values are omitted on the single intervals.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Data&lt;/f1&gt; is the array of, or reference to, the set of values to be counted.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Classes&lt;/f3&gt; is the array of the class set.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200121T164720Z" creationid="Marco Marega" creationdate="20160820T130818Z">
-        <seg>aaaaaaaaaaaaaaaaIl valore predefinito ed il numero di intervalli o classi vengono utilizzati per contare quanti valori vanno omessi in ciascun intervallo.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati&lt;/f1&gt; è la matrice, o il riferimento, dell'insieme dei valori da contare.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Classi&lt;/f3&gt; è la matrice dell'insieme delle classi.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200122T091415Z" creationid="Marco Marega" creationdate="20160820T130818Z">
+        <seg>Il valore predefinito e il numero di intervalli o classi vengono utilizzati per contare quanti valori vanno omessi in ciascun intervallo.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati&lt;/f1&gt; è la matrice, o il riferimento, dell'insieme dei valori da contare.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Classi&lt;/f3&gt; è la matrice dell'insieme delle classi.</seg>
       </tuv>
     </tu>
     <tu>
