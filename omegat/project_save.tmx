@@ -7024,8 +7024,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;MMULT&lt;/f0&gt;(array; array)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200122T165008Z" creationid="Marco Marega" creationdate="20160820T133541Z">
-        <seg>aaaaaaaaaaaaaaaa&lt;f0&gt;MATR.PRODOTTO&lt;/f0&gt;(matrice; matrice)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200123T080104Z" creationid="Marco Marega" creationdate="20160820T133541Z">
+        <seg>&lt;f0&gt;MATR.PRODOTTO&lt;/f0&gt;(matrice; matrice)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46464,8 +46464,8 @@
       <tuv lang="EN">
         <seg>Returns the unitary square array of a certain size.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T134210Z" creationid="Marco Marega" creationdate="20160820T134210Z">
-        <seg>Restituisce la matrice quadrata unitaria di una determinata dimensione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200123T081327Z" creationid="Marco Marega" creationdate="20160820T134210Z">
+        <seg>aaaaRestituisce la matrice quadrata unitaria di una determinata dimensione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57296,8 +57296,8 @@
       <tuv lang="EN">
         <seg>The square array has an equal number of rows and columns.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Array&lt;/f1&gt; at first place is the first array used in the array product.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Array&lt;/f3&gt; at second place is the second array with the same number of rows.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T133947Z" creationid="Marco Marega" creationdate="20160820T133947Z">
-        <seg>La matrice quadrata ha lo stesso numero di righe e colonne.&lt;f0&gt; &lt;/f0&gt;La &lt;f1&gt;Matrice&lt;/f1&gt; nella prima posizione è la prima matrice utilizzata nella moltiplicazione.&lt;f2&gt; &lt;/f2&gt;La &lt;f3&gt;Matrice&lt;/f3&gt; nella seconda posizione è la seconda matrice con lo stesso numero di righe.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200123T081218Z" creationid="Marco Marega" creationdate="20160820T133947Z">
+        <seg>La matrice quadrata presenta un numero uguale di righe e colonne.&lt;f0&gt; La &lt;/f0&gt;&lt;f1&gt;Matrice&lt;/f1&gt; nella prima posizione è la prima matrice utilizzata nella moltiplicazione.&lt;f2&gt; La &lt;/f2&gt;&lt;f3&gt;Matrice&lt;/f3&gt; nella seconda posizione è la seconda matrice con lo stesso numero di righe.</seg>
       </tuv>
     </tu>
     <tu>
