@@ -46392,8 +46392,8 @@
       <tuv lang="EN">
         <seg>Returns the sum of the difference of squares of corresponding values in two arrays.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Array_X&lt;/f1&gt; is the first array whose elements are to be squared and added.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Array_Y&lt;/f3&gt; is the second array whose elements are to be squared and subtracted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T143337Z" creationid="Marco Marega" creationdate="20160820T143337Z">
-        <seg>Restituisce la somma della differenza dei quadrati dei valori corrispondenti in due matrici.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Matrice X&lt;/f1&gt; è la prima matrice i cui elementi vanno elevati al quadrato e sommati.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Matrice Y&lt;/f3&gt; è la seconda matrice i cui elementi vanno elevati al quadrato e sottratti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200123T154154Z" creationid="Marco Marega" creationdate="20160820T143337Z">
+        <seg>Restituisce la somma della differenza dei quadrati dei valori corrispondenti in due matrici.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Matrice_X&lt;/f1&gt; è la prima matrice i cui elementi vanno elevati al quadrato e sommati.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Matrice_Y&lt;/f3&gt; è la seconda matrice i cui elementi vanno elevati al quadrato e sottratti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46408,8 +46408,8 @@
       <tuv lang="EN">
         <seg>Returns the sum of the sum of squares of corresponding values in two arrays.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Array_X&lt;/f1&gt; is the first array whose arguments are to be squared and added.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Array_Y&lt;/f3&gt; is the second array, whose elements are to be added and squared.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T143635Z" creationid="Marco Marega" creationdate="20160820T143635Z">
-        <seg>Restituisce la somma della somma dei quadrati dei valori corrispondenti in due matrici.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Matrice X&lt;/f1&gt; è la prima matrice i cui elementi vanno elevati al quadrato e sommati.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Matrice Y&lt;/f3&gt; è la seconda matrice i cui elementi vanno sommati ed elevati al quadrato.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200123T160746Z" creationid="Marco Marega" creationdate="20160820T143635Z">
+        <seg>Restituisce la somma della somma dei quadrati dei valori corrispondenti in due matrici.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Matrice_X&lt;/f1&gt; è la prima matrice i cui elementi vanno elevati al quadrato e sommati.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Matrice_Y&lt;/f3&gt; è la seconda matrice i cui elementi vanno elevati al quadrato e sommati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47176,24 +47176,24 @@
       <tuv lang="EN">
         <seg>SUMX2MY2(array_X; array_Y)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200123T152314Z" creationid="Marco Marega" creationdate="20160820T142345Z">
-        <seg>aaaaSOMMA.DIFF.Q(matrice X; matrice Y)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200123T153335Z" creationid="Marco Marega" creationdate="20160820T142345Z">
+        <seg>SOMMA.DIFF.Q(matrice_X; matrice_Y)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>SUMX2PY2(array_X;&lt;f0&gt; &lt;/f0&gt;array_Y)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T143444Z" creationid="Marco Marega" creationdate="20160820T143444Z">
-        <seg>SOMMA.SOMMA.Q(matrice X;&lt;f0&gt; &lt;/f0&gt;matrice Y)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200123T154455Z" creationid="Marco Marega" creationdate="20160820T143444Z">
+        <seg>SOMMA.SOMMA.Q(matrice_X;&lt;f0&gt; &lt;/f0&gt;matrice_Y)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>SUMXMY2(array_X;&lt;f0&gt; &lt;/f0&gt;array_Y)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T143719Z" creationid="Marco Marega" creationdate="20160820T143719Z">
-        <seg>SOMMA.Q.DIFF(matrice X;&lt;f0&gt; &lt;/f0&gt;matrice Y)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200123T160749Z" creationid="Marco Marega" creationdate="20160820T143719Z">
+        <seg>aaaaSOMMA.Q.DIFF(matrice X;&lt;f0&gt; &lt;/f0&gt;matrice Y)</seg>
       </tuv>
     </tu>
     <tu>
