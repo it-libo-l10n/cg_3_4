@@ -31608,8 +31608,8 @@
       <tuv lang="EN">
         <seg>If only one array is given, all array elements are summed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T141958Z" creationid="Marco Marega" creationdate="20160820T141958Z">
-        <seg>Se viene passata solo una matrice, allora vengono sommati tutti gli elementi della matrice.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200123T152312Z" creationid="Marco Marega" creationdate="20160820T141958Z">
+        <seg>Se viene specificata una sola matrice, allora vengono sommati tutti gli elementi della matrice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39072,8 +39072,8 @@
       <tuv lang="EN">
         <seg>Multiplies corresponding elements in the given arrays, and returns the sum of those products.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Array 1; array 2;...array 30&lt;/f1&gt; are arrays whose corresponding elements are to be multiplied.&lt;f2&gt; &lt;/f2&gt;At least one array must be part of the argument list.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200123T142906Z" creationid="Marco Marega" creationdate="20160820T141857Z">
-        <seg>aaaaaaaaaaaaaaaaMoltiplica gli elementi corrispondenti delle matrici date e restituisce la somma dei prodotti ottenuti.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Matrice 1; matrice 2;...matrice 30&lt;/f1&gt; sono le matrici i cui valori corrispondenti devono essere moltiplicati.&lt;f2&gt; &lt;/f2&gt;Nell'elenco dei parametri deve esserci almeno una matrice.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200123T152153Z" creationid="Marco Marega" creationdate="20160820T141857Z">
+        <seg>Moltiplica gli elementi corrispondenti delle matrici date e restituisce la somma dei prodotti ottenuti.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Matrice 1; matrice 2;...matrice 30&lt;/f1&gt; sono le matrici i cui corrispondenti elementi devono essere moltiplicati.&lt;f2&gt; &lt;/f2&gt;Almeno una matrice deve fare parte dell'elenco degli argomenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47176,8 +47176,8 @@
       <tuv lang="EN">
         <seg>SUMX2MY2(array_X; array_Y)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T142345Z" creationid="Marco Marega" creationdate="20160820T142345Z">
-        <seg>SOMMA.DIFF.Q(matrice X; matrice Y)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200123T152314Z" creationid="Marco Marega" creationdate="20160820T142345Z">
+        <seg>aaaaSOMMA.DIFF.Q(matrice X; matrice Y)</seg>
       </tuv>
     </tu>
     <tu>
