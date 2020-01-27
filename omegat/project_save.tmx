@@ -46536,8 +46536,8 @@
       <tuv lang="EN">
         <seg>Returns values along a linear trend.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Data_Y&lt;/f1&gt; is the Y Data array.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T144348Z" creationid="Marco Marega" creationdate="20160820T144348Z">
-        <seg>Restituisce i valori di una tendenza lineare.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati Y&lt;/f1&gt; è la matrice dei dati delle Y.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200127T154300Z" creationid="Marco Marega" creationdate="20160820T144348Z">
+        <seg>aaaaRestituisce i valori di una tendenza lineare.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati Y&lt;/f1&gt; è la matrice dei dati delle Y.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51616,8 +51616,8 @@
       <tuv lang="EN">
         <seg>TREND(data_Y; data_X; new_data_X; linear_Type)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200127T121721Z" creationid="Marco Marega" creationdate="20160820T144142Z">
-        <seg>aaaaTENDENZA(dati Y; dati X; nuovi dati X; tipo retta)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200127T154258Z" creationid="Marco Marega" creationdate="20160820T144142Z">
+        <seg>TENDENZA(dati_Y; dati_X; nuovi_dati_X; tipo_rette)</seg>
       </tuv>
     </tu>
     <tu>
