@@ -51608,8 +51608,8 @@
       <tuv lang="EN">
         <seg>TRANSPOSE(array)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200124T080245Z" creationid="Marco Marega" creationdate="20160820T143848Z">
-        <seg>aaaaMATR.TRASPOSTA(matrice)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200127T104606Z" creationid="Marco Marega" creationdate="20160820T143848Z">
+        <seg>MATR.TRASPOSTA(matrice)</seg>
       </tuv>
     </tu>
     <tu>
@@ -62528,8 +62528,8 @@
       <tuv lang="EN">
         <seg>Transposes the rows and columns of an array.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Array&lt;/f1&gt; is the array in the spreadsheet that is to be transposed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T144140Z" creationid="Marco Marega" creationdate="20160820T144140Z">
-        <seg>Traspone le righe e le colonne di una matrice.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Matrice&lt;/f1&gt; è la matrice nel foglio di lavoro che va trasposta.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200127T104608Z" creationid="Marco Marega" creationdate="20160820T144140Z">
+        <seg>aaaaTraspone le righe e le colonne di una matrice.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Matrice&lt;/f1&gt; è la matrice nel foglio di lavoro che va trasposta.</seg>
       </tuv>
     </tu>
     <tu>
