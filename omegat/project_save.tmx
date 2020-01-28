@@ -9488,8 +9488,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;Data_X&lt;/f2&gt; (optional) is the X Data array.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;New_data_X&lt;/f4&gt; (optional) is the array of the X data, which are used for recalculating values.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Linear_type&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; is &lt;/f8&gt;&lt;/f7&gt;optional.&lt;f9&gt; &lt;/f9&gt;If &lt;f10&gt;linear_type&lt;/f10&gt; = 0, then lines will be calculated through the zero point.&lt;f11&gt; &lt;/f11&gt;Otherwise, offset lines will also be calculated.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T144849Z" creationid="Marco Marega" creationdate="20160820T144849Z">
-        <seg>&lt;f2&gt;Daty X&lt;/f2&gt; (facoltativo) è la matrice dei dati delle X.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Nuovi dati X&lt;/f4&gt; (facoltativo) è la matrice dei dati delle X, che vengono usati per i valori riconteggiati.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Tipo retta&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; è &lt;/f8&gt;&lt;/f7&gt;facoltativo.&lt;f9&gt; &lt;/f9&gt;Se &lt;f10&gt;tipo retta&lt;/f10&gt; = 0, allora le linee verranno conteggiate attraverso il punto zero.&lt;f11&gt; &lt;/f11&gt;Altrimenti,verranno conteggiate anche le linee con uno spostamento.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200128T091708Z" creationid="Marco Marega" creationdate="20160820T144849Z">
+        <seg>aaaa&lt;f2&gt;Dati_X&lt;/f2&gt; (facoltativo) è la matrice dei dati delle X.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Nuovi dati X&lt;/f4&gt; (facoltativo) è la matrice dei dati delle X, che vengono usati per i valori riconteggiati.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Tipo retta&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt; è &lt;/f8&gt;&lt;/f7&gt;facoltativo.&lt;f9&gt; &lt;/f9&gt;Se &lt;f10&gt;tipo retta&lt;/f10&gt; = 0, allora le linee verranno conteggiate attraverso il punto zero.&lt;f11&gt; &lt;/f11&gt;Altrimenti,verranno conteggiate anche le linee con uno spostamento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46536,8 +46536,8 @@
       <tuv lang="EN">
         <seg>Returns values along a linear trend.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Data_Y&lt;/f1&gt; is the Y Data array.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200128T090312Z" creationid="Marco Marega" creationdate="20160820T144348Z">
-        <seg>Restituisce i valori lungo una tendenza lineare.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati_Y&lt;/f1&gt; è la matrice dei dati Y.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200128T091656Z" creationid="Marco Marega" creationdate="20160820T144348Z">
+        <seg>Restituisce i valori lungo una tendenza lineare.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Dati_Y&lt;/f1&gt; è la matrice dati Y.</seg>
       </tuv>
     </tu>
     <tu>
