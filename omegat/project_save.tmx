@@ -11952,8 +11952,8 @@
       <tuv lang="EN">
         <seg>ADDRESS(row; column; abs; sheet)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20190614T090835Z" creationid="Marco Marega" creationdate="20160820T163803Z">
-        <seg>INDIRIZZO(riga; colonna; ASS; foglio)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200128T165408Z" creationid="Marco Marega" creationdate="20160820T163803Z">
+        <seg>aaaaaaaaaaaaaaaaINDIRIZZO(riga; colonna; ASS; foglio)</seg>
       </tuv>
     </tu>
     <tu>
@@ -51944,8 +51944,8 @@
       <tuv lang="EN">
         <seg>Table &lt;seq0&gt;44&lt;/seq0&gt;: Spreadsheet functions</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T145351Z" creationid="Marco Marega" creationdate="20160820T145351Z">
-        <seg>Tabella &lt;seq0&gt;44&lt;/seq0&gt;: Funzioni del foglio di lavoro</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200128T165357Z" creationid="Marco Marega" creationdate="20160820T145351Z">
+        <seg>Tabella &lt;seq0&gt;44&lt;/seq0&gt;: funzioni del foglio elettronico</seg>
       </tuv>
     </tu>
     <tu>
@@ -63152,8 +63152,8 @@
       <tuv lang="EN">
         <seg>Use &lt;i0/&gt;&lt;is1/&gt;spreadsheet functions&lt;ie2/&gt; to search and address cell ranges and provide feedback regarding the contents of a cell or range of cells.&lt;f3&gt; &lt;/f3&gt;You can use functions such as &lt;f4&gt;HYPERLINK&lt;/f4&gt;() and &lt;f5&gt;DDE&lt;/f5&gt;() to connect to other documents or data sources.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200128T113722Z" creationid="Marco Marega" creationdate="20160820T145322Z">
-        <seg>aaaaLe &lt;i0/&gt;&lt;is1/&gt;funzioni del foglio di lavoro&lt;ie2/&gt; vengono usate per ricercare ed indirizzare intervalli di celle e fornire informazioni in merito ai contenuti di una cella o di intervalli di celle.&lt;f3&gt; &lt;/f3&gt;Eè possibile usare funzioni come &lt;f4&gt;COLLEGAMENTO&lt;/f4&gt;() e &lt;f5&gt;DDE&lt;/f5&gt;() per collegarsi ad altri documenti o a sorgenti di dati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200128T165231Z" creationid="Marco Marega" creationdate="20160820T145322Z">
+        <seg>Le &lt;i0/&gt;&lt;is1/&gt;funzioni del foglio elettronico&lt;ie2/&gt; vengono usate per ricercare e indirizzare intervalli di celle e fornire informazioni in merito ai contenuti di una cella o un intervallo di celle.&lt;f3&gt; &lt;/f3&gt;È possibile usare funzioni come &lt;f4&gt;COLLEGAMENTO&lt;/f4&gt;() e &lt;f5&gt;DDE&lt;/f5&gt;() per collegarsi ad altri documenti o sorgenti di dati.</seg>
       </tuv>
     </tu>
     <tu>
