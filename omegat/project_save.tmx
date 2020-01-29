@@ -7648,8 +7648,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Reference&lt;/f0&gt; &lt;f1&gt;is&lt;/f1&gt; the reference to a cell or cell range.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T165322Z" creationid="Marco Marega" creationdate="20160820T165322Z">
-        <seg>&lt;f0&gt;Riferimento&lt;/f0&gt; &lt;f1&gt;è&lt;/f1&gt; il riferimento ad una cella o ad intervalli di celle.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200129T161716Z" creationid="Marco Marega" creationdate="20160820T165322Z">
+        <seg>&lt;f0&gt;Riferimento&lt;/f0&gt; &lt;f1&gt;è&lt;/f1&gt; il riferimento a una cella o un intervallo di celle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11504,8 +11504,8 @@
       <tuv lang="EN">
         <seg>A range can consist of contiguous cells or a single cell.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200129T095404Z" creationid="Marco Marega" creationdate="20160820T165246Z">
-        <seg>aaaaUn intervallo può essere formato da celle adiacenti o da una singola cella.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200129T161516Z" creationid="Marco Marega" creationdate="20160820T165246Z">
+        <seg>Un intervallo può essere formato da celle adiacenti o da una singola cella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15400,8 +15400,8 @@
       <tuv lang="EN">
         <seg>CHOOSE(index;&lt;f0&gt; &lt;/f0&gt;value1; ... value30)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T165355Z" creationid="Marco Marega" creationdate="20160820T165355Z">
-        <seg>SCEGLI(indice;&lt;f0&gt; &lt;/f0&gt;valore 1; ... valore 30)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200129T161718Z" creationid="Marco Marega" creationdate="20160820T165355Z">
+        <seg>aaaaSCEGLI(indice;&lt;f0&gt; &lt;/f0&gt;valore 1; ... valore 30)</seg>
       </tuv>
     </tu>
     <tu>
