@@ -11952,8 +11952,8 @@
       <tuv lang="EN">
         <seg>ADDRESS(row; column; abs; sheet)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200128T165408Z" creationid="Marco Marega" creationdate="20160820T163803Z">
-        <seg>aaaaaaaaaaaaaaaaINDIRIZZO(riga; colonna; ASS; foglio)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200129T080812Z" creationid="Marco Marega" creationdate="20160820T163803Z">
+        <seg>INDIRIZZO(riga; colonna; ASS; foglio)</seg>
       </tuv>
     </tu>
     <tu>
@@ -41448,8 +41448,8 @@
       <tuv lang="EN">
         <seg>Optionally, whether the address is interpreted as an absolute address (for example, $A$1) or as a relative address (as A1) or in a mixed form (A$1 or $A1) can be determined.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T164239Z" creationid="Marco Marega" creationdate="20160820T164239Z">
-        <seg>Facoltativamente, è possibile determinare se l'indirizzo è interpretato come assoluto (ad esempio, $A$1) o come relativo (come A1) oppure in una forma mista (A$1 o $A1).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200129T081101Z" creationid="Marco Marega" creationdate="20160820T164239Z">
+        <seg>aaaaFacoltativamente, è possibile determinare se l'indirizzo è interpretato come assoluto (ad esempio, $A$1) o come relativo (come A1) oppure in una forma mista (A$1 o $A1).</seg>
       </tuv>
     </tu>
     <tu>
