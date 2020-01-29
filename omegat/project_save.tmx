@@ -41448,8 +41448,8 @@
       <tuv lang="EN">
         <seg>Optionally, whether the address is interpreted as an absolute address (for example, $A$1) or as a relative address (as A1) or in a mixed form (A$1 or $A1) can be determined.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200129T081101Z" creationid="Marco Marega" creationdate="20160820T164239Z">
-        <seg>aaaaFacoltativamente, è possibile determinare se l'indirizzo è interpretato come assoluto (ad esempio, $A$1) o come relativo (come A1) oppure in una forma mista (A$1 o $A1).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200129T084301Z" creationid="Marco Marega" creationdate="20160820T164239Z">
+        <seg>Facoltativamente, è possibile determinare se l'indirizzo è interpretato come assoluto (ad esempio, $A$1) o come relativo (come A1) oppure in una forma mista (A$1 o $A1).</seg>
       </tuv>
     </tu>
     <tu>
@@ -46016,8 +46016,8 @@
       <tuv lang="EN">
         <seg>Returns the number of individual ranges that belong to a multiple range.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T165158Z" creationid="Marco Marega" creationdate="20160820T165158Z">
-        <seg>Restituisce il numero dei singoli intervalli che compongono un intervallo multiplo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200129T085006Z" creationid="Marco Marega" creationdate="20160820T165158Z">
+        <seg>aaaaRestituisce il numero dei singoli intervalli che compongono un intervallo multiplo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55784,8 +55784,8 @@
       <tuv lang="EN">
         <seg>The name of the sheet can also be specified.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Row&lt;/f1&gt; &lt;f2&gt;is&lt;/f2&gt; the row number for the cell reference.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Column&lt;/f4&gt; &lt;f5&gt;is&lt;/f5&gt; the column number for the cell reference (the number, not the letter).&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Abs&lt;/f7&gt; determines the type of reference.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Sheet&lt;/f9&gt; &lt;f10&gt;is&lt;/f10&gt; the name of the sheet.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T164509Z" creationid="Marco Marega" creationdate="20160820T164509Z">
-        <seg>Può essere specificato anche il nome del foglio.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Riga&lt;/f1&gt; &lt;f2&gt;è&lt;/f2&gt; il numero di riga della cella di riferimento.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Colonna&lt;/f4&gt; &lt;f5&gt;è&lt;/f5&gt; il numero di colonna della cella di riferimento (il numero, non la lettera).&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;ASS&lt;/f7&gt; indica il tipo di riferimento.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;foglio&lt;/f9&gt; &lt;f10&gt;è&lt;/f10&gt; il nome del foglio.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200129T084857Z" creationid="Marco Marega" creationdate="20160820T164509Z">
+        <seg>È anche possibile specificare il nome del foglio.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Riga&lt;/f1&gt; &lt;f2&gt;è&lt;/f2&gt; il numero di riga della cella di riferimento.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Colonna&lt;/f4&gt; &lt;f5&gt;è&lt;/f5&gt; il numero di colonna della cella di riferimento (il numero, non la lettera).&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;ASS&lt;/f7&gt; indica il tipo di riferimento.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Foglio&lt;/f9&gt; &lt;f10&gt;è&lt;/f10&gt; il nome del foglio.</seg>
       </tuv>
     </tu>
     <tu>
