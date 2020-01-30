@@ -15424,8 +15424,8 @@
       <tuv lang="EN">
         <seg>COLUMN(reference)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160820T172221Z" creationid="Marco Marega" creationdate="20160820T172221Z">
-        <seg>RIF.COLONNA(riferimento)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200130T100902Z" creationid="Marco Marega" creationdate="20160820T172221Z">
+        <seg>aaaaRIF.COLONNA(riferimento)</seg>
       </tuv>
     </tu>
     <tu>
@@ -63792,8 +63792,8 @@
       <tuv lang="EN">
         <seg>Uses an index to return a value from a list of up to 30 values.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Index&lt;/f1&gt; is a reference or number between 1 and 30 indicating which value is to be taken from the list.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Value1; ... &lt;/f3&gt;&lt;f4&gt;value30&lt;/f4&gt; is the list of values entered as a reference to a cell or as individual values.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200129T165706Z" creationid="Marco Marega" creationdate="20160820T165706Z">
-        <seg>aaaaaaaaaaaaaaaUtilizza un indice per restituire un valore scelto da una lista di un massimo di 30 valori.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Indice&lt;/f1&gt; è un riferimento o un numero da 1 a 30 che indica quale valore della lista scegliere.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Valore 1; ... &lt;/f3&gt;&lt;f4&gt;valore 30&lt;/f4&gt; è la lista dei valori inserita come riferimento a celle o come singoli valori.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200130T100859Z" creationid="Marco Marega" creationdate="20160820T165706Z">
+        <seg>Utilizza un indice per restituire un valore scelto da un elenco di un massimo di 30 valori.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Indice&lt;/f1&gt; è un riferimento o un numero da 1 a 30 che indica quale valore della lista scegliere.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Valore1; ... &lt;/f3&gt;&lt;f4&gt;valore30&lt;/f4&gt; è l'elenco dei valori inseriti come riferimento a celle o come singoli valori.</seg>
       </tuv>
     </tu>
     <tu>
