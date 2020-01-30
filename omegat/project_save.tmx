@@ -21232,8 +21232,8 @@
       <tuv lang="EN">
         <seg>DDE(server; file; range;&lt;f0&gt; &lt;/f0&gt;mode)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T074808Z" creationid="Marco Marega" creationdate="20160821T074808Z">
-        <seg>DDE(server; file; area;&lt;f0&gt; &lt;/f0&gt;modo)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200130T165423Z" creationid="Marco Marega" creationdate="20160821T074808Z">
+        <seg>aaaaaaaaaaaaaaaaDDE(server; file; area;&lt;f0&gt; &lt;/f0&gt;modo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45944,8 +45944,8 @@
       <tuv lang="EN">
         <seg>Returns the number of columns in the given reference.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Array&lt;/f1&gt; is the reference to a cell range whose total number of columns is to be found.&lt;f2&gt; &lt;/f2&gt;The argument can also be a single cell.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200130T155703Z" creationid="Marco Marega" creationdate="20160821T074737Z">
-        <seg>aaaaRestituisce il numero di colonne presenti nel riferimento dato.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Matrice&lt;/f1&gt; è il riferimento ad un intervallo di celle di cui si vuole trovare il numero totale di colonne.&lt;f2&gt; &lt;/f2&gt;Il parametro può contenere anche una singola cella.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200130T165014Z" creationid="Marco Marega" creationdate="20160821T074737Z">
+        <seg>Restituisce il numero di colonne nel riferimento dato.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Matrice&lt;/f1&gt; è il riferimento a un intervallo di celle di cui si vuole trovare il numero totale di colonne.&lt;f2&gt; &lt;/f2&gt;L'argomento può essere anche una singola cella.</seg>
       </tuv>
     </tu>
     <tu>
