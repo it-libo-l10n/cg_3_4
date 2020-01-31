@@ -5856,8 +5856,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;ERRORTYPE&lt;/f0&gt;(reference)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T075940Z" creationid="Marco Marega" creationdate="20160821T075845Z">
-        <seg>&lt;f0&gt;ERRORE&lt;/f0&gt;(espressione)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200131T135811Z" creationid="Marco Marega" creationdate="20160821T075845Z">
+        <seg>aaaa&lt;f0&gt;ERRORE&lt;/f0&gt;(espressione)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9968,8 +9968,8 @@
       <tuv lang="EN">
         <seg>&lt;f8&gt;LibreOffice&lt;/f8&gt; applications have the server name “&lt;f9&gt;Soffice&lt;/f9&gt;&lt;f10&gt;”&lt;/f10&gt;.&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;File&lt;/f12&gt; is the complete file name, including path.&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;Range&lt;/f14&gt; is the area containing the data to be evaluated.&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;Mode&lt;/f16&gt; is an optional parameter that controls the method by which the DDE server converts its data into numbers.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200131T133217Z" creationid="Marco Marega" creationdate="20160821T075826Z">
-        <seg>aaaaLe applicazioni di &lt;f8&gt;LibreOffice&lt;/f8&gt; hanno il nome server “&lt;f9&gt;Soffice&lt;/f9&gt;&lt;f10&gt;”&lt;/f10&gt;.&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;File&lt;/f12&gt; è il nome completo del file, compreso il percorso.&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;Area&lt;/f14&gt; è l'area che contiene i dati da valutare.&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;Modo&lt;/f16&gt; è un parametro opzionale che controlla i metodo con cui il server DDE server converte i suoi dati in numeri.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200131T135809Z" creationid="Marco Marega" creationdate="20160821T075826Z">
+        <seg>Le applicazioni di &lt;f8&gt;LibreOffice&lt;/f8&gt; hanno il nome server “&lt;f9&gt;Soffice&lt;/f9&gt;&lt;f10&gt;”&lt;/f10&gt;.&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;File&lt;/f12&gt; è il nome completo del file, compreso il percorso.&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;Area&lt;/f14&gt; è l'area contenente i dati da valutare.&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;Modo&lt;/f16&gt; è un parametro opzionale che controlla il metodo con cui il server DDE converte i suoi dati in numeri.</seg>
       </tuv>
     </tu>
     <tu>
