@@ -21232,8 +21232,8 @@
       <tuv lang="EN">
         <seg>DDE(server; file; range;&lt;f0&gt; &lt;/f0&gt;mode)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200130T165423Z" creationid="Marco Marega" creationdate="20160821T074808Z">
-        <seg>aaaaaaaaaaaaaaaaDDE(server; file; area;&lt;f0&gt; &lt;/f0&gt;modo)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200131T093246Z" creationid="Marco Marega" creationdate="20160821T074808Z">
+        <seg>DDE(server; file; area;&lt;f0&gt; &lt;/f0&gt;modo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46224,8 +46224,8 @@
       <tuv lang="EN">
         <seg>Returns the result of a DDE-based link.&lt;f0&gt; &lt;/f0&gt;If the contents of the linked range or section changes, the returned value will also change.&lt;f1&gt; &lt;/f1&gt;The spreadsheet can be reloaded, or&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Edit &gt; Links&lt;/f3&gt; selected, to see the updated links.&lt;f4&gt; &lt;/f4&gt;Cross-platform links, for example from an &lt;f5&gt;LibreOffice&lt;/f5&gt; installation running on a Windows machine to a document created on a Linux machine, are not supported.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Server&lt;/f7&gt; is the name of a server application.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T075549Z" creationid="Marco Marega" creationdate="20160821T075549Z">
-        <seg>Restituisce il risultato di un collegamento di tipo DDE.&lt;f0&gt; &lt;/f0&gt;Se cambia il contenuto dell'area o della sezione collegata, si modifica anche il valore restituito.&lt;f1&gt; &lt;/f1&gt;Per vedere i collegamenti aggiornati è possibile ricaricare il foglio di lavoro, oppure selezione&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Modifica &gt; Collegamenti&lt;/f3&gt;.&lt;f4&gt; &lt;/f4&gt;Non sono supportati i collegamenti tra piattaforme diverse, ad esempio non è possibile un collegamento da un installazione di &lt;f5&gt;LibreOffice&lt;/f5&gt; su una macchina con Windows ad un documento creato su di una macchina Linux.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Server&lt;/f7&gt; è il nome dell'applicazione server.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200131T093248Z" creationid="Marco Marega" creationdate="20160821T075549Z">
+        <seg>aaaaRestituisce il risultato di un collegamento di tipo DDE.&lt;f0&gt; &lt;/f0&gt;Se cambia il contenuto dell'area o della sezione collegata, si modifica anche il valore restituito.&lt;f1&gt; &lt;/f1&gt;Per vedere i collegamenti aggiornati è possibile ricaricare il foglio di lavoro, oppure selezione&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Modifica &gt; Collegamenti&lt;/f3&gt;.&lt;f4&gt; &lt;/f4&gt;Non sono supportati i collegamenti tra piattaforme diverse, ad esempio non è possibile un collegamento da un installazione di &lt;f5&gt;LibreOffice&lt;/f5&gt; su una macchina con Windows ad un documento creato su di una macchina Linux.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Server&lt;/f7&gt; è il nome dell'applicazione server.</seg>
       </tuv>
     </tu>
     <tu>
