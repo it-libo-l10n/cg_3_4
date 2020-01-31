@@ -9968,8 +9968,8 @@
       <tuv lang="EN">
         <seg>&lt;f8&gt;LibreOffice&lt;/f8&gt; applications have the server name “&lt;f9&gt;Soffice&lt;/f9&gt;&lt;f10&gt;”&lt;/f10&gt;.&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;File&lt;/f12&gt; is the complete file name, including path.&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;Range&lt;/f14&gt; is the area containing the data to be evaluated.&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;Mode&lt;/f16&gt; is an optional parameter that controls the method by which the DDE server converts its data into numbers.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T075826Z" creationid="Marco Marega" creationdate="20160821T075826Z">
-        <seg>Le applicazioni di &lt;f8&gt;LibreOffice&lt;/f8&gt; hanno il nome server “&lt;f9&gt;Soffice&lt;/f9&gt;&lt;f10&gt;”&lt;/f10&gt;.&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;File&lt;/f12&gt; è il nome completo del file, compreso il percorso.&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;Area&lt;/f14&gt; è l'area che contiene i dati da valutare.&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;Modo&lt;/f16&gt; è un parametro opzionale che controlla i metodo con cui il server DDE server converte i suoi dati in numeri.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200131T133217Z" creationid="Marco Marega" creationdate="20160821T075826Z">
+        <seg>aaaaLe applicazioni di &lt;f8&gt;LibreOffice&lt;/f8&gt; hanno il nome server “&lt;f9&gt;Soffice&lt;/f9&gt;&lt;f10&gt;”&lt;/f10&gt;.&lt;f11&gt; &lt;/f11&gt;&lt;f12&gt;File&lt;/f12&gt; è il nome completo del file, compreso il percorso.&lt;f13&gt; &lt;/f13&gt;&lt;f14&gt;Area&lt;/f14&gt; è l'area che contiene i dati da valutare.&lt;f15&gt; &lt;/f15&gt;&lt;f16&gt;Modo&lt;/f16&gt; è un parametro opzionale che controlla i metodo con cui il server DDE server converte i suoi dati in numeri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46224,8 +46224,8 @@
       <tuv lang="EN">
         <seg>Returns the result of a DDE-based link.&lt;f0&gt; &lt;/f0&gt;If the contents of the linked range or section changes, the returned value will also change.&lt;f1&gt; &lt;/f1&gt;The spreadsheet can be reloaded, or&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Edit &gt; Links&lt;/f3&gt; selected, to see the updated links.&lt;f4&gt; &lt;/f4&gt;Cross-platform links, for example from an &lt;f5&gt;LibreOffice&lt;/f5&gt; installation running on a Windows machine to a document created on a Linux machine, are not supported.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Server&lt;/f7&gt; is the name of a server application.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200131T094925Z" creationid="Marco Marega" creationdate="20160821T075549Z">
-        <seg>aaaaRestituisce il risultato di un collegamento di tipo DDE.&lt;f0&gt; &lt;/f0&gt;aaaaSe cambia il contenuto dell'area o della sezione collegata, si modifica anche il valore restituito.&lt;f1&gt; &lt;/f1&gt;Per vedere i collegamenti aggiornati è possibile ricaricare il foglio di lavoro, oppure selezione&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Modifica &gt; Collegamenti&lt;/f3&gt;.&lt;f4&gt; &lt;/f4&gt;Non sono supportati i collegamenti tra piattaforme diverse, ad esempio non è possibile un collegamento da un installazione di &lt;f5&gt;LibreOffice&lt;/f5&gt; su una macchina con Windows ad un documento creato su di una macchina Linux.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Server&lt;/f7&gt; è il nome dell'applicazione server.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200131T133215Z" creationid="Marco Marega" creationdate="20160821T075549Z">
+        <seg>aaaaRestituisce il risultato di un collegamento di tipo DDE.&lt;f0&gt; &lt;/f0&gt;Se il contenuto dell'area o della sezione collegata cambia, verrà modificato anche il valore restituito.&lt;f1&gt; &lt;/f1&gt;Per visualizzare i collegamenti aggiornati è possibile ricaricare il foglio elettronico, oppure selezionare la voce di menu &lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;Modifica &gt; Collegamenti&lt;/f3&gt;.&lt;f4&gt; &lt;/f4&gt;Non sono supportati i collegamenti tra piattaforme diverse, ad esempio non è possibile un collegamento da un'installazione di &lt;f5&gt;LibreOffice&lt;/f5&gt; su una macchina con Windows a un documento creato su una macchina Linux.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Server&lt;/f7&gt; è il nome di un'applicazione server.</seg>
       </tuv>
     </tu>
     <tu>
