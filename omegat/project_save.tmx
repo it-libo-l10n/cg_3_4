@@ -5856,8 +5856,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;ERRORTYPE&lt;/f0&gt;(reference)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200131T135811Z" creationid="Marco Marega" creationdate="20160821T075845Z">
-        <seg>aaaa&lt;f0&gt;ERRORE&lt;/f0&gt;(espressione)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200131T153909Z" creationid="Marco Marega" creationdate="20160821T075845Z">
+        <seg>aaaa&lt;f0&gt;ERRORE.TIPO&lt;/f0&gt;(riferimento)</seg>
       </tuv>
     </tu>
     <tu>
@@ -66192,8 +66192,8 @@
       <tuv lang="EN">
         <seg>With the aid of this number,&lt;f0&gt; &lt;/f0&gt;an error message text can be generated.&lt;f1&gt; &lt;/f1&gt;If an error occurs, the function returns a logical or numerical value.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Reference&lt;/f3&gt; contains the address of the cell in which the error occurs.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T080248Z" creationid="Marco Marega" creationdate="20160821T080248Z">
-        <seg>Con l'aiuto di questo numero,&lt;f0&gt; &lt;/f0&gt;è possibile generare un messaggio di errore.&lt;f1&gt; &lt;/f1&gt;Se si verifica un errore, la funzione restituisce un valore logico o numerico.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Espressione&lt;/f3&gt; contiene l'indiririzzo della cella in cui si verifica l'errore.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200131T153901Z" creationid="Marco Marega" creationdate="20160821T080248Z">
+        <seg>Con l'aiuto di questo numero,&lt;f0&gt; &lt;/f0&gt;è possibile generare un messaggio di errore.&lt;f1&gt; &lt;/f1&gt;Se si verifica un errore, la funzione restituisce un valore logico o numerico.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Riferimento&lt;/f3&gt; contiene l'indiririzzo della cella in cui si verifica l'errore.</seg>
       </tuv>
     </tu>
     <tu>
