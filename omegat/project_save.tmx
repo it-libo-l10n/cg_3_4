@@ -44968,8 +44968,8 @@
       <tuv lang="EN">
         <seg>Returns the &lt;f0&gt;reference&lt;/f0&gt; specified by a text string.&lt;f1&gt; &lt;/f1&gt;This function can also be used to return the area of a corresponding string.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Reference&lt;/f3&gt; is a reference to a cell or an area (in text form) for which to return the contents.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T083305Z" creationid="Marco Marega" creationdate="20160821T083305Z">
-        <seg>Restituisce il &lt;f0&gt;riferimento&lt;/f0&gt; specificato da una stringa di testo.&lt;f1&gt; &lt;/f1&gt;Questa funzione può essere utilizzata anche per restituire l'area corrispondente ad una stringa.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Riferimento&lt;/f3&gt; è il riferimento ad una cella o ad un'area (in formato testo) di cui restituire i contenuti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200205T165455Z" creationid="Marco Marega" creationdate="20160821T083305Z">
+        <seg>aaaaaaaaaaaaaaaaRestituisce il &lt;f0&gt;riferimento&lt;/f0&gt; specificato da una stringa di testo.&lt;f1&gt; &lt;/f1&gt;Questa funzione può essere utilizzata anche per restituire l'area corrispondente ad una stringa.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Riferimento&lt;/f3&gt; è il riferimento ad una cella o ad un'area (in formato testo) di cui restituire i contenuti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45184,8 +45184,8 @@
       <tuv lang="EN">
         <seg>Returns the content of a cell, specified by row and column number or an optional range name.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Reference&lt;/f1&gt; is a cell reference, entered either directly or by specifying a range name.&lt;f2&gt; &lt;/f2&gt;If the reference consists of multiple ranges,&lt;f3&gt; &lt;/f3&gt;the reference or range name must be enclosed in parentheses.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Row&lt;/f5&gt; (optional) is the row number of the reference range, for which to return a value.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Column&lt;/f7&gt; (optional) is the column number of the reference range, for which to return a value.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Range&lt;/f9&gt; (optional) is the index of the subrange if referring to a multiple range.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200205T161401Z" creationid="Marco Marega" creationdate="20160821T082142Z">
-        <seg>aaaaaaaaaaaaaaaaaRestituisce il contenuto di una cella, specificata con un numero di riga e di colonna oppure con un nome di area opzionale.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;aaaaRiferimento&lt;/f1&gt; è il riferimento ad una cella, inserito direttamente o specificando un nome di area.&lt;f2&gt; &lt;/f2&gt;Se il riferimento è formato da aree multiple,&lt;f3&gt; &lt;/f3&gt;il riferimento stesso o i nomi delle aree devono essere racchiusi tra parentesi.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Riga&lt;/f5&gt; (facoltativo) è il numero della riga dell'area referenziata, di cui restituire il valore.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Colonna&lt;/f7&gt; (facoltativo) è il numero della colonna dell'area referenziata, di cui restituire il valore.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Area&lt;/f9&gt; (facoltativo) è l'indice della sotto-area quando il riferimento contiene aree multiple.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200205T165012Z" creationid="Marco Marega" creationdate="20160821T082142Z">
+        <seg>Restituisce il contenuto di una cella, specificata con un numero di riga e di colonna oppure con un nome di area opzionale.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Riferimento&lt;/f1&gt; è il riferimento a una cella, inserito direttamente o specificando un nome di area.&lt;f2&gt; &lt;/f2&gt;Se il riferimento è formato da aree multiple,&lt;f3&gt; &lt;/f3&gt;il riferimento stesso o i nomi delle aree devono essere racchiusi tra parentesi.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Riga&lt;/f5&gt; (opzionale) è il numero di riga dell'area referenziata, di cui si desidera venga restituito il valore.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Colonna&lt;/f7&gt; (opzionale) è il numero di colonna dell'area referenziata, di cui si desidera venga restituito il valore.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Area&lt;/f9&gt; (opzionale) è l'indice della sotto-area quando il riferimento contiene aree multiple.</seg>
       </tuv>
     </tu>
     <tu>
