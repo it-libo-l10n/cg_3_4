@@ -45184,8 +45184,8 @@
       <tuv lang="EN">
         <seg>Returns the content of a cell, specified by row and column number or an optional range name.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Reference&lt;/f1&gt; is a cell reference, entered either directly or by specifying a range name.&lt;f2&gt; &lt;/f2&gt;If the reference consists of multiple ranges,&lt;f3&gt; &lt;/f3&gt;the reference or range name must be enclosed in parentheses.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Row&lt;/f5&gt; (optional) is the row number of the reference range, for which to return a value.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Column&lt;/f7&gt; (optional) is the column number of the reference range, for which to return a value.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Range&lt;/f9&gt; (optional) is the index of the subrange if referring to a multiple range.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T083040Z" creationid="Marco Marega" creationdate="20160821T082142Z">
-        <seg>Restituisce il contenuto di una cella, specificata con il numero di riga e di colonna o facoltativamente con un nome di area.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Riferimento&lt;/f1&gt; è il riferimento ad una cella, inserito direttamente o specificando un nome di area.&lt;f2&gt; &lt;/f2&gt;Se il riferimento è formato da aree multiple,&lt;f3&gt; &lt;/f3&gt;il riferimento stesso o i nomi delle aree devono essere racchiusi tra parentesi.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Riga&lt;/f5&gt; (facoltativo) è il numero della riga dell'area referenziata, di cui restituire il valore.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Colonna&lt;/f7&gt; (facoltativo) è il numero della colonna dell'area referenziata, di cui restituire il valore.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Area&lt;/f9&gt; (facoltativo) è l'indice della sotto-area quando il riferimento contiene aree multiple.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200205T154918Z" creationid="Marco Marega" creationdate="20160821T082142Z">
+        <seg>aaaaRestituisce il contenuto di una cella, specificata con il numero di riga e di colonna o facoltativamente con un nome di area.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Riferimento&lt;/f1&gt; è il riferimento ad una cella, inserito direttamente o specificando un nome di area.&lt;f2&gt; &lt;/f2&gt;Se il riferimento è formato da aree multiple,&lt;f3&gt; &lt;/f3&gt;il riferimento stesso o i nomi delle aree devono essere racchiusi tra parentesi.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Riga&lt;/f5&gt; (facoltativo) è il numero della riga dell'area referenziata, di cui restituire il valore.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Colonna&lt;/f7&gt; (facoltativo) è il numero della colonna dell'area referenziata, di cui restituire il valore.&lt;f8&gt; &lt;/f8&gt;&lt;f9&gt;Area&lt;/f9&gt; (facoltativo) è l'indice della sotto-area quando il riferimento contiene aree multiple.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56024,8 +56024,8 @@
       <tuv lang="EN">
         <seg>The optional &lt;f3&gt;cell_text&lt;/f3&gt; argument is the text displayed in the cell.&lt;f4&gt; &lt;/f4&gt;If the &lt;f5&gt;cell_text&lt;/f5&gt; parameter is not specified, the &lt;f6&gt;URL&lt;/f6&gt; is displayed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T081339Z" creationid="Marco Marega" creationdate="20160821T081339Z">
-        <seg>Il parametro opzionale &lt;f3&gt;testo della cella&lt;/f3&gt; viene visualizzato nella cella.&lt;f4&gt; &lt;/f4&gt;Se il parametro &lt;f5&gt;testo della cella&lt;/f5&gt; non viene specificato, verrà visualizzato l'&lt;f6&gt;URL&lt;/f6&gt;.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200205T154546Z" creationid="Marco Marega" creationdate="20160821T081339Z">
+        <seg>L'argomento opzionale &lt;f3&gt;testo_cella&lt;/f3&gt; indica il testo che viene visualizzato nella cella.&lt;f4&gt; &lt;/f4&gt;Se il parametro &lt;f5&gt;testo_cella&lt;/f5&gt; non viene specificato, verrà visualizzato l'&lt;f6&gt;URL&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65896,8 +65896,8 @@
       <tuv lang="EN">
         <seg>When&lt;f0&gt; &lt;/f0&gt;a cell that contains the HYPERLINK function is clicked, the hyperlink opens.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;URL&lt;/f2&gt; specifies the link target.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200205T083338Z" creationid="Marco Marega" creationdate="20160821T081204Z">
-        <seg>aaaaQuando si fa clic &lt;f0&gt; &lt;/f0&gt;su di una cella che contiene la funzione COLLEGAMENTO, il collegamento si apre.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;URL&lt;/f2&gt; specifica l'indirizzo della destinazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200205T154022Z" creationid="Marco Marega" creationdate="20160821T081204Z">
+        <seg>Quando si fa clic&lt;f0&gt; &lt;/f0&gt;su una cella che contiene la funzione COLLEGAMENTO, si aprirà il collegamento.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;URL&lt;/f2&gt; specifica la destinazione del collegamento.</seg>
       </tuv>
     </tu>
     <tu>
