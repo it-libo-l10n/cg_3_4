@@ -30072,8 +30072,8 @@
       <tuv lang="EN">
         <seg>HYPERLINK(URL) or&lt;f0&gt; &lt;/f0&gt;HYPERLINK(URL; cell_text)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200204T165650Z" creationid="Marco Marega" creationdate="20160821T080935Z">
-        <seg>aaaaaaaaaaaaaaaCOLLEGAMENTO (URL) o&lt;f0&gt; &lt;/f0&gt;COLLEGAMENTO(URL; testo della cella)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200205T083336Z" creationid="Marco Marega" creationdate="20160821T080935Z">
+        <seg>COLLEGAMENTO(URL) oppure&lt;f0&gt; &lt;/f0&gt;COLLEGAMENTO(URL; testo_cella)</seg>
       </tuv>
     </tu>
     <tu>
@@ -65896,8 +65896,8 @@
       <tuv lang="EN">
         <seg>When&lt;f0&gt; &lt;/f0&gt;a cell that contains the HYPERLINK function is clicked, the hyperlink opens.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;URL&lt;/f2&gt; specifies the link target.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T081204Z" creationid="Marco Marega" creationdate="20160821T081204Z">
-        <seg>Quando si fa clic &lt;f0&gt; &lt;/f0&gt;su di una cella che contiene la funzione COLLEGAMENTO, il collegamento si apre.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;URL&lt;/f2&gt; specifica l'indirizzo della destinazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200205T083338Z" creationid="Marco Marega" creationdate="20160821T081204Z">
+        <seg>aaaaQuando si fa clic &lt;f0&gt; &lt;/f0&gt;su di una cella che contiene la funzione COLLEGAMENTO, il collegamento si apre.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;URL&lt;/f2&gt; specifica l'indirizzo della destinazione.</seg>
       </tuv>
     </tu>
     <tu>
