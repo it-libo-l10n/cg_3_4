@@ -46264,8 +46264,8 @@
       <tuv lang="EN">
         <seg>Returns the sheet number of a reference or a string representing a sheet name.&lt;f0&gt; &lt;/f0&gt;If no parameters are entered, the result is the sheet number of the spreadsheet containing the formula.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Reference&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;(optional) is the reference to a cell, an area, or a sheet name string.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200214T093246Z" creationid="Marco Marega" creationdate="20160821T210019Z">
-        <seg>aaaaRestituisce il numero del foglio di un riferimento o di una stringa che rappresenta il nome di un foglio.&lt;f0&gt; &lt;/f0&gt;Se non vengono inseriti parametri, il risultato è il numero dello stesso foglio che contiene la formula.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Riferimento&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;(facoltativo) è il riferimento ad una cella, ad un'area, o al nome di un foglio.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200214T110249Z" creationid="Marco Marega" creationdate="20160821T210019Z">
+        <seg>Restituisce il numero del foglio di un riferimento o di una stringa che rappresenta il nome di un foglio.&lt;f0&gt; &lt;/f0&gt;aaaaSe non vengono inseriti parametri, il risultato è il numero dello stesso foglio che contiene la formula.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Riferimento&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;(facoltativo) è il riferimento ad una cella, ad un'area, o al nome di un foglio.</seg>
       </tuv>
     </tu>
     <tu>
