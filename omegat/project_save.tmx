@@ -21856,8 +21856,8 @@
       <tuv lang="EN">
         <seg>Determines the number of sheets in a reference.&lt;f0&gt; &lt;/f0&gt;If no parameters are entered, the result is the number of sheets in the current document.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Reference&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;(optional) is the reference to a sheet or an area.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T210248Z" creationid="Marco Marega" creationdate="20160821T210129Z">
-        <seg>Calcola il numero di fogli in un riferimento.&lt;f0&gt; &lt;/f0&gt;Se non vengono inseriti parametri, il risultato è il numero di fogli nel documento corrente.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Riferimento&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;(facoltativo) è il riferimento ad un foglio o ad un'area.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200214T150506Z" creationid="Marco Marega" creationdate="20160821T210129Z">
+        <seg>Calcola il numero di fogli in un riferimento.&lt;f0&gt; &lt;/f0&gt;Se non vengono inseriti parametri, il risultato è il numero di fogli nel documento corrente.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Riferimento&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;aaaa(facoltativo) è il riferimento ad un foglio o ad un'area.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46944,8 +46944,8 @@
       <tuv lang="EN">
         <seg>SHEETS(reference)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200214T144041Z" creationid="Marco Marega" creationdate="20160821T210042Z">
-        <seg>aaaaFOGLI(riferimento)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200214T150105Z" creationid="Marco Marega" creationdate="20160821T210042Z">
+        <seg>FOGLI(riferimento)</seg>
       </tuv>
     </tu>
     <tu>
