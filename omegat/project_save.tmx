@@ -21856,8 +21856,8 @@
       <tuv lang="EN">
         <seg>Determines the number of sheets in a reference.&lt;f0&gt; &lt;/f0&gt;If no parameters are entered, the result is the number of sheets in the current document.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Reference&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;(optional) is the reference to a sheet or an area.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200214T150506Z" creationid="Marco Marega" creationdate="20160821T210129Z">
-        <seg>Calcola il numero di fogli in un riferimento.&lt;f0&gt; &lt;/f0&gt;Se non vengono inseriti parametri, il risultato è il numero di fogli nel documento corrente.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Riferimento&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;aaaa(facoltativo) è il riferimento ad un foglio o ad un'area.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200214T154420Z" creationid="Marco Marega" creationdate="20160821T210129Z">
+        <seg>Calcola il numero di fogli in un riferimento.&lt;f0&gt; &lt;/f0&gt;Se non vengono inseriti parametri, il risultato è il numero di fogli nel documento corrente.&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Riferimento&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;(facoltativo) è il riferimento a un foglio o a un'area.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47072,8 +47072,8 @@
       <tuv lang="EN">
         <seg>STYLE(style; time; style2)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T210403Z" creationid="Marco Marega" creationdate="20160821T210403Z">
-        <seg>STILE(stile; tempo; stile 2)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200214T154530Z" creationid="Marco Marega" creationdate="20160821T210403Z">
+        <seg>aaaaaaaaaaaaaaaaSTILE(stile; tempo; stile2)</seg>
       </tuv>
     </tu>
     <tu>
