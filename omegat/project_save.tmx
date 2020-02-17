@@ -31328,8 +31328,8 @@
       <tuv lang="EN">
         <seg>If a specific value is contained in the first column of an array,&lt;f0&gt; &lt;/f0&gt;returns the value to the same line of a specific array column named by &lt;f1&gt;index&lt;/f1&gt;.&lt;f2&gt; &lt;/f2&gt;The search supports regular expressions.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Search_criterion&lt;/f4&gt; is the value searched for in the first column of the array.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Array&lt;/f6&gt; is the reference, which must include at least two columns.&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;Index&lt;/f8&gt; is the number of the column in the array that contains the value to be returned.&lt;f9&gt; &lt;/f9&gt;The first column has the number 1.&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;Sort_order&lt;/f11&gt; (optional) indicates whether the first column in the array is sorted in ascending order.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200217T114334Z" creationid="Marco Marega" creationdate="20160821T211928Z">
-        <seg>Se nella prima colonna di una matrice si trova un valore specifico,&lt;f0&gt; &lt;/f0&gt;restituisce il valore nella stessa riga di una specifica colonna di matrice indicata da &lt;f1&gt;indice&lt;/f1&gt;.&lt;f2&gt; &lt;/f2&gt;La ricerca supporta le espressioni regolari.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Criterio_di_ricerca&lt;/f4&gt; è il valore da cercare nella prima colonna della matrice.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Matrice&lt;/f6&gt; è il riferimento, che deve comprendere almeno due colonne.&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;aaaaIndice&lt;/f8&gt; è il numero della colonna della matrice che contiene il valore da restituire.&lt;f9&gt; &lt;/f9&gt;La prima colonna ha il numero 1.&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;Ordinato&lt;/f11&gt; (facoltativo) indica se la prima colonna nella matrice è disposta in ordine crescente.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200217T131804Z" creationid="Marco Marega" creationdate="20160821T211928Z">
+        <seg>Se nella prima colonna di una matrice si trova un valore specifico,&lt;f0&gt; &lt;/f0&gt;restituisce il valore nella stessa riga di una specifica colonna di matrice indicata da &lt;f1&gt;indice&lt;/f1&gt;.&lt;f2&gt; &lt;/f2&gt;La ricerca supporta le espressioni regolari.&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Criterio_di_ricerca&lt;/f4&gt; è il valore da cercare nella prima colonna della matrice.&lt;f5&gt; &lt;/f5&gt;&lt;f6&gt;Matrice&lt;/f6&gt; è il riferimento, che deve comprendere almeno due colonne.&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;Indice&lt;/f8&gt; è il numero della colonna nella matrice che contiene il valore da restituire.&lt;f9&gt; &lt;/f9&gt;La prima colonna contiene il numero 1.&lt;f10&gt; &lt;/f10&gt;&lt;f11&gt;Ordinato&lt;/f11&gt; (facoltativo) indica se la prima colonna nella matrice è disposta in ordine crescente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63200,8 +63200,8 @@
       <tuv lang="EN">
         <seg>Use Calc&lt;f0&gt;’&lt;/f0&gt;s text functions to search and manipulate text strings or character codes.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T212117Z" creationid="Marco Marega" creationdate="20160821T212117Z">
-        <seg>Utilizzate le funzioni per il testo di Calc&lt;f0&gt;&lt;/f0&gt;per cercare e manipolare stringhe di testo o codici di  carattere.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200217T132123Z" creationid="Marco Marega" creationdate="20160821T212117Z">
+        <seg>aaaaUtilizzate le funzioni per il testo di Calc&lt;f0&gt;&lt;/f0&gt;per cercare e manipolare stringhe di testo o codici di  carattere.</seg>
       </tuv>
     </tu>
     <tu>
