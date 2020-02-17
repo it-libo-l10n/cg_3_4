@@ -13792,8 +13792,8 @@
       <tuv lang="EN">
         <seg>Applies a style to the cell containing the formula.&lt;f0&gt; &lt;/f0&gt;After a set amount of time, another style can be applied.&lt;f1&gt; &lt;/f1&gt;This function always returns the value 0, allowing it to be added to another function without changing the value.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Style&lt;/f3&gt; is the name of a cell style assigned to the cell.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Time&lt;/f5&gt; is an optional time range in seconds.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Style2&lt;/f7&gt; is the optional name of a cell style assigned to the cell after a certain amount of time has passed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T210941Z" creationid="Marco Marega" creationdate="20160821T210941Z">
-        <seg>Applica uno stile alla cella che contiene la formula.&lt;f0&gt; &lt;/f0&gt;Dopo un determinato ammontare di tempo è possibile applicare un altro stile.&lt;f1&gt; &lt;/f1&gt;Questa funzione restituisce sempre il valore 0, permettendo così di sommarla ad un'altra funzione senza cambiarne il valore.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Stile&lt;/f3&gt; è il nome dello stile assegnato alla cella.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Tempo&lt;/f5&gt; è un lasso di tempo facoltativo espresso in secondi.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Stile 2&lt;/f7&gt; è facoltativo ed è il nome di uno stile da assegnare alla cella dopo che è trascorso un determinato periodo di tempo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200217T084829Z" creationid="Marco Marega" creationdate="20160821T210941Z">
+        <seg>Applica uno stile alla cella contenente la formula.&lt;f0&gt; &lt;/f0&gt;Dopo un determinato periodo di tempo è possibile applicare un altro stile.&lt;f1&gt; &lt;/f1&gt;Questa funzione restituisce sempre il valore 0, permettendo così di sommarla a un'altra funzione senza cambiarne il valore.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Stile&lt;/f3&gt; è il nome dello stile assegnato alla cella.&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Tempo&lt;/f5&gt; è un intervallo di tempo facoltativo espresso in secondi.&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;Stile2&lt;/f7&gt; è facoltativo ed è il nome di uno stile da assegnare alla cella dopo che è trascorso un determinato periodo di tempo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47072,8 +47072,8 @@
       <tuv lang="EN">
         <seg>STYLE(style; time; style2)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200214T154530Z" creationid="Marco Marega" creationdate="20160821T210403Z">
-        <seg>aaaaaaaaaaaaaaaaSTILE(stile; tempo; stile2)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200217T083830Z" creationid="Marco Marega" creationdate="20160821T210403Z">
+        <seg>STILE(stile; ora; stile2)</seg>
       </tuv>
     </tu>
     <tu>
@@ -64536,8 +64536,8 @@
       <tuv lang="EN">
         <seg>VLOOKUP(search_criterion; array; index; sort_order)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160821T211024Z" creationid="Marco Marega" creationdate="20160821T211024Z">
-        <seg>CERCA.VERT(criterio di ricerca; matrice; indice; ordinato)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200217T084831Z" creationid="Marco Marega" creationdate="20160821T211024Z">
+        <seg>aaaaCERCA.VERT(criterio di ricerca; matrice; indice; ordinato)</seg>
       </tuv>
     </tu>
     <tu>
