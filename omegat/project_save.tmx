@@ -14560,8 +14560,8 @@
       <tuv lang="EN">
         <seg>BASE(number; radix; [minimum_length])</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T141516Z" creationid="Marco Marega" creationdate="20160822T141516Z">
-        <seg>BASE(numero; radice; [lunghezza minima])</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200218T112347Z" creationid="Marco Marega" creationdate="20160822T141516Z">
+        <seg>aaaaBASE(numero; radice; [lunghezza minima])</seg>
       </tuv>
     </tu>
     <tu>
@@ -57696,8 +57696,8 @@
       <tuv lang="EN">
         <seg>The value range must be between 0 and 3999.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200218T085936Z" creationid="Marco Marega" creationdate="20160822T141411Z">
-        <seg>aaaaIl valore deve essere compreso tra 0 e 3999.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200218T112220Z" creationid="Marco Marega" creationdate="20160822T141411Z">
+        <seg>L'intervallo di valori deve essere compreso tra 0 e 3999.</seg>
       </tuv>
     </tu>
     <tu>
