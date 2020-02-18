@@ -7224,8 +7224,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Number&lt;/f0&gt; is a number between 1 and 255 representing the code value for the character.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T142430Z" creationid="Marco Marega" creationdate="20160822T142430Z">
-        <seg>&lt;f0&gt;Numero&lt;/f0&gt; è un numero compreso tra 1 e 255 che rappresenta il valore del codice del carattere.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200218T164450Z" creationid="Marco Marega" creationdate="20160822T142430Z">
+        <seg>aaaaaaaaaaaaaaaa&lt;f0&gt;Numero&lt;/f0&gt; è un numero compreso tra 1 e 255 che rappresenta il valore del codice del carattere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20016,8 +20016,8 @@
       <tuv lang="EN">
         <seg>Converts a number into a character according to the current code table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200218T163734Z" creationid="Marco Marega" creationdate="20160822T142315Z">
-        <seg>aaaaConverte un numero in un carattere in base alla tabella dei codici carattere attiva.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200218T164300Z" creationid="Marco Marega" creationdate="20160822T142315Z">
+        <seg>Converte un numero in un carattere in base alla tabella dei codici corrente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55928,8 +55928,8 @@
       <tuv lang="EN">
         <seg>The number can be a two-digit or three-digit integer number.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T142349Z" creationid="Marco Marega" creationdate="20160822T142349Z">
-        <seg>Il numero può essere un intero di due o tre cifre.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200218T164446Z" creationid="Marco Marega" creationdate="20160822T142349Z">
+        <seg>Il numero può essere un numero intero di due o tre cifre.</seg>
       </tuv>
     </tu>
     <tu>
