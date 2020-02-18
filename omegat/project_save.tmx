@@ -15384,8 +15384,8 @@
       <tuv lang="EN">
         <seg>CHAR(number)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200218T163103Z" creationid="Marco Marega" creationdate="20160822T142216Z">
-        <seg>aaaaCODICE.CARATT(numero)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200218T163714Z" creationid="Marco Marega" creationdate="20160822T142216Z">
+        <seg>CODICE.CARATT(numero)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20016,8 +20016,8 @@
       <tuv lang="EN">
         <seg>Converts a number into a character according to the current code table.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T142315Z" creationid="Marco Marega" creationdate="20160822T142315Z">
-        <seg>Converte un numero in un carattere in base alla tabella dei codici carattere attiva.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200218T163734Z" creationid="Marco Marega" creationdate="20160822T142315Z">
+        <seg>aaaaConverte un numero in un carattere in base alla tabella dei codici carattere attiva.</seg>
       </tuv>
     </tu>
     <tu>
