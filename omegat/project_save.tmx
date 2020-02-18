@@ -14560,8 +14560,8 @@
       <tuv lang="EN">
         <seg>BASE(number; radix; [minimum_length])</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200218T112347Z" creationid="Marco Marega" creationdate="20160822T141516Z">
-        <seg>aaaaBASE(numero; radice; [lunghezza minima])</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200218T112855Z" creationid="Marco Marega" creationdate="20160822T141516Z">
+        <seg>BASE(numero; radice; [lunghezza_minima])</seg>
       </tuv>
     </tu>
     <tu>
@@ -20048,8 +20048,8 @@
       <tuv lang="EN">
         <seg>Converts a positive integer to a specified base then into text using the characters from the base’s numbering system (decimal, binary, hexadecimal, etc.).</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T141736Z" creationid="Marco Marega" creationdate="20160822T141736Z">
-        <seg>Converte un numero intero positivo nella base specificata e poi in testo utilizzando i caratteri del sistema di numerazione di quella base (decimale, binaria, esadecimale, etc.).</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200218T113022Z" creationid="Marco Marega" creationdate="20160822T141736Z">
+        <seg>aaaaConverte un numero intero positivo nella base specificata e poi in testo utilizzando i caratteri del sistema di numerazione di quella base (decimale, binaria, esadecimale, etc.).</seg>
       </tuv>
     </tu>
     <tu>
