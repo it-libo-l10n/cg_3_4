@@ -9552,8 +9552,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;Minimum_length&lt;/f2&gt; (optional) is the minimum length of the character sequence that has been created.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200218T135318Z" creationid="Marco Marega" creationdate="20160822T142031Z">
-        <seg>aaaa&lt;f2&gt;Lunghezza minima&lt;/f2&gt; (facoltativo) è la lunghezza minima della sequenza di caratteri che viene creata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200218T162600Z" creationid="Marco Marega" creationdate="20160822T142031Z">
+        <seg>&lt;f2&gt;Lunghezza_minima&lt;/f2&gt; (facoltativo) è la lunghezza minima della sequenza di caratteri che viene creata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15384,8 +15384,8 @@
       <tuv lang="EN">
         <seg>CHAR(number)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T142216Z" creationid="Marco Marega" creationdate="20160822T142216Z">
-        <seg>CODICE.CARATT(numero)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200218T163103Z" creationid="Marco Marega" creationdate="20160822T142216Z">
+        <seg>aaaaCODICE.CARATT(numero)</seg>
       </tuv>
     </tu>
     <tu>
