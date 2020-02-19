@@ -8280,8 +8280,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Text&lt;/f0&gt; refers to the text from which to remove all non-printable characters.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T142626Z" creationid="Marco Marega" creationdate="20160822T142626Z">
-        <seg>&lt;f0&gt;Testo&lt;/f0&gt; fa riferimento al testo da cui rimuovere tutti i caratteri non stampabili.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200219T110011Z" creationid="Marco Marega" creationdate="20160822T142626Z">
+        <seg>aaaa&lt;f0&gt;Testo&lt;/f0&gt; fa riferimento al testo da cui rimuovere tutti i caratteri non stampabili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15408,8 +15408,8 @@
       <tuv lang="EN">
         <seg>CLEAN(text)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200219T100504Z" creationid="Marco Marega" creationdate="20160822T142517Z">
-        <seg>aaaaLIBERA(testo)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200219T105706Z" creationid="Marco Marega" creationdate="20160822T142517Z">
+        <seg>LIBERA(testo)</seg>
       </tuv>
     </tu>
     <tu>
