@@ -20104,8 +20104,8 @@
       <tuv lang="EN">
         <seg>Converts text with characters from a number system to a positive integer in the base radix given.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T143318Z" creationid="Marco Marega" creationdate="20160822T143318Z">
-        <seg>Converte un testo formato da caratteri di un sistema di numerazione in numero intero positivo  e ciò in base alla radice indicata.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200219T164019Z" creationid="Marco Marega" creationdate="20160822T143318Z">
+        <seg>Converte un testo con caratteri da un determinato sistema numerico in un intero positivo, utilizzando come base la radice indicata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21264,8 +21264,8 @@
       <tuv lang="EN">
         <seg>DECIMAL(text; radix)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200219T161000Z" creationid="Marco Marega" creationdate="20160822T143101Z">
-        <seg>aaaaDECIMALE(testo; radice)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200219T161518Z" creationid="Marco Marega" creationdate="20160822T143101Z">
+        <seg>DECIMALE(testo; radice)</seg>
       </tuv>
     </tu>
     <tu>
@@ -50784,8 +50784,8 @@
       <tuv lang="EN">
         <seg>Spaces and tabs are ignored.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T143405Z" creationid="Marco Marega" creationdate="20160822T143405Z">
-        <seg>Gli spazio e le tabulazioni vengono ignorati.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200219T164145Z" creationid="Marco Marega" creationdate="20160822T143405Z">
+        <seg>aaaaaaaaaaaaaaaaGli spazi e le tabulazioni vengono ignorati.</seg>
       </tuv>
     </tu>
     <tu>
