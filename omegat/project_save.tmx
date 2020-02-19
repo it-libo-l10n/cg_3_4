@@ -7224,8 +7224,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Number&lt;/f0&gt; is a number between 1 and 255 representing the code value for the character.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200218T164450Z" creationid="Marco Marega" creationdate="20160822T142430Z">
-        <seg>aaaaaaaaaaaaaaaa&lt;f0&gt;Numero&lt;/f0&gt; è un numero compreso tra 1 e 255 che rappresenta il valore del codice del carattere.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200219T100502Z" creationid="Marco Marega" creationdate="20160822T142430Z">
+        <seg>&lt;f0&gt;Numero&lt;/f0&gt; è un numero compreso tra 1 e 255, che rappresenta il valore del codice per il carattere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15408,8 +15408,8 @@
       <tuv lang="EN">
         <seg>CLEAN(text)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T142517Z" creationid="Marco Marega" creationdate="20160822T142517Z">
-        <seg>LIBERA(testo)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200219T100504Z" creationid="Marco Marega" creationdate="20160822T142517Z">
+        <seg>aaaaLIBERA(testo)</seg>
       </tuv>
     </tu>
     <tu>
