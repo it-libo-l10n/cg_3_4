@@ -8304,8 +8304,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Text_1; text_2; ... text_30&lt;/f0&gt; are text passages that are to be combined into one string.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T143052Z" creationid="Marco Marega" creationdate="20160822T143052Z">
-        <seg>&lt;f0&gt;Testo 1; testo 2; ... testo 30&lt;/f0&gt; sono i frammenti di testo che vanno uniti in un'unica stringa.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200219T160959Z" creationid="Marco Marega" creationdate="20160822T143052Z">
+        <seg>&lt;f0&gt;Testo_1; testo_2; ... testo_30&lt;/f0&gt; sono i frammenti di testo che vanno uniti in un'unica stringa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19680,8 +19680,8 @@
       <tuv lang="EN">
         <seg>Combines several text strings into one string.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200219T132905Z" creationid="Marco Marega" creationdate="20160822T142942Z">
-        <seg>aaaaUnisce diverse stringhe di testo in un'unica stringa.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200219T160641Z" creationid="Marco Marega" creationdate="20160822T142942Z">
+        <seg>Unisce diverse stringhe di testo in un'unica stringa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21264,8 +21264,8 @@
       <tuv lang="EN">
         <seg>DECIMAL(text; radix)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T143101Z" creationid="Marco Marega" creationdate="20160822T143101Z">
-        <seg>DECIMALE(testo; radice)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200219T161000Z" creationid="Marco Marega" creationdate="20160822T143101Z">
+        <seg>aaaaDECIMALE(testo; radice)</seg>
       </tuv>
     </tu>
     <tu>
