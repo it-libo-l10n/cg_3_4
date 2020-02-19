@@ -15456,8 +15456,8 @@
       <tuv lang="EN">
         <seg>CONCATENATE(text_1; text_2; ...; text_30)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200219T132634Z" creationid="Marco Marega" creationdate="20160822T142851Z">
-        <seg>aaaaCONCATENA(testo 1; testo 2; ...; testo 30)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200219T132902Z" creationid="Marco Marega" creationdate="20160822T142851Z">
+        <seg>CONCATENA(testo_1; testo_2; ...; testo_30)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19680,8 +19680,8 @@
       <tuv lang="EN">
         <seg>Combines several text strings into one string.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T142942Z" creationid="Marco Marega" creationdate="20160822T142942Z">
-        <seg>Unisce diverse stringhe di testo in un'unica stringa.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200219T132905Z" creationid="Marco Marega" creationdate="20160822T142942Z">
+        <seg>aaaaUnisce diverse stringhe di testo in un'unica stringa.</seg>
       </tuv>
     </tu>
     <tu>
