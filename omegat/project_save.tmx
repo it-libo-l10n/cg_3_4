@@ -21320,8 +21320,8 @@
       <tuv lang="EN">
         <seg>DOLLAR(value; decimals)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T144355Z" creationid="Marco Marega" creationdate="20160822T144355Z">
-        <seg>VALUTA(valore; decimali)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200220T104235Z" creationid="Marco Marega" creationdate="20160822T144355Z">
+        <seg>aaaaVALUTA(valore; decimali)</seg>
       </tuv>
     </tu>
     <tu>
@@ -52488,8 +52488,8 @@
       <tuv lang="EN">
         <seg>The &lt;f0&gt;text&lt;/f0&gt; field is not case-sensitive.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200220T100746Z" creationid="Marco Marega" creationdate="20160822T143438Z">
-        <seg>aaaaIl campo &lt;f0&gt;testo&lt;/f0&gt; non fa distinzione tra maiuscole e minuscole.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200220T102612Z" creationid="Marco Marega" creationdate="20160822T143438Z">
+        <seg>Il campo &lt;f0&gt;testo&lt;/f0&gt; non fa distinzione tra maiuscole e minuscole.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60504,8 +60504,8 @@
       <tuv lang="EN">
         <seg>To differentiate between a hexadecimal number, such as A1 and the reference to cell A1, place the number in quotation marks; for example, "A1" or "FACE”.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Radix&lt;/f3&gt; is the base of the number system.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T144310Z" creationid="Marco Marega" creationdate="20160822T144310Z">
-        <seg>Per distinguere tra numeri esadecimali, come A1 dal riferimento alla cella A1, inserite il numero tra virgolette; ad esempio, "A1" o "FACE”.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Radice&lt;/f3&gt; è la base del sistema di numerazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200220T104133Z" creationid="Marco Marega" creationdate="20160822T144310Z">
+        <seg>Per distinguere tra numeri esadecimali come A1 dal riferimento alla cella A1, inserite il numero tra virgolette; ad esempio, "A1" o "CADE”.&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Radice&lt;/f3&gt; è la base del sistema di numerazione.</seg>
       </tuv>
     </tu>
     <tu>
