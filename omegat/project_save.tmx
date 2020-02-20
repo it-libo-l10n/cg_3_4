@@ -8312,8 +8312,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Text_1&lt;/f0&gt; is the first text to compare.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T145123Z" creationid="Marco Marega" creationdate="20160822T145123Z">
-        <seg>&lt;f0&gt;Testo 1&lt;/f0&gt; è il primo testo da confrontare.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200220T155345Z" creationid="Marco Marega" creationdate="20160822T145123Z">
+        <seg>aaaa&lt;f0&gt;Testo 1&lt;/f0&gt; è il primo testo da confrontare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19760,8 +19760,8 @@
       <tuv lang="EN">
         <seg>Compares two text strings and returns TRUE if they are identical.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200220T151849Z" creationid="Marco Marega" creationdate="20160822T145030Z">
-        <seg>aaaaConfronta due stringe di testo e se sono identiche restituisce VERO.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200220T155205Z" creationid="Marco Marega" creationdate="20160822T145030Z">
+        <seg>Confronta due stringhe di testo e restituisce VERO se sono identiche.</seg>
       </tuv>
     </tu>
     <tu>
