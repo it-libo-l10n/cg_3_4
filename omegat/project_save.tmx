@@ -8312,8 +8312,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Text_1&lt;/f0&gt; is the first text to compare.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200220T155345Z" creationid="Marco Marega" creationdate="20160822T145123Z">
-        <seg>aaaa&lt;f0&gt;Testo 1&lt;/f0&gt; è il primo testo da confrontare.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200220T163012Z" creationid="Marco Marega" creationdate="20160822T145123Z">
+        <seg>&lt;f0&gt;Testo_1&lt;/f0&gt; è il primo testo da confrontare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9392,8 +9392,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Text_2&lt;/f1&gt; is the second text to compare.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T145152Z" creationid="Marco Marega" creationdate="20160822T145152Z">
-        <seg>&lt;f1&gt;Testo 2&lt;/f1&gt; è il secondo testo da confrontare.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200220T163016Z" creationid="Marco Marega" creationdate="20160822T145152Z">
+        <seg>&lt;f1&gt;Testo_2&lt;/f1&gt; è il secondo testo da confrontare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24208,8 +24208,8 @@
       <tuv lang="EN">
         <seg>FIND(find_text; text; position)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T145245Z" creationid="Marco Marega" creationdate="20160822T145159Z">
-        <seg>TROVA(testo ricercato; testo; posizione)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200220T164234Z" creationid="Marco Marega" creationdate="20160822T145159Z">
+        <seg>TROVA(cerca_testo; testo; posizione)</seg>
       </tuv>
     </tu>
     <tu>
@@ -37688,8 +37688,8 @@
       <tuv lang="EN">
         <seg>Looks for a string of text within another string.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T145305Z" creationid="Marco Marega" creationdate="20160822T145305Z">
-        <seg>Cerca una stringa di testo all'interno di un'altra stringa.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200220T164408Z" creationid="Marco Marega" creationdate="20160822T145305Z">
+        <seg>Ricerca una stringa di testo all'interno di un'altra stringa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56984,8 +56984,8 @@
       <tuv lang="EN">
         <seg>The search term can be a number or any string of characters.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T145407Z" creationid="Marco Marega" creationdate="20160822T145407Z">
-        <seg>Il termine da cercare può essere un numero o qualsiasi stringa di caratteri.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200220T164829Z" creationid="Marco Marega" creationdate="20160822T145407Z">
+        <seg>aaaaaaaaaaaaaaaaaaIl termine da cercare può essere un numero o qualsiasi stringa di caratteri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65928,8 +65928,8 @@
       <tuv lang="EN">
         <seg>Where to begin the search can also be defined.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T145327Z" creationid="Marco Marega" creationdate="20160822T145327Z">
-        <seg>E' possibile specificare anche da quale punto iniziare la ricerca.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200220T164825Z" creationid="Marco Marega" creationdate="20160822T145327Z">
+        <seg>È anche possibile specificare da quale punto iniziare la ricerca.</seg>
       </tuv>
     </tu>
     <tu>
