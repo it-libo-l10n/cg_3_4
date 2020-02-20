@@ -8808,8 +8808,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Value&lt;/f0&gt; is the number to be converted to currency; it can be a number, a reference to a cell containing a number, or a formula which returns a number.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200220T132547Z" creationid="Marco Marega" creationdate="20160822T144629Z">
-        <seg>aaaa&lt;f0&gt;Valore&lt;/f0&gt; è il numero da convertire in valuta; può essere un numero, un riferimento da una cella contenente un numero, oppure una formula che restituisce un numero.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200220T143858Z" creationid="Marco Marega" creationdate="20160822T144629Z">
+        <seg>&lt;f0&gt;Valore&lt;/f0&gt; è il numero da convertire in valuta; può essere un numero, un riferimento a una cella contenente un numero, oppure una formula che restituisce un numero.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9224,8 +9224,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Decimals&lt;/f1&gt; (optional) is the number of decimal places.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T144650Z" creationid="Marco Marega" creationdate="20160822T144650Z">
-        <seg>&lt;f1&gt;Decimali&lt;/f1&gt; (facoltativo) è il numero di cifre decimali.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200220T144211Z" creationid="Marco Marega" creationdate="20160822T144650Z">
+        <seg>&lt;f1&gt;Decimali&lt;/f1&gt; (facoltativo) è il numero di posizioni decimali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31568,8 +31568,8 @@
       <tuv lang="EN">
         <seg>If no decimals value is specified, all numbers in currency format will be displayed with two decimal places.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T144802Z" creationid="Marco Marega" creationdate="20160822T144802Z">
-        <seg>Se non viene specificato il numero di cifre decimali, tutti i numeri nel formato valuta vengono visualizzati con due cifre decimali.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200220T144214Z" creationid="Marco Marega" creationdate="20160822T144802Z">
+        <seg>aaaaSe non viene specificato il numero di cifre decimali, tutti i numeri nel formato valuta vengono visualizzati con due cifre decimali.</seg>
       </tuv>
     </tu>
     <tu>
