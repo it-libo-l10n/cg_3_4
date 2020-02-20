@@ -8808,8 +8808,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Value&lt;/f0&gt; is the number to be converted to currency; it can be a number, a reference to a cell containing a number, or a formula which returns a number.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T144629Z" creationid="Marco Marega" creationdate="20160822T144629Z">
-        <seg>&lt;f0&gt;Valore&lt;/f0&gt; è il numero da convertire in valuta; può essere un numero, un riferimento da una cella contenente un numero, oppure una formula che restituisce un numero.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200220T132547Z" creationid="Marco Marega" creationdate="20160822T144629Z">
+        <seg>aaaa&lt;f0&gt;Valore&lt;/f0&gt; è il numero da convertire in valuta; può essere un numero, un riferimento da una cella contenente un numero, oppure una formula che restituisce un numero.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20040,8 +20040,8 @@
       <tuv lang="EN">
         <seg>Converts a number to an amount in the currency format, rounded to a specified decimal place.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200220T113521Z" creationid="Marco Marega" creationdate="20160822T144523Z">
-        <seg>aaaaConverte un numero in una somma nel formato valuta, arrotondata al numero di cifre decimali specificato.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200220T132545Z" creationid="Marco Marega" creationdate="20160822T144523Z">
+        <seg>Converte un numero in un importo nel formato valuta, arrotondato al numero di cifre decimali specificato.</seg>
       </tuv>
     </tu>
     <tu>
