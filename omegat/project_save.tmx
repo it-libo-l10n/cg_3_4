@@ -9224,8 +9224,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Decimals&lt;/f1&gt; (optional) is the number of decimal places.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200220T144211Z" creationid="Marco Marega" creationdate="20160822T144650Z">
-        <seg>&lt;f1&gt;Decimali&lt;/f1&gt; (facoltativo) è il numero di posizioni decimali.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200220T151205Z" creationid="Marco Marega" creationdate="20160822T144650Z">
+        <seg>&lt;f1&gt;Decimali&lt;/f1&gt; (facoltativo) è il numero di cifre decimali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19760,8 +19760,8 @@
       <tuv lang="EN">
         <seg>Compares two text strings and returns TRUE if they are identical.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T145030Z" creationid="Marco Marega" creationdate="20160822T145030Z">
-        <seg>Confronta due stringe di testo e se sono identiche restituisce VERO.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200220T151849Z" creationid="Marco Marega" creationdate="20160822T145030Z">
+        <seg>aaaaConfronta due stringe di testo e se sono identiche restituisce VERO.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22728,8 +22728,8 @@
       <tuv lang="EN">
         <seg>EXACT(text_1; text_2)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T144943Z" creationid="Marco Marega" creationdate="20160822T144943Z">
-        <seg>IDENTICO(testo 1; testo 2)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200220T151846Z" creationid="Marco Marega" creationdate="20160822T144943Z">
+        <seg>IDENTICO(testo_1; testo_2)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31568,8 +31568,8 @@
       <tuv lang="EN">
         <seg>If no decimals value is specified, all numbers in currency format will be displayed with two decimal places.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200220T144214Z" creationid="Marco Marega" creationdate="20160822T144802Z">
-        <seg>aaaaSe non viene specificato il numero di cifre decimali, tutti i numeri nel formato valuta vengono visualizzati con due cifre decimali.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200220T151154Z" creationid="Marco Marega" creationdate="20160822T144802Z">
+        <seg>Se non viene specificato il numero di cifre decimali, tutti i numeri nel formato valuta vengono visualizzati con due cifre decimali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54048,8 +54048,8 @@
       <tuv lang="EN">
         <seg>The currency format is set in the system settings.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T144844Z" creationid="Marco Marega" creationdate="20160822T144844Z">
-        <seg>Il formato valuta viene definito nelle impostazioni di sistema.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200220T151655Z" creationid="Marco Marega" creationdate="20160822T144844Z">
+        <seg>Il formato della valuta viene definito nelle impostazioni di sistema.</seg>
       </tuv>
     </tu>
     <tu>
