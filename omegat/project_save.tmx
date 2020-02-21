@@ -24224,8 +24224,8 @@
       <tuv lang="EN">
         <seg>FIXED(number; decimals; no_thousands_separator)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200221T084349Z" creationid="Marco Marega" creationdate="20160822T211736Z">
-        <seg>aaaaFISSO(numero; decimali; nessun separatore migliaia)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200221T090054Z" creationid="Marco Marega" creationdate="20160822T211736Z">
+        <seg>FISSO(numero; decimali; nessun_separatore_migliaia)</seg>
       </tuv>
     </tu>
     <tu>
@@ -50832,8 +50832,8 @@
       <tuv lang="EN">
         <seg>Specifies that a number be displayed with a fixed number of decimal places and with or without a thousands separator.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T212056Z" creationid="Marco Marega" creationdate="20160822T211909Z">
-        <seg>Specifica se un numero deve essere visualizzato con un numero fisso di cifre decimali e con o senza separatore delle migliaia.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200221T090056Z" creationid="Marco Marega" creationdate="20160822T211909Z">
+        <seg>aaaaSpecifica se un numero deve essere visualizzato con un numero fisso di cifre decimali e con o senza separatore delle migliaia.</seg>
       </tuv>
     </tu>
     <tu>
