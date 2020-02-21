@@ -6072,8 +6072,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Find_text&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;is the text to be found.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T145454Z" creationid="Marco Marega" creationdate="20160822T145454Z">
-        <seg>&lt;f0&gt;Testo ricercato&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;è il testo da cercare.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200221T075830Z" creationid="Marco Marega" creationdate="20160822T145454Z">
+        <seg>&lt;f0&gt;Cerca_testo&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;è il testo da cercare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9744,8 +9744,8 @@
       <tuv lang="EN">
         <seg>&lt;f3&gt;Position&lt;/f3&gt; (optional) is the position in the text from which the search starts.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T145602Z" creationid="Marco Marega" creationdate="20160822T145602Z">
-        <seg>&lt;f3&gt;Posizione&lt;/f3&gt; (facoltativo) è la posizione all'interno del testo dalla quale iniziare la ricerca.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200221T075944Z" creationid="Marco Marega" creationdate="20160822T145602Z">
+        <seg>aaaa&lt;f3&gt;Posizione&lt;/f3&gt; (facoltativo) è la posizione all'interno del testo dalla quale iniziare la ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56984,8 +56984,8 @@
       <tuv lang="EN">
         <seg>The search term can be a number or any string of characters.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200220T164829Z" creationid="Marco Marega" creationdate="20160822T145407Z">
-        <seg>aaaaaaaaaaaaaaaaaaIl termine da cercare può essere un numero o qualsiasi stringa di caratteri.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200221T075541Z" creationid="Marco Marega" creationdate="20160822T145407Z">
+        <seg>Il termine da cercare può essere un numero o qualsiasi stringa di caratteri.</seg>
       </tuv>
     </tu>
     <tu>
