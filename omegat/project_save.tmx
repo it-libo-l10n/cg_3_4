@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8264,8 +8264,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Text&lt;/f0&gt; is the text where the initial partial words are to be determined.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200221T155126Z" creationid="Marco Marega" creationdate="20160822T212712Z">
-        <seg>aaaaaaaaaaaaaaaa&lt;f0&gt;Testo&lt;/f0&gt; è il testo di cui determinare i caratteri compresi nella parte iniziale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200221T224757Z" creationid="Marco Marega" creationdate="20160822T212712Z">
+        <seg>&lt;f0&gt;Testo&lt;/f0&gt; è la stringa di testo che contiene i caratteri da estrarre a partire dal lato sinistro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9320,8 +9320,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Number&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;(optional) is the number of characters for the start text.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T212815Z" creationid="Marco Marega" creationdate="20160822T212815Z">
-        <seg>&lt;f1&gt;Numero&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;(facoltativo) è il numero di caratteri dall'inizio del testo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200221T225235Z" creationid="Marco Marega" creationdate="20160822T212815Z">
+        <seg>&lt;f1&gt;Numero&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;(opzionale) specifica il numero di caratteri che la funzione SINISTRA deve estrarre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32480,8 +32480,8 @@
       <tuv lang="EN">
         <seg>If this parameter is not defined, one character is returned.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T212842Z" creationid="Marco Marega" creationdate="20160822T212842Z">
-        <seg>Se questo parametro non è definito, viene restituito un solo carattere.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200221T225347Z" creationid="Marco Marega" creationdate="20160822T212842Z">
+        <seg>Se questo parametro non è definito viene restituito un solo carattere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36984,8 +36984,8 @@
       <tuv lang="EN">
         <seg>LEN(text)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T212852Z" creationid="Marco Marega" creationdate="20160822T212852Z">
-        <seg>LUNGHEZZA(testo)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200221T225352Z" creationid="Marco Marega" creationdate="20160822T212852Z">
+        <seg>aaaaaaaaaaaaaaaaLUNGHEZZA(testo)</seg>
       </tuv>
     </tu>
     <tu>
