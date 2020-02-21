@@ -32072,16 +32072,16 @@
       <tuv lang="EN">
         <seg>If the parameter is a number not equal to 0, the thousands separator is suppressed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200221T091952Z" creationid="Marco Marega" creationdate="20160822T212225Z">
-        <seg>aaaaSe il parametro è un numero diverso da 0, il separatore delle migliaia viene eliminato.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200221T102436Z" creationid="Marco Marega" creationdate="20160822T212225Z">
+        <seg>Se il parametro è un numero diverso da 0, il separatore delle migliaia viene eliminato.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If the parameter is equal to 0 or if it is missing altogether, the thousands separators of the current locale setting are displayed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T212447Z" creationid="Marco Marega" creationdate="20160822T212447Z">
-        <seg>Se il parametro è uguale a 0 o se è del tutto mancante, verranno visualizzati i separatori delle migliaia previsti dalle impostazioni della lingua attiva.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200221T102437Z" creationid="Marco Marega" creationdate="20160822T212447Z">
+        <seg>aaaaSe il parametro è uguale a 0 o se è del tutto mancante, verranno visualizzati i separatori delle migliaia previsti dalle impostazioni della lingua attiva.</seg>
       </tuv>
     </tu>
     <tu>
