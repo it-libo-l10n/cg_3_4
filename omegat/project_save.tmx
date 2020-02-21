@@ -8264,8 +8264,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Text&lt;/f0&gt; is the text where the initial partial words are to be determined.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T212712Z" creationid="Marco Marega" creationdate="20160822T212712Z">
-        <seg>&lt;f0&gt;Testo&lt;/f0&gt; è il testo da cui va estratta la parte iniziale.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200221T141828Z" creationid="Marco Marega" creationdate="20160822T212712Z">
+        <seg>aaaa&lt;f0&gt;Testo&lt;/f0&gt; è il testo di cui determinare le parole comprese nella parte iniziale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45448,8 +45448,8 @@
       <tuv lang="EN">
         <seg>Returns the first character or characters in a text string.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200221T114255Z" creationid="Marco Marega" creationdate="20160822T212607Z">
-        <seg>aaaaRestituisce il primo carattere o i primi caratteri di una stringa di testo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200221T135930Z" creationid="Marco Marega" creationdate="20160822T212607Z">
+        <seg>Restituisce il primo carattere o i primi caratteri di una stringa di testo.</seg>
       </tuv>
     </tu>
     <tu>
