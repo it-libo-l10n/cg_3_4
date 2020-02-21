@@ -9744,8 +9744,8 @@
       <tuv lang="EN">
         <seg>&lt;f3&gt;Position&lt;/f3&gt; (optional) is the position in the text from which the search starts.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200221T075944Z" creationid="Marco Marega" creationdate="20160822T145602Z">
-        <seg>aaaa&lt;f3&gt;Posizione&lt;/f3&gt; (facoltativo) è la posizione all'interno del testo dalla quale iniziare la ricerca.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200221T084347Z" creationid="Marco Marega" creationdate="20160822T145602Z">
+        <seg>&lt;f3&gt;Posizione&lt;/f3&gt; (opzionale) è la posizione nel testo da cui iniziare la ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24224,8 +24224,8 @@
       <tuv lang="EN">
         <seg>FIXED(number; decimals; no_thousands_separator)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T211736Z" creationid="Marco Marega" creationdate="20160822T211736Z">
-        <seg>FISSO(numero; decimali; nessun separatore migliaia)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200221T084349Z" creationid="Marco Marega" creationdate="20160822T211736Z">
+        <seg>aaaaFISSO(numero; decimali; nessun separatore migliaia)</seg>
       </tuv>
     </tu>
     <tu>
