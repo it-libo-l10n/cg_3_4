@@ -32080,8 +32080,8 @@
       <tuv lang="EN">
         <seg>If the parameter is equal to 0 or if it is missing altogether, the thousands separators of the current locale setting are displayed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200221T102437Z" creationid="Marco Marega" creationdate="20160822T212447Z">
-        <seg>aaaaSe il parametro è uguale a 0 o se è del tutto mancante, verranno visualizzati i separatori delle migliaia previsti dalle impostazioni della lingua attiva.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200221T113930Z" creationid="Marco Marega" creationdate="20160822T212447Z">
+        <seg>Se il parametro è uguale a 0 o se è del tutto mancante, verranno visualizzati i separatori delle migliaia previsti dalle impostazioni locali correnti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45448,8 +45448,8 @@
       <tuv lang="EN">
         <seg>Returns the first character or characters in a text string.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T212607Z" creationid="Marco Marega" creationdate="20160822T212607Z">
-        <seg>Restituisce il primo carattere o i primi caratteri di una stringa di testo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200221T114255Z" creationid="Marco Marega" creationdate="20160822T212607Z">
+        <seg>aaaaRestituisce il primo carattere o i primi caratteri di una stringa di testo.</seg>
       </tuv>
     </tu>
     <tu>
