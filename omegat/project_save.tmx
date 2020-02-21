@@ -9736,8 +9736,8 @@
       <tuv lang="EN">
         <seg>&lt;f3&gt;No_thousands_separator&lt;/f3&gt; (optional) determines whether the thousands separator is used or not.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T212143Z" creationid="Marco Marega" creationdate="20160822T212143Z">
-        <seg>&lt;f3&gt;Nessun separatore migliaia&lt;/f3&gt; (facoltativo) indica se va utilizzato o meno il separatore delle migliaia.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200221T091950Z" creationid="Marco Marega" creationdate="20160822T212143Z">
+        <seg>&lt;f3&gt;Nessun_separatore_migliaia&lt;/f3&gt; (opzionale) indica se va utilizzato o meno il separatore delle migliaia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32072,8 +32072,8 @@
       <tuv lang="EN">
         <seg>If the parameter is a number not equal to 0, the thousands separator is suppressed.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T212225Z" creationid="Marco Marega" creationdate="20160822T212225Z">
-        <seg>Se il parametro è un numero diverso da 0, il separatore delle migliaia viene eliminato.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200221T091952Z" creationid="Marco Marega" creationdate="20160822T212225Z">
+        <seg>aaaaSe il parametro è un numero diverso da 0, il separatore delle migliaia viene eliminato.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58776,8 +58776,8 @@
       <tuv lang="EN">
         <seg>This function can be used to apply a uniform format to a column of numbers.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200221T090717Z" creationid="Marco Marega" creationdate="20160822T212005Z">
-        <seg>aaaaQuesta funzione può essere utilizzata per applicare un formato uniforme ad una colonna di numeri.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200221T091415Z" creationid="Marco Marega" creationdate="20160822T212005Z">
+        <seg>Questa funzione può essere utilizzata per applicare un formato uniforme a una colonna di numeri.</seg>
       </tuv>
     </tu>
     <tu>
