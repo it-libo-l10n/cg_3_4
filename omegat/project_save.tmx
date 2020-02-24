@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8272,8 +8272,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Text&lt;/f0&gt; is the text whose length is to be determined.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T212954Z" creationid="Marco Marega" creationdate="20160822T212954Z">
-        <seg>&lt;f0&gt;Testo&lt;/f0&gt; è il testo di cui va conteggiata la lunghezza.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200224T090815Z" creationid="Marco Marega" creationdate="20160822T212954Z">
+        <seg>&lt;f0&gt;Testo&lt;/f0&gt; è il testo la cui lunghezza deve essere determinata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20096,8 +20096,8 @@
       <tuv lang="EN">
         <seg>Converts all uppercase letters in a text string to lowercase.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T213112Z" creationid="Marco Marega" creationdate="20160822T213112Z">
-        <seg>Converte in minuscolo tutte le lettere maiuscole presenti in una stringa.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200224T090910Z" creationid="Marco Marega" creationdate="20160822T213112Z">
+        <seg>aaaaConverte in minuscolo tutte le lettere maiuscole presenti in una stringa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36984,8 +36984,8 @@
       <tuv lang="EN">
         <seg>LEN(text)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200221T225352Z" creationid="Marco Marega" creationdate="20160822T212852Z">
-        <seg>aaaaaaaaaaaaaaaaLUNGHEZZA(testo)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200224T090511Z" creationid="Marco Marega" creationdate="20160822T212852Z">
+        <seg>LUNGHEZZA(testo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45768,8 +45768,8 @@
       <tuv lang="EN">
         <seg>Returns the length of a string including spaces.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T212931Z" creationid="Marco Marega" creationdate="20160822T212931Z">
-        <seg>Restituisce la lunghezza di una stringa compresi gli spazi.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200224T090658Z" creationid="Marco Marega" creationdate="20160822T212931Z">
+        <seg>Restituisce la lunghezza di una stringa, spazi inclusi.</seg>
       </tuv>
     </tu>
     <tu>
