@@ -20096,8 +20096,8 @@
       <tuv lang="EN">
         <seg>Converts all uppercase letters in a text string to lowercase.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200224T090910Z" creationid="Marco Marega" creationdate="20160822T213112Z">
-        <seg>aaaaConverte in minuscolo tutte le lettere maiuscole presenti in una stringa.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200224T091233Z" creationid="Marco Marega" creationdate="20160822T213112Z">
+        <seg>Converte in minuscolo tutte le lettere maiuscole presenti in una stringa di testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37792,8 +37792,8 @@
       <tuv lang="EN">
         <seg>MID(text; start; number)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T213815Z" creationid="Marco Marega" creationdate="20160822T213222Z">
-        <seg>STRNGA.ESTRAI(testo; inizio; numero)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200224T091302Z" creationid="Marco Marega" creationdate="20160822T213222Z">
+        <seg>aaaaSTRNGA.ESTRAI(testo; inizio; numero)</seg>
       </tuv>
     </tu>
     <tu>
