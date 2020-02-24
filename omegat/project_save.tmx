@@ -8256,7 +8256,7 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Text&lt;/f0&gt; is the text to be converted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T213132Z" creationid="Marco Marega" creationdate="20160822T213132Z">
+      <tuv lang="IT-IT" changeid="luke" changedate="20200224T161516Z" creationid="Marco Marega" creationdate="20160822T213132Z">
         <seg>&lt;f0&gt;Testo&lt;/f0&gt; è il testo da convertire.</seg>
       </tuv>
     </tu>
@@ -16816,8 +16816,8 @@
       <tuv lang="EN">
         <seg>Capitalizes the first letter in all words of a text string.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T213629Z" creationid="Marco Marega" creationdate="20160822T213629Z">
-        <seg>Converte in maiuscolo la prima lettera di ogni parola presente in una stringa di testo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200224T161505Z" creationid="Marco Marega" creationdate="20160822T213629Z">
+        <seg>Converte in maiuscolo la prima lettera di tutte le parole presenti in una stringa di testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41944,8 +41944,8 @@
       <tuv lang="EN">
         <seg>PROPER(text)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200224T145738Z" creationid="Marco Marega" creationdate="20160822T213539Z">
-        <seg>aaaaMAIUSC.INIZ(testo)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200224T160439Z" creationid="Marco Marega" creationdate="20160822T213539Z">
+        <seg>MAIUSC.INIZ(testo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -43616,8 +43616,8 @@
       <tuv lang="EN">
         <seg>REPLACE(text; position; length; new_text)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T213812Z" creationid="Marco Marega" creationdate="20160822T213714Z">
-        <seg>RIMPIAZZA(testo; posizione; numero caratteri; nuovo testo)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200224T161522Z" creationid="Marco Marega" creationdate="20160822T213714Z">
+        <seg>aaaaRIMPIAZZA(testo; posizione; numero caratteri; nuovo testo)</seg>
       </tuv>
     </tu>
     <tu>
