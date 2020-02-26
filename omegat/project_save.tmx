@@ -9536,8 +9536,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;Length&lt;/f2&gt; is the number of characters in &lt;f3&gt;text&lt;/f3&gt; to be replaced.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T214555Z" creationid="Marco Marega" creationdate="20160822T214555Z">
-        <seg>&lt;f2&gt;Numero caratteri&lt;/f2&gt; è il numero di caratteri del &lt;f3&gt;testo&lt;/f3&gt; che vanno sostituiti.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200226T110110Z" creationid="Marco Marega" creationdate="20160822T214555Z">
+        <seg>&lt;f2&gt;Numero_caratteri&lt;/f2&gt; è il numero di caratteri da sostituire nel &lt;f3&gt;testo&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9840,8 +9840,8 @@
       <tuv lang="EN">
         <seg>&lt;f4&gt;New_text&lt;/f4&gt; is the text which replaces &lt;f5&gt;text&lt;/f5&gt;&lt;f6&gt;..&lt;/f6&gt;</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160822T214655Z" creationid="Marco Marega" creationdate="20160822T214655Z">
-        <seg>&lt;f4&gt;Nuovo testo&lt;/f4&gt; è il testo che deve sostituire la parte del &lt;f5&gt;testo&lt;/f5&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200226T110111Z" creationid="Marco Marega" creationdate="20160822T214655Z">
+        <seg>aaaa&lt;f4&gt;Nuovo testo&lt;/f4&gt; è il testo che deve sostituire la parte del &lt;f5&gt;testo&lt;/f5&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13664,8 +13664,8 @@
       <tuv lang="EN">
         <seg>Any text containing numbers must be enclosed in quotation marks so it is not interpreted as a number and automatically converted to text.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200226T102617Z" creationid="Marco Marega" creationdate="20160822T214338Z">
-        <seg>aaaaQualsiasi testo contenente dei numeri deve essere racchiuso tra virgolette in modo che non venga interpretato come numero e venga automaticamente convertito in testo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200226T105029Z" creationid="Marco Marega" creationdate="20160822T214338Z">
+        <seg>Qualsiasi testo contenente dei numeri deve essere racchiuso tra virgolette, in modo che non venga interpretato come numero e venga automaticamente convertito in testo.</seg>
       </tuv>
     </tu>
     <tu>
