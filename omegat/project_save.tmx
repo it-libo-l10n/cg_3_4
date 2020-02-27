@@ -8232,8 +8232,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Text&lt;/f0&gt; is the text of which the right part is to be determined.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T102939Z" creationid="Marco Marega" creationdate="20160823T102939Z">
-        <seg>&lt;f0&gt;Testo&lt;/f0&gt; è il testo di cui va trovata la parte destra.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200227T082407Z" creationid="Marco Marega" creationdate="20160823T102939Z">
+        <seg>&lt;f0&gt;Testo&lt;/f0&gt; è il testo di cui deve essere determinata la parte destra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9312,8 +9312,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Number&lt;/f1&gt; (optional) is the number of characters from the right part of the text.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T103027Z" creationid="Marco Marega" creationdate="20160823T103027Z">
-        <seg>&lt;f1&gt;Numero&lt;/f1&gt; (facoltativo) è il numero di caratteri della parte destra del testo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200227T082523Z" creationid="Marco Marega" creationdate="20160823T103027Z">
+        <seg>aaaa&lt;f1&gt;Numero&lt;/f1&gt; (opzionale) è il numero di caratteri partendo dalla parte destra del testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9584,8 +9584,8 @@
       <tuv lang="EN">
         <seg>&lt;f2&gt;Number&lt;/f2&gt; is the number of repetitions.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200226T164411Z" creationid="Marco Marega" creationdate="20160823T102456Z">
-        <seg>aaaaaaaaaaaaaaaa&lt;f2&gt;Numero&lt;/f2&gt; è il numero di ripetizioni.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200227T081739Z" creationid="Marco Marega" creationdate="20160823T102456Z">
+        <seg>&lt;f2&gt;Numero&lt;/f2&gt; è il numero di ripetizioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21632,8 +21632,8 @@
       <tuv lang="EN">
         <seg>Defines the last character or characters in a text string.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T102947Z" creationid="Marco Marega" creationdate="20160823T102907Z">
-        <seg>Restituisce l'ultimo carattere o gli ultimi caratteri in una stringa di testo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200227T082143Z" creationid="Marco Marega" creationdate="20160823T102907Z">
+        <seg>Restituisce l'ultimo o gli ultimi caratteri in una stringa di testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56600,8 +56600,8 @@
       <tuv lang="EN">
         <seg>The result can be a maximum of 255 characters.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T102516Z" creationid="Marco Marega" creationdate="20160823T102516Z">
-        <seg>Il risultato può avere al massimo 255 caratteri.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200227T081842Z" creationid="Marco Marega" creationdate="20160823T102516Z">
+        <seg>Il risultato può essere al massimo di 255 caratteri.</seg>
       </tuv>
     </tu>
     <tu>
