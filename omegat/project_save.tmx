@@ -43648,8 +43648,8 @@
       <tuv lang="EN">
         <seg>ROT13(ROT13(Text)) decrypts the code.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200228T140608Z" creationid="Marco Marega" creationdate="20160823T103633Z">
-        <seg>aaaaROT13(ROT13(Testo)) decripta il testo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200228T145258Z" creationid="Marco Marega" creationdate="20160823T103633Z">
+        <seg>ROT13(ROT13(Testo)) decripta il testo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46912,8 +46912,8 @@
       <tuv lang="EN">
         <seg>SEARCH(find_text; text; position)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T103756Z" creationid="Marco Marega" creationdate="20160823T103756Z">
-        <seg>RICERCA(testo ricercato; testo; posizione)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200228T145514Z" creationid="Marco Marega" creationdate="20160823T103756Z">
+        <seg>RICERCA(cerca_testo; testo; posizione)</seg>
       </tuv>
     </tu>
     <tu>
@@ -56936,8 +56936,8 @@
       <tuv lang="EN">
         <seg>The search is not case-sensitive.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T104009Z" creationid="Marco Marega" creationdate="20160823T104009Z">
-        <seg>La ricerca non fa distinzione tra maiuscole e minuscole.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200228T150240Z" creationid="Marco Marega" creationdate="20160823T104009Z">
+        <seg>La ricerca non distingue tra maiuscole e minuscole.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56976,8 +56976,8 @@
       <tuv lang="EN">
         <seg>The search supports regular expressions.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Find_text&lt;/f1&gt; is the text to be searched for.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T104051Z" creationid="Marco Marega" creationdate="20160823T104051Z">
-        <seg>La ricerca supporta le espressioni regolari.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Testo ricercato&lt;/f1&gt; è il testo da cercare.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200228T150440Z" creationid="Marco Marega" creationdate="20160823T104051Z">
+        <seg>La ricerca supporta le espressioni regolari.&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Cerca_testo&lt;/f1&gt; è il testo da ricercare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56992,8 +56992,8 @@
       <tuv lang="EN">
         <seg>The search text can be a number or any sequence of characters.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T103941Z" creationid="Marco Marega" creationdate="20160823T103941Z">
-        <seg>Il testo da cercare può essere un numero o qualunque sequenza di caratteri.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200228T150136Z" creationid="Marco Marega" creationdate="20160823T103941Z">
+        <seg>Il testo da ricercare può essere un numero o qualunque sequenza di caratteri.</seg>
       </tuv>
     </tu>
     <tu>
