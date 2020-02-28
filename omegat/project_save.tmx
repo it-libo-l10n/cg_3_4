@@ -7280,8 +7280,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Number&lt;/f0&gt; is the number that is to be converted into a Roman numeral.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200227T164832Z" creationid="Marco Marega" creationdate="20160823T103211Z">
-        <seg>aaaaaaaaaaaaaaaa&lt;f0&gt;Numero&lt;/f0&gt; è il numero da convertire in numero romano.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200228T113126Z" creationid="Marco Marega" creationdate="20160823T103211Z">
+        <seg>&lt;f0&gt;Numero&lt;/f0&gt; è il numero da convertire in numero romano.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9288,8 +9288,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;Mode&lt;/f1&gt; (optional) indicates the degree of simplification.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T103234Z" creationid="Marco Marega" creationdate="20160823T103234Z">
-        <seg>&lt;f1&gt;Modo&lt;/f1&gt; (facoltativo) indica il grado di semplificazione.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200228T114047Z" creationid="Marco Marega" creationdate="20160823T103234Z">
+        <seg>&lt;f1&gt;Modo&lt;/f1&gt; (opzionale) indica il grado di semplificazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12584,8 +12584,8 @@
       <tuv lang="EN">
         <seg>After the letter Z, the alphabet begins again (Rotation).&lt;f0&gt; &lt;/f0&gt;Applying the encryption function again to the resulting code, decrypts the text.&lt;f1&gt; &lt;/f1&gt;Text: Enter the character string to be encrypted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T103611Z" creationid="Marco Marega" creationdate="20160823T103611Z">
-        <seg>Dopo la lettera Z, l'alfabeto inizia nuovamente (Rotazione).&lt;f0&gt; &lt;/f0&gt;Applicando nuovamente la funzione di crittografia al codice risultante, il testo viene decriptato.&lt;f1&gt; &lt;/f1&gt;Testo: inserite la stinga di caratteri da criptare.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200228T114712Z" creationid="Marco Marega" creationdate="20160823T103611Z">
+        <seg>aaaaDopo la lettera Z, l'alfabeto inizia nuovamente (Rotazione).&lt;f0&gt; &lt;/f0&gt;Applicando nuovamente la funzione di crittografia al codice risultante, il testo viene decriptato.&lt;f1&gt; &lt;/f1&gt;Testo: inserite la stinga di caratteri da criptare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23176,8 +23176,8 @@
       <tuv lang="EN">
         <seg>Encrypts a character string by moving the characters 13 positions in the alphabet.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T103419Z" creationid="Marco Marega" creationdate="20160823T103419Z">
-        <seg>Crittografa un stringa di caratteri spostando ciascun carattere di 13 posizioni nell'alfabeto.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200228T114709Z" creationid="Marco Marega" creationdate="20160823T103419Z">
+        <seg>Crittografa una stringa di caratteri spostando ciascun carattere di 13 posizioni nell'alfabeto.</seg>
       </tuv>
     </tu>
     <tu>
