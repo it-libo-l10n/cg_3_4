@@ -12584,8 +12584,8 @@
       <tuv lang="EN">
         <seg>After the letter Z, the alphabet begins again (Rotation).&lt;f0&gt; &lt;/f0&gt;Applying the encryption function again to the resulting code, decrypts the text.&lt;f1&gt; &lt;/f1&gt;Text: Enter the character string to be encrypted.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200228T114712Z" creationid="Marco Marega" creationdate="20160823T103611Z">
-        <seg>aaaaDopo la lettera Z, l'alfabeto inizia nuovamente (Rotazione).&lt;f0&gt; &lt;/f0&gt;Applicando nuovamente la funzione di crittografia al codice risultante, il testo viene decriptato.&lt;f1&gt; &lt;/f1&gt;Testo: inserite la stinga di caratteri da criptare.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200228T140604Z" creationid="Marco Marega" creationdate="20160823T103611Z">
+        <seg>Dopo la lettera Z, l'alfabeto inizia nuovamente (rotazione).&lt;f0&gt; &lt;/f0&gt;Applicando nuovamente la funzione di crittografia al codice risultante, il testo viene decriptato.&lt;f1&gt; &lt;/f1&gt;Testo: inserite la stinga di caratteri da criptare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43648,8 +43648,8 @@
       <tuv lang="EN">
         <seg>ROT13(ROT13(Text)) decrypts the code.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T103633Z" creationid="Marco Marega" creationdate="20160823T103633Z">
-        <seg>ROT13(ROT13(Testo)) decripta il testo.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200228T140608Z" creationid="Marco Marega" creationdate="20160823T103633Z">
+        <seg>aaaaROT13(ROT13(Testo)) decripta il testo.</seg>
       </tuv>
     </tu>
     <tu>
