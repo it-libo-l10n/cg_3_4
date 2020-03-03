@@ -47080,8 +47080,8 @@
       <tuv lang="EN">
         <seg>SUBSTITUTE(text; search_text; new text; occurrence)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200228T155129Z" creationid="Marco Marega" creationdate="20160823T111954Z">
-        <seg>aaaaaaaaaaaaaaaaSOSTITUISCI(testo; cerca_testo; nuovo testo; occorrenza)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T135913Z" creationid="Marco Marega" creationdate="20160823T111954Z">
+        <seg>SOSTITUISCI(testo; cerca_testo; nuovo_testo; occorrenza)</seg>
       </tuv>
     </tu>
     <tu>
@@ -51392,8 +51392,8 @@
       <tuv lang="EN">
         <seg>Substitutes new text for old text in a string.</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="Marco Marega" changedate="20160823T112115Z" creationid="Marco Marega" creationdate="20160823T112115Z">
-        <seg>Sostituisce un testo con un nuovo testo all'interno di una stringa.</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200303T135916Z" creationid="Marco Marega" creationdate="20160823T112115Z">
+        <seg>aaaaSostituisce un testo con un nuovo testo all'interno di una stringa.</seg>
       </tuv>
     </tu>
     <tu>
