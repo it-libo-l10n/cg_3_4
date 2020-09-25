@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24208,8 +24208,8 @@
       <tuv lang="EN">
         <seg>FIND(find_text; text; position)</seg>
       </tuv>
-      <tuv lang="IT-IT" changeid="luke" changedate="20200220T164234Z" creationid="Marco Marega" creationdate="20160822T145159Z">
-        <seg>TROVA(cerca_testo; testo; posizione)</seg>
+      <tuv lang="IT-IT" changeid="luke" changedate="20200925T130116Z" creationid="Marco Marega" creationdate="20160822T145159Z">
+        <seg>aaaaaaaaaaaaaaaaTROVA(cerca_testo; testo; posizione)</seg>
       </tuv>
     </tu>
     <tu>
